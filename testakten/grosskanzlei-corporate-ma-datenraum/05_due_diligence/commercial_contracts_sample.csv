@@ -1,0 +1,3 @@
+doc_id,partner,typ,change_of_control,kuendigung,risiko
+C-001,Kunde A,Liefervertrag,ja,90 Tage,hoch
+C-002,Kunde B,Rahmenvertrag,nein,12 Monate,niedrig

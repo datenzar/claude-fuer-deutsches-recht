@@ -1,0 +1,5 @@
+id,path,type,workstream,clean_room
+1,01_Corporate/HRB_Auszug.pdf,register,corporate,no
+2,03_Commercial/Top10_Kunden.xlsx,commercial,commercial,no
+3,05_Regulatory/Exportkontrolle.pdf,regulatory,regulatory,yes
+4,07_Tax/Umwandlung_2024.pdf,tax,tax,no

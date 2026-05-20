@@ -255,6 +255,14 @@
       }
     },
     {
+      "name": "grosskanzlei-corporate-ma",
+      "source": "./grosskanzlei-corporate-ma",
+      "description": "Big-Law-Großkanzlei-Corporate/M&A-Plugin: Deal-Kommandocenter, Datenraum, Legal DD, Tabellenreview, Q&A, SPA/APA, Disclosure Schedules, Knowledge/Fair Disclosure, Signing/Closing, W&I, Public M&A, Umwandlung, StaRUG, Insolvenzplan, PMI.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-familienrecht",
       "source": "./fachanwalt-familienrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Familienrecht. Orientierung Normen typische Mandate Fristen Standardliteratur. Familiengericht FamFG Scheidung Sorgerecht Umgangsrecht Unterhalt Zugewinn Ehevertrag. Tiefe Bearbeitung erfordert weiterhin Fachanwaltsexpertise.",
