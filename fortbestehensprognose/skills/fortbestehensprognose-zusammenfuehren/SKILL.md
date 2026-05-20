@@ -11,6 +11,17 @@ description: Fuehrt alle Bausteine zusammen — bilanzieller Status Annahmen Pla
 
 **Ueberwiegend wahrscheinlich** bedeutet **mehr als 50 Prozent** Wahrscheinlichkeit (klassische BGH-Rspr. zur Vorhersage; bestaetigt durch IDW S 11).
 
+### Operativ — was bedeutet das?
+
+Die abstrakte Wahrscheinlichkeitsformel ist methodisch durch die **Zahlungsfaehigkeitsprognose** zu fuellen. Die Fortbestehensprognose ist genau dann positiv wenn das Unternehmen ueber den Zwoelf-Monats-Horizont mit ueberwiegender Wahrscheinlichkeit **nicht in die Zahlungsunfaehigkeit nach § 17 InsO geraet**. Das bedeutet konkret:
+
+- In jedem Zeitabschnitt der zwoelf Monate muessen **mindestens 90 Prozent** der dann faelligen Verbindlichkeiten aus den verfuegbaren Mitteln (Liquiditaetsbestand plus Kreditlinie plus rechtzeitig erzielbare Zufluesse) gedeckt werden koennen.
+- **Voruebergehende Unterdeckungen** ueber zehn Prozent duerfen hoechstens **drei Wochen** dauern und muessen mit ueberwiegender Wahrscheinlichkeit binnen dieser Frist wieder geschlossen werden (BGH IX ZR 123/04, BGHZ 163, 134).
+
+Wenn die Liquiditaetsplanung in jedem Zeitabschnitt diese Schwelle einhaelt — auch im plausibilisierten Negativ-Szenario — ist die Fortbestehensprognose **positiv**. Wenn die Schwelle in einem oder mehreren Zeitabschnitten oder ueber laengere Phasen reisst und auch durch Sanierungsbausteine nicht verbindlich geschlossen werden kann ist die Prognose **negativ**.
+
+Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose ist also nicht abstrakt zu vermuten sondern aus dem Liquiditaetsplan und seiner Sensitivitaet abzuleiten: ueber das Basis-Szenario hinaus muss auch das **plausible Negativ-Szenario** die Schwelle einhalten — andernfalls reicht die Wahrscheinlichkeit nicht aus.
+
 ## Pruefablauf
 
 ### Schritt 1 — Bilanzielle Ueberschuldung gegeben?

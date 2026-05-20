@@ -100,9 +100,22 @@ ueberschritten. Mit Massnahmen aus Skill sanierungsbausteine-vorschlagen
 ist die Liquiditaet ueber den Horizont zu sichern.
 ```
 
-## Hinweis zur 90-Prozent-Schwelle
+## 90-Prozent-Deckung ist der operative Massstab
 
-Die in der Praxis manchmal genannte Faustregel „mehr als 90 Prozent der Forderungen sollten gedeckt sein" ist eine **Praxis-Pruefroutine** und stammt aus der Zahlungsfaehigkeitspruefung § 17 InsO (10-Prozent-Schwelle nach BGHZ 163 134). Sie ist **keine eigenstaendige Schwelle** fuer die Fortbestehensprognose nach § 19 Abs. 2 InsO. Massgeblich ist dort die **ueberwiegende Wahrscheinlichkeit** dass das Unternehmen im Prognosezeitraum zahlungsfaehig bleibt — also dass keine Zahlungsunfaehigkeit eintritt (mehr als 50 Prozent Wahrscheinlichkeit).
+Die „ueberwiegende Wahrscheinlichkeit" nach § 19 Abs. 2 InsO ist nicht abstrakt zu pruefen, sondern operativ ueber den Liquiditaetsplan. Das Unternehmen ist „ueberwiegend wahrscheinlich fortfuehrbar" wenn ueber den gesamten Zwoelf-Monats-Horizont mit hoher Wahrscheinlichkeit **keine Zahlungsunfaehigkeit nach § 17 InsO eintritt**. Damit gilt durchgehend der BGH-Massstab aus BGHZ 163, 134 (BGH IX ZR 123/04):
+
+- **In jedem Zeitabschnitt** muss die Deckung der faelligen Verbindlichkeiten mindestens **90 Prozent** betragen (Liquiditaetsluecke unter zehn Prozent).
+- **Eine voruebergehende Luecke** ueber zehn Prozent darf hoechstens **drei Wochen** andauern. Wer laenger als drei Wochen unter 90 Prozent Deckung liegt ist nach BGH zahlungsunfaehig — und das ist gerade nicht „fortfuehrbar".
+- **Ueber den vollen Zwoelf-Monats-Horizont** muss diese Schwelle eingehalten werden — andernfalls ist die Fortbestehensprognose **negativ**.
+
+Die „mehr als 50 Prozent Wahrscheinlichkeit" der Prognose bezieht sich darauf dass dieses Szenario (Einhaltung der BGH-Schwelle ueber zwoelf Monate) eintritt — also nicht ein abstrakter Erfolgswert sondern die methodische Wahrscheinlichkeit dass das Unternehmen die 90-Prozent-Deckung bzw. die Drei-Wochen-Karenz **ueber den gesamten Horizont durchhaelt**.
+
+**Konsequenz fuer die Liquiditaetsprognose:**
+
+- Pro Monat (besser pro Woche in kritischen Phasen): Liquiditaetsbestand plus Linie / faellige Verbindlichkeiten = Deckungsquote.
+- Deckungsquote in jedem Zeitabschnitt mindestens **90 Prozent**.
+- Bei Unterschreitung max. drei Wochen — danach muss die Quote zwingend ueber 90 Prozent zurueckkehren.
+- Im Negativ- und Stress-Szenario diese Pruefung **wiederholen**. Wenn auch das Negativ-Szenario die Schwelle einhaelt: starke Prognose. Wenn nur das Basis-Szenario einhaelt aber das Negativ-Szenario reisst: knappe Prognose — nur mit zusaetzlichen verbindlichen Massnahmen positiv.
 
 ## Ausgabe
 

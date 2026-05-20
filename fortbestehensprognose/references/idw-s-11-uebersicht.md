@@ -42,6 +42,19 @@ Nach IDW S 11:
 - **Liquiditätsplanung** monatlich, in kritischen Phasen wochenbezogen.
 - Alle drei verknüpft.
 
+### Operativer Maßstab — durchgehende Zahlungsfähigkeit § 17 InsO
+
+Die "überwiegende Wahrscheinlichkeit" der Fortführung ist methodisch nichts anderes als die Wahrscheinlichkeit dass das Unternehmen über den 12-Monats-Horizont **nicht in die Zahlungsunfähigkeit nach § 17 InsO** gerät. Das ist der Grund warum die Liquiditätsplanung den Kern der Prognose bildet.
+
+In der Liquiditätsplanung muss in **jedem Zeitabschnitt** das BGH-Schema aus **BGHZ 163, 134 (BGH IX ZR 123/04, 24.05.2005)** eingehalten werden:
+
+- **Deckung der fälligen Verbindlichkeiten mindestens 90 Prozent** (Liquiditätslücke unter zehn Prozent).
+- **Vorübergehende Unterdeckung höchstens drei Wochen** und mit Aussicht auf Schließung binnen dieser Frist.
+
+Wird die Schwelle in einem Zeitabschnitt oder über mehrere Wochen unterschritten und ist eine Schließung nicht überwiegend wahrscheinlich, ist das Unternehmen in diesem Szenario zahlungsunfähig — und damit nicht "fortführbar" im Sinne von § 19 Abs. 2 InsO.
+
+Die Prognose ist nur dann tragfähig wenn die 90-Prozent-Schwelle nicht nur im Basis-Szenario sondern auch im plausibel begründeten **Negativ-Szenario** eingehalten wird.
+
 ### 2. Begründete Annahmen
 
 - Umsatz, Kosten, Working Capital, Investitionen, Finanzierung.
