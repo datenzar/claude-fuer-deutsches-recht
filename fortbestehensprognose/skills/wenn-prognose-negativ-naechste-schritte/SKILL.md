@@ -13,7 +13,7 @@ Wenn die Fortbestehensprognose negativ ausfaellt liegt **insolvenzrechtliche Üb
 
 ### 1. Insolvenzanwalt einschalten
 
-- Insolvenzanwalt aus dem Profil (Skill `kaltstart-interview`).
+- Insolvenzanwalt aus dem Profil (Skill `fortbestehensprognose-kaltstart-interview`).
 - Termin innerhalb der nächsten 48 Stunden.
 - Vorlage: vollständige Prognosedokumentation aus Skill `prognose-dokumentation-stichtag`.
 

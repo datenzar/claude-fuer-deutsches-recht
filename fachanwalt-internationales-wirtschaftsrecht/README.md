@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. CISG UN-Kaufrecht Bruessel Ia VO Rom I und Rom II VO grenzueberschreitende Vertragspraxis Schiedsverfah… |
+| `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. CISG UN-Kaufrecht Bruessel Ia VO Rom I und Rom II VO grenzueberschreitende Vertragspraxis Schiedsverfah… |
 
 ## Lizenz
 

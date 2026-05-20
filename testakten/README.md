@@ -26,7 +26,7 @@ Jede Akte wird beim Release-Build als eigenes ZIP an den GitHub-Release angehän
 
 1. Akte als ZIP herunterladen oder in Claude Code per Drag-and-drop bereitlegen.
 2. Das passende Plugin laden (Spalte „Passt zu" oben).
-3. Den **Kaltstart-Skill** des Plugins aufrufen (heißt in den meisten Plugins `kaltstart-interview`) — er liest den unstrukturierten Datenraum, sortiert die Anlagen, stellt gezielte Rückfragen und schlägt den nächsten konkreten Arbeitsschritt vor.
+3. Den **Kaltstart-Skill** des Plugins aufrufen (heißt in den meisten Plugins `<plugin>-kaltstart-interview`, z. B. `arbeitsrecht-kaltstart-interview`) — er liest den unstrukturierten Datenraum, sortiert die Anlagen, stellt gezielte Rückfragen und schlägt den nächsten konkreten Arbeitsschritt vor.
 4. Den eigentlichen Arbeits-Skill anstoßen: Widerspruch, Klage, Jahresbericht, Liquiditätsvorschau, Fortbestehensprognose. Die Akten sind so geschnitten, dass die Skills eine vollständige Anlagen­benennung samt Anlagen­verzeichnis erzeugen können.
 
 ## Disclaimer

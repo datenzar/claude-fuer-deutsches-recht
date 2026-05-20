@@ -19,7 +19,7 @@ Skills in den beobachteten Registries finden. Suchen, Vorschau anzeigen, entsche
 
 ### Schritt 1: Kanzleiprofil laden
 
-Beobachtete Registries aus dem Config-Pfad lesen. Wenn keine Registries konfiguriert sind, hinweisen: „Keine beobachteten Registries konfiguriert. Führen Sie `/kanzlei-builder-hub:kaltstart-interview` aus oder geben Sie eine Registry-URL an."
+Beobachtete Registries aus dem Config-Pfad lesen. Wenn keine Registries konfiguriert sind, hinweisen: „Keine beobachteten Registries konfiguriert. Führen Sie `/kanzlei-builder-hub:kanzlei-builder-hub-kaltstart-interview` aus oder geben Sie eine Registry-URL an."
 
 Praxisprofil lesen (Rechtsgebiet, Kanzleityp) um Suchergebnisse zu gewichten und unpassende Skills als solche zu kennzeichnen.
 

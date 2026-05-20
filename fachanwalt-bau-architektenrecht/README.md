@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Bau- und Architektenrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Privates Baurecht (BGB Werkvertrag § 631 ff. Bauvertrag §§ 650a ff. BGB seit 2018 VOB-A VOB-B VOB-C) u… |
+| `fachanwalt-bau-architektenrecht-orientierung` | Orientierung im Bau- und Architektenrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Privates Baurecht (BGB Werkvertrag § 631 ff. Bauvertrag §§ 650a ff. BGB seit 2018 VOB-A VOB-B VOB-C) u… |
 
 ## Lizenz
 

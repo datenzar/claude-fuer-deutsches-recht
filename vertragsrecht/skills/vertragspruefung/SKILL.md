@@ -134,7 +134,7 @@ Lädt, wenn der Nutzer einen Vertrag zur Prüfung einreicht.
 Lies `~/.claude/plugins/config/klotzkette/vertragsrecht/CLAUDE.md`.
 Enthält es `[PLATZHALTER]`:
 
-> Führen Sie zuerst `/vertragsrecht:kaltstart-interview` aus — ich
+> Führen Sie zuerst `/vertragsrecht:vertragsrecht-kaltstart-interview` aus — ich
 > benötige Ihr Playbook, bevor ich dagegen prüfen kann.
 
 Lies auch `## Prüfungseinstellungen` → `routing_bestätigen`. Fehlt das

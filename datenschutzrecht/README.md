@@ -38,21 +38,21 @@ Das Plugin befragt Sie zur Identifikation Ihrer Organisation: Verantwortlicher o
 Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/datenschutzrecht/CLAUDE.md` und bleibt bei Plugin-Updates erhalten.
 
 ```
-/datenschutzrecht:kaltstart-interview
+/datenschutzrecht:datenschutzrecht-kaltstart-interview
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/datenschutzrecht:kaltstart-interview` | Ersteinrichtung |
+| `/datenschutzrecht:datenschutzrecht-kaltstart-interview` | Ersteinrichtung |
 | `/datenschutzrecht:anwendungsfall-triage [Verarbeitungstätigkeit]` | Benötigt diese Verarbeitung eine DSFA? Triage + Rechtsgrundlage |
 | `/datenschutzrecht:avv-pruefung [Datei]` | AVV-Prüfung nach Art. 28 DSGVO (Richtung automatisch erkannt) |
 | `/datenschutzrecht:dsgvo-auskunft-antwort` | Betroffenenanfrage (Art. 15–22 DSGVO) vollständig bearbeiten |
 | `/datenschutzrecht:dsfa-erstellung [Vorhaben]` | DSFA nach Art. 35 DSGVO erstellen |
 | `/datenschutzrecht:regulierungs-luecken-analyse [Leitlinie/Gesetz]` | Lückenanalyse neue Anforderung vs. aktueller Praxis |
 | `/datenschutzrecht:richtlinien-monitor` | Wöchentlicher Drift-Scan der Datenschutzerklärung und Richtlinien |
-| `/datenschutzrecht:mandat-arbeitsbereich` | Mandate verwalten (für Mehrmandat-Kanzleien): neu, liste, wechsle, schließe |
+| `/datenschutzrecht:datenschutzrecht-mandat-arbeitsbereich` | Mandate verwalten (für Mehrmandat-Kanzleien): neu, liste, wechsle, schließe |
 
 ## Skills
 
@@ -75,7 +75,7 @@ Die Konfiguration wird gespeichert unter `~/.claude/plugins/config/claude-fuer-d
 ### 1. Einrichtung
 
 ```
-/datenschutzrecht:kaltstart-interview
+/datenschutzrecht:datenschutzrecht-kaltstart-interview
 ```
 
 Bereithalten: URL Ihrer Datenschutzerklärung, AVV-Mustervorlage, eine abgeschlossene DSFA.

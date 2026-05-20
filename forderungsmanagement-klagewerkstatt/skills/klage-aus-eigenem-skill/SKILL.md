@@ -40,3 +40,13 @@ Identisch zum Schwester-Skill (siehe dort): § 253 ZPO, §§ 130, 130a, 130d ZPO
 ## Übergabe
 
 Wenn die Hausvorlage erkennbar veraltet ist (z. B. Zitierungen oder Gerichtsstand-Klauseln nicht mehr aktuell), zurück an `klagevorlage-aus-eigenen-mustern` zum aktualisierten Lernlauf.
+
+## Werkzeug: `werkzeuge/verzugszins_rechner.py`
+
+Konsolen-Rechner für Verzugszinsen nach §§ 286, 288 BGB:
+
+- B2C: Basiszinssatz + 5 Prozentpunkte (§ 288 Abs. 1 BGB),
+- B2B: Basiszinssatz + 9 Prozentpunkte (§ 288 Abs. 2 BGB),
+- taggenau, mit Aufsplittung in alle Basiszinsperioden zwischen Verzugsbeginn und -ende.
+
+Aufruf: `python3 werkzeuge/verzugszins_rechner.py --forderung 10000 --beginn 2024-03-01 --ende 2025-09-30 --art b2b`. Basiszinssatz-Tabelle nach § 247 BGB ist im Code hinterlegt und vor jedem Halbjahreswechsel zu pflegen (Bundesbank-Veröffentlichung 1. Januar / 1. Juli).

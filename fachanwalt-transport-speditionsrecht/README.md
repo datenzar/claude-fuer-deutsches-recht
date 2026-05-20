@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Transport- und Speditionsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung des Frachtfuehrers §§ 453 ff. Speditionsvertrag §… |
+| `fachanwalt-transport-speditionsrecht-orientierung` | Orientierung im Transport- und Speditionsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung des Frachtfuehrers §§ 453 ff. Speditionsvertrag §… |
 
 ## Lizenz
 

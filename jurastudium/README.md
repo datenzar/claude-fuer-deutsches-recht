@@ -33,7 +33,7 @@ Jurastudierende ab dem 1. Semester bis zum 2. Staatsexamen:
 Dieser Schritt dreht sich um dich: Fachsemester, Bundesland, JAG-Anforderungen, Lernstil (Drill oder Erklärung). Bringe Material mit: eigene Gliederungen, benotete Klausuren, alte Examsklausuren (vor allem vom eigenen JPA), Seminarunterlagen, Vorlesungsskripte. Zehn bis zwanzig Positionen sind das Ziel; darunter wird das Lernprofil als `WENIG MATERIAL` markiert und nachgelagerte Skills sind dünner.
 
 ```
-/jurastudium:kaltstart-interview
+/jurastudium:jurastudium-kaltstart-interview
 ```
 
 ## Skills
@@ -42,7 +42,7 @@ Jeder Skill wird als `/jurastudium:<skill-name>` aufgerufen.
 
 | Skill | Funktion |
 |---|---|
-| `/jurastudium:kaltstart-interview` | Über-dich-Interview + Materialaufnahme – Fachsemester, Bundesland, JAG, Lernstil, Materialien |
+| `/jurastudium:jurastudium-kaltstart-interview` | Über-dich-Interview + Materialaufnahme – Fachsemester, Bundesland, JAG, Lernstil, Materialien |
 | `/jurastudium:sokratisches-drillen [Rechtsgebiet]` | Sokratisches Drilling – das Plugin fragt, du antwortest, es hakt nach. Gibt keine Antwort vor. |
 | `/jurastudium:fall-zusammenfassung [Sachverhalt/Fall]` | Fallbearbeitung im Gutachtenstil (Obersatz – Definition – Subsumtion – Ergebnis) |
 | `/jurastudium:gliederungs-baukasten [Rechtsgebiet]` | Lern-Outline / Strukturen pro Rechtsgebiet aufbauen oder erweitern |

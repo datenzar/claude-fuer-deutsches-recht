@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbezeichnung Normen typische Mandate Fristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Tiefe Bearbeitung erfordert weiterhin Fachanwal… |
+| `fachanwalt-familienrecht-orientierung` | Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbezeichnung Normen typische Mandate Fristen Standardliteratur. Light-Touch-Plugin fuer schnelle Verortung. Tiefe Bearbeitung erfordert weiterhin Fachanwal… |
 
 ## Lizenz
 

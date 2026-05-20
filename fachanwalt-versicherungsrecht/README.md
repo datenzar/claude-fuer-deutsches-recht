@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VVG (Versicherungsvertragsgesetz) VAG (Versicherungsaufsichtsgesetz) Berufsunfaehigkeit Krankenversicherung L… |
+| `fachanwalt-versicherungsrecht-orientierung` | Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VVG (Versicherungsvertragsgesetz) VAG (Versicherungsaufsichtsgesetz) Berufsunfaehigkeit Krankenversicherung L… |
 
 ## Lizenz
 

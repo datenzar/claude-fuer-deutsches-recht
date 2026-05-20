@@ -217,9 +217,23 @@ Zusätzlich:
 - [`references/zitierweise.md`](./references/zitierweise.md) – die deutsche Zitierweise (BGH-Stil), an der sich alle Skills orientieren.
 - [`references/methodik-deutsches-recht.md`](./references/methodik-deutsches-recht.md) – Methodenlehre, Anspruchsgrundlagenreihenfolge, Beweislast, Fristen.
 
+## Reifegrade der Plugins
+
+Die Plugins unterscheiden sich darin, wie weit ihre Werkzeugkette über reinen Skill-Text hinausgeht. Drei Reifegrade:
+
+| Reifegrad | Bedeutung | Beispiele |
+|---|---|---|
+| **L1 — skilltext-only** | Skill liefert strukturierte Texte (Schreiben, Schriftsätze, Memos, Gutachten-Skizzen). Keine eigenen Werkzeuge. | Großteil der 17 Fachanwalts-Plugins (`fachanwalt-erbrecht`, `fachanwalt-arbeitsrecht`, …), `methodenlehre-deutsches-recht`, `zitierweise-deutsches-recht`, `jurastudium`. |
+| **L2 — mit Werkzeugen** | Skill ruft Python- oder XLSX-Werkzeuge im Plugin-Ordner auf, die kalkulieren, Dateien bauen oder Vorlagen generieren. | `liquiditaetsplanung`, `insolvenzrecht`, `steuerberater-werkzeuge` (build_liquiditaetsplan.py); `anlagen-zu-schriftsaetzen` (build_anlagenkonvolut.py); `kanzlei-cowork/rechnungserstellung-rvg` (rvg_gebuehrenrechner.py); `forderungsmanagement-klagewerkstatt` (verzugszins_rechner.py); `aktenaufbereiter-strafrecht` (aktenuebersicht_template.xlsx). |
+| **L3 — mit Tests** | Plugin ist zusätzlich durch einen Smoke-Test in [`tests/smoke-tests.md`](./tests/smoke-tests.md) abgedeckt — Eingang, Kaltstart-Skill, erwarteter Output, Abbruchkriterium. | Aktuell: `liquiditaetsplanung`, `insolvenzrecht`, `fluggastrechte`, `sozialrecht`, `betreuungsrecht`, `berufsrecht-ki-vertragspruefung`, `anlagen-zu-schriftsaetzen`, `forderungsmanagement-klagewerkstatt`, `kanzlei-cowork`. |
+
+Für einen neuen Plugin gilt: L1 ist der akzeptable Start, L2 wird angestrebt, sobald wiederkehrende Berechnungen oder Dateigenerate sichtbar werden, und L3 wird vor einem Release gesetzt, wenn der Plugin fachlich-substanziell beansprucht wird.
+
 ## Schnellstart
 
 Dieses Skill-Set lässt sich auf drei Wegen einbinden. Empfohlen ist **Weg 1** über die grafische Oberfläche; **Weg 2** für gezielten ZIP-Upload einer bestimmten Version; **Weg 3** für Claude Code im Terminal.
+
+> 📆 **Release- vs. main-Stand.** Der **letzte Release-Tag** ist [v2.1.0](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest). Über **Weg 1 (Marketplace-Sync)** und **Weg 3 (Marketplace-Kommando)** wird der `main`-Branch geladen — das ist meist **neuer** als der letzte Release-Tag (Zwischen-Commits mit Fixes, neuen Tests, kleinen Ergänzungen). Über **Weg 2 (ZIP-Upload aus Release)** bekommst du den **getaggten, validierten Stand**. Für Stabilität → Weg 2; für neueste Korrekturen → Weg 1/3.
 
 > 💡 **Findest du in Cowork kein Feld für den GitHub-Pfad?** Dann ist in deiner Oberfläche der Marketplace-Weg vermutlich noch nicht freigeschaltet. Lade die Plugin-ZIPs einzeln aus dem [Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) herunter und installiere sie über denselben Dialog, mit dem du z. B. „Legal Plugin" installierst. Schritt für Schritt erklärt: **[INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md)**.
 

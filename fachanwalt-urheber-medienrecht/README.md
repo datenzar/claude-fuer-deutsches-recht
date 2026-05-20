@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. UrhG (Werke Verwertungsrechte Schranken) Verwertungsgesellschaften (GEMA VG Wort VG Bild-Kunst) KUG (Re… |
+| `fachanwalt-urheber-medienrecht-orientierung` | Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. UrhG (Werke Verwertungsrechte Schranken) Verwertungsgesellschaften (GEMA VG Wort VG Bild-Kunst) KUG (Re… |
 
 ## Lizenz
 

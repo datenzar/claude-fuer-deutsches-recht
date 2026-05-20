@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TTDSG TKG NIS2-Umsetzungsgesetz DDG (vormals TMG) … |
+| `fachanwalt-it-recht-orientierung` | Orientierung im Informationstechnologierecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. Vertragsrecht IT (Software-Lizenz SaaS Cloud) DSGVO BDSG TTDSG TKG NIS2-Umsetzungsgesetz DDG (vormals TMG) … |
 
 ## Lizenz
 

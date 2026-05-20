@@ -61,7 +61,7 @@ Dieses Plugin senkt die Zeitkosten für alles **rund um die Rechtsarbeit**, dami
 ## Schnellstart
 
 ```
-/rechtsberatungsstelle:kaltstart-interview   # Anleiter: Beratungsstelle konfigurieren
+/rechtsberatungsstelle:rechtsberatungsstelle-kaltstart-interview   # Anleiter: Beratungsstelle konfigurieren
 /rechtsberatungsstelle:einarbeitung                   # Studierender: Einarbeitung zum Semesterbeginn
 /rechtsberatungsstelle:mandant-aufnahme          # Neues Mandat aufnehmen
 /rechtsberatungsstelle:memo                   # Gutachtenstil-Memo erstellen
@@ -122,8 +122,8 @@ Anerkannte Beratungsträger (AWO, Caritas, Diakonie, DRK, Paritätischer) arbeit
 | `mandanten-kommunikations-log` | Mandantenkommunikations-Logbuch | § 43a BRAO, § 203 StGB |
 | `mandant-aufnahme` | Intake mit RDG-Konfliktprüfung | § 6 II Nr. 2 RDG |
 | `mandantenbrief` | Mandantenbrief in einfacher Sprache | BORA |
-| `kaltstart-interview` | Ersteinrichtung der Beratungsstelle | RDG, BRAO |
-| `anpassen` | Beratungsstellenprofil anpassen | – |
+| `rechtsberatungsstelle-kaltstart-interview` | Ersteinrichtung der Beratungsstelle | RDG, BRAO |
+| `rechtsberatungsstelle-anpassen` | Beratungsstellenprofil anpassen | – |
 | `fristen` | Fristenkontrolle | § 84 SGG, § 74 VwGO, §§ 36, 74 AsylG |
 | `entwurf` | Schriftsatzentwurf | ZPO, VwGO, SGG |
 | `formular-erzeugung` | Formularerstellung (PKH, BerHG, KSchG) | §§ 114 ff. ZPO, BerHG |

@@ -17,7 +17,7 @@ Verträge sammeln über die Zeit Nachträge an. Spätestens beim dritten Nachtra
 
 ## Akten-Kontext
 
-Falls Akten-Arbeitsbereiche aktiviert sind (Kanzleibetrieb), die aktive Akte prüfen. Wenn keine aktive Akte vorhanden: „Für welche Akte ist das? `/vertragsrecht:mandat-arbeitsbereich wechsel <kürzel>` ausführen oder `praxisebene` angeben." Ausgaben in den Akten-Ordner schreiben. Nie eine andere Akte lesen, solange der aktenübergreifende Kontext nicht eingeschaltet ist.
+Falls Akten-Arbeitsbereiche aktiviert sind (Kanzleibetrieb), die aktive Akte prüfen. Wenn keine aktive Akte vorhanden: „Für welche Akte ist das? `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechsel <kürzel>` ausführen oder `praxisebene` angeben." Ausgaben in den Akten-Ordner schreiben. Nie eine andere Akte lesen, solange der aktenübergreifende Kontext nicht eingeschaltet ist.
 
 ## Ablauf
 

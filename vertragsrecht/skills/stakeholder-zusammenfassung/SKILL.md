@@ -73,7 +73,7 @@ sie wesentliche Risiken weglassen.
 
 Prüfe `## Mandatsarbeitsbereiche` im Kanzleiprofil. Wenn aktiviert und
 kein aktives Mandat gesetzt: „Für welches Mandat ist diese Zusammenfassung?
-(`/vertragsrecht:mandat-arbeitsbereich wechseln <kürzel>` oder `kanzleiebene`)."
+(`/vertragsrecht:vertragsrecht-mandat-arbeitsbereich wechseln <kürzel>` oder `kanzleiebene`)."
 Aktive `mandat.md` für mandatsspezifischen Kontext laden.
 
 ### Schritt 2 — Privilegkreis-Check

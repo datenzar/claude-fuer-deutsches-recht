@@ -6,6 +6,8 @@
 
 ## Kurzfassung
 
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v2.1.0`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
 3. In Claude Desktop / Cowork auf **Customize → Skills** klicken und zum Abschnitt **Persönliche Plugins / Personal plugins** scrollen — genau die Stelle, an der auch „Legal Plugin" installiert wird.

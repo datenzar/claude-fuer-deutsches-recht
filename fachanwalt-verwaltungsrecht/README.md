@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VwGO Verwaltungsverfahrensgesetz des Bundes und der Laender Polizei- und Ordnungsrecht Bauplanung und Bauordnun… |
+| `fachanwalt-verwaltungsrecht-orientierung` | Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VwGO Verwaltungsverfahrensgesetz des Bundes und der Laender Polizei- und Ordnungsrecht Bauplanung und Bauordnun… |
 
 ## Lizenz
 

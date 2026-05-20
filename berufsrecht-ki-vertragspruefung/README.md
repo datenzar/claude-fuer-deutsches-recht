@@ -47,7 +47,7 @@ Die Dienstleisterregelungen sind nahezu wortgleich aufgebaut. Das Plugin abstrah
 
 | Skill | Zweck |
 |---|---|
-| `kaltstart-interview` | Beruf, Anbieter, Datenarten, Vertragstyp erfassen |
+| `berufsrecht-ki-vertragspruefung-kaltstart-interview` | Beruf, Anbieter, Datenarten, Vertragstyp erfassen |
 | `erforderlichkeit-dokumentieren` | Erforderlichkeit der Offenlegung (Abs. 1) — unternehmerischer Beurteilungsspielraum nach DAV |
 | `verschwiegenheitsklausel-pruefen` | Textform, jedermann, zeitlich unbegrenzt, alle Berufsgeheimnisse |
 | `strafrechtliche-belehrung-pruefen` | Belehrung über §§ 203, 204 StGB; Anlage Normtext |

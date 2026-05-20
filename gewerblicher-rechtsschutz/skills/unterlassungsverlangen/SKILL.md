@@ -27,7 +27,7 @@ Abmahnungen nach deutschem Recht dienen der Geltendmachung von Unterlassungsansp
 ## Ablauf – Sendemodus
 
 ### 1. Kanzleiprofil lesen
-Durchsetzungsstrategie und Genehmigungsmatrix laden. Enthält das Profil `[PLATZHALTER]`, stoppen und auf `kaltstart-interview` hinweisen.
+Durchsetzungsstrategie und Genehmigungsmatrix laden. Enthält das Profil `[PLATZHALTER]`, stoppen und auf `gewerblicher-rechtsschutz-kaltstart-interview` hinweisen.
 
 ### 2. Verletzung rechtlich einordnen
 

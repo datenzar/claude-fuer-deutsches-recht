@@ -35,7 +35,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 Fragt ab, in welchen Bundesländern und Ländern Mitarbeiter beschäftigt sind, liest Ihr Personalhandbuch und drei aktuelle Kündigungsunterlagen, erstellt eine standortbezogene Eskalationstabelle und speichert die Kanzlei- oder Unternehmenskonfiguration.
 
 ```
-/arbeitsrecht:kaltstart-interview
+/arbeitsrecht:arbeitsrecht-kaltstart-interview
 ```
 
 Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` gespeichert und übersteht Plugin-Updates.
@@ -51,7 +51,7 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 
 | Skill | Funktion |
 |---|---|
-| `/arbeitsrecht:kaltstart-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
+| `/arbeitsrecht:arbeitsrecht-kaltstart-interview` | Ersteinrichtung – Standortprofil, Eskalationsregeln, Handbuchwissen |
 | `/arbeitsrecht:einstellungspruefung` | Arbeitsvertragsprüfung: Befristung (TzBfG), AGG, AÜG, Nachweisgesetz |
 | `/arbeitsrecht:kuendigungs-pruefung` | Kündigungsprüfung: KSchG, § 102 BetrVG, §§ 622, 626 BGB, Sozialauswahl |
 | `/arbeitsrecht:kuendigungsschutzklage` | Entwurf und Prüfung der KSchG-Klage, § 4 KSchG, 3-Wochen-Frist, Klageschrift ArbG |
@@ -72,8 +72,8 @@ Die Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-rec
 | `/arbeitsrecht:untersuchungs-zusammenfassung` | Zielgruppenspezifische Zusammenfassung (HR, Geschäftsführung, Außenanwalt) |
 | `/arbeitsrecht:handbuch-aktualisierung` | Personalrichtlinien diff und Betriebsvereinbarungsauswirkungen prüfen |
 | `/arbeitsrecht:richtlinien-entwurf [Thema]` | BetrVG-konforme Richtlinie entwerfen, BR-Anhörung planen |
-| `/arbeitsrecht:mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
-| `/arbeitsrecht:anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
+| `/arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich` | Mandatsakte verwalten (multi-mandant): neu, auflisten, wechseln, schließen, keine |
+| `/arbeitsrecht:arbeitsrecht-anpassen` | Kanzlei-/Unternehmensprofil gezielt anpassen |
 
 ## Interaktive Skills vs. geplante Agenten
 

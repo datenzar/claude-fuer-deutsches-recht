@@ -1,7 +1,7 @@
 {
   "name": "methodenlehre-deutsches-recht",
   "version": "0.1.0",
-  "description": "Juristische Methodenlehre fuer alle Bewertungen. Gutachten- vor Urteilsstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos mit Vorrang der historischen Methode. Generalklauseln als Auffang. Ruethers-Warnung vor unbegrenzter Auslegung. Standardstruktur deutsches Memo.",
+  "description": "Juristische Methodenlehre für alle Bewertungen. Gutachten- vor Urteilsstil. Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut System Historie Telos mit Vorrang der historischen Methode. Generalklauseln als Auffang. Rüthers-Warnung vor unbegrenzter Auslegung. Standardstruktur deutsches Memo.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

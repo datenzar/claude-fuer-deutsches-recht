@@ -150,3 +150,13 @@ Auch wenn der Skill technisch zuverlässig stempelt und sortiert: die **Letztver
 - „Anlagenkonvolut für die Replik bauen, der Schriftsatz nennt schon K 23 bis K 31."
 - „Ich habe das selbst zugeordnet — bitte einmal Prüfmodus drüber."
 - „Mach ein einziges PDF, Schriftsatz vorne, dann Anlagen, mit Lesezeichen."
+
+## Werkzeug: `werkzeuge/build_anlagenkonvolut.py`
+
+Im Skill-Ordner liegt ein Python-Werkzeug, das aus einem Eingangsordner mit beA-konform benannten Einzel-PDFs (`Anlage_K-01_…pdf`, `Anlage_K-02_…pdf`, …) automatisch:
+
+- den Stempel **Anlage K 7** in Arial 12 pt oben rechts setzt (Seite 1 jeder Anlage),
+- alle Anlagen zu einem Konvolut-PDF mit Lesezeichen verkettet,
+- ein **Anlagenverzeichnis** als Markdown und als PDF erzeugt.
+
+Aufruf: `python3 werkzeuge/build_anlagenkonvolut.py --eingang ./anlagen --ausgang ./konvolut --praefix K --schriftsatz "Klage Edelholz GmbH"`. Abhängigkeiten: `pypdf`, `reportlab`. Schwärzungen und Echtheitsprüfungen bleiben Sache des Anwalts.

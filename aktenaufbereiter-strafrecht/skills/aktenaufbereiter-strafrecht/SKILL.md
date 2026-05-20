@@ -210,3 +210,13 @@ beschleunigt das bisherige Verfahren. Wer Chronologien in Excel
 fuehrt fuehrt sie weiter — nur eben schneller und vollständiger.
 Wer im Mandantengespraech präzise auf Blatt 312 zugreifen können
 muss findet die Stelle in Sekunden statt in Minuten.
+
+## Werkzeug: `werkzeuge/aktenuebersicht_template.xlsx`
+
+Vorlage für eine strukturierte Aktenübersicht mit drei Sheets:
+
+1. **Beweismittel** — Lfd-Nr., Datum, Aktenfundstelle (Band/Blatt), Vorgang, Beweismittel, Beweisthema, Antrag/Verzicht, Status, Bemerkung. Als Excel-Tabelle formatiert (AutoFilter, Banded Rows).
+2. **Fristen** — Akteneinsicht, Hauptverhandlung, Erinnerungen, Status.
+3. **Lesehinweise** — Konvention zur Pflege der Aktenübersicht.
+
+Die Vorlage ersetzt nicht die Aktenführung im Kanzleisystem, sondern strukturiert die Verteidigerarbeit beim Lesen der Ermittlungsakte.

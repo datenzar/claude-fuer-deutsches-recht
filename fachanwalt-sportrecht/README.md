@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Sportrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Verbandsrecht der Sportverbaende DFB FIFA UEFA IOC DOSB Vereinsrecht BGB §§ 21 ff. Schiedsgerichtsbarkeit CAS Court o… |
+| `fachanwalt-sportrecht-orientierung` | Orientierung im Sportrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Verbandsrecht der Sportverbaende DFB FIFA UEFA IOC DOSB Vereinsrecht BGB §§ 21 ff. Schiedsgerichtsbarkeit CAS Court o… |
 
 ## Lizenz
 

@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkuerte Erbfolge Testament Erbvertrag Pflichtteil Vermaechtnis)… |
+| `fachanwalt-erbrecht-orientierung` | Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkuerte Erbfolge Testament Erbvertrag Pflichtteil Vermaechtnis)… |
 
 ## Lizenz
 

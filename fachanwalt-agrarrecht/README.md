@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Hoefeordnung (HoefeO) Anerbenrecht der Bundeslaender Landpachtrecht (BGB §§ 581 ff.) Grundstuecksverkehrsgesetz GVG-G… |
+| `fachanwalt-agrarrecht-orientierung` | Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Hoefeordnung (HoefeO) Anerbenrecht der Bundeslaender Landpachtrecht (BGB §§ 581 ff.) Grundstuecksverkehrsgesetz GVG-G… |
 
 ## Lizenz
 

@@ -37,7 +37,7 @@ Bei der ersten Nutzung führt das Plugin ein ca. zehnminütiges Gespräch, um zu
 Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertragsrecht/CLAUDE.md` gespeichert – ein Klartextdokument über die Rechtsabteilung, das jede Funktion liest, bevor sie tätig wird. Das Dokument wird direkt bearbeitet, keine Konfigurationsdatei.
 
 ```
-/vertragsrecht:kaltstart-interview
+/vertragsrecht:vertragsrecht-kaltstart-interview
 ```
 
 **Seite des Mandanten.** Früh in der Einrichtung wird gefragt, ob ein **Verkäufer-Vorgehensleitfaden** (das Unternehmen verkauft Produkte/Dienstleistungen; eigenes Muster), ein **Käufer-Vorgehensleitfaden** (das Unternehmen kauft bei Lieferanten; deren Muster) oder beides aufgebaut werden soll. Die Antwort kehrt nahezu jede Position im Vorgehensleitfaden um – Haftungsgrenzen, Freistellungsrichtung, Kündigungsrechte, IP-Zuordnung – daher ist sie von grundlegender Bedeutung.
@@ -46,13 +46,13 @@ Das Erlernte wird in `~/.claude/plugins/config/claude-fuer-deutsches-recht/vertr
 
 | Befehl | Funktion |
 |---|---|
-| `/vertragsrecht:kaltstart-interview` | Ersteinrichtungs-Interview durchführen oder wiederholen |
+| `/vertragsrecht:vertragsrecht-kaltstart-interview` | Ersteinrichtungs-Interview durchführen oder wiederholen |
 | `/vertragsrecht:vertragspruefung [Datei]` | Vertrag gegen den Vorgehensleitfaden prüfen |
 | `/vertragsrecht:vertragsverlaengerungs-monitor` | Welche Verträge laufen in 90 Tagen aus und bis wann muss die Kündigung eingehen? |
 | `/vertragsrecht:eskalations-marker` | Eskalationspfad ermitteln und Vorlage formulieren |
 | `/vertragsrecht:aenderungs-historie [Datei(en)]` | Vertragsänderungen über Basisvertrag und alle Nachträge nachverfolgen |
 | `/vertragsrecht:pruefungsvorschlaege` | Ausstehende Aktualisierungen des Vorgehensleitfadens aus dem Monitor-Agenten durcharbeiten |
-| `/vertragsrecht:mandat-arbeitsbereich` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
+| `/vertragsrecht:vertragsrecht-mandat-arbeitsbereich` | Akten verwalten (nur Kanzleinutzung mit mehreren Mandanten) |
 
 ## Skills
 
@@ -94,7 +94,7 @@ Integrierte Konnektoren (`.mcp.json`):
 ### 1. Interview durchführen
 
 ```
-/vertragsrecht:kaltstart-interview
+/vertragsrecht:vertragsrecht-kaltstart-interview
 ```
 
 Dauer: ca. 10 Minuten. 5–10 unterzeichnete Verträge bereithalten (mehr ist besser, 20 ergibt ein klareres Muster).

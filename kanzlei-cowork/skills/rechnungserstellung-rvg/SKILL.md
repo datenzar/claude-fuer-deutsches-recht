@@ -108,3 +108,14 @@ Hinweis nach § 50 BRAO: Sie können Akteneinsicht verlangen.
 - `rechnung-<nr>.pdf` und `rechnung-<nr>.docx` und Markdown-Spiegel.
 - Eintrag im Honorar-Tracker (Skill `mahnwesen-honorar`).
 - Verbuchung im Buchhaltungssystem (DATEV Lexware sevDesk RA-MICRO).
+
+## Werkzeug: `werkzeuge/rvg_gebuehrenrechner.py`
+
+Konsolen-Rechner für RVG-Gebühren nach Anlage 2 (Stand 01.01.2021):
+
+- einfache Gebühr (1,0) je Streitwertstufe (bis 500.000 €, danach Fortschreibung +150 € je 50.000 €),
+- gewichtete Gebühr (z. B. Faktor 1,3 für Nr. 2300 VV RVG),
+- Post- und Telekommunikationspauschale Nr. 7002 VV RVG (20 %, max. 20 €),
+- Umsatzsteuer (Default 19 %).
+
+Aufruf: `python3 werkzeuge/rvg_gebuehrenrechner.py --wert 25000 --faktor 1.3`. Liefert Netto, USt., Brutto in deutscher Zahlenschreibweise. Ersetzt nicht die RVG-Abrechnung im Kanzleisystem, sondern hilft beim schnellen Plausibilisieren.

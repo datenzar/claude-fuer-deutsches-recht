@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-sportrecht",
   "version": "0.1.0",
-  "description": "Light-Touch-Plugin Fachanwalt fuer Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielervertraege Doping WADA-Code NADA Sponsoring Persoenlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.",
+  "description": "Light-Touch-Plugin Fachanwalt für Sportrecht. Verbandsrecht (DFB FIFA UEFA IOC DOSB) CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Veranstalterhaftung. Schnittstelle Plugin gesellschaftsrecht.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

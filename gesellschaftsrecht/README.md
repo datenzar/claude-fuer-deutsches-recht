@@ -34,7 +34,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 ## Erster Start
 
 ```
-/gesellschaftsrecht:kaltstart-interview
+/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview
 ```
 
 Führt durch die Modulauswahl und ein kurzes Zielinterview je aktivem Bereich. Schreibt ein modulares Praxisprofil nach:
@@ -45,14 +45,14 @@ Deine Konfiguration bleibt dort und übersteht Plugin-Updates.
 Dealspezifisches Setup (nur M&A-Modul):
 
 ```
-/gesellschaftsrecht:kaltstart-interview --neues-mandat
+/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview --neues-mandat
 ```
 
 ## Befehle
 
 | Befehl | Funktion |
 |---|---|
-| `/gesellschaftsrecht:kaltstart-interview` | Modulares Kaltstart oder `--neues-mandat` / `--modul [m&a \| organe \| boerse \| compliance]` |
+| `/gesellschaftsrecht:gesellschaftsrecht-kaltstart-interview` | Modulares Kaltstart oder `--neues-mandat` / `--modul [m&a \| organe \| boerse \| compliance]` |
 | `/gesellschaftsrecht:dd-findings-extraktion [ordner]` | Datenraum-Dokumente lesen, Issues im Hauskatalog extrahieren |
 | `/gesellschaftsrecht:tabellenpruefung` | Tabellarisches Review – eine Zeile pro Dokument, eine Spalte pro Datenpunkt, jede Zelle mit Fundstelle, Excel-Ausgabe |
 | `/gesellschaftsrecht:wesentliche-vertraege-anlage` | Wesentliche-Verträge-Anlage (Disclosure Schedule) aus DD-Findings |
@@ -60,7 +60,7 @@ Dealspezifisches Setup (nur M&A-Modul):
 | `/gesellschaftsrecht:gesellschafterbeschluss` | Gesellschafterbeschluss im schriftlichen Verfahren § 48 II GmbHG, Muster mit Unterzeichner-Tracker |
 | `/gesellschaftsrecht:gesellschafts-compliance` | Gesellschafts-Compliance-Tracker – init, Bericht, Update, Audit, Export |
 | `/gesellschaftsrecht:integrations-management` | Post-Closing-Integrationsplan, Zustimmungsregister, Vertragsübertragung, Statusberichte |
-| `/gesellschaftsrecht:mandat-arbeitsbereich` | Mandatsarbeitsbereiche verwalten (Mehrmandat-Kanzleien) – neu, liste, wechsel, schließ, keins |
+| `/gesellschaftsrecht:gesellschaftsrecht-mandat-arbeitsbereich` | Mandatsarbeitsbereiche verwalten (Mehrmandat-Kanzleien) – neu, liste, wechsel, schließ, keins |
 | `/gesellschaftsrecht:gmbh-gruendung` | GmbH-Gründung Schritt-für-Schritt: Gesellschaftsvertrag, Notar, Handelsregister |
 | `/gesellschaftsrecht:handelsregisteranmeldung` | Handelsregisteranmeldungen: HRB/HRA, Änderungen, Kapitalmaßnahmen |
 

@@ -17,7 +17,7 @@ Das Gutachten fasst alle Einzelprüfungen zu einem strukturierten Dokument zusam
 
 ### 1. Eingangsdaten
 
-Aus `kaltstart-interview`. Beruf, Anbieter, Produkt, Datenarten, Vertragstyp, Anlagen.
+Aus `berufsrecht-ki-vertragspruefung-kaltstart-interview`. Beruf, Anbieter, Produkt, Datenarten, Vertragstyp, Anlagen.
 
 ### 2. Norm-Adapter
 

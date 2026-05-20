@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-agrarrecht",
   "version": "0.1.0",
-  "description": "Light-Touch-Plugin Fachanwalt fuer Agrarrecht. Hoeferecht (HoefeO Anerbenrecht Laender) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Duengeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.",
+  "description": "Light-Touch-Plugin Fachanwalt für Agrarrecht. Höferecht (HöfeO Anerbenrecht Länder) Landpachtrecht BGB §§ 581 ff. GAP EU-Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutz Tierschutz Forstrecht. Schnittstelle Plugin fachanwalt-erbrecht.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -33,7 +33,7 @@ Das Plugin ist Teil des Repositories [`claude-fuer-deutsches-recht`](../) und wu
 
 | Skill | Funktion |
 | --- | --- |
-| `kaltstart-interview` | Setup: Patentanwältin, Mandant, Erfindung, Recherchezweck, Rechtsraum |
+| `patentrecherche-kaltstart-interview` | Setup: Patentanwältin, Mandant, Erfindung, Recherchezweck, Rechtsraum |
 | `klassifikation-cpc-ipc` | CPC- und IPC-Klassen für die Recherche bestimmen |
 | `agentische-datenbank-recherche` | Master-Skill: agentische Bedienung von Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE, USPTO |
 | `stand-der-technik-recherche` | Vorrecherche für Neuheitsbewertung vor eigener Anmeldung |
@@ -55,7 +55,7 @@ Das Plugin ist Teil des Repositories [`claude-fuer-deutsches-recht`](../) und wu
 
 ## Setup
 
-Nach Aktivierung des Plugins legt Claude beim ersten Lauf von `kaltstart-interview` ein Profil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md` an (Kanzlei, Patentanwält:innen, Schwerpunktklassen, typische Mandantenstruktur).
+Nach Aktivierung des Plugins legt Claude beim ersten Lauf von `patentrecherche-kaltstart-interview` ein Profil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/patentrecherche/CLAUDE.md` an (Kanzlei, Patentanwält:innen, Schwerpunktklassen, typische Mandantenstruktur).
 
 ## Pflichtdisclaimer
 

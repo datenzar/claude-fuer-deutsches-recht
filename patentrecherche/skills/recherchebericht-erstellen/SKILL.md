@@ -116,7 +116,7 @@ keine Rechtsberatung gegenüber dem Endmandanten außerhalb der zuständigen Kan
 
 Aus den Vorgänger-Skills:
 
-- `kaltstart-interview` → Kanzlei, Mandant
+- `patentrecherche-kaltstart-interview` → Kanzlei, Mandant
 - `klassifikation-cpc-ipc` → Klassen
 - `agentische-datenbank-recherche` → Trefferlisten und Suchstrings
 - `stand-der-technik-recherche` → X/Y/A/P/E-Bewertungen

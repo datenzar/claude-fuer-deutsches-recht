@@ -7,7 +7,7 @@ description: "Tiefgehende Risikobewertung für ein einzelnes Feature oder einen 
 
 ## Mandat-Kontext
 
-**Mandat-Kontext.** `## Mandate-Workspaces` in der praxisseitigen CLAUDE.md prüfen. Wenn `Aktiviert` `✗` ist (Standard für In-House-Nutzer), diesen Absatz überspringen. Wenn aktiviert und kein aktives Mandat, fragen: „Für welches Mandat ist das? `/produktrecht:mandat-arbeitsbereich switch <kürzel>` ausführen oder 'Praxisebene' sagen." Das aktive `mandat.md` für mandatsspezifischen Kontext laden. Ausgaben in den Mandat-Ordner schreiben. Niemals Dateien eines anderen Mandats lesen außer `Mandats-übergreifender Kontext` ist `ein`.
+**Mandat-Kontext.** `## Mandate-Workspaces` in der praxisseitigen CLAUDE.md prüfen. Wenn `Aktiviert` `✗` ist (Standard für In-House-Nutzer), diesen Absatz überspringen. Wenn aktiviert und kein aktives Mandat, fragen: „Für welches Mandat ist das? `/produktrecht:produktrecht-mandat-arbeitsbereich switch <kürzel>` ausführen oder 'Praxisebene' sagen." Das aktive `mandat.md` für mandatsspezifischen Kontext laden. Ausgaben in den Mandat-Ordner schreiben. Niemals Dateien eines anderen Mandats lesen außer `Mandats-übergreifender Kontext` ist `ein`.
 
 ---
 

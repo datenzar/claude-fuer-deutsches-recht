@@ -22,7 +22,7 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 | Skill | Zweck |
 | --- | --- |
-| `fachanwalt-orientierung` | Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. KWG (Kreditwesengesetz) ZAG (Zahlungsdiensteaufsichtsgesetz) WpHG (Wertpapierhandelsgesetz) WpIG (Wertpapier… |
+| `fachanwalt-bank-kapitalmarktrecht-orientierung` | Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. KWG (Kreditwesengesetz) ZAG (Zahlungsdiensteaufsichtsgesetz) WpHG (Wertpapierhandelsgesetz) WpIG (Wertpapier… |
 
 ## Lizenz
 
