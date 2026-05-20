@@ -383,6 +383,14 @@
       }
     },
     {
+      "name": "mittelstand-corporate-ma",
+      "source": "./mittelstand-corporate-ma",
+      "description": "Freistehendes Corporate/M&A-Plugin für mittelständische Kanzleien: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "nda-abgleich",
       "source": "./nda-abgleich",
       "description": "NDA-Verhandlungshilfe fuer die empfangende Seite. Akzeptiert den Entwurf der Gegenseite und setzt den eigenen Standard chirurgisch durch. Ampelmatrix ROT/GELB/GRUEN. Ausgabe .docx mit echten Word-Tracked-Changes. Keine Absatzloeschungen, keine Klausel-Neufassungen.",
