@@ -13,7 +13,7 @@ Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Pak
 
 ### 1. Hauptdatei
 
-- `<projekt>-würfel.xlsx` aus `excel-multi-sheet-export` mit allen Tabellenreitern.
+- `<projekt>-wuerfel.xlsx` aus `excel-multi-sheet-export` mit allen Tabellenreitern.
 
 ### 2. Erzählfassung
 
@@ -41,7 +41,7 @@ Das Plugin liefert nicht das fertige Mandatsergebnis. Es liefert das Prüfer-Pak
 
 ### 8. Prüfer-Flag-Arbeitsliste
 
-- `prüfer-flags.xlsx` — Liste aller Zellen die menschliche Prüfung brauchen. Spalten: Zeile Arbeitsblatt Spalte Grund Antwortvorschlag Entscheidung (leer).
+- `pruefer-flags.xlsx` — Liste aller Zellen die menschliche Prüfung brauchen. Spalten: Zeile Arbeitsblatt Spalte Grund Antwortvorschlag Entscheidung (leer).
 
 ### 9. Begleitschreiben
 

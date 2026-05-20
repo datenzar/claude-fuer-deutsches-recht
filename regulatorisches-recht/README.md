@@ -4,6 +4,23 @@
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen Prüfung – zitiert, markiert und freigabepflichtig – keine Rechtsauskunft.** Das Plugin übernimmt die Arbeit: liest Dokumente, wendet Ihr Regelwerk an, findet Lücken, erstellt Vermerke. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Zitate werden nach Quelle gekennzeichnet. Privilegierungsvermerke werden konservativ gesetzt, damit kein unbeabsichtigter Verzicht entsteht. Folgenreiche Handlungen – Einreichungen, Versendungen, Ausführungen – erfordern ausdrückliche Bestätigung.
 
+## ⬇️ Direkt-Download (einzelnes ZIP)
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| Regulatorisches Recht (`regulatorisches-recht`, dieses Plugin) | [regulatorisches-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/regulatorisches-recht.zip) |
+
+Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
+
+### Installation in Claude Code
+
+1. ZIP herunterladen (Link oben).
+2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
+3. Fertig. Skills sind sofort verfügbar.
+
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+
+
 ## Für wen dieses Plugin gedacht ist
 
 | Rolle | Primäre Abläufe |

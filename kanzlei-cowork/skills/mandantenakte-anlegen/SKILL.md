@@ -38,7 +38,7 @@ Unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/manda
   konfliktprüfung.md
   honorarvereinbarung.docx (falls Vereinbarung)
 02_eingaenge/
-03_schriftsätze/
+03_schriftsaetze/
 04_anlagen/
 05_fristen/
 06_honorar/

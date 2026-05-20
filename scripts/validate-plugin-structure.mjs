@@ -121,8 +121,10 @@ function checkMarketplace() {
       }
       const generator = 'skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py';
       if (!exists(path.join(pluginRoot, generator))) errors.push(`${plugin.name}: missing standalone generator ${generator}`);
-      // BGH-Volltexte werden NICHT mehr als PDF mitgeliefert (verstößt gegen Cowork-Upload-Limit ~1 MB).
-      // Stattdessen ist eine INDEX.md mit Online-Verweisen auf die BGH-Datenbank Pflicht.
+      // BGH-Volltexte werden als PDF mitgeliefert (Plugin-ZIP bleibt unter Cowork-Upload-Limit).
+      // Zusätzlich ist eine INDEX.md mit Online-Verweisen auf die BGH-Datenbank Pflicht — sie ist
+      // die Tabula-Rasa-Quelle, falls einzelne PDFs nicht gerendert werden oder offline nicht
+      // verfügbar sind.
       const idx = path.join(pluginRoot, 'references', 'rechtsprechung', 'INDEX.md');
       if (!exists(idx)) errors.push(`${plugin.name}: missing references/rechtsprechung/INDEX.md (BGH-Onlinequellenverzeichnis)`);
     }

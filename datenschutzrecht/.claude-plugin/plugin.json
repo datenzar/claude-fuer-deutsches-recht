@@ -2,7 +2,9 @@
   "name": "datenschutzrecht",
   "version": "1.0.0",
   "description": "DSGVO/BDSG/TTDSG – PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz, Drift-Monitoring.",
+  "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
-  }
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
 }

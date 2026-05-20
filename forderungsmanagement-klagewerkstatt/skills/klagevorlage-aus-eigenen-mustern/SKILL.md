@@ -91,7 +91,7 @@ Aus den Hausregeln und der Standardvorlage wird ein eigenes Plugin gepackt:
   - `klagewerkstatt-<slug>/.claude-plugin/plugin.json` (Name `klagewerkstatt-<slug>`, Version 0.1.0).
   - `klagewerkstatt-<slug>/skills/klage-erstellen/SKILL.md` (siehe Schwester-Skill `klage-aus-eigenem-skill` als Bauanleitung; im erzeugten Plugin lebt die Skill-Datei eigenständig).
   - `klagewerkstatt-<slug>/assets/vorlage/standardklage.md` und `.docx`.
-  - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zuständigkeit-quellen.md`.
+  - `klagewerkstatt-<slug>/references/hausregeln.json`, `belegmuster.md`, `anlagenliste.md`, `zustaendigkeit-quellen.md`.
   - `klagewerkstatt-<slug>/README.md` mit Direkt-Download-Hinweis und Installationsanleitung.
 - ZIP-Dateiname `klagewerkstatt-<slug>.zip`. Datei dem Nutzer zum Download geben mit Installationsanweisung für Claude Code (`Customize Plugins → Install from .zip`).
 

@@ -47,7 +47,7 @@ Bevor der Reviewlauf startet muss der Dokumentenstapel sauber sein — kein Doku
 
 - `zeilen-inventar.yaml` — vollständige Zeilenachse
 - `duplikatreport.md` — exakte und Quasi-Duplikate mit Prüfer-Entscheidung
-- `datenraum-lücken.md` — referenzierte aber nicht vorhandene Dokumente
+- `datenraum-luecken.md` — referenzierte aber nicht vorhandene Dokumente
 
 ## Grenzen
 

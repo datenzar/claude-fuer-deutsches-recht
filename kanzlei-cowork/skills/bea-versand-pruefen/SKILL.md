@@ -54,7 +54,7 @@ Das beA gibt zwei Quittungen:
 1. **Sendebericht** der eigenen beA-Anwendung — Zeitpunkt der erfolgreichen Übertragung an den Server.
 2. **Eingangsbestätigung** des Empfängers (Gericht) — bestätigt Eingang in der Posteingangsstelle.
 
-Beide gehören in die Mandatsakte unter `mandate/<az>/03_schriftsätze/<datum>-bea-quittung.pdf`.
+Beide gehören in die Mandatsakte unter `mandate/<az>/03_schriftsaetze/<datum>-bea-quittung.pdf`.
 
 ## Fristnachweis
 

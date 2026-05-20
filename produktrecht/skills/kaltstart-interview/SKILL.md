@@ -285,7 +285,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 *Bei jedem Launch geprüfte Kategorien (aus Seed-Docs + Interview):*
 
 1. **[Kategorie]** – [was geprüft wird, was Eskalation auslöst]
-[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `references/launch-prüfung-framework-de.md` anbieten wenn nicht]
+[etc. – ihre Kategorien wenn vorhanden; Sieben-Kategorien-Framework aus `references/launch-pruefung-framework-de.md` anbieten wenn nicht]
 
 ---
 

@@ -53,7 +53,7 @@ und gibt das Dokument unverändert zurück mit Hinweis.
 
 - `Vertrag_<Objekt>_<Datum>.docx` auf Muster-Layout, Platzhalter befuellt
 - `Aenderungsprotokoll.md` mit Tabelle Platzhalter — Wert — Quelle im Term Sheet
-- `Manuelle_Prüfung.md` mit Liste der Punkte die nur ein Jurist
+- `Manuelle_Pruefung.md` mit Liste der Punkte die nur ein Jurist
   entscheiden kann (zB GenehmigungspflichtigerVerkauf §§ 1365 BGB,
   Vorkaufsrechte §§ 24 ff. BauGB, Denkmalschutz, Erbbauzins-Anpassung)
 

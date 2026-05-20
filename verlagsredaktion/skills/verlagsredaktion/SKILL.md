@@ -203,7 +203,7 @@ Modus A:
 Modus B:
 - `<Titel>_redigiert.docx` — Tracked Changes
 - `Edition_Bericht.md` — Begründung der Eingriffe
-- `Prüfliste_Zitate.md` — Soll-Ist-Vergleich Hauszitierweise
+- `Pruefliste_Zitate.md` — Soll-Ist-Vergleich Hauszitierweise
 
 ## Berufsrecht und Geheimhaltung
 

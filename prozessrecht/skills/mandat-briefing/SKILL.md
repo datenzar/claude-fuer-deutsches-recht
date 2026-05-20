@@ -12,7 +12,7 @@ Erzeugung eines strukturierten Tiefenbriefings zu einem einzelnen Mandat auf Bas
 ## Eingaben
 
 - Mandat-Slug
-- Optional: Fokusthema (`--frist`, `--risiko`, `--nächste-schritte`)
+- Optional: Fokusthema (`--frist`, `--risiko`, `--naechste-schritte`)
 - Optional: Empfänger (`--mandant`, `--justiziar`, `--anwalt`) – steuert Detailgrad und Stil
 
 ## Ablauf

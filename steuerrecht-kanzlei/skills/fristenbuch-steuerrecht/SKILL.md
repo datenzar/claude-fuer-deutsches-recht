@@ -94,5 +94,5 @@ description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Dat
 ## Ausgabe
 
 - `fristenbuch.yaml` aktualisiert
-- `fristen-übersicht.md` Tagesbericht nächste sieben Tage
+- `fristen-uebersicht.md` Tagesbericht nächste sieben Tage
 - Vorfristen-Erinnerung in Sekretariats-Tagesbrief (Plugin `kanzlei-cowork`)

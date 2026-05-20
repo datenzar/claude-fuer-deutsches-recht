@@ -536,6 +536,7 @@ def fill_sheet(ws, daten: dict, n_weeks: int):
         col = PLAN_COL_START + i
         L = get_column_letter(col)
         # Lücke = MAX(0, Summe fälliger Verb. t..t+2 - (Liquidität Woche Ende_t + Summe Einnahmen_t+1 + Summe Einnahmen_t+2))
+        # Quote = Lücke / Summe fälliger Verb. t..t+2 (gleiche Bezugsgröße wie Lücke — BGH IX ZR 171/15)
         if i + 2 < n_weeks:
             L1 = get_column_letter(col + 1)
             L2 = get_column_letter(col + 2)
@@ -543,13 +544,15 @@ def fill_sheet(ws, daten: dict, n_weeks: int):
             mittel = f"{L}{R_LIQUI_END}+{L1}{R_EIN_SUMME}+{L2}{R_EIN_SUMME}"
             ws.cell(row=R_LUECKE_3W, column=col,
                     value=f"=MAX(0,({faellig_sum})-({mittel}))").number_format = NUM_FMT
+            ws.cell(row=R_QUOTE, column=col,
+                    value=f"=IFERROR({L}{R_LUECKE_3W}/({faellig_sum}),0)"
+                    ).number_format = NUM_FMT_PCT
         else:
             ws.cell(row=R_LUECKE_3W, column=col,
                     value=f"=MAX(0,{L}{R_FAELLIG}-{L}{R_LIQUI_END})").number_format = NUM_FMT
-        # Quote
-        ws.cell(row=R_QUOTE, column=col,
-                value=f"=IFERROR({L}{R_LUECKE_3W}/{L}{R_FAELLIG},0)"
-                ).number_format = NUM_FMT_PCT
+            ws.cell(row=R_QUOTE, column=col,
+                    value=f"=IFERROR({L}{R_LUECKE_3W}/{L}{R_FAELLIG},0)"
+                    ).number_format = NUM_FMT_PCT
         # Ampel
         c = ws.cell(row=R_AMPEL, column=col,
                     value=(f'=IF({L}{R_QUOTE}>=0.1,"ROT",'

@@ -133,7 +133,7 @@ Es besteht keine eigenständige Anzeigepflicht. Aber bei Insolvenzantrag ist der
 
 ## Ausgabe
 
-- `gesellschafterdarlehen-rangrücktritt.docx` und PDF.
+- `gesellschafterdarlehen-rangruecktritt.docx` und PDF.
 - Hinweis: notariell beurkunden lassen wenn Höhe über 50000 EUR.
 - Eintrag im Status (Skill `bilanzieller-status-aufnehmen`) — Forderung wird nicht passiviert.
 - Wiedervorlage zur Prüfung Steuerfolge (steuerberatung).

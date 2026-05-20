@@ -1,7 +1,7 @@
 {
   "name": "liquiditaetsplanung",
   "version": "0.2.1",
-  "description": "Autarke Liquiditätsplanung nach deutschem Recht mit 3-Wochen-Vorschau, 13/26/52-Wochen-Planung und Excel-Export.",
+  "description": "Liquiditaetsplanung nach deutschem Recht: 3-Wochen-Vorschau mit BGH-Passiva-II- und 10-Prozent-Schema, 13/26/52-Wochen-Forecast, Excel-Export mit Quote/Luecken-Ampel, Padlet/JSON-Round-Trip, Integration mit Fortbestehensprognose. Krisen-GmbH, Bugwellenrechtsprechung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

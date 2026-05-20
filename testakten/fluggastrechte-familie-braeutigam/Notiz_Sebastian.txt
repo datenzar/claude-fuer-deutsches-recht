@@ -102,8 +102,10 @@ Ich stehe voll hinter der Sache. Die sollen zahlen.
 
 Rechtsanwaltliche Einschätzung (vorläufig, nach Aktenlage):
 - Ausgleichsanspruch gem. Art. 7 Abs. 1 lit. c VO (EG) 261/2004 = 600 EUR/Pax -> 3.000 EUR
-  substanziiert gegründet; PSA-Einwand "außergewöhnliche Umstände" nach EuGH C-257/14
-  Wallentin-Hermann nicht tragfähig für reguläre Triebwerksprüfung
+  substanziiert gegründet; PSA-Einwand "außergewöhnliche Umstände" nicht tragfähig
+  für reguläre Triebwerksprüfung: EuGH 22.12.2008 – C-549/07 Wallentin-Hermann
+  (technische Defekte grundsätzlich kein außergewöhnlicher Umstand), bestätigt
+  durch EuGH 17.09.2015 – C-257/14 van der Lans
 - Betreuungsleistungen Art. 9 VO 261/2004 nicht erbracht -> erstattungsfähige Auslagen
 - Verdienstausfall Yasmin: Prüfung Schadenersatz gem. § 280 BGB / Art. 12 VO 261/2004
   -> Dienstplan + Verdienstnachweis Kinderklinik anfordern

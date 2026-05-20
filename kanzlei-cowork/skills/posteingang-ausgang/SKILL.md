@@ -50,7 +50,7 @@ Bei Postzustellungen verschiedener Verfahrensordnungen gilt die Drei-Tages-Fikti
   betreff: Berufung in Sachen Mueller gg. ABC GmbH
   unterzeichnet-von: RA Mueller
   versandnummer: V-2026-00123  # Verweis auf versand-vor-check
-  quittung-pdf: mandate/2026-0042/03_schriftsätze/2026-05-21-bea-quittung.pdf
+  quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-21-bea-quittung.pdf
   zugehoerige-frist: berufungsfrist 20.06.2026
   fristerledigung: ja
 ```
@@ -81,7 +81,7 @@ Bei Notfristen (Berufung Revision Kündigungsschutzklage): Posteingang Akte und 
 ## Sichere Ablage
 
 - Pro Mandat unter `mandate/<az>/02_eingaenge/<datum>-<absender>-<art>.pdf`.
-- Postausgang unter `mandate/<az>/03_schriftsätze/<datum>-<empfänger>-<art>.pdf` plus Quittung.
+- Postausgang unter `mandate/<az>/03_schriftsaetze/<datum>-<empfaenger>-<art>.pdf` plus Quittung.
 - Verbindungen zu Fristenbuch und Honorar-Tracker.
 
 ## Datenschutz

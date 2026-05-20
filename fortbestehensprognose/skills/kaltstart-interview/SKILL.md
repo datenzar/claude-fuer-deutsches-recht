@@ -70,9 +70,9 @@ Dieses Plugin liefert eine **Selbstdokumentation** der Fortbestehensprognose nac
 
 Profil wird geschrieben. Empfohlene nächste Skills:
 
-1. `/fortbestehensprognose:auslösendes-ereignis-erfassen` — Anlass und Vorinformation
+1. `/fortbestehensprognose:ausloesendes-ereignis-erfassen` — Anlass und Vorinformation
 2. `/fortbestehensprognose:bilanzieller-status-aufnehmen` — Ausgangsfeststellung
 3. `/fortbestehensprognose:annahmen-sammeln-fortfuehrung` — Prognoseannahmen
-4. (parallel) `/liquiditätsplanung` — für die rollierende 12-Monats-Liquidität
+4. (parallel) `/liquiditaetsplanung` — für die rollierende 12-Monats-Liquidität
 
 Bei aktuten Anzeichen für Zahlungsunfähigkeit (Liquiditätslücke über 10 Prozent seit mehr als drei Wochen) **sofort** Insolvenzanwalt einschalten und mit Plugin `insolvenzrecht` arbeiten — nicht in diesem Plugin weiterarbeiten.

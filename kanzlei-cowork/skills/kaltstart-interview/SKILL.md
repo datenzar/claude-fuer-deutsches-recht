@@ -30,7 +30,7 @@ description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erf
 
 - **Aktennummernsystem** (z. B. `<Jahr>/<lfd. Nr.>` oder `<Rechtsgebiet>-<Jahr>-<Nr>`)
 - **Verzeichnis-Konvention** unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/mandate/<az>/`
-- **Standardunterordner** wie `01_stammdaten 02_korrespondenz 03_schriftsätze 04_anlagen 05_fristen 06_honorar`
+- **Standardunterordner** wie `01_stammdaten 02_korrespondenz 03_schriftsaetze 04_anlagen 05_fristen 06_honorar`
 
 ### 4. beA und Versandwege
 

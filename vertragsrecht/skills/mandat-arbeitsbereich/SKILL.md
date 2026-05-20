@@ -71,12 +71,12 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
 
 ### Unterbefehle
 
-- `/vertragsrecht:mandat-arbeitsbereich neu <kürzel>` — neuen Mandatsarbeitsbereich
+- `/vertragsrecht:mandat-arbeitsbereich neu <kuerzel>` — neuen Mandatsarbeitsbereich
   anlegen, kurze Aufnahme durchführen, `mandat.md` schreiben
 - `/vertragsrecht:mandat-arbeitsbereich liste` — alle Mandate mit Status und
   aktivem Kürzel auflisten
-- `/vertragsrecht:mandat-arbeitsbereich wechseln <kürzel>` — aktives Mandat setzen
-- `/vertragsrecht:mandat-arbeitsbereich schließen <kürzel>` — Mandat archivieren
+- `/vertragsrecht:mandat-arbeitsbereich wechseln <kuerzel>` — aktives Mandat setzen
+- `/vertragsrecht:mandat-arbeitsbereich schließen <kuerzel>` — Mandat archivieren
   (verschiebt in `_archiv/`, löscht nie)
 - `/vertragsrecht:mandat-arbeitsbereich keine` — von aktivem Mandat trennen,
   auf Kanzleiebene arbeiten
@@ -98,12 +98,12 @@ darauf hin:
 
 Auflösung nach dem ersten Token von `$ARGUMENTE`:
 
-- `neu` → Aufnahme durchführen, `mandate/<kürzel>/mandat.md` schreiben,
+- `neu` → Aufnahme durchführen, `mandate/<kuerzel>/mandat.md` schreiben,
   `verlauf.md` und `notizen.md` anlegen
 - `liste` → `mandate/*/mandat.md` aufzählen, Tabelle ausgeben,
   aktives Mandat markieren
 - `wechseln` → Zeile `Aktives Mandat:` im Kanzleiprofil aktualisieren
-- `schließen` → `mandate/<kürzel>/` nach `mandate/_archiv/<kürzel>/`
+- `schließen` → `mandate/<kuerzel>/` nach `mandate/_archiv/<kuerzel>/`
   verschieben, Abschlussdatum in `verlauf.md` eintragen
 - `keine` → `Aktives Mandat:` auf `keine — Kanzleiebene` setzen
 
@@ -112,10 +112,10 @@ Auflösung nach dem ersten Token von `$ARGUMENTE`:
 Dem Nutzer vor jeder Dateiänderung zeigen, was sich ändert, und
 Bestätigung einholen.
 
-### Unterbefehl-Logik: `neu <kürzel>`
+### Unterbefehl-Logik: `neu <kuerzel>`
 
-1. Prüfen, ob das Kürzel noch nicht in `mandate/<kürzel>/` oder
-   `mandate/_archiv/<kürzel>/` vorhanden ist. Bei Wiederverwendung:
+1. Prüfen, ob das Kürzel noch nicht in `mandate/<kuerzel>/` oder
+   `mandate/_archiv/<kuerzel>/` vorhanden ist. Bei Wiederverwendung:
    anderes Kürzel vorschlagen.
 2. Kurzaufnahme durchführen:
    - **Mandant** (vertretene Partei oder interne Geschäftseinheit bei In-house)
@@ -129,11 +129,11 @@ Bestätigung einholen.
      auf 24 Monate Haftungsdeckel statt 12; kooperativer Ton, da strategische
      Partnerschaft")
    - **Verwandte Mandate** (Kürzel verbundener Mandate)
-3. `mandate/<kürzel>/mandat.md` nach Vorlage unten schreiben.
-4. `mandate/<kürzel>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
-5. Leere `mandate/<kürzel>/notizen.md` erstellen.
+3. `mandate/<kuerzel>/mandat.md` nach Vorlage unten schreiben.
+4. `mandate/<kuerzel>/verlauf.md` mit einem „Eröffnet"-Eintrag anlegen.
+5. Leere `mandate/<kuerzel>/notizen.md` erstellen.
 6. **Nicht** automatisch zum neuen Mandat wechseln. Fragen:
-   „Möchten Sie jetzt zu `<kürzel>` wechseln?"
+   „Möchten Sie jetzt zu `<kuerzel>` wechseln?"
 
 ### Unterbefehl-Logik: `liste`
 
@@ -146,19 +146,19 @@ Tabelle ausgeben:
 Aktives Mandat mit `*` markieren. Archivierte Mandate unter
 „Archivierte Mandate" separat aufführen.
 
-### Unterbefehl-Logik: `wechseln <kürzel>`
+### Unterbefehl-Logik: `wechseln <kuerzel>`
 
-1. Prüfen, ob `mandate/<kürzel>/mandat.md` existiert. Falls nicht:
-   `/vertragsrecht:mandat-arbeitsbereich neu <kürzel>` anbieten.
-2. `Aktives Mandat:`-Zeile im Kanzleiprofil auf `<kürzel>` setzen.
+1. Prüfen, ob `mandate/<kuerzel>/mandat.md` existiert. Falls nicht:
+   `/vertragsrecht:mandat-arbeitsbereich neu <kuerzel>` anbieten.
+2. `Aktives Mandat:`-Zeile im Kanzleiprofil auf `<kuerzel>` setzen.
 3. `mandat.md`-Zusammenfassung anzeigen, damit der Nutzer das richtige
    Mandat bestätigt.
 
-### Unterbefehl-Logik: `schließen <kürzel>`
+### Unterbefehl-Logik: `schließen <kuerzel>`
 
-1. Vorhandensein von `mandate/<kürzel>/` prüfen.
-2. Abschlusseintrag mit heutigem Datum in `mandate/<kürzel>/verlauf.md` hinzufügen.
-3. `mandate/<kürzel>/` nach `mandate/_archiv/<kürzel>/` verschieben.
+1. Vorhandensein von `mandate/<kuerzel>/` prüfen.
+2. Abschlusseintrag mit heutigem Datum in `mandate/<kuerzel>/verlauf.md` hinzufügen.
+3. `mandate/<kuerzel>/` nach `mandate/_archiv/<kuerzel>/` verschieben.
 4. War das geschlossene Mandat das aktive, `Aktives Mandat:` auf
    `keine — Kanzleiebene` setzen.
 
@@ -239,13 +239,13 @@ Aufnahme abgeschlossen. Kürzel: `[kürzel]`. Status: aktiv.
 ~/.claude/plugins/config/klotzkette/vertragsrecht/
 ├── CLAUDE.md                       # Kanzleiprofil
 └── mandate/
-    ├── <kürzel>/
+    ├── <kuerzel>/
     │   ├── mandat.md               # Mandantenangaben, Schlüsselfakten, Abweichungen
     │   ├── verlauf.md              # Datiertes Protokoll (Ereignisse, Entscheidungen, Entwürfe)
     │   ├── notizen.md              # Freie Arbeitsnotizen
     │   └── ausgaben/               # Skill-Ausgaben für dieses Mandat (optional)
     └── _archiv/
-        └── <kürzel>/               # Geschlossene Mandate — lesbar, nicht aktiv
+        └── <kuerzel>/               # Geschlossene Mandate — lesbar, nicht aktiv
 ```
 
 Kürzel sind Kleinbuchstaben mit Bindestrichen. Beispiele:
@@ -289,7 +289,7 @@ Slug `mueller-it-vertrag-2026` angelegt mit Abweichung:
 - **Löschen ist verboten.** Abschließen bedeutet Archivieren. Keine
   Mandatsakte wird gelöscht — Aufbewahrungspflicht nach § 50 BRAO (5 Jahre).
 - **Kürzel-Kollision prüfen.** Wird ein Kürzel eines archivierten Mandats
-  wiederverwendet, das archivierte Mandat unter `_archiv/<kürzel>/` belassen.
+  wiederverwendet, das archivierte Mandat unter `_archiv/<kuerzel>/` belassen.
 - **Mandatsübergreifender Kontext bleibt aus.** Wenn nicht explizit
   eingeschaltet, niemals Dateien eines anderen Mandats lesen.
 

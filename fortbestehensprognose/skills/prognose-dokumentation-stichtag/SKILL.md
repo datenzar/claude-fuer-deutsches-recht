@@ -38,7 +38,7 @@ Prognosehorizont: [Monat plus zwölf Monate]
 
 1. ANLASS
 
-[Aus Skill auslösendes-ereignis-erfassen — z. B. „Hinweis des Steuerberaters
+[Aus Skill ausloesendes-ereignis-erfassen — z. B. „Hinweis des Steuerberaters
 nach § 102 StaRUG vom [Datum] mit dem Hinweis dass die Bilanz 2025 ein
 negatives Eigenkapital von [Betrag] EUR aufweist und eine Fortbestehensprognose
 nach § 19 Abs. 2 InsO erstellt werden soll."]

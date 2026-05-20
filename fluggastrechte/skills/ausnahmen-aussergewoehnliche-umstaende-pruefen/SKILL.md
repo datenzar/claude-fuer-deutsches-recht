@@ -86,7 +86,7 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 
 ## Ausgabe
 
-- `außergewöhnlich-prüfung.md` mit:
+- `aussergewoehnlich-pruefung.md` mit:
   - Begründung der Airline (Zitat)
   - Subsumtion unter Katalog
   - Prüfung zumutbarer Maßnahmen

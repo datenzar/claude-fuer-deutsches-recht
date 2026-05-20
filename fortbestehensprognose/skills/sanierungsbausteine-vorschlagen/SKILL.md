@@ -11,11 +11,11 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 
 | Baustein | Effekt | Umsetzungszeit | Skill |
 |---|---|---|---|
-| Externe harte Patronatserklärung | Liquiditäts- und Bilanzeffekt sofort | 1 bis 2 Tage | patronatserklärung-extern-hart-erzeugen |
+| Externe harte Patronatserklärung | Liquiditäts- und Bilanzeffekt sofort | 1 bis 2 Tage | patronatserklaerung-extern-hart-erzeugen |
 | Comfortletter (intern/weich) | Symbolisch / Reputation; kein Bilanzeffekt | 1 Tag | comfortletter-weich-erzeugen |
-| Gesellschafterdarlehen mit Rangrücktritt | Bilanzeffekt sofort; Liquidität bei Auszahlung | 3 bis 7 Tage notariell | gesellschafterdarlehen-rangrücktritt |
+| Gesellschafterdarlehen mit Rangrücktritt | Bilanzeffekt sofort; Liquidität bei Auszahlung | 3 bis 7 Tage notariell | gesellschafterdarlehen-rangruecktritt |
 | Forderungsverzicht mit Besserungsschein | Bilanzeffekt sofort | 5 bis 14 Tage | forderungsverzicht-besserungsschein |
-| Stundung Forderung (Lieferant Bank) | Liquiditätseffekt sofort | 5 bis 10 Tage | stundungsanfrage-gläubiger |
+| Stundung Forderung (Lieferant Bank) | Liquiditätseffekt sofort | 5 bis 10 Tage | stundungsanfrage-glaeubiger |
 | Kapitalerhöhung Gesellschafter | Bilanz- und Liquiditätseffekt | 14 bis 28 Tage notariell | (Plugin gesellschaftsrecht) |
 | Sale-and-Lease-back | Liquidität einmalig | 14 bis 30 Tage | externe Bank |
 | Kreditlinienerhöhung | Liquidität sofort wenn zugesagt | je nach Bank | externe Bank |
@@ -82,23 +82,23 @@ Aus der Zusammenfuehrung (Skill `fortbestehensprognose-zusammenfuehren`) ergibt 
 empfehlungen:
   zur-erreichung-positive-prognose:
     pflicht:
-      - baustein: patronatserklärung-extern-hart
+      - baustein: patronatserklaerung-extern-hart
         umfang: 200000 EUR
         patron: Hauptgesellschafter
-        skill: patronatserklärung-extern-hart-erzeugen
+        skill: patronatserklaerung-extern-hart-erzeugen
         prioritaet: kritisch
         umsetzung-bis: 2026-05-27
     
     empfohlen:
-      - baustein: stundungsanfrage-gläubiger
+      - baustein: stundungsanfrage-glaeubiger
         anzahl: 5 Lieferanten
-        skill: stundungsanfrage-gläubiger
+        skill: stundungsanfrage-glaeubiger
         prioritaet: hoch
         umsetzung-bis: 2026-06-15
       
-      - baustein: gesellschafterdarlehen-rangrücktritt
+      - baustein: gesellschafterdarlehen-rangruecktritt
         umfang: 120000 EUR bestehend
-        skill: gesellschafterdarlehen-rangrücktritt
+        skill: gesellschafterdarlehen-rangruecktritt
         prioritaet: hoch
         umsetzung-bis: 2026-05-25 notariell
     

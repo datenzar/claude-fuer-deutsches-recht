@@ -52,7 +52,7 @@ Jeder ausgehende Versand der Kanzlei muss diesen Check durchlaufen. Fehlversand 
 
 ### 6. Versandquittung
 
-- [ ] beA-Eingangsbestätigung gesichert (PDF speichern unter `mandate/<az>/03_schriftsätze/<datum>-versand-quittung.pdf`)?
+- [ ] beA-Eingangsbestätigung gesichert (PDF speichern unter `mandate/<az>/03_schriftsaetze/<datum>-versand-quittung.pdf`)?
 - [ ] EGVP-Eingangsbestätigung gesichert?
 - [ ] Post: Einschreiben mit Rückschein oder Bote-Protokoll?
 
@@ -90,7 +90,7 @@ checks-bestanden:
   - quittung: gesichert
 freigegeben-von: RA Mueller
 versand-zeit: 2026-05-20T11:23:45
-quittung-pdf: mandate/2026-0042/03_schriftsätze/2026-05-20-versand-quittung.pdf
+quittung-pdf: mandate/2026-0042/03_schriftsaetze/2026-05-20-versand-quittung.pdf
 ```
 
 ## Sonderfälle

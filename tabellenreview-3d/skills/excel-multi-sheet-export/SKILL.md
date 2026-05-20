@@ -61,7 +61,7 @@ Reviewlauf-Zeitstempel, verwendete Modell-Version, Laufdauer, Anzahl Zellen, Anz
 
 ## Ausgabe
 
-- `<projekt>-würfel.xlsx` mit allen Reitern
+- `<projekt>-wuerfel.xlsx` mit allen Reitern
 - `<projekt>-würfel-anhang.zip` (optional) mit allen referenzierten Quelldokumenten zur autarken Mandantenübergabe (Achtung: Geheimhaltungs- und DSGVO-Pflichten beachten)
 
 ## Grenzen

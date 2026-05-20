@@ -203,7 +203,7 @@ stundungen:
 
 ## Ausgabe
 
-- Pro Gläubiger eigenes `stundungsanfrage-<gläubiger>.docx`.
+- Pro Gläubiger eigenes `stundungsanfrage-<glaeubiger>.docx`.
 - Versand per Einschreiben oder über Bank-Portal / E-Mail.
 - Wiedervorlage zur Prüfung der Zusage in 14 Tagen.
 - Tracker mit Status (versendet / zugesagt / abgelehnt / verhandlung).

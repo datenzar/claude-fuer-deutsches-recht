@@ -26,7 +26,7 @@ Hinweis: Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`
 
 Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
 
-[beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beispielakte-edelholz-berlin.zip)
+[testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip)
 
 Enthält Firmenstammblatt, BWA, SuSa, OPOS, Bankauszüge, Steuer-/SV-Lage und einen fertigen Liquiditätsplan der fiktiven Edelholz Manufaktur Berlin GmbH.
 

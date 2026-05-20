@@ -137,7 +137,7 @@ Der Trigger für das Wiederaufleben muss objektiv und nachpruefbar sein. Klausel
 
 ## Ausgabe
 
-- `forderungsverzicht-besserungsschein-<gläubiger>.docx`.
+- `forderungsverzicht-besserungsschein-<glaeubiger>.docx`.
 - Steuerliche Prüfer-Flag — Steuerberater einbinden.
 - Statusupdate (Skill `bilanzieller-status-aufnehmen`): Forderung entfaellt aus den Passiva.
 - Eintrag im Sanierungsbausteine-Tracker.

@@ -109,7 +109,7 @@ Beim Eintragen automatisch berücksichtigen — bei nachweislich frueherem Zugan
 ## Ausgabe
 
 - `fristenbuch.yaml` aktualisiert
-- `fristen-übersicht.md` Tagesbericht nächste sieben und nächste vierzehn Tage
+- `fristen-uebersicht.md` Tagesbericht nächste sieben und nächste vierzehn Tage
 - Vorfristen-Erinnerung in `sekretariats-tagesbrief`
 - Audit-Eintrag bei Änderungen
 

@@ -2,6 +2,31 @@
 
 Steuerberater-Werkzeugbox für die Krisenfrüherkennung nach deutschem Recht (StaRUG § 102, InsO §§ 17, 19, IDW S 6/S 11). Zielgruppe: Steuerberater, Wirtschaftsprüfer mit Steuerberatungsmandat, GmbH-Geschäftsführer und Finanzleitungen in der Sanierungspraxis. Das Plugin deckt die **Krisenfrühphase** ab – Erkennung, Dokumentation und Hinweispflicht-Auslösung – bevor insolvenzrechtliche Formalverfahren notwendig werden.
 
+## ⬇️ Direkt-Download (einzelnes ZIP)
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| Steuerberater-Werkzeuge (`steuerberater-werkzeuge`, dieses Plugin) | [steuerberater-werkzeuge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerberater-werkzeuge.zip) |
+
+Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
+
+### Installation in Claude Code
+
+1. ZIP herunterladen (Link oben).
+2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
+3. Fertig. Skills sind sofort verfügbar.
+
+> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
+
+### Zum Ausprobieren: Beispielakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+[testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip)
+
+Fiktive Mandantsakte der Edelholz Manufaktur Berlin GmbH mit BWA, SuSa, OPOS und Bilanz-Daten — geeignet für Krisenfrüherkennung und Hinweispflichten nach § 102 StaRUG.
+
+
 ## Enthaltene Skills
 
 | Skill | Zweck |

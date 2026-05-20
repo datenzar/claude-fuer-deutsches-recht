@@ -55,14 +55,18 @@ jobs:
       - name: Release-ZIPs validieren
         run: python3 scripts/validate-release-zips.py dist .claude-plugin/marketplace.json
 
-      - name: Beispielakten separat verpacken (kein Teil der Plugins)
+      - name: Beispielakten separat verpacken (kein Teil der Plugins, testakte-Prefix)
         run: |
+          # Beispielakten werden mit testakte-Prefix gepackt, damit sie sich im
+          # Namespace klar von Plugin-ZIPs unterscheiden und niemals versehentlich
+          # über 'Install from .zip' als Plugin geladen werden können.
           if [ -d testakten ]; then
             for d in testakten/*/; do
               name=$(basename "$d")
-              echo "Baue ${name}.zip aus $d"
-              (cd testakten && zip -rq "../dist/${name}.zip" "$name" -x '*.DS_Store')
-              ls -la "dist/${name}.zip"
+              zipname="testakte-${name}.zip"
+              echo "Baue ${zipname} aus $d"
+              (cd testakten && zip -rq "../dist/${zipname}" "$name" -x '*.DS_Store')
+              ls -la "dist/${zipname}"
             done
           fi
 

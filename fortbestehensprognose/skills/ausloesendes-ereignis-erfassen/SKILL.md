@@ -92,6 +92,6 @@ Im Zweifel **vor Ablauf der Frist** Insolvenzanwalt zu Rate ziehen.
 
 ## Ausgabe
 
-- `auslösendes-ereignis.yaml` mit allen Pflichtfeldern.
+- `ausloesendes-ereignis.yaml` mit allen Pflichtfeldern.
 - Erste Risikobewertung (gruen / gelb / rot).
 - Empfehlung: bei rot direkt zu `wenn-prognose-negativ-naechste-schritte` und Insolvenzanwalt einschalten — diese Prüfung kann fortgesetzt werden aber nicht ohne anwaltliche Begleitung.

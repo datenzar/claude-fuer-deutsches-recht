@@ -72,7 +72,7 @@ Pro Eintrag:
 ## Ausgabe
 
 - `fristenbuch.yaml` aktualisiert
-- `fristen-übersicht.md` als Sekretariats-Bericht (Tagesbericht nächste sieben Tage)
+- `fristen-uebersicht.md` als Sekretariats-Bericht (Tagesbericht nächste sieben Tage)
 - Bei Vorfristerreichung: Erinnerungs-Eintrag im Sekretariats-Tagesbrief (Plugin `kanzlei-cowork`)
 
 ## Sicherheit

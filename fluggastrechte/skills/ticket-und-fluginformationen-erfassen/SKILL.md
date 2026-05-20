@@ -87,7 +87,7 @@ belege:
 
 - `fallakte.yaml` mit allen Stammdaten.
 - `belegliste.md` mit Prüfer-Flags für fehlende Belege.
-- `nächste-schritte.md` Empfehlung auf nächsten Skill (`annullierung-oder-verspaetung-einordnen`).
+- `naechste-schritte.md` Empfehlung auf nächsten Skill (`annullierung-oder-verspaetung-einordnen`).
 
 ## Mehrere Passagiere
 

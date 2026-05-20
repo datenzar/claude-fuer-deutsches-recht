@@ -139,7 +139,7 @@ Eine **weiche** Patronatserklärung (Comfortletter, „Best Effort"-Erklärung) 
 
 ## Ausgabe
 
-- `patronatserklärung-extern-hart.docx` und PDF.
+- `patronatserklaerung-extern-hart.docx` und PDF.
 - Hinweis Patron Bonität prüfen.
 - Eintragung im Sanierungsbausteine-Tracker mit Status: zur Unterschrift bereitgestellt.
 - Wiedervorlage in einer Woche zur Prüfung ob unterschrieben.
