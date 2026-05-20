@@ -70,7 +70,7 @@ Der erzeugte Skill enthält die Hausregeln fest verdrahtet und führt weiterhin 
 
 ## Online-Zuständigkeit (Pflicht in jedem Lauf)
 
-1. **Sachlich** rechnerisch: ≤ 5.000 EUR → AG (§ 23 Nr. 1 GVG); > 5.000 EUR → LG (§ 71 GVG); Sondertatbestände beachten.
+1. **Sachlich** rechnerisch: ≤ 10.000 EUR → AG (§ 23 Nr. 1 GVG i. d. F. seit 1.1.2026); > 10.000 EUR → LG (§ 71 GVG); Sondertatbestände beachten.
 2. **Örtlich** rechtlich: §§ 12, 13 ZPO Allgemeiner Gerichtsstand, § 29 ZPO Erfüllungsort, § 29c ZPO Verbraucherverträge, § 38 ZPO Gerichtsstandsvereinbarung; grenzüberschreitend Brüssel Ia VO 1215/2012.
 3. **Online-Adressrecherche**: `justizadressen.nrw.de` (PLZ/Ort) und bundesweit `justiz.de`; Quelle und Abrufdatum dokumentieren.
 4. BeA-SAFE-ID: aus dem beA-Adressbuch zu ergänzen.

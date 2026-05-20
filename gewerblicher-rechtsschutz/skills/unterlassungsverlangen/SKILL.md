@@ -57,7 +57,7 @@ Gegenstand bestimmen:
 
 ### 3. Abmahnschreiben formulieren
 
-**Pflichtbestandteile einer wirksamen Abmahnung** (§ 12 UWG; § 97a UrhG; allg. Zivilrecht):
+**Pflichtbestandteile einer wirksamen Abmahnung** (§ 13 Abs. 2 UWG; § 97a Abs. 2 UrhG; allg. Zivilrecht):
 
 1. **Bezeichnung der Verletzungshandlung** – konkret und individualisierbar; pauschale Beschreibungen genügen nicht (BGH, Urt. v. 02.12.2015 – I ZR 23/14, GRUR 2016, 399 Rn. 31 – „Badische Zeitung")
 2. **Bezeichnung des verletzten Rechts** – einschließlich Registernummer bei eingetragenen Rechten

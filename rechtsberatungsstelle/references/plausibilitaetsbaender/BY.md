@@ -58,7 +58,7 @@ Hinweis für die Praxis: Liegt kein aktueller qualifizierter Mietspiegel vor, ka
 
 **Ordentliche Gerichtsbarkeit**
 - Amtsgerichte (1. Instanz Mietrecht, Familiensachen, Straf bis 4 Jahre): über 70 AG in Bayern; in München: AG München, größtes AG in Deutschland.
-- Landgerichte (1. Instanz > 5.000 EUR, Berufung Mietrecht): LG München I, LG München II, LG Augsburg, LG Nürnberg-Fürth u. a.
+- Landgerichte (1. Instanz > 10.000 EUR i. d. F. seit 1.1.2026, Berufung Mietrecht): LG München I, LG München II, LG Augsburg, LG Nürnberg-Fürth u. a.
 - OLG München, OLG Bamberg, OLG Nürnberg: Revisionsinstanzen in Zivilsachen.
 
 **Arbeitsgerichtsbarkeit**

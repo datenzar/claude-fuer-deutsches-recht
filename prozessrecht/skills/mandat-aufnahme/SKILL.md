@@ -115,5 +115,5 @@ Interaktiver Dialog, dann automatisches Schreiben von `mandat.md`, `verlauf.md` 
 
 - **Interessenkonflikt nicht erkannt:** § 43a Abs. 4 BRAO – bei Verstoß droht Schadensersatzpflicht des Anwalts (BGH – IX ZR 315/18) und berufsrechtliche Sanktionen (§§ 113 ff. BRAO).
 - **Verjährung nicht geprüft:** Vor Intake stets Verjährungsablauf ermitteln; läuft die Verjährung in < 3 Monaten, sofort Hemmungsmaßnahmen (§ 204 BGB: Klageerhebung, Mahnbescheid) einleiten.
-- **Zuständigkeit falsch:** Fehlerhafte sachliche Zuständigkeit führt zur Verweisung (§ 281 ZPO) und Zeitverlust; Streitwertgrenzen (AG: bis EUR 5.000; LG: ab EUR 5.001, § 23 Nr. 1 GVG) prüfen.
+- **Zuständigkeit falsch:** Fehlerhafte sachliche Zuständigkeit führt zur Verweisung (§ 281 ZPO) und Zeitverlust; Streitwertgrenzen (AG: bis EUR 10.000; LG: über EUR 10.000, § 23 Nr. 1 GVG i. d. F. seit 1.1.2026) prüfen.
 - **Mandant ist Verbraucher – besondere Pflichten:** Informationspflichten nach § 43d BRAO (Kostenmitteilung), § 13 RVG (Vergütungsvereinbarung).

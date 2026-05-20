@@ -24,8 +24,8 @@ Das Modell benötigt:
    sonstige Materie: je nach Eilbedürftigkeit)
 3. **Glaubhaftmachungsmittel**: eidesstattliche Versicherung, Urkunden, Screenshots,
    Sachverständigengutachten
-4. **Gericht**: zuständiges LG (sachliche Zuständigkeit bei Streitwert > EUR 5.000;
-   UWG: § 14 UWG; Pressesachen: besondere Kammern)
+4. **Gericht**: zuständiges LG (sachliche Zuständigkeit bei Streitwert > EUR 10.000 i. d. F. seit 1.1.2026;
+   UWG: § 14 UWG; Veröffentlichungsstreitigkeiten ohne Rücksicht auf Streitwert ausschließlich LG § 71 Abs. 2 Nr. 7 GVG; spezialisierte Pressekammern § 72a Abs. 1 Nr. 5 GVG)
 5. **Gegnerische Schutzschrift**: liegt eine bekannte Schutzschrift im ZSSR vor?
 
 ## Rechtlicher Rahmen

@@ -178,7 +178,7 @@ Wo eine deutsche Norm Unionsrecht umsetzt, wird der Wille des deutschen Gesetzge
 
 - Regelverjährung 3 Jahre (§ 195 BGB), Beginn § 199 BGB (Jahresende + Kenntnis/grob fahrlässige Unkenntnis).
 - 10-Jahres-Höchstfrist (§ 199 Abs. 3 BGB).
-- Sondernormen: § 196 BGB (Grundstücke 10 J.), § 197 BGB (30 J. für titulierte Ansprüche), § 438 BGB (Kaufgewährleistung), § 634a BGB (Werkmängel), § 11 ProdHaftG (10 J.), § 12 UWG (6 Monate), § 78 StGB (strafrechtliche Verfolgungsverjährung).
+- Sondernormen: § 196 BGB (Grundstücke 10 J.), § 197 BGB (30 J. für titulierte Ansprüche), § 438 BGB (Kaufgewährleistung), § 634a BGB (Werkmängel), § 11 ProdHaftG (10 J.), § 11 UWG (6 Monate), § 78 StGB (strafrechtliche Verfolgungsverjährung).
 - Verjährungshemmung §§ 203 ff. BGB beachten (Verhandlungen, Rechtsverfolgung).
 
 ## 9. Fristen im Zivilprozess

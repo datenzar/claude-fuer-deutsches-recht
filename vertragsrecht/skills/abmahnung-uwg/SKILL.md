@@ -38,7 +38,7 @@ Das Modell benötigt folgende Informationen:
 - **§ 13 UWG** – formale Anforderungen der Abmahnung (Pflichtinhalt seit UWG-Reform 2021)
 - **§ 13a UWG** – Gegenanspruch des Abgemahnten bei unberechtigter Abmahnung
 - **§ 14 UWG** – Zuständigkeit (i. d. R. LG am Sitz des Verletzers oder des Verletzten)
-- **§ 12 UWG** – Verjährung (6 Monate ab Kenntnis, max. 3 Jahre § 195, 199 BGB)
+- **§ 11 UWG** – Verjährung (6 Monate ab Kenntnis bei Ansprüchen nach §§ 8, 9 Abs. 1, 13 Abs. 3 UWG; Höchstfristen nach § 11 Abs. 3 und 4 UWG)
 - **§ 339 BGB** – Vertragsstrafe; **§ 242 BGB** – Herabsetzungsrecht bei unverhältnismäßiger
   Strafe (sog. Korrektivklausel)
 
