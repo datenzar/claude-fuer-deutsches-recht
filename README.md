@@ -32,6 +32,88 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 - **Beschlagnahmeverbote und auslandsrechtliche Zugriffe.** Es wird nicht geprüft, ob Eingabedaten und Modellantworten gegen Beschlagnahme nach **§§ 97, 160a StPO**, gegen **US Cloud Act**, **FISA § 702**, **CLOUD Act warrants**, **PATRIOT Act § 215** oder sonstige extraterritoriale Zugriffsbefugnisse hinreichend geschützt sind. Dafür ist die jeweilige Nutzerin / der jeweilige Nutzer allein verantwortlich.
 - **Zugang, Auftragsverarbeitung, Hosting.** Wie der API-Zugang zum Modell beschafft wird (Anthropic direkt, AWS Bedrock, Google Vertex, eigenes Hosting), ob mit dem Anbieter ein **Auftragsverarbeitungsvertrag** geschlossen wird, ob ein **berufsrechtskonformer Cloud-Vertrag** vorliegt und ob die Anforderungen an die Verschwiegenheit / Mandatsgeheimnis-Header und Datenflusskontrolle in der konkreten Deployment-Konstellation eingehalten sind, bleibt vollständig in der **Eigenverantwortung der Nutzerin / des Nutzers**.
 
+## Wieso ueberhaupt ein Zwischenanbieter (Stand Mai 2026)
+
+Anwaeltinnen und Anwaelte sind nach § 203 StGB und § 43a BRAO zur Verschwiegenheit verpflichtet. Wer Mandantendaten in Claude eintippt, gibt sie technisch an Anthropic in den USA weiter — zulaessig ist das nur, wenn dieser Empfaenger sich vorher schriftlich zur Verschwiegenheit verpflichtet hat (§ 203 Abs. 4 StGB; § 43e BRAO). Anthropic unterschreibt eine solche Erklaerung Stand Mai 2026 **nicht**. Bis sich das aendert, fuehrt der Weg ueber einen deutschen Zwischenanbieter, der § 203 vertraglich zusagt — etwa Langdock oder einen vergleichbaren Anbieter ([nextAIM zu § 203-LLM-Hosting](https://www.nextaim.de/llm-hosting-203/); [anymize.ai zu Anonymisierung und EU-Servern](https://anymize.ai/blog/eu-server-keine-firewall-anonymisierung-ki); [Langdock Trust Center](https://trust.langdock.com/resources)).
+
+Die nachstehende Anleitung beschreibt den vollstaendigen Einrichtungsweg — vom Vertrag bis zur Funktionspruefung. Die Feldnamen koennen je nach App-Version leicht abweichen; im Zweifel mit Dummy-Daten vortesten.
+
+### Vorbereitung beim Anbieter
+
+**Schritt 1 — Anbieter waehlen und Vertrag unterschreiben.** Anbieter mit § 203-Zusatzvereinbarung waehlen, Vereinbarung unterschreiben, in die Akte legen.
+
+**Schritt 2 — Beim Anbieter einloggen.** Browser oeffnen, Anbieterseite aufrufen, Konto-Login.
+
+**Schritt 3 — Zum API-Bereich wechseln.** Im Anbieter-Dashboard auf Profilbild oder Zahnrad klicken, Punkt „API Keys“ (manchmal „Tokens“ oder „Developer“) oeffnen ([Langdock API Introduction](https://docs.langdock.com/api-endpoints/api-introduction)).
+
+**Schritt 4 — Neuen Schluessel anlegen.** Auf „Create new key“ / „Neuen Schluessel erstellen“ klicken.
+
+**Schritt 5 — Namen vergeben.** Sprechenden Namen eintragen, etwa „Claude-Cowork-Kanzlei-PC“.
+
+**Schritt 6 — Schluessel kopieren.** Den langen Zeichenstring (beginnt meist mit `sk-…`) **einmal** anzeigen lassen und sofort in den Passwort-Manager kopieren — er wird spaeter nicht mehr im Klartext angezeigt.
+
+**Schritt 7 — Adresse der Schnittstelle notieren.** In der Hilfe des Anbieters die „Anthropic-kompatible Base URL“ suchen, Muster `https://api.<anbieter>.de/anthropic`, mitkopieren ([BentoML zur Anthropic-kompatiblen API](https://bentoml.com/llm/model-interaction/anthropic-compatible-api)).
+
+**Schritt 8 — Modellnamen notieren.** Im Modellkatalog des Anbieters den genauen Namen fuer Claude 4.7 Opus oder Sonnet aufschreiben (etwa `claude-sonnet-4-7-…`).
+
+### Schluessel in die Cowork-App einhaengen
+
+**Schritt 9 — Claude-App aktualisieren.** Claude Desktop oeffnen, „Auf Updates pruefen“, neu starten.
+
+**Schritt 10 — Abmelden.** Oben rechts auf das Profil klicken, „Log out“ waehlen.
+
+**Schritt 11 — Einstellungs-Dialog oeffnen.** Menueleiste: „Menu“ → „Developer“ → „Configure Third-Party Inference“. Falls der Eintrag fehlt oder ausgegraut ist: „Help“ → „Troubleshooting“ → „Enable Developer Mode“ ([Product Compass zu Cowork-3P-LLM](https://www.productcompass.pm/p/cowork-on-3p-any-llm)).
+
+**Schritt 12 — Verbindungsart waehlen.** Feld „Connection“ auf „Gateway“ stellen.
+
+**Schritt 13 — Adresse einfuegen.** In „Gateway base URL“ die in Schritt 7 notierte Adresse einfuegen.
+
+**Schritt 14 — Schluessel einfuegen.** In „Gateway API key“ den in Schritt 6 kopierten Schluessel einfuegen (komplett, ohne Leerzeichen am Anfang oder Ende).
+
+**Schritt 15 — Anmelde-Verfahren waehlen.** Im Feld „Gateway auth scheme“ zuerst „x-api-key“ auswaehlen; bei Fehler „Invalid API key“ spaeter auf „Authorization: Bearer“ umschalten.
+
+**Schritt 16 — Erlaubte Verbindungen eintragen.** In „Allowed egress hosts“ nur die Domain des Anbieters eintragen, etwa `api.<anbieter>.de`, sonst nichts.
+
+**Schritt 17 — Speichern.** „Apply locally“ anklicken.
+
+**Schritt 18 — App neu starten.** „Relaunch now“ anklicken und warten, bis die App wieder oben ist.
+
+**Schritt 19 — Ueber Gateway einloggen.** Im Login-Fenster nicht „Continue with Anthropic“ waehlen, sondern „Continue with Gateway“.
+
+**Schritt 20 — Modell auswaehlen.** Oben im Chat das Modell aufklappen und Claude 4.7 Opus oder Sonnet (Schreibweise wie in Schritt 8) waehlen.
+
+### Falls die Felder im Menue nicht greifen
+
+**Schritt 21 — Mac ueber Terminal.** Terminal oeffnen und nacheinander eingeben:
+
+```
+launchctl setenv ANTHROPIC_BASE_URL https://api.<anbieter>.de/anthropic
+launchctl setenv ANTHROPIC_AUTH_TOKEN <Ihr-Schluessel>
+launchctl setenv ANTHROPIC_API_KEY ""
+```
+
+Danach Cmd+Q und Claude wieder oeffnen ([OpenAI-Hub zur Drittanbieter-Anbindung](https://www.openai-hub.com/news/203); [Fazm zur Anthropic-Base-URL-Konfiguration](https://fazm.ai/blog/route-claude-api-through-custom-endpoint-anthropic-base-url)).
+
+**Schritt 22 — Windows 11 ueber Systemeinstellungen.** „Systemsteuerung → System → Erweiterte Systemeinstellungen → Umgebungsvariablen“. Drei neue Benutzervariablen anlegen: `ANTHROPIC_BASE_URL`, `ANTHROPIC_AUTH_TOKEN`, `ANTHROPIC_API_KEY` (letzte leer lassen). Ab- und neu anmelden, dann Claude starten ([Claude-Code-Doku zu Environment-Variablen](https://code.claude.com/docs/en/env-vars)).
+
+### Funktionspruefung
+
+**Schritt 23 — Test-Anfrage.** Einen harmlosen Satz an Claude schicken („Sag Hallo“).
+
+**Schritt 24 — Im Anbieter-Konto pruefen.** Im Dashboard des Anbieters unter „Logs“ muss die Anfrage erscheinen.
+
+**Schritt 25 — Im Anthropic-Konto pruefen.** Im alten Anthropic-Konto darf **nichts** auftauchen.
+
+**Schritt 26 — Verbindungen pruefen.** Mit Little Snitch (Mac) oder Windows-Firewall kontrollieren, dass die App nur die Anbieter-Adresse anspricht.
+
+**Schritt 27 — Telemetrie aus.** In den App-Einstellungen Fehlerberichte und Nutzungsdaten ausschalten.
+
+**Schritt 28 — Dokumentieren.** Anbieter, Adresse, Modell, Datum und § 203-Schreiben in die Compliance-Akte.
+
+### Hinweis
+
+Stand Mai 2026 funktioniert dieser Weg nur ueber einen Zwischenanbieter. Sobald Anthropic selbst eine § 203-Vereinbarung anbietet, waere der Umweg entbehrlich. Die Feldbezeichnungen koennen je nach App-Version leicht abweichen; ohne Gewaehr, im Zweifel vorab mit Dummy-Daten testen.
+
 **Worum es hier geht.** Dieses Repository ist eine **technische Spielwiese**, die zeigt, was mit Claude Code und Plugin-Skills im Kontext deutschen Rechts überhaupt **technisch machbar** ist. Es geht **nicht** darum, eine produktiv einsetzbare, rechtskonforme Lösung anzubieten. Jede einzelne Nutzerin und jeder einzelne Nutzer prüft selbst und in eigener Verantwortung, ob, wie und unter welchen Schutzmaßnahmen ein Einsatz im konkreten Mandat oder Berufsumfeld zulässig ist – inklusive Mandatsgeheimnis, Datenschutz, Zeugnisverweigerungsrecht und Beschlagnahmeschutz, unabhängig von der einschlägigen Rechtsordnung.
 
 > ⚠️ **WICHTIGER HINWEIS**
