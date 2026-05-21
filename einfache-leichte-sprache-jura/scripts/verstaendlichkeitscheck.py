@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Kleiner Vorcheck für Einfache Sprache und Leichte Sprache.
 
-Das Skript ist kein DIN-Zertifikat und keine Normprüfung. Es findet
+Das Skript ist kein Zertifikat und keine Standardprüfung. Es findet
 Warnsignale, die ein Mensch anschließend bewertet.
 """
 

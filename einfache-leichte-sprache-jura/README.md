@@ -10,14 +10,14 @@ verständlich, respektvoll und rechtlich belastbar erklären müssen.
 - [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip)
 - [Beispielakte Mandantenbrief](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip)
 
-## Urheberrechtlicher Hinweis
+## Showcase-Hinweis
 
-Die DIN-Dokumente werden **nicht** mitgeliefert und nicht wörtlich
-übernommen. Das Plugin enthält ein eigenständig formuliertes Arbeitsmodell,
-das sich in Zielrichtung, Prozess und Ergebnisqualität an den öffentlich
-bekannten Anforderungen und an der fachlichen Struktur der einschlägigen
-Standards orientiert. Wer eine formale Normkonformität erklären will, muss die
-jeweils lizenzierten Normtexte selbst heranziehen und die Prüfung dokumentieren.
+Dieses Plugin ist ein Experiment und ein Showcase. Es ist ein Versuch, sich der
+Ergebnisrichtung von Einfacher Sprache und Leichter Sprache anzunähern, ohne
+eine Standardprüfung oder Konformitätsaussage zu behaupten. Make of this what
+you will, dear users: Ihr müsst selbst beurteilen, ob Verfahren, Sprache und
+Ergebnis für eure Zielgruppe, euer Medium und euren Rechtstext passen. You are
+on your own.
 
 ## Zwei Modi
 

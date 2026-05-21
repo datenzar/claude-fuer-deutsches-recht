@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.8
+**Stand:** v3.0.9
 
 ## Asset-Typen
 
@@ -28,7 +28,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `common-law-kompass` | Freistehendes Common-Law-Plugin für deutsche Wirtschaftsjuristen: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews. |
 | `corporate-kanzlei` | Corporate/M&A-Plugin (46 Skills) für transaktionsstarke Kanzleien: Deal-Kommandocenter, Datenraum, Due Diligence, Tabellenreview, SPA/APA, Disclosure Schedules, Signing/Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, StaRUG, Insolvenzplan, PMI. |
 | `datenschutzrecht` | DSGVO/BDSG/TTDSG: PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15 DSGVO, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz. |
-| `einfache-leichte-sprache-jura` | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: Zielgruppe klären, Inhalt sichern, juristische Begriffe erklären, DIN-nah prüfen und verständliche Mandantenfassungen erstellen. |
+| `einfache-leichte-sprache-jura` | Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen. |
 | `energierecht` | Freistehendes Energierecht-Plugin: Stadtwerke, Strom-, Gas- und Wärmeversorgung, Netze, Speicher, Vertrieb, Industrie, EEG/KWKG, Quartiere, Fernwärme, Wettbewerb, Verwaltungsverfahren, Transaktionen, PPA und Projektfinanzierung. |
 | `europarecht-kompass` | Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting. |
 | `fachanwalt-agrarrecht` | Light-Touch-Plugin Fachanwalt fuer Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Duengeverordnung Pflanzenschutzrecht Tierschutz Forstrecht. |

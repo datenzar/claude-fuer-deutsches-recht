@@ -81,7 +81,7 @@
     {
       "name": "einfache-leichte-sprache-jura",
       "source": "./einfache-leichte-sprache-jura",
-      "description": "Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: Zielgruppe klären, Inhalt sichern, juristische Begriffe erklären, DIN-nah prüfen und verständliche Mandantenfassungen erstellen.",
+      "description": "Juristische Texte in Einfache Sprache oder Leichte Sprache übertragen: experimentelle Standard-Annäherung, Zielgruppe klären, Rechtsinhalt sichern und Qualitätsgate nutzen.",
       "author": {
         "name": "Klotzkette"
       }

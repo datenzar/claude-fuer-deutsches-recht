@@ -1,9 +1,13 @@
 # Arbeitsdestillat: Einfache Sprache und Leichte Sprache
 
-Diese Referenz ist eine eigenständige Arbeitsfassung. Sie enthält keine
-Normtexte und ersetzt keine lizenzierte Normprüfung.
+Diese Referenz ist eine eigenständige Arbeitsfassung für ein Showcase-Plugin.
+Sie ist nur ein Annäherungsversuch an die Ergebnisrichtung von Einfacher
+Sprache und Leichter Sprache. Sie ist kein Standardnachweis, keine
+Konformitätsprüfung und keine Zusicherung, dass ein konkreter Text die
+einschlägigen Anforderungen erfüllt. Nutzerinnen und Nutzer müssen das Ergebnis
+selbst prüfen.
 
-Öffentliche Orientierung:
+Öffentliche Orientierungspunkte, nicht Bestandteil des Plugins:
 
 - DIN-Pressemitteilung zu den Normen für Einfache Sprache:
   <https://www.din.de/de/din-und-seine-partner/presse/mitteilungen/erste-din-normen-fuer-einfache-sprache-veroeffentlicht--1090866>
