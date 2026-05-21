@@ -1,0 +1,4 @@
+lfd_nr,pruefnummer,glaeubiger,grund,betrag_angemeldet,betrag_vorschlag_feststellung,betrag_bestreiten,rang,status,streitpunkt
+1,IFAP-001,Solarteile Nord GmbH,Warenlieferung,28450.20,24250.20,4200.00,§ 38 InsO,teilweise bestreiten,OPOS Zahlung SN-2026-016
+2,IFAP-002,Havelbank AG,Darlehen,150000.00,0.00,150000.00,§ 38 InsO zurückgestellt,Ausfall nicht beziffert
+3,IFAP-003,Finanzamt Potsdam,Steuern,38400.00,38400.00,0.00,§ 38 InsO,vbuH Rechtsgrund offen,Steuerstraftat nicht belegt

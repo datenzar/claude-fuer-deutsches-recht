@@ -1,0 +1,7 @@
+glaeubiger_id,name,anschrift,vertreter,konto_schuldner,opos_betrag,bemerkung
+G001,Solarteile Nord GmbH,Hafenweg 12 20457 Hamburg,RA Henning Beispiel,70010,28450.20,Lieferant Module
+G002,Havelbank AG,Berliner Straße 4 14467 Potsdam,RAin Kühn,16000,150000.00,Darlehen mit Sicherungsübereignung
+G003,Finanzamt Potsdam,Steinstraße 104 14480 Potsdam,,37000,38400.00,USt und LSt
+G004,BKK Handwerk Mitte,Postfach 12 40 14412 Potsdam,,37400,21440.72,Sozialversicherung
+G005,Lena Vogt,Pappelallee 31 14469 Potsdam,,60020,6200.00,Lohn und vbuH-Behauptung unklar
+G006,Gründerkreis Phoenix GbR,Kantstraße 5 14471 Potsdam,RA Limmer,29000,85000.00,Gesellschafterdarlehen

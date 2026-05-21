@@ -351,6 +351,14 @@
       }
     },
     {
+      "name": "insolvenzforderungsanmeldungspruefung",
+      "source": "./insolvenzforderungsanmeldungspruefung",
+      "description": "Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "insolvenzrecht",
       "source": "./insolvenzrecht",
       "description": "Insolvenz- und sanierungsrechtliche Skills: strukturierte Prüfung Zahlungsunfähigkeit (§ 17 InsO) anhand der BGH-Rechtsprechung (BGHZ 163, 134), zweistufige Überschuldungsprüfung (§ 19 InsO) mit Fortbestehensprognose nach IDW S 11, Antragspflicht Geschäftsleiter (§ 15a InsO) und Haftung Insolvenzverschleppung, Gläubigerantrag-Prüfung (§ 14 InsO), rollierende Liquiditätsvorschau 13 Wochen / 24 Monate.",
