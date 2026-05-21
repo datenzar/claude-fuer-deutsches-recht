@@ -32,45 +32,45 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 - **Beschlagnahmeverbote und auslandsrechtliche Zugriffe.** Es wird nicht geprüft, ob Eingabedaten und Modellantworten gegen Beschlagnahme nach **§§ 97, 160a StPO**, gegen **US Cloud Act**, **FISA § 702**, **CLOUD Act warrants**, **PATRIOT Act § 215** oder sonstige extraterritoriale Zugriffsbefugnisse hinreichend geschützt sind. Dafür ist die jeweilige Nutzerin / der jeweilige Nutzer allein verantwortlich.
 - **Zugang, Auftragsverarbeitung, Hosting.** Wie der API-Zugang zum Modell beschafft wird (Anthropic direkt, AWS Bedrock, Google Vertex, eigenes Hosting), ob mit dem Anbieter ein **Auftragsverarbeitungsvertrag** geschlossen wird, ob ein **berufsrechtskonformer Cloud-Vertrag** vorliegt und ob die Anforderungen an die Verschwiegenheit / Mandatsgeheimnis-Header und Datenflusskontrolle in der konkreten Deployment-Konstellation eingehalten sind, bleibt vollständig in der **Eigenverantwortung der Nutzerin / des Nutzers**.
 
-## Wieso ueberhaupt ein Zwischenanbieter (Stand Mai 2026)
+## Wieso überhaupt ein Zwischenanbieter (Stand Mai 2026)
 
-Anwaeltinnen und Anwaelte sind nach § 203 StGB und § 43a BRAO zur Verschwiegenheit verpflichtet. Wer Mandantendaten in Claude eintippt, gibt sie technisch an Anthropic in den USA weiter — zulässig ist das nur, wenn dieser Empfaenger sich vorher schriftlich zur Verschwiegenheit verpflichtet hat (§ 203 Abs. 4 StGB; § 43e BRAO). Anthropic unterschreibt eine solche Erklärung Stand Mai 2026 **nicht**. Bis sich das aendert, fuehrt der Weg über einen deutschen Zwischenanbieter, der § 203 vertraglich zusagt — etwa Langdock oder einen vergleichbaren Anbieter ([nextAIM zu § 203-LLM-Hosting](https://www.nextaim.de/llm-hosting-203/); [anymize.ai zu Anonymisierung und EU-Servern](https://anymize.ai/blog/eu-server-keine-firewall-anonymisierung-ki); [Langdock Trust Center](https://trust.langdock.com/resources)).
+Anwältinnen und Anwälte sind nach § 203 StGB und § 43a BRAO zur Verschwiegenheit verpflichtet. Wer Mandantendaten in Claude eintippt, gibt sie technisch an Anthropic in den USA weiter — zulässig ist das nur, wenn dieser Empfänger sich vorher schriftlich zur Verschwiegenheit verpflichtet hat (§ 203 Abs. 4 StGB; § 43e BRAO). Anthropic unterschreibt eine solche Erklärung Stand Mai 2026 **nicht**. Bis sich das ändert, führt der Weg über einen deutschen Zwischenanbieter, der § 203 vertraglich zusagt — etwa Langdock oder einen vergleichbaren Anbieter ([nextAIM zu § 203-LLM-Hosting](https://www.nextaim.de/llm-hosting-203/); [anymize.ai zu Anonymisierung und EU-Servern](https://anymize.ai/blog/eu-server-keine-firewall-anonymisierung-ki); [Langdock Trust Center](https://trust.langdock.com/resources)).
 
-Die nachstehende Anleitung beschreibt den vollstaendigen Einrichtungsweg — vom Vertrag bis zur Funktionspruefung. Die Feldnamen koennen je nach App-Version leicht abweichen; im Zweifel mit Dummy-Daten vortesten.
+Die nachstehende Anleitung beschreibt den vollständigen Einrichtungsweg — vom Vertrag bis zur Funktionsprüfung. Die Feldnamen können je nach App-Version leicht abweichen; im Zweifel mit Dummy-Daten vortesten.
 
 ### Vorbereitung beim Anbieter
 
-**Schritt 1 — Anbieter waehlen und Vertrag unterschreiben.** Anbieter mit § 203-Zusatzvereinbarung waehlen, Vereinbarung unterschreiben, in die Akte legen.
+**Schritt 1 — Anbieter wählen und Vertrag unterschreiben.** Anbieter mit § 203-Zusatzvereinbarung wählen, Vereinbarung unterschreiben, in die Akte legen.
 
-**Schritt 2 — Beim Anbieter einloggen.** Browser oeffnen, Anbieterseite aufrufen, Konto-Login.
+**Schritt 2 — Beim Anbieter einloggen.** Browser öffnen, Anbieterseite aufrufen, Konto-Login.
 
-**Schritt 3 — Zum API-Bereich wechseln.** Im Anbieter-Dashboard auf Profilbild oder Zahnrad klicken, Punkt „API Keys“ (manchmal „Tokens“ oder „Developer“) oeffnen ([Langdock API Introduction](https://docs.langdock.com/api-endpoints/api-introduction)).
+**Schritt 3 — Zum API-Bereich wechseln.** Im Anbieter-Dashboard auf Profilbild oder Zahnrad klicken, Punkt „API Keys“ (manchmal „Tokens“ oder „Developer“) öffnen ([Langdock API Introduction](https://docs.langdock.com/api-endpoints/api-introduction)).
 
-**Schritt 4 — Neuen Schluessel anlegen.** Auf „Create new key“ / „Neuen Schluessel erstellen“ klicken.
+**Schritt 4 — Neuen Schlüssel anlegen.** Auf „Create new key“ / „Neuen Schlüssel erstellen“ klicken.
 
 **Schritt 5 — Namen vergeben.** Sprechenden Namen eintragen, etwa „Claude-Cowork-Kanzlei-PC“.
 
-**Schritt 6 — Schluessel kopieren.** Den langen Zeichenstring (beginnt meist mit `sk-…`) **einmal** anzeigen lassen und sofort in den Passwort-Manager kopieren — er wird später nicht mehr im Klartext angezeigt.
+**Schritt 6 — Schlüssel kopieren.** Den langen Zeichenstring (beginnt meist mit `sk-…`) **einmal** anzeigen lassen und sofort in den Passwort-Manager kopieren — er wird später nicht mehr im Klartext angezeigt.
 
 **Schritt 7 — Adresse der Schnittstelle notieren.** In der Hilfe des Anbieters die „Anthropic-kompatible Base URL“ suchen, Muster `https://api.<anbieter>.de/anthropic`, mitkopieren ([BentoML zur Anthropic-kompatiblen API](https://bentoml.com/llm/model-interaction/anthropic-compatible-api)).
 
-**Schritt 8 — Modellnamen notieren.** Im Modellkatalog des Anbieters den genauen Namen fuer Claude 4.7 Opus oder Sonnet aufschreiben (etwa `claude-sonnet-4-7-…`).
+**Schritt 8 — Modellnamen notieren.** Im Modellkatalog des Anbieters den genauen Namen für Claude 4.7 Opus oder Sonnet aufschreiben (etwa `claude-sonnet-4-7-…`).
 
-### Schlüssel in die Cowork-App einhaengen
+### Schlüssel in die Cowork-App einhängen
 
-**Schritt 9 — Claude-App aktualisieren.** Claude Desktop oeffnen, „Auf Updates prüfen“, neu starten.
+**Schritt 9 — Claude-App aktualisieren.** Claude Desktop öffnen, „Auf Updates prüfen“, neu starten.
 
-**Schritt 10 — Abmelden.** Oben rechts auf das Profil klicken, „Log out“ waehlen.
+**Schritt 10 — Abmelden.** Oben rechts auf das Profil klicken, „Log out“ wählen.
 
-**Schritt 11 — Einstellungs-Dialog oeffnen.** Menueleiste: „Menu“ → „Developer“ → „Configure Third-Party Inference“. Falls der Eintrag fehlt oder ausgegraut ist: „Help“ → „Troubleshooting“ → „Enable Developer Mode“ ([Product Compass zu Cowork-3P-LLM](https://www.productcompass.pm/p/cowork-on-3p-any-llm)).
+**Schritt 11 — Einstellungs-Dialog öffnen.** Menüleiste: „Menu“ → „Developer“ → „Configure Third-Party Inference“. Falls der Eintrag fehlt oder ausgegraut ist: „Help“ → „Troubleshooting“ → „Enable Developer Mode“ ([Product Compass zu Cowork-3P-LLM](https://www.productcompass.pm/p/cowork-on-3p-any-llm)).
 
-**Schritt 12 — Verbindungsart waehlen.** Feld „Connection“ auf „Gateway“ stellen.
+**Schritt 12 — Verbindungsart wählen.** Feld „Connection“ auf „Gateway“ stellen.
 
-**Schritt 13 — Adresse einfuegen.** In „Gateway base URL“ die in Schritt 7 notierte Adresse einfuegen.
+**Schritt 13 — Adresse einfügen.** In „Gateway base URL“ die in Schritt 7 notierte Adresse einfügen.
 
-**Schritt 14 — Schluessel einfuegen.** In „Gateway API key“ den in Schritt 6 kopierten Schluessel einfuegen (komplett, ohne Leerzeichen am Anfang oder Ende).
+**Schritt 14 — Schlüssel einfügen.** In „Gateway API key“ den in Schritt 6 kopierten Schlüssel einfügen (komplett, ohne Leerzeichen am Anfang oder Ende).
 
-**Schritt 15 — Anmelde-Verfahren waehlen.** Im Feld „Gateway auth scheme“ zuerst „x-api-key“ auswaehlen; bei Fehler „Invalid API key“ später auf „Authorization: Bearer“ umschalten.
+**Schritt 15 — Anmelde-Verfahren wählen.** Im Feld „Gateway auth scheme“ zuerst „x-api-key“ auswählen; bei Fehler „Invalid API key“ später auf „Authorization: Bearer“ umschalten.
 
 **Schritt 16 — Erlaubte Verbindungen eintragen.** In „Allowed egress hosts“ nur die Domain des Anbieters eintragen, etwa `api.<anbieter>.de`, sonst nichts.
 
@@ -78,13 +78,13 @@ Die nachstehende Anleitung beschreibt den vollstaendigen Einrichtungsweg — vom
 
 **Schritt 18 — App neu starten.** „Relaunch now“ anklicken und warten, bis die App wieder oben ist.
 
-**Schritt 19 — Über Gateway einloggen.** Im Login-Fenster nicht „Continue with Anthropic“ waehlen, sondern „Continue with Gateway“.
+**Schritt 19 — Über Gateway einloggen.** Im Login-Fenster nicht „Continue with Anthropic“ wählen, sondern „Continue with Gateway“.
 
-**Schritt 20 — Modell auswaehlen.** Oben im Chat das Modell aufklappen und Claude 4.7 Opus oder Sonnet (Schreibweise wie in Schritt 8) waehlen.
+**Schritt 20 — Modell auswählen.** Oben im Chat das Modell aufklappen und Claude 4.7 Opus oder Sonnet (Schreibweise wie in Schritt 8) wählen.
 
-### Falls die Felder im Menue nicht greifen
+### Falls die Felder im Menü nicht greifen
 
-**Schritt 21 — Mac über Terminal.** Terminal oeffnen und nacheinander eingeben:
+**Schritt 21 — Mac über Terminal.** Terminal öffnen und nacheinander eingeben:
 
 ```
 launchctl setenv ANTHROPIC_BASE_URL https://api.<anbieter>.de/anthropic
@@ -92,11 +92,11 @@ launchctl setenv ANTHROPIC_AUTH_TOKEN <Ihr-Schluessel>
 launchctl setenv ANTHROPIC_API_KEY ""
 ```
 
-Danach Cmd+Q und Claude wieder oeffnen ([OpenAI-Hub zur Drittanbieter-Anbindung](https://www.openai-hub.com/news/203); [Fazm zur Anthropic-Base-URL-Konfiguration](https://fazm.ai/blog/route-claude-api-through-custom-endpoint-anthropic-base-url)).
+Danach Cmd+Q und Claude wieder öffnen ([OpenAI-Hub zur Drittanbieter-Anbindung](https://www.openai-hub.com/news/203); [Fazm zur Anthropic-Base-URL-Konfiguration](https://fazm.ai/blog/route-claude-api-through-custom-endpoint-anthropic-base-url)).
 
-**Schritt 22 — Windows 11 ueber Systemeinstellungen.** „Systemsteuerung → System → Erweiterte Systemeinstellungen → Umgebungsvariablen“. Drei neue Benutzervariablen anlegen: `ANTHROPIC_BASE_URL`, `ANTHROPIC_AUTH_TOKEN`, `ANTHROPIC_API_KEY` (letzte leer lassen). Ab- und neu anmelden, dann Claude starten ([Claude-Code-Doku zu Environment-Variablen](https://code.claude.com/docs/en/env-vars)).
+**Schritt 22 — Windows 11 über Systemeinstellungen.** „Systemsteuerung → System → Erweiterte Systemeinstellungen → Umgebungsvariablen“. Drei neue Benutzervariablen anlegen: `ANTHROPIC_BASE_URL`, `ANTHROPIC_AUTH_TOKEN`, `ANTHROPIC_API_KEY` (letzte leer lassen). Ab- und neu anmelden, dann Claude starten ([Claude-Code-Doku zu Environment-Variablen](https://code.claude.com/docs/en/env-vars)).
 
-### Funktionspruefung
+### Funktionsprüfung
 
 **Schritt 23 — Test-Anfrage.** Einen harmlosen Satz an Claude schicken („Sag Hallo“).
 
@@ -112,7 +112,7 @@ Danach Cmd+Q und Claude wieder oeffnen ([OpenAI-Hub zur Drittanbieter-Anbindung]
 
 ### Hinweis
 
-Stand Mai 2026 funktioniert dieser Weg nur über einen Zwischenanbieter. Sobald Anthropic selbst eine § 203-Vereinbarung anbietet, waere der Umweg entbehrlich. Die Feldbezeichnungen können je nach App-Version leicht abweichen; ohne Gewaehr, im Zweifel vorab mit Dummy-Daten testen.
+Stand Mai 2026 funktioniert dieser Weg nur über einen Zwischenanbieter. Sobald Anthropic selbst eine § 203-Vereinbarung anbietet, wäre der Umweg entbehrlich. Die Feldbezeichnungen können je nach App-Version leicht abweichen; ohne Gewähr, im Zweifel vorab mit Dummy-Daten testen.
 
 **Worum es hier geht.** Dieses Repository ist eine **technische Spielwiese**, die zeigt, was mit Claude Code und Plugin-Skills im Kontext deutschen Rechts überhaupt **technisch machbar** ist. Es geht **nicht** darum, eine produktiv einsetzbare, rechtskonforme Lösung anzubieten. Jede einzelne Nutzerin und jeder einzelne Nutzer prüft selbst und in eigener Verantwortung, ob, wie und unter welchen Schutzmaßnahmen ein Einsatz im konkreten Mandat oder Berufsumfeld zulässig ist – inklusive Mandatsgeheimnis, Datenschutz, Zeugnisverweigerungsrecht und Beschlagnahmeschutz, unabhängig von der einschlägigen Rechtsordnung.
 
@@ -337,27 +337,34 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Ergänzend über 20 Skills zu typisch deutschen Themen, u. a.:
+Stand v3.0.0: **75 Plugins, 919 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
 
-- **Kündigungsschutzklage** nach § 4 KSchG (3-Wochen-Frist)
-- **Mahnbescheid** §§ 688 ff. ZPO
-- **Einstweilige Verfügung & Schutzschrift**
-- **Aufhebungsvertrag** inkl. Sperrzeit-Prüfung
-- **Anhörung des Betriebsrats** § 102 BetrVG
-- **Verkehrsunfall**-Abwicklung
-- **UWG-Abmahnung** und **Urheberrechts-Abmahnung**
-- **AGB-Prüfung** §§ 305 ff. BGB
-- **Widerruf im Fernabsatz** §§ 312g, 355 BGB
-- **GmbH-Gründung** und **Handelsregisteranmeldung**
-- **DSGVO-Auskunft** Art. 15 DSGVO und **Datenpanne** Art. 33/34 DSGVO
-- **Umsatzsteuer-Voranmeldung** und Korrektur nach § 153 AO
-- **Inkasso** nach RDG / § 43d BRAO
-- **DORA-IKT-Vertragsprüfung** (VO (EU) 2022/2554) mit Tabular Review, EUR-Lex-Live-Snapshot und Klausel-Patch-Liste
-- **Markenanmeldung** beim DPMA
-- **Impressumspflicht** §§ 5, 6 DDG
-- **PAngV-Prüfung**
+### Materielle Rechtsgebiete
 
-Eine vollständige Übersicht steht in [`references/rechtsgebiete-uebersicht.md`](./references/rechtsgebiete-uebersicht.md).
+- **Zivilrecht & Vertragsrecht** – `vertragsrecht`, `nda-abgleich`, `agb-pruefung` (in `vertragsrecht`), `produktrecht`, `fluggastrechte`
+- **Arbeitsrecht** – `arbeitsrecht`, `fachanwalt-arbeitsrecht` (Kündigungsschutzklage § 4 KSchG, Aufhebungsvertrag mit Sperrzeit-Prüfung, BR-Anhörung § 102 BetrVG, Massenentlassung § 17 KSchG)
+- **Gesellschafts- & Wirtschaftsrecht** – `gesellschaftsrecht`, `fachanwalt-handels-gesellschaftsrecht`, `grosskanzlei-corporate-ma`, `mittelstand-corporate-ma`, `corporate-kanzlei`, `fachanwalt-internationales-wirtschaftsrecht`
+- **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
+- **Insolvenz & Sanierung** – `insolvenzrecht` (Gläubiger/Schuldner), `insolvenzverwaltung` (Verwalter-Sicht, § 270d, § 15b, § 129 ff.), `zwangsverwaltung-zvg` (ZVG-Verwalter, § 155 Verteilungsplan), `insolvenzforderungsanmeldungspruefung`, `fortbestehensprognose`, `fachanwalt-insolvenz-sanierungsrecht`
+- **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
+- **Steuerrecht** – `steuerrecht-kanzlei`, `fachanwalt-steuerrecht`, `steuerberater-werkzeuge` (USt-Voranmeldung, Korrektur § 153 AO)
+- **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafbefehl-verteidiger`, `verkehrsowi-verteidiger`
+- **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `fachanwalt-vergaberecht`
+- **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `sozialrecht-kanzlei`, `fachanwalt-sozialrecht`, `betreuungsrecht`, `fachanwalt-migrationsrecht`
+- **Miet- & Immobilienrecht** – `mietrecht`, `fachanwalt-miet-wohnungseigentumsrecht`, `immobilienrechtspraxis`
+- **Gewerblicher Rechtsschutz & Medien** – `gewerblicher-rechtsschutz` (Markenanmeldung DPMA, UWG-Abmahnung), `fachanwalt-gewerblicher-rechtsschutz`, `fachanwalt-urheber-medienrecht` (Gegendarstellung), `patentrecherche`
+- **IT-Recht, Datenschutz & KI-Governance** – `datenschutzrecht` (Art. 15 DSGVO, Art. 33/34 DSGVO), `fachanwalt-it-recht` (Cyber-Incident 72 h), `ki-governance` (EU AI Act), DORA-IKT-Vertragsprüfung in `regulatorisches-recht`, `berufsrecht-ki-vertragspruefung`
+- **Verkehr, Transport, Versicherung, Medizin** – `fachanwalt-verkehrsrecht`, `fachanwalt-transport-speditionsrecht` (CMR/HGB), `fachanwalt-versicherungsrecht`, `fachanwalt-medizinrecht`, `fachanwalt-bau-architektenrecht` (VOB/B)
+- **Sportrecht, Agrarrecht** – `fachanwalt-sportrecht` (CAS-Berufung), `fachanwalt-agrarrecht` (GAP-Sammelantrag)
+- **Europa- & Common-Law-Kompass** – `europarecht-kompass`, `common-law-kompass`
+
+### Querschnittliche Werkzeuge
+
+- **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `memorandums-ersteller`, `tabellenreview-3d`
+- **Kanzleibetrieb** – `kanzlei-allgemein`, `kanzlei-cowork`, `kanzlei-builder-hub`, `rechtsberatungsstelle`, `verlagsredaktion`
+- **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`
+
+Eine vollständige Übersicht aller Plugins und Rechtsgebiete steht in [`references/rechtsgebiete-uebersicht.md`](./references/rechtsgebiete-uebersicht.md). Die kompakte Plugin-Liste mit Reifegrad findest du im Abschnitt ["Was ist drin?"](#was-ist-drin) weiter oben.
 
 ## Verbindliche Zitierweise
 
