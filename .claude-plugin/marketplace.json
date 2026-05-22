@@ -39,6 +39,14 @@
       }
     },
     {
+      "name": "bav-strategie-konzern",
+      "source": "./bav-strategie-konzern",
+      "description": "Strategische Beratung zur betrieblichen Altersversorgung in Konzernen: Pensionsmodelle alle fuenf Durchfuehrungswege CTA Pension Buyouts Drei-Stufen-Theorie Versorgungssystem-Harmonisierung internationale Benefits Restrukturierung DB-zu-DC im Duesseldorfer Boutique-Stil.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "berufsrecht-ki-vertragspruefung",
       "source": "./berufsrecht-ki-vertragspruefung",
       "description": "Berufsrechtliche und strafrechtliche Forprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte Steuerberater Wirtschaftsprüfer Patentanwälte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. Maßstab DAV-Stellungnahme. Gutachten Rückfragebrief Klauselvorschläge.",
@@ -439,9 +447,25 @@
       }
     },
     {
+      "name": "krisenfrueherkennung-starug",
+      "source": "./krisenfrueherkennung-starug",
+      "description": "Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "liquiditaetsplanung",
       "source": "./liquiditaetsplanung",
       "description": "Eigenständiges Power-Plugin Liquiditätsvorschau nach deutschem Recht. Wochenaktuelle 3-Wochen-Vorschau § 17 InsO und rollierende 13/26/52-Wochen-Planung, jeweils mit Excel-Vorlage (Freitag-Stichtag, KW-Spalten) und optionalem interaktivem HTML-Padlet oder Markdown-Artefakt. BGH-Schema strikt: Passiva II zwingend (BGHZ 217, 129), 10-%-Schwelle und 3-Wochen-Horizont (BGHZ 163, 134), Bugwellenrspr. (BGH II ZR 112/21), titulierte Forderungen mit Nennwert (BGH IX ZR 229/22), objektive Beurteilung (BGH II ZR 139/23). Banking optional (manuell, CAMT.053/MT940/CSV/DATEV-OPOS, Connector). Memo nur auf Anfrage. Funktioniert allein, ergänzt sich aber mit insolvenzrecht und steuerberater-werkzeuge.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "markenrecht-fashion-luxus",
+      "source": "./markenrecht-fashion-luxus",
+      "description": "Markenrecht-Boutique fuer Luxus-Modehaeuser - DPMA/EUIPO Alicante/USPTO Lanham Act via NYC-Korrespondenz, alle Markenarten (Wort/Bild/Slogan/Sound/Duft/3D/Position/Haptik/Anti-KI), Widerspruch, Loeschung, Verletzung, Produktpiraterie, Selektivvertrieb.",
       "author": {
         "name": "Klotzkette"
       }
@@ -530,6 +554,14 @@
       "name": "regulatorisches-recht",
       "source": "./regulatorisches-recht",
       "description": "Aufsichtsrecht (KWG, ZAG, WpHG, GwG), EnWG, TKG, HeilMWerbG, Umsatzsteuer-Voranmeldung, Inkasso/RDG, Regulator-Feeds und Wochendigest.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "schriftform-und-textform-bgb",
+      "source": "./schriftform-und-textform-bgb",
+      "description": "Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a Textform § 126b Zugang § 130 BGB lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung Klauselgenerator Mandantenmemos.",
       "author": {
         "name": "Klotzkette"
       }

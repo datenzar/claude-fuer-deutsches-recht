@@ -1,0 +1,138 @@
+---
+name: messe-verletzung-und-gv-einsatz
+description: "Markenverletzung auf Messen (Pitti Uomo/Berlin Fashion Week): Eilantrag §§ 935/940 ZPO, einstweilige Verfuegung, Schutzschrift, Gerichtsvollzieher-Sicherstellung, Auskunftsanspruch § 19 MarkenG, Vernichtungsanspruch § 18 MarkenG. Laedt, wenn der Nutzer 'Messe Verletzung', 'GV Sicherstellung', 'einstweilige Verfuegung Marke', 'Schutzschrift' oder 'Pitti Uomo Abmahnung' sagt."
+---
+
+# Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
+
+Auf der Berlin Fashion Week 2024: Ein Stand von Donauzon Marketplace GmbH zeigt gefälschte klôtzzkètté-Taschen, Schal-Kollektionen mit dem Doppel-K-Signet und Parfumflakons, die dem K°°-Flakon täuschend ähnlich sehen. Die Comtesse Beatrice de Klotzzkettie ruft mich um 8:00 Uhr morgens an. Um 11:00 Uhr liegt der Eilantrag beim LG Berlin vor.
+
+Messe-Verletzungen erfordern blitzschnelles Handeln: Die Ware verschwindet nach der Messe — und der Beweis mit ihr.
+
+## Rechtsrahmen
+
+- **§ 14 II/V MarkenG:** Verletzungsverbotstatbestand; Unterlassungsanspruch
+- **§ 18 MarkenG:** Vernichtungsanspruch (Ware vernichten oder aussondern)
+- **§ 19 MarkenG:** Auskunftsanspruch (Lieferkette, Mengen, Bezugsquellen)
+- **§ 19a MarkenG:** Vorlage- und Besichtigungsanspruch (Sicherungszwecke)
+- **§§ 935/940 ZPO:** Einstweilige Verfügung (Verfügungsgrund: Eilbedürftigkeit; Verfügungsanspruch: glaubhafter Verletzungstatbestand)
+- **§§ 916/917 ZPO:** Arrest (Sicherungsarrest für Schadensersatzansprüche)
+- **§§ 753/759 ZPO:** Gerichtsvollzieher-Vollstreckung/Sicherstellung
+- **Schutzschrift (§ 945a ZPO / Schutzschriftenregister):** Präventive Eingabe des Beklagten bei Gericht vor Erlass einer einstweiligen Verfügung
+- **Messeprivileg:** Bei ausländischen Messegästen: Internationale Zuständigkeit nach EuGVO Art. 7 Nr. 2 (Tatortprinzip), Durchführungsverordnung zu §§ 110/111 MarkenG (Schutz ausländischer Staatsangehöriger auf deutschen Messen)
+
+## Prüfungsschritte
+
+### Phase 1: Sofortmaßnahmen vor Ort (Messe-Tag)
+
+1. **Beweissicherung:**
+   - Fotos und Videos der verletzenden Waren (Zeitstempel!)
+   - Testkauf (Kaufbeleg aufbewahren)
+   - Visitenkarte / Aussteller-Daten vom Messekatalog
+   - Zeugen benennen (Messepersonal, Mitarbeiter klôtzzkètté)
+
+2. **Verständigung der Messe-Sicherheit:**
+   - Messe-Direktion informieren (meist sofortige Unterstützung bei nachgewiesener Markenverletzung)
+   - Ausstellerregistrierung: Stand-Inhaber und Verantwortlicher identifizieren
+
+3. **Sofortige Unterrichtung der Kanzlei:**
+   - Bilder, Kaufbeleg, Ausstellerdaten sofort übermitteln
+   - Parallele Prüfung: Schutzschriften-Register (zentrale Schutzschriften-Datenbank ZSSR) auf Schutzschrift des Gegners prüfen
+
+### Phase 2: Eilantrag (innerhalb von Stunden)
+
+4. **Abwägung: Abmahnung zuerst oder direkt zum Gericht?**
+   - Bei klarer Fälschung (Produktpiraterie): direkt einstweilige Verfügung ohne Abmahnung
+   - Begründung Eilbedürftigkeit: Messeende droht; Ware verlässt nach Messe das Land
+
+5. **Antrag auf Erlass einstweiliger Verfügung (§§ 935/940 ZPO):**
+   - Verfügungsanspruch: § 14 V MarkenG (Unterlassung)
+   - Verfügungsgrund: Eilbedürftigkeit — Messe endet in 2/3 Tagen
+   - Glaubhaftmachung durch Anwaltseidesstattliche Versicherung + Fotos + Kaufbeleg
+   - Beantragung beim zuständigen LG (Messestadt: LG Berlin / LG Frankfurt / LG München I)
+
+6. **Gerichtsvollzieher-Beauftragung (§§ 753/759 ZPO):**
+   - Nach Erlass der einstweiligen Verfügung: GV-Beauftragung mit Vollstreckungsauftrag
+   - Messestand aufsuchen, Waren sicherstellen
+   - GV-Protokoll = gesicherter Beweis
+
+7. **Ordnungsmittelantrag (§ 890 ZPO):**
+   - Bei Zuwiderhandlung nach Zustellung der einstweiligen Verfügung
+   - Ordnungsgeld bis EUR 250.000 oder Ordnungshaft
+
+### Phase 3: Hauptsacheverfahren und Abwicklung
+
+8. **Auskunftsklage (§ 19 MarkenG):**
+   - Lieferkette: Hersteller, Importeure, Vorbesitzer
+   - Mengen: Stückzahlen produzierten und gelieferten Ware
+   - Grundlage für Schadensersatz
+
+9. **Vernichtung (§ 18 MarkenG):**
+   - Gefälschte Ware vernichten oder unbrauchbar machen
+   - Gerichtliche Anordnung erforderlich (kein Selbstvollzug!)
+
+## Falltypische Konstellationen
+
+### Konstellation 1: Donauzon-Stand auf der Berlin Fashion Week
+Donauzon Marketplace GmbH präsentiert auf der Berlin Fashion Week in Halle 2 gefälschte klôtzzkètté-Handtaschen. Testkauf à EUR 89 (Original: EUR 2.400). Eilantrag LG Berlin um 11:00 Uhr; Erlass Verfügung noch am Nachmittag; GV-Einsatz nächsten Morgen. Ergebnis: 847 Stück gefälschte Ware sichergestellt.
+
+### Konstellation 2: Brezelmann auf der Düsseldorf Neonyt
+Brezelmann Discount KG präsentiert auf einer Düsseldorfer Modemesse Schal-Kollektion mit dem klôtzzkètté-ähnlichen Muster. Nicht Produktpiraterie, sondern Markenverletzung durch ähnliches Zeichen. Strategie: Abmahnung vor Ort, strafbewehrte Unterlassungserklärung — wenn verweigert: einstweilige Verfügung LG Düsseldorf.
+
+### Konstellation 3: Ausländischer Aussteller auf Pitti Uomo Florenz
+Chinesischer Hersteller zeigt auf der Pitti Uomo in Florenz klôtzzkètté-Kopien. Zuständigkeit: Tribunale di Firenze (italienische Zuständigkeit). Abstimmung mit Whitman Brennan Forsythe NYC für US-Parallelvorgehen; Kooperation mit Mailänder Korrespondenzkanzlei für IT-Enforcement.
+
+## Belege & Kommentare
+
+- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, §§ 14/18/19 Rn. 1 ff.
+- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 400 ff. (Rechtsfolgen)
+- BeckOK MarkenR, § 14 MarkenG Rn. 500 ff.
+- BGH, Urt. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser) — Eilbedürftigkeit einstweilige Verfügung
+- BGH, Urt. v. 18.01.2012 — I ZR 170/10 (Pommes Frites) — Unterlassung/Vernichtung
+- OLG Frankfurt, Beschl. v. 25.06.2015 — 6 W 60/15 — einstweilige Verfügung Messeverletzung
+
+## Templates
+
+### Antragsschrift einstweilige Verfügung (Messe)
+```
+An das Landgericht [Berlin/Frankfurt/München I]
+Kammer für Handelssachen / Zivilkammer
+
+Antrag auf Erlass einer einstweiligen Verfügung
+Antragstellerin: klôtzzkètté SA, Paris, vertr. durch RA'in [Name]
+Antragsgegnerin: [Donauzon/Brezelmann], [Adresse Messestand]
+
+I.   ANTRAG
+Es wird beantragt, der Antragsgegnerin im Wege der einstweiligen
+Verfügung zu untersagen, im geschäftlichen Verkehr Waren mit dem
+Zeichen [KLOTZ-KETTEN / Abbildung] anzubieten, zu vertreiben oder
+zu bewerben, insbesondere auf der [Messe], [Datum], Stand [Nr.].
+
+II.  VERFÜGUNGSANSPRUCH (§ 14 V MarkenG)
+[...]
+
+III. VERFÜGUNGSGRUND (§§ 935/940 ZPO)
+Messeende: [Datum]. Nach Messeende verlassen die Waren die
+Bundesrepublik und sind für Vollstreckungsmaßnahmen nicht mehr
+erreichbar. Eilbedürftigkeit liegt auf der Hand.
+
+IV.  GLAUBHAFTMACHUNG
+- Eidesstattliche Versicherung RA'in [Name] (Anlage 1)
+- Fotografische Beweise (Anlage 2-7)
+- Testkauf-Quittung (Anlage 8)
+- Auszug Markenregister DPMA/EUIPO (Anlage 9-10)
+```
+
+## Verweise auf andere Skills
+
+- `abmahnung-markenrecht-uwg` — Wenn Abmahnung vor Gericht möglich und sinnvoll
+- `produktpiraterie-und-zoll` — Parallelmaßnahmen Zollrecht
+- `plattform-piraterie-donauzon` — Online-Verletzungen durch Donauzon
+
+## Risiken & Stolperfallen
+
+- **Beweissicherung SOFORT:** Fotos/Video unmittelbar nach Entdeckung — keine stundenlange Abwartehaltung
+- **Dringlichkeitsfrist:** Nach BGH gilt: Wer mit Verletzung länger als 4-6 Wochen zuwartet, verwirkt die Eilbedürftigkeit (sog. Dringlichkeitsschädlichkeit). Bei Messeverletzung: Keine Duldung, sofort handeln
+- **Schutzschrift des Gegners:** Donauzon könnte vorab Schutzschrift hinterlegt haben → ZSSR prüfen
+- **GV-Zugang Messestand:** Gerichtsvollzieher braucht Zugang; Messe-Direktion vorab einbinden
+- **Internationale Aussteller:** EuGVO-Zuständigkeit bei EU-Ausländern; außerhalb EU: Haager Zustellungsübereinkommen beachten

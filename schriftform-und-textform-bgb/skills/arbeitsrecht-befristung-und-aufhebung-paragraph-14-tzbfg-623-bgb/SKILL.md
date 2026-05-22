@@ -1,0 +1,147 @@
+---
+name: arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb
+description: "Arbeitsrecht Schriftform: § 14 Abs. 4 TzBfG Befristung zwingend schriftlich, § 623 BGB Kündigung und Aufhebungsvertrag Schriftform, Frage qES bei Arbeitgeberkündigung, Heilung ausgeschlossen — Folgen Unwirksamkeit Befristung und Kündigung."
+---
+
+# Arbeitsrecht — Befristung und Aufhebung: §§ 14 TzBfG, 623 BGB
+
+## Rechtsgrundlagen
+
+- **§ 14 Abs. 4 TzBfG** — Befristung des Arbeitsvertrags: schriftliche Vereinbarung zwingend (vor Beginn der Arbeit)
+- **§ 623 BGB** — Kündigung und Aufhebungsvertrag des Arbeitsverhältnisses: Schriftform zwingend
+- **§ 126 BGB** — Schriftform: eigenhändige Unterschrift
+- **§ 126 Abs. 3 BGB** i.V.m. **§ 126a BGB** — Ersatz durch qES theoretisch, aber Spezialrecht beachten
+- **§ 125 BGB** — Nichtigkeitsfolge bei Formverstoß
+- **§ 16 TzBfG** — Folge formwidrig befristeter Arbeitsvertrag: gilt als unbefristet
+
+## BGH-Linie und BAG-Rechtsprechung
+
+### § 14 Abs. 4 TzBfG — Befristungsabrede
+
+Das BAG (Bundesarbeitsgericht) verlangt für die Wirksamkeit einer Befristungsabrede:
+- **Schriftlichkeit vor Arbeitsbeginn**: Die Befristungsabrede muss eigenhändig von Arbeitgeber und Arbeitnehmer unterschrieben und dem Arbeitnehmer vor Beginn der Arbeit zugegangen sein.
+- **Kein Beginn vor Unterzeichnung**: Nimmt der Arbeitnehmer die Arbeit auf, bevor er die schriftliche Befristungsabrede unterschrieben hat oder bevor ihm das unterschriebene Dokument zugegangen ist, gilt der Arbeitsvertrag als unbefristet (§ 16 TzBfG).
+- **Heilung ausgeschlossen**: Eine nachträgliche Unterschrift heilt den Formmangel bei § 14 Abs. 4 TzBfG nicht.
+
+### § 623 BGB — Kündigung und Aufhebungsvertrag
+
+**Kündigung**: Kündigung des Arbeitsverhältnisses — sowohl durch Arbeitgeber als auch durch Arbeitnehmer — bedarf der Schriftform (§ 623 BGB). Mündliche Kündigungen sind unwirksam.
+
+**Aufhebungsvertrag**: Auch der einvernehmliche Aufhebungsvertrag bedarf der Schriftform (§ 623 BGB). Ein mündlich vereinbarter Aufhebungsvertrag ist nichtig.
+
+**qES bei Kündigung**: § 623 BGB schreibt Schriftform vor. Ob qES (§ 126a BGB i.V.m. § 126 Abs. 3 BGB) die Schriftform ersetzen kann, ist im Arbeitsrecht umstritten. Argumente gegen qES-Ersatz:
+- Schutzzweck des § 623 BGB: Arbeitnehmer-Schutz vor übereilten Entscheidungen
+- § 623 BGB ist lex specialis zu § 126 Abs. 3 BGB (str., BAG hat noch nicht abschließend entschieden)
+- **Empfehlung**: Bis zur höchstrichterlichen Klärung Originalunterschrift auf Papier verwenden
+
+### Keine qES-Ausnahme im TzBfG
+
+Das TzBfG enthält keine Öffnungsklausel für elektronische Form. Der Verweis des § 14 Abs. 4 TzBfG auf „Schriftform" ist als Verweis auf § 126 BGB zu verstehen — und damit grundsätzlich auch für § 126 Abs. 3 BGB offen. Aber: Das BAG hat die qES-Frage bei Befristungsabreden noch nicht höchstrichterlich entschieden. Praxis: Papier bevorzugen.
+
+## Workflow
+
+### Checkliste Befristeter Arbeitsvertrag
+
+```
+□ Befristungsabrede vor Arbeitsbeginn schriftlich vereinbart?
+   → Eigenhändig von AG und AN unterschrieben
+   → AN hat Dokument vor Beginn der Tätigkeit erhalten
+
+□ Befristungsgrund angegeben? (§ 14 Abs. 1 TzBfG)
+   → Sachgrundlos nach § 14 Abs. 2 TzBfG: max. 2 Jahre, max. drei Verlängerungen
+
+□ Bei Verlängerung: Schriftform gewahrt?
+   → Jede Verlängerung bedarf Schriftform
+   → Verlängerung vor Ablauf der bisherigen Befristung unterschreiben
+
+□ Keine Vorbeschäftigung des AN beim selben AG in den letzten 3 Jahren?
+   (§ 14 Abs. 2 S. 2 TzBfG — Vorbeschäftigungsverbot bei sachgrundloser Befristung)
+```
+
+### Checkliste Kündigung / Aufhebungsvertrag
+
+```
+□ Schriftliche Kündigung vorhanden?
+   → Eigenhändige Unterschrift des Kündigenden (oder Bevollmächtigten mit Vollmacht)
+   → Original des Kündigungsschreibens zugegangen
+
+□ Vollmacht bei AG-Kündigung durch Bevollmächtigten?
+   → § 174 BGB: Arbeitnehmer kann unverzüglich zurückweisen
+
+□ Bei Aufhebungsvertrag:
+   → Schriftliche Vereinbarung von AG und AN unterschrieben
+   → Inhalt: Ende des Arbeitsverhältnisses, Abfindung, Freistellung, Zeugnis
+
+□ Betriebsrat angehört? (§ 102 BetrVG bei Kündigung durch AG)
+```
+
+### Folgen Formverstoß
+
+| Verstoß | Folge |
+|---------|-------|
+| Befristungsabrede formwidrig | Vertrag gilt als unbefristet (§ 16 TzBfG) |
+| Befristungsabrede nach Arbeitsbeginn | Vertrag gilt als unbefristet |
+| Kündigung formwidrig | Kündigung unwirksam — Arbeitsverhältnis besteht fort |
+| Aufhebungsvertrag formwidrig | Aufhebungsvertrag nichtig — Arbeitsverhältnis besteht fort |
+
+## Templates
+
+### Befristeter Arbeitsvertrag — Schriftformhinweis
+
+```
+§ [X] Vertragsdauer
+
+(1) Das Arbeitsverhältnis ist gemäß § 14 Abs. 2 TzBfG ohne Sachgrund
+befristet und beginnt am [Datum]. Es endet ohne Kündigung am [Datum].
+
+(2) Diese Befristungsabrede bedarf der Schriftform (§ 14 Abs. 4 TzBfG).
+Der Mitarbeiter hat den Vertrag vor Aufnahme seiner Tätigkeit eigenhändig
+zu unterzeichnen. Eine Unterzeichnung nach Arbeitsbeginn macht die
+Befristungsabrede unwirksam.
+
+Arbeitgeber:                           Arbeitnehmer:
+[Ort, Datum]                           [Ort, Datum]
+
+________________________              ________________________
+[Unterschrift AG / Bevollmächtigter]   [Unterschrift AN]
+```
+
+### Kündigungsschreiben Arbeitgeber
+
+```
+[Briefkopf Unternehmen]
+
+[Ort, Datum]
+
+Herrn/Frau [Name Arbeitnehmer]
+[Adresse]
+
+Kündigung des Arbeitsverhältnisses
+
+Sehr geehrte(r) Herr/Frau [Name],
+
+wir kündigen das mit Ihnen bestehende Arbeitsverhältnis ordentlich
+und fristgemäß zum [Datum gemäß §§ 622, 623 BGB].
+
+Wir bitten Sie, Ihre Arbeit bis zum letzten Tag ordnungsgemäß zu erfüllen.
+Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
+
+[Unterschrift Geschäftsführer / HR-Leiter mit Vollmacht]
+[Name in Druckbuchstaben, Funktion]
+
+[Ggf. Vollmacht beigefügt: Ja/Nein]
+```
+
+## Fallstricke
+
+- **Arbeit vor Vertragsunterzeichnung**: Häufigster Fehler — Arbeitnehmer beginnt Montag, unterschreibt Vertrag Dienstag. Folge: Befristung unwirksam, Arbeitsvertrag unbefristet.
+- **Mündliche Aufhebung**: „Wir trennen uns im Guten" ohne schriftliche Vereinbarung — Arbeitsverhältnis besteht fort. Arbeitgeber muss Lohn weiterzahlen.
+- **qES Arbeitgeberkündigung**: Praxis-Empfehlung ist Papier mit Originalunterschrift, da BAG qES-Frage noch nicht höchstrichterlich entschieden hat.
+- **§ 174 BGB**: Wenn HR-Manager kündigt ohne vorgelegte Originalvollmacht, kann Arbeitnehmer unverzüglich zurückweisen. Personalleiter-Vollmacht im Original immer beifügen.
+
+## Querverweise
+
+- → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
+- → `elektronische-form-paragraph-126a-bgb-qes` (qES-Frage § 623 BGB)
+- → `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
+- → `verteidigungsstrategie-bei-formangriff`

@@ -1,6 +1,6 @@
 {
   "name": "datenschutzrecht",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "description": "DSGVO/BDSG/TTDSG – PIA/DPIA, AVV-Review als Verantwortlicher und Auftragsverarbeiter, Auskunftsersuchen Art. 15, Datenpannenmeldung Art. 33/34, Beschäftigtendatenschutz, Drift-Monitoring.",
   "license": "Apache-2.0 OR MIT",
   "author": {

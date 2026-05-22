@@ -1,0 +1,143 @@
+---
+name: uspto-anmeldung-und-lanham-act
+description: "USPTO-Anmeldung nach Lanham Act 15 U.S.C. § 1051 ff.: Use in Commerce vs. Intent-to-Use, TEAS Plus/Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests. Koordination mit Whitman Brennan Forsythe LLP NYC. Laedt, wenn der Nutzer 'USPTO Anmeldung', 'US Marke anmelden', 'TEAS Plus', 'Lanham Act' oder 'Intent to Use' sagt."
+---
+
+# USPTO-Anmeldung und Lanham Act
+
+Der US-amerikanische Markenmarkt ist für klôtzzkètté Inc. (712 Fifth Avenue, New York, NY 10019) ein strategischer Kern. Als Münchener Boutique-Kanzlei Steinacker Lichtenberg koordinieren wir alle USPTO-Angelegenheiten mit unserer New Yorker Korrespondenzkanzlei Whitman Brennan Forsythe LLP (Partner J. Halston Whitman III, Esq., USD 1.450/h; Senior Associate Eleanor M. Quintero, Esq., USD 695/h).
+
+Das US-Markenrecht unterscheidet sich in fundamentalen Punkten vom europäischen: Benutzung (Use in Commerce) ist in den USA essentiell, nicht Eintragung.
+
+## Rechtsrahmen
+
+- **15 U.S.C. § 1051 (Lanham Act § 1):** Basis-Anmeldevorschrift
+- **15 U.S.C. § 1051(a):** Use-in-Commerce Basis (§ 1(a)) — Marke bereits in Benutzung im US-Handel
+- **15 U.S.C. § 1051(b):** Intent-to-Use Basis (§ 1(b)) — Benutzungsabsicht; Eintragung erst nach Nachweis der Benutzung
+- **15 U.S.C. § 1052 (Lanham Act § 2):** Absolute und relative Schutzhindernisse (Likelihood of Confusion § 2(d); Merely Descriptive § 2(e)(1); Surname § 2(e)(4))
+- **37 C.F.R. § 2.32:** Formvoraussetzungen der Anmeldung
+- **Trademark Manual of Examining Procedure (TMEP):** Prüfungshandbuch des USPTO
+- **ID Manual (Acceptable Identification of Goods and Services Manual):** Autorisierte Warenbeschreibungen
+- **TEAS Plus:** Online-Anmeldesystem, reduzierte Gebühr (USD 250/Klasse), strenge ID-Manual-Bindung
+- **TEAS Standard:** Online-Anmeldesystem, höhere Gebühr (USD 350/Klasse), mehr Flexibilität bei Warenbeschreibung
+- **Statement of Use (SOU) / Allegation of Use (AOU):** Benutzungsnachweis nach § 1(b)-Anmeldung
+- **Extension Request:** Verlängerung der SOU-Frist (§ 1(d) — 5 x 6-Monats-Verlängerungen, insgesamt max. 3 Jahre)
+
+## Prüfungsschritte
+
+### Schritt 1: Filing Basis bestimmen
+
+**Use in Commerce (§ 1(a)):**
+- Marke bereits in den USA kommerziell benutzt (auf Waren, in Werbung)
+- Specimen of Use erforderlich: Bild der Marke auf Ware, Hangtag, Verpackung, Website-Screenshot
+- Für klôtzzkètté Inc.: Fifth Avenue Store als Benutzungsort
+
+**Intent to Use (§ 1(b)):**
+- Marke noch nicht in den USA benutzt, aber bona fide Benutzungsabsicht
+- Kein Specimen erforderlich bei Anmeldung; muss nachgereicht werden (SOU)
+- Priorität: Ab Anmeldedatum — wichtig für Kollisionsschutz
+- Strategisch: ITU-Anmeldung vor US-Markteintritt (sichert Priorität)
+
+### Schritt 2: TEAS Plus vs. TEAS Standard
+
+**TEAS Plus (USD 250/Klasse):**
+- Nur Pre-approved Goods/Services aus ID Manual
+- Keine Änderungen ohne Aufpreis
+- Beschleunigt: weniger Office Actions bei sauberer ID-Beschreibung
+- Empfehlung für klôtzzkètté in Klasse 25: „Clothing, namely, dresses, skirts, blouses, jackets, coats; footwear; headwear"
+
+**TEAS Standard (USD 350/Klasse):**
+- Eigene Warenbeschreibungen möglich
+- Mehr Flexibilität, aber höhere Gebühr und häufigere Office Actions
+- Empfehlung: Nur bei sehr spezifischen Waren außerhalb des ID Manual
+
+### Schritt 3: Anmeldung bei USPTO (via TEAS)
+
+1. Zugangskonto beim USPTO anlegen (trademark.uspto.gov)
+2. Markenart: Standard Character (Wortmarke) vs. Special Form (Logo)
+   - Standard Character = breiter Schutz (alle Schriftarten/Farben)
+   - Special Form = enger Schutz, nur in dargestellter Form
+3. Waren-/Dienstleistungen: Nizza-Klassen + US-Coordinated Classes (TEAS ordnet automatisch)
+4. Filing Basis angeben
+5. Specimen bei § 1(a): Upload JPG/PNG (max. 5 MB)
+6. Gebühr zahlen (Kreditkarte oder USPTO-Deposit-Konto)
+7. Bestätigung: Serial Number
+
+### Schritt 4: Verfahrensablauf
+
+1. Formelle Prüfung (ca. 2-3 Monate): Examining Attorney zugewiesen
+2. Substantielle Prüfung: § 2(d) Confusion Search in TESS-Datenbank, § 2(e) Beschreibendheit
+3. Office Action (falls Beanstandungen): 3 Monate Antwortfrist (verlängerbar auf 6 Monate, USD 125/Monat)
+4. Bei Ablehnungsentscheidung: Appeal zum TTAB
+5. Veröffentlichung im Official Gazette: 30-tägige Oppositionsfrist
+6. Bei § 1(b): Notice of Allowance → SOU einreichen oder Verlängerung beantragen
+7. Eintragung auf Principal Register
+
+### Schritt 5: International Coordination
+
+- Abstimmung mit Whitman Brennan Forsythe LLP NYC für Local Counsel bei TTAB-Verfahren
+- US-Verfahren werden auf Englisch geführt; Eleanor M. Quintero übernimmt TTAB-Briefing
+- Übermittlung aller DE/EU-Marken-Unterlagen als Prior Rights-Dokumentation
+
+## Falltypische Konstellationen
+
+### Konstellation 1: TEAS Plus ITU-Anmeldung klôtzzkètté in Klasse 25
+klôtzzkètté Inc. plant US-Markteintritt in 18 Monaten. Jetzt: ITU-Anmeldung über TEAS Plus, Klasse 25. Serial Number als Prioritätsdatum gesichert. Nach Markteintritt: SOU mit Specimen (Fifth Avenue Store, Hangtag-Foto). Kosten: USD 250 + USD 150 SOU-Gebühr.
+
+### Konstellation 2: Office Action § 2(d) — Confusion with older mark
+Examining Attorney zitiert ältere US-Marke „KLOTZKE" in Klasse 25. Koordination mit Eleanor Quintero für Response: DuPont Factors-Analyse (vgl. Skill `uspto-office-actions-und-tess-tsdr`). Response-Frist: 3 Monate.
+
+### Konstellation 3: Section 66(a)-Anmeldung via Madrid
+klôtzzkètté nutzt bestehende EUIPO-Registrierung als Basis für Madrid-Protokoll-Designation USA (Section 66(a)). Verfahren beim USPTO läuft parallel zur Regular Application; aber: Section 66(a) hat strengere SOU-Anforderungen. Koordination mit Whitman Brennan Forsythe LLP.
+
+## Belege & Kommentare
+
+- McCarthy on Trademarks, Vol. 1-4 (führendes US-Markenrechts-Kommentarwerk)
+- TMEP (Trademark Manual of Examining Procedure), ed. 2400 (aktuell)
+- 15 U.S.C. §§ 1051-1141 (Lanham Act vollständig)
+- In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001) — Specimen of Use-Anforderungen
+
+## Templates
+
+### Specimen of Use — Anforderungen (Checkliste)
+```
+Für Waren (Klasse 25):
+[ ] Bild zeigt Marke deutlich sichtbar auf Ware oder Tag
+[ ] Hangtag: Marke auf Etikett an Bekleidungsstück (JPG, min. 72 dpi)
+[ ] Verpackung: Marke klar auf Außenverpackung
+[ ] Kein: reine Werbeanzeige, Screenshot ohne Kaufmöglichkeit (unzureichend)
+
+Für Dienstleistungen (Klasse 35):
+[ ] Website-Screenshot mit Marke + Kaufmöglichkeit
+[ ] Speisekarte / Katalog mit Marke (wenn Einzelhandel)
+```
+
+### Muster Goods/Services-Beschreibung TEAS Plus
+```
+International Class 025:
+Clothing, namely, dresses, skirts, blouses, shirts, jackets,
+coats, trousers, sweaters, scarves; footwear; headwear;
+belts [clothing]; gloves [clothing]
+
+International Class 003:
+Perfumes; eau de toilette; eau de parfum; cosmetics;
+skin care preparations
+
+International Class 018:
+Handbags; wallets; luggage; leather goods, namely, belts not
+for clothing, key cases, and cardholders
+```
+
+## Verweise auf andere Skills
+
+- `uspto-office-actions-und-tess-tsdr` — Beanstandungen beantworten
+- `madrid-protokoll-und-internationale-registrierung` — Section 66(a)-Route
+- `ttab-opposition-und-cancellation` — Oppositionsverfahren
+- `nyc-korrespondenz-und-conflict-check` — Koordination NYC
+
+## Risiken & Stolperfallen
+
+- **Surname-Problem:** „Klotz" könnte vom Examining Attorney als primär als Nachname wahrgenommen werden (§ 2(e)(4)) — Nachweis: primär Phantasie-Begriff, nicht Nachname
+- **Specimen-Anforderungen:** Reine Werbeanzeige reicht nicht; Marke muss als Source Identifier auf der Ware erkennbar sein
+- **ITU-Verlängerungsfristen:** Maximal 3 Jahre ab Notice of Allowance; danach verfällt die Anmeldung ohne Benutzungsnachweis
+- **Standard Character vs. Special Form:** Special-Form-Marke mit Sonderzeichen (ô/è) — Transliteration in Standard Characters zusätzlich anmelden für breiteren Schutz

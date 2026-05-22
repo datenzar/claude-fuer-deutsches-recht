@@ -1,0 +1,103 @@
+---
+name: positionsmarke
+description: "Positionsmarken: roter Sohlenstreifen Louboutin, Adidas-Drei-Streifen, Bottega-Intrecciato-Webung, Burberry-Karo. Anmeldung, Darstellungsanforderungen, Beschreibung der Position auf dem Traeger, Verkehrsdurchsetzung. Laedt, wenn der Nutzer 'Positionsmarke', 'Stripe Marke', 'Sohlen-Marke', 'Karo-Marke' oder 'Muster Marke' sagt."
+---
+
+# Positionsmarken
+
+Die Positionsmarke schützt ein Zeichen, das an einer bestimmten Position auf einem Produkt angebracht ist — unabhängig von der Produktform als solcher. Für klôtzzkètté SA ist dies die bevorzugte Schutzkategorie für den charakteristischen goldenen Einzel-Streifen an der Handgelenksinnenseite der Lederhandschuhe, das Interieur-Farbband der Handtaschen und das Webmuster der Schalkollektionen.
+
+Die Positionsmarke ist in Art. 3 I lit. f der Durchführungsverordnung (EU) 2018/626 zur UMV explizit als Markenart anerkannt und beim EUIPO breit etabliert.
+
+## Rechtsrahmen
+
+- **Art. 3 I lit. f DurchfVO (EU) 2018/626 zur UMV:** Positionsmarke als anerkannte Markenart
+- **§ 3 I MarkenG:** Positionsmarke unter „andere Aufmachungen" markenfähig
+- **EuGH C-163/16 (Christian Louboutin / Van Haren):** Roter Sohlenstreifen an High Heels ist Positionsmarke, nicht reine Formmarke — Formausschluss § 3 II MarkenG greift nicht, wenn Farbe (nicht Form) den Schutz begründet. WICHTIG: Nach Vorabentscheidung durch EuGH schließlich LG Hamburg Eintragung bestätigt
+- **Adidas AG Drei-Streifen-Marke:** EUIPO und BGH zur Unterscheidungskraft paralleler Streifen; BGH I ZB 2/15 (Drei-Streifen-Marke Adidas) — Verkehrsdurchsetzung nach intensiver Benutzung
+- **Bottega Veneta Intrecciato:** EUIPO R 2592/2011-4 — Webmuster-Positionsmarke für Lederhandtaschen, Verkehrsdurchsetzung nachgewiesen
+- **Burberry-Karo:** Eingetragene Marke für charakteristisches Karomuster in Beige/Schwarz/Rot — Unterscheidungskraft durch Verkehrsdurchsetzung
+
+## Prüfungsschritte
+
+1. **Definition der Marke:**
+   - Welches Zeichen (Streifen, Farbe, Muster, Form-Element) soll geschützt werden?
+   - An welcher genauen Position auf dem Produkt?
+   - In welchen Proportionen (Breite, Länge, Winkel)?
+
+2. **Darstellung der Positionsmarke:**
+   - Produktabbildung mit dem Zeichen in der schutzrelevanten Position
+   - Gestrichelte Linien für nicht-markenmäßige Teile des Produkts (EUIPO-Standard)
+   - Pflicht-Beschreibung der Position und des Musters im Beschreibungsfeld
+
+3. **Unterscheidungskraft:**
+   - Positionsmarken haben typischerweise keine inhärente Unterscheidungskraft
+   - Ausnahme: sehr charakteristische Gestaltung (Louboutin-Rot = erkennbar auf dem ersten Blick)
+   - Regel: Verkehrsdurchsetzung erforderlich (§ 8 III MarkenG / Art. 7 III UMV)
+
+4. **Verkehrsdurchsetzungsnachweis:**
+   - Marktanteil: mind. 40 % der beteiligten Verkehrskreise erkennen das Zeichen als Herkunftshinweis
+   - Werbeaufwand letzte 5 Jahre (Euro-Beträge)
+   - Medienberichte, Fachpresse, Social Media
+   - Verbraucherbefragungsgutachten (Mindestanforderungen BGH I ZB 56/12 — Verlegerkennung)
+   - Umsatzzahlen
+
+5. **Warenverzeichnis:** Präzise Warenbeschreibung, da Positionsmarke an konkrete Produktkategorie gebunden
+
+## Falltypische Konstellationen
+
+### Konstellation 1: Goldener Innen-Streifen der klôtzzkètté Lederhandschuhe
+Ein 3 mm breiter goldener Streifen aus Goldfolie, genau 15 mm vom Handgelenk-Rand, auf der Innenseite aller Lederhandschuhe. Analyse: Position klar definiert, Goldstreifen nicht branchenüblich an Handschuh-Innenseite → Unterscheidungskraft möglicherweise inhärent. Strategie: Anmeldung als Positionsmarke mit detaillierter Beschreibung und gestrichelter Handschuh-Zeichnung; Verkehrsdurchsetzungsnachweis als Backup vorbereiten.
+
+### Konstellation 2: Intrecciato-Webmuster der K°° Handtaschen
+Das charakteristische Flechtmuster der „Sac Maillé"-Kollektion. Analogie zu Bottega Veneta: Nach 8 Jahren Marktpräsenz und EUR 15 Mio. Marketingaufwand: Verkehrsdurchsetzungsantrag beim EUIPO mit Meinungsumfrage in DE/FR/IT/ES.
+
+### Konstellation 3: Adidas-Analogie — Schutz paralleler Nähte
+Zwei parallele Kontrastnähte an der Schulterpartie aller klôtzzkètté-Jacken. Problem: Adidas-Rechtsprechung zeigt, dass einfache Streifen schwer schutzfähig sind. Empfehlung: Mustermarke (ggf. als Bildmarke eingetragen) kombiniert mit Positionsmarke; Verkehrsdurchsetzung zentraler Angriffspunkt.
+
+## Belege & Kommentare
+
+- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 200 ff. (Positionsmarken)
+- BeckOK MarkenR, § 3 MarkenG Rn. 60 ff.
+- Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 220 ff.
+- EuGH, Urt. v. 12.06.2018 — C-163/16 (Louboutin) — roter Sohlenstreifen
+- BGH, Beschl. v. 21.07.2016 — I ZB 52/15 (Drei-Streifen-Marke Adidas) — Verkehrsdurchsetzung
+- EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato)
+- EuGH, Urt. v. 18.07.2013 — C-252/12 (Specsavers) — Farbkombination und Benutzung
+
+## Templates
+
+### Darstellungsbeschreibung Positionsmarke (EUIPO)
+```
+Die Marke ist eine Positionsmarke. Sie besteht aus einem
+[X mm] breiten goldenen Streifen aus Metallfolie, angebracht
+auf der Innenseite von Lederhandschuhen, parallel zum
+Handgelenk-Abschlussrand, im Abstand von [Y mm] vom Rand.
+Der Handschuh als Ganzes ist durch gestrichelte Linien dargestellt
+und nicht Bestandteil der Marke. Farbanspruch: Gold (Pantone 871 C).
+```
+
+### Verkehrsdurchsetzungs-Antrag — Gliederung
+```
+1. Beschreibung des Zeichens und seiner Verwendung
+2. Benutzungsnachweis (Fotos, Kataloge, Hangtags), geordnet nach Jahren
+3. Umsatzzahlen im deutschen Markt (vertraulich, ggf. als Indexzahlen)
+4. Werbeaufwand letzter 5 Jahre (Mediaplanung, Agenturrechnungen)
+5. Pressebelege (Vogue DE, FAZ, Stern, etc.)
+6. Meinungsumfrage-Gutachten (Institut + Methodik + Ergebnis)
+```
+
+## Verweise auf andere Skills
+
+- `dreidimensionale-marke` — Abgrenzung Form- vs. Positionsmarke (Louboutin-Linie)
+- `bildmarke-und-wort-bild` — Mustermarke als Alternative
+- `anmeldung-strategie-portfolio` — Einbindung in Gesamtstrategie
+- `markenmonitoring-und-watchlist` — Überwachung ähnlicher Positionsmarken
+
+## Risiken & Stolperfallen
+
+- **Strenge Definition erforderlich:** Unklare Positionsbeschreibung führt zu Beanstandung; millimetergenaue Angaben sind Gold wert
+- **Verkehrsdurchsetzung teuer:** Meinungsumfrage kostet EUR 20.000–50.000; sorgfältig planen
+- **Schmalere Schutzrechte:** Positionsmarke schützt nur an exakt der beschriebenen Position; Variationen können ausweichen
+- **Louboutin-Grauzone:** Grenze zwischen Positions- und Farbmarke ist fließend — sorgfältige Formulierung der Beschreibung entscheidet über Schutzumfang
+- **Adidas-Präzedenz:** BGH ist bei Streifen-Marken sehr streng; einfache Streifen fast immer auf Verkehrsdurchsetzung angewiesen
