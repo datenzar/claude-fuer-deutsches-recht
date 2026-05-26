@@ -17,7 +17,7 @@ In der Krise entscheidet oft nicht das Handeln über die Haftung, sondern der Be
 - § 15a InsO (Insolvenzantragspflicht — Nachweis der Kenntnis und des Handelns)
 - § 15b InsO (Zahlungsverbot — Nachweis erlaubter Zahlungen)
 - § 102 StaRUG (Dokumentation der Warnung)
-- BGH II ZR 88/13 (Dokumentation als Enthaftungselement)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Dokumentation als Enthaftungselement)
 - IDW PS 340 n.F. (Systemdokumentation als Anforderung)
 
 ---

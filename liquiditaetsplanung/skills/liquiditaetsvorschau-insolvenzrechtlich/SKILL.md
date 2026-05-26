@@ -101,7 +101,7 @@ Die Beurteilung erfolgt **allein anhand objektiver Umstände**; auf die innere V
 5. BGH, Urt. v. 11.03.2025 – II ZR 139/23 Rn. 12 ff. — Objektivität der Beurteilung.
 6. BGH, Urt. v. 24.05.2005 – IX ZR 123/04, BGHZ 163, 134 Rn. 12 ff. — Grundsatzentscheidung.
 7. BGH, Urt. v. 19.07.2007 – IX ZR 81/06, NJW 2007, 78 Rn. 36 ff. — Indizienkatalog.
-8. BGH, Urt. v. 14.07.2006 – IX ZR 92/04, BGHZ 168, 158 Rn. 21 ff. — echte vs. erzwungene Stundung.
+8. BGH, Urt. v. 12.10.2006 – IX ZR 228/03, NZI 2007, 36echte vs. erzwungene Stundung.
 
 ### Kommentarliteratur (Bearbeiter-Stil)
 
@@ -126,7 +126,7 @@ Siehe Schwester-Skill `liquiditaetsvorschau-3wochen` (Beispielfall Edelholz Manu
 
 ## Typische Fehler
 
-- **Stundungen fälschlich aus Passiva I herausnehmen**: nur echte, beiderseits vereinbarte und dokumentierte Stundungen — BGH IX ZR 92/04.
+- **Stundungen fälschlich aus Passiva I herausnehmen**: nur echte, beiderseits vereinbarte und dokumentierte Stundungen — BGH IX ZR 228/03.
 - **Aussetzung der Vollziehung (§ 361 AO / § 69 FGO) als Stundung behandeln**: AdV hemmt nur die Vollziehung; die Fälligkeit der Steuerforderung bleibt unberührt. AdV-Beträge sind weiter **Passiva I**, soweit nicht zusätzlich eine schriftliche § 222 AO-Stundung mit Fälligkeitsverschiebung über den Stichtag hinaus vorliegt.
 - **SV-Beiträge oder Lohnsteuer übersehen**: gesetzlich sofort fällig, zugleich Indizien.
 - **Künftige Verträge / hypothetische Verwertungserlöse einbeziehen**: nicht zulässig in Aktiva I/II.

@@ -17,7 +17,7 @@ description: "§ 102 StaRUG: Hinweis- und Warnpflicht für Steuerberater, Wirtsc
 - § 43a BRAO (Grundpflichten des Rechtsanwalts)
 - BGH IX ZR 285/14 — Sanierungsberater-Haftung: Pflicht zur unaufgeforderten Warnung des Mandanten vor Insolvenzrisiken
 - BGH IX ZR 228/13 — Steuerberater-Haftung bei unterlassenem Hinweis auf drohende Insolvenz
-- BGH II ZR 88/13 — Haftung bei Verletzung der Überwachungspflicht
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) — Haftung bei Verletzung der Überwachungspflicht
 - IDW PS 340 n.F. (Risikofrüherkennungssysteme)
 
 ---

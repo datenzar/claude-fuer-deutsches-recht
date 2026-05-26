@@ -18,7 +18,7 @@ description: "§ 15a InsO Insolvenzantragspflicht: Triggerlogik, Maximalfrist dr
 - § 43 GmbHG (Sorgfaltspflicht)
 - § 64 GmbHG a.F. / § 15b InsO n.F. (Masseerhaltungspflicht)
 - BGH II ZR 234/17 (Berechnung der Drei-Wochen-Frist)
-- BGH II ZR 88/13 (Haftung bei verspätetem Antrag)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Haftung bei verspätetem Antrag)
 
 ---
 

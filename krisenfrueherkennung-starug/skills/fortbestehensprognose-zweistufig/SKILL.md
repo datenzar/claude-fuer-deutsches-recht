@@ -17,7 +17,7 @@ Die Fortbestehensprognose ist der Schlüssel zwischen bilanzieller Überschuldun
 - § 15a InsO (Insolvenzantragspflicht)
 - IDW S 11 Tz. 65 ff. (Fortführungsprognose — Zweistufenmodell)
 - IDW S 6 (Sanierungskonzept als Basis der positiven FBP)
-- BGH II ZR 88/13 (Haftung bei falscher Fortbestehensprognose)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Haftung bei falscher Fortbestehensprognose)
 - BGH IX ZR 285/14 (Prüfpflicht des Beraters)
 
 ---

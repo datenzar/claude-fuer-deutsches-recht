@@ -19,7 +19,7 @@ Im Normalzustand schuldet der Geschäftsführer seine Loyalität den Gesellschaf
 - § 19 Abs. 2 InsO (Fortführungsprognose bei Überschuldung)
 - EuGH C-594/14 Kornhaas (Anwendung deutschen Insolvenzrechts auf EU-Auslandsgesellschaften)
 - BGH II ZR 234/17 (Sorgfaltspflichten in der Krise)
-- BGH II ZR 88/13 (Zahlung nach Insolvenzreife als Haftungsauslöser)
+- BGH II ZR 88/99 vom 08.01.2001 (BGHZ 146, 264) (Zahlung nach Insolvenzreife als Haftungsauslöser)
 - EuInsVO Art. 3 Abs. 1 (COMI — Centre of Main Interests)
 
 ---

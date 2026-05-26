@@ -198,7 +198,7 @@ c) einem unabhängigen Sachverständigen (benannt durch Arbeitgeber und Betriebs
 a) Überwachung der Anlagerichtlinien (Investment Policy Statement)
 b) Billigung des Jahresberichts des Treuhänders
 c) Zustimmung zu wesentlichen Änderungen der Anlagestruktur
-d) Sicherstellung der Insolvenzfestigkeit gem. BAG 3 AZR 18/12
+d) Sicherstellung der Insolvenzfestigkeit gem. BAG, Urt. v. 22.09.2020 — 3 AZR 303/18
 ```
 
 ---
