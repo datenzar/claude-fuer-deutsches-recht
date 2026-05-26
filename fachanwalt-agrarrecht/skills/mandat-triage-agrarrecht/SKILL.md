@@ -101,7 +101,7 @@ Agrarrecht-Mandate sind oft saisonal und förderrechtlich fristbeladen. Triage s
 | Jagdpacht | (Skill jagdrecht — perspektivisch) |
 | Genossenschaft | weiter an `gesellschaftsrecht`-Plugin |
 | Strafverfahren TierSchG | weiter an `mandat-triage-strafrecht` |
-| Hofübergabe steuerlich | weiter an `mandat-triage-steuerrecht` plus ErbSt |
+| Hofübergabe steuerlich | weiter an `anw-mandat-triage-steuerrecht` plus ErbSt |
 
 ## Mandatsannahme
 

@@ -88,7 +88,7 @@ Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensib
 | Testamentsanfechtung | (Skill testamentsanfechtung — perspektivisch) |
 | Erbauseinandersetzung | (Skill erbauseinandersetzung — perspektivisch) |
 | Ausschlagung überschuldet | (Skill ausschlagung-nachlassinsolvenz — perspektivisch) |
-| Erbschaftsteuer | weiter an `mandat-triage-steuerrecht` ErbSt-Spezifikum |
+| Erbschaftsteuer | weiter an `anw-mandat-triage-steuerrecht` ErbSt-Spezifikum |
 | Testamentsvollstreckung | (Skill testamentsvollstreckung — perspektivisch) |
 
 ## Mandatsannahme

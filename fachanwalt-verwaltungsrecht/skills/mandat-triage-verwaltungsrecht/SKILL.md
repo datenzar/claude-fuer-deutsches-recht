@@ -86,7 +86,7 @@ Verwaltungsrecht ist hochheterogen — vom Bauantrag bis zur Asylklage. Triage o
 | Schule Versetzung Zulassung | `widerspruch-oder-klage-erstpruefung` |
 | Asyl Ausländerrecht | weiter an `mandat-triage-migrationsrecht` |
 | Sozialleistung | weiter an `mandat-triage-sozialrecht` |
-| Steuerrecht | weiter an `mandat-triage-steuerrecht` |
+| Steuerrecht | weiter an `anw-mandat-triage-steuerrecht` |
 | Polizei-Maßnahme | (Skill polizei-feststellungs-klage — perspektivisch) |
 | Versammlungs-Verbot | `widerspruch-oder-klage-erstpruefung` plus § 80 Abs. 5 VwGO |
 

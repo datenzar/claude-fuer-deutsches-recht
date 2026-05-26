@@ -145,5 +145,5 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 ## Anschluss
 
 - `insolvenzforderungsanmeldungspruefung` — bei Tabellenanmeldung
-- `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage` — bei InsO-Anfechtung
+- `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` — bei InsO-Anfechtung
 - `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Mangel-Konstellation

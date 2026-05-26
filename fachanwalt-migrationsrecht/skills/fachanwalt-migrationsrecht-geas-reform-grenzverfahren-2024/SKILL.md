@@ -175,7 +175,7 @@ Mit freundlichen Gruessen
 
 - `fachanwalt-migrationsrecht-orientierung` — Triage
 - `fachanwalt-migrationsrecht-asyl-folgeantrag-71` — bei Folgeantrag
-- `fachanwalt-verwaltungsrecht-eilantrag-80-abs-5-vwgo` — Eil-Verfahren
+- `eilantrag-80-abs-5-vwgo` — Eil-Verfahren
 
 ## Quellen und Updates
 

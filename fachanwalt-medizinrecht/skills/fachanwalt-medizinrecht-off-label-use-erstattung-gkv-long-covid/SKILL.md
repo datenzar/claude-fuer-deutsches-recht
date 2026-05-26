@@ -106,7 +106,7 @@ Voraussetzungen:
 ## Querverweise
 
 - `fachanwalt-medizinrecht-orientierung` — Triage
-- `fachanwalt-sozialrecht-long-covid-bk-3101-anerkennung-bg` — Berufskrankheit-Parallelpfad
+- `fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg` — Berufskrankheit-Parallelpfad
 - `fachanwalt-sozialrecht-gdb-schwerbehinderung` — bei GdB-Antrag
 
 ## Quellen und Updates

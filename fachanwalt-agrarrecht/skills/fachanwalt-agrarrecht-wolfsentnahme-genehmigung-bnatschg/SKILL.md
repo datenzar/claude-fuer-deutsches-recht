@@ -102,7 +102,7 @@ Antrag eines Tierhalters (Schäfer, Rinderhalter, Hobbyhalter) auf Erteilung ein
 ## Querverweise
 
 - `fachanwalt-agrarrecht-orientierung` — allgemeine Triage
-- `fachanwalt-verwaltungsrecht-eilantrag-80-abs-5-vwgo` — Eilrechtsschutz bei Ablehnung
+- `eilantrag-80-abs-5-vwgo` — Eilrechtsschutz bei Ablehnung
 - `fachanwalt-verwaltungsrecht-widerspruchsschrift` — Widerspruch gegen Ablehnung
 
 ## Quellen und Updates
