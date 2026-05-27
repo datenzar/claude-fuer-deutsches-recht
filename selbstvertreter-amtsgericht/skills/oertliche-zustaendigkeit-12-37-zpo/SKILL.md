@@ -102,7 +102,7 @@ Beklagter ruegt Unzustaendigkeit in der Klageerwiderung; Gericht verweist auf An
 ## Querverweise
 
 - `verbrauchergerichtsstand-29c-zpo` — Verbraucher-Vorteile.
-- `sachliche-zustaendigkeit-ag-23-gvg` — Welche Gerichtsstufe?
+- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Welche Gerichtsstufe?
 - `ausnahmen-streitwertgrenze-23-nr-2-gvg` — Mietsache, Reisevertrag.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 

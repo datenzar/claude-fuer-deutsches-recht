@@ -744,6 +744,24 @@
       "version": "9.0.0"
     },
     {
+      "name": "selbstvertreter-amtsgericht",
+      "source": "./selbstvertreter-amtsgericht",
+      "description": "Plugin fuer Buerger ohne Anwalt vor dem Amtsgericht. Zustaendigkeit Streitwert Klageschrift Erwiderung Replik Fristen Beweise PKH Termin Berufung. Workflow- und Verfahrens-Plugin ohne inhaltliche Pruefung.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "1.0.0"
+    },
+    {
+      "name": "selbstvertreter-sozialgericht",
+      "source": "./selbstvertreter-sozialgericht",
+      "description": "Plugin fuer Buerger ohne Anwalt vor dem Sozialgericht. Widerspruch Klage Eilantrag bei Pflegegrad Krankenkasse Buergergeld EM-Rente und GdB. Einfache Sprache. Kostenfrei fuer Versicherte nach § 183 SGG. Workflow-Plugin ohne inhaltliche Rechtspruefung.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "1.0.0"
+    },
+    {
       "name": "sozialrecht-kanzlei",
       "source": "./sozialrecht-kanzlei",
       "description": "Vollassistenz fuer die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagen. Spezialisiert auf Buergergeld SGB IX Schwerbehinderung Hilfsmittel (Rollstuhl Hoerhilfe Vorlesekraft) Eingliederungshilfe Schulbegleitung. Mit Fristenbuch und PKH.",

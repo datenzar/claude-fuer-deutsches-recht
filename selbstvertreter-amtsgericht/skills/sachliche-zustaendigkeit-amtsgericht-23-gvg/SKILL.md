@@ -1,5 +1,5 @@
 ---
-name: sachliche-zustaendigkeit-ag-23-gvg
+name: sachliche-zustaendigkeit-amtsgericht-23-gvg
 description: "Pruefung der sachlichen Zustaendigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze nach § 23 Nr. 1 GVG (historisch 5.000 EUR Reform-Initiative 2026 anhaengig). Sonderzustaendigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Verifikationspflicht erlaeutert."
 ---
 

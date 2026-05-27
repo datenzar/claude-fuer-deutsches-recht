@@ -47,7 +47,7 @@ Schaetzen Sie, um welche Geldsumme es geht. Das ist Ihr Streitwert. Bei Sachen o
 
 ### Schritt 3 — Zustaendigkeit pruefen
 
-- Streitwert unterhalb der Wertgrenze § 23 Nr. 1 GVG? AG zustaendig. Skill `sachliche-zustaendigkeit-ag-23-gvg`.
+- Streitwert unterhalb der Wertgrenze § 23 Nr. 1 GVG? AG zustaendig. Skill `sachliche-zustaendigkeit-amtsgericht-23-gvg`.
 - Mietsache, Reisevertrag, Familiensache? Immer AG, unabhaengig vom Wert. Skill `ausnahmen-streitwertgrenze-23-nr-2-gvg`.
 - Welches AG raeumlich? Wohnort Beklagter ist der Hauptfall. Skill `oertliche-zustaendigkeit-12-37-zpo`.
 
@@ -83,7 +83,7 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 ## Querverweise
 
 - `anwaltszwang-pruefen-78-zpo` — Anwaltszwang-Check.
-- `sachliche-zustaendigkeit-ag-23-gvg` — AG ueberhaupt zustaendig?
+- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — AG ueberhaupt zustaendig?
 - `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
 - `vorabklaerung-erfolgsaussichten-selbstcheck` — Lohnt sich der Prozess?
 - `kostenrisiko-streitwert-berechnen-gkg` — Was kostet das?

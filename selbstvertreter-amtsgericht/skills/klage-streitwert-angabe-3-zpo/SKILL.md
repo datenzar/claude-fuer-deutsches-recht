@@ -120,7 +120,7 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 
 ## Querverweise
 
-- `sachliche-zustaendigkeit-ag-23-gvg` — Wertgrenze.
+- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Wertgrenze.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kosten je Streitwert.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klageschrift.
 

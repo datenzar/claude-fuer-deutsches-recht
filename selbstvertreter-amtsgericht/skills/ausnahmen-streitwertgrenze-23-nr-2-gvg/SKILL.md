@@ -85,7 +85,7 @@ Erbschein-Antraege, Testamentsvollstreckung, Betreuung. Immer AG (§ 23b, 23c GV
 
 ## Querverweise
 
-- `sachliche-zustaendigkeit-ag-23-gvg` — Allgemeine Grundregel.
+- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Allgemeine Grundregel.
 - `oertliche-zustaendigkeit-12-37-zpo` — Welches AG raeumlich?
 - `anwaltszwang-pruefen-78-zpo` — Familiensache und Anwaltszwang.
 

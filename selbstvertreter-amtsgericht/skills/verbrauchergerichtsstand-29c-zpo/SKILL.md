@@ -78,7 +78,7 @@ Schreiben Sie in die Klageerwiderung: "Die oertliche Zustaendigkeit wird geruegt
 ## Querverweise
 
 - `oertliche-zustaendigkeit-12-37-zpo` — Allgemeine Gerichtsstandsregeln.
-- `sachliche-zustaendigkeit-ag-23-gvg` — Sachliche Zustaendigkeit AG.
+- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Sachliche Zustaendigkeit AG.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage erstellen.
 
 ## Quellen und Aktualitaet

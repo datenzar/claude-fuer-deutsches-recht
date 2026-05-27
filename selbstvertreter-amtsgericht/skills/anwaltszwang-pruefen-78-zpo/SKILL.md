@@ -80,7 +80,7 @@ Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn
 ## Querverweise
 
 - `orientierung-selbstvertreter-amtsgericht` — Einstieg.
-- `sachliche-zustaendigkeit-ag-23-gvg` — Wann ist das AG ueberhaupt zustaendig?
+- `sachliche-zustaendigkeit-amtsgericht-23-gvg` — Wann ist das AG ueberhaupt zustaendig?
 - `berufung-amtsgericht-511-zpo` — Berufung zum LG (dort Anwaltszwang).
 - `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
 - `prozesskostenhilfe-pkh-114-zpo` — PKH bei finanzieller Notlage.
