@@ -158,8 +158,7 @@ Architektenhonorar berechnen, prüfen und durchsetzen — nach dem EuGH-Urteil z
 
 - BGH, Urt. v. 02.06.2022 — VII ZR 174/19, NJW 2022, 2470 Rn. 22: Nach dem EuGH-Urteil C-377/17 sind die Mindestsätze der HOAI für Verträge mit Unternehmern unionsrechtswidrig und nicht mehr bindend; die Parteien dürfen ein darunter liegendes Honorar wirksam vereinbaren. Bei fehlender Honorarvereinbarung gilt die übliche Vergütung nach § 632 Abs. 2 BGB, die sich am Basishonorarsatz der HOAI orientiert.
 - BGH, Urt. v. 14.07.2022 — VII ZR 89/22, NJW 2022, 3279 Rn. 18: Die Pruefbarkeit der Schlussrechnung ist Fälligkeitsvoraussetzung; unterlassene Pruefbarkeitsruege des AG innerhalb von zwei Monaten führt zu fingierter Fälligkeit — Verzug entsteht ohne weitere Mahnung.
-- BGH, Urt. v. 11.10.2018 — VII ZR 144/17, NJW-RR 2019, 270: Honorar entsteht nur für tatsächlich erbrachte Leistungsphasen; nicht erbrachte Teil-Leistungen berechtigen zur anteiligen Honorarkürzung proportional zum Leistungsphasen-Anteil.
-- BGH, Urt. v. 22.10.2020 — VII ZR 107/19, NJW 2021, 293 Rn. 25: Architektenvertrag mit Verbraucher (§ 650q BGB) erfordert zwingend Hinweis auf Honorar in Textform; fehlender Hinweis macht Honorarvereinbarung angreifbar.
+
 
 ## 11) Kommentarliteratur
 
@@ -214,3 +213,8 @@ K 4 — Leistungsphasennachweise
 - `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Bau-Mangel des Architekten
 - `werkmangel-vob-bgb-pruefen` — Planungs-/Überwachungsmangel
 - `schriftsatzkern-substantiierung` — für Klagebegründung Honorarklage
+
+---
+<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
+<!-- VII ZR 144/17 (behauptet 11.10.2018): NOT_FOUND auf dejure.org — geloescht -->
+<!-- VII ZR 107/19 (behauptet 22.10.2020): NOT_FOUND auf dejure.org — geloescht -->

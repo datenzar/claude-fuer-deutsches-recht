@@ -349,5 +349,7 @@ Mit freundlichen Gruessen
 
 ## Ergaenzende Leitentscheidungen
 
-- BGH, Urt. v. 08.10.2013 — VI ZR 111/12, NZI 2014, 68 — D&O Versicherung und Insolvenz: IV tritt als Rechtsnachfolger in D&O-Ansprueche der Gesellschaft ein; Direktklage des IV gegen D&O-Versicherer zulaeissig.
+- BGH, Urt. v. 05.04.2017 — IV ZR 360/15, NJW 2017, 2466 — D&O-Versicherung in der Insolvenz: Die Verfuegungsbefugnis ueber die Rechte des Versicherungsnehmers aus dem D&O-Vertrag geht gemaess § 80 Abs. 1 InsO auf den Insolvenzverwalter ueber; die Sozialbindung der Haftpflichtversicherung gilt auch in Innenha­ftungsfaellen; rechtsmissbraeuchliche Berufung des Versicherers auf fehlende Prozessfuehrungs­befugnis ist unzulaessig.
 - BGH, Urt. v. 15.03.2016 — II ZR 119/14, NJW 2016, 2493 — Haftung § 15b InsO: GF haftet persoenlich fuer Zahlungen nach Insolvenzreife; D&O-Versicherung deckt § 15b-Anspruch als "wrongful trading" ab wenn Versicherungspolice weit genug.
+
+<!-- AUDIT 27.05.2026: BGH VI ZR 111/12 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH IV ZR 360/15, NJW 2017, 2466 (verifiziert auf dejure.org). -->

@@ -23,7 +23,7 @@ description: "Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung 
 ## Aktuelle Rechtsprechung
 
 - BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — Der Arbeitnehmer hat nach § 9 Abs. 1 Satz 1 KSchG ein freies Auflösungsrecht ohne Darlegung einer Unzumutbarkeit; Voraussetzung ist allein, dass das Arbeitsgericht die Kündigung für sozialwidrig hält und der Antrag spätestens in der letzten mündlichen Verhandlung gestellt wird.
-- BAG, Urt. v. 11.07.2013 – 2 AZR 241/12, NZA 2014, 115 — Bei der gerichtlichen Abfindungsfestsetzung nach § 10 KSchG sind Betriebszugehörigkeit, Lebensalter und soziale Lage des Arbeitnehmers zu berücksichtigen; das Gericht hat Ermessen, das Ermessensüberschreitung nur ausnahmsweise revisibel macht.
+- BAG, Urt. v. 11.07.2013 – 2 AZR 241/12, NZA 2013, 1259 — Auflösungsantrag des Arbeitnehmers nach § 9 Abs. 1 Satz 1 KSchG: Unzumutbarkeit der Weiterbeschäftigung kann sich aus der Schärfe der Prozessführung durch den Arbeitgeber bei offensichtlich sozialwidriger Kündigung sowie aus der begründeten Erwartung schikanösen Verhaltens bei Rückkehr in den Betrieb ergeben; auch Depressionen infolge der ungerechtfertigten Kündigung können die Unzumutbarkeit begründen.
 - BAG, Urt. v. 08.10.2009 – 2 AZR 682/08, NZA 2010, 631 — Die Abfindungshöchstgrenze des § 10 Abs. 1 KSchG ist eine absolute Deckelung; ein Billigkeitsanspruch über diese Grenze hinaus besteht auch bei besonderer Sozialwidrigkeit der Kündigung nicht.
 - BAG, Urt. v. 28.09.1978 – 2 AZR 2/77, BAGE 31, 83 — Der Auflösungsantrag kann nicht mit einem Rechtsmittel (Berufung) weiterverfolgt werden, wenn er in der Vorinstanz nicht gestellt wurde; er ist im Berufungsverfahren nur unter den Voraussetzungen eines erstinstanzlichen Antrags zulässig.
 
@@ -111,3 +111,7 @@ Hilfsweise für den Fall, dass das Gericht die Unwirksamkeit der Kündigung fest
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+<!-- AUDIT 27.05.2026
+BAG 2 AZR 241/12: Zitiertes Thema korrigiert. Ursprüngliche Fassung behauptete Abfindungsfestsetzung nach § 10 KSchG (NZA 2014, 115). Dejure.org bestätigt: tatsächliches Thema ist Auflösungsantrag des Arbeitnehmers nach § 9 Abs. 1 Satz 1 KSchG / Unzumutbarkeit (NZA 2013, 1259). Themenbeschreibung und NZA-Fundstelle korrigiert. Quelle: https://dejure.org/2013,23784
+-->

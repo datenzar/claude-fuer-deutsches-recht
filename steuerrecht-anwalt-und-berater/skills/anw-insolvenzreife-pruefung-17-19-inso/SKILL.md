@@ -1,6 +1,6 @@
 ---
 name: anw-insolvenzreife-pruefung-17-19-inso
-description: "Anwaltliches Pruefgutachten zur Insolvenzreife einer GmbH oder UG aus Steueranwalts-Sicht. Anwendungsfall GF einer Krisengesellschaft mit Steuerrueckstaenden kommt zum Anwalt und Insolvenzreife muss rechtssicher geprueft werden vor Belehrung ueber Antragspflicht. Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Schema drei Wochen BGH IX ZB 50/03. Ueberschuldung § 19 InsO zweistufig IDW S 11 Fortbestehensprognose 24 Monate SanInsKG. Steuerspezifisch Steuerschulden Lohnsteuer Umsatzsteuer als Passiva I AdV § 361 AO Stundung § 222 AO beeinflussen Faelligkeit. Output Pruefgutachten Antragspflicht-Bewertung Uebergang zu anw-haftungswarn-15a-inso-mandant."
+description: "Anwaltliches Pruefgutachten zur Insolvenzreife einer GmbH oder UG aus Steueranwalts-Sicht. Anwendungsfall GF einer Krisengesellschaft mit Steuerrueckstaenden kommt zum Anwalt und Insolvenzreife muss rechtssicher geprueft werden vor Belehrung ueber Antragspflicht. Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Schema drei Wochen BGH IX ZR 123/04. Ueberschuldung § 19 InsO zweistufig IDW S 11 Fortbestehensprognose 24 Monate SanInsKG. Steuerspezifisch Steuerschulden Lohnsteuer Umsatzsteuer als Passiva I AdV § 361 AO Stundung § 222 AO beeinflussen Faelligkeit. Output Pruefgutachten Antragspflicht-Bewertung Uebergang zu anw-haftungswarn-15a-inso-mandant."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
@@ -53,8 +53,8 @@ Der Steueranwalt ist typischerweise der erste Berater, der erkennt, dass seine M
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH IX ZB 50/03 | IX ZB 50/03 | 19.07.2007 | Zahlungsunfähigkeit: 10-Prozent-Schwelle; nicht erfüllbar für Dauer von 3 Wochen zum Stichtag |
-| BGH IX ZR 123/04 | IX ZR 123/04 | 24.05.2005 | Zahlungseinstellung; auch ein einzelner gewichtiger Indizfall genügt; SV-Forderungen besonders gewichtig |
+| BGH IX ZR 123/04 | IX ZR 123/04 | 24.05.2005 | Zahlungsunfähigkeit: 10-Prozent-Schwelle; Liquiditätslücke ≥ 10 % und innerhalb von 3 Wochen nicht beseitigbar (BGHZ 163, 134) |
+| BGH IX ZR 123/04 / Zahlungseinstellung | IX ZR 123/04 | 24.05.2005 | Zahlungseinstellung § 17 Abs. 2 S. 2 InsO; auch ein einzelner gewichtiger Indizfall genügt; SV-Forderungen besonders gewichtig |
 | BGH II ZR 233/18 | II ZR 233/18 | 19.11.2019 | Fortbestehensprognose: tragfähiges Unternehmenskonzept plus Finanzplan; überwiegende Wahrscheinlichkeit |
 | BGH II ZR 88/16 | II ZR 88/16 | 19.12.2017 | Passiva II verzahnt mit Liquiditätsprognose; Abgrenzung Fortführungs-/Liquidationswerte |
 | BGH II ZR 298/11 | II ZR 298/11 | 09.10.2012 | Insolvenzrechtliche vs. handelsbilanzielle Überschuldung; Fortführungswerte bei positiver Prognose |
@@ -322,11 +322,17 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - EStG § 41a
 - SanInsKG (Prognosezeitraum 24 Monate bis 31.12.2026)
 - SanInsFoG (§ 15b InsO statt § 64 GmbHG a.F.)
-- BGH IX ZB 50/03 (10-%-Schwelle)
-- BGH IX ZR 123/04 (Zahlungseinstellung)
+- BGH IX ZR 123/04 (10-%-Schwelle, Zahlungsunfähigkeit, BGHZ 163, 134)
+- BGH IX ZR 123/04 (Zahlungseinstellung, § 17 Abs. 2 S. 2 InsO)
 - BGH II ZR 233/18 (Fortbestehensprognose)
 - BGH II ZR 298/11 (insolvenzrechtliche Überschuldung)
 - BFH VII R 24/15 (GF-Haftung § 69 AO)
 - BGH IX ZR 207/18 (Anfechtung Steuerzahlungen)
 - IDW S 11 (Insolvenzeröffnungsgründe)
 - IDW S 6 (Sanierungskonzept)
+
+<!-- AUDIT 27.05.2026 bundle_044
+- BGH IX ZB 50/03 (WRONG_TOPIC: echtes Thema Vergütung vorläufiger Insolvenzverwalter InsVV, nicht Zahlungsunfähigkeit)
+  → ersetzt durch BGH IX ZR 123/04, 24.05.2005, BGHZ 163, 134 (10-%-Schwelle, § 17 InsO)
+  → Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=24.05.2005&Aktenzeichen=IX+ZR+123%2F04
+-->

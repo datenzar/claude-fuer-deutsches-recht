@@ -46,7 +46,7 @@ Nach erfolgloser außergerichtlicher Phase die Klage strukturieren — beziffert
 | BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten bezogen auf zuletzt ausgeübte Tätigkeit |
 | BGH | IV ZR 81/19 | 18.12.2019 | Verjährungshemmung durch Vergleichsverhandlungen § 203 BGB |
 | BGH | IV ZR 225/10 | 22.06.2011 | § 81 VVG grob fahrlässig; quotale Kürzung proportional zur Schwere |
-| BGH | IV ZR 219/14 | 23.06.2015 | Transparenzgebot AVB; Risikoausschluss muss klar formuliert sein |
+
 | OLG Karlsruhe | 9 U 128/22 | 16.05.2023 | Cyber-Versicherung; Ransomware als Versicherungsfall |
 
 ## Prüfschema in Tabellenform
@@ -144,7 +144,7 @@ III. RECHTLICHE WÜRDIGUNG
 2. Ablehnungsgrund trägt nicht
    [Obliegenheitsverletzung fehlt / Risikoausschluss unwirksam /
     Kausalität fehlt § 28 Abs. 3 VVG]
-   BGH IV ZR 219/14 zu Transparenzgebot.
+   BGH-Rechtsprechung zu Transparenzgebot (§ 307 Abs. 1 S. 2 BGB).
 
 3. Fälligkeit und Verzug
    Der Anspruch ist gemäß § 14 VVG fällig. Verzug trat am
@@ -265,7 +265,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | BU: keine 50-%-Grenze nachgewiesen | SV-Gutachten; Berufsbild detailliert beschreiben; BGH IV ZR 31/12 |
 | Kein Feststellungsinteresse | BGH IV ZR 248/10: bei Dauerleistung stets gegeben |
 | Forderung verjährt | Hemmungszeiträume (Ombudsstelle, Verhandlungen) in Rechnung stellen |
-| AVB-Ausschluss eindeutig | Transparenztest BGH IV ZR 219/14; Auslegung § 305c Abs. 2 BGB |
+| AVB-Ausschluss eindeutig | Transparenztest § 307 Abs. 1 S. 2 BGB; Auslegung § 305c Abs. 2 BGB |
 | Mahnverfahren zumutbar | Bei BU oder Feststellungsklage: Mahnverfahren ungeeignet; direkte Klage |
 
 ## Streitwert und Kosten
@@ -294,7 +294,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 14, 19, 21, 28, 31, 81, 86, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288, 305–310; ZPO §§ 9, 23, 71, 114, 253, 256, 379, 411, 448; BGH IV ZR 178/04; IV ZR 248/10; IV ZR 31/12; IV ZR 81/19; IV ZR 225/10; IV ZR 219/14; OLG Karlsruhe 9 U 128/22; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020.
+VVG §§ 1, 14, 19, 21, 28, 31, 81, 86, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288, 305–310; ZPO §§ 9, 23, 71, 114, 253, 256, 379, 411, 448; BGH IV ZR 178/04; IV ZR 248/10; IV ZR 31/12; IV ZR 81/19; IV ZR 225/10; OLG Karlsruhe 9 U 128/22; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
@@ -314,3 +314,9 @@ BGH, Urt. v. 08.05.2013 — **IV ZR 233/11**, VersR 2013, 853 Rn. 16: Bei Streit
 
 - Veith/Gräfe, Der Versicherungsprozess, 4. Aufl. 2020: Klage-Strategie, Streitwertberechnung, Verzug und Zinsen im Versicherungsprozess.
 - Prölss/Martin, VVG, 31. Aufl. 2021, § 14 VVG Rn. 1 ff.: Fälligkeit und Verzug; Anerkenntnisse in außergerichtlichem Schriftwechsel.
+
+---
+
+<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
+AZ geprüft: BGH IV ZR 219/14 (NOT_FOUND — dejure.org: kein Eintrag nachweisbar; AZ existiert nicht nachweisbar): Eintrag aus Leitentscheidungen-Tabelle gelöscht; Verweise in Baustein 1 und Gegenargument-Tabelle durch Normverweise (§ 307 Abs. 1 S. 2 BGB) ersetzt; AZ aus Quellen-Zeile entfernt. Frontmatter unverändert.
+-->

@@ -25,7 +25,7 @@ description: "Kammertermin Hauptverhandlung im Kuendigungsschutzprozess: Sprechz
 ## Aktuelle Rechtsprechung
 
 - BAG, Urt. v. 19.04.2012 – 6 AZR 677/10, NZA 2012, 1232 — Zur Prozessleitung im Kammertermin: Der Vorsitzende ist zur Erteilung von Hinweisen nach § 56 ArbGG i.V.m. § 139 ZPO verpflichtet, wenn eine Partei wesentliche rechtliche oder tatsächliche Aspekte erkennbar übersehen hat; eine unterbliebene Hinweispflicht kann zur Aufhebung des Urteils führen.
-- BAG, Urt. v. 12.12.2013 – 8 AZR 838/12, NZA 2014, 618 — Zeugenbeweis im Kündigungsschutzverfahren: Werden Tatsachen durch Zeugnis unter Beweis gestellt, muss der beweispflichtige Kläger die Behauptung hinreichend konkret formulieren; eine „ins Blaue hinein" aufgestellte Beweisbehauptung ist unbeachtlich.
+
 - BAG, Urt. v. 27.09.2012 – 2 AZR 646/11, NZA 2013, 331 — Zum Weiterbeschäftigungsanspruch nach BAG GS 1/84: Nach erstinstanzlichem Obsiegen kann der Arbeitnehmer den allgemeinen Weiterbeschäftigungsanspruch aus §§ 611, 613, 242 BGB geltend machen; der Arbeitgeber kann nur bei überwiegenden schutzwürdigen Eigeninteressen die Weiterbeschäftigung verweigern.
 
 ## Kommentarliteratur
@@ -98,5 +98,8 @@ Ruhig bleiben. Richterliche Hinweise sind keine Urteile. Erst das Urteil abwarte
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+<!-- AUDIT 27.05.2026
+BAG 8 AZR 838/12: Eintrag geloescht. Skill behauptete Thema: Zeugenbeweis im Kuendigungsschutzverfahren / Beweisbehauptung hinreichend konkret, NZA 2014, 618. Dejure.org bestaetigt: Tatsaechliches Thema ist AGG § 15 / MuSchG Kuendigung Schwangere Diskriminierung wegen Geschlechts, NZA 2014, 722. Thema und NZA-Fundstelle falsch; kein verifizierter Ersatz. Eintrag geloescht. Quelle: https://dejure.org/2013,35683
+-->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

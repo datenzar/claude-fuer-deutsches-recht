@@ -21,9 +21,8 @@ description: "Kongruente und inkongruente Deckung sowie mittelbare Glaeubigerben
 
 ## Rechtsprechung (BGH — Benachteiligung und Kongruenz)
 
-- BGH, Urt. v. 10.06.2021 - IX ZR 234/19, NJW 2021, 2421 — Zur mittelbaren Gläubigerbenachteiligung: Benachteiligung muss kausal auf der Rechtshandlung beruhen; rein hypothetische Szenarien genügen nicht.
 - BGH, Urt. v. 06.04.2017 - IX ZR 300/15, NJW 2017, 2095 — Zur inkongruenten Deckung als Indiz für Benachteiligungsvorsatz: inkongruente Leistung begründet starke Vermutung für Vorsatz des Schuldners und Kenntnis des Empfängers.
-- BGH, Urt. v. 18.12.2014 - IX ZR 32/14, NJW 2015, 897 — Zum Begriff der kongruenten Deckung: Leistung muss in dieser Art zum vereinbarten Zeitpunkt als fällig und einredefrei geschuldet sein; Abweichungen begründen Inkongruenz.
+- BGH, Urt. v. 21.01.2016 - IX ZR 32/14, NJW-RR 2016, 430 — Zahlungsunfähigkeit und Benachteiligungsvorsatz bei Steuerzahlungen unter Vollstreckungsdruck (§ 133 Abs. 1 InsO); Indizien für Zahlungseinstellung und Kenntnis des Gläubigers.
 - BGH, Urt. v. 08.12.2016 - IX ZR 37/14, NJW 2017, 554 — Zur mittelbaren Benachteiligung durch Erlösverwendung: Veräußerung zu Marktpreis schließt Benachteiligung nicht aus wenn Erlös dem Schuldnervermögen nicht zugeführt wird.
 
 ## Kommentarliteratur
@@ -71,3 +70,10 @@ Die Benachteiligung tritt erst durch das Hinzutreten weiterer Umstände ein.
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BGH IX ZR 234/19: ersatzlos entfernt (WRONG_TOPIC/NOT_FOUND: Entscheidung auf dejure.org mit Datum 10.06.2021 nicht gefunden; V ZR 234/19 existiert bei anderem Senat mit anderem Thema; Quelle: dejure.org)
+- BGH IX ZR 32/14: ersetzt durch korrektes Datum und korrekte Fundstelle (alt: 18.12.2014, NJW 2015, 897, Thema kongruente Deckung § 130 InsO; neu: 21.01.2016, NJW-RR 2016, 430, Thema § 133 InsO Vorsatzanfechtung/Steuerzahlungen unter Vollstreckungsdruck; Quelle: dejure.org)

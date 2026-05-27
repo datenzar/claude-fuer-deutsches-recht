@@ -19,7 +19,7 @@ Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 
 - BGH, Urt. v. 04.07.2017 - XI ZR 562/15, NJW 2017, 2986 — Entscheidungsgründe müssen nachvollziehbar sein; pauschalisierende Formulierungen verletzen Begründungsgebot (→ für Schulungsblock "Entscheidungsgründe schreiben" verwenden).
 - BGH, Urt. v. 21.02.2017 - XI ZR 185/16, NJW 2017, 1823 — § 139 ZPO Hinweispflicht; Gericht darf Klage nicht ohne Vorankündigung abweisen (→ für Schulungsblock "Aktenintake und Hinweispflicht" verwenden).
-- BAG, Urt. v. 20.04.2023 - 6 AZR 265/22, NZA 2023, 1050 — Verständlichkeitsgebot in Urteilen; auch Arbeitsgerichte müssen Entscheidungen für Parteien nachvollziehbar begründen (→ für Verständlichkeitsdiskussion).
+
 - BVerfG, Beschl. v. 19.01.2021 - 1 BvR 2681/19, NJW 2021, 1431 — Art. 103 Abs. 1 GG: Gericht muss wesentliche Argumentation im Urteil berücksichtigen (→ für Schulungsblock "Verfassungsrechtliche Grundlagen").
 
 ## Zentrale Normen (für Schulungsunterlagen)
@@ -118,3 +118,11 @@ Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidun
 4. Incoterm FOB Galway - Gefahrübergang dort, also vor Eintritt in die EU - aber DSGVO greift trotzdem nach Art. 3 II DSGVO.
 5. Streitwert 1577 EUR - sachlich zustaendig AG nach Paragraf 23 Nr. 1 GVG.
 6. Berufung waere ohne Zulassung nicht statthaft (Beschwer unter 600 EUR für Beklagte) - der Kläger hat aber Beschwer über 600 EUR, also Berufung statthaft.
+
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.

@@ -25,8 +25,6 @@ BGH, Urt. v. 19.01.2012 – IX ZR 2/11, NJW 2012, 1209 — Bei gemischten Schenk
 
 BGH, Urt. v. 22.04.2010 – IX ZR 163/09, NJW 2010, 2205 — Die Vier-Jahres-Frist des § 134 Abs. 1 InsO beginnt mit der tatsächlichen Rechtshandlung, nicht mit dem Vertragsschluss; maßgeblich ist der Zeitpunkt, zu dem die Vermögensverschiebung wirksam wird.
 
-BGH, Urt. v. 10.01.2008 – IX ZR 85/07, NJW-RR 2008, 564 — Gebräuchliche Gelegenheitsgeschenke nach § 134 Abs. 2 InsO sind nur solche von angemessenem Wert im Verhältnis zur wirtschaftlichen Lage des Schuldners; bei Schenkung erheblicher Vermögenswerte greift die Ausnahme nicht.
-
 ## Kommentarliteratur
 
 Kayser in: MüKoInsO, 4. Aufl. 2023, § 134 Rn. 1–60 (Unentgeltlichkeit, Frist, Ausnahmen).
@@ -94,3 +92,11 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 016 – Halluzinations-Reparatur
+Problem: BGH IX ZR 85/07 – WRONG_TOPIC und falsches Datum (Skill behauptete 10.01.2008, real: 05.03.2009).
+Realthema laut dejure.org: § 133 InsO, Gläubigerbenachteiligungsvorsatz bei Existenzgründungskredit (BGHZ 180, 98; NJW 2009, 1601) – kein § 134-Bezug.
+Massnahme: Eintrag vollständig gelöscht (falsches Thema für diesen Skill und falsches Datum).
+Quelle: https://dejure.org/2009,397
+-->

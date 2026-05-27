@@ -134,3 +134,13 @@ Tabelle gültig bis:    30.6.2027
 - `zv-abwehr-schuldner`
 - `werkzeuge/pfaendungsrechner.py`
 - `forderungsmanagement-klagewerkstatt/skills/inkasso-zahlungsklage-ersteller`
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- 1 UP 5/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (1 Unterhaltspflicht → 5/10 pfaendbar); Notation bleibt unveraendert
+- 2 UP 4/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (2 Unterhaltspflichten → 4/10 pfaendbar); Notation bleibt unveraendert
+- 3 UP 3/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (3 Unterhaltspflichten → 3/10 pfaendbar); Notation bleibt unveraendert
+- 4 UP 2/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (4 Unterhaltspflichten → 2/10 pfaendbar); Notation bleibt unveraendert
+- 5 UP 1/10: kein Aktenzeichen — korrekte Pfaendbarkeitsquote gemaess § 850c Abs. 3 ZPO (5 Unterhaltspflichten → 1/10 pfaendbar); Notation bleibt unveraendert

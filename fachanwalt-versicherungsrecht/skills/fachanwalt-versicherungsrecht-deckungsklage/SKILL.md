@@ -40,8 +40,7 @@ description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erf
 | BGH | IV ZR 248/10 | 22.06.2011 | Feststellungsinteresse BU; bei Dauerleistung stets gegeben wenn Versicherer bestreitet |
 | BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten: bezogen auf konkrete zuletzt ausgeübte Tätigkeit; abstrakte Verweisbarkeit nur wenn AVB es vorsehen |
 | BGH | IV ZR 178/04 | 12.10.2005 | Anerkenntniswirkung Versicherer-Korrespondenz; Zahlungsaussicht bindet |
-| BGH | IV ZR 219/14 | 23.06.2015 | Transparenzgebot Risikoausschluss; § 307 BGB |
-| OLG Saarbrücken | 5 U 90/22 | 25.01.2023 | BU-Verfahren; Sachverständigengutachten im Prozess; Bindung an SV-Gutachten |
+
 | BGH | IV ZR 81/19 | 18.12.2019 | Verjährungshemmung durch Vergleichsverhandlungen § 203 BGB |
 | BGH | IV ZR 51/14 | 29.10.2014 | Vorvertragliche Anzeigepflicht; Kenntnis-Maßstab VN |
 
@@ -306,7 +305,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 14, 19, 21, 28, 81, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288; ZPO §§ 9, 23, 71, 72, 74, 114, 253, 256, 379, 411, 448; GKG; BGH IV ZR 248/10; IV ZR 31/12; IV ZR 178/04; IV ZR 219/14; IV ZR 81/19; IV ZR 51/14; OLG Saarbrücken 5 U 90/22; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020; Bruck/Möller VVG 9. Aufl.
+VVG §§ 1, 14, 19, 21, 28, 81, 215; BGB §§ 195, 199, 203, 204, 280, 286, 288; ZPO §§ 9, 23, 71, 72, 74, 114, 253, 256, 379, 411, 448; GKG; BGH IV ZR 248/10; IV ZR 31/12; IV ZR 178/04; IV ZR 81/19; IV ZR 51/14; Prölss/Martin VVG 31. Aufl. 2022; Veith/Gräfe Der Versicherungsprozess 4. Aufl. 2020; Bruck/Möller VVG 9. Aufl.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
@@ -336,3 +335,9 @@ BGH, Urt. v. 17.09.2014 — **IV ZR 208/13**, NJW 2014, 3718 Rn. 15: Örtliche Z
 3. **Sachverständigenbeweis vorbereiten:** Privatgutachten als Anlage + Antrag auf gerichtliches Gutachten; Kosten-PKH prüfen.
 4. **PKH-Berechtigung prüfen:** § 114 ZPO — ausreichende Erfolgsaussichten (Gutachtenlage) + Bedürftigkeit.
 5. **Verjährung hemmen:** Bei Verhandlungen § 203 BGB; sonst Klageschrift einreichen vor Ablauf der 3-Jahres-Frist.
+
+---
+
+<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
+AZ geprüft: (1) OLG Saarbrücken 5 U 90/22 (NOT_FOUND — dejure.org: keine Treffer; kein Ersatz gefunden): Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. (2) BGH IV ZR 219/14 (NOT_FOUND — dejure.org: kein Eintrag nachweisbar): Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. Frontmatter unverändert.
+-->

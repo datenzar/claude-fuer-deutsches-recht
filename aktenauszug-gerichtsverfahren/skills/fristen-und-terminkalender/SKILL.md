@@ -29,7 +29,7 @@ Versäumte Fristen können zum Verlust des Verfahrens oder zur Haftung des Recht
 ## Rechtsprechung zu Fristen und Fristversäumnis
 
 - BGH, Beschl. v. 14.01.2020 - VIII ZB 4/19, NJW 2020, 757 — Fristversäumnis wegen fehlerhafter Büroorganisation begründet Anwaltshaftung nach §§ 280 Abs. 1 675 BGB; Wiedereinsetzungsantrag muss unverzüglich gestellt werden.
-- BGH, Beschl. v. 11.09.2018 - VI ZB 4/18, NJW 2019, 303 — Zur Wiedereinsetzung nach § 233 ZPO: unverschuldetes Fristversäumnis setzt voraus dass kanzleiinterne Fristen-Kontrollsysteme vorhanden waren und versagt haben.
+- BGH, Beschl. v. 08.05.2018 - VI ZB 5/17, NJW 2018, 2897 — Zur Wiedereinsetzung nach § 233 ZPO: Rechtsanwalt ist berechtigt prozessuale Fristen bis zu ihrer Grenze auszuschöpfen; Wiedereinsetzung bei Verlust eines fristgebundenen Schriftsatzes setzt geschlossene Schilderung der Abläufe bis zur Postaufgabe voraus.
 - BGH, Beschl. v. 22.05.2019 - VII ZB 53/17, NJW 2019, 2479 — Zu Fristversäumnis durch fehlerhafte Zustellung: Fristlauf beginnt erst ab ordnungsgemässer Zustellung; Erkenntnismöglichkeit des Anwalts ersetzt nicht die Zustellung.
 - BAG, Urt. v. 22.06.2023 - 8 AZR 392/22, NZA 2024, 52 — Zur 3-Wochen-Frist nach § 4 KSchG: Fristbeginn richtet sich nach Zugangszeitpunkt der Kündigung; Nachforschungspflicht des Arbeitnehmers bei Abwesenheit.
 
@@ -102,3 +102,7 @@ Alternativ als Markdown-Tabelle:
 - [ ] Fehlende Zustellungsdaten als „unbekannt" markiert?
 - [ ] Fristen in der Verfahrenschronologie markiert?
 - [ ] Wochenende/Feiertag bei Fristende berücksichtigt (§ 222 ZPO)?
+
+---
+
+> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat entfernt und ersetzt. BGH VI ZB 4/18 (behauptet: 11.09.2018, NJW 2019, 303) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Ersetzt durch verifiziertes Zitat BGH VI ZB 5/17 (08.05.2018, NJW 2018, 2897) mit thematisch passendem Inhalt zu Wiedereinsetzung und anwaltlichen Sorgfaltspflichten nach § 233 ZPO.

@@ -23,7 +23,7 @@ Vor dem Start der strategischen Analyse folgende Fragen klären:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.09.2005 – II ZR 173/04, NJW 2005, 3569 — Ausschluss eines GmbH-Gesellschafters aus wichtigem Grund analog § 140 HGB; Voraussetzung ist ein schwerwiegender Grund, der die Fortsetzung der Gesellschaft mit dem betreffenden Gesellschafter unzumutbar macht.
+<!-- AZ II ZR 173/04 entfernt (27.05.2026): Urteil betrifft Hinauskuendigungsverbot/Vesting-Modell (BGHZ 164, 98), nicht Ausschlussklage analog § 140 HGB; NJW 2005, 3569 ist falsche Fundstelle. -->
 - BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 86, 177 — Abfindungs-Beschränkung auf Buchwert; sittenwidrig nach § 138 BGB, wenn die Klausel zu einer Enteignung des ausscheidenden Gesellschafters führt; Verkehrswert als Untergrenze.
 - BGH, Urt. v. 20.09.2011 – II ZR 234/09, NJW 2011, 3441 — Business Combination: Vinkulierungsklausel in GmbH-Satzung; Verweigerung der Zustimmung zur Anteilsübertragung muss sachlich gerechtfertigt sein; treuwidrige Verweigerung führt zu Schadensersatz.
 - BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine) — GmbH-Beschlussmängelklage analog §§ 243 ff. AktG; 1-Monat-Frist analog § 246 AktG auch bei GmbH.
@@ -121,7 +121,7 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 - BGB §§ 138, 626, 738
 - AktG §§ 241, 246
 - ZPO §§ 935, 1029
-- BGH, Urt. v. 19.09.2005 – II ZR 173/04, NJW 2005, 3569 (Ausschlussklage analog § 140 HGB).
+<!-- AZ II ZR 173/04 entfernt (27.05.2026): WRONG_TOPIC, siehe Audit-Hinweis. -->
 - BGH, Urt. v. 07.02.1983 – II ZR 25/82, BGHZ 86, 177 (Abfindungs-Buchwertklausel; Sittenwidrigkeit).
 - BGH, Urt. v. 17.02.1997 – II ZR 41/96, BGHZ 134, 364 (Gelatine; GmbH-Beschlussmängelklage).
 - Scholz/K. Schmidt, GmbHG, 12. Aufl. 2021, § 34 Rn. 1 ff.
@@ -133,3 +133,10 @@ Sittenwidrigkeitsprüfung: [ja/nein]
 - `gesellschaftsrecht:geschaeftsfuehrer-haftung-43-gmbhg` — wenn GF-Haftungsvorwürfe Teil des Konflikts
 - `gesellschaftsrecht:aufsichtsrat-protokoll` — wenn AR-Gremium in Konflikt involviert
 - `gesellschaftsrecht:mandat-triage-gesellschaftsrecht` — Mandatsaufnahme bei neuem Streit
+
+---
+## Audit-Hinweis (27.05.2026)
+
+Geprüfte AZ: BGH II ZR 173/04.
+Status: WRONG_TOPIC — das Urteil betrifft die Zulaessigkeit von Hinauskuendigungsklauseln in Form einer Vesting-Regelung (Managermodell, BGHZ 164, 98), nicht den Ausschluss analog § 140 HGB. Die Fundstelle NJW 2005, 3569 ist nicht korrekt.
+Maßnahme: Beide Nennungen entfernt. Kein Ersatz eingefuegt; der Ausschlussklagen-Stoff ist ueber BGH II ZR 25/82 (Abfindung/Sittenwidrigkeit) und den Normenhinweis § 140 HGB analog teilweise abgedeckt.

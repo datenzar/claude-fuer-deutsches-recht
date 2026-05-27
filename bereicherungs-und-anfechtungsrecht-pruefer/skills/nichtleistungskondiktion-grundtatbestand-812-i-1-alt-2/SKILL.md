@@ -25,7 +25,6 @@ BGH, Urt. v. 18.01.2012 – I ZR 187/10, NJW 2012, 3774 — Die Eingriffskondikt
 
 BGH, Urt. v. 09.03.2012 – V ZR 115/11, NJW 2012, 1793 — Bei der Verwendungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB sind die engeren Voraussetzungen des EBV (§§ 994 ff. BGB) zu beachten; § 812 BGB tritt zurück, wenn das EBV als lex specialis eingreift.
 
-BGH, Urt. v. 13.07.2000 – VII ZR 462/98, NJW 2000, 3492 — Bloß mittelbare wirtschaftliche Betroffenheit des Gläubigers genügt nicht für die Nichtleistungskondiktion; die Bereicherung muss unmittelbar aus dem Vermögens- oder Rechtskreis des Gläubigers stammen.
 
 ## Kommentarliteratur
 
@@ -92,3 +91,6 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+---
+<!-- AUDIT 27.05.2026: BGH VII ZR 462/98 (NJW 2000, 3492) auf dejure.org nicht auffindbar (NOT_FOUND); NJW 2000, 3492 gehoert zu BGH X ZR 62/98 (illegale Arbeitnehmerleihe, anderes Rechtsgebiet) — Eintrag ersatzlos geloescht. -->

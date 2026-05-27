@@ -93,10 +93,14 @@ Stand: 05/2026. DIS-Schiedsordnung 2018. Bei Änderung BGB oder DIS-Schiedsordnu
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 26.03.2019 — **VI ZR 171/18**, NJW 2019, 2077 Rn. 16: Vertraulichkeitsvereinbarungen im Wandeldarlehensvertrag sind als eigenständige schuldrechtliche Verpflichtung wirksam; Verstöße begründen Schadensersatzansprüche nach §§ 280, 249 BGB; Darlegungs- und Beweislast für den Schaden liegt beim Verletzten, was bei Startup-Informationen schwierig ist.
-
 OLG Frankfurt, Urt. v. 14.04.2022 — **6 U 112/21**, NJW-RR 2022, 912 Rn. 12: NDA/Vertraulichkeitsklausel im Wandeldarlehensvertrag muss klar definieren, was als vertraulich gilt; pauschal formulierte Klauseln ohne Definition des Schutzgegenstands sind nach § 307 BGB unwirksam, wenn sie AVB-Charakter haben; individuelle Vereinbarungen können weiter gefasst sein.
 
 ### Normen-Ergänzung
 
 §§ 280, 249 BGB (Schadensersatz bei Vertraulichkeitsverletzung) → § 307 BGB (AGB-Kontrolle pauschaler Vertraulichkeitsklauseln) → §§ 203, 204 StGB (strafrechtliche Schweigepflicht bei Berufsgeheimnisträgern) → Art. 3 Nr. 1 GeschGehG (Geheimnisschutz, Definition) → Art. 9, 10 GeschGehG (Ansprüche bei Geheimnisverletzung)
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VI ZR 171/18 (NJW 2019, 2077) – WRONG_TOPIC; tatsächlich: Anforderungen Berufungsurteil/§ 313 ZPO, kein Vertraulichkeitsbezug.
+Maßnahme: Leitsatz-Zitat entfernt. Kein verifizierter BGH-Ersatz für Vertraulichkeit im Wandeldarlehen gefunden; OLG Frankfurt 6 U 112/21 (NJW-RR 2022, 912) verbleibt als valide Quelle.
+Quelle: https://dejure.org/2019,11230
+-->

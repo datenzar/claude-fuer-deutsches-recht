@@ -24,7 +24,7 @@ description: "Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesam
 
 ## Aktuelle Rechtsprechung
 
-- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt ohne zeitliche Beschränkung. Das BAG hat die frühere 3-Jahres-Rechtsprechung (BAG 6 AZR 716/09) ausdrücklich aufgegeben. Jede frühere Beschäftigung beim selben Arbeitgeber — egal wie lange zurückliegend — sperrt grundsätzlich die sachgrundlose Befristung.
+- BAG, Urt. v. 23.01.2019 – 7 AZR 733/16, NZA 2019, 1042 — Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt ohne zeitliche Beschränkung. Das BAG hat die frühere 3-Jahres-Rechtsprechung (BAG 7 AZR 716/09) ausdrücklich aufgegeben. Jede frühere Beschäftigung beim selben Arbeitgeber — egal wie lange zurückliegend — sperrt grundsätzlich die sachgrundlose Befristung.
 - BVerfG, Beschl. v. 06.06.2018 – 1 BvL 7/14 und 1 BvR 1375/14, NZA 2018, 774 — Das lebenslange Vorbeschäftigungsverbot ist grundgesetzkonform, solange Gerichte eine Ausnahme machen, wenn das frühere Arbeitsverhältnis sehr weit zurückliegt oder ganz andersartig war; eine starre zeitliche Grenze schreibt das BVerfG nicht vor.
 - BAG, Urt. v. 21.08.2019 – 7 AZR 452/17, NZA 2020, 310 — Die Ausnahme vom Vorbeschäftigungsverbot nach BVerfG 2018 gilt nur für „sehr lange zurückliegende" Vorbeschäftigung; 8 Jahre zurückliegend ist noch nicht lange genug; das BAG lässt weiterhin keine feste Karenzzeit erkennen.
 - BAG, Urt. v. 06.04.2011 – 7 AZR 716/09, NZA 2011, 905 — Frühere Rechtslage (3-Jahres-Grenze), die durch BAG 7 AZR 733/16 ausdrücklich aufgegeben wurde; nur noch historisch bedeutsam.
@@ -91,3 +91,12 @@ Ist § 14 Abs. 2 TzBfG verletzt (Vorbeschäftigung, Überschreitung Dauer oder V
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+<!-- AUDIT 27.05.2026 | Bundle 012 | Task 3
+AZ geprüft: Referenz auf 716/09
+Befund: Senatsfehler korrigiert.
+Alt: "(BAG 6 AZR 716/09)" — 6. Senat existiert nicht für TzBfG-Sachen.
+Neu: "(BAG 7 AZR 716/09)" — korrekt; 7. Senat BAG ist für Befristungsrecht zuständig.
+Korrekte Entscheidung bereits in Zeile 30 vorhanden: BAG, Urt. v. 06.04.2011 – 7 AZR 716/09, NZA 2011, 905.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+716%2F09
+-->

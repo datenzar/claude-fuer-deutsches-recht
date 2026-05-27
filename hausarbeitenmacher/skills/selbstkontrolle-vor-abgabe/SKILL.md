@@ -16,7 +16,6 @@ description: "Student prueft Hausarbeit vor Abgabe auf inhaltliche und formale V
 - BGH, Urt. v. 14.12.2006 - VII ZR 166/05, NJW 2007, 819 — Sorgfaeltiger Endcheck einer juristischen Arbeit entspricht dem Sorgfaltsmassstab des § 276 BGB; Fehler bei erkennbarer Pruefungsmoeglichkeit sind vorwerfbar.
 - BGH, Urt. v. 15.07.2014 - VI ZR 313/13, NJW 2014, 3297 — Selbstkontrolle vor Herausgabe von Dokumenten ist anwaltliche Sorgfaltspflicht; im Studium zu ueben.
 - BVerfG, Beschl. v. 12.09.2006 - 2 BvR 2115/01, NJW 2007, 207 — Sorgfaeltige Begruendung als Qualitaetsmerkmal: Endfassung muss methodisch konsistent sein.
-- BAG, Urt. v. 26.06.2013 - 5 AZR 428/12, NZA 2013, 1081 — Formale Korrektheit als Bestandteil professioneller juristischer Arbeit; formale Fehler schmälern inhaltlich gute Leistungen.
 
 ## Zentrale Normen
 - § 276 BGB — Verschulden: Massstab fuer erforderliche Sorgfalt (Analogie: Hausarbeits-Endcheck)
@@ -263,3 +262,9 @@ Wenn nicht — überarbeite noch eine Stunde.
 
 - Abgabe — Du hast es geschafft.
 - Ggf. zurück zu einem früheren Skill, wenn Lücken erkannt.
+
+
+<!-- AUDIT 27.05.2026 — Bundle 033 —
+  BAG 5 AZR 428/12 (WRONG_TOPIC) entfernt: Entscheidung betrifft Arbeitszeitkonto/Kürzung von Gleitzeitguthaben,
+  nicht "Formale Korrektheit als Bestandteil professioneller Leistung". Kein geeigneter Ersatz gefunden; Zeile gelöscht.
+-->

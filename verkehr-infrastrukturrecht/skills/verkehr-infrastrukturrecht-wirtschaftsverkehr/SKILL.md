@@ -31,7 +31,6 @@ description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestal
 - BVerwG, Urt. v. 25.04.2018 - 3 C 25.16, NJW 2018, 2900 — Lieferzeitfenster in Fussgaengerzone: Gemeinde darf Lieferverkehr auf bestimmte Uhrzeiten beschraenken, muss aber ausreichende Zeitfenster gewaeseinen (konkret: 4 Stunden taegliche Lieferzeit ausreichend).
 - OVG Berlin-Brandenburg, Beschl. v. 02.07.2020 - OVG 1 S 48.20 — Ausnahmegenehmigung nach § 46 StVO fuer Schwerlasttransport: Behoerde kann Nebenbedingungen (Fahrtweg, Uhrzeiten) anordnen; kein Anspruch auf uneingeschraenkte Nutzung.
 - VG Koeln, Urt. v. 14.03.2019 - 18 K 6123/17 — Gewerbetreibender hat keinen Anspruch auf Einrichtung einer Haltezone direkt vor seinem Betrieb; Gemeingebrauch der Strasse geht vor Sonderinteresse.
-- BGH, Urt. v. 17.06.2014 - VI ZR 281/13, NJW 2014, 2878 — Haftung des Frachtfuehrers bei Sturz des Empfaengers durch mangelhaft gesicherte Ladung auf oeffentlichem Buergersteig; Verkehrssicherungspflicht erfasst Entladebereich.
 
 ## Kommentarliteratur
 
@@ -120,3 +119,8 @@ Mit freundlichen Gruessen
 - Ladungssicherung (§ 22 StVO, VDI 2700) vor Beginn jeder Auslieferung pruefen
 - OEPNV-Haltestellen und Radwege freihalten — Busverkehr geht vor
 - Sondernutzungsgebuehren vertraglich absichern und kalkulieren
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+> **Audit-Hinweis (27.05.2026):** BGH VI ZR 281/13, NJW 2014, 2878 entfernt. Tatsaechliches Thema: BGH VI ZR 281/13 (Urt. v. 17.06.2014) betrifft kein Mitverschulden (§ 254 BGB) eines Fahrradfahrers wegen Nichttragens eines Fahrradhelms, NJW 2014, 2493 — kein Bezug zu Frachtfuehrer-Haftung oder Verkehrssicherungspflicht beim Entladen. NJW 2014, 2878 gehoert nicht zu diesem Urteil. Quelle: dejure.org/2014,13360.

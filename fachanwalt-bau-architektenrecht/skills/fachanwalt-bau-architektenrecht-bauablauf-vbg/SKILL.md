@@ -39,8 +39,6 @@ description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und g
 |---------|-------------|-------|-------------|
 | BGH | VII ZR 11/08 | 24.02.2011 | Konkrete bauablaufbezogene Darstellung erforderlich; pauschale Behauptungen genügen nicht; SOLL/IST-Vergleich zwingend |
 | BGH | VII ZR 128/09 | 26.04.2012 | § 642 BGB: Planlieferungs-Verzögerung führt zu Annahmeverzug; Entschädigung ohne Verschulden |
-| BGH | VII ZR 285/12 | 06.03.2014 | Witterungsbedingungen: § 6 Abs. 2 Nr. 1 lit. c VOB/B — Behinderung durch ungewöhnliche Witterung; Anzeigepflicht |
-| BGH | VII ZR 217/13 | 16.10.2014 | Behinderungsanzeige-Anforderungen: konkrete Benennung der Störungsursache notwendig |
 | BGH | VII ZR 201/13 | 30.04.2015 | Kausalität Bauzeit: AN muss nachweisen dass Behinderung den kritischen Pfad beeinflusst hat |
 | OLG Düsseldorf | 21 U 101/17 | 08.02.2019 | Beschleunigungsmaßnahmen: AG muss Beschleunigung anordnen und vergüten; AN nicht verpflichtet auf eigene Kosten zu beschleunigen |
 
@@ -329,3 +327,8 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 - Kapellmann/Schiffers, Vergütung und Bauablauf, 7. Aufl.
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Stand: 05/2026
+
+---
+<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
+<!-- VII ZR 217/13 (behauptet 16.10.2014, Behinderungsanzeige-Anforderungen): NOT_FOUND auf dejure.org — geloescht -->
+<!-- VII ZR 285/12 (behauptet Datum 06.03.2014, Witterungsbedingungen VOB/B): WRONG_TOPIC — real: Verjaehrungshemmung durch Verhandlungen § 203 BGB, Datum 05.06.2014, NJW 2014, 2716, verifiziert auf dejure.org/2014,14744 — geloescht -->

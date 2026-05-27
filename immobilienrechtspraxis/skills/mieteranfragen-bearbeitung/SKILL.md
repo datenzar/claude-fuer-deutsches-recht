@@ -80,9 +80,7 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - BGH, Urt. v. 05.04.2023 — VIII ZR 26/22, NJW 2023, 2113 Rn. 28: Bei Schimmelbefall tragt der Vermieter die Darlegungs- und Beweislast dafuer, dass der Mieter die Ursache durch unzureichendes Lueften oder Heizen gesetzt hat; pauschale Hinweise auf Nutzerverhalten genuegen nicht.
-- BGH, Urt. v. 29.09.2021 — VIII ZR 226/20, NJW 2021, 3593 Rn. 22: Die Mietpreisbremse-Ruege muss qualifiziert sein (§ 556g Abs. 2 BGB); erst nach der Ruege entsteht der Rueckzahlungsanspruch; ein Antwortschreiben des Vermieters muss die Sachverhaltsdarstellung aufgreifen.
 - BGH, Urt. v. 19.01.2022 — VIII ZR 123/21, NJW 2022, 945 Rn. 20: Der Widerspruch des Mieters nach § 574 BGB gegen die Eigenbedarfskuendigung muss die Haertegrunde konkret benennen; allgemeine Haertevorbehalterklaerungen genuegen nicht.
-- BGH, Urt. v. 09.02.2022 — VIII ZR 228/20, NJW 2022, 1380 Rn. 25: Mietkautionsrueckgabe kann der Vermieter bis zu sechs Monate nach Auszug zurueckhalten, wenn Betriebskostennachforderung moeglich; danach faellt Kaution mit Zinsen vollstaendig zurueck.
 
 ## Paragrafenkette
 
@@ -97,3 +95,9 @@ Warnsiegel, weil Einzelfallbewertung zwingend ist:
 - Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 536 ff. Rn. 1 ff. Mangelrechte
 - BeckOK Mietrecht — §§ 556d ff. Mietpreisbremse
 - Staudinger, BGB §§ 535–580a — vertiefende Dogmatik
+
+---
+<!-- AUDIT 27.05.2026 bundle_004 -->
+**Halluzinations-Audit 27.05.2026**
+- BGH VIII ZR 226/20 (behauptet Urt. v. 29.09.2021, NJW 2021 3593 Rn. 22, Mietpreisbremse-Ruege): Auf dejure.org nicht gefunden. Eintrag geloescht.
+- BGH VIII ZR 228/20 (behauptet Urt. v. 09.02.2022, NJW 2022 1380 Rn. 25, Mietkautionsrueckgabe): Auf dejure.org nicht gefunden. Eintrag geloescht.

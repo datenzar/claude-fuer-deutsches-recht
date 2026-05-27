@@ -41,12 +41,12 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | IX ZB 5/22 | 19.05.2022 | Insolvenzplan, Klassenbildung: Gläubiger unterschiedlicher Interessen und Rechtsstellung sind in verschiedene Klassen einzuteilen; willkürliche Zusammenfassung führt zur Versagung der Bestätigung |
+| BGH | IX ZB 75/14 | 07.05.2015 | Insolvenzplan, Klassenbildung: Der Insolvenzplan muss angeben, nach welchen Vorschriften die Gruppen gebildet wurden; bei fakultativen Gruppen sind die Kriterien der Abgrenzung zu erläutern; willkürliche Zusammenfassung von Gläubigern mit unterschiedlichen Interessen führt zur Zurückweisung nach § 231 Abs. 1 Nr. 1 InsO |
 | BGH | II ZR 277/16 | 19.06.2018 | § 15a InsO: Antragspflicht beginnt mit objektivem Eintritt der Insolvenzreife; Unwissenheit des Geschäftsführers ist kein Entschuldigungsgrund |
 | BGH | IX ZR 54/18 | 14.05.2020 | Insolvenzanfechtung bei Distressed M&A: Zahlungen an Erwerber kurz vor Insolvenzantrag anfechtbar; Erwerber muss Gläubigerbenachteiligungsvorsatz kennen |
 | AG Hamburg | 67c RES 2/21 | 15.09.2021 | Erste gerichtlich bestätigte StaRUG-Restrukturierung in Deutschland: Anforderungen an Klassenbildung und Planbetroffenheit konkretisiert |
 | AG Köln | 83 RES 1/21 | 03.03.2021 | StaRUG-Moratorium: Vollstreckungsschutz setzt konkrete Darlegung der Restrukturierungsfähigkeit voraus |
-| BAG | 6 AZR 376/20 | 25.02.2021 | Sozialplan-Verbindlichkeiten im Insolvenzplan: Masseforderungen genießen Vorrang; Kürzung nur in engen Grenzen |
+| BAG | 6 AZR 785/08 | 21.01.2010 | Sozialplan-Verbindlichkeiten im Insolvenzverfahren: Forderungen aus nachinsolvenzlichem Sozialplan sind Masseverbindlichkeiten nach § 123 Abs. 2 S. 1 InsO; Kürzungsgrenze Drittel der Verteilungsmasse (§ 123 Abs. 2 S. 2, 3 InsO); Leistungsklage bei Masseunzulänglichkeit unzulässig |
 | BFH | VII R 15/20 | 07.09.2021 | Steuerverbindlichkeiten im Insolvenzplan: Finanzamt muss plangemäßer Schuldbefreiung zustimmen, wenn Gleichbehandlungsgebot gewahrt ist |
 
 ## Prüfschema
@@ -98,7 +98,7 @@ Das Gesetz über den Stabilisierungs- und Restrukturierungsrahmen für Unternehm
 
 | Gegenargument (Gläubiger) | Erwiderung (Schuldner / Berater) |
 |---|---|
-| Klasseneinteilung ist willkürlich | Klassenbildung nach § 9 StaRUG / § 222 InsO richtet sich nach Rechtsstellung und Interessen; BGH IX ZB 5/22 ist einzuhalten; konkrete Begründung liefern |
+| Klasseneinteilung ist willkürlich | Klassenbildung nach § 9 StaRUG / § 222 InsO richtet sich nach Rechtsstellung und Interessen; BGH IX ZB 75/14 ist einzuhalten; konkrete Begründung liefern |
 | Plan stellt uns schlechter als Liquidation | Vergleichsrechnung nach § 251 InsO muss Liquidationsszenario realistisch darstellen; Sachverständiger bestellen |
 | Antragspflicht war schon früher fällig | Nachweis, dass drohende Zahlungsunfähigkeit erst zu einem späteren Zeitpunkt erkennbar war; Dokumentation der Prognosen |
 | StaRUG greift in Eigentumsrechte ein | Art. 14 GG: Eingriff gerechtfertigt, wenn Schlechterstellungsverbot gewahrt und Sanierungsziel legitim |
@@ -241,9 +241,17 @@ ein Ausgleich in Höhe von EUR [Betrag] gemäß § 64 Abs. 3 StaRUG zuzusprechen
 
 ## Quellen
 
-- BGH, Beschl. v. 19.05.2022, Az. IX ZB 5/22 (Klassenbildung Insolvenzplan)
+- BGH, Beschl. v. 07.05.2015, Az. IX ZB 75/14 (Klassenbildung Insolvenzplan)
 - BGH, Urt. v. 19.06.2018, Az. II ZR 277/16 (§ 15a InsO Antragspflicht)
 - BGH, Urt. v. 14.05.2020, Az. IX ZR 54/18 (Insolvenzanfechtung Distressed M&A)
 - AG Hamburg, Beschl. v. 15.09.2021, Az. 67c RES 2/21 (erste StaRUG-Bestätigung)
+- BAG, Urt. v. 21.01.2010, Az. 6 AZR 785/08 (Sozialplan Masseverbindlichkeit Kürzungsgrenze)
 - BFH, Urt. v. 07.09.2021, Az. VII R 15/20 (Steuerforderungen im Insolvenzplan)
 - §§ 1–93 StaRUG; §§ 15a, 15b, 17–19, 217–251 InsO; § 3a EStG; § 7b GewStG
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- IX ZB 5/22: ersetzt durch IX ZB 75/14 (BGH 07.05.2015, dejure.org/2015,12893) — BGH IX ZB 5/22 (12.01.2023) betrifft Zustellungsrecht/Mietrecht (AG Neukoelln), nicht Insolvenzplan-Klassenbildung
+- 6 AZR 376/20: ersetzt durch 6 AZR 785/08 (BAG 21.01.2010, bundesarbeitsgericht.de) — BAG 9 AZR 376/20 (27.07.2021) betrifft Urlaubsentgelt/variable Verguetung nach § 11 BUrlG, nicht Sozialplan im Insolvenzverfahren

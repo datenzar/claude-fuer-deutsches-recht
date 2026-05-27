@@ -17,7 +17,6 @@ Der Tenor ist das Herzstück des Urteils. Er muss vollstreckbar sein.
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 07.07.2011 - VII ZR 213/10, NJW 2011, 2885 — Tenor muss vollstreckbar und bestimmt sein; Bezugnahmen auf den Tatbestand im Tenor sind unzulässig.
 - BGH, Urt. v. 19.07.2011 - II ZR 300/10, NJW 2011, 3510 — Kostenquote muss mit dem Streitwert und dem tatsächlichen Obsiegen übereinstimmen; fehlerhafte Quoten sind per Berichtigung nach § 319 ZPO korrigierbar.
 - BGH, Urt. v. 17.09.2019 - II ZR 167/18, NJW 2020, 234 — Zinsbeginn "seit Rechtshängigkeit" ist § 291 BGB; Verzugszinsen ab Mahnung nach § 286 BGB — beides kann nebeneinander ausgesprochen werden.
 - BGH, Beschl. v. 05.12.2012 - III ZB 47/12, NJW 2013, 1232 — Vollstreckbarkeit ohne Sicherheitsleistung (§ 713 ZPO) setzt voraus, dass Berufung mangels Beschwer nicht statthaft ist.
@@ -95,3 +94,6 @@ Der Tenor muss aus sich heraus vollstreckbar sein. Keine Bezugnahmen auf den Tat
 - "Der Streitwert wird auf 1577 Euro festgesetzt."
 
 Im Repository werden Geldbetraege im Fliesstext mit Punkt geschrieben (Repo-Konvention).
+
+---
+<!-- AUDIT 27.05.2026: BGH VII ZR 213/10 (NJW 2011, 2885) auf dejure.org nicht auffindbar (NOT_FOUND) — Eintrag ersatzlos geloescht. Uebrige Rechtsprechungseintraege wurden nicht geprueft. -->

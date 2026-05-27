@@ -48,7 +48,7 @@ description: "Gerichtsstand und Rechtswahl bei internationalen Handelsstreitigke
 | EuGH | C-537/23 | 27.02.2025 | Anforderungen an Art. 25 Brüssel Ia: Klausel muss Gericht oder Gerichte konkret benennen; Generalklausel unzureichend |
 | BGH | VIII ZR 60/01 | 23.01.2002 | Wahl "deutsches Recht" schließt CISG nicht aus; CISG ist Teil des deutschen Rechts bei int. Warenkäufen |
 | EuGH | C-585/08 (Pammer/Alpenhof) | 07.12.2010 | Ausrichtung auf Wohnsitzstaat (Art. 17 Brüssel Ia): Webseite mit fremden TLD oder Telefonnummer des Landes genügt |
-| BGH | VII ZR 167/13 | 12.06.2014 | Erfüllungsort Art. 7 Nr. 1 Brüssel Ia Dienstleistung: Ort der Hauptleistungshandlung entscheidend |
+| BGH | VII ZR 139/17 | 26.04.2018 | Erfüllungsort Art. 7 Nr. 1 Buchst. b Brüssel Ia Dienstleistung: einheitlicher Gerichtsstand am Ort der hauptsächlichen Leistungserbringung; bei mehreren Erbringungsorten engste Verknüpfung zum Vertrag maßgebend; NJW 2019, 76 |
 | EuGH | C-249/16 (Kareda) | 15.06.2017 | Rückgriffsanspruch zwischen Gesamtschuldnern als vertraglich i.S.v. Art. 7 Nr. 1 |
 | BGH | III ZR 25/20 | 2021 | Schiedsklausel wirksam per E-Mail i.S.v. § 1031 Abs. 1 ZPO; AGB-Einbeziehung im B2B ausreichend |
 | EuGH | C-352/13 (Cartel Damage Claims) | 21.05.2015 | Delikt Art. 7 Nr. 2: bei Kartellschaden Erfolgsort am Sitz des Geschädigten |
@@ -230,10 +230,13 @@ Vollstreckung § 328 ZPO (Nicht-EU): Anerkennungsklage erforderlich; volle Geric
 - EuGH C-537/23, Urt. v. 27.02.2025
 - EuGH C-585/08 (Pammer/Alpenhof), Urt. v. 07.12.2010, NJW 2011, 505
 - BGH VIII ZR 60/01, Urt. v. 23.01.2002, BGHZ 149, 337
+- BGH VII ZR 139/17, Urt. v. 26.04.2018, NJW 2019, 76 (Erfüllungsort Dienstleistung Art. 7 Nr. 1 Brüssel Ia)
 - Geimer, Internationales Zivilprozessrecht, 8. Aufl. 2020
 - Schack, Internationales Zivilverfahrensrecht, 7. Aufl. 2021
 - New Yorker Übereinkommen v. 10.06.1958, BGBl. 1961 II S. 121
 - ZPO §§ 1029 ff., § 328
+
+<!-- AUDIT 27.05.2026: BGH VII ZR 167/13 (12.06.2014) NOT_FOUND auf dejure.org – ersetzt durch BGH VII ZR 139/17 (26.04.2018), NJW 2019, 76, verifiziert auf dejure.org. Kernaussage: Erfüllungsort Dienstleistung Art. 7 Nr. 1 Buchst. b Brüssel Ia. -->
 
 ## Vertiefung: Triage und Output-Template Gerichtsstand
 

@@ -54,7 +54,6 @@ Das Gesetz zur Modernisierung des Personengesellschaftsrechts (MoPeG) vom 10.08.
 
 **Sozialversicherungspflicht Gesellschafter-Geschäftsführer:**
 > BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R: Geschäftsführer mit echter satzungsmäßiger Sperrminorität ist sozialversicherungsfrei, unabhängig von der Anteilshöhe.
-> BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R: Schuldrechtliche Stimmbindungen außerhalb der Satzung begründen keine SV-Freiheit.
 
 **Holding-Struktur und § 8b KStG:**
 > § 8b Abs. 2 KStG: Gewinne aus der Veräußerung von Anteilen an Kapitalgesellschaften sind bei einer körperschaftsteuerpflichtigen Holding-GmbH zu 95 % steuerfrei.
@@ -66,7 +65,6 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
 | BSG | B 12 R 25/18 R | NJW 2020, 1015 | Echte Sperrminorität in Satzung → SV-Freiheit des Gesellschafter-GF |
-| BSG | B 12 KR 13/14 R | NZA 2016, 444 | Schuldrechtliche SHA-Stimmbindung begründet keine SV-Freiheit; Sperrminorität muss in Satzung stehen |
 | BGH | II ZR 173/04 | BGHZ 164, 107 | Hinauskündigungsgrenze; sachliche Rechtfertigung für Einziehungsklauseln und Bad-Leaver |
 | BFH | I R 52/20 | BFH/NV 2022, 654 | § 8b KStG; Steuerfreiheit von Veräußerungsgewinnen bei körperschaftsteuerpflichtiger Holding |
 | BGH | II ZR 193/10 | NJW 2012, 2945 | Stimmverbot § 47 Abs. 4 GmbHG; Entlastung des GF-Gesellschafters |
@@ -124,7 +122,7 @@ Wenn ein Gründer seine Anteile über eine Holding-GmbH hält, werden Veräußer
 | UG ist die günstigere GmbH | UG hat keine Investoren-Sperrwirkung | UG ist für Startups mit Investorenplan ungeeignet; Umwandlung zur GmbH kostet Zeit und Notargebühren; sofort GmbH bei Investor-Roadmap |
 | GbR für Immobilien reicht | Vor MoPeG 2024 richtig | Seit 01.01.2024: GbR ohne Eintragung kann nicht im Grundbuch eingetragen werden (§ 707b BGB); eGbR zwingend |
 | AG als Prestigeform | Strenge Publizität, HV-Pflicht, Aufsichtsrat | AG nur gerechtfertigt bei > 50 Mio. EUR Unternehmensgröße oder konkretem Börsengang-Plan |
-| SHA-Stimmbindung reicht für SV-Freiheit | Kostengünstiger als Satzungsänderung | BSG, B 12 KR 13/14 R: SHA-Bindung ist SV-rechtlich irrelevant; Sperrminorität muss zwingend in Satzung stehen |
+| SHA-Stimmbindung reicht für SV-Freiheit | Kostengünstiger als Satzungsänderung | SHA-Bindung ist SV-rechtlich irrelevant; Sperrminorität muss zwingend in Satzung stehen (BSG-Linie) |
 | Holding-GmbH nachträglich einfach einzufügen | Steuerlich problemlos | Nachträgliche Einbringung der Anteile in eine Holding-GmbH löst steuerpflichtige Veräußerung aus (§ 17 EStG); Holding muss vor operativer GmbH bestehen |
 | eK ausreichend für kleine Dienstleister | Persönliche Haftung unbeschränkt | Bei Beratungsfehlern, Mietverträgen, Personalkosten: persönliche Haftung kann existenzbedrohend sein; UG mit 1.000 EUR oft sinnvoller |
 | Gesellschaft hat sofort Rechtspersönlichkeit nach Beurkundung | Vor-GmbH-Stadium bis HR-Eintragung | Bis zur Eintragung: Gesellschafter haften persönlich für Verbindlichkeiten der Vor-GmbH (§ 11 Abs. 2 GmbHG) |
@@ -402,7 +400,6 @@ Kommentarliteratur:
 - Baumbach/Hopt, HGB, 41. Aufl. 2024, Einl. vor § 1 Rn. 1 ff. (Rechtsformvergleich).
 - Henssler/Strohn, GesR, 5. Aufl. 2021, Vor § 1 AktG Rn. 1 ff.
 - BSG, Urt. v. 19.09.2019 – B 12 R 25/18 R, NJW 2020, 1015 (Sperrminorität und SV-Freiheit).
-- BSG, Urt. v. 11.11.2015 – B 12 KR 13/14 R, NZA 2016, 444 (SHA-Stimmbindung SV-irrelevant).
 
 ## Output-Template: Rechtsformempfehlung
 
@@ -434,3 +431,5 @@ NAECHSTE SCHRITTE:
   [ ] Notar-Termin: [DATUM]
   [ ] Holding-Struktur pruefen: [Ja / Nein / Spaeter]
 ```
+
+<!-- AUDIT 27.05.2026: BSG B 12 KR 13/14 R (11.11.2015) aus Normtext, Leitentscheidungen-Tabelle, Typische-Fallen-Tabelle und Quellen entfernt. Bundle 029 markiert WRONG_TOPIC (real_topic: Statusfeststellung Krankenversicherung Sozialrecht). Bei Zweifel geloescht. Bundle 029 / WRONG_TOPIC. -->

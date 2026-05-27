@@ -193,8 +193,6 @@ BGH, Urt. v. 01.03.2011 — **II ZR 83/09**, BGHZ 188, 212 Rn. 24: Garantie-Klau
 
 BGH, Urt. v. 13.07.2012 — **V ZR 206/11**, NJW 2012, 3439 Rn. 18: Bei einem Share Deal geht das Haftungsrisiko für bekannte oder erkennbare Risiken des Zielunternehmens auf den Käufer über, sofern diese bei ordnungsgemäßer Due Diligence hätten entdeckt werden können (§ 442 BGB analog); Red-Flags, die in der Due Diligence bekannt waren, können vom Verkäufer nicht nachträglich als Garantieverletzung eingesetzt werden.
 
-BGH, Urt. v. 22.02.2012 — **VIII ZR 34/11**, NJW 2012, 2117 Rn. 15: Disclosure Schedules als Anlage zum SPA schränken die Garantien des Verkäufers ein; vollständige und klare Offenlegung im Datenraum mit Verweis auf die Disclosure Schedule kann Käufer-Ansprüche wegen Kenntnis (§ 442 BGB) ausschließen; die Beweislast für die Vollständigkeit der Offenlegung trägt der Verkäufer.
-
 OLG München, Urt. v. 26.09.2012 — **23 U 892/12**, NJW-RR 2013, 35 Rn. 12: Eine Material-Adverse-Change-Klausel (MAC) berechtigt zum Rücktritt vom SPA, wenn sich die wirtschaftliche Situation des Zielunternehmens seit Unterzeichnung des SPA wesentlich verschlechtert hat; der Rücktrittsgrund muss erheblich und dauerhaft sein, vorübergehende Schwankungen reichen nicht.
 
 ### Paragrafenkette
@@ -266,3 +264,13 @@ EMPFEHLUNG
 OFFENE PUNKTE
 [Liste der noch benötigten Dokumente oder Klärungen]
 ```
+
+<!-- AUDIT 27.05.2026 | Bundle 022 | Task 4
+AZ: BGH VIII ZR 34/11
+Status: WRONG_TOPIC
+Befund: Laut dejure.org (dejure.org/2012,31734) betrifft VIII ZR 34/11 vom 22.02.2012
+Erdgaspreiserhöhungen (keine stillschweigende Zustimmung bei vorbehaltloser Zahlung,
+§ 4 AVBGasV) – nichts mit M&A, Disclosure Schedules oder § 442 BGB zu tun.
+NJW 2012, 2117 bestätigt diesen Befund.
+Maßnahme: Leitsatz-Zitat aus Abschnitt "Vertiefung – Aktuelle Rechtsprechung" gelöscht.
+-->

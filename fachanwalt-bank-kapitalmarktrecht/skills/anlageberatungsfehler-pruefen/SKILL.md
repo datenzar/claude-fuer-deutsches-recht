@@ -69,7 +69,6 @@ Das Fundament aller Beratungshaftungs-Fälle:
 | BGH | XI ZR 178/10 | 27.09.2011 | Lehman-Zertifikate: Emittentenrisiko-Aufklärung |
 | BGH | XI ZR 33/10 | 22.03.2011 | CMS Spread Ladder Swap: anfänglicher negativer Marktwert aufklärungspflichtig |
 | BGH | XI ZR 158/11 | 27.09.2011 | Entgangene Verzinsung: 4 % als pauschalierter Vergleichsmaßstab |
-| BGH | XI ZR 109/13 | 17.10.2013 | Vorschuss-Anspruch bei Architekten/Beraterhaftung |
 
 ## Prüfschema Anlageberatungsfehler
 
@@ -224,3 +223,7 @@ Kapitalmarktrecht]
 - BGH XI ZR 12/93; XI ZR 56/05; XI ZR 320/04; XI ZR 178/10; XI ZR 33/10; XI ZR 158/11
 - MiFID-II Richtlinie 2014/65/EU
 - Ellenberger/Schäfer/Clouth Praktikerhandbuch Wertpapier- und Derivategeschäft
+
+<!-- AUDIT 27.05.2026 bundle_021
+GELÖSCHT: BGH XI ZR 109/13 (17.10.2013) – NOT_FOUND auf dejure.org; kein XI-Senat-Bankrechtsfall unter diesem AZ nachweisbar; behauptetes Thema (Vorschuss-Anspruch Architekten/Beraterhaftung) gehört nicht zum XI. Zivilsenat.
+-->

@@ -114,7 +114,7 @@ Verbindlich nach `../../references/zitierweise.md`.
 - **Übermäßige Identitätshürde:** Passverlangen ohne Anlass verletzt Art. 12 Abs. 6 DSGVO; EDSA warnt vor übermäßiger Identifizierung als faktischem Abwehrmittel.
 - **§ 34 BDSG-Ausnahmen ohne Dokumentation:** Ausnahme muss einzelfallbezogen begründet sein; pauschale Verweigerung „wegen Geschäftsgeheimnisse" ist nicht ausreichend.
 - **Datenkopie-Format:** Art. 15 Abs. 3 DSGVO verlangt keine bestimmte Form; ein „strukturiertes, maschinenlesbares Format" ist bei Art. 20 DSGVO (Portabilität) vorgeschrieben, nicht bei Art. 15 Abs. 3 DSGVO – Verwechslung vermeiden.
-- **Verjährung von Schadensersatzansprüchen:** BGH, Urt. v. 12.07.2022 – VI ZR 7/21, NJW 2022, 3071: Art. 82 DSGVO-Schadensersatz setzt einen konkreten Schaden voraus, aber schon Kontrollverlust kann genügen. Fehlerhaft bearbeitete Betroffenenanfragen begründen Haftungsrisiko.
+- **Schadensersatz Art. 82 DSGVO:** BGH, Beschl. v. 26.09.2023 – VI ZR 97/22, ZIP 2023, 2472: Vorlage an den EuGH zu den Anforderungen an den immateriellen Schaden nach Art. 82 Abs. 1 DSGVO; bloßer Datenschutzverstoß ohne nachgewiesenen Schaden genügt nicht. Fehlerhaft bearbeitete Betroffenenanfragen begründen Haftungsrisiko.
 
 ## Ablehnung wegen Rechtsmissbrauch — EuGH C-526/24
 
@@ -243,3 +243,9 @@ Datenkopie gemäß Art. 15 Abs. 3 DSGVO: [ANLAGE / Ablehnung mit Begruendung]
 Mit freundlichen Grüßen
 [NAME, FUNKTION, DSB-KONTAKT]
 ```
+
+<!-- AUDIT 27.05.2026 | bundle_053
+Geprüft: BGH VI ZR 7/21 (WRONG_TOPIC: dejure.org zeigt Kfz-Unfall/fiktive Schadensabrechnung, NJW 2022, 1884; nicht Verjährung DSGVO-Schadensersatz)
+Ersatz: BGH VI ZR 97/22, ZIP 2023, 2472 (verifiziert auf dejure.org — Vorlage EuGH zu Art. 82 DSGVO immateriellem Schaden)
+Thema: DSGVO Art. 82 Schadensersatz — thematisch passend für DSGVO-Kontext
+-->

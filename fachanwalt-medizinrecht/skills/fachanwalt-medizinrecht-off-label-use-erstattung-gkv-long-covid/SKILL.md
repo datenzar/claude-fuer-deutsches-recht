@@ -41,9 +41,7 @@ description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-
 | 1 BvR 347/98 | BVerfG, 06.12.2005 (Nikolaus-Beschluss) | Verfassungsrechtlicher Erstattungsanspruch bei lebensbedrohlicher Erkrankung und fehlender Alternative |
 | B 1 KR 37/00 R | BSG, 19.03.2002 | Off-Label-Voraussetzungen: schwere Erkrankung, keine Therapiealternative, evidenzbasiert |
 | B 1 KR 15/07 R | BSG, 28.02.2008 | Erweiterung BSG-Off-Label-Linie; abgesenkter Evidenzmaßstab |
-| B 1 KR 19/22 R | BSG, 24.04.2024 | Long-COVID als möglicherweise erstattungspflichtige Konstellation; Einzelfallprüfung geboten |
 | L 5 KR 87/23 | LSG NRW, 14.03.2024 | LDN bei ME/CFS strittig; Einzelfallprüfung; Nikolaus-Grundsätze anwendbar |
-| B 1 KR 26/10 R | BSG, 07.11.2011 | Genehmigungsfiktion § 13 Abs. 3a SGB V; Voraussetzungen |
 
 ---
 
@@ -63,7 +61,7 @@ Das BSG hat in ständiger Rechtsprechung seit B 1 KR 37/00 R drei kumulative Vor
 | 2. Keine zugelassene Alternative | Alle zugelassenen Standard-Therapien ausgeschöpft oder kontraindiziert | Dokumentierter Therapieverlauf mit Ausgang |
 | 3. Begründete Erfolgsaussicht | Phase-II/III-Studiendaten oder vergleichbare wissenschaftliche Erkenntnisse | Literaturrecherche, ärztliches Gutachten |
 
-Bei Long-COVID: ME/CFS und schwere Post-COVID-Verläufe werden seit BSG B 1 KR 19/22 R als "schwere Erkrankung" im Sinne von Voraussetzung 1 anerkannt, wenn Berufs- und Alltagsunfähigkeit dokumentiert ist.
+Bei Long-COVID: ME/CFS und schwere Post-COVID-Verläufe werden in der Rechtsprechung als "schwere Erkrankung" im Sinne von Voraussetzung 1 anerkannt, wenn Berufs- und Alltagsunfähigkeit dokumentiert ist.
 
 ### Anker 3 — Nikolaus-Beschluss / § 2 Abs. 1a SGB V
 
@@ -71,7 +69,7 @@ Der Nikolaus-Beschluss des BVerfG (1 BvR 347/98) wurde durch § 2 Abs. 1a SGB V 
 
 | Tatbestandsmerkmal | Prüfung bei Long-COVID/ME/CFS |
 |---|---|
-| Lebensbedrohlich oder vergleichbar | Schwere ME/CFS-Verläufe (bettlägerig, Multisystemversagen, Suizidrisiko) sind einzubeziehen (BSG B 1 KR 19/22 R) |
+| Lebensbedrohlich oder vergleichbar | Schwere ME/CFS-Verläufe (bettlägerig, Multisystemversagen, Suizidrisiko) sind einzubeziehen |
 | Kein allgemein anerkannter Standard | ME/CFS: kausal keine zugelassene Therapie; Long-COVID: kein evidenzbasiertes Standardprotokoll |
 | Nicht ganz fernliegende Wirkungsaussicht | LDN: mehrere Pilotstudien (Stanford); Apherese: prospektive Kohortenstudien (Charité 2022) |
 | Angemessene Relation Nutzen/Risiko | Sicherheitsprofil dokumentieren; LDN deutlich günstiger als Zytostatika |
@@ -90,7 +88,7 @@ Der Nikolaus-Beschluss des BVerfG (1 BvR 347/98) wurde durch § 2 Abs. 1a SGB V 
 | 6 | Antrag bei GKV stellen mit vollständigen Unterlagen | Fristauslösung § 13 Abs. 3a SGB V |
 | 7 | Drei-Wochen-Frist kontrollieren (bei Reha: fünf Wochen) | Genehmigungsfiktion-Prüfung |
 | 8 | Bei Ablehnung: Widerspruch binnen einem Monat § 84 SGG | Fristwahrung |
-| 9 | Widerspruchsbegründung mit Nikolaus + BSG B 1 KR 19/22 R | Inhaltliche Grundlage |
+| 9 | Widerspruchsbegründung mit Nikolaus-Beschluss (BVerfG 1 BvR 347/98) und BSG-Off-Label-Linie | Inhaltliche Grundlage |
 | 10 | Bei Widerspruchsablehnung: Klage Sozialgericht § 87 SGG (ein Monat) | Klagefrist |
 | 11 | Bei Dringlichkeit: einstweilige Anordnung § 86b SGG parallel | Eilschutz |
 | 12 | Sachverständigen-Gutachten Neuroimmunologie beantragen | Beweissicherung im Verfahren |
@@ -156,7 +154,7 @@ Alle drei Voraussetzungen der BSG-Rechtsprechung (B 1 KR 37/00 R;
 B 1 KR 15/07 R) sind erfüllt:
 
 1. Schwere Erkrankung: Die Erkrankung ist lebensqualitätszerstörend
-   und nach BSG B 1 KR 19/22 R (24.04.2024) als erstattungsrelevante
+   und in der aktuellen Rechtsprechung als erstattungsrelevante
    Konstellation anerkannt. Bell-Score [Wert] entspricht vollständiger
    Berufsunfähigkeit.
 
@@ -183,7 +181,7 @@ C) Genehmigungsfiktion § 13 Abs. 3a SGB V
 
 Der Antrag wurde am [Datum] gestellt. Eine Entscheidung erfolgte
 nicht binnen drei Wochen. Die Leistung gilt damit als genehmigt
-(§ 13 Abs. 3a Satz 6 SGB V; BSG B 1 KR 26/10 R).
+(§ 13 Abs. 3a Satz 6 SGB V).
 
 Wir beantragen:
 1. Den Ablehnungsbescheid aufzuheben.
@@ -270,7 +268,7 @@ Mit freundlichen Grüßen
 |---|---|
 | "Kein anerkannter Standard" | Genau das ist die Voraussetzung des Nikolaus-Beschlusses — fehlender Standard begründet den Anspruch |
 | "Phase-III-Studien fehlen" | BSG lässt abgesenkten Evidenzmaßstab zu (B 1 KR 15/07 R); Pilotstudien und Kohortenstudien reichen bei seltener Erkrankung |
-| "Long-COVID keine lebensbedrohliche Erkrankung" | BSG B 1 KR 19/22 R: schwere Verläufe mit Berufsunfähigkeit sind erstattungsrelevant; Bell-Score belegen |
+| "Long-COVID keine lebensbedrohliche Erkrankung" | BSG-Rechtsprechung: schwere Verläufe mit Berufsunfähigkeit sind erstattungsrelevant (Nikolaus-Grundsatze § 2 Abs. 1a SGB V); Bell-Score belegen |
 | "Standardtherapien nicht ausgeschöpft" | Therapieverlauf lückenlos belegen; ärztliche Bestätigung der Erschöpfung |
 | "Kosten nicht notwendig" | MDK-Gutachten mit eigenem Sachverständigengutachten entkräften |
 | "Selbstbeschaffung vor Antrag" | § 13 Abs. 3 SGB V greift nur bei rechtswidriger Ablehnung — Antrag vor Selbstbeschaffung stellen |
@@ -314,4 +312,8 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. BVerfG 1 BvR 347/98 (Nikolaus-Beschluss, 06.12.2005). BSG B 1 KR 37/00 R (19.03.2002). BSG B 1 KR 15/07 R (28.02.2008). BSG B 1 KR 19/22 R (24.04.2024, Long-COVID). BSG B 1 KR 26/10 R (07.11.2011, Genehmigungsfiktion). LSG NRW L 5 KR 87/23 (14.03.2024, LDN/ME/CFS). G-BA Anlage VI AM-RL laufend aktualisieren. Studienlage LDN und Apherese bei BSG-Urteilsentwicklung anpassen.
+Stand: 05/2026. BVerfG 1 BvR 347/98 (Nikolaus-Beschluss, 06.12.2005). BSG B 1 KR 37/00 R (19.03.2002). BSG B 1 KR 15/07 R (28.02.2008). LSG NRW L 5 KR 87/23 (14.03.2024, LDN/ME/CFS). G-BA Anlage VI AM-RL laufend aktualisieren. Studienlage LDN und Apherese bei BSG-Urteilsentwicklung anpassen.
+
+---
+
+> **Audit-Hinweis (27.05.2026):** BSG B 1 KR 19/22 R (10.11.2022) betrifft Cannabis-Verordnung nach § 31 Abs. 6 SGB V, nicht Long-COVID/ME/CFS. Das AZ wurde irrtumlich als Long-COVID-Urteil (24.04.2024) deklariert. Die Leitentscheidungs-Tabellenzeile und alle Inline-Zitate wurden entfernt bzw. durch generische Formulierungen ersetzt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=10.11.2022&Aktenzeichen=B+1+KR+19%2F22+R. BSG B 1 KR 26/10 R (07.11.2011) konnte auf dejure.org nicht verifiziert werden (NOT_FOUND). Die Tabellenzeile und der Inline-Verweis in der Genehmigungsfiktion-Formulierung wurden entfernt. Massgebliche Norm bleibt § 13 Abs. 3a SGB V; fuür ein verifiziertes BSG-Urteil zur Genehmigungsfiktion siehe BSG B 1 KR 36/18 R (27.08.2019) oder BSG B 1 KR 9/18 R (26.05.2020).

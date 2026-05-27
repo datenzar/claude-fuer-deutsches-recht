@@ -19,8 +19,6 @@ description: "Vorsatzanfechtung in der Insolvenz nach § 133 InsO pruefen: Benac
 
 ## Rechtsprechung
 
-BGH, Urt. v. 29.04.2004 – IX ZR 195/03, BGHZ 159, 113 = NJW 2004, 2442 — Benachteiligungsvorsatz i.S.d. § 133 InsO liegt vor, wenn der Schuldner beim Handeln weiß, dass er nicht mehr alle Gläubiger befriedigen kann; dolus eventualis genügt. Die Kenntnis des Anfechtungsgegners wird bei Kenntnis der Zahlungsunfähigkeit vermutet.
-
 BGH, Urt. v. 13.04.2006 – IX ZR 158/05, NJW 2006, 2701 — Inkongruente Deckungshandlungen sind starke Indizien für den Benachteiligungsvorsatz des Schuldners und für die Kenntnis des Anfechtungsgegners; der Anfechtungsgegner trägt die Beweislast für das Fehlen des Vorsatzes.
 
 BGH, Urt. v. 06.05.2021 – IX ZR 72/20, NJW 2021, 2188 — Nach der Reform durch das AnfRefG 2017 beschränkt § 133 Abs. 3 InsO die Vorsatzanfechtung bei kongruenten Deckungen: Kannte der Anfechtungsgegner den Benachteiligungsvorsatz nicht, ist die Anfechtung ausgeschlossen.
@@ -96,3 +94,11 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 016 – Halluzinations-Reparatur
+Problem: BGH IX ZR 195/03 – WRONG_TOPIC und falsches Datum (Skill behauptete 29.04.2004, real: 29.06.2004).
+Realthema laut dejure.org: Insolvenz eines Handelsvertreters, Aufrechnung gegen Provisionsansprüche (§§ 94, 95, 96 InsO; BGHZ 159, 388; NJW 2004, 3118) – kein § 133-Benachteiligungsvorsatz.
+Massnahme: Eintrag vollständig gelöscht (falsches Thema für diesen Skill und falsches Datum).
+Quelle: https://dejure.org/2004,151
+-->

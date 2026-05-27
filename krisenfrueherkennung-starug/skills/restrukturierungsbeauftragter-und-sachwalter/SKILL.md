@@ -192,7 +192,7 @@ Sonstiges:
 ## Aktuelle Leitentscheidungen — Restrukturierungsbeauftragter und Sachwalter
 
 - BGH, Urt. v. 06.07.2017 — IX ZB 105/15, NZI 2017, 807 — Sachwalterauswahl § 270d InsO: Gericht kann Vorschlag uebergehen wenn Unabhaengigkeit nicht gewahrt; frueherer Berater des Schuldners in derselben Sache nicht geeignet.
-- BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 — Sachwalter-Pflichten § 274 InsO: Sachwalter muss Eigenverwalter-Handlungen aktiv kontrollieren; Kassenprueung und Zahlungsverkehr-Ueberwachung.
+
 - BGH, Urt. v. 22.11.2018 — IX ZB 14/18, NZI 2019, 91 — Restrukturierungsbeauftragter § 73 StaRUG: bestellter Restrukturierungsbeauftragter hat umfassende Pruef- und Berichtspflichten; Unabhaengigkeit erforderlich; frueherer GmbH-Berater problematisch.
 - BGH, Urt. v. 07.05.2015 — IX ZB 75/14, NZI 2015, 519 — Aufhebung Schutzschirm: wenn Schuldner Schutzschirmverpflichtungen verletzt kann Gericht Eigenverwaltung aufheben und Sachwalter zum IV bestellen.
 
@@ -212,3 +212,8 @@ Sonstiges:
 - MüKo InsO/Kern §§ 270-285 InsO — Eigenverwaltung und Sachwalter.
 - Uhlenbruck/Zipperer §§ 270-270f InsO — Schutzschirm und Sachwalterauswahl.
 - Braun/Herzig, StaRUG §§ 73-90 — Restrukturierungsbeauftragter.
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 035:
+- GELOESCHT: BGH, Urt. v. 08.10.2009 — IX ZR 178/08, NZI 2010, 51 (Status: NOT_FOUND; Entscheidung in dejure.org-Datenbank nicht auffindbar; kein Nachweis einer realen Entscheidung BGH IX ZR 178/08 vom 08.10.2009)
+-->

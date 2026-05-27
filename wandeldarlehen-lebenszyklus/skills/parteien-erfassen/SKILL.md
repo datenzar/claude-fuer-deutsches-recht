@@ -27,7 +27,6 @@ Dieser Skill erfasst alle für den Wandeldarlehensvertrag erforderlichen Parteid
 - § 43 GmbHG (Pflichten der Geschäftsführung)
 
 ### Rechtsprechung
-- BGH, Urt. v. 20. September 2010 – II ZR 296/08 (Haftung bei fehlender Vertretungsmacht)
 - OLG Frankfurt, Urt. v. 15. Dezember 2020 – 5 U 22/20 (Sanktionsverstoß Vertragspartner)
 
 ## Vorgehen
@@ -97,7 +96,7 @@ Stand: 05/2026. Bei Änderung GwG/GmbHG aktualisieren.
 
 BGH, Urt. v. 11.07.2011 — **II ZR 109/10**, BGHZ 191, 84 Rn. 14: Gesellschafter-Identität muss eindeutig aus der Gesellschafterliste hervorgehen; bei juristischen Personen als Darlehensgeber (z.B. Beteiligungsgesellschaft) ist die vollständige Firmierung, der Sitz und der Handelsregisterauszug zwingend beizufügen; Fehler bei der Parteibezeichnung können zur Unwirksamkeit der Wandlung führen.
 
-OLG Frankfurt, Urt. v. 12.01.2022 — **6 U 183/19**, NJW-RR 2022, 478 Rn. 12: KYC-Pflichten nach GwG gelten auch bei der Erfassung der Vertragsparteien; der wirtschaftlich Berechtigte muss bei natürlichen Personen als mittelbare Eigentümer (über 25 %) des Darlehensgebers identifiziert werden; Transparenzregister-Eintragung ist zu prüfen.
+<!-- AUDIT 27.05.2026: OLG Frankfurt 6 U 183/19 (12.01.2022) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH II ZR 296/08 (20.09.2010) aus Rechtsprechungs-Abschnitt entfernt – real topic Patronatserklaerung Kuendigungsrecht (BGHZ 187,69), nicht Haftung bei fehlender Vertretungsmacht (WRONG_TOPIC). -->
 
 ### Normen-Ergänzung
 

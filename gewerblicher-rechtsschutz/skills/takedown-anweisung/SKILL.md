@@ -48,7 +48,7 @@ Befehlsargument:
 - BGH, Urt. v. 11.03.2004 – I ZR 304/01, BGHZ 158, 236 Rn. 42 (Internet-Versteigerung I) — Grundlegend: Störerhaftung des Online-Marktplatzes; zumutbare Prüfungspflichten; Haftung erst nach Hinweis auf konkrete Rechtsverletzung
 - BGH, Urt. v. 30.04.2020 – I ZR 115/16, GRUR 2020, 738 Rn. 55 (YouTube / Uploaded) — Haftung von Hostprovider für Urheberrechtsverletzungen; Reaktionspflicht nach qualifiziertem Hinweis; kein generelles Overblocking
 - BGH, Urt. v. 12.07.2012 – I ZR 18/11, GRUR 2013, 370 Rn. 28 (Alone in the Dark) — Take-Down bei Filesharing; Zumutbarkeit der Prüfungspflicht
-- BGH, Urt. v. 22.07.2010 – I ZR 139/08, GRUR 2011, 152 (Rolex/Stiftung Warentest) — Störerhaftung; Abmahnungserfordernis vor gerichtlichem Vorgehen; Wiederholungsgefahr
+- BGH, Urt. v. 22.07.2010 – I ZR 139/08, GRUR 2011, 152 (Kinderhochstühle im Internet I) — Störerhaftung des Betreibers eines Online-Marktplatzes für Markenrechtsverletzungen durch Händler; Prüfpflichten nach Hinweis auf konkrete Rechtsverletzung; kein allgemeines Überwachungsgebot
 - EuGH, Urt. v. 22.06.2021 – C-682/18, C-683/18, GRUR 2021, 1054 (YouTube/Cyando) — Kommunikation an die Öffentlichkeit; Kenntnis und Kontrolle als Haftungsvoraussetzung für Plattformen
 
 ### Kommentare
@@ -357,3 +357,7 @@ Bevor der Takedown ausgeloest wird, klaere:
 > **BGH, Urt. v. 12.07.2018 — I ZR 65/17 (YouTube - Vorschaubilder II):** Plattformbetreiber, die durch automatische Indexierung Inhalte ohne aktive Beteiligung des Urhebers oeffentlich zugaenglich machen, koennen bei ausreichender Passivitaet als Host-Provider eingestuft werden; jedoch genuegt eine einmalige Notice und fehlende Stay-Down-Massnahmen fuer Haftung.
 
 > **DSA (EU) 2022/2065, Art. 16/17 (Digital Services Act):** Hosting-Dienstleister muessen wirksame und zugaengliche Melde- und Abhilfemechanismen einrichten; bei VLOP gelten verstaerkte Transparenz- und Reaktionspflichten; Verstoss kann zu Bussgeldern bis 6 % des globalen Jahresumsatzes fuehren.
+
+<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
+- BGH I ZR 139/08: Fallname korrigiert von 'Rolex/Stiftung Warentest' zu 'Kinderhochstuehle im Internet I'; Sachverhalt korrigiert: Haeftung Online-Marktplatz fuer Markenrechtsverletzungen durch Haendler.
+-->

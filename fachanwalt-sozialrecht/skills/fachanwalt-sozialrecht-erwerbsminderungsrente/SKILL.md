@@ -62,7 +62,6 @@ description: "Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist
 | B 4 RA 32/03 R | BSG, 23.10.2003 | Anforderungen an sozialmedizinisches Gutachten |
 | B 5 R 8/10 R | BSG, 11.05.2011 | Pflichtbeitragszeiten in den letzten fünf Jahren; Lückenberechnung |
 | B 5 RE 8/14 R | BSG, 05.08.2015 | Berufsschutz § 240 SGB VI; Verweisungstätigkeit; soziale Zumutbarkeit |
-| B 13 R 278/05 R | BSG, 09.05.2006 | Beginn der Erwerbsminderungsrente; § 99 SGB VI |
 
 ---
 
@@ -328,4 +327,8 @@ Mit freundlichen Grüßen
 
 ## Quellen
 
-Stand: 05/2026. SGB VI §§ 43, 50, 53, 96a, 99, 102, 240. SGG §§ 84, 87, 88, 109. BSG GS 2/95 (19.12.1996, BSGE 80, 24). BSG B 5 RJ 64/02 R (10.12.2003). BSG B 4 RA 32/03 R (23.10.2003). BSG B 5 R 8/10 R (11.05.2011). BSG B 5 RE 8/14 R (05.08.2015). BSG B 13 R 278/05 R (09.05.2006). § 44 SGB X. SGB X §§ 24, 25.
+Stand: 05/2026. SGB VI §§ 43, 50, 53, 96a, 99, 102, 240. SGG §§ 84, 87, 88, 109. BSG GS 2/95 (19.12.1996, BSGE 80, 24). BSG B 5 RJ 64/02 R (10.12.2003). BSG B 4 RA 32/03 R (23.10.2003). BSG B 5 R 8/10 R (11.05.2011). BSG B 5 RE 8/14 R (05.08.2015). § 44 SGB X. SGB X §§ 24, 25.
+
+---
+
+> **Audit 27.05.2026** — BSG B 13 R 278/05 R (behauptetes Thema: Beginn der Erwerbsminderungsrente § 99 SGB VI) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); keine verlässliche Quelle ermittelbar. Eintrag gelöscht.

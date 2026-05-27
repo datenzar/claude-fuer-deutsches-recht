@@ -27,7 +27,6 @@ description: "Typische Verteidigungsstrategien des Arbeitgebers im Kuendigungssc
 - BAG, Urt. v. 20.06.2013 – 2 AZR 379/12, NZA 2014, 139 — Betriebsbedingte Kündigung: Der Arbeitgeber muss konkret darlegen, welche unternehmerische Entscheidung er getroffen hat und dass infolge dieser Entscheidung der Beschäftigungsbedarf für die Position des Arbeitnehmers dauerhaft entfallen ist; eine pauschale Behauptung von Auftragsmangel genügt nicht.
 - BAG, Urt. v. 18.10.2012 – 6 AZR 41/11, NZA 2013, 101 — Betriebsgröße nach § 23 KSchG: Der Arbeitgeber trägt die Darlegungs- und Beweislast dafür, dass der Betrieb die Schwellenwerte nicht überschreitet; der Arbeitnehmer muss substantiiert bestreiten; bloßes Bestreiten des Arbeitnehmers reicht, wenn der Arbeitgeber substantiiert vorgetragen hat.
 - BAG, Urt. v. 22.09.2016 – 2 AZR 700/15, NZA 2017, 175 — Zur Betriebsratsanhörung nach § 102 BetrVG: Der Arbeitgeber muss alle dem Gericht bekannten Kündigungsgründe mitteilen; Nachschieben nicht mitgeteilter Gründe ist im Prozess grundsätzlich ausgeschlossen; nachlässige Anhörung macht die Kündigung unwirksam.
-- BAG, Urt. v. 06.02.2003 – 2 AZR 672/01, NZA 2003, 614 — Außerordentliche Nachkündigung: Wenn der Arbeitgeber während des laufenden Prozesses eine außerordentliche Kündigung ausspricht, muss der Arbeitnehmer auch dagegen innerhalb von drei Wochen klagen (§ 4 KSchG gilt entsprechend); verpasst er diese Frist, gilt die außerordentliche Kündigung nach § 7 KSchG als wirksam.
 
 ## Kommentarliteratur
 
@@ -109,3 +108,6 @@ Arbeitgeber bietet Vergleich an?
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+<!-- AUDIT 27.05.2026
+BAG 2 AZR 672/01: Eintrag geloescht. Skill behauptete Thema: Ausserordentliche Nachkuendigung § 626 BGB / § 4 KSchG, NZA 2003, 614. Dejure.org bestaetigt: Tatsaechliches Thema ist Kleinbetriebsklausel Treuwidrigkeit § 242 BGB, NZA 2003, 717. Thema stimmt nicht mit Skill-Kontext ueberein; keine verifizierbarer Ersatz gefunden. Eintrag geloescht. Quelle: https://dejure.org/2003,705
+-->

@@ -56,7 +56,7 @@ Bei M&A-Mandaten (Kauf/Verkauf von Unternehmen) gilt der Rechtsanwalt als Verpfl
 |---|---|---|---|
 | BGH | IX ZR 199/14 | NJW 2015, 3239 | Anwaltliche Verschwiegenheitspflicht; Schadensersatz nach § 280 Abs. 1 BGB bei schuldhafter Verletzung durch den Anwalt |
 | BGH | IX ZR 280/14 | NJW 2016, 317 | Interessenkonflikt; fristlose Kündigung des Mandatsvertrags bei Pflichtenkollision; Schadensersatz des Mandanten |
-| BGH | IX ZR 221/15 | NJW 2017, 2835 | Umfang der Verschwiegenheitspflicht bei Kanzleiwechsel; Weitergabe von Mandatsinhalten an neue Kanzlei unzulässig |
+| <!-- IX ZR 221/15 entfernt (27.05.2026): AZ existiert nicht auf dejure.org; V ZR 221/15 ist ein WEG-Sachenrechtsfall (NJW-RR 2017, 260); NJW 2017, 2835 nicht verifizierbar --> | | | |
 | BVerfG | 1 BvR 2241/16 | NJW 2018, 2392 | Beschlagnahmeverbot für Handakten des Rechtsanwalts (§ 97 StPO); Schutzbereich der Verschwiegenheitspflicht |
 | OLG München | 15 U 3248/19 | NJW-RR 2020, 638 | Schadensersatz wegen Verletzung des Interessenkonfliktverbots; Mandant kann Herausgabe von Vorteilen verlangen |
 
@@ -395,3 +395,10 @@ Kommentarliteratur:
 - BGH, Urt. v. 17.09.2015 – IX ZR 280/14, NJW 2016, 317 Rn. 20 (Interessenkonflikt; Kündigung des Mandats).
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und keine Interessenkonfliktprüfung.
+
+---
+## Audit-Hinweis (27.05.2026)
+
+Geprüfte AZ: BGH IX ZR 221/15.
+Status: WRONG_TOPIC — AZ IX ZR 221/15 existiert auf dejure.org nicht. Das reale Urteil V ZR 221/15 (18.11.2016) betrifft WEG-Sachenrecht (Nutzungsbeendigung/Unterlassung, NJW-RR 2017, 260), nicht Verschwiegenheitspflicht bei Kanzleiwechsel. NJW 2017, 2835 nicht verifizierbar.
+Maßnahme: Tabellenzeile mit IX ZR 221/15 entfernt. Kein Ersatz eingefuegt; der Verschwiegenheitspflicht-Stoff ist ueber BGH IX ZR 199/14 und IX ZR 280/14 sowie die Normtexte (§ 43a BRAO, § 203 StGB) abgedeckt.

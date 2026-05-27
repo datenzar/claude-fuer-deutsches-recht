@@ -40,7 +40,7 @@ Im Mittelstand fehlt häufig ein professionelles CFO-Office oder Treasury. Liqui
 
 | Gericht | Az. | Datum | Leitsatz (kurz) |
 |---|---|---|---|
-| BGH | II ZR 277/16 | 19.06.2018 | Zahlungsunfähigkeit bei > 10 % Deckungslücke über 3 Wochen; Geschäftsführer muss Liquidität laufend überwachen |
+| BGH | II ZR 88/16 | 19.12.2017 | Zahlungsunfähigkeit bei > 10 % Deckungslücke über 3 Wochen; Geschäftsführer muss Liquidität laufend überwachen |
 | BGH | IX ZR 61/12 | 19.12.2013 | Fortbestehensprognose: plausible Annahmen erforderlich; bloße Hoffnung auf Besserung genügt nicht |
 | BGH | II ZR 252/13 | 14.10.2014 | Masseschmälernde Zahlungen: GmbH-GF haftet für jede Zahlung nach Eintritt der Insolvenzreife |
 | OLG Düsseldorf | 6 U 68/19 | 10.12.2020 | Mittelstand: Steuerberater haftet, wenn er Insolvenzreife-Warnsignale aus BWA erkennt und Mandanten nicht hinweist |
@@ -193,8 +193,14 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-- BGH, Urt. v. 19.06.2018, Az. II ZR 277/16 (Zahlungsunfähigkeit, 10 %-Schwelle)
+- BGH, Urt. v. 19.12.2017, Az. II ZR 88/16 (Zahlungsunfähigkeit, 10 %-Schwelle)
 - BGH, Urt. v. 19.12.2013, Az. IX ZR 61/12 (Fortbestehensprognose)
 - BGH, Urt. v. 14.10.2014, Az. II ZR 252/13 (Masseschmälernde Zahlungen)
 - OLG Düsseldorf, Urt. v. 10.12.2020, Az. 6 U 68/19 (Steuerberater-Haftung, Mittelstand)
 - §§ 15a, 15b, 17, 18, 19 InsO; § 43 GmbHG; §§ 252, 264 HGB; §§ 18, 21 UStG
+
+<!-- AUDIT 27.05.2026
+Problem: Aktenzeichen II ZR 277/16 existiert nicht (kein BGH-Urteil unter diesem AZ nachweisbar). Das inhaltlich zutreffende Urteil zur 10-Prozent-Deckungsluecke ist BGH, Urt. v. 19.12.2017 - II ZR 88/16 (BGHZ 217, 129). Datum 19.06.2018 war ebenfalls falsch (korrekt: 19.12.2017).
+Massnahme: Aktenzeichen in Leitentscheidungen-Tabelle und Quellen-Abschnitt von II ZR 277/16 (19.06.2018) auf II ZR 88/16 (19.12.2017) korrigiert.
+Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.2017&Aktenzeichen=II+ZR+88%2F16
+-->

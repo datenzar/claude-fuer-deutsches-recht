@@ -58,7 +58,6 @@ Die Konstellation ist strafverteidigungspraktisch gefährlich: Gleichzeitig lauf
 | BVerfG 2 BvR 1523/14 | BVerfG, 2015 | Selbstbelastungsfreiheit im Insolvenzverfahren verfassungsrechtlich geschützt; § 97 InsO ist enge Ausnahme |
 | BGH II ZR 68/15 | BGH, 14.03.2017 | § 15b InsO: Zahlungen nach Insolvenzreife sind grundsätzlich zu erstatten; Sorgfaltsmaßstab bei GmbH-Geschäftsführer streng |
 | OLG Frankfurt 1 W 28/19 | OLG Frankfurt, 2019 | Gläubigerantrag durch Finanzamt: Glaubhaftmachung rückständiger Steuerforderung ausreichend; keine volle Beweisführung |
-| BGH IX ZR 176/13 | BGH, 16.01.2014 | Insolvenzanfechtung nach § 131 InsO: Zahlung an nahen Angehörigen im letzten Jahr ist inkongruent und anfechtbar |
 
 ---
 
@@ -282,3 +281,8 @@ Dem Antrag liegt ein Sanierungsplan gemäß § 270 Abs. 2 Nr. 3 InsO bei.
 ## Quellen
 
 Insolvenzordnung §§ 14, 17, 19, 21, 35–36, 97, 129–135, 174 ff., 270, 270b, 302. StGB §§ 46a, 73–73c, 266a, 283. StPO §§ 111b–111i, 136, 257c. AO §§ 370, 376. GmbHG § 43. BGH IX ZB 37/12 (§ 97 InsO Verwertungsverbot). BGH 1 StR 218/12 (§ 111i StPO Verhältnis Insolvenzeröffnung). BGH II ZR 68/15 (§ 15b InsO). Uhlenbruck InsO, aktuelle Auflage. Kirchhof/Eidenmüller/Stürner InsO. Stand: 05/2026.
+
+
+---
+
+> **Audit 27.05.2026** — BGH IX ZR 176/13 (behauptetes Thema: Insolvenzanfechtung § 131 InsO, Zahlung an nahe Angehörige; behauptetes Datum: 16.01.2014) aus Leitentscheidungen-Tabelle entfernt. Das Urteil existiert mit korrektem Datum 10.04.2014, betrifft jedoch Schadensberechnung beim Schneeballsystem / Forderungsanmeldung zur Tabelle (§§ 179, 180 InsO, Insolvenz Phoenix). Weder Datum noch Thema stimmen mit der Behauptung überein (WRONG_TOPIC). Eintrag gelöscht.

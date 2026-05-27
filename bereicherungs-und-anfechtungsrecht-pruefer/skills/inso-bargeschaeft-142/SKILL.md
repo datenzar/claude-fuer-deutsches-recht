@@ -21,10 +21,6 @@ description: "Bargeschaeftsprivileg in der Insolvenzanfechtung pruefen: gleichwe
 
 BGH, Urt. v. 10.07.2014 – IX ZR 192/13, NJW 2014, 3439 — Das Bargeschäftsprivileg nach § 142 InsO a.F. setzt unmittelbaren zeitlichen und wirtschaftlichen Zusammenhang voraus; ein 30-Tage-Zahlungsziel im üblichen Geschäftsverkehr ist grundsätzlich noch unmittelbar.
 
-BGH, Urt. v. 12.02.2015 – IX ZR 187/13, NJW 2015, 1956 — Gleichwertigkeit im Sinne des § 142 InsO ist nach objektiven Marktpreisen zu bestimmen; eine geringfügige Abweichung schadet nicht, solange das Austauschverhältnis nicht wirtschaftlich einseitig ist.
-
-BGH, Urt. v. 22.01.2015 – IX ZR 290/13, NJW 2015, 1669 — Nach der Reform durch das AnfRefG 2017 gilt § 142 Abs. 2 InsO: Kannte der Anfechtungsgegner die Zahlungsunfähigkeit, wird er vom Bargeschäftsprivileg nicht geschützt, auch wenn Leistung und Gegenleistung gleichwertig sind.
-
 BGH, Urt. v. 07.05.2015 – IX ZR 95/14, NJW 2015, 2181 — Bei der Vorsatzanfechtung nach § 133 InsO greift das Bargeschäftsprivileg nur, wenn der Anfechtungsgegner nicht erkannt hat, dass die Leistung den übrigen Gläubigern schadet; § 133 Abs. 3 InsO n.F. kodifiziert diese Einschränkung.
 
 ## Kommentarliteratur
@@ -80,3 +76,10 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- IX ZR 187/13: ersatzlos entfernt (dejure.org: kein BGH-Urteil IX ZR 187/13 vom 12.02.2015 nachweisbar; das reale AZ XI ZR 187/13 gehört zum XI. Senat und betrifft Bankrecht, nicht § 142 InsO)
+- IX ZR 290/13: ersatzlos entfernt (BGH 23.10.2014 – IX ZR 290/13 betrifft Kreditkartenanfechtung nach § 130 InsO / mittelbare Zuwendungen, nicht Bargeschäftsprivileg oder AnfRefG 2017; Datum im Skill war zudem falsch als 22.01.2015 angegeben; Quelle: dejure.org/2014,35193)

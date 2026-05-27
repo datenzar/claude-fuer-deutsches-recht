@@ -28,11 +28,6 @@ Die Rechtsargumenten-Tabelle stellt die juristischen Positionen beider Parteien 
 
 ## Rechtsprechung zu Anspruchsgrundlagen und Einreden
 
-- BGH, Urt. v. 26.09.2023 - VI ZR 62/22, NJW 2024, 145 — Zum Schadensersatzanspruch aus § 280 Abs. 1 BGB: Pflichtverletzung und Verschulden müssen konkret dargetan werden; pauschale Vorwürfe genügen nicht.
-- BGH, Urt. v. 05.10.2021 - VI ZR 136/20, NJW 2022, 53 — Verjährungsbeginn nach § 199 Abs. 1 BGB: Kenntnis von Schaden und Person des Schädigers muss bei Jahresende des Entstehungsjahres vorliegen; grob fahrlässige Unkenntnis steht gleich.
-- BGH, Urt. v. 19.03.2019 - VI ZR 282/17, NJW 2019, 1590 — Zur Hemmung der Verjährung durch Verhandlungen (§ 203 BGB): auch informelle Gespräche über Anspruchsberechtigung können Verjährungshemmung begründen.
-- BGH, Urt. v. 10.07.2018 - VI ZR 259/17, NJW 2018, 2806 — Mitverschulden nach § 254 BGB erfordert Kausalzusammenhang zwischen eigenem Verhalten des Geschädigten und Schadensentstehung; abstrakte Fahrlässigkeit genügt nicht.
-
 ## Kommentarliteratur
 
 - Grüneberg BGB (vormals Palandt), § 280 Rn. 1 ff. (Schadensersatz wegen Pflichtverletzung)
@@ -67,7 +62,7 @@ Kausalität, Mitverschulden (§ 254 BGB), Schadenshöhe.
 
 ### Rechtsprechung
 
-Pinpoint-Zitate werden mit Aktenzeichen und Datum angegeben. Beispiel: BGH Urt. v. 15.03.2020 — VIII ZR 123/19.
+Pinpoint-Zitate werden mit Aktenzeichen und Datum angegeben. Beispiel: BGH Urt. v. 19.01.2022 — VIII ZR 123/21.
 
 ## Beispiel
 
@@ -94,3 +89,13 @@ Pinpoint-Zitate werden mit Aktenzeichen und Datum angegeben. Beispiel: BGH Urt. 
 - [ ] Rechtsprechungszitate mit Aktenzeichen und Datum?
 - [ ] Keine eigene Rechtsbewertung enthalten?
 - [ ] Mitverschulden § 254 BGB erwogen?
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- VI ZR 62/22: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
+- VI ZR 136/20: ersatzlos entfernt — WRONG_TOPIC; reale Entscheidung 05.10.2021 betrifft Feststellungsklage VW-Abgasskandal (NJW-RR 2022, 23), nicht Verjährungsbeginn § 199 BGB; beanspruchte NJW 2022, 53 existiert nicht in dejure
+- VI ZR 282/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
+- VI ZR 259/17: ersatzlos entfernt — kein Eintrag auf dejure.org (NOT_FOUND)
+- VIII ZR 123/19 (Beispiel-AZ): ersetzt durch VIII ZR 123/21 (BGH 19.01.2022, verifiziert auf dejure.org)

@@ -42,7 +42,7 @@ Vollständige und inhaltlich korrekte Betriebsratsanhörung vor jeder Kündigung
 | BAG | 2 AZR 700/15 | 22.09.2016 | Vollständigkeit: pauschale Gründe genügen nicht; Sachverhalt muss konkret beschrieben sein |
 | BAG | 2 AZR 736/13 | 23.10.2014 | Unvollständige Anhörung ist nicht ordnungsgemäß |
 | BAG | 2 AZR 532/19 | 13.02.2020 | Sozialauswahl: Vergleichsgruppe und Auswahlentscheidung im Anhörungsschreiben notwendig |
-| BAG | 2 AZR 67/18 | 16.01.2019 | Außerordentliche Kündigung: 3-Tages-Frist; bei Schweigen kann Kündigung nach Fristablauf ausgesprochen werden |
+| BAG | 2 AZR 678/19 | 07.05.2020 | Außerordentliche Kündigung: Anforderungen an die ordnungsgemäße Unterrichtung des Betriebsrats nach § 102 Abs. 1 BetrVG; AG muss Sachverhalt so beschreiben dass BR ohne Nachforschungen die Stichhaltigkeit prüfen kann |
 | BAG | 7 ABR 45/21 | 22.06.2022 | Betriebsrat kann Fristverzicht erklären |
 | BAG | 2 AZR 397/21 | 05.05.2022 | Nachschieben von Kündigungsgründen setzt erneute vollständige Anhörung nach § 102 BetrVG voraus; bloße Ergänzung des ursprünglichen Schreibens genügt nicht |
 | BAG | 2 AZR 43/22 | 02.03.2023 | Anhörung per E-Mail an den Betriebsratsvorsitzenden wahrt die Formvorgaben; maßgeblich ist der Zugang beim Vorsitzenden als Empfangsberechtigtem nach § 26 Abs. 2 BetrVG |
@@ -179,7 +179,7 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 - Voraussetzungen: wirksamer Widerspruch des BR nach § 102 Abs. 3 + Kündigungsschutzklage des Arbeitnehmers
 - Arbeitgeber muss Arbeitnehmer bis zur Klärung des Kündigungsstreits weiterbeschäftigen
 - AG kann Befreiung beantragen, wenn Kündigung offensichtlich wirksam, Weiterbeschäftigung unverhältnismäßig belastend
-- BAG 2 AZR 67/18: Widerspruch muss form- und fristgerecht sein; inhaltliche Anforderungen an Begründung niedrig
+- BAG 2 AZR 678/19 (07.05.2020): Außerordentliche Kündigung; ordnungsgemäße Unterrichtung des Betriebsrats; Vollständigkeitsanforderungen
 
 ## Beweislast und Darlegungslast
 
@@ -209,5 +209,9 @@ Wir bitten um Stellungnahme binnen [1 Woche / 3 Tage] nach
 - KSchG §§ 1, 4
 - BAG 2 AZR 15/15 (16.07.2015); BAG 2 AZR 700/15 (22.09.2016)
 - BAG 2 AZR 736/13 (23.10.2014); BAG 2 AZR 532/19 (13.02.2020)
-- BAG 2 AZR 67/18 (16.01.2019); BAG 7 ABR 45/21 (22.06.2022)
+- BAG 2 AZR 678/19 (07.05.2020); BAG 7 ABR 45/21 (22.06.2022)
 - Fitting BetrVG-Kommentar § 102; DKKW BetrVG § 102
+
+<!-- AUDIT 27.05.2026
+BAG 2 AZR 67/18 (WRONG_TOPIC): Echtes Thema laut dejure.org ist Änderungsschutzklage/Klagefrist/Kündigungsrücknahmevereinbarung (24.05.2018) – kein Bezug zu § 102 BetrVG oder außerordentlicher Kündigung 3-Tages-Frist. Ersetzt durch BAG 2 AZR 678/19 (07.05.2020, BAGE 170 191): außerordentliche Kündigung und ordnungsgemäße Unterrichtung des Betriebsrats nach § 102 Abs. 1 BetrVG. Alle drei Fundstellen (Leitentscheidungen-Tabelle, Weiterbeschäftigungsanspruch-Abschnitt, Quellen) aktualisiert.
+-->

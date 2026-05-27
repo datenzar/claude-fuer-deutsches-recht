@@ -110,7 +110,7 @@ Gesprächsorientiertes Q&A (ein Themenblock je Nachricht, nicht alle Fragen auf 
 
 ## Rechtlicher Hintergrund: Relevante Normen bei Kanzleieinrichtung
 
-- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 44 – Energieeffizienzklasse III: Durchsetzungsstrategie muss auf echtes Unterlassungsinteresse ausgerichtet sein; missbräuchliche Abmahnserie nach § 8c UWG begündet Haftungsrisiko; Genehmigungsmatrix sollte Missbrauchsprüfung enthalten.
+- BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 746 Rn. 44 – Energieeffizienzklasse III: Durchsetzungsstrategie muss auf echtes Unterlassungsinteresse ausgerichtet sein; missbräuchliche Abmahnserie nach § 8c UWG begündet Haftungsrisiko; Genehmigungsmatrix sollte Missbrauchsprüfung enthalten.
 - BGH, Urt. v. 14.01.2016 – I ZR 65/14, GRUR 2016, 399 Rn. 23: Lizenzanaloger Schadensersatz bei Markenverletzung setzt Rechteinhaber-Position voraus; im Kanzleiprofil müssen eingetragene Schutzrechte vollständig erfasst sein fuer valide Streitwertberechnungen.
 - § 43a Abs. 2 BRAO – Verschwiegenheitspflicht: Schutzrechtsportfolio und Genehmigungsmatrix enthalten mandantenbezogene Daten und unterliegen der Verschwiegenheit; nur in gesicherter Umgebung speichern.
 - § 203 StGB – Schutz mandantenbezogener Daten: Weitergabe des Kanzleiprofils an Dritte ohne Mandantenzustimmung strafbewehrt.
@@ -123,3 +123,9 @@ Gesprächsorientiertes Q&A (ein Themenblock je Nachricht, nicht alle Fragen auf 
 - **Durchsetzungsstrategie zu vage:** „Ausgewogen" ohne spezifizierte Auslöser führt zu inkonsistenter Genehmigungsmatrix; nachfragen, bis Auslöser konkret sind.
 - **Integrationsstatus nicht verifiziert:** Das Plugin prüft nicht ob eine Datenbank tatsächlich erreichbar ist; Nutzer darauf hinweisen, dass `--check-integrations` dies jederzeit prüfen kann.
 - **Vertraulichkeit:** Das Kanzleiprofil enthält mandantenbezogene Strukturinformationen; nicht in Klartext über ungesicherte Kanäle übertragen (§ 43a Abs. 2 BRAO, § 203 StGB).
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 031 / Halluzinations-Reparatur
+Problem: BGH I ZR 184/17 wurde mit GRUR 2019, 748 zitiert. Korrekte Fundstelle ist GRUR 2019, 746.
+Korrektur: GRUR 2019, 748 → GRUR 2019, 746. Verifiziert via damm-legal.de und dejure.org.
+-->

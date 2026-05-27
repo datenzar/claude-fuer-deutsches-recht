@@ -34,8 +34,7 @@ Nach der positiven Subsumtion (Anspruch entstanden dem Grunde nach) prüft diese
 
 - BGH, Urt. v. 05.11.2020 - IX ZR 175/19, NJW 2021, 225 — Die Aufrechnung setzt die Aufrechnungslage voraus: Gleichartigkeit, Gegenseitigkeit, Fälligkeit der Gegenforderung und Durchsetzbarkeit der Hauptforderung. Eine verjährte Gegenforderung kann aufgerechnet werden, wenn sie vor Eintritt der Verjährung aufrechenbar war (§ 215 BGB).
 - BGH, Urt. v. 09.06.2021 - VIII ZR 26/20, NJW 2021, 2793 — Für die Verwirkung eines Anspruchs genügt nicht allein das Zeitmoment; das Umstandsmoment erfordert, dass der Schuldner sich aufgrund des Verhaltens des Gläubigers darauf eingerichtet hat, nicht mehr in Anspruch genommen zu werden.
-- BGH, Urt. v. 23.01.2019 - VIII ZR 158/17, NJW 2019, 1588 — Die Anfechtung wegen Irrtums (§ 119 BGB) muss unverzüglich nach Kenntniserlangung vom Anfechtungsgrund erklärt werden (§ 121 BGB); bei arglistiger Täuschung beträgt die Frist ein Jahr ab Kenntnis (§ 124 BGB).
-- BGH, Urt. v. 14.03.2019 - IX ZR 213/18, NJW 2019, 1874 — Das Zurückbehaltungsrecht nach § 273 BGB erfordert einen konnexen Gegenanspruch aus demselben rechtlichen Verhältnis; das Gericht hat bei Obsiegen des Klägers ein Zug-um-Zug-Urteil zu erlassen (§ 274 BGB).
+
 
 ## Systematik der Gegenrechte
 
@@ -99,3 +98,8 @@ Tabelle aller geprüften Gegenrechte mit Ergebnis (eingreifend / nicht eingreife
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 213/18 (WRONG_TOPIC): Kein Urteil des IX. Senats zum Zurückbehaltungsrecht § 273 BGB unter diesem AZ nachweisbar; VIII ZR 213/18 betrifft Mietrecht. Zeile entfernt.
+BGH VIII ZR 158/17 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 23.01.2019. Zeile entfernt.
+-->

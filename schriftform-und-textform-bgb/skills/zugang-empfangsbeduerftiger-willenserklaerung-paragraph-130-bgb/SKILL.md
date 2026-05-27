@@ -26,7 +26,7 @@ Maßgebend ist der **Empfänger-Horizont**: Wann ist gewöhnlicherweise mit Kenn
 - Einwurf nach der üblichen Postzustellungszeit (z. B. abends 18 Uhr) → Zugang erst am nächsten Werktag
 - Bei gewerblichem Empfänger: Bürozeiten maßgebend
 
-**E-Mail-Zugang (BGH VIII ZR 276/14 u.a.)**:
+**E-Mail-Zugang (BGH VII ZR 895/21)**:
 - E-Mail geht zu, wenn sie auf dem Mailserver des Empfängers eingegangen und abrufbar ist
 - Nicht erst, wenn der Empfänger sie tatsächlich gelesen hat
 - Absendung allein reicht nicht: Eingang im Postfach des Empfängers erforderlich
@@ -112,3 +112,9 @@ Option C — Gerichtliche Zustellung:
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
 - → `dokumentations-und-beweisarchitektur`
 - → `wohnraummiete-kuendigung-paragraph-568-bgb`
+
+<!-- AUDIT 27.05.2026 bundle_043
+Problem: BGH VIII ZR 276/14 (Abschnitt "E-Mail-Zugang") war NOT_FOUND — Aktenzeichen nicht auffindbar als E-Mail-Zugangsentscheidung.
+Maßnahme: Ersetzt durch BGH VII ZR 895/21, Urt. v. 06.10.2022, NJW 2022, 3791 — echte BGH-Leitentscheidung zum E-Mail-Zugang im unternehmerischen Geschäftsverkehr (§ 130 BGB, Mailserver-Zeitpunkt).
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.10.2022&Aktenzeichen=VII+ZR+895%2F21
+-->

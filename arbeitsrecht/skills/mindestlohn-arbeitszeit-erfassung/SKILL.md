@@ -31,7 +31,6 @@ description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeb
 - **BAG, Beschl. v. 13.09.2022 — 1 ABR 22/21**, NZA 2022, 1616 — § 3 Abs. 2 Nr. 1 ArbSchG enthält bereits nach geltender Rechtslage eine Pflicht zur Erfassung der gesamten Arbeitszeit; nicht nur Überstunden; Beginn, Ende und Pausen müssen erfasst werden.
 - **BAG, Urt. v. 26.06.2019 — 5 AZR 452/18**, NZA 2019, 1343 — Erleichterte Darlegungslast des Arbeitnehmers bei Überstundenvergütung, wenn Arbeitgeber kein Zeiterfassungssystem vorhält; Wertung gilt entsprechend für Mindestlohn-Klagen.
 - **EuGH, Urt. v. 09.03.2021 — C-580/19 (Stadt Offenbach)**, NZA 2021, 553 — Abgrenzung Bereitschaftsdienst (= Arbeitszeit) und Rufbereitschaft; bei sehr enger Reaktionszeitanforderung Übergang zu qualifizierter Bereitschaft.
-- **BAG, Urt. v. 12.06.2019 — 1 ABR 8/24** — Betriebsrat hat erzwingbares Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG bei Einführung oder wesentlicher Änderung eines Zeiterfassungssystems.
 
 ## Kommentarliteratur
 
@@ -404,3 +403,10 @@ Wir empfehlen folgende Sofortmassnahmen:
 - BAG 1 ABR 22/21, NZA 2022, 1616
 - BAG 5 AZR 452/18, NZA 2019, 1343
 - ErfK/Wank ArbZG § 3; HWK/Thüsing MiLoG § 17
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BAG 1 ABR 22/21: Eintrag in der Rechtsprechungs-Sektion geprueft und als korrekt bestaetigt (Beschl. 13.09.2022, Zeiterfassungspflicht § 3 Abs. 2 Nr. 1 ArbSchG; Quelle: bundesarbeitsgericht.de, dejure.org)
+- BAG 1 ABR 8/24: ersatzlos entfernt (WRONG_TOPIC/NOT_FOUND: Aktenzeichen mit Datum 12.06.2019 nicht auffindbar; das Mitbestimmungsrecht nach § 87 Abs. 1 Nr. 6 BetrVG bei Zeiterfassungssystemen ist Inhalt von BAG 1 ABR 22/21; Quelle: dejure.org, bundesarbeitsgericht.de)

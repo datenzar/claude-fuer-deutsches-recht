@@ -51,7 +51,6 @@ Bei zwei Sprachfassungen ohne Vorrang-Klausel: Widersprüche werden nach §§ 13
 | Gericht | Aktenzeichen | Fundstelle | Relevanz |
 |---|---|---|---|
 | BGH | II ZR 75/14 | NJW 2016, 1737 | Auslegung bilingualer Gesellschaftsverträge; bei Widerspruch: systematische und teleologische Auslegung; keine automatische Dominanz einer Sprache |
-| OLG Hamburg | 11 U 204/17 | NZG 2019, 340 | Sprachvorrang-Klausel in SHA; englische Fassung als Convenience Translation ohne rechtliche Wirkung |
 | BGH | I ZR 182/18 | GRUR 2020, 738 | Übersetzungsfehler als Vertragsrisiko; Haftung des Übersetzers |
 | OLG Frankfurt | 25 U 93/18 | NZG 2019, 668 | Dolmetscher-Pflicht bei Beurkundung (§ 5 BeurkG); Verstoß führt zur Unwirksamkeit der Beurkundung |
 
@@ -365,7 +364,6 @@ Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Sta
 ## Aktuelle Rechtsprechung
 
 - **BGH, Urt. v. 15.03.2016 – II ZR 75/14, NJW 2016, 1737** — Bei einem bilingualen Gesellschaftsvertrag ohne Vorrang-Klausel sind Widersprueche zwischen den Sprachfassungen nach dem uebereinstimmenden Willen der Parteien aufzuloesen (§§ 133, 157 BGB); keine automatische Dominanz einer Fassung.
-- **OLG Hamburg, Urt. v. 22.05.2019 – 11 U 204/17, NZG 2019, 340** — Eine Sprachvorrang-Klausel in einem SHA, die den deutschen Text als verbindlich bestimmt, ist wirksam; englische Fassung als Convenience Translation hat keine eigenstaendige rechtliche Wirkung.
 - **OLG Frankfurt, Urt. v. 11.09.2019 – 25 U 93/18, NZG 2019, 668** — Fehlender Dolmetscher bei Beurkundung eines auslaendischen Beteiligten verstosst gegen § 5 BeurkG und fuehrt zur Nichtigkeit der Beurkundung; sprachkundige Notargehilfe geniessen keinen Vertrauensschutz.
 - **BGH, Urt. v. 25.04.2019 – I ZR 182/18, GRUR 2020, 738** — Uebersetzungsfehler in einem Vertrag koennen Anfechtungsrecht aus § 119 Abs. 2 BGB begruenden, wenn die irrtuemsloesende Bedeutung des Begriffs wesentlich war; Haftung des Uebersetzers moeglich.
 
@@ -435,3 +433,7 @@ Mandat: [MANDANT] | Dokument: [TYP] | Datum: [DATUM]
 - § 1061 ZPO i.V.m. New York Convention (Anerkennung auslaendischer Schiedsspruche)
 - Limmer/Hertel/Frenz/Mayer, Wuerzburger Notarhandbuch, 6. Aufl. 2021, Teil 3 Kap. 2 Rn. 45 ff.
 - BGH NJW 2016, 1737; OLG Hamburg NZG 2019, 340; OLG Frankfurt NZG 2019, 668
+<!-- AUDIT 27.05.2026
+Problem: OLG Hamburg 11 U 204/17 (Datum 22.05.2019, NZG 2019, 340 – "Sprachvorrang-Klausel SHA; englische Fassung als Convenience Translation") – NOT_FOUND auf dejure.org. AZ existiert nicht verifizierbar.
+Aktion: Beide Einträge (Leitentscheidungen-Tabelle und Aktuelle Rechtsprechung) gelöscht.
+-->

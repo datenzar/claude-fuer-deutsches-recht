@@ -16,7 +16,6 @@ description: "Erbrechtlichen Streit durch Vergleich loesen und Verhandlungsstrat
 ## Aktuelle Rechtsprechung
 - BGH, Urt. v. 29.01.2020 - IV ZR 224/18, NJW-RR 2020, 455 Rn. 14 — Pflichtteilsvergleich als Schuldanerkenntnis wirkt nur inter partes; überschiessende Abgeltungsklausel für Dritte unwirksam, wenn diese nicht Vertragspartei sind.
 - BGH, Urt. v. 27.09.2017 - IV ZR 500/15, NJW 2018, 150 Rn. 22 — Widerrufsvorbehalt im Prozessvergleich (§ 794 Abs. 1 Nr. 1 ZPO) muss eindeutig formuliert sein; unklare Klausel geht zu Lasten der Partei, die den Widerruf geltend macht.
-- BGH, Urt. v. 15.05.2013 - XII ZR 49/11, NJW 2013, 2589 Rn. 18 — Vollmacht zur Vergleichsschliesssung muss ausdrücklich erteilt sein; Generalvollmacht genügt nur wenn erkennbar auf Verfügung über Grundstücke und Nachlassgegenstände erstreckt.
 - OLG München, Beschl. v. 11.03.2021 - 33 U 6836/20, NJW-RR 2021, 880 Rn. 12 — Anwaltsvergleich nach § 796a ZPO setzt beiderseitige anwaltliche Vertretung voraus; einseitige anwaltliche Beurkundung genügt nicht für Vollstreckungstitel.
 
 ## Kommentarliteratur
@@ -173,3 +172,7 @@ Klassische Stolperfalle in Erb- und Pflichtteilsrecht:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Erstaufnahme und Streitwertgrundlage.
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
+
+<!-- AUDIT 27.05.2026 bundle_021
+GELÖSCHT: BGH XII ZR 49/11 (15.05.2013) – WRONG_TOPIC: Reales Urteil behandelt Vaterschaftsanfechtung/Samenspende (BGB § 1600), nicht Vollmacht zur Vergleichsschließung. NJW 2013 2589 Fundstelle korrekt für dieses Urteil, aber Themenbehauptung vollständig falsch. Eintrag aus Rechtsprechungsblock entfernt.
+-->

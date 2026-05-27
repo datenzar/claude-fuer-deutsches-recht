@@ -18,7 +18,6 @@ Pruefschema, wenn ein technisches Produkt aus dem Ausland nach DSGVO als rechtsw
 ## Aktuelle Rechtsprechung
 
 - EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2993 — Meta/Facebook: Berechtigte Interessen nach Art. 6 Abs. 1 lit. f DSGVO setzen echte Abwägung voraus; kommerzielle Interessen allein genügen nicht.
-- BGH, Urt. v. 23.06.2021 - VI ZR 39/20, NJW 2021, 3041 — DSGVO-Verstöße können zivilrechtlichen Schadensersatzanspruch nach Art. 82 DSGVO begründen; immaterieller Schaden muss konkret dargelegt werden.
 - EuGH, Urt. v. 14.12.2023 - C-340/21, NJW 2024, 519 — Bloße Befürchtung zukünftiger Missbräuche genügt für immateriellen Schaden nach Art. 82 DSGVO nicht; konkreter Kontrollverlust oder Beeinträchtigung nötig.
 - BGH, Urt. v. 12.10.2021 - VI ZR 488/19, NJW 2022, 389 — DSGVO als Eingriffsnorm nach Art. 9 Rom-I; gilt auch wenn Vertragsstatut ausländisches Recht ist.
 
@@ -100,3 +99,6 @@ richtet sich an Personen in der EU].
 ## Im Urteil
 
 Im Tatbestand auf das Gutachten verweisen. In den Entscheidungsgründen konkret die verletzten DSGVO-Artikel benennen und subsumieren.
+
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VI ZR 39/20 (claimed: DSGVO-Versto\u00dfe Schadensersatz Art. 82, NJW 2021, 3041): NOT_FOUND auf dejure.org. NJW 2021, 3041 gehoert zu BGH VI ZR 40/20 (VW-Abgasskandal §826 BGB) – thematisch unverwandt. Eintrag geloescht. DSGVO-Schadensersatz wird durch bereits vorhandene EuGH-Zitate C-300/21 und C-340/21 abgedeckt. -->

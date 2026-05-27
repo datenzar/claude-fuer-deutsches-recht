@@ -18,8 +18,6 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 22.09.2017 - V ZR 282/16, NJW 2018, 382 — Tatbestand muss alle wesentlichen Tatsachenbehauptungen beider Parteien enthalten; Auslassung erheblicher Tatsachen ist Verfahrensfehler.
-- BGH, Urt. v. 10.02.2004 - VI ZR 94/03, NJW 2004, 1742 — Bezugnahme nach § 313 Abs. 2 S. 2 ZPO auf Anlagen und Protokolle ist zulässig und ausreichend, wenn konkret bezeichnet.
 - BGH, Urt. v. 17.03.2015 - II ZR 15/14, NJW 2015, 2041 — Streitiges Vorbringen ist im Tatbestand als Parteivorbringen zu kennzeichnen ("Der Kläger behauptet ..."); nicht als festgestellte Tatsache darstellen.
 - BVerfG, Beschl. v. 25.07.2012 - 1 BvR 2640/11, NJW 2013, 289 — Tatbestand muss den Streitgegenstand klar umreißen; lückenhafter Tatbestand verletzt Anspruch auf rechtliches Gehör.
 
@@ -30,6 +28,8 @@ Form und Inhalt: Paragraf 313 Abs. 2 ZPO. Knapp, nuechtern, objektiv, im Praesen
 - § 320 ZPO — Tatbestandsberichtigung auf Antrag
 - § 286 ZPO — Beweiswürdigung (gehört in Entscheidungsgründe, nicht Tatbestand)
 
+
+<!-- AUDIT 27.05.2026: BGH V ZR 282/16 (22.09.2017) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH VI ZR 94/03 (10.02.2004) entfernt – real topic § 540 ZPO Berufungsurteilsinhalt (BGHZ 158,60; NJW 2004,1389), nicht § 313 ZPO Bezugnahme (WRONG_TOPIC). -->
 ## Kommentarliteratur
 
 - Zöller/Heßler, ZPO, 35. Aufl. 2024, § 313 Rn. 10-20 (Tatbestand Inhalt und Form)

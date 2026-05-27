@@ -158,9 +158,7 @@ Klassische Stolperfalle in Privates Baurecht, Architekten- und Ingenieurrecht:
 
 ## Aktuelle Rechtsprechung Vergleichsverhandlung Baurecht
 
-- BGH, Urt. v. 16.12.2004 - VII ZR 257/03, BGHZ 161, 241 Rn. 17 — Ein Prozessvergleich nach § 794 Abs. 1 Nr. 1 ZPO ist nach allgemeinem Vertragsrecht zu beurteilen; er kann wegen arglistiger Täuschung nach § 123 BGB angefochten werden, was im Baurecht bei verschwiegenen Mängeln praxisrelevant ist.
-- BGH, Urt. v. 13.11.1997 - VII ZR 100/97, BGHZ 137, 153 Rn. 14 — Der Auftragnehmer kann im Vergleich auf Nacherfüllungsansprüche verzichten; der Verzicht muss aber klar und eindeutig formuliert sein; bloße Schweige-Abgeltungsklauseln wirken im Zweifel nur für bekannte Mängel.
-- BGH, Urt. v. 25.09.2008 - VII ZR 35/07, NJW 2009, 289 Rn. 22 — Eine im Vergleich aufgenommene Abgeltungsklausel für "alle Ansprüche aus dem Bauvorhaben" erfasst auch spätere Mangelfolgeschäden, sofern diese bei Vergleichsschluss vorhersehbar waren.
+- BGH, Urt. v. 21.11.2013 - VII ZR 48/12, NJW 2014, 394 Rn. 14 — Wird die Wirksamkeit eines Prozessvergleichs angegriffen und damit seine das Verfahren beendende Wirkung in Frage gestellt, ist der Streit durch Fortsetzung des Verfahrens auszutragen, in dem der Vergleich geschlossen wurde; der Einwand der Unwirksamkeit ist eine verzichtbare prozessuale Ruege, die vor Beginn der Verhandlung zur Hauptsache vorzubringen ist; dies gilt auch bei Werkvertraegen ueber Bauleistungen (BauR 2014, 578).
 
 ## Paragrafenkette Vergleich Baurecht
 
@@ -206,3 +204,13 @@ Dieser Vergleich wird als Anwaltsvergleich nach § 796a ZPO beurkundet.
 § 4 Kosten
 Die Kosten des Verfahrens werden gegeneinander aufgehoben.
 ```
+
+<!-- AUDIT 27.05.2026
+Geprueft: 3 Rechtsprechungsnachweise in "Aktuelle Rechtsprechung Vergleichsverhandlung Baurecht".
+Befund:
+- BGH VII ZR 257/03 (BGHZ 161, 241): GELOESCHT. Echtes Thema laut dejure.org/2004,327: Anwendung von Werkvertragsrecht auf Altbausanierung, Unwirksamkeit formularmassiger Gewaehrleistungsausschluesse (kein Bezug zu Prozessvergleich oder § 123 BGB).
+- BGH VII ZR 100/97 (BGHZ 137, 153): GELOESCHT. Echtes Thema laut dejure.org/1997,1214: Klageaenderung durch Uebergang von Kostenvorschuss- zu Schadensersatzanspruch, Zulaessigkeit der Berufung (kein Bezug zu Vergleich oder Auftragnehmer-Verzicht).
+- BGH VII ZR 35/07 (NJW 2009, 289): GELOESCHT. Echtes Thema laut dejure.org/2008,328: Haftung des Architekten fuer unrichtige Bautenstandsberichte gemaess § 328 BGB (kein Bezug zu Abgeltungsklausel oder Mangelfolgeschaeden).
+Ersatz: BGH VII ZR 48/12 (21.11.2013, NJW 2014, 394, BauR 2014, 578) eingefuegt. Verifiziert auf dejure.org/2013,35506. Echtes Thema: Prozessvergleich im Werkvertrag, Unwirksamkeit, Verfahrensfortsetzung, verzichtbare prozessuale Ruege.
+Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
+-->

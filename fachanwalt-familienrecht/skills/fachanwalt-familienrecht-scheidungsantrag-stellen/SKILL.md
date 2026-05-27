@@ -45,7 +45,7 @@ description: "Scheidungsantrag nach §§ 133 ff. FamFG: Trennungsjahr § 1565 Ab
 | BGH | XII ZB 277/12 | 13.11.2013 | Härteklausel § 1565 Abs. 2 BGB: Schwere häusliche Gewalt rechtfertigt Sofortscheidung ohne Trennungsjahr |
 | BGH | XII ZB 270/15 | 26.10.2016 | Trennung innerhalb der Wohnung setzt objektiv erkennbare Aufhebung der häuslichen Gemeinschaft voraus |
 | BGH | XII ZB 549/14 | 17.02.2016 | Versorgungsausgleich: Auskunftspflicht des Versorgungsträgers; keine Scheidung ohne VA-Beschluss |
-| BGH | XII ZB 122/17 | 06.12.2017 | Abtrennung des Versorgungsausgleichs nach § 142 FamFG bei unangemessener Verzögerung zulässig |
+
 | BGH | XII ZB 607/15 | 29.06.2016 | Verfahrenswert nach § 43 FamGKG: Nettoeinkommen beider Ehegatten maßgeblich; nicht Bruttoeinkommen |
 | OLG Frankfurt | 6 UF 136/19 | 05.11.2019 | Trennungsdatum bei streitigem Trennungszeitpunkt: volle Beweislast beim Antragsteller |
 | OLG Düsseldorf | 3 UF 99/20 | 22.09.2020 | Härteklausel § 1568 BGB bei schwer krankem Ehegatten: Einzelfallabwägung erforderlich |
@@ -334,3 +334,13 @@ Für 2 Anrechte à EUR 16.500: EUR 1.650 × 2 = EUR 3.300 Gesamtzuschlag.
 - VersAusglG: https://www.gesetze-im-internet.de/versausglg/
 - BGH XII ZB 277/12: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20277/12
 - BGH XII ZB 607/15: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=XII%20ZB%20607/15
+
+<!-- AUDIT 27.05.2026 | Bundle 022 | Task 1
+AZ: BGH XII ZB 122/17
+Status: WRONG_TOPIC + falsches Datum
+Befund: Laut dejure.org und rewis.io ist XII ZB 122/17 vom 04.07.2018 (nicht 06.12.2017)
+und betrifft ehebedingte Nachteile nach § 1578b BGB (nachehelicher Unterhalt) – nicht
+Abtrennung des Versorgungsausgleichs nach § 142 FamFG.
+Maßnahme: Zeile aus Leitentscheidungen-Tabelle gelöscht.
+Hinweis: Die Abtrennung von Folgesachen ist in § 140 FamFG geregelt (nicht § 142 FamFG).
+-->

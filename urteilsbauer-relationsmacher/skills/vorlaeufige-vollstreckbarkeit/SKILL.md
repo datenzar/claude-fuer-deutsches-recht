@@ -16,7 +16,6 @@ description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZP
 ## Aktuelle Rechtsprechung
 
 - BGH, Beschl. v. 05.12.2012 - III ZB 47/12, NJW 2013, 1232 — § 713 ZPO setzt voraus, dass keine Berufung statthaft ist; Gericht muss Beschwer prüfen, bevor Vollstreckbarkeit ohne Sicherheit ausgesprochen wird.
-- BGH, Beschl. v. 19.04.2006 - VIII ZB 140/05, NJW 2006, 2263 — § 711 ZPO Schutzantrag muss vor Verkündung gestellt werden; nachträglicher Antrag ist unzulässig.
 - BGH, Urt. v. 17.09.1998 - I ZR 184/97, NJW 1999, 654 — § 709 ZPO Sicherheitsleistung von 110 Prozent ist Regelfall; Abweichung bedarf besonderer Begründung.
 - BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Vollstreckungsschutz nach § 719 ZPO bei Berufung möglich, wenn Vollstreckung zu nicht zu ersetzenden Nachteilen führt.
 
@@ -89,3 +88,11 @@ Paragraf 709 ZPO - vorläufige Vollstreckbarkeit gegen Sicherheitsleistung von 1
 - "Das Urteil ist vorläufig vollstreckbar gegen Sicherheitsleistung in Höhe von einhundertzehn Prozent des jeweils zu vollstreckenden Betrages."
 - "Das Urteil ist vorläufig vollstreckbar."
 - Bei Schutzantrag: "Der Beklagten wird nachgelassen, die Vollstreckung gegen Sicherheitsleistung in Höhe von 110 von hundert des jeweils zu vollstreckenden Betrages abzuwenden, wenn nicht der Kläger Sicherheit in Höhe des jeweils zu vollstreckenden Betrages leistet."
+
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.

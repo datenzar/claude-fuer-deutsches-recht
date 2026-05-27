@@ -18,7 +18,7 @@ Dieser Skill übernimmt die exakte Anrede aus der eingehenden E-Mail und wandelt
 - BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Persoenliche und korrekte Mandantenkommunikation als Teil der anwaltlichen Sorgfaltspflicht; falsche Anrede in Mandantenbriefen kann Vertrauensverlust begruenden.
 - BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Kanzlei schuldet Mandanten hoefliche und korrekte Kommunikation; formale Fehler in der Anredezeile koennen als Indiz mangelhafter Organisation gewertet werden.
 - OLG Hamburg, Urt. v. 12.06.2019 - 7 U 52/18, GRUR-RR 2020, 45 — Fehlerhafter akademischer Titel in der Anrede kann als Verletzung des allgemeinen Persoenlichkeitsrechts gewertet werden (Art. 2 Abs. 1 i.V.m. Art. 1 Abs. 1 GG).
-- BGH, Urt. v. 26.05.2020 - VI ZR 7/20, NJW 2020, 2734 — Persoenlichkeitsschutz umfasst die korrekte Nennung von Titeln und Namen; Falsch-Adressierung begruendet Berichtigungsanspruch.
+- BGH, Urt. v. 07.07.2020 - VI ZR 246/19, NJW 2020, 3715 Rn. 11 — Verletzung des allgemeinen Persoenlichkeitsrechts durch Berichterstattung; Persoenlichkeitsschutz erfordert Abwaegung im Einzelfall (Art. 2 Abs. 1, Art. 1 Abs. 1 GG).
 
 ## Zentrale Normen
 - § 2 BORA — Gewissenhaftigkeit: korrekte Mandantenkommunikation als Grundpflicht
@@ -129,3 +129,9 @@ Unsicherheit: [ja/nein — wenn ja: manuell prüfen]
 - `anfrage-eingang-parser` — liefert die rohe Anrede und den Namen
 - `erstantwort-generator` — verwendet die fertige Anredezeile aus diesem Skill
 - `muster-erstantwort` — enthält Anrede-Platzhalter `[ANREDE]` die durch diesen Skill befüllt werden
+
+<!-- AUDIT 27.05.2026 | bundle_053
+Geprüft: BGH VI ZR 7/20 (NOT_FOUND auf dejure.org)
+Ersatz: BGH VI ZR 246/19, NJW 2020, 3715 (verifiziert auf dejure.org)
+Thema: Allgemeines Persönlichkeitsrecht — thematisch passend für Persönlichkeitsschutz-Kontext
+-->

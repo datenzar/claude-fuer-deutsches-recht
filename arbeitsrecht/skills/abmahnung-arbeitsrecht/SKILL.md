@@ -166,3 +166,12 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 - Kommentarbelege mit Bearbeiter, Werk, Auflage, Jahr, §, Rn.
 - Bei der Frage der Entbehrlichkeit der Abmahnung h. M. und Gegenauffassung getrennt benennen.
 - Halluzinationsrisiko: Alle zitierten Entscheidungen vor Verwendung in Schriftsätzen durch Datenbankrecherche verifizieren.
+
+<!-- AUDIT 27.05.2026 | Bundle 012 | Task 1
+AZ geprüft: BAG 2 AZR 782/11
+Befund: AZ korrekt eingesetzt. Thema laut dejure.org und bundesarbeitsgericht.de bestätigt als
+"Entfernung Abmahnung aus Personalakte; Wirkungslosigkeit durch Zeitablauf; Warnfunktion/Dokumentationsfunktion"
+(BAGE 142, 331; NZA 2013, 91). Rn. 15 behandelt Rücknahme/Entfernung als einheitlichen Anspruch — passt.
+Claimed_topic "Weiterbeschäftigungsanspruch" nicht im SKILL-Text vorhanden; kein Änderungsbedarf.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+AZR+782%2F11
+-->

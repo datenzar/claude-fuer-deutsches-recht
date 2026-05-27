@@ -40,10 +40,9 @@ description: "Geschmacksmuster- oder Designverletzung pruefen und Ansprueche dur
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | I ZR 23/10 | 28.09.2011 | Kinderwagen II: Maßstab „informierter Benutzer" beim Gesamteindrucksvergleich; kein Durchschnittskunde |
+| BGH | I ZR 23/10 | 28.09.2011 | Kinderwagen I: Maßstab „informierter Benutzer" beim Gesamteindrucksvergleich; kein Durchschnittskunde |
 | BGH | I ZR 211/08 | 24.03.2011 | Schreibgeräte: Schutzumfang Geschmacksmuster abhängig vom Grad der Eigenart |
 | EuGH | C-281/10 | 20.10.2011 | PepsiCo/Grupo Promer: Informierter Benutzer nimmt Designs nacheinander wahr; kein direkter Vergleich nötig |
-| BGH | X ZR 142/15 | 24.07.2017 | Verletzergewinn als selbstständige Berechnungsmethode auch im Designrecht anerkannt |
 | OLG Düsseldorf | I-20 U 261/20 | 17.03.2022 | Designverletzung im Online-Handel: Produktbild auf Amazon-Plattform als öffentliches Anbieten i. S. § 38 DesignG |
 | OLG Frankfurt | 6 U 111/19 | 28.11.2019 | Nicht eingetragenes Gemeinschaftsgeschmacksmuster setzt bei Verletzungsklage Nachweis der Kopie voraus |
 | BGH | I ZR 120/16 | 23.11.2017 | Selbstwiderlegung Dringlichkeit: 4 Wochen als Faustregel; Einzelfall entscheidend |
@@ -139,7 +138,7 @@ Designs einen anderen Gesamteindruck erhält: [Ausführung der prägenden Merkma
 
 IV. Designverletzung § 38 DesignG
 Das Verletzungsmuster ruft beim informierten Benutzer (BGH I ZR 23/10 –
-Kinderwagen II) denselben Gesamteindruck hervor wie das Klagedesign.
+Kinderwagen I) denselben Gesamteindruck hervor wie das Klagedesign.
 Folgende prägende Gestaltungsmerkmale sind vollständig übernommen:
 [tabellarische Gegenüberstellung Klagedesign vs. Verletzungsmuster].
 Der Gestaltungsfreiraum im Segment [Warenbereich] ist [groß/gering],
@@ -242,7 +241,7 @@ den Rechteinhabern autorisiert sind.
 | Gegenargument | Herkunft | Reaktion |
 |--------------|---------|----------|
 | „Design fehlt Eigenart" | Beklagte | Sachverständigengutachten einholen; Designvergleich mit Stand der Technik aufbereiten; hohe Hürde für Nichtigkeitsgegenklage |
-| „Kein gleicher Gesamteindruck" | Beklagte | BGH Kinderwagen II: Gesamteindruck, nicht Detailvergleich; prägende Merkmale herausarbeiten |
+| „Kein gleicher Gesamteindruck" | Beklagte | BGH Kinderwagen I (I ZR 23/10): Gesamteindruck, nicht Detailvergleich; prägende Merkmale herausarbeiten |
 | „Vorveröffentlichung durch Klägerin beseitigt Neuheit" | Beklagte | Neuheitsschonfrist § 5 DesignG (12 Monate) bei Eigenoffenbarung; Datum der Erstveröffentlichung prüfen |
 | „Erschöpfung § 48 DesignG" | Beklagte | War Erstinverkehrbringen durch Rechteinhaber autorisiert? Nachweis der Lieferkette |
 | „Antrag nicht dringlich — zu lange gewartet" | Beklagte | Genaues Kenntnis-Datum dokumentieren; subjektive Dringlichkeit (ab tatsächlicher Kenntnis, nicht Erkennbarkeitszeitpunkt) |
@@ -287,7 +286,7 @@ Verfahrensgebühr 1.3 VV RVG ca. EUR 2.018; Terminsgebühr 1.2 VV RVG ca. EUR 1.
 
 - DesignG: https://www.gesetze-im-internet.de/geschmmg_2004/
 - GGV (EG 6/2002): https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32002R0006
-- BGH I ZR 23/10 (Kinderwagen II): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%2023/10
+- BGH I ZR 23/10 (Kinderwagen I): https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=en&az=I%20ZR%2023/10
 - EuGH C-281/10 (PepsiCo): https://curia.europa.eu/juris/liste.jsf?num=C-281/10
 - EUIPO eFiling: https://euipo.europa.eu/eSearch/
 - DSA Art. 16: https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32022R2065
@@ -307,3 +306,7 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 > **BGH, Urt. v. 28.01.2016 — I ZR 40/14 (Armbanduhr):** Ein eingetragenes Geschmacksmuster ist nichtig, wenn zum Anmeldezeitpunkt ein identisches Muster im Formenschatz der Oeffentlichkeit zugaenglich war; ein nicht zugaengliches Vorlaeufer-Design des Herstellers selbst zerstoert die Neuheit nicht (keine neuheitsschaedliche Eigenoffenbarung vor Schonfrist).
 
 > **OLG Duesseldorf, Urt. v. 10.07.2018 — I-20 U 180/16 (Kinderwagen-Design):** Bei der Beurteilung der Designverletzung ist nicht das einzelne Merkmal, sondern der Gesamteindruck massgeblich; selbst eine starke Aehnlichkeit in Einzelmerkmalen fuehrt nicht zur Verletzung, wenn der Gesamteindruck erheblich verschieden ist.
+
+---
+
+> **Audit-Hinweis (27.05.2026):** BGH I ZR 23/10 (28.09.2011) ist "Kinderwagen I", nicht "Kinderwagen II". Kinderwagen II = BGH I ZR 102/11 (12.07.2012). Alle Verweise auf "Kinderwagen II" im Zusammenhang mit I ZR 23/10 wurden auf "Kinderwagen I" korrigiert. BGH X ZR 142/15 (16.05.2017) ist ein Reiserechturteil zu § 651j BGB (hoehere Gewalt/Urlaubsreise-Risikosphaere), nicht eine Designrecht-Entscheidung zum Verletzergewinn — Zeile aus der Leitentscheidungs-Tabelle entfernt. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=2017-05-16&Aktenzeichen=X+ZR+142%2F15

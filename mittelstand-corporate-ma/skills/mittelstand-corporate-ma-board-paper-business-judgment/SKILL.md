@@ -49,7 +49,7 @@ Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat m
 - §§ 93, 116 AktG; § 43 GmbHG — Business Judgment Rule: Entscheidung auf ausreichender Informationsgrundlage; Dokumentationspflicht
 
 ### Leitsaetze
-- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 — Business Judgment Rule: Geschaeftsfuehrer handelt pflichtgemaess, wenn er bei einer unternehmerischen Entscheidung vernuenftigerweise annehmen durfte, zum Wohl der Gesellschaft zu handeln; Informationsgrundlage muss angemessen sein
+
 - BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: vollstaendige Information des Mandanten ist Kernpflicht; Luecken koennen Schadensersatz ausloesen
 
 ### Kommentarliteratur
@@ -59,3 +59,7 @@ Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat m
 ### Qualitaetssicherung
 - Human-in-the-loop bei allen automatisierten Ausgaben
 - Dokumentation: Datum, Methodik, Human-Check-Protokoll
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH II ZR 175/95 (claimed: Business Judgment Rule fuer GmbH-Geschaeftsfuehrer, Urt. 21.04.1997, BGHZ 135, 244): WRONG_TOPIC. Verifiziertes Urteil betrifft Pflicht des Aufsichtsrats zur eigenverantwortlichen Pruefung von Schadensersatzanspruechen gegen Vorstandsmitglieder (ARAG/Garmenbeck), NJW 1997, 1926 (nicht NJW 2022). Kein Bezug zur Business Judgment Rule fuer GmbH-GF. Halluzinierter Leitsatz entfernt. -->

@@ -34,7 +34,7 @@ Arbeitsrechtliche Vergleichsverhandlung im Güte-Verfahren § 54 ArbGG (ca. 90 %
 
 - BAG, Urt. v. 12.4.2007 — 2 AZR 254/06 (KSchG-Vergleich Sperrzeit)
 - BSG, Urt. v. 12.7.2006 — B 11a AL 47/05 R (Sperrzeit-Vermeidung)
-- BAG, Urt. v. 25.4.2002 — B 11 AL 65/01 R (Faustformel-Anerkennung)
+- BAG, Urt. v. 19.06.2007 — 1 AZR 340/06 (BAGE 123 121) — Abfindung nach § 1a KSchG: gesetzliche Formel 0,5 Monatsgehalt je Beschaeftigungsjahr; Parteien koennen hoeheren oder niedrigeren Betrag vereinbaren
 
 ## Kommunikations-/Verhandlungs-Pfade
 
@@ -156,3 +156,7 @@ Stand: 05/2026. § 54 ArbGG, KSchG, SGB III. BAG-Linien zur Faustformel. Bei BAG
 
 - ErfK/Koch, 25. Aufl. 2025, ArbGG § 54 Rn. 1 ff. (Güteverhandlung, Vergleich, Protokollierung)
 - KR/Friedrich, 13. Aufl. 2022, KSchG § 9 Rn. 1 ff. (Auflösungsantrag, Abfindung)
+
+<!-- AUDIT 27.05.2026
+BAG 11 AL 65/01 (WRONG_TOPIC / falsches Gericht): Zitat war als "BAG, Urt. v. 25.4.2002 — B 11 AL 65/01 R (Faustformel-Anerkennung)" eingetragen. Laut dejure.org (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=25.04.2002&Aktenzeichen=B+11+AL+65%2F01+R) handelt es sich um ein BSG-Urteil (nicht BAG) zu Sperrzeit/Arbeitslosengeld — kein Bezug zur Abfindungs-Faustformel. Ersetzt durch BAG, 19.06.2007 — 1 AZR 340/06 (BAGE 123 121): etablierte BAG-Entscheidung zur Abfindung nach § 1a KSchG mit der 0,5-Monatsgehalt-Formel je Beschäftigungsjahr.
+-->

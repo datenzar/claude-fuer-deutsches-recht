@@ -150,7 +150,7 @@ Berechnung: vom 3. Werktag des Monats
 ## 9) BGH-Linien
 
 - BGH, Urt. v. 29.3.2017 — VIII ZR 6/19 (Vortaeuschung)
-- BGH, Urt. v. 23.11.2022 — VIII ZR 89/22 (Begründungs-Tiefe)
+- BGH, Urt. v. 15.03.2017 — VIII ZR 270/15 (Begruendungs-Tiefe Eigenbedarfskuendigung: Angabe der Bedarfs-Person und deren Interesse genuegt; kein Detailnachweis erforderlich; NJW 2017, 1474)
 - BGH, Urt. v. 11.5.2022 — VIII ZR 304/21 (Sozial-Klausel)
 
 ## Anschluss
@@ -158,3 +158,9 @@ Berechnung: vom 3. Werktag des Monats
 - `fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel` — bei Mangel-Bezug
 - `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` — bei WEG-Bezug
 - `mietrecht/skills/klageentwurf-amtsgericht` — Klage-Erstellung
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 89/22 entfernt: Aktenzeichen nicht auf dejure.org auffindbar.
+Ersatz: BGH VIII ZR 270/15 (15.03.2017, NJW 2017, 1474) — verifiziert auf dejure.org;
+betrifft Begruendungsanforderungen der Eigenbedarfskuendigung (Begründungs-Tiefe), inhaltlich passend.
+-->

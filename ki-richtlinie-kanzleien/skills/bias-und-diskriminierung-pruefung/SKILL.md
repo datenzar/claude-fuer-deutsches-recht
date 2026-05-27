@@ -38,7 +38,6 @@ Die KI-Forschung zum Thema Bias entwickelt sich rasch weiter. Neue Erkenntnisse 
 ## Aktuelle Rechtsprechung (v14.2)
 - EuGH, Urt. v. 23.04.2020 — C-507/18 (NH), NJW 2020, 1999 Rn. 31: AGG — auch hypothetische Diskriminierungstests begrunden Beweislastumkehr; gilt fuer KI-Auswahlsysteme.
 - BAG, Urt. v. 19.12.2019 — 8 AZR 2/19, NJW 2020, 1612 Rn. 22: Mittelbare Diskriminierung im Bewerbungsverfahren — neutrales Auswahlkriterium mit diskriminierender Wirkung genuegt.
-- BGH, Urt. v. 26.03.2019 — VI ZR 273/16, NJW 2019, 2385 Rn. 14: Produkthaftung fuer fehlerhafte Algorithmen; Hersteller haftet fuer systematische Fehlerquellen in Entscheidungssystemen.
 - BVerfG, Beschl. v. 16.07.2012 — 1 BvR 2983/10, NJW 2012, 2856 Rn. 18: Diskriminierungsschutz Art. 3 GG als Masstab auch bei mittelbar wirkenden technischen Systemen.
 
 ## Zentrale Normen (Paragrafenkette)
@@ -76,3 +75,8 @@ Bias-Test durchgefuehrt: [JA — Methode: BESCHREIBUNG / NEIN — ERFORDERLICH]
 Gesamtbewertung: [KEIN MATERIALLES BIAS / BIAS GEFUNDEN — MASSNAHMEN ERFORDERLICH]
 Geprueft von: [NAME], [DATUM]
 ```
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+> **Audit-Hinweis (27.05.2026):** BGH VI ZR 273/16, NJW 2019, 2385 entfernt. Urteil existiert nicht — Suchanfrage auf dejure.org ergab keinen Treffer fuer BGH VI ZR 273/16 vom 26.03.2019. Beanspruchtes Thema (Produkthaftung fuer fehlerhafte Algorithmen) ist nicht durch diese Fundstelle belegt. Quelle: dejure.org Vernetzungssuche (NOT_FOUND).

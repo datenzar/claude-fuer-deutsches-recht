@@ -31,7 +31,6 @@ Leitet Disclosure Schedules aus Datenraum, DD-Findings, Q&A-Antworten und SPA-Ga
 - BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — Disclosure-Kenntnis: Kaeufer muss sich Kenntnis seines Due-Diligence-Beraters zurechnen lassen; ein Umstand ist dann "discloset", wenn er im Datenraum enthalten und bei sorgfaeltiger Pruefung erkennbar war
 - BGH, Urt. v. 14.03.2003 - V ZR 64/02, NJW 2003, 1811 — Arglistiges Verschweigen: auch wenn der Kaeufer haette pruefen koennen, ist arglistiges Verschweigen des Verkaeuf ers nicht durch Mitverschulden ausgeschlossen; Arglist geht vor Mitverschulden
 - BGH, Urt. v. 30.09.2011 - V ZR 17/11, NJW 2012, 56 — Fair Disclosure: ein Umstand ist nur dann wirksam discloset, wenn er so klar und zutreffend dargestellt wurde, dass der Kaeufer die Tragweite erkennen konnte; verschwommene Hinweise genuegen nicht
-- OLG Muenchen, Urt. v. 26.02.2020 - 7 U 1635/19, NZG 2020, 670 — Earn-Out-Offenlegungspflicht: Verkaeufer hat auch Umstaende zu disclosten, die den Earn-Out negativ beeinflussen koennen; Verstoß begruendet Schadensersatz
 
 ## Kommentarliteratur
 
@@ -107,3 +106,7 @@ Verkaeufer: [NAME] — Kaeufer: [NAME] — Datum: [DATUM]
 
 - assets/templates/disclosure-letter-gliederung.md
 - assets/templates/disclosure-schedule-index.md
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- OLG Muenchen 7 U 1635/19 (claimed: Urt. 26.02.2020, NZG 2020, 670, Earn-Out-Offenlegungspflicht): NOT_FOUND auf dejure.org. Halluziniertes Urteil entfernt. Hinweis: OLG Muenchen 23 U 5742/19 (Urt. 03.12.2020, NZG 2021, 423) existiert und betrifft vorvertragliche Aufklaerungspflichten beim Unternehmenskauf allgemein, nicht spezifisch Earn-Out. Kein verifiziertes Ersatzurteil zum Earn-Out-Thema gefunden; kein Ersatz eingefuegt. -->

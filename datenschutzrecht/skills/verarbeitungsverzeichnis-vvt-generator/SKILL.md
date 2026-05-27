@@ -373,7 +373,6 @@ TOMs:
 
 - EuGH, Urt. v. 05.12.2023 — C-683/21 (Nacionalinis visuomenes sveikatos centras), NJW 2024, 285 Rn. 62: Art. 30 DSGVO erfordert, dass jede Verarbeitungstätigkeit vollständig dokumentiert wird — auch kurzfristige oder projektbezogene Verarbeitungen; lückenhaftes VVT begründet eigenständigen Verstoß.
 - BGH, Urt. v. 23.01.2024 — VI ZR 7/23, NJW 2024, 1200 Rn. 35: Zur Rechenschaftspflicht nach Art. 5 Abs. 2 DSGVO; das VVT ist das zentrale Nachweisinstrument; fehlende Einträge können bei Datenpannen als erschwerend gewertet werden.
-- OLG Hamburg, Urt. v. 10.11.2022 — 13 U 37/22, GRUR-RS 2022, 35678 Rn. 22: Datenschutzaufsichtsbehörden können das VVT nach Art. 30 Abs. 4 DSGVO jederzeit anfordern; fehlende Vorlage begründet Bußgeld nach Art. 83 Abs. 4 DSGVO.
 - LG Bonn, Urt. v. 11.11.2021 — 10 O 59/20, ZD 2022, 55 Rn. 18: Unvollständiges VVT als Indiz für mangelhafte Datenschutz-Compliance bei Bußgeldberechnung; vollständiges VVT mildert Bußgeld.
 
 ## Triage zu Beginn
@@ -402,3 +401,5 @@ Loeschfristen: [FRISTEN nach Art. 30 Abs. 1 lit. f]
 TOM (Verweis): Art. 32 DSGVO — Anlage [X]
 Rechtsgrundlage (Empfehlung): Art. [X] DSGVO [§ BDSG]
 ```
+
+<!-- AUDIT 27.05.2026: OLG Hamburg 13 U 37/22 (10.11.2022) entfernt. Tatsaechliches Urteil OLG Hamburg 7 U 37/22 (21.11.2023): Persoenlichkeitsrecht auslaendischer Staaten, MDR 2024, 109 — kein Datenschutzbezug. SKILL behauptete: Datenschutzaufsicht VVT Art. 30 DSGVO, GRUR-RS 2022, 35678 — AZ, Datum, Senat und Thema falsch. Eintrag geloescht. Kein verifizierbarer Ersatz gefunden. Bundle 017, Task 5. -->

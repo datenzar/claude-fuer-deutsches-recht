@@ -112,7 +112,6 @@ einreichungsbestaetigung: "[Aktenzeichen / Eingangsbestätigung]"
 ## Aktuelle Rechtsprechung & Leitsätze
 
 - BVerfG, Beschl. v. 12.05.2009 — 2 BvR 890/06, BVerfGE 123, 267 Rn. 80 — Stellungnahme im Gesetzgebungsverfahren als Ausdruck demokratischer Teilhabe; BVerfG erkennt Stimmrecht qualifizierter Interessengruppen als Legitimations-Basis; fehlende Stellungnahme-Beruecksichtigung ist kein Aufhebungsgrund
-- EuGH, Urt. v. 15.09.2011 — C-500/10 (Banca Antoniana Popolare Veneta), NJW 2011, 3562 — Stellungnahme im EU-Gesetzgebungsverfahren; Recht auf Anhoerung von Betroffenen nach Art. 41 GRCh; unterlassene Anhoerung kann Anfechtbarkeit des Sekundaerrechtsakts begruenden
 - BVerwG, Urt. v. 18.03.2004 — 4 CN 4.02, BVerwGE 120, 239 — Stellungnahme-Pflicht bei Plan-Verfahren; fehlerhafte Beteiligung von Traegern oeffentlicher Belange fuehrt zur Rechtswidrigkeit wenn kausal
 
 ## Zentrale Normen (Paragrafenkette)
@@ -183,3 +182,10 @@ Kommentarliteratur:
 - **Übermäßige Länge:** Aufsichtsbehörden lesen kurze, präzise Stellungnahmen mit klaren Normverweisen bevorzugt. Maximallänge je nach Behörde beachten.
 - **Mandantengeheimnis:** Stellungnahmen für externe Kunden müssen gemäß § 43a Abs. 2 BRAO als vertraulich behandelt werden; öffentliche Stellungnahmen bedürfen der Freigabe.
 - **Verfasser-Angabe:** Viele Behörden veröffentlichen Stellungnahmen. Klären, ob anonym oder im Namen des Mandanten eingereicht werden soll.
+
+---
+
+<!-- AUDIT 27.05.2026
+Geprueft: EuGH C-500/10
+Befund: GELOESCHT. Skill zitierte C-500/10 (Banca Antoniana Popolare Veneta) fuer das Thema "Stellungnahme im EU-Gesetzgebungsverfahren; Recht auf Anhoerung nach Art. 41 GRCh". Echtes Thema von C-500/10 ist Mehrwertsteuer (VAT): Automatische Beendigung von Steuergerichtsverfahren nach 10 Jahren; Effektivitaetsgrundsatz; keine Verbindung zu Art. 41 GRCh oder Stellungnahme-Verfahren. Entschieden 29.03.2012 (nicht 15.09.2011). Quelle: curia.europa.eu. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
+-->

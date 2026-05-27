@@ -21,7 +21,7 @@ description: "Anwalt hat Schriftsatz fertig und muss Anlagen korrekt benennen nu
 
 BGH, Beschl. v. 20.04.2023 – III ZB 75/21, NJW 2023, 1743 — Schriftsätze im elektronischen Rechtsverkehr (beA) müssen als strukturierte Datei übermittelt werden; Anlagen sind als gesonderte Dateien beizufügen und im Schriftsatz eindeutig zu bezeichnen (Anlage K 1, K 2 usw.).
 
-BGH, Beschl. v. 08.06.2021 – VI ZB 53/20, NJW 2021, 2672 — Eine eingereichte Anlage muss im Schriftsatz inhaltlich bezeichnet und zitiert sein; bloßes Beifügen ohne Bezugnahme im Text erfüllt die Anforderungen an den Urkundenbeweis nach § 420 ZPO nicht.
+BGH, Beschl. v. 04.07.2018 – VII ZR 21/16, BauR 2018, 2056 — Anlagen können notwendigen schriftsätzlichen Vortrag nicht ersetzen; es ist nicht Aufgabe des Gerichts, umfangreiche oder ungeordnete Anlagenkonvolute von sich aus durchzuarbeiten, um Ansprüche zu konkretisieren; eine konkrete Bezugnahme im Schriftsatz auf eine aus sich heraus verständliche Anlage ist aber zulässig.
 
 BGH, Beschl. v. 14.09.2017 – I ZB 85/16, NJW-RR 2017, 1452 — Die beA-taugliche Dateibezeichnung ohne Sonderzeichen und Umlaute ist keine rein formale Anforderung; fehlerhafte Bezeichnungen können zur Unverwertbarkeit der Anlage führen, wenn das Gericht die Datei nicht öffnen kann.
 
@@ -115,3 +115,5 @@ Anzahl Anlagen-Dateien vorhanden: [...]
 ---
 
 Hinweis: Die Letztverantwortung für Vollständigkeit und Berufspflichten (§ 43e BRAO, § 203 StGB, DSGVO) liegt beim Anwalt.
+
+<!-- AUDIT 27.05.2026: BGH VI ZB 53/20 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VII ZR 21/16, BauR 2018, 2056 (verifiziert auf dejure.org). -->

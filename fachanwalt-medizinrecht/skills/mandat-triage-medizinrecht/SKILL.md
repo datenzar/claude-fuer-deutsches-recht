@@ -138,7 +138,7 @@ Medizinrecht ist breit — vom Behandlungsfehler bis zur Pharmavermarktung. Tria
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 07.11.2023 — **VI ZR 79/22**, NJW 2024, 392 Rn. 18: Die Verjährung von Schadensersatzansprüchen wegen Behandlungsfehlern beginnt gemäß § 199 Abs. 1 BGB, wenn der Patient sowohl Kenntnis vom Schaden als auch von der Person des Schädigers hat; Unkenntnis über den genauen Kausalverlauf hemmt den Beginn der Verjährungsfrist nicht, solange die Tatsachen für eine Klageerhebung ausreichen.
+BGH, Urt. v. 26.05.2020 — **VI ZR 186/17**, NJW 2020, 2534: Die regelmäßige Verjährungsfrist nach § 195 BGB wird mangels grob fahrlässiger Unkenntnis (§ 199 Abs. 1 Nr. 2 Alt. 2 BGB) grundsätzlich nicht schon dann in Lauf gesetzt, wenn der Geschädigte es unterlässt, Krankenhausunterlagen auf ärztliche Behandlungsfehler hin zu überprüfen; erforderlich ist vielmehr Kenntnis von Tatsachen, die den Schluss auf ein schuldhaftes Fehlverhalten des Behandlers als naheliegend erscheinen lassen.
 
 BGH, Urt. v. 27.03.2007 — **VI ZR 55/05**, NJW 2007, 2771 Rn. 14: Der Behandler ist nach § 630f BGB (früher gewohnheitsrechtlich anerkannt) zur vollständigen und zeitnahen Dokumentation verpflichtet; lückenhafte Dokumentation begründet zugunsten des Patienten die Vermutung, dass die nicht dokumentierte Maßnahme unterblieben ist.
 
@@ -155,4 +155,12 @@ BSG, Urt. v. 18.11.2014 — **B 1 KR 8/13 R**, BSGE 117, 212 Rn. 30: Krankenkass
 ### Kommentarliteratur
 
 - Spickhoff, Medizinrecht, 4. Aufl. 2022: Mandantsrollen und Sachgebietssystematik; Querverweis auf Einzelkommentierungen §§ 630a–h BGB und SGB V.
+
+---
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VI ZR 79/22 vom 07.11.2023, NJW 2024, 392 – Urteil auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.11.2023&Aktenzeichen=VI+ZR+79%2F22
+Ersatz   : BGH, Urt. v. 26.05.2020 – VI ZR 186/17, NJW 2020, 2534 (Verjährung Behandlungsfehler, Kenntnis, § 199 Abs. 1 BGB). Verifiziert: https://dejure.org/2020,16850
+Aktion   : Leitsatz-Zitat ersetzt
+-->
 - Laufs/Kern/Rehborn, Handbuch des Arztrechts, 5. Aufl. 2019, § 13 (Mandatsaufnahme Behandlungsfehler) und § 52 (Vertragsarztrecht): Triage-Systematik und Fallkonstellationen.

@@ -33,7 +33,7 @@ Banken und Investoren stützen die Vollstreckung in Immobilien fast immer auf ei
    - **Titel**: notarielle Urkunde mit Unterwerfung – wurde sie als „Vollstreckungstitel" ausgestellt (in der Regel formularmäßig „der Eigentümer unterwirft sich ...").
    - **Klausel** § 795 i.V.m. § 724 ZPO durch den Notar oder beim Amtsgericht. Bei Forderungsabtretung Klauselumschreibung § 727 ZPO – zwingend (BGH 30.3.2010 – XI ZR 200/09).
    - **Zustellung** der vollstreckbaren Ausfertigung an den Schuldner; bei dinglicher Vollstreckung an den Eigentümer (auch Dritter) nach § 800 Abs. 2 ZPO.
-2. **Kündigung Grundschuld § 1193 BGB**: sechs Monate Kündigungsfrist, abdingbar nur eingeschränkt – AGB-Kontrolle (BGH 8.12.2009 – XI ZR 181/08). Kündigungsschreiben zustellen.
+2. **Kündigung Grundschuld § 1193 BGB**: sechs Monate Kündigungsfrist, abdingbar nur eingeschränkt (AGB-Kontrolle gem. § 307 BGB). Kündigungsschreiben zustellen.
 3. **Sicherungsabrede prüfen**: Welche Forderungen sichert die Grundschuld? Aktuelle Höhe? Zinsen? Übersicherung? Einrede § 1192 Abs. 1a BGB bei Abtretung.
 4. **Dingliche Vollstreckung**: ZVG-Antrag → `zv-zvg-antrag-glaeubiger`.
 5. **Persönliche Vollstreckung**: zusätzlich PfÜB Bank/Lohn → `zv-pfueb-bank` / `zv-pfueb-arbeitsentgelt`.
@@ -56,9 +56,9 @@ Schuldner kann gegenüber neuem Erwerber alle Einreden geltend machen, die ihm g
 ## Leitentscheidungen
 
 - BGH 30.3.2010 – XI ZR 200/09 (Klauselumschreibung Zessionar)
-- BGH 8.12.2009 – XI ZR 181/08 (Kündigung § 1193 BGB AGB-Kontrolle)
 - BGH 26.11.2009 – VII ZR 11/09 (Reichweite Unterwerfung in das gesamte Vermögen)
-- BGH 5.12.2013 – VII ZR 56/13 (Bestimmtheit der Sicherungszweckerklärung)
+
+<!-- AUDIT 27.05.2026: BGH XI ZR 181/08 (08.12.2009) entfernt – real topic MaBV-Buergschaft in Bautraeger-Insolvenz (NJW 2010,1284), nicht Kuendigung Grundschuld § 1193 BGB (WRONG_TOPIC). BGH VII ZR 56/13 (05.12.2013) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
 - BGH 9.7.2020 – V ZR 60/19 (Auslegung der Sicherungsabrede)
 
 ## Ausgabeformat

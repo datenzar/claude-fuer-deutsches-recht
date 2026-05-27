@@ -33,7 +33,7 @@ Hinweis: Die Gutachtenmethode entspricht dem deutschen juristischen Standard. Ku
 - BGH, Urt. v. 18.11.2015 – VIII ZR 266/14, NJW 2016, 863 Rn. 8 — Wohnraummiete: Konkretisierung der Mängelanzeigepflicht des Mieters; sinngemäß für Gutachten zu Mängelrügen.
 - BAG, Urt. v. 29.06.2017 – 2 AZR 302/16, NZA 2017, 1121 Rn. 15 — Soziale Rechtfertigung einer betriebsbedingten Kündigung; Interessenabwägung im Prüfungsschema KSchG.
 - BVerwG, Urt. v. 24.04.2019 – 3 C 2/18, NVwZ 2019, 1440 Rn. 12 — Ermessensausübung im Verwaltungsrecht; Prüfungsreihenfolge bei Ermessensentscheidungen.
-- BGH, Urt. v. 26.10.2022 – VIII ZR 390/21, NJW 2023, 142 Rn. 20 — Verbraucherrecht: Widerruf nach § 355 BGB; Voraussetzungen und Rechtsfolgen.
+- BGH, Urt. v. 26.10.2022 – VIII ZR 390/21, NZM 2023, 35 Rn. 24 — Eigenbedarfskündigung: Suizidgefahr des Mieters als Härtegrund i. S. d. § 574 BGB; Fortsetzung des Mietverhältnisses auf unbestimmte Zeit bei unabsehbarem Wegfall des Beendigungshindernisses.
 
 ### Kommentarliteratur
 
@@ -199,3 +199,10 @@ Normblock enthält: `[RECHERCHE ERFORDERLICH: § 536 BGB, § 536c BGB (Anzeigepf
 Jeder im Gerüst vorgeschlagene Normrahmen oder Entscheidungshinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Belege; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit „verifizieren" tragen ein höheres Fehlerrisiko und sind zuerst zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026
+Geprueft: BGH VIII ZR 390/21
+Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf nach § 355 BGB". Echtes Thema: Eigenbedarfskündigung; Suizidgefahr des Mieters als Haertegrund (§ 574 BGB); Fortsetzung des Mietverhaeltnisses auf unbestimmte Zeit. Fundstelle korrigiert: NZM 2023 35 Rn. 24 (statt NJW 2023 142 Rn. 20). Quelle: dejure.org/2022,33020.
+-->

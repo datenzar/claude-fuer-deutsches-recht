@@ -71,7 +71,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
    zu berücksichtigen ist; einzelne Downloads rechtfertigen einen Pauschalbetrag,
    da genaue Feststellung der Schadenshöhe nicht möglich ist (§ 287 ZPO).
 
-2. BGH, Urt. v. 11.06.2015 – I ZR 75/14, GRUR 2016, 176 Rn. 35 –
+2. BGH, Urt. v. 11.06.2015 – I ZR 75/14, GRUR 2016, 191 Rn. 35 –
    „Tauschbörse III": Zur Störerhaftung des Anschlussinhabers: Der Anschluss-
    inhaber haftet als Störer für Urheberrechtsverletzungen über seinen Anschluss,
    wenn er Prüfungspflichten verletzt hat (Sicherung des WLAN, Belehrung von
@@ -140,7 +140,7 @@ möchte eigene Werke schützen; Streit über Höhe der Abmahnkosten und des Scha
 
 4. **Kosten verhandeln** – Lizenzanalogie begründen oder anfechten; bei Filesharing
    sekundäre Darlegungslast erfüllen (BGH, Urt. v. 11.06.2015 – I ZR 75/14,
-   GRUR 2016, 176 Rn. 35): andere mögliche Täter benennen (Mitbewohner, Gäste).
+   GRUR 2016, 191 Rn. 35): andere mögliche Täter benennen (Mitbewohner, Gäste).
 
 5. **Verjährung beachten** – § 102 UrhG i. V. m. §§ 195, 199 BGB: 3-Jahres-
    Regelverjährung; Beginn mit Kenntnis (§ 199 Abs. 1 BGB); 10-Jahres-Maximal-
@@ -175,7 +175,7 @@ RVG für eine 1,3-Gebühr (Nr. 2300 VV RVG) ein Erstattungsbetrag von ca. 27,30 
 (vgl. BGH, Urt. v. 12.05.2016 – I ZR 1/15, GRUR 2016, 1280 Rn. 28); jedoch
 kann P durch sekundäre Darlegungslast auf alternative Täter (Familienmitglieder)
 hinweisen, sofern der Anschluss mehreren Personen zugänglich war (BGH, Urt. v.
-11.06.2015 – I ZR 75/14, GRUR 2016, 176 Rn. 35).
+11.06.2015 – I ZR 75/14, GRUR 2016, 191 Rn. 35).
 
 **Empfehlung:** Modifizierte Unterlassungserklärung ohne Schuldanerkenntnis abgeben;
 Kosten auf Deckelungsbetrag reduzieren; Schadensersatz verhandeln.
@@ -225,3 +225,9 @@ Bevor die Abmahnung versandt wird, klaere:
 > **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Bei der Abmahnung wegen Filesharings durch einen Rechtsanwalt ist der Gegenstandswert auf EUR 1.000 begrenzt (§ 97a III UrhG), wenn der Verletzer eine Privatperson ist und die Verletzung keine gewerbliche Dimension hat; die Deckelung gilt nicht, wenn die Verletzung massenhaft oder gewerblich erfolgt.
 
 > **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Die sekundaere Darlegungslast des Anschlussinhabers erfordert, dass er substantiiert vortraegt, welche anderen Familienangehoerigen oder Mitbewohner Zugang zum Internetanschluss hatten und wer als Taeter in Betracht kommt; blosse Behauptung moeglicher Dritter genuegt nicht.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 031 / Halluzinations-Reparatur
+Problem: BGH I ZR 75/14 wurde mit GRUR 2016, 176 zitiert (falsch; das ist Tauschboerse I = I ZR 19/14).
+Korrektur: GRUR 2016, 176 → GRUR 2016, 191 (alle 3 Fundstellen). Verifiziert via dejure.org.
+-->

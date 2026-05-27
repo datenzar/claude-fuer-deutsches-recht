@@ -15,10 +15,8 @@ Dieser Skill deckt die Umformulierung beruflicher E-Mails und Schreiben ab, die 
 4. Welcher Stil ist gewuenscht: sehr foermlich, foermlich, sachlich-freundlich oder kollegial?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 09.07.1981 - III ZR 198/80, BGHZ 81, 175 — Sachlichkeit und Klarheit in Korrespondenz mit Verbrauchern als zivilrechtlich gebotener Massstab gemaess Treu und Glauben.
 - BGH, Urt. v. 22.11.2001 - I ZR 255/99, NJW 2002, 2031 — Rufschaedigende Auesserungen in Geschaeftskorrespondenz koennen Ansprueche aus § 824 BGB ausloesen.
 - BAG, Urt. v. 24.04.2014 - 8 AZR 416/13, NJW 2014, 2906 — Sachliche Korrespondenz mit Mitarbeitern als Teil der Fuersorgepflicht des Arbeitgebers nach § 241 Abs. 2 BGB.
-- OLG Hamburg, Urt. v. 12.06.2018 - 3 U 48/17 — Foermlichkeit der Korrespondenz beeinflusst Auslegung rechtserheblicher Erklaerungen nach §§ 133, 157 BGB.
 
 ## Zentrale Normen
 - § 242 BGB — Treu und Glauben als Massstab fuer sachliche Korrespondenz
@@ -85,3 +83,5 @@ Für allgemeine Korrespondenz ohne Berufsrechtsbezug gelten keine spezifischen b
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Überarbeiteter Text in sachlich-höflichem Stil. (2) Erläuterung der wichtigsten Änderungen. (3) Hinweis auf Stilkonsistenz.
+
+<!-- AUDIT 27.05.2026: BGH III ZR 198/80 (WRONG_TOPIC: Finanzierungskauf/Einwendungsdurchgriff BGHZ 83, 301 — kein Bezug zu Sachlichkeit in Korrespondenz) geloescht. OLG Hamburg 3 U 48/17 (NOT_FOUND: AZ nicht auf dejure.org auffindbar) ebenfalls geloescht. Kein Ersatz eingefuegt. Quellen: dejure.org/1982,336 -->

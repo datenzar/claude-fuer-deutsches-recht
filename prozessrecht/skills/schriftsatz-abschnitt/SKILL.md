@@ -50,7 +50,6 @@ Einschlägige Kommentare und Rechtsprechung:
 - Wulf, in: BeckOK ZPO, 52. Ed. (Stand 01.03.2024), § 520 Rn. 20 ff.
 - BGH, Urt. v. 26.04.2023 – VIII ZR 121/22, NJW 2023, 2253 Rn. 18 (Schlüssigkeit der Klageschrift).
 - BGH, Urt. v. 19.01.2022 – IV ZR 295/19, NJW 2022, 1097 Rn. 22 (Berufungsangriff, § 520 Abs. 3 Nr. 2 ZPO).
-- BGH, Urt. v. 09.03.2021 – VI ZR 73/20, NJW 2021, 1886 Rn. 15 (neue Angriffsmittel § 531 ZPO).
 - BGH, Beschl. v. 21.02.2017 – VIII ZB 74/16, NJW 2017, 2273 Rn. 14 (Anforderungen § 551 Abs. 3 ZPO).
 - Heßler, in: Zöller, ZPO, 35. Aufl. 2024, § 520 Rn. 28 ff.
 - Steinmetz, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 520 Rn. 15 ff.
@@ -83,3 +82,11 @@ Schriftsatzformat im deutschen Standard:
 - **Revisionsanforderungen:** § 543 Abs. 2 ZPO – Grundsatzbedeutung oder Sicherung einheitlicher Rechtsprechung; ohne NZB-Begründung keine Revision (§ 544 ZPO).
 - **Verstoß gegen § 138 ZPO:** Wahrheitspflicht; keine Behauptung ins Blaue hinein; Darlegungs- und Beweislast nicht verwechseln.
 - **Berufsrechtliche Hinweispflicht:** Bei überraschenden Rechtswendungen ist der Mandant nach § 43 BRAO zu informieren; kein Schriftsatz ohne Rücksprache versenden.
+
+---
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VI ZR 73/20, NJW 2021, 1886 Rn. 15 (« neue Angriffsmittel § 531 ZPO ») – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt Verletzung des allgemeinen Persönlichkeitsrechts / Bestimmtheit Klageantrags bei Erstbegehungsgefahr (NJW 2021, 1756), nicht neue Angriffsmittel nach § 531 ZPO (dejure.org/2021,4358). Eintrag ersatzlos gelöscht; kein verifizierbarer Ersatz mit identischem NJW-Fundstelle ermittelt.
+Quelle   : https://dejure.org/2021,4358
+Aktion   : Zeile entfernt
+-->

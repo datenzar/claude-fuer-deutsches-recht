@@ -53,9 +53,6 @@ und der anwaltlichen Verschwiegenheitspflicht verbunden:
   Geheimnisbruch durch Anwalt; § 43a BRAO)
 - BGH, Urt. v. 03.05.2007 – IX ZR 218/05, BGHZ 172, 199 Rn. 22
   (Anwaltliche Aufbewahrungspflicht von Handakten; § 50 BRAO)
-- BGH, Urt. v. 10.03.1998 – IX ZR 196/97, NJW 1998, 2048 Rn. 10
-  (Interessenkonflikt; gleichzeitige Vertretung widerstreitender Interessen;
-  Nichtigkeitsfolgen für Honorarvereinbarung)
 - BVerfG, Beschl. v. 12.04.2005 – 2 BvR 1027/02, BVerfGE 113, 29 Rn. 84
   (Schutz von Verteidigungsunterlagen; Rechtsanwalt; § 97 StPO analog)
 
@@ -301,3 +298,11 @@ Bei mandatsspezifischen Hinweisen zur Vertraulichkeit oder Aufbewahrung:
 - Henssler/Prütting, BRAO, 5. Aufl. 2019, § 43a Rn. 40 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 196/97 (behauptetes Thema: Interessenkonflikt, Honorarvereinbarung, NJW 1998 2048) — NOT_FOUND/WRONG: BGH IX ZR 196/97 (17.12.1998) existiert (NJW 1999 1395), betrifft aber internationales Gläubigeranfechtungsrecht; kein Bezug zu Interessenkonflikt. NJW 1998 2048 gehört zu BGH IX ZR 107/97 (Anwaltshaftung/Sachverhaltsaufklärung), ebenfalls kein Bezug zum behaupteten Thema. Eintrag gelöscht.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.12.1998&Aktenzeichen=IX+ZR+196%2F97
+Bundle: bundle_047.json
+-->

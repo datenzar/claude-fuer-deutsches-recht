@@ -61,7 +61,6 @@ Die Zertifizierungen und die EU-US-Datenschutzrahmen sind regelmäßig auf Aktua
 - EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 87: Due Diligence bei US-Anbietern erfordert Transfer Impact Assessment; EU-Sitz-Anforderung nicht absolut.
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 55: Sorgfaltspflicht bei KI-Dienstleister-Auswahl — Verantwortlicher bleibt fuer Entscheidungslogik haftbar.
 - BGH, Urt. v. 17.05.2018 — VII ZR 157/17, NJW 2018, 2412 Rn. 18: AGB-Kontrolle von Haftungsausschluessen bei komplexen IT-Systemen; Dienstleister-Due-Diligence muss Haftungsklauseln pruefen.
-- OLG Muenchen, Urt. v. 09.11.2021 — 33 U 2023/21, NJW-RR 2022, 85 Rn. 18: Sorgfaltspflichtverletzung bei fehlender Pruefung des Drittlandtransfers durch Cloud-Anbieter.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 28 Abs. 1 DSGVO — hinreichende Garantien des Auftragsverarbeiters
@@ -101,3 +100,8 @@ Gesamtbewertung: [FREIGEGEBEN / BEDINGT / ABGELEHNT]
 Auflagen: [BESCHREIBUNG]
 Geprueft von: [NAME], [DATUM]
 ```
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 035:
+- GELOESCHT: OLG Muenchen, 09.11.2021 — 33 U 2023/21, NJW-RR 2022, 85 Rn. 18 (Status: NOT_FOUND; Entscheidung in dejure.org-Datenbank nicht auffindbar; kein Nachweis einer realen Entscheidung dieses AZ bei OLG Muenchen)
+-->

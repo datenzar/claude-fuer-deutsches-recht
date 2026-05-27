@@ -158,7 +158,6 @@ Klassische Stolperfalle in Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht):
 
 ## Aktuelle Rechtsprechung Vergleich Verkehrsrecht
 
-- BGH, Urt. v. 14.06.2022 - VI ZR 217/21, NJW 2022, 2880 — Vergleichskorrektur bei arglistiger Tauschung (§ 123 BGB): wer einen Vergleich durch Verschweigen wesentlicher Schadenstatsachen erlangt, kann Anfechtung entgegengesetzt werden; Wahrheitspflicht gilt auch in Vergleichsverhandlungen.
-- BGH, Urt. v. 30.09.2014 - VI ZR 440/13, NJW 2014, 3667 — Schmerzensgeld-Abfindungsvergleich: Aenderung der Verhaeltnisse nach Vergleichsabschluss (Spatschaden) ergibt keinen Anspruch auf Nachverhandlung, wenn der Vergleich erkennbar eine Gesamtbereinigung bezweckte (Abfindungsklausel).
-- BGH, Urt. v. 11.12.2012 - VI ZR 314/10, NJW 2013, 1159 — Direktanspruch gegen Versicherer (§ 115 VVG): Vergleich mit Schadiger schutzt Versicherer nicht, wenn er keine Partei war; gesonderter Anspruch gegen Versicherer bleibt bestehen.
 - OLG Koeln, Urt. v. 19.03.2019 - 25 U 60/18, NJW-RR 2019, 1232 — Ratenzahlungsvergleich: bleibt Schuldner mit zwei Raten in Verzug, entsteht Faelligkeitsklausel des Gesamtbetrages; Vollstreckung aus dem Vergleichstitel moeglich.
+
+<!-- AUDIT 27.05.2026: BGH VI ZR 217/21 (NOT_FOUND dejure.org), BGH VI ZR 440/13 (NOT_FOUND dejure.org) und BGH VI ZR 314/10 (WRONG_TOPIC: Stasi/Persoenlichkeitsrecht, NJW 2013, 790, nicht Direktanspruch) entfernt. Ersatzlos geloescht gemaess Reparaturauftrag task_275. -->

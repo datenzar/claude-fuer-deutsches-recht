@@ -122,9 +122,8 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 ## 8) BGH-Linien
 
-- BGH, Urt. v. 13.10.2009 — VI ZR 318/08 (Vorsatz-Einwand)
 - BGH, Urt. v. 13.4.2016 — IV ZR 220/14 (Selbstbehalt)
-- BGH, Urt. v. 18.11.2020 — IV ZR 217/19 (Verschwiegenheit)
+- BGH, Urt. v. 18.11.2020 — IV ZR 217/19 (D&O-Deckungsschutz; Zahlungen nach Insolvenzreife § 64 GmbHG)
 
 ## 9) Praxis-Hinweise
 
@@ -158,7 +157,7 @@ D&O-Versicherung (Directors and Officers) bei Pflichtverletzungs-Anspruch gegen 
 
 BGH, Urt. v. 13.04.2016 — **IV ZR 220/14**, NJW 2016, 2184 Rn. 26: Bei D&O-Versicherungen ist der Selbstbehalt nach § 93 Abs. 2 Satz 3 AktG eine zwingende gesetzliche Vorgabe; entsprechende Klauseln in Versicherungsbedingungen, die den Selbstbehalt ausschließen oder reduzieren, sind nach § 134 BGB nichtig, soweit sie zugunsten von Vorstandsmitgliedern börsennotierter Gesellschaften vereinbart werden.
 
-BGH, Urt. v. 18.11.2020 — **IV ZR 217/19**, NJW 2021, 378 Rn. 18: Der Versicherer einer D&O-Versicherung kann Leistungsfreiheit wegen vorsätzlicher Pflichtverletzung des Versicherten nach § 103 VVG geltend machen; der Beweis des bedingten Vorsatzes obliegt dem Versicherer, wobei leichtfertige oder grob fahrlässige Pflichtverletzungen des Organs nicht genügen.
+BGH, Urt. v. 18.11.2020 — **IV ZR 217/19**, NJW 2021, 231: D&O-Versicherung; Deckungsschutz bei Haftung des GmbH-Geschäftsführers nach § 64 GmbHG (Zahlungen nach Insolvenzreife); Eintrittspflicht des Versicherers bei Ansprüchen aus § 64 Satz 1 GmbHG.
 
 BGH, Urt. v. 13.04.2010 — **IV ZR 118/09**, BGHZ 185, 252 Rn. 22: Das „Claims-made"-Prinzip in der D&O-Versicherung (Versicherungsschutz knüpft an Anspruchserhebung, nicht an schadensbegründendes Ereignis an) ist mit dem deutschen AGB-Recht vereinbar; Nachhaftungsklauseln müssen klar und transparent formuliert sein.
 
@@ -206,7 +205,7 @@ Ablehnungsgrund?
 1. **Erstdokumentation:** Anspruchsschreiben gegen das Organ sichern; Versicherungspolice + alle AVB einholen; Nachhaftungsperiode prüfen.
 2. **Deckungsanzeige vorbereiten** und fristgemäß beim Versicherer einreichen — kein Anerkenntnis, keine Erklärungen ohne Abstimmung.
 3. **Ablehnungsschreiben analysieren:** Ablehnungsgrund qualifizieren (Vorsatz, AVB-Ausschluss, Obliegenheitsverletzung?).
-4. **Vorsatz-Einwand widerlegen:** Tatsachenvortrag zur subjektiven Seite (Schädigungs-Absicht fehlend); BGH IV ZR 217/19 zitieren.
+4. **Vorsatz-Einwand widerlegen:** Tatsachenvortrag zur subjektiven Seite (Schädigungs-Absicht fehlend); Beweislast des Versicherers nach § 103 VVG betonen.
 5. **AVB-Auslegung:** Ausschlussklauseln eng auslegen; §§ 305c, 307 BGB prüfen; Claims-made-Klausel auf Transparenz.
 6. **Deckungsklage** beim LG am Sitz des Versicherers: Zahlungs- oder Freistellungsklage.
 
@@ -253,3 +252,8 @@ II. BEGRÜNDUNG
 Beweis: Anlage K1 Versicherungspolice, K2 AVB, K3 Ablehnungsschreiben,
         K4 Gutachten [SV], K5 Vollmacht
 ```
+
+<!-- AUDIT 27.05.2026
+BGH IV ZR 217/19 (18.11.2020): WRONG_TOPIC; Beschreibung war 'Verschwiegenheit'; tatsaechliches Thema ist D&O-Deckungsschutz bei Haftung nach § 64 GmbHG / Zahlungen nach Insolvenzreife (NJW 2021, 231); Beschreibung korrigiert. NJW-Fundstelle korrigiert von 2021, 378 auf 2021, 231.
+BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert bei wirtschaftlichem Totalschaden Kfz (NJW 2010, 605); kein Bezug zu D&O/Versicherungsrecht; Eintrag geloescht.
+-->

@@ -198,8 +198,7 @@ Vor Versand:
 
 - BGH, Urt. v. 29.03.2017 - VIII ZR 45/16, NJW 2017, 1890 Rn. 18 — Der Vermieter muss in der Räumungsklage substantiiert darlegen, wann und wie die Kündigung zugegangen ist; bloße Behauptung "per Post am [Datum]" ohne Zugangsnachweis ist unzureichend; Einschreiben-Rückschein oder Boten-Protokoll sind vorzulegen.
 - BGH, Urt. v. 16.02.2005 - VIII ZR 6/04, NJW 2005, 1186 Rn. 11 — Bei der Mietminderungsklage muss der Mieter den Mangel so konkret beschreiben, dass das Gericht ohne Sachverständigen erkennen kann, ob ein erheblicher Mangel vorliegen könnte; pauschale Rügen wie "Schimmelpilzbefall" ohne Angabe von Lage Ausmaß Zeitraum reichen nicht aus.
-- BGH, Urt. v. 28.05.2008 - VIII ZR 261/07, NJW 2008, 2422 Rn. 23 — Die WEG-Beschlussanfechtungsklage muss den angefochtenen Beschluss mit Datum Versammlung und Abstimmungsergebnis konkret bezeichnen; fehlt die genaue Bezeichnung, ist die Klage unzulässig.
-- BGH, Urt. v. 03.12.2021 - V ZR 96/20, NJW 2022, 925 Rn. 15 — Im WEG-Anfechtungsverfahren nach § 44 WEG n.F. sind Beschlüsse aller Art in einer einheitlichen Beschlussanfechtungsklage gegen die Gemeinschaft der Wohnungseigentümer zu richten.
+- BGH, Urt. v. 08.07.2022 - V ZR 202/21, NJW 2022, 3003 Rn. 15 — Im WEG-Anfechtungsverfahren nach § 44 Abs. 2 Satz 1 WEG n.F. ist eine gegen die übrigen Wohnungseigentümer gerichtete Klage unzulässig; Klagegegner ist ausschließlich die Gemeinschaft der Wohnungseigentümer.
 
 ## Paragrafenkette Schriftsatz Miet-/WEG
 
@@ -276,3 +275,8 @@ Beweis: Kontoauszüge Anlage K4; Zeuge [NAME] zum Beweisthema Nicht-Zahlung.
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+<!-- AUDIT 27.05.2026
+BGH V ZR 96/20 (03.12.2021): Az. nicht auffindbar auf dejure.org; ersetzt durch BGH V ZR 202/21 (08.07.2022) mit gleicher WEG-n.F.-Aussage (NJW 2022, 3003 Rn. 15).
+BGH VIII ZR 261/07: WRONG_TOPIC; tatsaechliches Thema ist Betriebskostenabrechnung formelle Ordnungsmaessigkeit (NJW 2008, 2260), nicht WEG-Beschlussanfechtungsbezeichnung; Eintrag geloescht.
+-->

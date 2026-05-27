@@ -44,8 +44,6 @@ description: "SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Loc
 
 - BGH XII ZR 120/04 (SaaS = Miete).
 - BGH, Urt. v. 23.01.2014 — III ZR 326/12: Haftungsbegrenzung in IT-AGB; Grenze bei grobem Verschulden § 309 Nr. 7 BGB.
-- OLG Frankfurt, Urt. v. 03.06.2021 — 6 U 123/20: SaaS-Preisanpassungsklausel AGB-unwirksam.
-- BGH, Urt. v. 14.12.2017 — VII ZR 217/16: Kündigung aus wichtigem Grund bei dauerhaftem SLA-Unterschreiten.
 
 ## Prüfschema
 
@@ -238,8 +236,7 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 - DSGVO Art. 28, 32, 46, 83
 - EuGH C-311/18 (Schrems II)
 - Commission Implementing Decision 2023/1795 (EU-US DPF)
-- BGH XII ZR 120/04; III ZR 326/12; XIV ZR 217/16
-- OLG Frankfurt 6 U 123/20
+- BGH XII ZR 120/04; III ZR 326/12
 - BSI C5 Anforderungskatalog Cloud Computing
 - ISO/IEC 27001
 
@@ -249,3 +246,7 @@ Pflicht-Inhalte AVV Art. 28 Abs. 3 DSGVO — Checkliste
 - BGH, Urt. v. 15.03.2022 — VIII ZR 1/21, NJW 2022, 1887 Rn. 38: Transparenzgebot § 307 Abs. 1 Satz 2 BGB für IT-AGB; unklare SLA-Klauseln gehen zu Lasten des Verwenders (§ 305c Abs. 2 BGB).
 - EuGH, Urt. v. 16.07.2020 — C-311/18 (Schrems II), NJW 2020, 2557 Rn. 182: SaaS-Verträge mit US-Anbietern erfordern TIA; AVV-Klausel muss SCC-Transfer explizit abdecken (Art. 44 ff. DSGVO).
 - OLG Frankfurt, Urt. v. 17.06.2021 — 14 U 167/20, NJW-RR 2021, 1378 Rn. 22: SLA-Regime als Mangel-Definition; Unterschreitung begründet Minderungsrecht nach § 536 BGB analog; Exit-Klausel muss Datenmigrationspflicht enthalten.
+
+---
+
+> **Audit-Hinweis (27.05.2026):** OLG Frankfurt 6 U 123/20 (SaaS-Preisanpassungsklausel) und BGH VII ZR 217/16 (14.12.2017, Kuendigung wichtiger Grund) konnten auf dejure.org nicht verifiziert werden (NOT_FOUND). Beide Entscheidungen wurden aus dem Skill entfernt (Abschnitte "Entscheidungen" und "Quellen"). Das Thema einseitiger Preisanpassungsklauseln in AGB bleibt rechtlich relevant; massgebliche Normen sind § 308 Nr. 4 BGB und § 309 Nr. 8 BGB. Fuer belegte Rechtsprechung bitte dejure.org konsultieren.

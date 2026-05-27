@@ -48,8 +48,8 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 |---|---|---|
 | BGH I ZR 75/14 | BGH, 11.06.2015 | Tauschbörse III: Sekundäre Darlegungslast des Anschlussinhabers bei Filesharing; Verpflichtung zur zumutbaren Nachforschung und Benennung von Alternativtätern |
 | BGH GRUR 2010, 911 | BGH, 29.04.2010 | Vorschaubilder: Lizenzanalogie als Berechnungsmethode für Schadensersatz; Einwilligung durch Bereitstellung im Internet |
-| BGH I ZR 187/12 | BGH, 13.09.2018 | Lizenzhöhe für einfaches Lichtbild: MFM-Tarife als Ausgangspunkt; Gesamtumstände können zu Reduzierung führen |
-| OLG München 29 U 2911/19 | OLG München, 2020 | Missbrauchseinwand bei Massenabmahnung: hohe Menge ähnlicher Abmahnungen kann Missbrauchsindiz sein (§ 8c UWG analog) |
+| BGH I ZR 187/17 | BGH, 13.09.2018 | Lizenzhöhe für einfaches Lichtbild: MFM-Tarife als Ausgangspunkt; Gesamtumstände können zu Reduzierung führen |
+
 | BGH I ZR 73/17 | BGH, 12.07.2018 | Lizenzbetrag: Rechteinhaber kann Verletzeraufschlag verlangen, aber nur wenn nachgewiesenermaßen Lizenzen angeboten wurden |
 | LG Berlin 15 O 472/21 | LG Berlin, 2022 | § 97a Abs. 3 UrhG: Verbrauchereigenschaft gilt auch für Betreiber kleiner Hobby-Websites ohne kommerzielle Absicht |
 
@@ -67,7 +67,7 @@ Urheberrechtliche Abmahnungen stellen Mandantinnen und Mandanten vor eine doppel
 | 6 | Passivlegitimation: Hat Mandant gehandelt? Sekundäre Darlegungslast bei Filesharing (BGH I ZR 75/14) | § 97 Abs. 1 UrhG |
 | 7 | Erlaubnissachverhalt: § 51 (Zitat), § 51a (Parodie), § 53 (Privatkopie), § 59 (Panorama), Lizenz vorhanden? | §§ 51–59 UrhG |
 | 8 | Verbraucher? § 97a Abs. 3 UrhG: Gegenstandswert EUR 1.000 für Abmahnkosten; kein gewerblicher Kontext? | § 97a Abs. 3 UrhG |
-| 9 | Schadenshöhe bestreiten: MFM-Tarife hinterfragen; BGH I ZR 187/12; Verletzeraufschlag substantiiert? | § 97 Abs. 2 UrhG |
+| 9 | Schadenshöhe bestreiten: MFM-Tarife hinterfragen; BGH I ZR 187/17; Verletzeraufschlag substantiiert? | § 97 Abs. 2 UrhG |
 | 10 | Reaktion festlegen: Modifizierte UE, Zurückweisung, neg. Feststellungsklage, Vergleich | § 256 ZPO |
 | 11 | Unberechtigte Abmahnung: § 97a Abs. 4 UrhG – Gegenanspruch auf Erstattung eigener Anwaltskosten | § 97a Abs. 4 UrhG |
 | 12 | Verjährung prüfen: Verletzungsdatum + 3 Jahre; bei Unkenntnis des Verletzers: kenntnisunabhängige Frist 10 Jahre | § 102 UrhG |
@@ -199,7 +199,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 | Werkqualität § 2 UrhG | Abmahner; bei bekannten Werktypen (Fotografie, Literatur) vermutet; Mandant kann Gegenbeweis führen |
 | Aktivlegitimation | Abmahner trägt Urheberschaft und Lizenzkette vollständig; bloßer Urheberrechtsvermerk reicht nicht |
 | Verletzungshandlung (Filesharing) | Abmahner trägt IP-Zuordnung und Verletzungshandlung; Mandant bedient sekundäre Darlegungslast (BGH I ZR 75/14) |
-| Schadenshöhe | Abmahner; MFM-Tarife sind Ausgangspunkt; Mandant kann Reduzierung beantragen (BGH I ZR 187/12) |
+| Schadenshöhe | Abmahner; MFM-Tarife sind Ausgangspunkt; Mandant kann Reduzierung beantragen (BGH I ZR 187/17) |
 | Missbrauch § 8c UWG analog | Mandant kann Missbrauchsindizien vortragen (Menge der Abmahnungen, Verhältnismäßigkeit) |
 
 ---
@@ -222,7 +222,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 |---|---|
 | „Die Verletzung ist bewiesen durch Screenshot" | Screenshot allein beweist nicht, dass Mandant gehandelt hat; Passivlegitimation ist eigenständig zu prüfen |
 | „§ 97a Abs. 3 UrhG gilt nur bei Privatpersonen" | LG Berlin 15 O 472/21: auch Betreiber kleiner Websites ohne kommerzielle Absicht sind Verbraucher; maßgeblich: keine gewerbliche Tätigkeit im Kontext des Verstoßes |
-| „MFM-Tarife sind verbindlich" | BGH I ZR 187/12: MFM-Tarife sind nur Ausgangspunkt; Gesamtumstände (Alter des Fotos, Verbreitung, Bekanntheit) können zu Reduzierung führen |
+| „MFM-Tarife sind verbindlich" | BGH I ZR 187/17: MFM-Tarife sind nur Ausgangspunkt; Gesamtumstände (Alter des Fotos, Verbreitung, Bekanntheit) können zu Reduzierung führen |
 | „Verletzeraufschlag von 100 % ist üblich" | BGH I ZR 73/17: Aufschlag nur gerechtfertigt wenn Rechteinhaber nachweislich Lizenzen angeboten hat und deren Verweigerung einen konkreten Nachteil darstellt |
 | „Unberechtigte Abmahnung hat keine Konsequenzen" | § 97a Abs. 4 UrhG: Abgemahnter kann Rechtsanwaltskosten der Zurückweisung erstattet verlangen |
 
@@ -246,7 +246,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 |---|---|
 | Massenabmahnung bekannter Kanzlei (Fotos) | Prüfen ob Massenabmahnungsindiz; § 8c UWG analog vortragen; modifizierte UE + Kosten begrenzen |
 | Filesharing, unklare Täterschaft | Sekundäre Darlegungslast (BGH I ZR 75/14) bedienen; Täterschaft konsequent bestreiten |
-| Schadensersatz überhöht | BGH I ZR 187/12 einwenden; MFM-Tarife hinterfragen; Verletzeraufschlag angreifen |
+| Schadensersatz überhöht | BGH I ZR 187/17 einwenden; MFM-Tarife hinterfragen; Verletzeraufschlag angreifen |
 | Erlaubnissachverhalt möglich | Lizenz, Zitatrecht, Parodie prüfen und konkret vortragen; erheblich Kosten sparen |
 | Verjährung droht | Prüfen ob Verletzungszeitpunkt + 3 Jahre bereits abgelaufen; Verjährungseinrede § 102 UrhG |
 
@@ -263,7 +263,7 @@ erstatten. Andernfalls werden wir Klage erheben.
 
 ## Quellen
 
-UrhG §§ 2, 7, 16–17, 19a, 31, 51–59, 69a, 72, 97, 97a, 101, 102. UWG § 8c. BGB § 242. ZPO §§ 256, 945a. BGH I ZR 75/14 (Tauschbörse III). BGH GRUR 2010, 911 (Vorschaubilder). BGH I ZR 187/12 (Lizenzbetrag Foto). BGH I ZR 73/17 (Verletzeraufschlag). OLG München 29 U 2911/19 (Massenabmahnung). LG Berlin 15 O 472/21 (§ 97a Abs. 3 UrhG). Dreier/Schulze UrhG, aktuelle Auflage. Wandtke/Bullinger UrhG. Stand: 05/2026.
+UrhG §§ 2, 7, 16–17, 19a, 31, 51–59, 69a, 72, 97, 97a, 101, 102. UWG § 8c. BGB § 242. ZPO §§ 256, 945a. BGH I ZR 75/14 (Tauschbörse III). BGH GRUR 2010, 911 (Vorschaubilder). BGH I ZR 187/17 (Lizenzbetrag Foto). BGH I ZR 73/17 (Verletzeraufschlag). LG Berlin 15 O 472/21 (§ 97a Abs. 3 UrhG). Dreier/Schulze UrhG, aktuelle Auflage. Wandtke/Bullinger UrhG. Stand: 05/2026.
 
 ## Triage-Fragen bei Urheberrechts-Abmahnungs-Mandat
 
@@ -280,3 +280,11 @@ Bevor die Abmahnung bewertet und eine Reaktion empfohlen wird, klaere:
 > **BGH, Urt. v. 30.03.2017 — I ZR 124/16 (Loud):** Die EUR 1.000-Kostendeckelung des § 97a III UrhG gilt nur fuer erstmalige Abmahnungen von Privatpersonen bei einfachen Verletzungshandlungen; bei Wiederholungsverletzer oder gewerblichem Handeln entfaellt die Deckelung, und der Streitwert kann auf EUR 10.000 und mehr angehoben werden.
 
 > **BGH, Urt. v. 06.12.2017 — I ZR 186/16 (Konferenz der Tiere):** Wer als Abmahnender die Unterlassungserklaerung des Verletzers nicht annimmt, obwohl sie die geltend gemachte Verletzungsform vollstaendig abdeckt, kann seinem Kostenerstattungsanspruch verlustig gehen; eine „modifizierte Unterlassungserklaerung" beseitigt die Wiederholungsgefahr nur, wenn sie die abgemahnte Handlung klar abdeckt.
+
+---
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 026:
+- OLG München 29 U 2911/19 (Massenabmahnung § 8c UWG analog): Aktenzeichen nicht auf dejure.org auffindbar; gesamte Tabellenzeile sowie Quellenangabe gelöscht.
+- BGH I ZR 187/12 (alle Vorkommen): Existiert auf dejure.org als BGH 24.09.2013, Thema GEMA/Verrechnung von Musik in Werbefilmen – nicht Lichtbild/MFM-Lizenz. Korrektes AZ für den Lichtbild-Lizenzfall (13.09.2018, MFM-Tarife) ist BGH I ZR 187/17. Alle Referenzen auf 187/12 mit Datum 13.09.2018 auf I ZR 187/17 korrigiert.
+-->

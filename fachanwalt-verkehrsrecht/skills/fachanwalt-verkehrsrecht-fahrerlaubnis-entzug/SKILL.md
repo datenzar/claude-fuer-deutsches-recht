@@ -40,7 +40,7 @@ description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entzi
 | BGH | 4 StR 200/03 | 05.11.2003 | Anrechnung vorläufige Entziehung auf Sperrfrist § 69a Abs. 7 StGB |
 | BVerwG | 3 C 45.15 | 17.03.2016 | Cannabis-Eignung; gelegentlicher Konsum + fehlende Trennungsfähigkeit = Entziehung |
 | BVerwG | 3 C 15.10 | 26.09.2013 | Gelegenheitskonsum Cannabis; kein automatischer Entzug; Trennungsfähigkeit entscheidend |
-| OVG NRW | 16 B 1120/19 | 08.11.2019 | MPU-Anordnung Ermessen; Eignung kann anderweitig belegt werden |
+
 | VGH Bayern | 11 CS 20.1780 | 10.11.2020 | Haaranalyse als Abstinenznachweise; Zeitraum mindestens 6 Monate |
 
 ## Prüfschema in Tabellenform
@@ -283,4 +283,10 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-StGB §§ 69, 69a; StPO §§ 111a, 304; StVG §§ 3, 4, 24a, 25, 29; FeV §§ 11–14, 20, 46; VwGO §§ 42, 70, 74, 80; BGH 4 StR 479/93; BGH 4 StR 200/03; BVerwG 3 C 45.15; BVerwG 3 C 15.10; OVG NRW 16 B 1120/19; VGH Bayern 11 CS 20.1780; Hentschel/König/Dauer Straßenverkehrsrecht 47. Aufl. 2023; Burhoff Handbuch des Verkehrsrechts.
+StGB §§ 69, 69a; StPO §§ 111a, 304; StVG §§ 3, 4, 24a, 25, 29; FeV §§ 11–14, 20, 46; VwGO §§ 42, 70, 74, 80; BGH 4 StR 479/93; BGH 4 StR 200/03; BVerwG 3 C 45.15; BVerwG 3 C 15.10; VGH Bayern 11 CS 20.1780; Hentschel/König/Dauer Straßenverkehrsrecht 47. Aufl. 2023; Burhoff Handbuch des Verkehrsrechts.
+
+---
+
+<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
+AZ geprüft: OVG NRW 16 B 1120/19 (WRONG_TOPIC — tatsächlich Konkurrentenstreit Schwerbehinderung Senat 6, nicht MPU-Anordnung Senat 16; AZ auf dejure.org nicht auffindbar). Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. Kein Ersatz gefunden. Alle übrigen AZ in diesem Skill wurden nicht beanstandet. Frontmatter unverändert.
+-->

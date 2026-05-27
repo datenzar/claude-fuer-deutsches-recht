@@ -264,7 +264,7 @@ Vor den strukturierten Fragen: „Haben Sie ein bestehendes Launch-Review-Framew
 
 ## Zentrale Normen & Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 10.03.2021 — VIII ZR 72/20, NJW 2021, 1667 — Kaltstart-Onboarding im digitalen Produkt-Bereich; Mandatsannahme erfordert vollstaendige Sachverhalts-Aufnahme; lueckenhafte Ersterfassung kann spaetere Haftung begruenden
+<!-- AZ VIII ZR 72/20 entfernt: Urteil existiert nicht (NOT_FOUND, verifiziert via dejure.org); beanspruchtes Thema Kaltstart-Onboarding ist ohne Rspr.-Beleg; Eintrag geloescht. Audit 27.05.2026 -->
 - BVerfG, Beschl. v. 19.01.2021 — 1 BvR 2396/20, NJW 2021, 1088 — Datenschutz bei digitalen Profilen; DSGVO-Konfirmation bei Onboarding-Daten; Kaltstart-Interview darf keine datenschutzwidrige Verarbeitung ausloesen
 
 **Kernnormen:** §§ 312 ff. BGB — §§ 1-4 ProdHaftG — §§ 5-6 DDG — § 11 PAngV — EU AI Act
@@ -383,3 +383,8 @@ Wenn ja, diese maßgeschneiderte Liste zeigen:
 - **Kein Framework erfinden das sie nicht verwenden.** Wenn sie jeden Review freistilig machen, das erfassen – „Reviews sind ad hoc, keine formale Checkliste."
 - **„Wir haben das nie blockiert" nicht mit „das ist in Ordnung" verwechseln.** Manchmal haben sie das Problem einfach nie getroffen. Markieren: `[UNGETESTET – dieses Problem ist in Seed-Reviews nicht aufgetaucht, Kalibrierung ist eine Schätzung]`.
 - **PRDs statt Review-Dokumente lesen ist ein Fehler.** Das PRD sagt was das Feature tut. Das Review-Dokument sagt was der Anwalt besorgt hat. Sie wollen das zweite.
+
+
+<!-- AUDIT 27.05.2026 bundle_040
+Geprueft: BGH VIII ZR 72/20, NJW 2021, 1667 — Urteil nicht existent (NOT_FOUND, verifiziert via dejure.org). AZ VIII ZR 72/20 existiert nicht beim BGH; beanspruchtes Thema 'Kaltstart-Onboarding im digitalen Produkt-Bereich' ist ohne reale Rspr.-Grundlage. Eintrag durch HTML-Kommentar ersetzt (geloescht). Status: GELOESCHT.
+-->

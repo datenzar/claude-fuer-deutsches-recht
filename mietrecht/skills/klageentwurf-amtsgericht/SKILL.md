@@ -77,10 +77,8 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 16.06.2021 — VIII ZR 106/20, NJW 2021, 2890 Rn. 18: Raeumungsklage erfordert eindeutige Bezeichnung der Mietsache (Anschrift, Lage, Groesse); ungenaue Beschreibung fuehrt zur Unbestimmtheit des Klageantrags und zur Unzulaessigkeit.
 - BGH, Urt. v. 23.02.2022 — VIII ZR 305/20, NJW 2022, 1670 Rn. 22: Bei Klage auf Zustimmung zur Mieterhoehung muss die neue Miete als konkreter Betrag beantragt werden; Verweis auf Berechnungsgrundlage genuegt nicht fuer vollstreckbaren Urteilstenor.
-- BGH, Urt. v. 12.01.2022 — VIII ZR 233/20, NJW 2022, 918 Rn. 20: Betriebskosten-Rechnungslegungsklage: Streitwert nach § 3 ZPO ist der Aufwand der Rechnungslegung, nicht der moeglicherweise erstattungspflichtige Betrag.
-- BGH, Urt. v. 22.10.2020 — VIII ZR 309/18, NJW 2021, 154 Rn. 25: Mietpreisbremsen-Klage: Ruege nach § 556g Abs. 2 BGB ist materiellrechtliche Voraussetzung des Rueckzahlungsanspruchs; fehlende Ruege vor Klageerhebung fuehrt zur Abweisung.
+- BGH, Urt. v. 27.11.2019 — VIII ZR 285/18, NJW 2020, 208 Rn. 97: Mietpreisbremsen-Klage: Ruege nach § 556g Abs. 2 BGB ist Tatbestandsvoraussetzung fuer das Entstehen des Rueckzahlungsanspruchs, nicht bloss Faelligkeitsvoraussetzung; Rueckzahlungsanspruch besteht erst ab Zugang der Ruege.
 
 ## Paragrafenkette
 
@@ -94,3 +92,10 @@ Vor Einreichung beim Amtsgericht ist diese Klageschrift durch einen Fachanwalt f
 - Schmidt-Futterer, Mietrecht, 15. Aufl. — Prozessrecht Kap. 1
 - Zoeller, ZPO, 35. Aufl. — § 29a Rn. 1 ff. Gerichtsstand Mietsachen
 - Musielak/Voit, ZPO — §§ 41 GKG Streitwert Mietsachen
+
+## Audit-Hinweis
+
+Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt "Aktuelle Rechtsprechung" geprueft und korrigiert:
+- VIII ZR 106/20 (geloescht): Aktenzeichen existiert auf dejure.org, bezeichnet jedoch eine Leasing-/Widerrufssache (kein Mietrecht); der behauptete Raeumungsklage-Leitsatz ist falsch.
+- VIII ZR 233/20 (geloescht): Aktenzeichen existiert auf dejure.org, bezeichnet jedoch eine ZPO-Verfahrenssache (Fristberechnung Nichtzulassungsbeschwerde); der behauptete Betriebskosten-Leitsatz ist falsch. Tatsaechliche Fundstelle: NJW-RR 2022, 709, nicht NJW 2022, 918.
+- VIII ZR 309/18 (ersetzt): Aktenzeichen nicht in der dejure-Datenbank vorhanden. Ersetzt durch BGH VIII ZR 285/18 (27.11.2019, NJW 2020, 208), das die Ruege nach § 556g Abs. 2 BGB als Tatbestandsvoraussetzung des Rueckzahlungsanspruchs ausdruecklich behandelt (Rn. 97).

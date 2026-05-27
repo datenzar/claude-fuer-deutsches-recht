@@ -65,7 +65,7 @@ Manche Fragen sind auf der Oberfläche in Ordnung haben aber eine Wendung. Das M
 | „Können wir die Preisseite A/B-testen?" | Differenzierte Preise nach Segment können Verbraucherschutz (§ 3 UWG) und AGG-Fragen auslösen | „Sehen beide Seiten dieselben Preise für dieselbe Sache? Wie werden Nutzer zugewiesen?" |
 | „Können wir Nutzer automatisch für das neue Feature einschreiben?" | Standard-An-Verhalten für Nutzer die vorher optiert haben kann Einwilligungs- und Verbraucherschutzregeln berühren (§ 25 TDDDG, Art. 7 DSGVO) | „Respektiert das bestehende Einstellungen?" |
 | „Können wir Kundenlogos auf der Website verwenden?" | Logo-Nutzung ist ein eigenes Erlaubniserfordernis vom Vertragsverhältnis – möglicher MarkenG-Verstoß + Vertragsklausel | „Was sagt der Vertrag über Öffentlichkeitsarbeit? Haben wir schriftliche Erlaubnis?" |
-| „Können wir auf diesen Daten trainieren?" | Nutzungsrechte für den ursprünglichen Erhebungszweck erstrecken sich möglicherweise nicht auf Training – vgl. DSGVO Art. 5 Abs. 1 lit. b (Zweckbindung), BGH, Urt. v. 27.07.2020 – VI ZR 405/18 | „Was haben wir Nutzern bei der Erhebung mitgeteilt? In welchen Jurisdiktionen sind die Nutzer?" |
+| „Können wir auf diesen Daten trainieren?" | Nutzungsrechte für den ursprünglichen Erhebungszweck erstrecken sich möglicherweise nicht auf Training – vgl. DSGVO Art. 5 Abs. 1 lit. b (Zweckbindung) | „Was haben wir Nutzern bei der Erhebung mitgeteilt? In welchen Jurisdiktionen sind die Nutzer?" |
 | „Es ist nur ein internes Tool" | Interne Tools verarbeiten trotzdem personenbezogene Daten – Art. 3 DSGVO kennt keine „intern"-Ausnahme | „Wessen Daten berührt es? Mitarbeiter, Kunden, Dritte?" |
 | „Wir machen schon etwas Ähnliches" | „Ähnlich" macht viel Arbeit – das Delta ist meistens wo die Frage liegt | „Ähnlich wie? Was ist tatsächlich anders?" |
 | „Können wir [KI-Anbieter / KI-System] dafür verwenden?" | Anbieter-KI-Bedingungen können Training auf Eingaben erlauben; Nutzungsfall braucht möglicherweise KI-Folgenabschätzung (KI-VO Art. 9) – weiterleiten an `/ki-governance:anwendungsfall-triage` | „Gibt es einen KI-Zusatz? Welche Daten gehen ins Modell?" |
@@ -147,3 +147,6 @@ Typische Schnellzitate für häufige Konstellationen:
 - Streichpreise: § 11 PAngV; BGH, Urt. v. 20.10.2022 – I ZR 107/21
 - Impressumspflicht: § 5 DDG; § 16 DDG (Bußgeld bis 50.000 €)
 - Dark Patterns: § 3 UWG; Köhler, in: Köhler/Bornkamm/Feddersen UWG, 42. Aufl. 2024, § 3 Rn. 1 ff.
+
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VI ZR 405/18 (claimed: Nutzungsrechte fuer AI-Training, Zweckbindung): WRONG_TOPIC. Urteil existiert (dejure.org/2020,20251, 27.07.2020, NJW 2020, 3436), behandelt aber Delisting-Ansprueche gegen Suchmaschinenbetreiber (Recht auf Vergessenwerden, Art. 17 DSGVO). Kein Bezug zu AI-Training. BGH-Zitat aus Tabellenzeile entfernt; DSGVO Art. 5 Abs. 1 lit. b Verweis beibehalten. -->

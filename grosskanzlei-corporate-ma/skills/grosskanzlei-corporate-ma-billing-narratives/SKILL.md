@@ -25,7 +25,6 @@ Vor der Erstellung von Billing Narratives klaeren:
 
 - BGH, Urt. v. 05.06.2014 – IX ZR 137/12, NJW 2014, 2653 Rn. 18 — Anwaltliche Honorarvereinbarung nach § 3a RVG: Textformerfordernis zwingend; muendliche Abrede genuegt auch bei Kaufleuten nicht; Vereinbarung ist bei Formverstos nichtig, Anwalt kann nur RVG-Gebuehren verlangen.
 - BGH, Urt. v. 23.10.2003 – IX ZR 27/02, NJW 2004, 1169 Rn. 12 — Erfolgshonorar unzulaessig bei unklarer Vereinbarung; § 49b Abs. 2 BRAO: Erfolgshonorar nur bei Einzel-/Verbraucherfall nach § 4a RVG zulaessig.
-- BGH, Urt. v. 30.09.2010 – IX ZR 70/09, NJW 2011, 63 Rn. 15 — Abrechenbarkeit eines M&A-Beraterhonorars: Leistung muss nachweisbar erbracht sein; Time Sheets als Beweismittel; Pauschalabrede ohne Leistungsnachweise ist riskant.
 - BFH, Urt. v. 22.04.2015 – XI R 10/14, BStBl. II 2015, 847 — Rechnungspflichtangaben nach § 14 UStG: Bei fehlerhafter Rechnung kein Vorsteuerabzug fuer Mandant; Kanzlei haftet.
 
 ## Kommentarliteratur
@@ -203,3 +202,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - Mayer, in: Gerold/Schmidt, RVG, 26. Aufl. 2023, § 3a Rn. 5 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+<!-- AUDIT 27.05.2026 bundle_004 -->
+**Halluzinations-Audit 27.05.2026**
+- BGH IX ZR 70/09 (behauptet Urt. v. 30.09.2010, NJW 2011 63): Auf dejure.org nicht gefunden (weder IX ZR 70/09 noch ein BGH-Urteil dieses Datums mit diesem AZ). Laut Bundle-Hinweis existiert ein II ZR 70/09 (10.05.2010, GmbH-Recht, falscher Senat). Eintrag geloescht.
+- Art. 3 RL 2014/55/EU (Normenreferenz): Korrekte Gesetzesangabe, kein Gerichtsurteil; verbleibt unveraendert im Normen-Abschnitt.

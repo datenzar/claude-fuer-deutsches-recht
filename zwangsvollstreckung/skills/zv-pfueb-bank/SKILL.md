@@ -59,7 +59,6 @@ Rechtsquellen: BT-Drs. 21/4815, Bundestagsbeschluss 19.3.2026, Verkündung im BG
 - BGH 13.7.2017 – IX ZB 33/16 (Pfändung des gesamten Kontoguthabens zulässig)
 - BGH 4.12.2014 – VII ZB 8/13 (Reichweite der Anschlusspfändung)
 - BGH 21.11.2013 – IX ZR 52/13 (P-Konto und Vorrang)
-- BGH 25.4.2024 – IX ZR 116/23 (Drittschuldnererklärung Form und Frist)
 
 ## Ausgabeformat
 
@@ -94,3 +93,5 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 - `zv-pfaendungstabelle-2025` – Freibeträge bei Lohnzufluss
 - `zv-elektronische-zustellung-2027` – operative Umsetzung ZVollstrDigitG
 - `zv-abwehr-schuldner` – Schuldnersicht
+
+<!-- AUDIT 27.05.2026: BGH IX ZR 116/23 aus "Leitentscheidungen" entfernt — NOT_FOUND. Auf dejure.org ist IX ZR 116/23 nicht nachweisbar. Das tatsächlich existierende AZ IX ZR 116/21 (25.05.2023) betrifft Factoring und Wissenszurechnung (NJW-RR 2023, 1413) — kein Bezug zu Drittschuldnererklärung Form und Frist. Streichung wegen fehlendem Nachweis und falschem Thema. -->

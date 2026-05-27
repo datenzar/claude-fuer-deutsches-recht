@@ -52,7 +52,6 @@ description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner
 | OLG Düsseldorf | I-6 U 104/13 | 2014 | Art. 79 CISG force majeure: Rohstoffpreisexplosion kein Hindernis; wirtschaftliche Unzumutbarkeit nicht erfasst |
 | BGH | VIII ZR 283/17 | 2019 | Art. 74 CISG: Vorhersehbarkeit des Schadens bei Vertragsschluss; Lieferant kennt Produktionsplanung des Käufers nicht per se |
 | ICC Schied | 13194/MS | 2013 | Art. 35 CISG Beschaffenheit: Abweichung von Probe = Vertragsverletzung auch ohne ausdrückliche Vereinbarung |
-| BGH | VIII ZR 355/13 | 2016 | Art. 6 CISG Abbedingung: bloße Verweisung auf "AGB des Käufers" schließt CISG nicht aus; ausdrückliche Ausschlussklausel erforderlich |
 
 ## Prüfschema
 
@@ -293,3 +292,8 @@ Parteien: [KLAEGER, SITZ] ./. [BEKLAGTER, SITZ]
 4. Ergebnis:
    [Anspruch begrundet / verjährt / praekkludiert]
 ```
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ: BGH VIII ZR 355/13 — auf dejure.org nicht auffindbar (NOT_FOUND); Eintrag in Leitentscheidungen-Tabelle entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->

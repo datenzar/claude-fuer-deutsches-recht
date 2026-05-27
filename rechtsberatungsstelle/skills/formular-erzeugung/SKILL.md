@@ -30,7 +30,6 @@ Die Trennung zwischen „Formularerstellung" und „Schriftsatzerstellung" war i
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 14.01.2016 – IX ZR 115/15, NJW 2016, 957 Rn. 12 — Beratungshilfe: Anwaltliche Pflicht zur vollständigen Prüfung der Anspruchsvoraussetzungen vor Antragstellung; kein bloßes „Ausfüllen" eines Formulars.
 - BGH, Urt. v. 10.10.2013 – IX ZR 337/12, NJW 2014, 145 Rn. 8 — PKH-Antrag: Vollständige Darlegung der wirtschaftlichen Verhältnisse als Wirksamkeitsvoraussetzung; unvollständige Angaben führen zu Ablehnung.
 - BVerfG, Beschl. v. 14.07.1987 – 1 BvR 537/81, NJW 1988, 191 — Recht auf Zugang zu Rechtsberatung; Beratungshilfe als Grundlage für die Formularerstellung im sozialen Bereich.
 - BVerwG, Urt. v. 25.03.2019 – 2 C 11/18, NVwZ 2019, 1050 Rn. 10 — Formvoraussetzungen behördlicher Antragsformulare; fehlerhafte Formulare können Fristen versäumen lassen.
@@ -86,3 +85,10 @@ Der Befehl `/entwurf` füllt das Formular BerH 1 aus den Fallnotizen, kennzeichn
 Nicht anwendbar (Weiterleitungs-Skill). Für alle Quellenangaben bei konkreten Schriftstücken und Formularen: `skills/entwurf/SKILL.md`, Sektion „Quellenpflicht".
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026
+Geprueft: BGH IX ZR 115/15
+Befund: GELOESCHT. Echtes Datum 22.10.2015 (Skill hatte 14.01.2016); echtes Thema Streitwert der Vollstreckungsgegenklage (§§ 3, 4 ZPO) — kein Bezug zu Beratungshilfe oder anwaltlicher Antragspruefungspflicht. Quelle: dejure.org/2015,32471. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
+-->

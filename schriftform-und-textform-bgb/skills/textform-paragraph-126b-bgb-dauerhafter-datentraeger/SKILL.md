@@ -27,10 +27,6 @@ Der BGH hat in der Leitentscheidung zum Maklervertrag § 656a BGB bestätigt:
 
 > **Kritischer Lehrsatz**: Bei Verstoß gegen die Textform des § 656a BGB ist nicht nur der Maklervertrag unwirksam — auch ein Bereicherungsanspruch auf Rückgewähr bereits gezahlter Provision ist nach dem Schutzzweck des § 656a BGB ausgeschlossen.
 
-### BGH VIII ZR 215/19 — Textform Mieterhöhung
-
-Mieterhöhungsverlangen per E-Mail erfüllt die Textform des § 558a Abs. 1 BGB, wenn die E-Mail dauerhaft gespeichert werden kann und die weiteren Anforderungen des § 126b BGB vorliegen.
-
 ## Workflow
 
 ### Drei-Stufen-Prüfung Textform
@@ -118,3 +114,9 @@ Begründung: [Vergleichswohnungen / Mietspiegel / Sachverständigengutachten]
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` (Abgrenzung)
 - → `formerfordernisse-im-bgb-ueberblick`
 - → `dokumentations-und-beweisarchitektur` (Sicherung WhatsApp/E-Mail)
+
+<!-- AUDIT 27.05.2026 bundle_043
+Problem: BGH VIII ZR 215/19 (Abschnitt "BGH-Linie") war NOT_FOUND — Aktenzeichen existiert nicht als Entscheidung zur Textform Mieterhöhung.
+Maßnahme: Abschnitt "BGH VIII ZR 215/19 — Textform Mieterhöhung" vollständig gelöscht. Die Aussage (E-Mail erfüllt Textform § 558a Abs. 1 BGB) ist inhaltlich richtig, aber dem Fake-AZ nicht zuzuordnen.
+BGH I ZR 202/25 (11.03.2026, Maklervertrag) bleibt erhalten — Entscheidung ist real und bestätigt.
+-->

@@ -30,7 +30,7 @@ Die Verfahrenschronologie erfasst alle prozessualen Schritte in zeitlicher Reihe
 
 - BGH, Beschl. v. 14.01.2020 - VIII ZB 4/19, NJW 2020, 757 — Zur Berechnung der Berufungsfrist: Fristbeginn ist der Tag der Zustellung, nicht der Tag der Kenntnisnahme; Zustellungsurkunde ist massgeblicher Nachweis.
 - BGH, Beschl. v. 22.05.2019 - VII ZB 53/17, NJW 2019, 2479 — Fehlerhafte Zustellung setzt Fristlauf nicht in Gang; Partei kann sich auf Fehler der Zustellung berufen auch wenn tatsächliche Kenntnis vorhanden war.
-- BGH, Beschl. v. 26.11.2019 - VIII ZB 67/18, NJW 2020, 384 — Zur Schriftsatzfrist des § 132 Abs. 3 ZPO: richterliche Verlängerung setzt erhebliche Gründe voraus; wiederholte Verlängerung erhöht Anforderungen.
+- BGH, Beschl. v. 09.05.2017 - VIII ZB 69/16, NJW 2017, 2041 — Zur Fristverlängerung der Berufungsbegründungsfrist (§ 520 Abs. 2 Satz 3 ZPO): Hinweis auf Arbeitsüberlastung genügt als erheblicher Grund; bei erstem Antrag keine hohen Substantiierungsanforderungen.
 - BGH, Urt. v. 05.03.2015 - III ZR 55/14, NJW 2015, 1872 — Prozessuale Fristen nach Urteilsverkündung: Revisionsfrist läuft auch wenn schriftliches Urteil noch nicht vorliegt; Verkündung allein reicht aus.
 
 ## Kommentarliteratur
@@ -112,3 +112,7 @@ Jede prozessrelevante Frist wird hervorgehoben und ans Ende der Chronologie als 
 - [ ] Fristentabelle vorhanden?
 - [ ] Keine außerprozessualen Ereignisse enthalten?
 - [ ] Zustellungsdaten als Grundlage der Fristberechnung angegeben?
+
+---
+
+> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat entfernt und ersetzt. BGH VIII ZB 67/18 (behauptet: 26.11.2019, NJW 2020, 384, § 132 Abs. 3 ZPO Schriftsatzfrist) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Ersetzt durch verifiziertes Zitat BGH VIII ZB 69/16 (09.05.2017, NJW 2017, 2041) zu Fristverlängerungsantrag und erheblichen Gründen nach § 520 Abs. 2 Satz 3 ZPO.

@@ -136,7 +136,6 @@ Prüfung, ob das UN-Kaufrecht (CISG) auf grenzüberschreitenden Warenkauf anwend
 ### Ergaenzende Leitsaetze
 
 - BGH, Urt. v. 25.11.1998 - VIII ZR 259/97, NJW 1999, 1260 — CISG gilt auch fuer Kauf von Computeranlage als Ware; gemischte Kauf/Dienstleistungsvertraege nach Art. 3 Abs. 2 CISG: Schwerpunkt Ware oder Dienstleistung entscheidend.
-- BGH, Urt. v. 12.02.2014 - VIII ZR 42/13, NJW 2014, 1668 Rn. 22 — CISG-Gewaehrleistung: Art. 35 CISG: Verkaefer haftet fuer zugesicherte Eigenschaft; Beschaffenheitsvereinbarung nach CISG weiter als nach deutschem Recht.
 - OLG Frankfurt, Urt. v. 17.09.2014 - 4 U 97/14, IPRax 2015, 344 — CISG schliesst ergaenzende Anwendung deutschen AGB-Rechts aus soweit CISG Frage abschliessend regelt.
 
 ### Output-Template Checkliste CISG-Anwendbarkeit
@@ -155,3 +154,8 @@ ERGEBNIS:
 [ ] CISG ANWENDBAR
 [ ] CISG NICHT ANWENDBAR → Anwendbares Recht nach Rom I
 ```
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ: BGH VIII ZR 42/13 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Ergänzende Leitsätze) entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->

@@ -53,11 +53,6 @@ Tarifvertrag und bestehende Zusagen geprüft werden sollen.
 
 **Leitentscheidungen:**
 
-- BAG, Urt. v. 11.04.2006 – 9 AZR 557/05, NZA 2006, 1149 Rn. 20 ff.:
-  AGB-Kontrolle von Handbuchregelungen, die durch Bezugnahmeklausel
-  einbezogen wurden; überraschende Klauseln nach § 305c BGB;
-  Transparenzgebot nach § 307 Abs. 1 S. 2 BGB; Reichweite der
-  Inhaltskontrolle bei Arbeitsregelungen
 - BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 Rn. 31:
   Betriebliche Übung als Anspruchsgrundlage; einseitige Verschlechterung
   einer durch betriebliche Übung entstandenen Leistungspflicht unwirksam;
@@ -276,7 +271,6 @@ Jede Ausgabe dieser Skill zitiert je nach Relevanz:
 - §§ 305 ff. BGB (AGB-Kontrolle), § 307 BGB (Inhaltskontrolle)
 - § 2 NachwG (Nachweispflicht)
 - § 26 BDSG, Art. 88 DSGVO (Beschäftigtendatenschutz)
-- BAG, Urt. v. 11.04.2006 – 9 AZR 557/05, NZA 2006, 1149 (AGB-Kontrolle)
 - BAG, Urt. v. 12.01.2005 – 5 AZR 364/04, NZA 2005, 465 (betriebliche Übung)
 - BAG, Urt. v. 23.01.2018 – 1 AZR 65/17, NZA 2018, 735 (Mitbestimmung)
 - Erfurter Kommentar/Kania, 24. Aufl. 2024, § 87 BetrVG Rn. 1 ff.
@@ -307,3 +301,8 @@ Anpassungsbedarf.
 
 - **BAG, Urt. v. 16.12.2021 — 7 AZR 432/20**, NZA 2022, 589 — Betriebliche Übung durch drei gleichförmige Gewährungen einer Leistung; einseitige Verschlechterung erfordert Änderungskündigung oder individualvertragliche Vereinbarung; pauschale Disclaimer-Klausel im Handbuch schließt betriebliche Übung nur aus, wenn sie klar und deutlich formuliert ist.
 - **BAG, Urt. v. 24.03.2021 — 10 AZR 16/20**, NZA 2021, 842 — Transparenzgebot § 307 Abs. 1 S. 2 BGB bei vorformulierten Arbeitsrichtlinien; unklare Klauseln über Geltungsbereich oder Ausnahmen gehen zu Lasten des Verwenders.
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 014:
+- BAG 9 AZR 557/05 (NZA 2006, 1149) entfernt: Urteil betrifft AGB-Kontrolle von Versetzungsklauseln (Redakteurin, billigem Ermessen), nicht AGB-Kontrolle von Handbuchregelungen/Bezugnahmeklausel wie behauptet. Quelle: dejure.org. Kein verifizierbarer Ersatz gefunden; Eintrag gelöscht.
+-->

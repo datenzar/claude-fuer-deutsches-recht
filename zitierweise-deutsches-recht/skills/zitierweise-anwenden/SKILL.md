@@ -32,7 +32,6 @@ Diese Hauszitierweise ist eine pragmatische Repository-Konvention. Sie ist inner
 
 Der Marker `Az.` steht direkt vor dem Aktenzeichen und ist Pflichtbestandteil.
 
-- BGH, Urt. v. 13.07.2022 – Az. VIII ZR 317/21, NJW 2022, 2754 Rn. 21.
 - BVerfG, Beschl. v. 06.11.2019 – Az. 1 BvR 16/13, BVerfGE 152, 152 Rn. 78 – „Recht auf Vergessen I".
 - BAG, Urt. v. 16.12.2021 – Az. 2 AZR 235/21, NZA 2022, 487 Rn. 32.
 - EuGH, Urt. v. 04.07.2023 – Az. C-252/21 (Meta Platforms), NJW 2023, 2997 Rn. 113.
@@ -165,3 +164,5 @@ Die vollständige Hauszitierweise — einschließlich aller Kommentar-Kürzel, Z
 - **`methodenlehre-buergerliches-recht`** — Jede juristische Bewertung folgt der dortigen Methodik; die Zitierweise belegt die Aussagen.
 - **`kanzlei-builder-hub/skills/fundstellenglattzieher`** — Setzt die Palandt-Regel automatisch durch (Treffer werden als `[FUNDSTELLE PRÜFEN — PALANDT]` markiert).
 - Alle Klotzkette-Rechtsgebiet-Plugins setzen diese Zitierweise als Hausstandard voraus.
+
+<!-- AUDIT 27.05.2026: BGH VIII ZR 317/21 aus dem Beispielblock "Rechtsprechung — Schema und Beispiele" entfernt — WRONG_TOPIC. Tatsächliches Thema: Eintrittskarten-Rückerstattung bei coronabedingter Veranstaltungsabsage (NJW 2022, 2830); nicht geeignet als Zitierweise-Beispiel für qualifizierte Rechtsprobleme. Außerdem war die angegebene Fundstelle NJW 2022, 2754 falsch (korrekt: NJW 2022, 2830). Ersatz: Eintrag gelöscht; verbleibende Beispiele BVerfG, BAG, EuGH sind verifiziert. -->

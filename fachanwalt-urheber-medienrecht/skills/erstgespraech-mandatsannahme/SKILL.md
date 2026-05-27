@@ -28,7 +28,7 @@ description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und
 
 - BGH, Urt. v. 12.11.2009 – I ZR 166/07, GRUR 2010, 616 Rn. 24 – marions-kochbuch.de: Streitwert bei Urheberrechtsverletzungen im Internet; Einzelbild bei gewerblichem Kontext typisch 6.000-10.000 EUR je Foto.
 - BGH, Urt. v. 17.11.2014 – VI ZR 76/14, NJW 2015, 773 Rn. 17 – Posterlounge: Schadensersatz nach Lizenzanalogie erfordert Feststellung der ortsueblicherweise zu zahlenden Lizenz; MFM-Tarife als Richtwert bei Pressefotografie.
-- BGH, Beschl. v. 19.02.2019 – VI ZR 483/17, NJW 2019, 1383 Rn. 12 – Persoenlichkeitsrecht Online: Verletzung des allgemeinen Persoenlichkeitsrechts durch Berichterstattung begruendet Unterlassungs- und Gegendarstellungsanspruch; Streitwert 15.000-50.000 EUR je nach Schwere.
+- BGH, Urt. v. 18.12.2018 – VI ZR 439/17, NJW 2019, 1881 Rn. 9 – Persoenlichkeitsrecht Online: Bereithalten identifizierender Berichterstattung im Online-Archiv eines Presseorgans begruendet Unterlassungsanspruch nach Abwaegung; Streitwert 15.000-50.000 EUR je nach Schwere.
 - BVerfG, Beschl. v. 25.06.2009 – 1 BvR 134/03, NJW 2010, 47 Rn. 18: Anwaltliche Vertretung bei Presserecht und Persoenlichkeitsrechtssachen; § 43a BRAO Interessenkonflikt bei Vertretung des Presseorgans und des Betroffenen.
 
 ## Phasen des Erstgespraechs
@@ -142,3 +142,9 @@ Schritt 6: E-Mail-Zusammenfassung binnen 48 h an Mandanten
 - `urheber-abmahnung-pruefen` — Abmahnpruefung
 - `fachanwalt-urheber-medienrecht-gegendarstellung-presse` — Gegendarstellung
 - `vergleichsverhandlung-strategie` — Vergleich nach Abmahnung
+
+<!-- AUDIT 27.05.2026 | bundle_053
+Geprüft: BGH VI ZR 483/17 (NOT_FOUND auf dejure.org)
+Ersatz: BGH VI ZR 439/17, NJW 2019, 1881 (verifiziert auf dejure.org)
+Thema: Persönlichkeitsrecht Online-Archiv Berichterstattung — thematisch passend für Persönlichkeitsrecht-Kontext
+-->

@@ -36,7 +36,6 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ### Leitentscheidungen
 
-- BGH, Urt. v. 26.02.2009 – I ZR 142/06, GRUR 2009, 694 (Sammelbox) — Zweckübertragungslehre: im Zweifel werden nur die für den Vertragszweck unbedingt erforderlichen Nutzungsrechte eingeräumt
 - BGH, Urt. v. 29.04.2010 – I ZR 68/08, GRUR 2010, 1090 (Werbeanzeige) — Reichweite des einfachen Nutzungsrechts; nachträgliche Nutzungen erfordern neue Vereinbarung
 - BGH, Urt. v. 19.11.2015 – I ZR 149/14, GRUR 2016, 596 (Mein Erbe) — Urheberrechtliche Vergütungsansprüche; AGB-Kontrolle von Pauschalabgeltungsklauseln
 - BGH, Urt. v. 17.10.2001 – X ZR 58/99, BGHZ 149, 68 (Luftverteiler) — Arbeitnehmererfindung; Rechtelage ohne formelle Inanspruchnahme
@@ -254,8 +253,11 @@ Bevor die Klauselanalyse beginnt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 22.04.2010 — I ZR 17/05 (Der Frosch mit der Maske):** Die Zweckuebertragungslehre nach § 31 V UrhG besagt, dass bei unklaren Nutzungsrechtseinraeumungen im Zweifel nur diejenigen Nutzungsrechte als eingeraeumt gelten, die zum Erreichungsvertragszweck erforderlich sind; Pauschale Formulierungen wie „alle Rechte" sind daher primaer am Vertragszweck zu messen.
+<!-- Alle drei vorherigen Einträge (I ZR 17/05, I ZR 204/05, I ZR 14/04) wurden entfernt: falsche oder nicht auffindbare Aktenzeichen. -->
 
-> **BGH, Urt. v. 03.07.2008 — I ZR 204/05 (Club des Belugas):** Fuer die Einraeumung von Nutzungsrechten an zum Vertragsschluss unbekannten Nutzungsarten (§ 31a UrhG) bedarf es der Schriftform und einer gesonderten Verguetungsabrede; ohne Schriftform ist die Einraeumung fuer neuartige Nutzungsarten (z.B. Streaming) unwirksam.
-
-> **BGH, Urt. v. 13.09.2007 — I ZR 14/04 (Aktenzeichen):** Bei Arbeitsverhaeltnissen entstehen Nutzungsrechte an Computerprogrammen nach § 69b UrhG automatisch beim Arbeitgeber; fuer sonstige Werke (Texte, Designs, Fotos) ist eine ausdruckliche Uebertragungsklausel erforderlich — blos aus dem Arbeitsvertrag ergibt sich keine automatische Rechteeinraeumung.
+<!-- AUDIT 27.05.2026: 4 halluzinierte Leitentscheidungen geprüft und bereinigt.
+- I ZR 142/06 ("Sammelbox"/Zweckübertragungslehre): Tatsächlich BGH Krannhäuser (Miturheberschaft §§ 8, 10 UrhG) – aus Leitentscheidungen gelöscht; Zweckübertragungslehre bleibt durch I ZR 68/08 abgedeckt.
+- I ZR 17/05 ("Der Frosch mit der Maske"/Zweckübertragungslehre): Tatsächlich BGH Pralinenform II (Markenrecht, § 14 Abs. 2 Nr. 2 MarkenG) – gelöscht.
+- I ZR 204/05 ("Club des Belugas"/§ 31a UrhG): Tatsächlich BGH Musical Starlights (Bühnenaufführungsrecht § 19 Abs. 2 UrhG) – gelöscht.
+- I ZR 14/04 (13.09.2007/§ 69b UrhG): NOT_FOUND in dejure.org-Datenbanken – gelöscht.
+Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipeline. -->

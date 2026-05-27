@@ -21,8 +21,6 @@ description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe
 
 BGH, Urt. v. 26.09.1995 – XI ZR 159/94, NJW 1996, 191 — § 822 BGB setzt voraus, dass der Primäranspruch gegen den Erstempfänger dem Grunde nach besteht und nur an dessen Entreicherung scheitert; die Norm begründet keinen eigenständigen deliktischen Anspruch.
 
-BGH, Urt. v. 14.02.1978 – VI ZR 246/76, NJW 1978, 1374 — Der Direktanspruch aus § 822 BGB richtet sich gegen den Dritten nur in dem Umfang, in dem der Erstempfänger entreichert ist; eine darüber hinausgehende Haftung des Dritten besteht nicht.
-
 BGH, Urt. v. 19.01.2012 – III ZR 7/11, NJW-RR 2012, 823 — Der Dritte kann gegenüber dem Anspruch aus § 822 BGB die Einrede der Entreicherung (§ 818 Abs. 3 BGB) erheben, sofern er bei Empfang der Leistung gutgläubig war; bei Bösgläubigkeit gilt § 819 BGB.
 
 BGH, Urt. v. 12.07.2018 – IX ZR 167/17, NJW 2018, 3239 — § 816 Abs. 1 S. 2 BGB und § 822 BGB können konkurrieren; welche Norm einschlägig ist, richtet sich danach, ob der Erstempfänger berechtigt oder nichtberechtigt über den Gegenstand verfügt hat.
@@ -91,3 +89,8 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+> **Audit-Hinweis (27.05.2026):** BGH VI ZR 246/76 (NJW 1978, 1374) entfernt. Tatsaechliches Thema dieses Urteils: Klage auf Unterlassung/Widerruf schaedigender Aeusserungen, Zivilrechtsweg vs. Verwaltungsrechtsweg bei behoerdlichen Pressemitteilungen (NJW 1978, 1860) — kein Bezug zu § 822 BGB. Quelle: dejure.org/1978,533.

@@ -32,7 +32,6 @@ Unterstuetzt Restrukturierungsfaelle mit Planoptionen, Glaeubigerkl assen, Liqui
 
 - BGH, Urt. v. 26.01.2017 - IX ZR 285/14, NZI 2017, 201 — StaRUG-Vorgaengerprinzip: Restrukturierungsplan muss gegenueber dem Liquidationsszenario besser stellen; Abweichung erfordert konkrete Begruendung der Besserstellung
 - BGH, Urt. v. 05.11.2020 - IX ZR 69/19, NZI 2021, 62 — Insolvenzplan-Bestaetigungsvoraussetzungen: Plan muss alle zwingenden gesetzlichen Anforderungen (§ 231 InsO) erfuellen; fehlerhafte Klasseneinteilung fuehrt zur Planversagung
-- BGH, Urt. v. 07.05.2020 - IX ZR 18/19, NZI 2020, 689 — Liquiditaetsampel und MAC: fehlende Liquiditaet im Planverfahren kann als Material Adverse Change im SPA gewertet werden; Kaeufer darf Closing verweigern
 - BGH, Urt. v. 19.12.2013 - IX ZR 61/12, BGHZ 199, 266 — Fortbestehensprognose: positive Fortbestehensprognose setzt ueberwiegende Wahrscheinlichkeit des Fortbestehens fuer 24 Monate voraus; Prognose darf auf konkrete Finanzierungszusagen gestuetzt werden
 
 ## Kommentarliteratur
@@ -107,3 +106,9 @@ GESTALTENDER TEIL
 
 - assets/templates/starug-restrukturierungsplan.md
 - assets/templates/insolvenzplan-klassen-tabelle.md
+
+<!-- AUDIT 27.05.2026
+Problem: BGH IX ZR 18/19 (NZI 2020, 689) war mit vollstaendig erfundenem Leitsatz zitiert ("Liquiditaetsampel und MAC: fehlende Liquiditaet im Planverfahren als Material Adverse Change"). Das Urteil betrifft tatsaechlich Insolvenzanfechtung nach § 133 InsO (Vorsatzanfechtung: Vermutung und Widerlegbarkeit des Glaeubigerbenachteiligungsvorsatzes) und hat keinen Bezug zu MAC-Klauseln in Kaufvertraegen.
+Massnahme: Eintrag geloescht (bei Zweifel loeschen).
+Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.05.2020&Aktenzeichen=IX+ZR+18%2F19
+-->

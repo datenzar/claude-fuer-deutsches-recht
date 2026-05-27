@@ -136,7 +136,7 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 ## 9) BGH-Linien
 
 - BGH, Urt. v. 25.6.2015 — VII ZR 220/14 (wesentlich vs. unwesentlich)
-- BGH, Urt. v. 25.2.2016 — VII ZR 49/15 (Abnahme-Fiktion)
+- BGH, Urt. v. 25.02.2016 — VII ZR 49/15, NJW 2016, 1572 (Keine Verkürzung der Verjährungsfrist durch antizipierte Abnahme; AGB-Klausel in Bauträgervertrag, die Nachzügler an frühere Abnahme bindet, ist nach § 309 Nr. 8 lit. b ff BGB unwirksam)
 - BGH, Urt. v. 19.1.2017 — VII ZR 235/15 (Konkludente Abnahme)
 
 ## 10) Honorar
@@ -149,3 +149,6 @@ BGH NJW 2010, 2199: Schadensbetrag des Mangels > 10 % der noch ausstehenden Verg
 - `werkmangel-vob-bgb-pruefen` — Mangel-Prüfraster
 - `fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze` — bei Architekten-Vergütung
 - `fachanwalt-bau-architektenrecht-bautraeger-insolvenz` — bei Insolvenz-Fall
+
+---
+<!-- AUDIT 27.05.2026: BGH VII ZR 49/15 (WRONG_TOPIC) — auf dejure.org verifiziert als BGH 25.02.2016, NJW 2016, 1572: Keine Verkürzung der Verjährungsfrist durch antizipierte Abnahme (Bauträgervertrag, Nachzügler). Eintrag von falscher Kurzbeschreibung "Abnahme-Fiktion" auf korrektes Thema korrigiert. -->

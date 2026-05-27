@@ -25,7 +25,7 @@ Vor der Bearbeitung folgende Fragen klären:
 - BGH, Urt. v. 21.10.2014 – II ZR 84/13, BGHZ 203, 77 Rn. 18 — Stimmrecht kann durch Treuepflicht gebunden sein; Gesellschafter, der treuwidrig abstimmt, ist schadensersatzpflichtig; der Beschluss selbst ist aber nur anfechtbar, nicht automatisch nichtig.
 - BGH, Urt. v. 12.10.1992 – II ZR 286/91, BGHZ 119, 305 Rn. 12 — Grundsätze zur analogen Anwendung der §§ 241, 243, 246 AktG auf GmbH-Beschlüsse; Beschlüsse gegen zwingende GmbHG-Vorschriften sind entsprechend § 241 AktG nichtig; behebbare Mängel sind analog § 243 AktG anfechtbar (1-Monat-Frist).
 - BGH, Urt. v. 09.11.1987 – II ZR 100/87, BGHZ 102, 172 — Einberufungsmangel bei GmbH-GV; Erscheinen aller Gesellschafter heilt den Mangel nur, wenn kein Widerspruch erhoben wird; bei Fernbleiben eines Gesellschafters keine Heilung.
-- OLG München, Urt. v. 10.02.2021 – 7 U 2843/19, NZG 2021, 418 — Videokonferenz-Gesellschafterversammlung ohne satzungsmäßige Grundlage ist nach § 48 Abs. 2 GmbHG nur mit Einvernehmen aller Gesellschafter wirksam.
+<!-- AZ OLG Muenchen 7 U 2843/19 entfernt (27.05.2026): AZ auf dejure.org nicht auffindbar (NOT_FOUND); NZG 2021, 418 nicht verifizierbar. -->
 
 ## Kommentarliteratur
 
@@ -138,3 +138,10 @@ Kommentarliteratur:
 - `gesellschaftsrecht:aufsichtsrat-protokoll` — Protokollierung des Beschlusses
 - `gesellschaftsrecht:geschaeftsfuehrer-haftung-43-gmbhg` — wenn Beschluss GF-Entlastung betrifft
 - `gesellschaftsrecht:gesellschafterstreit-loesungsstrategie` — wenn Beschluss Teil eines Gesellschafterkonflikts ist
+
+---
+## Audit-Hinweis (27.05.2026)
+
+Geprüfte AZ: OLG München 7 U 2843/19.
+Status: NOT_FOUND — dejure.org findet zum Datum 10.02.2021 kein Urteil unter diesem Aktenzeichen; NZG 2021, 418 nicht verifizierbar.
+Maßnahme: Zitat entfernt. Kein Ersatz eingefügt; die gesetzliche Regelung (§ 48 Abs. 2 GmbHG sowie seit 2022 § 48 Abs. 1 S. 2 GmbHG) ist im Skill durch Normtexte abgedeckt.

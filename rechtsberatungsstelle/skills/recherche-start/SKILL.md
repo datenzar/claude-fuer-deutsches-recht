@@ -33,8 +33,6 @@ Diese Skill liefert den Startpunkt: Normen zum Nachschlagen, Rechtsprechungsbere
 - BGH, Beschl. v. 18.09.2018 – II ZR 152/17, NJW-RR 2018, 1266 Rn. 5 — Aktualitätspflicht bei Rechtsanwendung; veraltete Normen oder überschriebene Rspr. begründen Haftung.
 - BGH, Urt. v. 08.05.2012 – VI ZR 217/08, NJW 2012, 2187 Rn. 12 — Pflicht zur vollständigen Rechtsrecherche; Vernachlässigung höchstrichterlicher Rspr. als Pflichtverstoß.
 - BVerfG, Beschl. v. 19.12.2012 – 1 BvR 3006/11, NJW 2013, 523 — Pflicht zur Berücksichtigung verfassungskonformer Auslegung; nur bei gründlicher Normenrecherche erkennbar.
-- BGH, Urt. v. 13.09.2018 – IX ZR 294/17, NJW 2018, 3697 Rn. 20 — Anwaltliche Sorgfaltspflicht bei Rechtsrecherche; sinngemäß auf studentische Beratungsstellen unter Aufsicht übertragbar.
-
 ### Kommentarliteratur zur Orientierung
 
 - Larenz/Wolf, Allgemeiner Teil des Bürgerlichen Rechts, 9. Aufl. 2004 — klassisches Lehrbuch zur Gutachtenmethode und Normanwendung.
@@ -196,3 +194,10 @@ Fahrplan enthält:
 Jeder im Fahrplan vorgeschlagene Hinweis ist mit der Herkunft zu kennzeichnen: `[juris]`, `[beck-online]`, `[dejure]` für datenbankgestützte Hinweise; `[Websuche — verifizieren]` für webbasierte Hinweise; `[Modellwissen — verifizieren]` für aus dem Modell stammende Hinweise. Hinweise mit „verifizieren" tragen höheres Fehlerrisiko und sind zuerst gegen Primärquellen zu prüfen. Tags nicht entfernen — sie sind das schnellste Signal für den Supervisor, welche Stellen besonderer Aufmerksamkeit bedürfen.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026
+Geprueft: BGH IX ZR 294/17
+Befund: GELOESCHT. AZ falsch: existiert als VI ZR 294/17 (24.07.2018), nicht IX ZR 294/17. Echter Senat VI ZR; echtes Thema Arzthaftung/CTG-Geraet bei Geburtsvorgang — kein Bezug zu anwaltlicher Sorgfaltspflicht bei Rechtsrecherche. Quelle: dejure.org/2018,38167. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
+-->

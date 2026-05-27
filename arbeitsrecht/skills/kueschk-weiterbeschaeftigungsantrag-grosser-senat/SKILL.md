@@ -45,8 +45,6 @@ Arbeitgeber kann überwiegende Gegeninteressen darlegen? → Antrag abweisbar
 
 - BAG GS, Beschl. v. 27.02.1985 – GS 1/84, BAGE 48, 122 — Der Große Senat des BAG anerkennt den allgemeinen Weiterbeschaeftigungsanspruch aus §§ 611, 242 BGB i.V.m. Art. 1, 2 GG; er entsteht nach erstinstanzlichem Obsiegen und erlischt, wenn der Arbeitgeber überwiegende schutzwürdige Interessen darlegt.
 - BAG, Urt. v. 25.10.2012 – 2 AZR 700/11, NZA 2013, 733 — Der Weiterbeschaeftigungsanspruch nach BAG GS 1/84 besteht nicht automatisch; der Arbeitnehmer muss konkrete Umstände vortragen, die das Beschaeftigungsinteresse begründen.
-- BAG, Urt. v. 14.08.2007 – 9 AZR 18/07, NZA 2008, 55 — § 102 Abs. 5 BetrVG gibt dem Arbeitnehmer nach ordnungsgemäßem BR-Widerspruch einen gesetzlichen Weiterbeschaeftigungsanspruch schon ab Klageerhebung; dieser besteht unabhängig vom Ausgang des Verfahrens.
-- BAG, Urt. v. 28.09.2016 – 7 AZR 143/15, NZA 2017, 103 — Vollstreckung des Weiterbeschaeftigungsanspruchs nach § 888 ZPO ist möglich; Zwangsgeld und Zwangshaft können angeordnet werden, wenn der Arbeitgeber die Beschaeftigung ohne berechtigten Grund verweigert.
 
 ## Kommentarliteratur
 
@@ -86,3 +84,10 @@ Bei Verurteilung zur Weiterbeschäftigung: Vollstreckung nach § 888 ZPO (Zwangs
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BAG 7 AZR 143/15: ersatzlos entfernt (WRONG_TOPIC: reales Thema ist Befristung Hochschulprofessor nach WissZeitVG, nicht Vollstreckung Weiterbeschaeftigungsanspruch; Quelle: bundesarbeitsgericht.de, dejure.org)
+- BAG 9 AZR 18/07: ersatzlos entfernt (WRONG_TOPIC: reales Thema ist Altersteilzeit und erweitertes Direktionsrecht/Unterrichtsverpflichtung, nicht gesetzlicher Weiterbeschaeftigungsanspruch nach § 102 Abs. 5 BetrVG; Quelle: dejure.org)

@@ -17,7 +17,6 @@ description: "Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet li
 
 - BGH, Urt. v. 04.10.2011 - XI ZR 373/10, NJW 2012, 47 — Letter of Intent ist grundsätzlich unverbindlich; Bindungswirkung nur bei ausdrücklicher Vereinbarung oder wenn wesentliche Elemente bereits abschließend geregelt.
 - BGH, Urt. v. 11.02.2016 - III ZR 322/14, NJW 2016, 1583 — Term Sheet bei M&A: ausgehandelte Eckdaten binden die Parteien nicht, wenn noch wesentliche Punkte offen; aber Abbruch von Verhandlungen kann culpa in contrahendo auslösen.
-- BGH, Urt. v. 28.04.1999 - VIII ZR 127/98, NJW 1999, 2442 — Widersprüche zwischen vorgedrucktem Formular und handschriftlicher Ergänzung: handschriftliche Ergänzung geht vor.
 - BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Spezialklausel geht Generalklausel vor; Term-Sheet-Vereinbarungen gehen Standardklauseln der Vorlage vor.
 
 ## Zentrale Normen
@@ -63,3 +62,10 @@ Der Skill überführt wirtschaftliche Eckdaten in Vertragsklauseln. Er arbeitet 
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+---
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 127/98 (behauptetes Thema: handschriftliche Ergänzung geht vor vorgedrucktem Formular, NJW 1999 2442) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
+Bundle: bundle_047.json
+-->

@@ -34,16 +34,16 @@ Jede juristische Aussage, die nicht trivial ist (nicht: „A hat eine Willenserk
 ### BGH
 
 ```
-BGH, Urteil vom 12. März 2024 — VIII ZR 56/23 in NJW 2024 Seite 2018 mit Folgeseite 2020 Rn. 24.
+BGH, Urteil vom 28. September 2022 — VIII ZR 300/21 in NJW 2022 Seite 3514 mit Folgeseite 3517 Rn. 22.
 ```
 
 Bestandteile:
 - Gericht (BGH)
 - Entscheidungsform (Urteil / Beschluss)
-- Datum (12.03.2024)
-- Aktenzeichen (VIII ZR 56/23)
-- Fundstelle (NJW 2024 Seite 2018) — Anfangsseite
-- Konkrete Stelle (2020) oder Randnummer (Rn. 24)
+- Datum (28.09.2022)
+- Aktenzeichen (VIII ZR 300/21)
+- Fundstelle (NJW 2022 Seite 3514) — Anfangsseite
+- Konkrete Stelle (3517) oder Randnummer (Rn. 22)
 
 ### BVerfG
 
@@ -327,3 +327,9 @@ Säcker, Franz Jürgen: in: Münchener Kommentar zum BGB, 9. Auflage,
 - `quellenrecherche-rechtsprechung-literatur` — Wo finde ich die Quellen?
 - `meinungsstreit-darstellen` — Streit-Stände mit Belegen
 - `selbstkontrolle-vor-abgabe` — Endcheck Zitierweise
+
+
+<!-- AUDIT 27.05.2026 — Bundle 033 —
+  BGH VIII ZR 56/23 (NOT_FOUND) ersetzt: AZ existiert nicht auf dejure.org.
+  Formatierungsbeispiel ersetzt durch BGH VIII ZR 300/21, NJW 2022, 3514 (verifiziert; Mietpreisbremse § 556d BGB).
+-->

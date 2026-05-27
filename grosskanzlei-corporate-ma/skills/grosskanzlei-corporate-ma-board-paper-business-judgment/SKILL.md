@@ -24,7 +24,6 @@ Vor der Erstellung einer Entscheidungsvorlage klaeren:
 
 - BGH, Urt. v. 21.04.1997 – II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) Rn. 15 — Leitungspflicht des Aufsichtsrats: AR ist nicht nur Ueberwachungs- sondern auch Handlungsorgan; unterlassene Schadensersatzverfolgung gegenueber GF-Mitglied kann selbst Pflichtverletzung sein.
 - BGH, Urt. v. 14.07.2008 – II ZR 202/07, BGHZ 177, 295 Rn. 20 — Business Judgment Rule bei GmbH-GF: § 43 GmbHG ist im Licht der BJR des § 93 Abs. 1 Satz 2 AktG auszulegen; Informationspflicht vor Entscheidung gilt entsprechend.
-- OLG Frankfurt, Urt. v. 07.12.2010 – 5 U 29/10, AG 2011, 172 Rn. 18 — Board Paper muss Alternativen und deren Bewertung enthalten; Entscheidung ohne ernsthaften Alternativenvergleich ist nicht BJR-geschuetzt.
 - BGH, Urt. v. 10.07.2018 – II ZR 24/17, NJW 2018, 3574 Rn. 14 — Informationsbeschaffungspflicht des Vorstands: Muss sich aus zuverlaessigen Quellen informieren; bloses Vertrauen auf muendliche Zusagen genuegt nicht fuer BJR-Schutz.
 
 ## Kommentarliteratur
@@ -126,7 +125,7 @@ Abstimmung: _________________________ Datum: _____________
 - **Entscheidungsvorlage ohne Informationsgrundlage** — BJR-Schutz entfaellt; Organmitglied haftet persoenlich nach § 93 AktG / § 43 GmbHG; Vorlage zurueckhalten bis Gutachten vorliegen.
 - **Interessenkonflikt nicht offen gelegt** — § 93 Abs. 1 Satz 3 AktG: Verletzung der Offenlegungspflicht ist eigenstaendige Pflichtverletzung; betroffenes Mitglied muss sich enthalten.
 - **Freigabevorbehalt uebersehen** — Entscheidung ohne AR-Zustimmung (§ 111 Abs. 4 AktG) oder HV-Beschluss (§ 179a AktG) ist schwebend unwirksam; Gegenseite kann Ruecktritt erklaeren.
-- **Keine echten Alternativen** — OLG Frankfurt: Board Paper ohne ernsthaften Alternativenvergleich ist nicht BJR-geschuetzt; mindestens Option "Status quo" und eine echte Alternative stets darlegen.
+- **Keine echten Alternativen** — Board Paper ohne ernsthaften Alternativenvergleich ist nach h.M. nicht BJR-geschuetzt (vgl. Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 30 ff.); mindestens Option "Status quo" und eine echte Alternative stets darlegen.
 - **KI-Analyse ohne Plausibilisierung** — Organmitglied kann sich nicht auf automatisierte Ausgabe berufen ohne eigene Verifizierung; Plausibilisierungspflicht ist Teil der Informationspflicht.
 
 ## Arbeitsmodus
@@ -166,3 +165,7 @@ Abstimmung: _________________________ Datum: _____________
 - Hueffer/Koch, AktG, 16. Aufl. 2024, § 93 Rn. 30 ff.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
+- OLG Frankfurt 5 U 29/10 (AG 2011, 172): WRONG_TOPIC — Urteil betrifft Commerzbank/Dresdner Bank HV-Auskunftsrechte und Holzmueller-Grundsaetze, nicht 'Board Paper muss Alternativen enthalten' als BJR-Voraussetzung. Eintrag geloescht; Rote-Schwellen-Hinweis auf Kommentarliteratur umgestellt.
+-->

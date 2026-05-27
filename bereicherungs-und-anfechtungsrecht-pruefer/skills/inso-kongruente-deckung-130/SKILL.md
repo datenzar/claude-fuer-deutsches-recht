@@ -25,8 +25,6 @@ BGH, Urt. v. 07.05.2015 – IX ZR 95/14, NJW 2015, 2181 — Im zweiten und dritt
 
 BGH, Urt. v. 14.07.2016 – IX ZR 188/15, NJW-RR 2017, 231 — Einstellung der Zahlungen i.S.d. § 17 Abs. 2 S. 2 InsO begründet die Vermutung der Zahlungsunfähigkeit; der Schuldner und Anfechtungsgegner tragen die Darlegungs- und Beweislast für das Gegenteil.
 
-BGH, Urt. v. 22.09.2016 – IX ZR 208/15, NJW 2017, 250 — Das Bargeschäftsprivileg nach § 142 InsO kann auch bei kongruenter Deckung eingreifen, sofern die Voraussetzungen (Gleichwertigkeit, Unmittelbarkeit) vorliegen; es schließt die Anfechtung nach § 130 InsO aus.
-
 ## Kommentarliteratur
 
 Kayser in: MüKoInsO, 4. Aufl. 2023, § 130 Rn. 1–65 (Kongruenz, Fristen, Kenntnis).
@@ -84,3 +82,12 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 208/15 (als Urt. v. 22.09.2016 zitiert) geloescht: WRONG_TOPIC.
+Echtes Urteil IX ZR 208/15 mit Datum 12.05.2016 behandelt Formerfordernisse des
+§ 3a RVG (anwaeltliche Verguetungsvereinbarung) — kein Bezug zu Bargeschaeftsprivileg
+oder § 130 InsO. Datum 22.09.2016 + IX ZR 208/15 laut dejure.org nicht vorhanden.
+NJW 2017, 250 gehoert zu BGH VI ZR 536/15 (Fondshaftung § 826 BGB).
+Verifiziert via dejure.org. Kein Ersatz ergaenzt.
+-->

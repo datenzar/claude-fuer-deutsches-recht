@@ -83,4 +83,6 @@ zu verursachen droht (vgl. BGH, Urt. v. 5. März 2015 – IX ZR 133/14).
 
 ## Quellen und Updates
 
-Stand: 05/2026. BGH IX ZR 133/14 und IX ZR 191/15 als Leitentscheidungen. Stand SanInsFoG (1.1.2021, § 15b InsO statt § 64 GmbHG a.F.) und SanInsKG-Modifikationen am Überschuldungsprognosezeitraum berücksichtigt. Bei Änderung InsO/IDW S 11 aktualisieren.
+Stand: 05/2026. BGH IX ZR 133/14 als Leitentscheidung. Stand SanInsFoG (1.1.2021, § 15b InsO statt § 64 GmbHG a.F.) und SanInsKG-Modifikationen am Überschuldungsprognosezeitraum berücksichtigt. Bei Änderung InsO/IDW S 11 aktualisieren.
+
+<!-- AUDIT 27.05.2026: BGH IX ZR 191/15 entfernt — Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND); kein Beleg für Existenz als Leitentscheidung zur Insolvenzanfechtung. Streichung aus "Quellen und Updates". BGH IX ZR 133/14 bleibt als verifizierte Leitentscheidung. -->

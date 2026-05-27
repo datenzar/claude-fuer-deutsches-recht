@@ -18,7 +18,6 @@ description: "Mahnbescheid wurde erlassen und Glaeubiger muss entscheiden wie es
 - BGH, Urt. v. 19.04.2012 - IX ZR 233/09, NJW 2012, 2502 — Vollstreckungsbescheid nach Insolvenzeröffnung: VB als Titel wird durch Insolvenzeröffnung überlagert; Forderung muss zur Tabelle angemeldet werden.
 - BGH, Beschl. v. 20.04.2017 - VII ZB 19/16, NJW 2017, 1972 — Wiedereinsetzung in die Einspruchsfrist: Anwaltsverschulden kann Wiedereinsetzung ausschließen; Schuldner muss sich Verschulden seines Anwalts zurechnen lassen (§ 85 Abs. 2 ZPO).
 - BGH, Urt. v. 06.05.2014 - XI ZR 217/12, NJW 2014, 2806 — Verjährungshemmung endet 6 Monate nach Erlass des VB, wenn das Verfahren nicht weiter betrieben wird (§ 204 Abs. 2 S. 1 BGB); Gläubiger muss Vollstreckung rechtzeitig einleiten.
-- BGH, Beschl. v. 21.10.2014 - VII ZB 34/13, NJW 2015, 261 — VB-Klausel kraft Gesetzes § 796 Abs. 1 ZPO: gesonderte Klauselerteilung nicht erforderlich; VB trägt die Klausel bereits mit Erlass.
 
 ## Zentrale Normen
 
@@ -119,3 +118,10 @@ Nächster Skill:         [zv-kommandocenter / zv-pfueb-bank / ...]
 - `zv-titel-klausel-zustellung` – VB-Klausel kraft Gesetzes.
 - `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`, `zv-mobiliar-gv-auftrag` – Vollstreckungsmaßnahmen.
 - `forderungsmanagement-klagewerkstatt/klagevorlage-aus-eigenen-mustern` – nach Einspruch Klagebegründung.
+
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZB 34/13 (NOT_FOUND) geloescht.
+Kein Ersatz: § 796 Abs. 1 ZPO regelt Klausel kraft Gesetzes direkt im Gesetz;
+kein bekanntes BGH-AZ zu diesem Einzelpunkt verifizierbar auf dejure.org.
+-->

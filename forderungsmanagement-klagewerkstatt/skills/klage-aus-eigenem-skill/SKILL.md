@@ -22,11 +22,8 @@ description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) inst
 
 BGH, Beschl. v. 20.04.2023 – III ZB 75/21, NJW 2023, 1743 — Klageschriften im beA-Verfahren müssen strukturiert als PDF/A übermittelt werden; Anlagen sind als gesonderte Dateien beizufügen und im Schriftsatz eindeutig zu bezeichnen.
 
-BGH, Urt. v. 13.01.2021 – VIII ZR 66/20, NJW 2021, 765 — Der Gerichtsstand des Erfüllungsortes nach § 29 ZPO setzt voraus, dass der streitige Erfüllungsort der eingeklagten Leistungspflicht konkret feststeht; bei unklarem Erfüllungsort gilt der allgemeine Gerichtsstand (§§ 12, 13 ZPO).
 
 BGH, Urt. v. 25.02.2016 – I ZR 136/14, NJW 2016, 2181 — § 29c ZPO schützt Verbraucher bei Haustürgeschäften und Fernabsatzverträgen; eine abweichende Gerichtsstandsvereinbarung (§ 38 ZPO) ist gegenüber Verbrauchern nur bei nachträglicher Vereinbarung nach Entstehung des Streitigkeitsverhältnisses wirksam.
-
-BGH, Urt. v. 05.04.2017 – VIII ZR 179/16, NJW 2017, 1659 — Fehlt eine ladungsfähige Anschrift des Beklagten bei Klageerhebung, ist die Klage unzulässig; der Kläger trägt die Darlegungs- und Beweislast für die aktuelle Anschrift.
 
 ## Kommentarliteratur
 
@@ -124,4 +121,10 @@ Wir regen eine guetliche Einigung an und stehen fuer ein klaerenden Gesprach zur
 
 Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
+
+---
+<!-- AUDIT 27.05.2026 bundle_004 -->
+**Halluzinations-Audit 27.05.2026**
+- BGH VIII ZR 179/16 (Ladungsfähige Anschrift, behauptet NJW 2017 1659): Auf dejure.org nicht gefunden; Eintrag geloescht.
+- BGH VIII ZR 66/20 (Gerichtsstand Erfuellungsort, behauptet NJW 2021 765): Auf dejure.org nicht gefunden; Eintrag geloescht.
 

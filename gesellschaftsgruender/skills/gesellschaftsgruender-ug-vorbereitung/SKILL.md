@@ -25,7 +25,7 @@ description: "UG haftungsbeschraenkt gruenden: Musterprotokoll, Mindestkapital 1
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 11.02.2008 - II ZR 171/06, NJW 2008, 1589 Rn. 10 — Vorbelastungshaftung gilt auch für UG; Gesellschafter haften für Verbindlichkeiten zwischen Beurkundung und Eintragung anteilig nach Stammkapitalquote.
+<!-- AZ II ZR 171/06 entfernt (27.05.2026): Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht, NJW-RR 2008, 843 — nicht Vorbelastungshaftung UG; kein gesicherter Ersatz gefunden. -->
 - BSG, Urt. v. 29.08.2012 - B 12 KR 25/10 R, BSGE 111, 257 — GmbH-GF mit Mehrheitsbeteiligung ist regelmäßig sozialversicherungsfrei; Minderheits-GF ohne maßgeblichen Einfluss ist sozialversicherungspflichtig.
 - BGH, Urt. v. 24.10.2005 - II ZR 129/04, BGHZ 164, 336 — Haftung des Strohmann-GF: wer formell eingetragen ist, haftet nach § 43 GmbHG auch wenn er nur auf Weisung handelt.
 - OLG Frankfurt, Beschl. v. 14.06.2012 - 20 W 235/12, GmbHR 2012, 989 — Firmenbildung UG: Firmenzusatz "UG (haftungsbeschränkt)" zwingend; "GmbH" vor Umfirmierung unzulässig.
@@ -119,7 +119,7 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 
 - §§ 5a, 7, 53 GmbHG (UG-Sondervorschriften)
 - § 7a SGB IV (Statusfeststellungsverfahren)
-- BGH II ZR 171/06, NJW 2008, 1589 (Vorbelastungshaftung)
+<!-- AZ II ZR 171/06 entfernt (27.05.2026): Falsche Fundstelle und falsches Thema — kein Ersatz. -->
 - BSG B 12 KR 25/10 R, BSGE 111, 257 (SV-Status GF)
 - Scholz/Emmerich, GmbHG, § 5a Rn. 1-40
 
@@ -131,3 +131,10 @@ Geschätzte Dauer bis Umfirmierung: ca. [X] Jahre
 - `gesellschaftsgruender-online-gruendung-dirug` — DiRUG-Online-Gründung (UG zulässig)
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Status des GF prüfen
 - `gesellschaftsgruender-gmbh-vorbereitung` — bei Umfirmierung zur GmbH
+
+---
+## Audit-Hinweis (27.05.2026)
+
+Geprüfte AZ: BGH II ZR 171/06.
+Status: WRONG_TOPIC — das Urteil betrifft Verjährung von Einlageforderungen nach Übergangsrecht (NJW-RR 2008, 843), nicht Vorbelastungshaftung UG.
+Maßnahme: Beide Nennungen des AZ (Rechtsprechungsabschnitt und Quellenabschnitt) entfernt. Kein verifizierter Ersatz für Vorbelastungshaftung UG auf dejure.org gefunden; kein Ersatz eingefügt.

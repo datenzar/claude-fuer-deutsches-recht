@@ -51,7 +51,6 @@ Die AVV regelt **nicht** das Berufsgeheimnis. Sie schützt nicht die Verschwiege
 
 - EuGH, Urt. v. 04.05.2023 — C-300/21 (UI/Österreichische Post), NJW 2023, 1985 Rn. 44: Art. 82 DSGVO setzt einen konkreten Schaden voraus; allein der Verstoß gegen die DSGVO reicht für einen immateriellen Schadensersatzanspruch nicht aus, wenn kein realer Nachteil feststellbar ist. Für die Auftragsverarbeitung bedeutet das: Formfehler in der AVV allein lösen noch keine Haftung aus.
 - EuGH, Urt. v. 05.12.2023 — C-683/21 (Nacionalinis visuomenes sveikatos centras), NJW 2024, 285 Rn. 62: Gemeinsame Verantwortlichkeit (Art. 26 DSGVO) liegt vor, wenn zwei Verantwortliche gemeinsam über Zwecke und Mittel einer Verarbeitung entscheiden — dies muss von der AVV-Konstellation (Art. 28) sorgfältig abgegrenzt werden.
-- BGH, Urt. v. 12.01.2021 — VI ZR 36/20, NJW 2021, 1008 Rn. 19: Berufsgeheimnis nach § 43a BRAO gilt für alle dem Anwalt anvertrauten oder bekanntgewordenen Tatsachen — der Schutzbereich ist weiter als derjenige der DSGVO, da er auch nicht-personenbezogene Informationen (Strategie, Planungsdokumente) erfasst.
 - BGH, Urt. v. 26.09.2023 — VI ZR 97/22, NJW 2024, 234 Rn. 22: Zur Abgrenzung von Auftragsverarbeitung und eigenverantwortlicher Verarbeitung bei Cloud-Diensten — entscheidend ist die tatsächliche Weisungsgebundenheit, nicht die vertragliche Bezeichnung.
 
 ## Kommentarliteratur
@@ -155,3 +154,6 @@ Unterschrift: [SACHBEARBEITER]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
+
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VI ZR 36/20 (claimed: Berufsgeheimnis §43a BRAO, NJW 2021, 1008): NOT_FOUND auf dejure.org. NJW 2021, 1008 gehoert zu BGH VIII ZR 78/20 (Gebrauchtwagenhandel/Verjaehnungsfrist) – thematisch unverwandt. Eintrag geloescht. -->

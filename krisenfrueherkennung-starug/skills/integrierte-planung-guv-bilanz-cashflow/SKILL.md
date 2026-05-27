@@ -210,7 +210,7 @@ FINANZIERUNG
 
 - BGH, Urt. v. 07.03.2013 — IX ZR 64/12, NZI 2013, 477 — Integrierte Planung als IDW S 6 Kernbaustein: Sanierungskonzept muss integrierte Guv-Bilanz-Cashflow-Planung enthalten; isolierter Liquiditaetsplan ohne Verbindung zu Guv reicht nicht.
 - BGH, Urt. v. 19.12.2017 — IX ZR 285/14, BGHZ 217, 1 — Fortbestehensprognose auf Basis integrierter Planung: Cashflow-Planung muss aus Guv-Annahmen abgeleitet sein; zirkulaere Planungen nicht akzeptiert.
-- OLG Muenchen, Beschl. v. 23.05.2019 — 23 U 3003/18, NZI 2019, 694 — Planung und Bankenfinanzierung: Integrierte Planung mit Szenario-Analyse als Voraussetzung fuer Kreditentscheidung; Bank darf auf plausibilisierte Planung vertrauen.
+
 - IDW S 6 — IDW Standard: Grundsaetze zur Erstellung von Sanierungskonzepten, Stand 06/2022 — integrierte Unternehmensplanung als Pflichtbaustein jedes Sanierungskonzepts.
 
 ## Paragrafenkette Integrierte Planung
@@ -229,3 +229,8 @@ FINANZIERUNG
 - IDW S 6, Stand 06/2022 — integrierte Unternehmensplanung.
 - IDW S 11, Stand 11/2022 — Liquiditaetsplanung als Teil.
 - K. Schmidt/Uhlenbruck, GmbH in Krise, § 5 Rn. 5.5 ff. — Planungsanforderungen Sanierungskonzept.
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 035:
+- GELOESCHT: OLG Muenchen, Beschl. v. 23.05.2019 — 23 U 3003/18, NZI 2019, 694 (Status: NOT_FOUND; Entscheidung in dejure.org-Datenbank nicht auffindbar; kein Nachweis einer realen Entscheidung dieses AZ bei OLG Muenchen)
+-->

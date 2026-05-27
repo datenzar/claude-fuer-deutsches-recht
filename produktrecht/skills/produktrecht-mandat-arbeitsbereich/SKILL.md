@@ -35,7 +35,7 @@ Die Skill lädt, wenn der Nutzer Mandate anlegen, wechseln, auflisten, schließe
 - § 203 StGB: Verletzung von Privatgeheimnissen — strafrechtliche Sanktion bei unbefugter Weitergabe von Mandatsinformationen
 - § 43a Abs. 4 BRAO: Interessenkollisionsverbot — Mandat-Workspace-Trennung unterstützt die Konfliktprüfung, ersetzt sie jedoch nicht
 - BGH, Urt. v. 07.11.2019 – IX ZR 285/17, NJW 2020, 461 (Anwaltliche Verschwiegenheitspflicht — Grenzen): Zur Reichweite der Verschwiegenheitspflicht im zivilrechtlichen Anwaltshaftungsrecht. `[verify]`
-- BGH, Urt. v. 13.09.2018 – IX ZR 294/16, NJW 2019, 378 (Interessenkonflikt beim Kanzleiwechsel): Konfliktpräventionspflichten bei übergreifendem Mandatswissen. `[verify]`
+- BGH, Urt. v. 12.05.2016 – IX ZR 241/14, NJW 2016, 2561 (Interessenkonflikt: Nichtigkeit des Anwaltsvertrags bei Vertretung widerstreitender Interessen): Erstmalige Klärung, dass Verstoß gegen § 43a Abs. 4 BRAO zur Nichtigkeit des Mandatsvertrags führt; Konfliktpräventionspflichten bei übergreifendem Mandatswissen.
 
 ### Kommentarliteratur
 
@@ -208,3 +208,8 @@ Nach dem Wechsel zu `hersteller-a-maschinen-2026` liest jede Skill ausschließli
 Quellen, die nur aus dem Modellwissen stammen, tragen `[verify]`. Pinpoint-Zitate tragen `[verify-pinpoint]`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall und führt keine Interessenkonfliktprüfung durch — dies obliegt dem verantwortlichen Rechtsanwalt.
+
+
+<!-- AUDIT 27.05.2026 bundle_040
+Geprueft: BGH IX ZR 294/16, NJW 2019, 378 — WRONG_TOPIC. NJW 2019, 378 gehoert zu BGH 1 StR 194/18 (Untreue/Kommunalfinanzierung, 19.09.2018), nicht zu Interessenkonflikt beim Kanzleiwechsel. IX ZR 294/16 existiert nicht als BGH-Urteil zu diesem Thema (verfuegbare Fundstelle III ZR 294/16 ist Amtshaftung). Ersetzt durch: BGH, Urt. v. 12.05.2016 — IX ZR 241/14, NJW 2016, 2561 (Nichtigkeit bei Vertretung widerstreitender Interessen, dejure.org bestaetigt). Status: ERSETZT.
+-->

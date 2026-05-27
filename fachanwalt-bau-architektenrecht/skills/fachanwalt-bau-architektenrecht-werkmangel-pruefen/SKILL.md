@@ -36,8 +36,8 @@ description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheits
 ## Aktuelle Rechtsprechung (BGH VII. Zivilsenat)
 
 - BGH, Urt. v. 25.09.2014 — VII ZR 244/12, NJW 2014, 3642 Rn. 15: Mit wirksamer Abnahme kehrt sich die Beweislast um; nach Abnahme muss der Auftraggeber beweisen, dass der Mangel bei Abnahme bereits vorhanden war. Vor Abnahme trägt der Auftragnehmer den Beweis der vertragsgemäßen Herstellung.
-- BGH, Urt. v. 18.07.2002 — VII ZR 17/02, NJW 2003, 200: Minderung nach § 638 BGB bemisst sich nach dem Verhältnis des Minderwertes zum vertragsgemäßen Wert; die Minderung ist nicht identisch mit Mängelbeseitigungskosten — für großen Schadensersatz gilt Mängelbeseitigungskosten als Schaden.
-- BGH, Urt. v. 07.03.2013 — VII ZR 119/10, NJW 2013, 1670 Rn. 28: Selbstvornahme § 637 BGB setzt erfolglose Fristsetzung mit Nacherfüllungsaufforderung voraus; zu kurze Frist läuft als angemessene Frist.
+- BGH, Urt. v. 09.01.2003 — VII ZR 181/00, NJW 2003, 1188 Rn. 21: Minderung nach § 638 BGB bemisst sich nach dem Verhältnis des Minderwertes zum vertragsmäßigen Wert; die Berechnung nach Mangelbeseitigungskosten ist nur moeglich wenn die Mangelbeseitigung nicht unverhaeltnismaessig ist.
+- BGH, Urt. v. 07.03.2013 — VII ZR 119/10, NJW 2013, 1528 Rn. 28: Zur Art der Mängelbeseitigung vor Abnahme: Der Auftraggeber kann keine bestimmte Art der Mängelbeseitigung verlangen; der Auftragnehmer bestimmt die Methode selbst; Neuherstellung ist nur geschuldet wenn vertragsgemaeße Erfüllung anders nicht moeglich ist.
 - BGH, Urt. v. 08.11.2018 — VII ZR 100/16, NJW 2019, 293 Rn. 21: Arglistig verschwiegene Mängel unterliegen nicht der kurzen Verjährung nach § 634a Abs. 1 BGB sondern der 10-Jahres-Frist nach § 634a Abs. 3 Satz 2 BGB.
 
 ## Prüfschema — Mängelrecht (Schritt für Schritt)
@@ -216,3 +216,8 @@ Mit freundlichen Grüßen
 - `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt` — Abnahme-Vorbehalte, Verjährungsbeginn
 - `werkmangel-vob-bgb-pruefen` — vertieftes VOB/B-BGB-Prüfraster
 - `fachanwalt-bau-architektenrecht-bauablauf-vbg` — parallele Bauablaufstörungen
+
+---
+<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
+<!-- VII ZR 17/02 (behauptet 18.07.2002, NJW 2003, 200): NOT_FOUND auf dejure.org — ersetzt durch VII ZR 181/00 (09.01.2003, NJW 2003, 1188), verifiziert auf dejure.org -->
+<!-- VII ZR 119/10 (behauptet NJW 2013, 1670, Thema: Selbstvornahme): WRONG_TOPIC — real: Nachbesserungsverlangen vor Abnahme / Art der Maengelbeseitigung, NJW 2013, 1528, verifiziert auf dejure.org/2013,7541 — korrigiert -->

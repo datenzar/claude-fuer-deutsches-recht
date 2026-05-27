@@ -15,11 +15,6 @@ description: "Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen:
 
 ## Aktuelle Rechtsprechung zu Berufungsgründen
 
-- BGH, Urt. v. 23.04.2021 - V ZR 200/19, NJW 2021, 2417 — Eine fehlerhafte Beweiswürdigung nach § 286 ZPO liegt vor, wenn das Gericht ohne hinreichende Begründung wesentliche Aussagen von Zeugen unberücksichtigt lässt; der Mangel führt zur Aufhebung im Berufungsverfahren nach § 529 ZPO.
-- BGH, Urt. v. 16.06.2020 - VI ZR 377/19, NJW 2020, 2798 — Ein Verstoß gegen die Hinweispflicht (§ 139 ZPO) ist ein wesentlicher Verfahrensmangel i.S.d. § 538 Abs. 2 Nr. 1 ZPO; das Berufungsgericht kann unter diesen Umständen zurückverweisen, wenn der Mangel erheblich war.
-- BGH, Urt. v. 11.11.2020 - VIII ZR 191/19, NJW 2021, 530 — Ein Begründungsmangel i.S.d. § 547 Nr. 6 ZPO liegt vor, wenn das Urteil keine tragfähigen Gründe enthält, die die Entscheidung nachvollziehbar machen; das gilt auch bei übermäßig pauschalen Verweisen ohne konkrete Subsumtion.
-- BGH, Beschl. v. 04.02.2021 - VII ZR 83/20, NJW 2021, 1232 — Die Berufungszulassung nach § 511 Abs. 4 ZPO ist nicht auf Einzelfragen beschränkt; der Zulassungsgrund der Sicherung einheitlicher Rechtsprechung setzt voraus, dass das Urteil von einer BGH-Entscheidung abweicht.
-
 ## Zentrale Normen
 
 - § 529 ZPO — Tatsachenfeststellung als Grundlage des Berufungsgerichts
@@ -63,3 +58,31 @@ description: "Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen:
 ---
 
 Adressat: Richter/Referendar vor Urteilsverkündung — Tonfall: sachlich-prüfend
+
+<!-- AUDIT 27.05.2026
+Geprüft im Rahmen von Repair-Task 235 (Halluzinations-Reparatur).
+Alle 4 in der Sektion "Aktuelle Rechtsprechung zu Berufungsgründen" enthaltenen
+Rechtsprechungsnachweise wurden auf dejure.org verifiziert und für ungültig befunden:
+
+- BGH V ZR 200/19 (behauptetes Datum 23.04.2021): NICHT GEFUNDEN. Das AZ
+  II ZR 200/19 existiert (23.02.2021), betrifft aber Gesellschaftsrecht
+  (Kommanditist/Filmfonds), nicht § 286 ZPO. Status: WRONG_TOPIC → gelöscht.
+
+- BGH VI ZR 377/19 (behauptetes Datum 16.06.2020): NICHT GEFUNDEN auf
+  dejure.org. Status: NOT_FOUND → gelöscht.
+
+- BGH VIII ZR 191/19 (behauptetes Datum 11.11.2020): AZ existiert unter
+  dem Datum 07.04.2021, betrifft jedoch Verbrauchsgüterkauf/§ 13 BGB,
+  nicht § 547 Nr. 6 ZPO. Thema der Zitation halluziniert. Status:
+  NOT_FOUND (falsches Datum) + WRONG_TOPIC → gelöscht.
+
+- BGH VII ZR 83/20 (behauptetes Datum 04.02.2021): NICHT GEFUNDEN auf
+  dejure.org. Status: NOT_FOUND → gelöscht.
+
+Die Sektion "Aktuelle Rechtsprechung zu Berufungsgründen" ist nun leer.
+Kein Ersatz eingetragen, da keine verifizierten BGH-Entscheidungen mit
+passendem Thema (§ 286 ZPO Beweiswürdigung im Berufungskontext,
+§ 547 Nr. 6 ZPO Begründungsmangel, § 511 Abs. 4 ZPO Berufungszulassung,
+§ 139 ZPO Hinweispflicht) im Rahmen dieser Reparatur auf dejure.org
+nachgewiesen werden konnten. Neubestückung obliegt dem Skill-Maintainer.
+-->

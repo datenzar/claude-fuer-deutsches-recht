@@ -18,9 +18,10 @@ Die Beweiswürdigung ist Kernkompetenz der Richterin oder des Richters. Sie laes
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 13.09.2023 - IV ZR 228/22, NJW 2023, 3515 — Beweiswürdigung ist Sache des Tatrichters; Revisionsgericht prüft nur ob Würdigung lückenhaft, widersprüchlich oder gegen Denk- und Erfahrungssätze verstößt.
-- BGH, Urt. v. 17.04.2012 - VI ZR 96/11, NJW 2012, 2194 — Aussage-gegen-Aussage: Gericht muss alle relevanten Umstände, insbesondere Konstanz, Detailreichtum und Eigeninteresse, abwägen.
 - BGH, Urt. v. 12.04.2011 - VI ZR 300/09, NJW 2011, 1811 — Sachverständigengutachten ist auf Plausibilität zu überprüfen; Gericht muss Bedenken gegen das Gutachten dem Sachverständigen vorlegen (§ 411 ZPO).
-- BGH, Urt. v. 29.01.2019 - VI ZR 113/17, NJW 2019, 1668 — Parteivernehmung nach § 448 ZPO nur, wenn Anbeweis für Parteivortrag bereits erbracht ist.
+- BGH, Urt. v. 29.01.2019 - VI ZR 113/17, NJW 2019, 2092 — Beweismaß Kfz-Unfall: § 286 ZPO gilt für haftungsbegründende Kausalität (Primärverletzung); erleichtertes Beweismaß § 287 ZPO nur für haftungsausfüllende Kausalität.
+
+<!-- AUDIT 27.05.2026: BGH VI ZR 96/11 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). BGH VI ZR 113/17 korrigiert – Thema war falsch angegeben (Parteivernehmung § 448 ZPO statt Beweismaß § 287 ZPO) und NJW-Fundstelle korrigiert (2019, 2092 statt 2019, 1668). -->
 
 ## Zentrale Normen
 

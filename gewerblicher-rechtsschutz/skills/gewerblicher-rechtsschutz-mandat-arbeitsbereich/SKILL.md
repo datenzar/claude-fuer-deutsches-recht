@@ -213,6 +213,11 @@ Bevor das Mandat angelegt wird, klaere:
 
 > **BGH, Urt. v. 08.11.2007 — IX ZR 189/06 (Anwaltshaftung Fristversaeumnis):** Ein Anwalt haftet nach § 280 I BGB, wenn er eine anwaltliche Frist versaeumt, die bei ordnungsgemaeßer Kanzleiorganisation haette erkannt werden muessen; die Pflicht zur zuverlaessigen Fristenkontrolle ist eine Kernanwaltspflicht.
 
-> **BGH, Urt. v. 01.07.2021 — IX ZR 109/19 (Anwaltshaftung Widerspruchsfrist Marke):** Der Anwalt, der ein Mandat zur Pruefen einer Marke uebernimmt, ist verpflichtet, alle markenrechtlichen Fristen (Widerspruchsfrist, Benutzungsschonfrist, Gebuehrenzahlungsfristen) zu erfassen und zu ueberwachen; die Nichterfassung einer Widerspruchsfrist ist ein gravierender Beratungsmangel.
 
 > **OLG Hamm, Urt. v. 19.05.2010 — 12 U 19/10 (Mandatsuebernahme ohne Konfliktpruefung):** Nimmt ein Rechtsanwalt ein Mandat an, ohne eine Interessenkollisionspruefung durchzufuehren, und vertraegt dieses Mandat einem frueheren Mandantenmandanten oder Gegner, macht er sich gegenueber dem geschaedigten Mandanten schadensersatzpflichtig nach §§ 280 I, 43a IV BRAO.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 031 / Halluzinations-Reparatur
+Problem: BGH IX ZR 109/19 (Datum 01.07.2021) auf dejure.org nicht gefunden (NOT_FOUND).
+Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
+-->

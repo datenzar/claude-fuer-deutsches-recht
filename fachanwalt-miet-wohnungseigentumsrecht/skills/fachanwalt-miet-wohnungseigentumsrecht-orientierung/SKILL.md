@@ -48,7 +48,6 @@ description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat b
 
 ## Maßgebliche Rechtsprechung
 
-- BGH, Beschl. v. 16.05.2017 – Az. VIII ZR 14/17, NJW 2017, 2819 Rn. 6 — Begriff der ortsüblichen Vergleichsmiete.
 - BGH, Urt. v. 22.08.2018 – Az. VIII ZR 277/16, BGHZ 219, 297 Rn. 19 — Eigenbedarfskündigung und Härtefall § 574 BGB.
 - BGH, Urt. v. 17.06.2015 – Az. VIII ZR 290/14, NJW 2015, 2419 Rn. 24 — Wirksamkeit Quotenabgeltungsklauseln.
 - BGH, Urt. v. 14.12.2022 – Az. VIII ZR 304/21, NJW 2023, 1289 Rn. 18 — Anforderungen an Mietspiegelbegründung.
@@ -74,7 +73,7 @@ description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat b
 
 ## Weiterfuehrende Leitsaetze BGH (Erweiterung)
 
-- BGH, Urt. v. 24.01.2024 — VIII ZR 283/22, NJW 2024, 1098 Rn. 20: Schoenhheitsreparaturen-Klausel mit starrem Freistellungsplan ist auch nach der Reform 2013 unwirksam; Renovierungspflicht entsteht nur durch Individualvereinbarung.
+<!-- BGH VIII ZR 283/22 entfernt: Az. nicht auffindbar (dejure.org, 27.05.2026) -->
 - BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 15: Die Mietpreisbremse nach § 556d BGB ist verfassungskonform; qualifizierte Ruege nach § 556g Abs. 2 BGB Voraussetzung fuer Rueckzahlungsanspruch.
 - BGH, Urt. v. 08.02.2023 — V ZR 8/22, NJW 2023, 2118 Rn. 22: Nach WEMoG-Reform klagt der Wohnungseigentuemer gegen die Gemeinschaft der Wohnungseigentuemer (§ 9a WEG); die alten Klagegegner (Miteigentuemer) sind seit 01.12.2020 nicht mehr passivlegitimiert.
 
@@ -84,3 +83,8 @@ description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat b
 - Bei familienrechtlichem Bezug (Ehewohnung) Schnittstelle zum Plugin `fachanwalt-familienrecht`.
 - Bei vereins- und gesellschaftsrechtlichem Bezug (WEG-Hausverwaltung als juristische Person) Schnittstelle zum Plugin `fachanwalt-handels-gesellschaftsrecht`.
 - Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, BGH-Pinpoint mit Rn., Hierarchie).
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 14/17: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
+BGH VIII ZR 283/22: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
+-->

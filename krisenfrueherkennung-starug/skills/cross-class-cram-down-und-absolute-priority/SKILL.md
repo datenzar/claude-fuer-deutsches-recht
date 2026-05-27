@@ -187,7 +187,7 @@ ERGEBNIS:
 ## Aktuelle Leitentscheidungen — Cross-Class Cramdown
 
 - BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — StaRUG Cramdown § 26: Plan kann gegen ablehnende Klasse bestaetigt werden wenn: (1) kein Glaeubiger schlechter als ohne Plan, (2) Mehrheit der Klassen zugestimmt, (3) keine Klasse uebervorteilt gegenueber anderen gleichrangigen.
-- BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 — InsO Cramdown § 245: Best-Interest-Test als Mindeststandard; Glaeubiger darf nicht weniger erhalten als in der Liquidation; IV/Schuldner traegt Beweislast.
+
 - LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Absolute Priority Rule: abgeleitete Anforderung aus § 26 StaRUG; nachrangige Glaeubiger duerfen keine Vorteile erhalten wenn vorrangige Klasse ablehnt.
 - BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Cramdown-Pruefung: Gericht prueft Cramdown-Voraussetzungen selbstaendig; mangelhafte Vergleichsrechnung fuehrt zur Ablehnung.
 
@@ -207,3 +207,8 @@ ERGEBNIS:
 - Braun/Herzig, StaRUG §§ 26-28 — Cramdown und Minderheitenschutz.
 - MüKo InsO/Eidenmüller § 245 InsO Rn. 1 ff. — Obstruktionsverbot.
 - Uhlenbruck/Lüer §§ 245-246 InsO Rn. 1 ff. — InsO Cramdown.
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 035:
+- GELOESCHT: BGH, Urt. v. 26.04.2018 — IX ZR 238/17, NZI 2018, 584 (Status: WRONG_TOPIC; reale Entscheidung betrifft Eigenverwaltung: Haftung des vertretungsberechtigten Geschaeftsleiters analog §§ 60 61 InsO BGHZ 218 290 — kein Bezug zu InsO Cramdown § 245 oder Best-Interest-Test)
+-->

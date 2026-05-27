@@ -31,9 +31,7 @@ Wer ein Gerichtsverfahren schnell erfassen muss — sei es beim Mandatswechsel, 
 ## Aktuelle Rechtsprechung zum Aktenauszug und Verfahrensrecht
 
 - BGH, Urt. v. 14.03.2023 - VIII ZR 300/22, NJW 2023, 2100 — Zur Pflicht des Gerichts nach § 139 ZPO, auf fehlende Angriffs- und Verteidigungsmittel hinzuweisen; ein mangelhafter Aktenauszug kann Hinweispflichtverletzung verschleiern.
-- BGH, Beschl. v. 22.06.2022 - VII ZB 36/20, NJW-RR 2022, 1350 — Zur formalen Anforderung an Schriftsätze und deren vollstaendige Vorlage in der Akte; Unvollständigkeit der Akte kann Wiedereinsetzungsgrund sein.
 - BGH, Urt. v. 10.11.2021 - VIII ZR 107/20, NJW 2022, 321 — Dokumentation und Nachvollziehbarkeit von Schriftsatz-Fristen als Voraussetzung wirksamer Fristenkontrolle.
-- BGH, Beschl. v. 29.09.2020 - VIII ZB 96/19, NJW 2021, 160 — Fristversäumnis durch unvollständige Aktenverwaltung begründet kein Verschulden des Anwalts nur bei ordnungsgemässem Kontrollsystem.
 
 ## Kommentarliteratur
 
@@ -187,3 +185,10 @@ Besonderheiten: [z.B. Beweissicherungsantrag gestellt, SV noch nicht bestellt]
 ## Hinweis
 
 Der Aktenauszug ersetzt nicht die eigene Aktenlektüre. Er ist ein strukturiertes Arbeits- und Kommunikationsmittel für den anwaltlichen Alltag und bedarf der Prüfung durch den verantwortlichen Rechtsanwalt.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BGH VII ZB 36/20: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org oder bundesgerichtshof.de; NJW-RR 2022, 1350 konnte keinem BGH VII ZB 36/20 zugeordnet werden)
+- BGH VIII ZB 96/19: ersatzlos entfernt (Entscheidung nicht auffindbar auf dejure.org; Datum 29.09.2020 ergibt kein Ergebnis fuer dieses Aktenzeichen)

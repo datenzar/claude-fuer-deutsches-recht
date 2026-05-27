@@ -44,18 +44,11 @@ sie wesentliche Risiken weglassen.
 
 ### Sorgfaltspflicht bei Risikoangaben
 
-- BGH, Urt. v. 10.07.2014 – IX ZR 197/12, NJW 2014, 2951 Rn. 14
-  (Anwaltshaftung bei fehlerhafter Beratung; vollständige Risikoaufklärung
-  als Kernpflicht; § 280 Abs. 1 BGB, § 675 BGB)
-- BGH, Urt. v. 15.10.2009 – IX ZR 143/08, NJW 2010, 146 Rn. 8
-  (Haftung für unvollständige Aufklärung über rechtliches Risiko;
-  Schadensersatzpflicht bei Weglassen wesentlicher Informationen)
-- BGH, Urt. v. 06.07.2006 – IX ZR 88/05, NJW-RR 2006, 1568 Rn. 12
-  (Beratungspflicht des Rechtsanwalts; Belehrung über alle
-  entscheidungsrelevanten Gesichtspunkte)
 - BGH, Urt. v. 07.03.2019 – IX ZR 143/18, NJW 2019, 1949 Rn. 20
   (Aufklärungspflicht bei Vertragsgestaltung; Hinweis auf AGB-Unwirksamkeit
   als Bestandteil ordnungsgemäßer Beratung)
+
+<!-- AUDIT 27.05.2026: BGH IX ZR 197/12 (10.07.2014) entfernt – real topic Steuerberaterhaftung/Feststellungsklage (NJW-RR 2015,626), nicht Anwaltshaftung Risikoaufklaerung (WRONG_TOPIC). BGH IX ZR 143/08 (15.10.2009) entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). BGH IX ZR 88/05 entfernt – Aktenzeichen auf dejure nicht auffindbar (NOT_FOUND). -->
 
 ### Kommentarliteratur
 

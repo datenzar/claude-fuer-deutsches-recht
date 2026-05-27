@@ -161,7 +161,6 @@ Klassische Stolperfalle in Bank-, Kapitalmarkt- und Wertpapierrecht:
 ### Schluessel-Leitsaetze Vergleich und Einigung
 
 - BGH, Urt. v. 09.06.2022 - IX ZR 108/21, NJW 2022, 2987 Rn. 24 — Vergleich nach § 779 BGB setzt gegenseitiges Nachgeben voraus; einseitiger Forderungsverzicht ist kein Vergleich sondern Erlass.
-- BGH, Urt. v. 25.06.2015 - VII ZR 200/14, NJW 2015, 2812 Rn. 18 — Pauschale Abgeltungsklausel erfasst auch kuenftige unbekannte Ansprueche wenn Parteien erkennbar eine Gesamtbereinigung wollten; Auslegung nach §§ 133, 157 BGB.
 - BGH, Urt. v. 12.07.2016 - XI ZR 564/15, NJW 2017, 245 — Verwirkung des Widerrufsrechts setzt Zeit- und Umstandsmoment voraus; Bank muss konkrete Vertrauenstatbestand nachweisen.
 - BGH, Urt. v. 18.01.2022 - XI ZR 467/20, NJW 2022, 1018 Rn. 15 — Bei Vergleich ueber Anlageberatungs-Schadensersatz muss Bank Kausalitaet durch Vergleich nicht mehr nachweisen; Vergleich schafft eigene Anspruchsgrundlage.
 
@@ -176,3 +175,5 @@ Klassische Stolperfalle in Bank-, Kapitalmarkt- und Wertpapierrecht:
 - Grueneberg BGB § 779 (Vergleich)
 - Zoe lner/Noack ZPO § 796a (Anwaltsvergleich)
 - Schimansky/Bunte/Lwowski Bankrechts-Handbuch § 134 (Vergleich im Bank- und Kapitalmarktrecht)
+
+<!-- AUDIT 27.05.2026: BGH VII ZR 200/14 (25.06.2015) NOT_FOUND auf dejure.org – Eintrag "Pauschale Abgeltungsklausel im Werkvertrag, NJW 2015, 2812 Rn. 18" gelöscht. VII ZR 200/14 existiert nicht; NJW 2015, 2812 nicht diesem AZ zuordenbar. Kein verifizierter Ersatz; bei Zweifel löschen. -->

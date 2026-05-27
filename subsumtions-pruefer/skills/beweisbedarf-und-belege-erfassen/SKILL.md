@@ -32,9 +32,7 @@ Jede Subsumtion steht und fällt mit dem Beweisergebnis. Dieser Skill erfasst f�
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 08.07.2020 - VIII ZR 163/18, NJW 2020, 2944 — Die sekundäre Darlegungslast des Beklagten greift, wenn der Kläger ausserhalb des maßgeblichen Geschehensablaufs steht und ihm nähere Einzelheiten nicht zugänglich sind; der Gegner muss dann zumutbar Auskunft geben.
-- BGH, Urt. v. 25.02.2020 - VI ZR 290/18, NJW 2020, 1538 — Für den Anscheinsbeweis bei typischem Geschehensablauf reicht hohe Wahrscheinlichkeit des typischen Zusammenhangs; der Gegner kann ihn durch Darlegung eines atypischen Verlaufs erschüttern.
 - BGH, Urt. v. 15.03.2017 - VIII ZR 295/15, NJW 2017, 2113 — Digitale Dokumente (E-Mails, Screenshots) unterliegen dem Urkundsbeweis analog §§ 415 ff. ZPO nur bei unbestrittener Echtheit; andernfalls Augenschein nach § 371 ZPO.
-- BGH, Beschl. v. 12.09.2019 - V ZB 226/17, NJW 2019, 3714 — Elektronische Übermittlung einer Beweismittelkopie im selbständigen Beweisverfahren ist zulässig; Vorlage des Originals bleibt vorbehalten.
 
 ## Beweismittel-Katalog (ZPO)
 
@@ -81,7 +79,7 @@ Ist die Tatsache streitig?
 
 ### Anscheinsbeweis (prima facie)
 
-Bei typischem Geschehensablauf greift der Anscheinsbeweis (z.B. Auffahrunfall → Abstandsmangel). Der Gegner muss den typischen Ablauf erschüttern durch Darlegung atypischer Umstände (BGH NJW 2020, 1538).
+Bei typischem Geschehensablauf greift der Anscheinsbeweis (z.B. Auffahrunfall → Abstandsmangel). Der Gegner muss den typischen Ablauf erschüttern durch Darlegung atypischer Umstände.
 
 ### Elektronische Dokumente
 
@@ -143,3 +141,8 @@ Mit freundlichen Grüßen
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH V ZB 226/17 (WRONG_TOPIC): Urteil vom 20.04.2018 betrifft Ausreisegewahrsam nach AufenthG — kein Beweisrecht-Bezug. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt; Zitation in Anscheinsbeweis-Abschnitt ebenfalls entfernt.
+BGH VI ZR 290/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht. Gesamte Zeile aus "Aktuelle Rechtsprechung" entfernt.
+-->

@@ -17,7 +17,7 @@ Paragraf 232 ZPO verlangt eine Rechtsmittelbelehrung bei jeder Entscheidung, geg
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 06.05.2004 - IX ZR 48/03, NJW 2004, 2309 — Fehlende oder falsche Rechtsmittelbelehrung (§ 232 ZPO) verlängert keine Rechtsmittelfrist; Belehrung hat nur Informationsfunktion.
+- BGH, Beschl. v. 16.10.2003 - IX ZB 36/03, NJW-RR 2004, 408 — Falsche Rechtsmittelbelehrung verlängert keine Rechtsmittelfrist; unzutreffende Belehrung kann aber Wiedereinsetzungsgrund sein, wenn sie entschuldbaren Rechtsirrtum hervorruft.
 - BGH, Beschl. v. 22.11.2011 - II ZR 196/10, NJW 2012, 590 — Berufungsfrist ist Notfrist; Versäumung führt zum Rechtskrafteintritt; Wiedereinsetzung nur nach § 233 ZPO.
 - BGH, Beschl. v. 12.10.2016 - XII ZB 267/16, NJW 2017, 64 — Anwaltszwang vor dem Berufungsgericht (§ 78 Abs. 1 ZPO); ohne Anwalt eingelegte Berufung ist unzulässig.
 - BGH, Urt. v. 14.07.2015 - VI ZR 463/14, NJW 2015, 3234 — Berufungsgericht kann Berufung nur aus den in § 513 ZPO genannten Gründen begründen; keine neuen Tatsachen (§ 531 ZPO) ohne Ausnahme.
@@ -87,3 +87,11 @@ Form und Frist:
 ## Standardformulierung
 
 "Gegen dieses Urteil ist die Berufung statthaft. Die Berufung ist binnen einer Frist von einem Monat nach Zustellung des Urteils beim Landgericht Hamburg (Sievekingplatz Nummer 1 in 20355 Hamburg) schriftlich oder zu Protokoll der Geschäftsstelle einzulegen und binnen einer Frist von zwei Monaten nach Zustellung schriftlich zu begründen. Vor dem Berufungsgericht besteht Anwaltszwang."
+
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.

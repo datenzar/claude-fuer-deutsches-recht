@@ -46,10 +46,8 @@ Gültig seit 1.7.2025 (Bekanntmachung BMJ). Die Tabelle wird zum 1.7. jeden unge
 
 ## Leitentscheidungen
 
-- BGH 5.4.2005 – VII ZB 17/05 (Berechnung Sonderzuwendung § 850a Nr. 4 ZPO)
-- BGH 17.4.2013 – VII ZB 16/12 (Zusammenrechnung § 850e ZPO mit Sozialleistung)
+- BGH 5.4.2005 – VII ZB 17/05 (Vollstreckungsprivileg § 850f Abs. 2 ZPO – Anforderungen an privilegierten Gläubiger)
 - BGH 26.6.2014 – IX ZB 88/13 (Drittschuldnererklärung Arbeitgeber)
-- BAG 17.4.2013 – 10 AZR 281/12 (Pfändbarkeit von Arbeitnehmersparzulage)
 
 ## Ausgabeformat
 
@@ -76,6 +74,13 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 - Bei mehreren Einkommen (Lohn + Rente, Lohn + Selbstständigkeit) Zusammenrechnung § 850e ZPO ausdrücklich beantragen.
 - Bei privilegierten Unterhaltsforderungen § 850d ZPO eigene Festsetzung beantragen.
 - Bei Sterbe-/Krankengeld besondere Pfändbarkeitsgrenzen prüfen.
+
+<!-- AUDIT 27.05.2026
+Geprüft: 3 AZ aus task_259.json
+- BAG 10 AZR 281/12: WRONG_TOPIC (real: 13. Gehalt/AGB-Auslegung, nicht Arbeitnehmersparzulage) → gelöscht
+- BGH VII ZB 16/12: NOT_FOUND auf dejure.org → gelöscht
+- BGH VII ZB 17/05: WRONG_TOPIC (real: § 850f Abs. 2 ZPO Vollstreckungsprivileg, nicht § 850a Nr. 4) → Beschreibung korrigiert
+-->
 
 ## Querverweise
 

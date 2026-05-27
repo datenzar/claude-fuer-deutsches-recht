@@ -43,7 +43,7 @@ Der Sammelantrag (Mehrfachantrag) ist die jährliche Pflicht-Antragstellung für
 |---|---|---|
 | BVerwG | 3 C 21/18 | Anforderungen an Flächenbeschreibung im Förderantrag; Unschärfen gehen zu Lasten des Antragstellers |
 | OVG Münster | 18 A 2567/17 | Rückforderung bei rückwirkender Flächenänderung; Vertrauensschutz nur bei vollständiger Offenlegung |
-| OVG Lüneburg | 10 LA 189/20 | Sanktionsberechnung bei Verspätung; ein Prozent je Werktag ist verfassungskonform |
+
 | EuGH | C-434/16 | Verhältnis GLÖZ-Verstoß zu Direktzahlungskürzung; Verhältnismäßigkeitsprinzip gilt |
 
 ## Prüfschema Sammelantrag
@@ -226,7 +226,7 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 - VO (EU) 2021/2116 Horizontale Verordnung
 - GAPDZG, GAPInVeKoSG, GAPKondV
 - § 41 VwVfG (Bekanntgabefiktion), § 68 VwGO (Widerspruch)
-- BVerwG 3 C 21/18; OVG Münster 18 A 2567/17; OVG Lüneburg 10 LA 189/20
+- BVerwG 3 C 21/18; OVG Münster 18 A 2567/17
 - Düsing/Martinez Agrarrecht; Schweizer/Schwind GAP-Praxis
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
@@ -234,3 +234,7 @@ Frist: § 68 VwGO — ein Monat ab Bekanntgabe (§ 41 VwVfG).
 EuGH, Urt. v. 14.10.2021 — **C-936/19**, NVwZ 2022, 56 Rn. 28: Sanktionssystem der GAP-Horizontalen Verordnung muss verhältnismäßig sein; bei erstmaligen, geringfügigen und unverschuldeten Verstößen gegen GLÖZ-Standards ist eine Kürzung von mehr als 1 % nicht gerechtfertigt; Mitgliedstaaten dürfen keine rigidere Sanktionspraxis einführen.
 
 BVerwG, Urt. v. 04.07.2019 — **3 C 24.17**, BVerwGE 166, 88 Rn. 16: Behörde muss bei Vor-Ort-Kontrolle Messunsicherheiten von mindestens 1,5 % der Fläche zugunsten des Antragstellers berücksichtigen; GPS-Messung unter 1 m Genauigkeit ist ausreichend genaues Referenzverfahren.
+
+<!-- AUDIT 27.05.2026
+OVG Lüneburg 10 LA 189/20 (NOT_FOUND): Auf dejure.org keine Treffer. Zitat gelöscht aus Leitentscheidungen-Tabelle und Quellen-Abschnitt.
+-->

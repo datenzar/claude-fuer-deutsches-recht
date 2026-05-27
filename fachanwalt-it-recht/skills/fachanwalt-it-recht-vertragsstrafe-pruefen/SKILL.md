@@ -20,7 +20,6 @@ description: "Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Ho
 - Bei Werkleistung Vorbehalt nötig § 341 Abs. 3 BGB sonst Verwirkung.
 - AGB-Kontrolle: Transparenz § 307 Abs. 1 Satz 2 BGB; unangemessene Benachteiligung § 307 Abs. 1 Satz 1 BGB.
 - BGH zur Höchstgrenze bei Tagessatz-Vertragsstrafen: BGH VII ZR 210/01, Urt. v. 23.01.2003, Rn. 19 (Bauvertrag, fünf Prozent der Auftragssumme als Obergrenze unbedenklich).
-- BGH zur Unwirksamkeit ohne Höchstgrenze in AGB: BGH VII ZR 165/14, Urt. v. 06.12.2016, Rn. 26.
 - Herabsetzungsmöglichkeit § 343 BGB nur außerhalb beiderseitigen Handelsgeschäftes § 348 HGB.
 - Anrechnung auf Schadensersatz § 340 Abs. 2 BGB bzw. § 341 Abs. 2 BGB.
 
@@ -98,8 +97,6 @@ Mit freundlichen Gruessen
 
 ## Aktuelle Rechtsprechung (v14.2)
 - BGH, Urt. v. 23.01.2003 — VII ZR 210/01, NJW 2003, 1805 Rn. 19: Tagessatz-Vertragsstrafe im Bauvertrag bis fuenf Prozent der Auftragssumme als Hoechtgrenze in AGB wirksam.
-- BGH, Urt. v. 06.12.2016 — VII ZR 165/14, NJW 2017, 1017 Rn. 26: Tagessatz-Klausel ohne Hoechtgrenze in AGB nach § 307 BGB unwirksam.
-- BGH, Urt. v. 10.12.2015 — VII ZR 117/15, NJW 2016, 863 Rn. 21: Vertragsstrafe fuer Datenschutzverstoesse in IT-AGB — Klarheitsgebot des § 307 Abs. 1 Satz 2 BGB erfordert eindeutige Beschreibung der strafbewehrten Pflicht.
 - BGH, Urt. v. 20.01.2016 — VIII ZR 26/15, NJW 2016, 1230 Rn. 14: Herabsetzungsantrag § 343 BGB — Masstab ist das Interesse des Glaubigers am Versprechen zum Zeitpunkt der Entstehung; Leistungsinteresse und Abschreckungsinteresse zu gewichten.
 
 ## Zentrale Normen (Paragrafenkette)
@@ -157,3 +154,11 @@ Weitergehende Schadensersatzansprueche bleiben vorbehalten (§ 340 Abs. 2 BGB).
 Mit freundlichen Gruessen
 [KANZLEI]
 ```
+
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZR 117/15 (NOT_FOUND) geloescht.
+Zusaetzlich: BGH VII ZR 165/14 (NOT_FOUND) ebenfalls geloescht (beide Entscheidungen
+nicht auf dejure.org nachweisbar). Verbleibende Zitate VII ZR 210/01 und VIII ZR 26/15
+sind verifiziert.
+-->

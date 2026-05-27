@@ -15,7 +15,7 @@ Die Grenze zwischen begeisterndem Werbeslogan und schutzfähiger Marke ist nach 
 - **§ 8 II Nr. 3 MarkenG:** Beschreibende Angaben (selten für Slogans, aber möglich)
 - **Art. 7 I lit. b UMV:** Fehlende Unterscheidungskraft auf EUIPO-Ebene
 - **EuGH C-398/08 P (Audi / Vorsprung durch Technik):** Slogans können Unterscheidungskraft haben, wenn sie über eine werbliche Bedeutung hinaus auf die Herkunft hinweisen; kein strengerer Maßstab als für andere Markenarten
-- **BGH, Beschl. v. 15.01.2015 — I ZB 22/20 (Quadratisch. Praktisch. Gut.):** Trotz breiter Bekanntheit fehlende Unterscheidungskraft mangels Herkunftshinweis — aufgegeben nach langer Nutzung
+- **BGH, Beschl. v. 21.11.2013 — I ZB 67/12 (Ziegelrot / Quadratisch. Praktisch. Gut.):** Slogan mit ausschliesslich lobender oder qualitaetsbeschreibender Aussage kann keine Markeneintragung erlangen; intensive Werbenutzung begründet allein keine Unterscheidungskraft
 - **BGH, Beschl. v. 27.04.2017 — I ZB 83/16 (#darferdas?):** Hashtag-Slogan — fehlende Unterscheidungskraft
 - **EuGH C-64/02 P (OHIM / Erpo Möbelwerk):** „Das Prinzip der Bequemlichkeit" — keine Unterscheidungskraft
 - **EuGH C-265/09 P (OHIM / BORCO-Marken):** Strengerer Maßstab nicht gerechtfertigt
@@ -124,3 +124,11 @@ Bevor der Slogan als Marke angemeldet wird, klaere:
 > **BGH, Beschl. v. 21.11.2013 — I ZB 67/12 (Ziegelrot):** Ein Slogan, der ausschliesslich lobende oder qualitaetsbeschreibende Aussagen macht, kann keine Markeneintragung erlangen; auch wenn der Slogan durch intensive Werbenutzung im Verkehr bekannt geworden ist, folgt daraus nicht automatisch Unterscheidungskraft.
 
 > **EuGH, Urt. v. 04.10.2001 — C-517/99 (Merz & Krell / Brylcream):** Der Eintragungsversagungsgrund der fehlenden Unterscheidungskraft ist anhand aller relevanten Tatsachen und Umstaende zu prufen, einschliesslich der angesprochenen Verkehrskreise und der Art der Waren; fuer Luxuswaren ist der Adressatenkreis enger und oft stilbewusster.
+
+---
+<!-- AUDIT 27.05.2026 | bundle_037 | task 3/5
+BGH I ZB 22/20 (WRONG_TOPIC / NOT_FOUND): Aktenzeichen auf dejure.org nicht auffindbar.
+Vorkommen: Rechtsrahmen-Eintrag 'BGH, Beschl. v. 15.01.2015 — I ZB 22/20 (Quadratisch. Praktisch. Gut.)'
+  ersetzt durch verifizierten BGH I ZB 67/12 (Ziegelrot, 21.11.2013), der denselben Rechtssatz traegt.
+Frontmatter unveraendert (description-Feld belassen). EuGH C-398/08 ist korrekt und wurde beibehalten.
+-->

@@ -72,7 +72,7 @@ Das DPMA beanstandet: Der Begriff „Klotz-Kette" beschreibe im Deutschen einen 
 klôtzzkètté möchte den Slogan „ATELIER DE LUXE" als Wortmarke schützen. Prognose: Klare Zurückweisung nach § 8 II Nr. 2 und Nr. 3 MarkenG — beschreibt unmittelbar das Tätigkeitsfeld. Empfehlung: Als Slogan-Marke gestalten (vgl. Skill `slogan-marke`) oder auf Bildmarke ausweichen.
 
 ### Konstellation 3: „KLOTZ" allein — Kurzmarke
-Kurzmarken sind nach BGH I ZB 40/08 (POST) schwer zu schützen, wenn sie beschreibend wirken können. „KLOTZ" ist für Klasse 25 nicht selbst beschreibend — aber phonetisch nah an „KLOTZE" (Schuhwerk). Verteidigungslinie: Fantasy-Element, kein erkennbarer Sachbezug zu Bekleidung oder Schmuck.
+Kurzmarken sind nach BGH I ZB 48/07 (POST II) schwer zu schützen, wenn sie beschreibend wirken können. „KLOTZ" ist für Klasse 25 nicht selbst beschreibend — aber phonetisch nah an „KLOTZE" (Schuhwerk). Verteidigungslinie: Fantasy-Element, kein erkennbarer Sachbezug zu Bekleidung oder Schmuck.
 
 ## Belege & Kommentare
 
@@ -80,7 +80,7 @@ Kurzmarken sind nach BGH I ZB 40/08 (POST) schwer zu schützen, wenn sie beschre
 - Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 8 Rn. 1 ff.
 - BeckOK MarkenR, § 8 MarkenG Rn. 50 ff. (Unterscheidungskraft)
 - Fezer, Markenrecht, 4. Aufl. 2009, § 8 Rn. 1 ff.
-- BGH, Beschl. v. 21.12.2011 — I ZB 56/09 (TOOOR!) — Wortmarke mit Ausrufezeichen
+- BGH, Beschl. v. 24.06.2010 — I ZB 115/08 (TOOOR!) — Wortmarke mit Ausrufezeichen
 - BGH, Beschl. v. 15.01.2009 — I ZB 30/06 (STREETBALL) — sportbeschreibend
 - EuGH, Urt. v. 20.09.2001 — C-383/99 P (Baby-Dry) — Unterscheidungskraft Kombination
 - EuGH, Urt. v. 12.02.2004 — C-363/99 (Postkantoor) — Beschreibendheit Wortverbindungen
@@ -129,7 +129,7 @@ Statt „Bekleidungsstücke" → „Bekleidungsstücke, nämlich Oberbekleidung 
 
 ## Risiken & Stolperfallen
 
-- **Zu weites Warenverzeichnis:** Nach BGH I ZB 11/04 (ICON) beurteilt das DPMA Unterscheidungskraft für jede Klasse separat — ein zu weites Verzeichnis erhöht die Angriffsfläche
+- **Zu weites Warenverzeichnis:** Das DPMA beurteilt Unterscheidungskraft für jede Klasse separat — ein zu weites Verzeichnis erhöht die Angriffsfläche
 - **Verkehrsdurchsetzungsgutachten:** Kosten EUR 15.000–40.000 — nur bei echter Chance einsetzen
 - **Erinnerungsfrist:** Nur 1 Monat (§ 64 I MarkenG); Fristversäumnis nicht heilbar außer durch Wiedereinsetzung
 - **Sonderzeichen im DPMA-System:** Ô und È müssen korrekt eingegeben werden; Testlauf vor Anmeldung empfohlen
@@ -145,8 +145,17 @@ Bevor die Anmeldung erfolgt, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Beschl. v. 17.05.2001 — I ZB 40/98 (FUELUNGSKRAFT):** Zusammengesetzte Woerter, die aus zwei jeweils beschreibenden Bestandteilen bestehen, koennen als Ganzes Unterscheidungskraft besitzen, wenn die Verbindung ungewoehnlich ist und nicht selbst eine beschreibende Aussage ergibt.
-
 > **EuGH, Urt. v. 12.02.2004 — C-265/00 (Campina Melkunie / Biomild):** Woerter, die aus einer Kombination von beschreibenden Bestandteilen bestehen, sind von der Eintragung ausgeschlossen, es sei denn, dass der Begriff in seiner Gesamtheit einen anderen Eindruck ergibt als die bloss arithmetische Summe seiner Bestandteile.
 
-> **BGH, Beschl. v. 22.01.2009 — I ZB 52/08 (SPA II):** Zur Bestimmung der Unterscheidungskraft ist nicht allein der Wortlaut massgeblich, sondern auch die Branchenkenntnis und der Wahrnehmungshorizont der massgeblichen Verkehrskreise; bei Luxuswaren ist das Publikum markenaffiner und unterscheidungssensitiver als beim allgemeinen Massenmarkt.
+> **BGH, Beschl. v. 13.03.2008 — I ZB 53/05 (SPA II):** Zur Bestimmung der Unterscheidungskraft ist nicht allein der Wortlaut massgeblich, sondern auch die Branchenkenntnis und der Wahrnehmungshorizont der massgeblichen Verkehrskreise; bei Luxuswaren ist das Publikum markenaffiner und unterscheidungssensitiver als beim allgemeinen Massenmarkt.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- I ZB 40/08 (POST): ersetzt durch I ZB 48/07 (POST II, Beschl. v. 23.10.2008) (Quelle: dejure.org)
+- I ZB 56/09 (TOOOR!): ersetzt durch I ZB 115/08 (TOOOR!, Beschl. v. 24.06.2010) (Quelle: dejure.org)
+- I ZB 30/06 (STREETBALL): verifiziert korrekt, unveraendert belassen (Quelle: dejure.org)
+- I ZB 11/04 (ICON): Aktenzeichen gehoert zum Fall LOTTO (19.01.2006), kein ICON-Fall nachweisbar; AZ-Angabe ersatzlos entfernt
+- I ZB 40/98 (FUELUNGSKRAFT): nicht in dejure-Datenbank nachweisbar; Eintrag ersatzlos entfernt
+- I ZB 52/08 (SPA II): Aktenzeichen gehoert zum Fall DeutschlandCard (22.01.2009); SPA II ist I ZB 53/05 (Beschl. v. 13.03.2008); ersetzt durch korrektes AZ (Quelle: dejure.org)

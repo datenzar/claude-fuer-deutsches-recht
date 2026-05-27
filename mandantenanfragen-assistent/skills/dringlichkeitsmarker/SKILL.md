@@ -17,7 +17,7 @@ Dieser Skill erkennt Eile- und Fristen-Signale in der Eingangsanfrage und setzt 
 ## Aktuelle Rechtsprechung
 - BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Anwalt muss auf erkennbare Fristen-Signale in Mandantenanfragen sofort reagieren; verspaetete Erstantwort bei akuter Frist begruendet Haftungsrisiko nach § 51 BRAO.
 - BGH, Beschl. v. 19.04.2023 - XII ZB 526/22, NJW 2023, 2035 — Notfrist (Berufung, Revision) laeuft auch, wenn kein Mandat erteilt wurde; Anwalt muss Fristproblem sofort eskalieren, wenn er davon weiss.
-- BAG, Urt. v. 23.05.2023 - 5 AZR 400/22, NZA 2023, 1100 — Kuendigungsschutzklage: 3-Wochen-Frist nach § 4 KSchG beginnt mit Zugang; erstes Gespräch muss Fristeintrag ausloesen.
+
 - BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtswahrnehmung erfordert sofortiges Handeln bei drohenden Rechtsnachteilen; Erstantwort-System muss Dringlichkeitseskalation sicherstellen.
 
 ## Zentrale Normen
@@ -142,3 +142,11 @@ Bei Unsicherheit über die Dringlichkeit: Eher MITTEL als NIEDRIG. Bei Unsicherh
 - `erstantwort-generator` — empfängt die Dringlichkeitsstufe und Hinweis-Texte
 - `folgekorrespondenz-vorbereiten` — Dringlichkeitsstufe im CRM-Eintrag
 - `mandatsverhaeltnis-hinweis` — bei HOCH: Langform mit Frist-Warnung
+
+---
+<!-- AUDIT 27.05.2026 | Bundle 036
+Entfernt: BAG 5 AZR 400/22 — WRONG_TOPIC und AZ auf dejure.org nicht auffindbar.
+Behauptetes Thema: Kuendigungsschutzklage 3-Wochen-Frist § 4 KSchG (NZA 2023, 1100) — falsch.
+Echtes Thema laut Recherche: Annahmeverzug Prozessbeschaeftigung § 11 KSchG (passt zu BAG 5 AZR 255/22, 29.03.2023).
+Aktion: Eintrag geloescht.
+-->

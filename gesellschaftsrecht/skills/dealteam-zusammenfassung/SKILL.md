@@ -22,7 +22,7 @@ Vor der Erstellung des Briefings klären:
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 01.03.2010 – II ZR 213/08, NJW 2010, 1808 Rn. 14 — Beim Unternehmenskauf trägt der Käufer grundsätzlich das Risiko nicht offenbarter Mängel; Aufklärungspflicht des Verkäufers bei objektiv wesentlichen, wertbestimmenden Umständen, die der Käufer nicht selbst erkennen kann.
+<!-- AZ II ZR 213/08 entfernt (27.05.2026): Urteil betrifft Prospekthaftung Medienfonds ApolloProMedia (NJW-RR 2010, 911), nicht Aufklaerungspflicht beim Unternehmenskauf. -->
 - BGH, Urt. v. 27.03.2009 – V ZR 30/08, NJW 2009, 2064 Rn. 25 — Due-Diligence-Pflicht des Käufers; Kenntnis von im Datenraum offengelegten Mängeln schließt Gewährleistung regelmäßig aus (§ 442 BGB).
 - OLG Frankfurt, Urt. v. 10.09.2020 – 26 U 35/19 — Unzureichende Offenlegung im Datenraum heilte die Aufklärungspflichtverletzung nicht; späterer Hinweis auf versteckte Dokumente kann Sorgfaltspflicht nicht erfüllen.
 - BGH, Urt. v. 08.01.2019 – KVZ 57/17, NJW 2019, 1067 — Vollzugsverbot nach § 41 GWB; rechtswidriger Vollzug vor Kartellfreigabe führt zu Bußgeld und Unwirksamkeit.
@@ -142,7 +142,7 @@ Normen-Basis je nach DD-Findings. Zitierweise nach `../../references/zitierweise
 Kommentarliteratur:
 - MüKoGmbHG/Fleischer, 4. Aufl. 2022.
 - Roth/Altmeppen, GmbHG, 11. Aufl. 2023.
-- BGH, Urt. v. 01.03.2010 – II ZR 213/08, NJW 2010, 1808 (Risikoverteilung beim Unternehmenskauf).
+<!-- AZ II ZR 213/08 entfernt (27.05.2026): Falsche Zuordnung, siehe Audit-Hinweis unten. -->
 
 ## Risiken / typische Fehler
 
@@ -150,3 +150,10 @@ Kommentarliteratur:
 - **Preisanpassung ohne Quantifizierung:** Blockierende Findings ohne Risikowert lassen die GF ohne Entscheidungsgrundlage.
 - **Vollzugspunkte nicht an Checkliste übergeben:** Diese Zusammenfassung ist der letzte Filter vor dem Vollzug.
 - **Verteilungskreis:** Ebene 3 bleibt im Privilegierungskreis; nie an Gegenpartei senden.
+
+---
+## Audit-Hinweis (27.05.2026)
+
+Geprüfte AZ: BGH II ZR 213/08.
+Status: WRONG_TOPIC — das Urteil betrifft Prospekthaftung wegen falscher Darstellung eines Vorgängerfonds (Medienfonds ApolloProMedia, NJW-RR 2010, 911), nicht Aufklaerungspflicht beim Unternehmenskauf.
+Maßnahme: Beide Nennungen entfernt (Rechtsprechungsabschnitt und Quellenabschnitt). Kein Ersatz eingefuegt; die verbleibenden drei Urteile decken Due Diligence und Vollzugsverbot zutreffend ab.

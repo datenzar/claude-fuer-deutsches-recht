@@ -51,7 +51,6 @@ Verbindlich: `../references/zitierweise.md`.
 
 - Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 278 Rn. 1 ff. (Güteverhandlung, Vergleich: Pflicht des Gerichts zur Vergleichsförderung in jeder Lage des Verfahrens).
 - BGH, Urt. v. 22.11.2023 – IV ZR 197/22, NJW 2024, 348 Rn. 12 (Änderung der Anspruchsgrundlage nach § 264 ZPO: keine Klageänderung).
-- BGH, Urt. v. 05.07.2023 – VIII ZR 91/22, NJW 2023, 2893 Rn. 22 (Streitwertfestsetzung und Kostenrisiko bei Teilklagerücknahme).
 - Schulze, in: BeckOK ZPO, 52. Ed. (Stand 01.03.2024), § 264 Rn. 8 ff. (Klageänderung, Streitgegenstand).
 
 ## Ausgabeformat
@@ -100,3 +99,10 @@ Vergleichspotential: [Einschätzung]
 - **Veraltete mandat.md:** Ohne regelmäßige Updates per `/mandat-update` liefert das Briefing einen falschen Stand; nach jeder Entwicklung updaten.
 - **Fristversäumnis-Risiko:** Das Briefing ersetzt nicht den Fristenkalender; jede Frist muss separat in das Kanzlei-Fristbuch eingetragen werden.
 - **Vertraulichkeit des Briefings:** Das Briefing enthält Mandatsgeheimnisse; Empfängerkreis sorgfältig wählen (§ 43a Abs. 2 BRAO); nicht per unverschlüsselter E-Mail versenden.
+
+
+<!-- AUDIT 27.05.2026
+AZ BGH VIII ZR 91/22 entfernt: Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND);
+Recherche vom 27.05.2026 ergab keinen Treffer fuer Datum 05.07.2023 mit AZ VIII ZR 91/22.
+Halluzinierte Referenz geloescht. Keine Ersatzquelle gefunden.
+-->

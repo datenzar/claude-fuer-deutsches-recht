@@ -146,6 +146,13 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 - Aktenanlage Datum
 - Naechster-Schritt
 
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BAG 9 AZR 217/20: ersatzlos entfernt (Aktenzeichen betrifft Beschaeftigungsanspruch/Direktionsrecht, nicht Beratungspflicht beim Aufhebungsvertrag; kein verifiziertes Ersatz-AZ auffindbar)
+- BGH IX ZR 145/15: ersetzt durch BGH IX ZR 125/10 vom 10.05.2012 (BGHZ 193, 193; NJW 2012, 2435) — anwaeltliche Beratungspflicht, vollstaendige Belehrungspflicht (Quelle: dejure.org)
+
 ## Cross-Refs
 
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer den Fall, dass aussergerichtliche Loesung angestrebt wird.
@@ -155,8 +162,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 ## Aktuelle Rechtsprechung
 
 - **BAG, Urt. v. 11.12.2019 — 7 AZR 620/17**, NZA 2020, 449 — Sorgfaltspflichten des Rechtsanwalts bei Fristversäumnis im Arbeitsrecht; Wiedereinsetzung nach § 233 ZPO nur bei fehlendem Verschulden; sofortige Fristenerfassung im Erstgespräch ist anwaltliche Pflicht.
-- **BAG, Urt. v. 15.09.2021 — 9 AZR 217/20**, NZA 2021, 1556 — Beratungspflicht des Anwalts über Sperrzeit-Risiken beim Aufhebungsvertrag; fehlende Aufklärung kann Schadensersatzpflicht des Anwalts begründen.
-- **BGH, Urt. v. 17.11.2016 — IX ZR 145/15**, NJW 2017, 558 — Anwaltliche Pflicht zur vollständigen Interessenwahrnehm ung im Erstgespräch; alle bekannten Fristen müssen sofort im Kalender eingetragen werden.
+- **BGH, Urt. v. 10.05.2012 — IX ZR 125/10**, BGHZ 193, 193; NJW 2012, 2435 — Anwaltliche Pflicht zur vollständigen und erschöpfenden Belehrung des Auftraggebers; Anwalt muss Erfolgsaussichten konkret bewerten und darf sich nicht auf eine "offene" Einschätzung beschränken; Grundsatz des beratungsgerechten Verhaltens (Quelle: dejure.org).
 
 ## Paragrafenkette Fristen Arbeitsrecht
 

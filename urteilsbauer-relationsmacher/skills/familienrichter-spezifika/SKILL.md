@@ -19,7 +19,7 @@ Familiensachen folgen FamFG statt ZPO (mit Verweisen auf ZPO).
 
 - BGH, Beschl. v. 26.10.2022 - XII ZB 234/22, NJW 2023, 288 — Kindeswohl (§ 1697a BGB) ist Leitprinzip; bei Umgangsstreit ist stets eine Kindeswohlprüfung durchzuführen, auch wenn beide Elternteile zustimmen.
 - BGH, Beschl. v. 01.02.2023 - XII ZB 57/22, NJW 2023, 1215 — Versorgungsausgleich ist im Verbund zwingend zu behandeln (§ 137 FamFG); Abtrennung nur in engen Ausnahmen möglich.
-- BGH, Beschl. v. 08.03.2017 - XII ZB 192/16, NJW 2017, 1753 — Anhörungspflicht des Kindes ab 3 Jahren (§ 159 FamFG); unterlassene Anhörung führt zur Aufhebung des Beschlusses durch OLG.
+- BGH, Beschl. v. 15.06.2016 - XII ZB 419/15, NJW 2016, 2497 — Die persönliche Anhörung des Kindes ist im Sorgerechtsverfahren grundsätzlich erforderlich, regelmäßig auch bei einem noch nicht 14 Jahre alten Kind (§ 159 FamFG); unterlassene Anhörung stellt einen Verfahrensmangel dar.
 - BVerfG, Beschl. v. 22.09.2014 - 1 BvR 2102/14, NJW 2014, 3784 — Umgangsrecht des Vaters aus Art. 6 Abs. 2 GG; Einschränkung nur bei konkreter Kindeswohlgefährdung.
 
 ## Zentrale Normen
@@ -93,3 +93,5 @@ Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfällen 14 Tage), bei
 - "Im Namen des Volkes" entfaellt
 - Stattdessen: "Beschluss"
 - Tenor wie beim Urteil, aber mit den familiengerichtlichen Spezifika (z. B. Sorgerechtsregelung, Umgangsregelung)
+
+<!-- AUDIT 27.05.2026: BGH XII ZB 192/16 (08.03.2017) entfernt — WRONG_TOPIC (echter Inhalt: Ausbildungsunterhalt Abitur-Lehre-Studium, NJW 2017, 1478; kein Bezug zu Anhoerungspflicht/Sorgerecht). Ersetzt durch BGH XII ZB 419/15 (15.06.2016, NJW 2016, 2497, BGHZ 211, 22): persoenliche Anhoerung des Kindes im Sorgerechtsverfahren, § 159 FamFG, auf dejure.org bestaetigt. -->

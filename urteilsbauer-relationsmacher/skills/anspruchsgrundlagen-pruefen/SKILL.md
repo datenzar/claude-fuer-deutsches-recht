@@ -17,9 +17,9 @@ Identifiziert alle in Betracht kommenden Anspruchsgrundlagen und prüft sie sche
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 24.09.2019 - VI ZR 373/18, NJW 2020, 466 — Anspruchskonkurrenz zwischen § 280 BGB und § 823 BGB: jede Anspruchsgrundlage ist eigenständig zu prüfen, Einschränkungen des einen Anspruchs schlagen nicht auf den anderen durch.
-- BGH, Urt. v. 26.11.2015 - VII ZR 101/14, NJW 2016, 560 — Bereicherungsrecht subsidiär bei wirksamen Vertrag; § 812 BGB setzt Fehlen eines rechtlichen Grundes voraus.
-- BGH, Urt. v. 18.07.2017 - VI ZR 395/16, NJW 2018, 386 — Produkthaftung nach ProdHG und deliktische Haftung nach § 823 Abs. 1 BGB stehen selbstständig nebeneinander.
+- BGH, Urt. v. 27.01.2005 - VII ZR 158/03, NJW 2005, 1423 — Anspruchskonkurrenz zwischen vertraglichen und deliktischen Ansprüchen: miteinander konkurrierende Ansprüche aus Vertrag und § 823 Abs. 1 BGB sind nach ihren Voraussetzungen und Rechtsfolgen grundsätzlich selbständig zu beurteilen; die Verjährung richtet sich nach den jeweils anwendbaren Vorschriften.
+- BGH, Urt. v. 10.02.2005 - VII ZR 184/04, NJW 2005, 1356 — Bereicherungsausgleich im Mehrpersonenverhältnis bei nichtigen Bauträgerverträgen; § 812 Abs. 1 S. 1 BGB setzt das Fehlen eines rechtlichen Grundes voraus; Leistung ist die bewusste und zweckgerichtete Vermehrung fremden Vermögens.
+- BGH, Urt. v. 16.06.2009 - VI ZR 107/08, NJW 2009, 2952 — Produkthaftung nach ProdHaftG und deliktische Haftung nach § 823 Abs. 1 BGB: Die Sicherheitserwartungen des § 3 Abs. 1 ProdHaftG beurteilen sich nach denselben objektiven Maßstäben wie die Verkehrspflichten des Herstellers im Rahmen von § 823 Abs. 1 BGB; beide Anspruchsgrundlagen stehen selbständig nebeneinander.
 - EuGH, Urt. v. 13.07.2006 - C-295/04, NJW 2006, 2317 — Anspruchsgrundlagen aus EU-Recht (etwa Kartellschadensersatz Art. 101 AEUV) sind durch nationales Prozessrecht zu verwirklichen, dürfen aber nicht weniger günstig als rein nationale Ansprüche ausgestaltet sein.
 
 ## Zentrale Normen
@@ -95,3 +95,11 @@ Bei Auslandsbezug immer prüfen:
 ## Ausgabe
 
 Pro Anspruchsgrundlage eine eigene Tabelle mit allen Tatbestandsmerkmalen.
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ (task_286):
+- BGH VI ZR 373/18 (behauptet NJW 2020, 466): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 158/03, NJW 2005, 1423 (verifiziert auf dejure.org)
+- BGH VI ZR 395/16 (behauptet NJW 2018, 386): NOT FOUND auf dejure.org — ersetzt durch BGH VI ZR 107/08, NJW 2009, 2952 (verifiziert auf dejure.org)
+- BGH VII ZR 101/14 (behauptet NJW 2016, 560): NOT FOUND auf dejure.org — ersetzt durch BGH VII ZR 184/04, NJW 2005, 1356 (verifiziert auf dejure.org)
+Alle drei Ersatz-AZ wurden über dejure.org-Direktabfrage verifiziert.
+-->

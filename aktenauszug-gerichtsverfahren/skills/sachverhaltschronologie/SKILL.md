@@ -28,7 +28,6 @@ Die Sachverhaltschronologie listet alle wesentlichen außerprozessualen Ereignis
 ## Rechtsprechung zur Sachverhalts-Dokumentation und Vertragsschluss
 
 - BGH, Urt. v. 14.09.2018 - V ZR 175/17, NJW 2019, 150 — Zur Bedeutung von Vertragsunterlagen als urkundlichem Beweis; Datum des Vertragsschlusses ist nach § 286 ZPO frei zu würdigen.
-- BGH, Urt. v. 08.05.2019 - VIII ZR 221/17, NJW 2019, 2690 — Zu Mahnungen und deren Bedeutung für den Verzugseintritt (§ 286 BGB): Mahnung muss konkreten Anspruch benennen; allgemeine Zahlungsaufforderung genügt nicht.
 - BGH, Urt. v. 26.01.2022 - XII ZR 79/20, NJW 2022, 676 — Rücktrittserklärung nach § 349 BGB muss Rücktrittsrecht bezeichnen; konkludenter Rücktritt möglich wenn Wille eindeutig erkennbar.
 - BGH, Urt. v. 19.03.2014 - VIII ZR 203/13, NJW 2014, 1658 — Beginn der kurzen Verjährungsfrist bei verdeckten Mängeln: Kenntnis i.S.v. § 199 Abs. 1 BGB setzt positive Kenntnis der anspruchsbegründenden Tatsachen voraus.
 
@@ -98,3 +97,7 @@ Die Sachverhaltschronologie listet alle wesentlichen außerprozessualen Ereignis
 - [ ] Keine prozessualen Schritte enthalten?
 - [ ] Keine Wertung?
 - [ ] Verjährungsrelevante Ereignisse besonders markiert?
+
+---
+
+> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat gelöscht. BGH VIII ZR 221/17 (behauptet: 08.05.2019, NJW 2019, 2690, Mahnung und Verzugseintritt § 286 BGB) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Kein verifizierbares Ersatzzitat mit passendem Thema (BGH VIII. Zivilsenat, Mahnung, 2019) gefunden. Eintrag ersatzlos entfernt.

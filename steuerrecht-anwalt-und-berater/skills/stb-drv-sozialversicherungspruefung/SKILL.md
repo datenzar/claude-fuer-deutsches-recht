@@ -43,7 +43,8 @@ Steuerberater-Begleitung der **Sozialversicherungsprüfung** durch die Deutsche 
 - BSG, Urt. v. 31.3.2017 — **B 12 R 7/15 R** (Honorarärzte typischerweise abhängig beschäftigt).
 - BSG, Urt. v. 4.6.2019 — **B 12 R 12/18 R** (DRV-Statusfeststellung Voraussetzungen).
 - BGH, Urt. v. 21.2.2013 — **5 StR 263/12** (§ 266a StGB: SV-Beiträge unabhängig von Liquidität abzuführen).
-- BSG, Urt. v. 24.3.2016 — **B 12 KR 20/14 R** (Phantomlohn bei Mindestlohn-Unterschreitung).
+- BSG, Urt. v. 24.3.2016 — **B 12 KR 20/14 R** (Scheinselbständigkeit Physiotherapeutin ohne eigene Zulassung; Eingliederung in fremde Praxis überwiegt).
+- BSG, Urt. v. 23.2.2021 — **B 12 R 21/18 R** (Phantomlohn: Tankgutscheine als Surrogat für Arbeitslohn sind beitragspflichtiges Arbeitsentgelt; Zusatzätzlichkeitserfordernis § 14 SGB IV).
 - BAG, Urt. v. 25.5.2016 — **5 AZR 135/16** (Mindestlohn auch bei Bereitschaftszeit).
 
 ## Prüfungs-Schwerpunkte 2026
@@ -142,3 +143,11 @@ Folge bei Umqualifizierung: Nachzahlung Beiträge **rückwirkend bis 4 Jahre** (
 ## Quellen und Updates
 
 Stand: 05/2026. § 28p SGB IV-Prüfturnus 4 Jahre. Mindestlohn 13.90 EUR ab 1.1.2026. Mini-Job-Grenze dynamisch an Mindestlohn gekoppelt. BSG-Statusfeststellungs-Rechtsprechung (B 12 R 11/18 R) ungebrochen. Bei Reform MiLoG / SGB IV aktualisieren.
+
+<!-- AUDIT 27.05.2026 bundle_044
+- BSG B 12 KR 20/14 R (WRONG_TOPIC: echtes Thema Scheinselbständigkeit Physiotherapeutin, nicht Phantomlohn bei Mindestlohn-Unterschreitung)
+  → Leitsatz korrigiert zu echtem Inhalt (Scheinselbständigkeit Physiotherapeutin)
+  → Ersatz für Phantomlohn-Thema: BSG B 12 R 21/18 R, 23.02.2021 ergänzt
+  → Quelle BSG B 12 KR 20/14 R: https://dejure.org/2016,5261
+  → Quelle BSG B 12 R 21/18 R: https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2021/2021_02_23_B_12_R_21_18_R.html
+-->

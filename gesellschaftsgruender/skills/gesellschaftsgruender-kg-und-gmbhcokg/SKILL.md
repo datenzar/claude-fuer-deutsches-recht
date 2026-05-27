@@ -29,7 +29,6 @@ Klaere vor Empfehlung KG oder GmbH & Co. KG:
 
 ## Aktuelle Rechtsprechung
 
-- **BGH, Urt. v. 24.01.1990 – VIII ZR 296/88, BGHZ 110, 132** — Die GmbH & Co. KG ist eine im Handels- und Gesellschaftsrecht vollstaendig anerkannte Gesellschaftsform; die Kombination aus haftungsbeschraenktem Komplementaer (GmbH) und Kommanditisten ist wirksam; Glaeubiger muss sich aus dem KG-Vermoegen und dem GmbH-Vermoegen befriedigen.
 - **BGH, Urt. v. 14.11.2005 – II ZR 178/03, BGHZ 165, 85** — Eine Ein-Personen GmbH & Co. KG, bei der die GmbH Komplementaerin und einzige Kommanditistin ist, ist zulaessig; die wirtschaftliche Einheit von GmbH und KG fuehrt nicht zu einer Zusammenfassung der Haftungsmassen.
 - **BFH, Urt. v. 25.06.2009 – IV R 3/07, BFHE 226, 62** — Sonderbetriebsvermoegen des Kommanditisten (von ihm der KG ueberlassene Wirtschaftsgueter) gehoert zur Mitunternehmerschaft; Einnahmen daraus sind gewerbliche Einkuenfte nach § 15 EStG.
 - **BGH, Urt. v. 18.01.2000 – II ZR 207/98, NJW 2000, 1197** — Bei werbewirtschaftlicher Taetigkeit des Kommanditisten fuehrt die Herabsetzung der Einlage (§ 172 Abs. 4 HGB) zum Wiederaufleben der Aussenhaftung; Kommanditist hafte Glaeubigern in der Hoehe des rueckgewaehrten Betrags.
@@ -105,7 +104,7 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 ## Quellen und Vertiefung
 
 - §§ 161, 170, 171, 172 HGB; § 19 II HGB; §§ 15, 15a EStG
-- BGH BGHZ 110, 132 (1990); BGH BGHZ 165, 85 (2005); BFH BFHE 226, 62 (2009); BGH NJW 2000, 1197
+- BGH BGHZ 165, 85 (2005); BFH BFHE 226, 62 (2009); BGH NJW 2000, 1197
 - Baumbach/Hopt §§ 161-177a; MüKo HGB/Schmidt §§ 161, 171; Tipke/Lang § 18
 
 ## Uebergabe an andere Skills
@@ -114,3 +113,5 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzung Komplementaer-GmbH
 - `gesellschaftsgruender-handelsregister-anmeldung` — KG-Eintragung
 - `gesellschaftsgruender-transparenzregister` — wirtschaftlich Berechtigte der KG
+
+<!-- AUDIT 27.05.2026: BGH VIII ZR 296/88 (24.01.1990) entfernt. Tatsächliches Thema: Nicht unterzeichneter Nachsatz im Mietvertrag, § 566 BGB Schriftformerfordernis — kein Bezug zu GmbH & Co. KG. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

@@ -201,7 +201,6 @@ ANLAGEN
 
 ## Aktuelle Leitentscheidungen — StaRUG-Plan-Architektur
 
-- BGH, Urt. v. 21.04.2022 — IX ZB 32/21, NZI 2022, 612 — Plan-Architektur und Mehrheiten: strukturelle Anforderungen an darstellenden und gestaltenden Teil; Vergleichsrechnung und Erlaeuterung der Massnahmen als Pflichtelemente.
 - LG Hamburg, Beschl. v. 22.06.2021 — 344 T 62/21, NZI 2021, 790 — Darstellender Teil § 8 StaRUG: Sachverhalt und Krisenursachen muessen klar und vollstaendig sein; Gerichte prufen ob Vergleichsrechnung nachvollziehbar ist.
 - BGH, Urt. v. 16.11.2023 — IX ZB 63/22, NZI 2024, 117 — Gestaltender Teil § 9 StaRUG: Rechtseingriffe muessen praezise formuliert sein; Vorgabe Zahlungsquoten, Stundungen und Sicherheiten klar bezeichnen.
 - LG Frankfurt, Beschl. v. 09.09.2021 — 3-09 RES 1/21 — erstes StaRUG-Verfahren: Planbestaetigung und Cramdown erfolgreich; Grundsatz: Plan muss ueber alle Beteiligten fair und verhaltensmaessig korrekt sein.
@@ -222,3 +221,10 @@ ANLAGEN
 - Braun/Herzig, StaRUG §§ 7-12 — Plan-Architektur im Detail.
 - MüKo InsO/Gehrlein, StaRUG §§ 8-11 Rn. 1 ff.
 - Uhlenbruck/App, StaRUG §§ 7-39 Rn. 1 ff.
+
+---
+<!-- AUDIT 27.05.2026 | Bundle 036
+Entfernt: BGH IX ZB 32/21 — AZ nicht nachweisbar (NOT_FOUND); kein passender Ersatz gefunden.
+Kein Eintrag zu Plan-Architektur StaRUG mit diesem AZ auf dejure.org auffindbar.
+Aktion: Eintrag geloescht.
+-->

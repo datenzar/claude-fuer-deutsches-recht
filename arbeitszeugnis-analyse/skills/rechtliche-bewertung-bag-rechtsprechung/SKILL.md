@@ -60,8 +60,18 @@ Der Skill gibt eine rechtliche Einordnung des Zeugnisses aus: Welche Berichtigun
 
 ## Ergänzende Rechtsprechung (v14.2)
 
-- **BAG, Urt. v. 11.12.2012 — 9 AZR 227/11**, NZA 2013, 492 — Sperrwirkung eines besseren Vorgesetzten-Zeugnisses: Hat der Arbeitnehmer ein besseres Zwischenzeugnis erhalten, darf das Schlusszeugnis nicht ohne sachlichen Grund eine schlechtere Note enthalten; das bessere Zeugnis schafft eine widerlegliche Vermutung der gleich guten Leistung.
+- **BAG, Urt. v. 16.10.2007 — 9 AZR 248/07** — Bindungswirkung des Zwischenzeugnisses: Hat der Arbeitgeber ein Zwischenzeugnis erteilt, ist er beim späteren Endzeugnis grundsätzlich an dessen Inhalt gebunden; Abweichungen sind nur zulässig, wenn nachträgliche Leistungen oder Umstände eine abweichende Beurteilung rechtfertigen; der Arbeitgeber trägt hierfür die Darlegungs- und Beweislast.
 - **LAG Hamm, Urt. v. 05.06.2015 — 15 Sa 1537/14** — Anspruch auf Ergänzung fehlender Pflichtaussagen (Ausstellungsdatum, Beendigungsgrund, vollständige Tätigkeitsbeschreibung); Zeugnis, das wesentliche Tätigkeitsbereiche verschweigt, ist berichtigungspflichtig.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- 9 AZR 227/11: ersetzt durch 9 AZR 248/07 (https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BAG&Datum=16.10.2007&Aktenzeichen=9+AZR+248%2F07; https://www.jura.cc/rechtstipps/berichtigung-eines-erteilten-arbeitszeugnisses/) — 9 AZR 227/11 betrifft kein Anspruch auf Dankes-/Wunschformel (Schlussformel), nicht Sperrwirkung Zwischenzeugnis
+- 9 AZR 584/09: nicht im Skill enthalten, kein Handlungsbedarf (echtes Thema: Übergangsgeld Flugsicherungspersonal/AGG)
+- 9 AZR 62/19: nicht im Skill enthalten, kein Handlungsbedarf (Entscheidung nicht auffindbar)
+- 9 AZR 663/96: nicht im Skill enthalten, kein Handlungsbedarf (Entscheidung nicht auffindbar)
+- 9 AZR 893/98: nicht im Skill enthalten, kein Handlungsbedarf (echtes Thema: Vollstreckungsgegenklage, Zeugnis muss kopierbar sein)
 
 ## Kommentarliteratur
 

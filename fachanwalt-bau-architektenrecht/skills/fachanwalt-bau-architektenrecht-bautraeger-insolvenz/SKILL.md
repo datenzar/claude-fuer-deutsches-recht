@@ -147,7 +147,6 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 - BGH, Urt. v. 07.04.2005 — IX ZR 109/04, NJW 2005, 2231 Rn. 18: Die Auflassungsvormerkung nach § 883 BGB schuetzt den Erwerber in der Insolvenz des Bautraegers — der Eigentuemsverschaffungsanspruch bleibt als Aussonderungsrecht erhalten.
 - BGH, Urt. v. 25.04.2013 — IX ZR 235/12, NJW 2013, 2756 Rn. 24: Der Insolvenzverwalter kann nach § 103 InsO den Bautraegervertrag erfuellen oder ablehnen; bei Ablehnung wandelt sich der Eigentumsanspruch in Schadensersatz um, der zur Insolvenztabelle anzumelden ist.
 - BGH, Urt. v. 26.01.2017 — IX ZR 285/14, NJW 2017, 1599 Rn. 31: Die MaBV-Buerschaft sichert den Erwerber bei Nichtfertigstellung; mehrere Erwerber koennen die Buerschaft im Rahmen ihrer jeweiligen Vertragsbetraege unabhaengig voneinander geltend machen.
-- BGH, Urt. v. 14.11.2019 — VII ZR 141/18, NJW 2020, 598 Rn. 20: Der Erwerber kann Abnahme der Teilerwerke § 640 Abs. 1 Satz 2 BGB erklaeren, auch wenn das Gesamtwerk nicht fertiggestellt ist — separate Verjaehrungslauf-Folge.
 
 ## Kommentarliteratur
 
@@ -178,3 +177,10 @@ Mandate von Erwerbern bei Bauträger-Insolvenz — Sicherheiten, Vormerkung, San
 - `insolvenzforderungsanmeldungspruefung` — bei Tabellenanmeldung
 - `fachanwalt-insolvenz-sanierungsrecht-anfechtungsklage-verwalter` — bei InsO-Anfechtung
 - `fachanwalt-bau-architektenrecht-abnahme-verweigerung` — bei Mangel-Konstellation
+
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZR 141/18 (NOT_FOUND) geloescht.
+Kein Ersatz gefunden: Kein BGH-Urteil mit diesem Aktenzeichen auf dejure.org
+nachweisbar. Bestehende Zitate IX ZR 109/04, IX ZR 235/12, IX ZR 285/14 bleiben.
+-->

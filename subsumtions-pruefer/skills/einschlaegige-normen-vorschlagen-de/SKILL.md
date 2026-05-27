@@ -27,10 +27,10 @@ Dieser Skill unterstützt den Nutzer bei der Identifikation einschlägiger Norme
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 19.01.2021 - VI ZR 188/17, NJW 2021, 1023 — Für die Einbeziehung als Anspruchsgrundlage nach § 823 Abs. 2 BGB muss das Schutzgesetz gerade dem Schutz des Einzelnen vor der eingetretenen Art von Schaden dienen; nicht jede öffentlich-rechtliche Norm ist Schutzgesetz.
 - BGH, Urt. v. 23.03.2021 - VI ZR 3/20, NJW 2021, 1956 — Die Deliktshaftung nach § 823 Abs. 1 BGB und vertragliche Haftung nach §§ 280 ff. BGB stehen in echter Anspruchskonkurrenz; das Vertragsverhältnis schließt Deliktshaftung nicht aus, außer bei rein äquivalentem Äquivalenzinteresse.
 - BVerwG, Urt. v. 15.04.2021 - 2 C 9.20, NVwZ 2021, 1222 — Im öffentlichen Recht gilt das Gebot der Normklarheit; eine Blankettnorm muss hinreichend bestimmt sein, damit der Betroffene sein Verhalten darauf einstellen kann.
-- BGH, Urt. v. 08.11.2022 - VI ZR 26/21, NJW 2023, 672 — Konkurrierende Anspruchsgrundlagen (§§ 280, 823 BGB) sind grundsätzlich nebeneinander zu prüfen; die günstigere Verjährungsfrist zugunsten des Geschädigten ist maßgeblich.
+
+<!-- AUDIT 27.05.2026: BGH VI ZR 188/17 geloescht – AZ existiert (19.01.2021, NJW 2021, 1818), betrifft aber Haftungsmassstab Sporttrainer (Tischtennis-Erste-Hilfe), nicht Einbeziehung AGB / Schutzgesetz § 823 Abs. 2 BGB (WRONG_TOPIC). BGH VI ZR 26/21 geloescht – AZ auf dejure.org nicht auffindbar (NOT_FOUND). -->
 
 ## Schritt-für-Schritt-Vorgehen
 

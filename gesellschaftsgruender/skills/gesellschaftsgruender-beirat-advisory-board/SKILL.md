@@ -29,7 +29,6 @@ Klaere vor Ausarbeitung der Beiratsstruktur:
 ## Aktuelle Rechtsprechung
 
 - **BGH, Urt. v. 06.04.1964 – II ZR 75/62, BGHZ 41, 282** — Beirat in der GmbH ist gesellschaftsvertraglich gestaltbar; Grenzen liegen in unabdingbaren Gesellschafterrechten; Paradigma-Entscheidung zur GmbH-Beiratszulaessigkeit.
-- **BGH, Urt. v. 25.02.1965 – II ZR 287/63, BGHZ 43, 261** — Beiratsmitglieder einer GmbH koennen durch Satzung Vetorechte erhalten; Bestellung und Abberufung durch Gesellschafter; kein Beirats-Beschluss kann Gesellschafterbeschluss ersetzen, der nach GmbHG zwingend der Gesellschafter bedarf.
 - **OLG Muenchen, Urt. v. 24.03.2021 – 7 U 3975/20, GmbHR 2021, 1056** — Beiratsordnung kann Zustimmungsvorbehalt fuer Geschaeftsfuehrer-Kreditaufnahme vorsehen; Verletzung des Zustimmungsvorbehalts hat jedoch keine Aussenwirkung gegenueber Dritten (Gutglaubensschutz).
 - **BGH, Beschl. v. 29.01.2020 – II ZB 18/19, NZG 2020, 463** — Beschlussfaehigkeit des Beirats muss nach der Beiratsordnung bestimmt werden; fehlt eine Regelung, gilt das Mehrheitsprinzip analog GmbH-Recht; Beschluesse sind anfechtbar analog Paragraf 243 AktG.
 
@@ -219,3 +218,16 @@ Kuendigung: 3 Monate vor Ablauf; ausserordentlich aus wichtigem Grund
 - `gesellschaftsgruender-geschaeftsordnung-gf` — Verzahnung mit GF-Entscheidungskompetenzen
 - `gesellschaftsgruender-gesellschaftsvertrag-gmbh` — Satzungs-Klausel Beirat
 - `gesellschaftsgruender-gesellschafterstreit-eilantraege` — Schlichtungs-Funktion vor Eilantrag
+
+<!-- AUDIT 27.05.2026
+Geprueft: 3 gemeldete Halluzinationen (task_124.json)
+1. BGH II ZR 287/63, BGHZ 43, 261 (WRONG_TOPIC): Eintrag in "Aktuelle Rechtsprechung" geloescht.
+   Behauptetes Thema (Beirat-Vetorechte, Bestellung/Abberufung) entspricht nicht dem Urteilsinhalt.
+   Tatsaechliches Thema: Schiedsgericht als Gesellschaftsorgan (Uebertragung von Befugnissen
+   der Gesellschafterversammlung), Anfechtungsklage. Quelle: dejure.org/1965,61.
+2. BGH II ZR 3/21, NJW 2023, 1234 (NOT_FOUND): Kein Eintrag in dieser SKILL.md gefunden;
+   AZ nicht nachweisbar. Kein Handlungsbedarf in dieser Datei.
+3. BGH II ZR 342/03 (WRONG_TOPIC): Kein Eintrag in dieser SKILL.md gefunden.
+   Kein Handlungsbedarf in dieser Datei.
+Frontmatter unveraendert. Keine Commit-Aktion.
+-->

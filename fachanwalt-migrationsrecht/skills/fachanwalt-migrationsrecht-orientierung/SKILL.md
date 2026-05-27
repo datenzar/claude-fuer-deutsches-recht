@@ -75,7 +75,7 @@ description: "Anwalt will ueberblicken welche Normen und Mandate das Migrationsr
 - BVerwG, Urt. v. 22.06.2011 - 1 C 5.10, BVerwGE 140, 64 — Zum Fluechtlingsbegriff Art. 1A GFK: Verfolgungshandlung und Verfolgungsgrund muessen verknuepft sein; staatliche Schutzlosigkeit bei nichtstaatlichen Akteuren genuegt.
 - BVerwG, Urt. v. 09.12.2010 - 10 C 13.09, BVerwGE 138, 289 — Subsidiarer Schutz § 4 AsylG: ernsthafter Schaden bei innerem bewaffnetem Konflikt erfordert individuelle Bedrohung; allgemeine Gefahren im Buergerkrieg koennen genuegen wenn Sicherheitslage extrem schlecht.
 - BVerfG, Beschl. v. 12.05.2005 - 2 BvR 569/05, NJW 2005, 1858 — Eilrechtsschutz vor Abschiebung: Art. 19 Abs. 4 GG gebietet effektiven Rechtsschutz; Gericht darf einstweiligen Rechtsschutz nicht durch zu hohe Anforderungen an Glaubhaftmachung aushebeln.
-- EuGH, Urt. v. 26.02.2013 - C-617/10 (Akerberg Fransson) — Grundrechtecharta Art. 51: Bei Durchfuehrung von EU-Recht (AsylRL, DublinVO) sind EU-Grundrechte unmittelbar anwendbar; nationales Gericht muss die Charta im Migrationsrecht anwenden.
+- EuGH, Urt. v. 26.02.2013 - C-617/10 (Åkerberg Fransson) — Grundrechtecharta Art. 51 Abs. 1: EU-Grundrechte gelten bei jeder Durchfuehrung von Unionsrecht durch Mitgliedstaaten; Art. 50 GRCh (ne bis in idem) bei Steuerhinterziehung mit steuerlichen und strafrechtlichen Sanktionen (NJW 2013, 1415). Fuer das Migrationsrecht relevant: Soweit AsylG und DublinVO EU-Recht durchfuehren, sind EU-Grundrechte anwendbar — jedoch betrifft das Urteil selbst das Steuerstrafrecht, nicht Asylrecht.
 - EGMR, Urt. v. 21.01.2011 - 30696/09 (M.S.S. v. Belgium) — Systemische Maengel im Aufnahmesystem eines EU-Staates koennen Abschiebung dorthin nach Art. 3 EMRK verbieten; DublinVO entbindet nicht von Pruefung EMRK-Konformitaet.
 
 ## Normen-Kette Migrationsrecht
@@ -135,3 +135,13 @@ Datum: [DATUM]
    PKH-Antrag: [gestellt / noch nicht gestellt / nicht erforderlich]
    Beratungshilfe: [ja / nein]
 ```
+
+<!-- AUDIT 27.05.2026
+EuGH C-617/10 (Åkerberg Fransson): Inhaltsbeschreibung korrigiert.
+Fehler: Skill behauptete das Urteil betreffe AsylRL/DublinVO — falsch.
+Tatsaechlicher Gegenstand: ne bis in idem (Art. 50 GRCh) im Steuerstrafrecht
+(Steuerhinterziehung, Doppelbestrafung durch steuerliche und strafrechtliche Sanktionen).
+Der allgemeine Grundsatz zu Art. 51 GRCh (Anwendungsbereich der Charta) ist korrekt
+und fuer das Migrationsrecht methodisch relevant; Urteil verifiziert auf
+dejure.org/2013,2363 (NJW 2013, 1415).
+-->

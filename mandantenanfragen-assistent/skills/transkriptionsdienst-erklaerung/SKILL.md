@@ -17,8 +17,7 @@ Dieser Skill formuliert den vollständigen Abschnitt in der Erstantwort-Mail, in
 ## Aktuelle Rechtsprechung
 - EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Auftragsverarbeitung durch Transkriptionsdienstleister erfordert AVV nach Art. 28 DSGVO; fehlendes AVV begruendet Datenschutzverstoß.
 - EuGH, Urt. v. 11.11.2020 - C-61/19, NJW 2021, 141 — Einwilligung fuer Sprachaufnahme muss informiert und freiwillig sein; Druckknopf-Bestaetigung am Telefon gilt als valide Einwilligungsform, wenn Informationspflicht vorher erteilt wurde.
-- BGH, Urt. v. 14.07.2022 - VI ZR 207/21, NJW 2022, 3215 — Sprachaufnahme ohne informierte Einwilligung begruendet Schadensersatzanspruch nach Art. 82 DSGVO; vollstaendige Vorab-Information ist Pflicht.
-- OLG Koeln, Urt. v. 11.03.2021 - 15 U 137/20, ZD 2021, 391 — Fehlende oder unvollstaendige Datenschutzinformation nach Art. 13 DSGVO bei Sprachaufnahme begruendet Schadensersatz; der Transkriptionsservice-Hinweis muss vollstaendig sein.
+- OLG Koeln, Urt. v. 14.07.2022 - 15 U 137/21 — Verspaetete oder unvollstaendige Auskunft nach Art. 15 DSGVO begruendet immateriellen Schadensersatzanspruch nach Art. 82 Abs. 1 DSGVO; der Schadensersatz setzt keinen Datenverlust voraus, sondern genuegt bei nachgewiesenem Kontrollverlust.
 
 ## Zentrale Normen
 - Art. 6 Abs. 1 lit. a DSGVO — Einwilligung als Rechtsgrundlage fuer Sprachaufnahme vor Mandatsannahme
@@ -105,3 +104,8 @@ Aus `kanzlei.json`:
 - `mandatsverhaeltnis-hinweis` — Disclaimer zum fehlenden Mandat
 - `telefon-konfiguration` — liefert `telefon_transkription`
 - `erstantwort-generator` — bettet diesen Abschnitt in die Antwortmail ein
+
+<!-- AUDIT 27.05.2026
+BGH VI ZR 207/21: Aktenzeichen existiert nicht auf dejure.org; dejure.org/2022,22528 = BGH V ZR 207/21 (WEG Beschlusskompetenz, NJW-RR 2022, 1598) — kein DSGVO-Sprachaufnahme-Bezug. Geloescht.
+OLG Koeln 15 U 137/20: Falsches Aktenzeichen und falsches Datum — echtes AZ ist 15 U 137/21, Datum 14.07.2022; echtes Thema ist Art. 15 DSGVO verspaetete Auskunft / Art. 82 Schadensersatz, nicht Art. 13 DSGVO Sprachaufnahme. AZ und Datum korrigiert, Beschreibung angepasst. Quelle: dejure.org (OLG Koeln 14.07.2022 - 15 U 137/21). Prufer: Bundle-005-Audit.
+-->

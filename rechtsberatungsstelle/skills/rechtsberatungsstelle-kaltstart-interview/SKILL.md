@@ -22,10 +22,9 @@ description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungs
 4. Ist bereits eine CLAUDE.md vorhanden, die abschnittsweise ueberarbeitet werden soll?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 14.11.2019 - IX ZR 222/18, NJW 2020, 691 — Ersteinrichtung der Beratungsstellenorganisation als Grundlage jeder rechtmaessigen Rechtsberatungstaetigkeit; fehlende Erstdokumentation begruendet Haftungsrisiken.
 - BVerfG, Beschl. v. 12.01.2016 - 2 BvR 2557/14, NJW 2016, 1155 — Effektive Rechtsberatung erfordert klare Aufsichtsstrukturen und Kompetenzgrenzen; Kaltstart-Interview legt diese fest.
-- BGH, Urt. v. 26.04.2018 - I ZR 82/17, NJW 2018, 2329 — Anleitungsorganisation muss tatsaechliche Kontrollmoeglichkeit des Anleiters sicherstellen; formale Aufsicht ohne tatsaechliche Pruefung genuegt nicht.
 - EuGH, Urt. v. 04.07.2023 - C-252/21, NJW 2023, 2997 — Datenschutzrechtliche Grundlagen muessen vor Aufnahme der Beratungsstellentaetigkeit geklaert sein (AVV, TOM, Verarbeitungsverzeichnis nach Art. 30 DSGVO).
+<!-- AUDIT 27.05.2026: IX ZR 222/18 (NOT_FOUND bei dejure.org) geloescht; I ZR 82/17 (WRONG_TOPIC: Urteil 01.02.2018 betrifft Medizinprodukt/HeilMWerbG, nicht Anleitungsorganisation Rechtsberatung) geloescht. -->
 
 ## Zentrale Normen
 - § 6 Abs. 2 Nr. 2 RDG — Voraussetzungen fuer erlaubnisfreie Rechtsberatung in Beratungsstellen: Anleitungserfordernis und Unentgeltlichkeit
@@ -177,3 +176,8 @@ Konfigurationsdatei (`CLAUDE.md`). Kein `[KI-GESTÜTZTER ENTWURF]`-Vermerk (Anle
 - **Fachbereiche zu weit gefasst:** Eine Beratungsstelle, die alles anbietet, kann nichts gut anbieten. Lieber weniger Bereiche mit klarer Gate-Struktur als viele Bereiche mit Qualitätslücken.
 - **IT-Sicherheit nicht mitgedacht:** Cloud-Systeme ohne AVV verletzen DSGVO Art. 28. Besonders kritisch bei Asylsuchenden (Art. 9 DSGVO: besondere Kategorien).
 - **Semesterwechsel nicht organisiert:** Ohne klare Übergaberegeln fallen Mandate zwischen den Semestern durch. `/rechtsberatungsstelle:semester-übergabe` muss im Ablaufplan verankert sein.
+
+
+---
+
+<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->

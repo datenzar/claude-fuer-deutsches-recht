@@ -56,7 +56,7 @@ Vor jedem ersten Vollstreckungsschritt einmal sauber prüfen, ob die formellen V
 - BGH, Beschl. v. 12.05.2016 – VII ZB 62/13, NJW 2016, 2659 Rn. 22: Zustellung ist Vollstreckungsvoraussetzung; Maßnahmen ohne Zustellung sind auf Erinnerung aufzuheben.
 - BGH, Beschl. v. 23.10.2014 – VII ZB 17/14, NJW 2015, 73: Vollstreckungsgericht prüft nur formal; materielle Einwendungen über §§ 766, 767 ZPO.
 - BGH, Urt. v. 25.06.2009 – IX ZR 154/08, NJW 2009, 2997: Klauselumschreibung bei Insolvenzverwalter, der nach Verfahrensaufhebung Forderung beitreibt.
-- BGH, Beschl. v. 16.06.2016 – VII ZB 23/16, NJW-RR 2016, 1396: Klauselzustellung an qualifizierten Klauseln vollständig mit Beweisurkunden.
+- BGH, Beschl. v. 13.10.2016 – V ZB 174/15, NJW 2017, 411: Das Zustellerfordernis gemäß § 750 Abs. 2 ZPO gilt nur für die Nachweisurkunden, auf welche sich das Klauselorgan ausweislich der Klausel gestützt hat; Zustellung einer einfachen statt beglaubigter Abschrift einer Nachweisurkunde ist nach § 189 ZPO heilbar.
 
 ## Ausgabeformat
 
@@ -97,3 +97,11 @@ Nächster Schritt: [...]
 - `zv-notarielle-urkunde-grundschuld` – Klauselerteilung durch Notar.
 - `zv-tabellenauszug-201-inso` – vollstreckbare Ausfertigung des Tabellenauszugs.
 - `prozessrecht/vollstreckung` – Hub-Skill und Übergang in das gesamte Vollstreckungsthema.
+
+
+<!-- AUDIT 27.05.2026 bundle_055
+Halluzinations-Reparatur: BGH VII ZB 23/16 (NOT_FOUND) entfernt.
+Ersatz: BGH, Beschl. v. 13.10.2016 – V ZB 174/15, NJW 2017, 411
+(Zustellerfordernis § 750 Abs. 2 ZPO; Nachweisurkunden; Heilung nach § 189 ZPO).
+Verifiziert via dejure.org.
+-->

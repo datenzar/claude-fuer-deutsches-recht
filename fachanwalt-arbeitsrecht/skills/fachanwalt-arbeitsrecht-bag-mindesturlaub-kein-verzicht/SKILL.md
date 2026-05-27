@@ -80,3 +80,7 @@ Verbindung mit `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` fuer die Au
 
 - ErfK/Gallner, 25. Aufl. 2025, BUrlG § 7 Rn. 1 ff. (Verfall, Übertragung, Hinweispflicht, Abgeltung)
 - HWK/Schinz, 11. Aufl. 2024, BUrlG § 13 Rn. 1 ff. (Unabdingbarkeit, Verzicht, Vergleichsklauseln)
+
+<!-- AUDIT 27.05.2026
+BFH V R 30/21 (WRONG_TOPIC): Zitat im aktuellen Dateistand nicht gefunden. Thema (Zwischenurteil § 99 FGO; Holdinggesellschaft Unternehmereigenschaft; 14.12.2023) ist vollständig arbeitsrechtsfern und hätte in diesem Skill nichts zu suchen. Kein Eingriff nötig; Befund dokumentiert.
+-->

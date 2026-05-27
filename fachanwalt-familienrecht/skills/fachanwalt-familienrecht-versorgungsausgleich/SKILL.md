@@ -149,7 +149,6 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 ## 11) BGH-Linien
 
 - BGH, Beschl. v. 22.11.2017 — XII ZB 35/16 (Externe Teilung)
-- BGH, Beschl. v. 9.3.2022 — XII ZB 233/21 (Mehrwert-Faktor)
 - BGH, Beschl. v. 6.2.2018 — XII ZB 401/17 (Ehevertrags-Kontrolle)
 
 ## Anschluss
@@ -157,3 +156,13 @@ Bei Scheidung: Hin- und Herteilung der während der Ehezeit erworbenen Versorgun
 - `fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt` — bei Unterhalts-Frage
 - `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` — bei Konflikt
 - `bav-strategie-konzern` — bei komplexer betrieblicher AV
+
+<!-- AUDIT 27.05.2026 | Bundle 022 | Task 2
+AZ: BGH XII ZB 233/21
+Status: WRONG_TOPIC
+Befund: Laut dejure.org (dejure.org/2022,6551) betrifft XII ZB 233/21 vom 09.03.2022
+Kindesunterhalt und Immobilienfinanzierung (Tilgungsraten bis Wohnwert berücksichtigbar,
+§ 1603 Abs. 2 BGB) – nicht den Mehrwert-Faktor im Versorgungsausgleich.
+Fundstellen: BGHZ 233, 136; NJW 2022, 1386; FamRZ 2022, 781.
+Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
+-->

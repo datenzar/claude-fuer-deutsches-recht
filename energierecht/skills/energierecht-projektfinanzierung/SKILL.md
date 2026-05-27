@@ -282,7 +282,6 @@ Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzier
 
 - BGH, Urt. v. 17.11.2021 — IV ZR 113/20, NJW 2022, 540 — AGB-Kontrolle bei Projektfinanzierungs-Sicherheitsvertrag; Globalzession im Rahmen der Projektfinanzierung wirksam bei hinreichend bestimmtem Sicherungszweck; Take-or-Pay-Klauseln halten § 307 BGB-Kontrolle stand
 - OLG Frankfurt, Urt. v. 10.08.2022 — 4 U 284/21, ZIP 2022, 1760 — PPA Power Purchase Agreement als Energiederivat im Sinne der MiFID II; keine Anwendung von Finanzmarkt-Regulation wenn physische Lieferung des Stroms garantiert ist und keine Cash-Settlement-Option besteht
-- BGH, Urt. v. 29.09.2021 — VIII ZR 111/20, NJW 2022, 220 — Foerderbescheid-Widerruf durch BAFA bei Wesentlichem Vertragsaenderung des EEG-Erzeugungs-Projekts; Bestandsschutz endet bei Identitaetswechsel der Projektgesellschaft
 - VG Berlin, Urt. v. 09.05.2023 — VG 1 K 17/22, juris — KfW-Foerderkredit BEW 442 fuer Waermenetze; Foerder-Voraussetzung Energieeffizienz-Nachweis muss zum Bewilligungs-Zeitpunkt vorliegen; nachtraegliche Dokumentation heilt Bewilligungs-Fehler nicht
 
 ## Zentrale Normen (Paragrafenkette)
@@ -314,3 +313,7 @@ Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzier
 - BFH zu Energie-Steuer und Abschreibung
 - ICMA Green Bond Principles
 - TLB / IF-Konzepte zu Project Finance Energie
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VIII ZR 111/20 (WRONG_TOPIC): Tatsächliches Thema = VW-Diesel-Abgasskandal/Nachbesserung durch Software-Update; kein Bezug zu Förderbescheid-Widerruf BAFA/EEG. Zitat entfernt. -->

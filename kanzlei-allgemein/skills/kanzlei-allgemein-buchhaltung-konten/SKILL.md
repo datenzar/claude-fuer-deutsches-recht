@@ -14,7 +14,6 @@ description: "Kanzlei-Buchhaltung mit Geschaeftskonto offenen Posten Debitoren K
 
 ## Aktuelle Rechtsprechung
 - BGH, Urt. v. 29.06.2021 - IX ZR 232/19, NJW 2021, 3112 — Vermischung von Fremdgeld und Kanzleivermogen begruendet Schadensersatzpflicht des Anwalts und disziplinarrechtliche Konsequenzen.
-- BGH, Urt. v. 27.01.2022 - IX ZR 52/20, NJW 2022, 1234 — GoBD-konforme Buchfuehrung ist Pflicht fuer alle Freiberufler; Belege muessen unveraenderbar und lesbar archiviert werden.
 - BFH, Urt. v. 24.06.2020 - X R 23/18, BStBl. II 2021, 170 — Betriebsausgabenabzug setzt Belegpflicht voraus; fehlende Belege fuehren zur Schaetzung durch das Finanzamt.
 - BGH, Urt. v. 07.02.2019 - IX ZR 5/18, NJW 2019, 1513 — Offene Posten im Honorarwesen: Faelligkeit tritt mit ordnungsgemaesser Berechnung nach § 10 RVG ein; Verzug nach § 286 BGB ab Mahnung.
 
@@ -109,3 +108,10 @@ Im Simulationsmodus:
 - `assets/templates/zahlungseingang-matching.md`.
 - `assets/templates/mahn-und-klaerfallregister.md`.
 - `assets/templates/datev-uebergabe-simulation.md`.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+- **BGH IX ZR 52/20 (27.01.2022) entfernt.** Das Aktenzeichen existiert nicht als BGH IX ZR 52/20 mit dem behaupteten Thema „GoBD-konforme Buchfuehrung“. Laut dejure.org existiert BGH VIII ZR 52/20 (07.07.2021, anderer Senat), Thema: Mietrecht / Betriebskosten-Abrechnung / GbR-Prozessfuehrung — kein Bezug zur Kanzleibuchhaltung. Das Aktenzeichen IX ZR 52/20 mit Datum 27.01.2022 und NJW 2022, 1234 ist eine Halluzination (WRONG_TOPIC). Eintrag geloescht.

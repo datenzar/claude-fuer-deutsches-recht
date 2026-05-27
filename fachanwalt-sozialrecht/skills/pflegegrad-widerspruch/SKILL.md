@@ -124,7 +124,6 @@ Wenn der Mandant kein Pflegetagebuch hat, biete als Sofortmaßnahme an, eines f�
 
 ## Aktuelle Rechtsprechung
 
-- BSG, Urt. v. 07.03.2017 - B 1 KR 6/16 R, SozR 4-3300 § 15 Nr. 7 Rn. 25 — Der Pflegegrad ist nach den sechs Modulen des § 15 SGB XI zu bilden; das Gutachten des Medizinischen Dienstes hat lediglich beratende Funktion, die Pflegekasse ist an die Empfehlung nicht strikt gebunden und muss eigenständig entscheiden.
 - BSG, Urt. v. 22.04.2015 - B 3 P 8/13 R, SozR 4-3300 § 14 Nr. 7 Rn. 19 — Für die Feststellung des Pflegegrads ist der regelmäßige, zeitlich überwiegende Zustand maßgeblich; eine Einzelbeobachtung bei der Begutachtung ist nicht ausreichend, wenn Befunde eine schlechtere Alltagssituation belegen.
 - BSG, Urt. v. 21.02.2013 - B 3 P 14/11 R, SozR 4-3300 § 15 Nr. 4 Rn. 18 — Die Beurteilung der Pflegebedürftigkeit hat unter Berücksichtigung der individuellen Situation zu erfolgen; Schwankungen im Gesundheitszustand (z.B. bei Demenz, Parkinson) sind durch Verlaufsbeobachtung und Befragung von Hauptpflegepersonen zu erfassen.
 - BSG, Urt. v. 29.11.2018 - B 3 P 1/18 R, SozR 4-3300 § 18 Nr. 9 Rn. 22 — § 18 Abs. 7 SGB XI verpflichtet den Medizinischen Dienst, bei der Begutachtung pflegende Angehörige einzubeziehen; ein ohne Befragung der Hauptpflegeperson erstelltes Gutachten ist methodisch fehlerhaft und begründet Zweifel an der Richtigkeit der Punktevergabe.
@@ -133,3 +132,7 @@ Wenn der Mandant kein Pflegetagebuch hat, biete als Sofortmaßnahme an, eines f�
 
 - Kasseler Kommentar Sozialversicherungsrecht, Leitherer §§ 14-15 SGB XI Rn. 1 ff. (Pflegebedürftigkeit, Module)
 - Hauck/Noftz SGB XI, § 18 Rn. 1 ff. (Begutachtungsverfahren, Pflichten des MD)
+
+---
+
+> **Audit 27.05.2026** — BSG B 1 KR 6/16 R (behauptetes Thema: Pflegegrad wird nach NBA § 15 SGB XI berechnet) aus Aktuelle Rechtsprechung entfernt. Das Urteil existiert (BSG, 25.10.2016), betrifft aber ausschließlich die gesetzliche Krankenversicherung (stationäre Behandlung § 39 SGB V, Verhältnis Krankenkasse/Krankenhaus); kein Bezug zum Pflegegrad oder SGB XI. Falschthema (WRONG_TOPIC) — Eintrag gelöscht.

@@ -65,8 +65,8 @@ oder Logo schützen; DPMA erteilt Beanstandung; Wettbewerber widerspricht.
 
 ### Leitentscheidungen
 
-1. BGH, Beschl. v. 06.04.2017 – I ZB 39/16, GRUR 2017, 914 Rn. 16 –
-   „Medicon-Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
+1. BGH, Urt. v. 02.03.2017 – I ZR 30/16, GRUR 2017, 914 Rn. 16 –
+   „Medicon-Apotheke/MediCo Apotheke": Zum Freihaltebedürfnis (§ 8 Abs. 2 Nr. 2 MarkenG):
    Beschreibende Angaben, die zur Bezeichnung von Merkmalen der angemeldeten
    Waren oder Dienstleistungen dienen können, sind auch dann von der Eintragung
    ausgeschlossen, wenn die Beschreibung mittelbar oder nur in einer möglichen
@@ -153,8 +153,8 @@ Nr. 2 MarkenG).
 „FRISCH" und „KLAR" sind für Mineralwasser beschreibende Merkmale (Frische,
 Klarheit). Die Kombination könnte als Gesamtbegriff dennoch hinreichende
 Unterscheidungskraft haben, wenn sie nicht lexikalisch nachweisbar ist und vom
-Verkehr als Fantasiebezeichnung verstanden wird (vgl. BGH, Beschl. v. 06.04.2017
-– I ZB 39/16, GRUR 2017, 914 Rn. 16; Ströbele, in: Ströbele/Hacker/Thiering,
+Verkehr als Fantasiebezeichnung verstanden wird (vgl. BGH, Urt. v. 02.03.2017
+– I ZR 30/16, GRUR 2017, 914 Rn. 16; Ströbele, in: Ströbele/Hacker/Thiering,
 MarkenG, 13. Aufl. 2021, § 8 Rn. 55). Die Prüfung beim DPMA wird kritisch sein;
 eine Stellungnahme zur Verkehrswahrnehmung sollte vorbereitend erstellt werden.
 Gebühren: 300 € für bis zu 3 Klassen (elektronische Anmeldung); für Klasse 35
@@ -199,3 +199,13 @@ Bevor die Anmeldung eingereicht wird, klaere:
 > **BGH, Beschl. v. 01.07.2010 — I ZB 68/09 (Tooor!):** Ein Wortzeichen mit Ausrufungszeichen oder grafischen Elementen kann Unterscheidungskraft erlangen, wenn die Besonderheit der Gestaltung nicht auf eine erkennbare Sachaussage hinauslaeuft; Begeisterungsrufe ohne Bezug zur Ware sind in der Regel nicht eintragbar.
 
 > **EuGH, Urt. v. 04.05.1999 — C-108/97 (Chiemsee):** Geographische Herkunftsangaben, die fuer den relevanten Mitbewerberkreis freizuhalten sind, koennen nur durch Nachweis von Verkehrsdurchsetzung eingetragen werden; fuer regionale Marken ist ein Wiedererkennungswert von mindestens 40 % im relevanten Gebiet erforderlich.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 031 / Halluzinations-Reparatur
+Problem: Leitentscheidung 1 wies AZ I ZB 39/16 (= Schokoladenstaebchen, GRUR 2017, 1262) aus,
+         obwohl der Inhalt (Medicon-Apotheke, Freihaltebeduerfnis § 8 II Nr. 2 MarkenG) zum
+         Urteil I ZR 30/16 (GRUR 2017, 914) gehoert.
+Korrektur: AZ I ZB 39/16 → I ZR 30/16; "Beschl." → "Urt."; Datum 06.04.2017 → 02.03.2017;
+           Fallname um "/MediCo Apotheke" ergaenzt. Beide Fundstellen im Dokument korrigiert.
+           Verifiziert via dejure.org.
+-->

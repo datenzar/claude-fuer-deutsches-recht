@@ -164,7 +164,6 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ## Aktuelle Rechtsprechung (v14.2)
 - BGH, Urt. v. 28.10.2014 — VI ZR 135/13, NJW 2015, 404 Rn. 18: Anwaltshaftung bei Mandatsuebernahme ohne Konflikt-Check — Interessenkonflikt bereits bei Beratung desselben Sachverhalts auf Gegenseite entsteht.
 - EuGH, Urt. v. 07.03.2024 — C-604/22 (IAB Europe), NJW 2024, 1205 Rn. 48: Consent-Management-Betreiber als gemeinsam Verantwortlicher i.S.d. Art. 26 DSGVO; relevant fuer Mandatspruefung IT-Dienstleister.
-- BGH, Urt. v. 26.01.2017 — VII ZR 198/15, NJW 2017, 1534 Rn. 22: Eilbeduerftigkeit im IT-Projektstreit — einstweilige Verfuegung bei drohender Projektunterbrechung zulaessig; RA-Sofortmandat gerechtfertigt.
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 
 ## Zentrale Normen (Paragrafenkette)
@@ -206,3 +205,5 @@ TRIAGE-PROTOKOLL IT-RECHT
 
 Bearbeiter: [NAME RA/RAin]
 ```
+
+<!-- AUDIT 27.05.2026: BGH VII ZR 198/15 (26.01.2017) NOT_FOUND auf dejure.org – Eintrag "Eilbeduerftigkeit im IT-Projektstreit, NJW 2017, 1534" gelöscht. Thema passt nicht zu IT-Recht-Triage (VII ZR ist Baurechtssenat). Kein verifizierter Ersatz recherchiert; bei Zweifel löschen. -->

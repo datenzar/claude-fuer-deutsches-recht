@@ -149,7 +149,6 @@ Bevor der AWA-Antrag oder die Vernichtung veranlasst wird, klaere:
 
 > **EuGH, Urt. v. 01.12.2011 — C-446/09 (Philips / Nokia):** Die Zolldurchsetzungs-VO (damals 1383/2003) erlaubt den Mitgliedstaaten, Waren aus Drittlaendern auch bei Transit durch die EU zu beschlagnahmen, wenn eine reale Gefahr der Markteinleitung in der EU besteht; die Beweislast liegt beim Rechteinhaber.
 
-> **EuGH, Urt. v. 03.07.2012 — C-128/11 (UsedSoft):** Fuer digitale Fälschungen (illegale Kopien von Markenkennzeichnungen in Onlinekatalagen) gilt das Erschoepfungsprinzip nicht; das ausschliessliche Verbreitungsrecht des Markeninhabers bleibt unberührt.
 
 ## Output-Template: AWA-Verlängerungs-Checkliste
 
@@ -170,3 +169,10 @@ Zoll-Kooperationspartner:
 [ ] EUIPO IP-Enforcement-Database aktualisiert
 [ ] US CBP Recordation geprueft (vgl. Skill us-counterfeit-und-customs-cbp)
 ```
+
+---
+<!-- AUDIT 27.05.2026 | bundle_037 | task 2/5
+EuGH C-128/11 (UsedSoft/Oracle) (WRONG_TOPIC): Das Urteil betrifft das urheberrechtliche Erschoepfungsprinzip fuer Software-Downloads, nicht das Markenrecht oder Zoll-Enforcement.
+Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NICHT fuer digitale Fälschungen — das Gegenteil des Urteilsinhalts.
+Massnahme: Gesamten C-128/11-Absatz aus Aktuelle-Rechtsprechung-Block entfernt.
+-->

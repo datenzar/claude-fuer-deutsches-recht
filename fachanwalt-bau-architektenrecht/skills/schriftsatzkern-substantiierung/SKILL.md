@@ -198,8 +198,6 @@ Vor Versand:
 
 - BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1537 Rn. 24 — Für die Substantiierung eines Mangels im Bauprozess genügt es, wenn der Auftraggeber Art und Ausmaß des Mangels schildert; er muss nicht die Ursache des Mangels darlegen — das ist Aufgabe des Sachverständigen.
 - BGH, Urt. v. 23.10.2008 - VII ZR 64/07, BGHZ 178, 267 Rn. 19 — Der Vortrag des Mangels muss so konkret sein, dass die Gegenseite darauf erwidern kann; bloße Verweise auf Gutachten ohne Wiedergabe der wesentlichen Inhalte im Schriftsatz reichen nicht aus.
-- BGH, Urt. v. 07.03.2013 - VII ZR 68/10, NJW 2013, 1744 Rn. 33 — Bei Streit über Werklohnforderungen ist der Auftragnehmer zur vollständigen Schlussrechnungslegung verpflichtet; fehlende oder unvollständige Schlussrechnung verhindert Fälligkeit nach § 641 Abs. 1 BGB.
-- BGH, Urt. v. 09.01.2003 - VII ZR 181/00, BGHZ 153, 244 Rn. 22 — HOAI-Honorarklage: vollständige Darlegung der anrechenbaren Kosten und der erbrachten Leistungsphasen ist Pflichtinhalt jeder HOAI-Klage; pauschale Honorarvereinbarungen außerhalb der Mindest-/Höchstsätze müssen bei Abschluss vereinbart werden.
 
 ## Paragrafenkette Substantiierung Bauprozess
 
@@ -260,4 +258,11 @@ III. Mangelhaftigkeit des Werks — § 633 Abs. 2 BGB
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- VII ZR 68/10: ersatzlos entfernt (BGH 07.03.2013 – VII ZR 68/10 betrifft Sittenwidrigkeit von Nachtragspreisen im Bauvertrag nach § 138 BGB / VOB/B § 2 Nr. 6, nicht Schlussrechnungslegung oder § 641 Abs. 1 BGB; Quelle: dejure.org/2013,7542)
+- VII ZR 181/00: ersatzlos entfernt (BGH 09.01.2003 – VII ZR 181/00 betrifft Baumangel Betondecke B25/B35 und Minderungsberechnung nach VOB/B § 13 Nr. 1, 6 a.F., BGHZ 153, 279; kein Bezug zu HOAI-Honorarklage; der im Skill genannte BGHZ-Band 153, 244 existiert fuer dieses AZ nicht; Quelle: dejure.org/2003,455)
 

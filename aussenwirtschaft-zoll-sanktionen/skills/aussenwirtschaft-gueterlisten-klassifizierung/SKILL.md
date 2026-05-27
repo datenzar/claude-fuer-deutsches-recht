@@ -65,8 +65,6 @@ Kläre vor der Klassifizierung:
 - EuGH, Urt. v. 17.06.2010 - C-376/08 (Saman/Hauptzollamt) — EU-Dual-Use-Genehmigungspflichten sind unmittelbar anwendbar ohne nationalen Umsetzungsakt; Mitgliedstaatliches Recht kann Pflichten nicht einschraenken.
 - BVerwG, Urt. v. 23.10.2007 - 3 C 33.06, BVerwGE 129, 367 — BAFA-Ermessen bei Ablehnung von Genehmigungen fuer sicherheitssensible Gueter; technische Einschaetzung der Behoerde ist nur eingeschraenkt nachpruefbar.
 - BGH, Urt. v. 11.07.2019 - 1 StR 634/18, NStZ 2020, 34 — Kenntnis des Exporteurs von Guterlistenposition wird bei Vorliegen offensichtlicher technischer Parameter des gelisteten Gutes vermutet (dolus directus II).
-- VG Frankfurt, Urt. v. 08.11.2012 - 5 K 978/11 — Mangelnde Erkundigung ueber Guterlistenstatus erhoehten Risikoguts begruendet leichtfertigen AWG-Verstoss auch ohne positive Kenntnis.
-
 ## Normen-Kette Guterlistenklassifizierung
 
 - Anhang I VO (EU) 2021/821 — EU-Dual-Use-Guterliste (Kategorien 0-9)
@@ -114,3 +112,8 @@ Bearbeiter: [NAME]
    BAFA-Auskunft empfohlen: [ ] Ja / [ ] Nein
    Dokumentation abgelegt: [ABLAGEORT]
 ```
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 014:
+- VG Frankfurt 5 K 978/11 (behauptet: AWG-Verstoss leichtfertig, Gueterlistenstatus) entfernt: Urteil nicht auffindbar in dejure.org, Hessenrecht oder einschlägigen Datenbanken. Status NOT_FOUND. Eintrag gelöscht.
+-->

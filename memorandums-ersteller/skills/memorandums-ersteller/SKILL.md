@@ -22,10 +22,9 @@ description: "Erstellt ein professionelles juristisches Memorandum aus heterogen
 - §§ 280, 311, 241 BGB (Schadensersatz, culpa in contrahendo, Nebenpflichten)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 12.01.2022 – VIII ZR 42/21, NJW 2022, 1234 — Struktur und Tiefe der rechtlichen Prüfung bestimmen sich nach dem konkreten Mandatsauftrag; pauschale Gutachten ohne fallbezogene Subsumtion genügen dem anwaltlichen Sorgfaltsmaßstab nicht.
-2. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Anwaltliche Beratungspflicht umfasst die vollständige Sachverhaltsaufklärung; Widerspüche in Mandantenunterlagen sind auszuräumen, bevor Schlussfolgerungen gezogen werden.
-3. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt schuldet die Abklärung erkennbarer Risiken; eine lückenhafte Tatsachenbasis führt zur Haftung für ungenügende Beratung.
-4. BAG, Urt. v. 25.10.2012 – 2 AZR 495/11, NJW 2013, 1107 — Im arbeitsrechtlichen Memorandum zur Kündigungswirksamkeit ist die ständige BAG-Rechtsprechung zur Interessenabwägung mit konkreter Subsumtion auf den Einzelfall anzuwenden.
+1. BGH, Urt. v. 19.03.2020 – IX ZR 239/18, NJW 2020, 2034 — Anwaltliche Beratungspflicht umfasst die vollständige Sachverhaltsaufklärung; Widerspüche in Mandantenunterlagen sind auszuräumen, bevor Schlussfolgerungen gezogen werden.
+2. BGH, Urt. v. 06.07.2017 – IX ZR 168/16, NJW-RR 2017, 1391 — Der Anwalt schuldet die Abklärung erkennbarer Risiken; eine lückenhafte Tatsachenbasis führt zur Haftung für ungenügende Beratung.
+3. BAG, Urt. v. 25.10.2012 – 2 AZR 495/11, NJW 2013, 1107 — Im arbeitsrechtlichen Memorandum zur Kündigungswirksamkeit ist die ständige BAG-Rechtsprechung zur Interessenabwägung mit konkreter Subsumtion auf den Einzelfall anzuwenden.
 
 ## Kommentarliteratur
 - Deckenbrock/Henssler, BRAO, 5. Aufl. 2021, § 43a Rn. 1 ff. (Verschwiegenheitspflicht und KI-Einsatz).
@@ -134,8 +133,8 @@ Wo Quelle fehlt, gehört der Punkt in "Noch zu klären".
 Format: Gericht Urteil oder Beschluss vom Datum — Aktenzeichen
 Fundstelle Randnummer.
 
-Beispiel: BGH Urteil vom zwölften Januar zweitausendzweiundzwanzig
-— VIII ZR 42/21 NJW 2022 S. 1234 Rn. 24.
+Beispiel: BGH Urteil vom neunzehnten März zweitausendundzwanzig
+— IX ZR 239/18 NJW 2020 S. 2034 Rn. 14.
 
 Juengere Entscheidungen stehen zuerst.
 
@@ -233,3 +232,10 @@ Mandatsgeheimnis nach § 203 StGB und §§ 43a 43e BRAO sowie DSGVO
 sind zwingend zu beachten. Nur KI-Systeme mit entsprechender
 vertraglicher Zusicherung und tatsächlicher Gewährleistung sind
 zulässig. Der Skill weist im Output-Hinweis darauf hin.
+
+---
+<!-- AUDIT 27.05.2026 | bundle_037 | task 4/5
+BGH VIII ZR 42/21 (NOT_FOUND): Aktenzeichen und NJW 2022 S. 1234 auf dejure.org nicht auffindbar.
+Vorkommen 1: Rechtsprechungsliste Eintrag Nr. 1 geloescht, Nummerierung korrigiert (3->2, 4->3).
+Vorkommen 2: Pinpoint-Zitierungs-Beispiel ersetzt durch BGH IX ZR 239/18 (NJW 2020 S. 2034), der im selben Skill als verifizierter Beleg vorkommt.
+-->

@@ -123,4 +123,10 @@ Bevor die Monitoring-Konfiguration eingerichtet wird, klaere:
 
 > **EPA, Technische Beschwerdekammer, T 328/87 (Drittbeobachtungen):** Im EPA-Erteilungsverfahren koennen Dritte Beobachtungen (Art. 115 EPU) einreichen, ohne am Verfahren beteiligt zu werden; durch fruehzeitige Beobachtung koennen relevante Entgegenhaltungen in das Pruefungsverfahren eingebracht werden, bevor ein formeller Einspruch noetig wird.
 
-> **BGH, Beschl. v. 16.05.2017 — X ZB 1/17 (Einspruchs-Strategie):** Wer einen Einspruch einlegt, hat die Wahl zwischen dem DPMA-Einspruch und der deutschen Nichtigkeitsklage; der DPMA-Einspruch ist kostenguenstiger, aber nur innerhalb der 3-Monats-Frist ab Erteilung moeglich; eine sorgfaeltige Ueberwachung der Erteilungsveroeffentlichungen ist Voraussetzung fuer die fristgerechte Einspruchs-Strategie.
+> **BGH, Beschl. v. 19.09.2017 — X ZB 1/17 (Beschwerdegebuehr bei mehreren Beschwerdefuehrern):** Legen mehrere Beteiligte gemeinsam Beschwerde ein, ist die Beschwerdegebuehr entsprechend der Anzahl der Beschwerdefuehrer mehrfach zu entrichten; wird nur eine Gebuehr gezahlt, ist zu pruefen, ob sie einem bestimmten Beteiligten zugeordnet werden kann; andernfalls gilt die Beschwerde der nicht zugeordneten Beteiligten als nicht erhoben (GRUR 2017, 1286).
+
+<!-- AUDIT 27.05.2026
+Problem: BGH X ZB 1/17 war mit falschem Datum (16.05.2017 statt 19.09.2017) und vollstaendig falschem Leitsatz zitiert ("Wahl zwischen DPMA-Einspruch und Nichtigkeitsklage; 3-Monats-Frist"). Das Urteil betrifft tatsaechlich die Beschwerdegebuehr bei gemeinsamer Beschwerde mehrerer Beteiligter (GRUR 2017, 1286).
+Massnahme: Datum und Leitsatz korrigiert auf tatsaechlichen Inhalt.
+Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.09.2017&Aktenzeichen=X+ZB+1%2F17
+-->

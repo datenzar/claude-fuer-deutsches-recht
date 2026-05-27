@@ -62,7 +62,6 @@ Verbindlich: `../references/zitierweise.md`.
 
 - Greger, in: Zöller, ZPO, 35. Aufl. 2024, §§ 373–401 Rn. 1 ff. (Zeugenvernehmung: Ablauf, Zeugnisverweigerungsrecht, Vereidigung).
 - BGH, Urt. v. 28.02.2018 – IV ZR 252/16, NJW 2018, 1382 Rn. 21 (Glaubhaftigkeitsprüfung bei Zeugenbeweis: Gesamtwürdigung, § 286 ZPO).
-- BGH, Urt. v. 16.07.2010 – V ZR 224/09, NJW 2011, 295 Rn. 18 (Freiheit der Beweiswürdigung bei Zeugenaussagen).
 - Huber, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 373 Rn. 5 ff. (Beweisantritt durch Zeugenbeweis).
 - Meyer-Goßner/Schmitt, StPO, 67. Aufl. 2024, § 52 Rn. 1 ff. (Zeugnisverweigerungsrecht wegen persönlicher Beziehung).
 - BGH, Urt. v. 30.10.2008 – III ZR 307/07, NJW 2009, 227 Rn. 14 (Vereidigung, § 391 ZPO: Ermessen des Gerichts).
@@ -96,3 +95,11 @@ Verbindlich: `../references/zitierweise.md`.
 - **Zeugnisverweigerungsrecht übersehen:** Vor der Vernehmung stets §§ 383–385 ZPO, § 52, 55 StPO prüfen; Nichtbelehrung führt zur Unverwertbarkeit (§ 252 StPO; BGH, Urt. v. 27.02.1992 – 4 StR 23/92, BGHSt 38, 302).
 - **Gegnerischer Zeuge – keine Kontaktaufnahme:** Kontaktaufnahme mit gegnerischem Zeugen außerhalb des Verfahrens ist berufsrechtlich problematisch (§ 12 BORA).
 - **Vereidigung:** § 391 ZPO – Gericht entscheidet; falsche Zeugenaussage ist strafbar (§ 153 StGB); Zeuge vor Vernehmung hierüber belehren.
+
+<!-- AUDIT 27.05.2026
+AZ BGH V ZR 224/09 entfernt: Entscheidung auf dejure.org nicht auffindbar (NOT_FOUND);
+einziger Treffer ist XI ZR 224/09 (06.07.2010, XI. Zivilsenat, Bankrecht/Anscheinsbeweis
+Kreditkarte) - falscher Senat, falsches Thema. Behauptetes Thema "Freie Beweiswuerdigung
+bei Zeugenaussagen § 286 ZPO" ist eine Halluzination. Referenz geloescht.
+Keine Ersatzquelle ergaenzt.
+-->

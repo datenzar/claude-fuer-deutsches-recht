@@ -31,7 +31,6 @@ Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen B
 - BVerfG, Beschl. v. 24.3.2021 — **1 BvR 2656/18** ("Klimaschluss") — KSG verfassungswidrig hinsichtlich Generationen-Verantwortung; verpflichtete Bundestag zur Konkretisierung der Reduktionswege nach 2030
 - BVerfG, Beschl. v. 18.1.2022 — 1 BvR 1565/21 ("Klima-NRW") — Verfassungsbeschwerde gegen Landesgesetze abgelehnt; Maßstab aber bestätigt
 - EGMR, Urt. v. 9.4.2024 — **Verein KlimaSeniorinnen Schweiz** ./. Schweiz (53600/20) — Art. 8 EMRK schützt Klima
-- BVerwG, Urt. v. 30.5.2022 — 7 C 32/20 ("Klima-Klage Bundesregierung") — Sektorenziele justiziabel
 - OVG Berlin-Brandenburg, Urt. v. 2.11.2023 — OVG 11 A 1/22 (Berlin-Klimaklage erfolgreich)
 - VG Berlin, Urt. v. 16.5.2024 — 10 K 12/22 ("Klimaschutz Berlin")
 
@@ -112,3 +111,8 @@ Spezial-Mandat: Mandant (Einzelperson, NGO, Klima-Aktivist-Verein) klagt gegen B
 ## Quellen und Updates
 
 Stand: 05/2026. BVerfG 1 BvR 2656/18 stehende Rspr. EGMR Verein KlimaSeniorinnen 9.4.2024. VG Berlin 10 K 12/22. Bei BVerwG-Folge-Entscheidungen aktualisieren.
+<!-- AUDIT 27.05.2026
+Problem: BVerwG 7 C 32/20 (Datum 30.05.2022, "Klimaklage Bundesregierung – Sektorenziele justiziabel") – NOT_FOUND auf dejure.org; AZ existiert nicht verifizierbar.
+Aktion: Eintrag gelöscht.
+Hinweis: Die Klimaklage DUH gegen Bundesregierung ist BVerwG 7 C 6.20 (Urt. v. 25.11.2021); neueste DUH-Entscheidung ist BVerwG 7 C 6.24 (Urt. v. 29.01.2026) – Klimaschutzprogramm 2023 unzureichend.
+-->

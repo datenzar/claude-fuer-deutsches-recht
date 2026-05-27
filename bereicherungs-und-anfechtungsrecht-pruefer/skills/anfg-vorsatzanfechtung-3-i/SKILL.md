@@ -23,7 +23,6 @@ description: "Vorsatzanfechtung ausserhalb der Insolvenz geltend machen: Benacht
 
 - BGH, Urt. v. 26.04.2012 - IX ZR 74/11, NJW 2012, 2182 — Zum Benachteiligungsvorsatz: dolus eventualis genügt; Schuldner muss wissen oder billigend in Kauf nehmen dass die Rechtshandlung seine Gläubiger benachteiligt. Kenntnis der eigenen Zahlungsunfähigkeit ist starkes Indiz.
 - BGH, Urt. v. 05.03.2015 - IX ZR 133/14, NJW 2015, 1600 — Zur Kenntnis des Anfechtungsgegners: blosse Kenntnis der wirtschaftlichen Schwierigkeiten des Schuldners genügt nicht; Kenntnis von tatsächlichen Umständen die auf Benachteiligungsabsicht schliessen lassen erforderlich.
-- BGH, Urt. v. 17.09.2009 - IX ZR 176/07, NJW 2009, 3498 — Zur Kenntnisvermutung bei nahestehenden Personen (§ 138 InsO analog): Vermutung ist widerlegbar; Anfechtungsgegner muss konkrete Umstände dartun die Kenntnis ausschliessen.
 - BGH, Urt. v. 22.09.2016 - IX ZR 219/14, NJW 2017, 57 — Zu inkongruenter Deckung als Indiz: Inkongruenz begründet starke Vermutung für Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners; beide Tatbestandsmerkmale werden dadurch erheblich erleichtert.
 
 ## Kommentarliteratur
@@ -70,3 +69,12 @@ Der Anfechtungsgegner muss zum Zeitpunkt der Handlung den Benachteiligungsvorsat
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 176/07 (als Urt. v. 17.09.2009 zitiert) geloescht: WRONG_TOPIC.
+dejure.org findet unter IX ZR 176/07 kein Urteil; NJW 2009, 3498 ist laut
+dejure.org nicht vorhanden. Aktenzeichen vollstaendig halluziniert.
+Bundle-Report: Aktenzeichen gehoert anderem Senat (VI ZR 176/07, Schadensersatz).
+Kein Ersatz ergaenzt (kein verifizierbares BGH-Urteil zur Kenntnisvermutung
+bei nahestehenden Personen § 138 InsO analog im AnfG gefunden).
+-->

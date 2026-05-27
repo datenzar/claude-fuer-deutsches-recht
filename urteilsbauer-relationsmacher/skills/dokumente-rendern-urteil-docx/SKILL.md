@@ -17,7 +17,7 @@ Erzeugt aus strukturierten Markdown-Bausteinen ein lieferfertiges Urteil im Layo
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.06.2018 - VI ZR 559/16, NJW 2018, 2868 — Urteil muss von allen Richtern des Spruchkörpers unterschrieben sein, die an der Entscheidung mitgewirkt haben (§ 315 Abs. 1 ZPO); elektronische Signatur nach § 130b ZPO gleichwertig.
+- BGH, Urt. v. 21.01.2016 - I ZR 90/14, GRUR 2016, 860 Rn. 18 — Wechsel eines Richters zu einem anderen Spruchkörper begründet keinen Verhinderungsgrund i.S.d. § 315 Abs. 1 Satz 2 ZPO; fehlende Unterschrift eines mitwirkenden Richters ist absoluter Revisionsgrund nach § 547 Nr. 6 ZPO.
 - BGH, Beschl. v. 10.07.2020 - V ZB 68/19, NJW 2020, 3661 — Fehlende Unterschrift eines Richters führt zu Nichtigkeit des Urteils; Heilung nur in engen Grenzen möglich.
 - BGH, Urt. v. 27.03.2019 - IV ZR 76/18, NJW 2019, 1742 — Urteil muss Rubrum mit vollständigen Parteibezeichnungen enthalten; Fehler im Rubrum können per Berichtigungsbeschluss korrigiert werden (§ 319 ZPO).
 - BVerfG, Beschl. v. 30.06.2014 - 1 BvR 2340/13, NJW 2014, 3219 — Formvorschriften für gerichtliche Entscheidungen sind aus Rechtssicherheitsgründen strikt einzuhalten.
@@ -115,3 +115,10 @@ Ausgabe: `Urteil-{Aktenzeichen}.docx` (und `.pdf` wenn `soffice` verfügbar).
 ## Voraussetzungen
 
 `pip install python-docx pyyaml`. Für PDF: LibreOffice (`soffice`).
+
+<!-- AUDIT 27.05.2026 | bundle_053
+Geprüft: BGH VI ZR 559/16 (NOT_FOUND auf dejure.org)
+Ersatz: BGH I ZR 90/14, GRUR 2016, 860 (verifiziert auf dejure.org)
+Thema: § 315 ZPO Verhinderungsgrund Richterunterschrift — thematisch passend
+Hinweis: BGH V ZB 68/19 (NJW 2020, 3661) in derselben Sektion ebenfalls NOT_FOUND; nicht im Bundle-Scope, zur Nachprüfung vorgemerkt.
+-->

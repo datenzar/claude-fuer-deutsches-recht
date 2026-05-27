@@ -28,8 +28,6 @@ description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gruendung
 - BFH, Urt. v. 19.09.2019 - V R 10/18, BStBl. II 2020, 127 — Kleinunternehmer-Wahlrecht: Unternehmer kann auf Anwendung § 19 UStG verzichten; Bindung 5 Jahre; Widerruf erst nach Ablauf möglich.
 - FG München, Urt. v. 28.06.2018 - 14 K 2612/16, EFG 2018, 1634 — Verzugszinsen und Säumniszuschläge bei verspäteter USt-Voranmeldung; kein Verschulden bei Erstgründung als Milderungsgrund.
 - BFH, Urt. v. 27.01.2011 - V R 38/09, BStBl. II 2011, 547 — rückwirkende Steuerschätzung: Finanzamt darf bei fehlender Steuererklärung nach § 162 AO schätzen; bei kleinen Unternehmen kann Schätzung überproportional ausfallen.
-- BGH, Urt. v. 14.07.2010 - VIII ZR 246/08, NJW 2010, 3432 — Gewerbebetrieb und Steuerrecht: Gewerbebetrieb entsteht steuerlich bereits vor HR-Eintragung; GbR zwischen Gründern kann bereits Gewerbesteuer auslösen.
-
 ## Kommentarliteratur
 
 - Tipke/Lang, Steuerrecht, § 17 Rn. 1-40 (Umsatzsteuer, Kleinunternehmer, Vorsteuer)
@@ -127,3 +125,5 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 - `gesellschaftsgruender-ihk-und-berufsgenossenschaft` — weitere Pflichtmeldungen
 - `gesellschaftsgruender-transparenzregister` — GwG-Pflicht
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — laufende Steuerpflichten
+
+<!-- AUDIT 27.05.2026: BGH VIII ZR 246/08 entfernt. Tatsächliches Thema: Preiserhöhungsklauseln in Erdgas-Sonderverträgen, AGB-Inhaltskontrolle § 307 BGB — kein Bezug zu Gewerbebetrieb oder Steuerrecht. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

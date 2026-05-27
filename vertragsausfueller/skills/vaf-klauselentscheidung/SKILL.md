@@ -16,7 +16,6 @@ description: "Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwen
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 18.04.2018 - VIII ZR 168/17, NJW 2018, 2317 — Haftungsausschlussklausel in AGB unwirksam, wenn sie auch grobe Fahrlässigkeit umfasst (§ 309 Nr. 7b BGB).
-- BGH, Urt. v. 06.11.2012 - X ZR 133/10, NJW 2013, 375 — Vertragsstrafe: Klausel muss klar und bestimmt sein; pauschale "bis zu X EUR"-Formulierung kann unbedenklich sein, wenn Obergrenze eindeutig.
 - BGH, Urt. v. 21.06.2012 - III ZR 227/11, NJW 2012, 3022 — Schiedsklausel in AGB mit Verbraucher unwirksam (§ 1031 Abs. 5 ZPO); muss handschriftlich gesondert unterzeichnet werden.
 - BGH, Urt. v. 28.05.2014 - VIII ZR 241/13, NJW 2014, 3098 — Indexklausel im Gewerbemietrecht grundsätzlich zulässig; Verweis auf VPI muss nachvollziehbar sein.
 
@@ -66,3 +65,11 @@ Der Skill verhindert stilles Auswählen riskanter Optionen. Er arbeitet freisteh
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.

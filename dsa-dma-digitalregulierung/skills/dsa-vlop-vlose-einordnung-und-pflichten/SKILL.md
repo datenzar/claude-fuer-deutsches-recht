@@ -75,7 +75,7 @@ Stand 2026: bereits designiert sind u.a. mehrere große soziale Netzwerke, Video
 - EuG, Urt. v. 14.09.2023 — T-779/22 (ByteDance/Kommission), NJW 2024, 188 Rn. 55–78: Erstes Urteil zur VLOP-Designation nach Art. 33 DSA; Kommission hat weiten Ermessensspielraum bei Feststellung der 45-Mio.-Schwelle; ByteDance (TikTok) als VLOP designiert.
 - EuGH, Urt. v. 03.10.2019 — C-18/18 (Eva Glawischnig-Piesczek), NJW 2019, 3571 Rn. 28: Zur Reichweite von Pflichten sozialer Netzwerke bei illegalen Inhalten; DSA-Pflichtenkatalog für VLOPs baut auf dieser Rechtslinie auf.
 - OVG Hamburg, Beschl. v. 15.03.2023 — 14 Bs 12/23, NVwZ 2023, 890 Rn. 22: Zur nationalen Durchsetzung von Plattformpflichten; nach DSA liegt Zuständigkeit primär bei Kommission (Art. 65 DSA) und nationalem digitalen Koordinator.
-- EuGH, Urt. v. 22.06.2023 — C-422/21 (Tele2 Sverige), NJW 2023, 2800 Rn. 42: Grundrechtsabwägung bei Plattformpflichten; VLOPs müssen Art. 11 GRCh in ihren Risikobewertungen und Minderungsmaßnahmen berücksichtigen.
+- EuGH, Urt. v. 26.04.2022 — C-401/19 (Polen/Parlament und Rat), NJW 2022, 1663 Rn. 47: Grundrechtsabwägung bei Pflichten von Online-Plattformen; die besondere Bedeutung des Internets fuer die in Art. 11 GRCh gewaehrleistete Freiheit der Meinungsaeusserung ist bei der Auslegung von Plattformpflichten gebührend zu berücksichtigen; Eingriffe durch automatisierte Verfahren beduerfen ausreichender Garantien.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -119,3 +119,5 @@ Kernpflichten-Status:
 
 Sanktionsrisiko: Art. 52 DSA — bis 6 % Jahresumsatz
 ```
+
+<!-- AUDIT 27.05.2026: EuGH C-422/21 (WRONG_TOPIC: Freizuegigkeit/Einwanderungsrecht, nicht Plattformpflichten) entfernt. Ersetzt durch EuGH C-401/19 (26.04.2022, Polen/Parlament und Rat, NJW 2022, 1663) — bestaetigt Art. 11 GRCh-Relevanz bei Plattformpflichten. Quelle: dejure.org/2022,8884 -->

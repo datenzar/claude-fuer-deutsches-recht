@@ -265,7 +265,6 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 14.04.2021 — VIII ZR 8/20, NJW 2021, 2356 — Due-Diligence-Offenbarungs-Pflicht des Verkaeufers bei EEG-Anlage; verschwiegene Unregelmässigkeit im MaStR-Eintrag begruendet Maengelhaftung nach § 453 BGB i.V.m. § 437 BGB
 - OLG Hamburg, Urt. v. 23.06.2022 — 6 U 130/21, NZG 2022, 1190 — Share Deal bei Windpark-GmbH; Haftung fuer oeffentlich-rechtliche Lasten (Rueckforderung EEG-Verguetung) trifft Erwerber bei Kenntnis; M&A-Garantien in SPA unverzichtbar
 - BVerwG, Urt. v. 15.06.2023 — 7 C 15.21, NVwZ 2023, 1588 — BImSchG-Genehmigung erlischt bei fehlender Realisierungsabsicht nach drei Jahren; Erwerber muss im Rahmen der DD Genehmigungsstatus aktiv verifizieren
 - EuGH, Urt. v. 28.04.2022 — C-444/20, NVwZ 2022, 969 — Beihilfen-Rueckforderungsrisiko bei EE-Foerderung; Erwerber einer Anlage kann Rueckforderungs-Bescheid erhalten wenn Beihilfe nicht mit dem Binnenmarkt vereinbar war; kein gutglaeubiger Erwerb bei oeffentlichen Foerderungen
@@ -299,3 +298,7 @@ Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erze
 - BGH II ZB zu Insolvenz-Asset-Deals
 - BFH zu Energie-Steuer-Behandlung
 - Bundeskartellamt-Praxis Energie-Fusionen
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VIII ZR 8/20 (NOT_FOUND): Aktenzeichen auf dejure.org nicht nachweisbar; kein BGH-Urteil zu Due-Diligence-Offenbarungspflicht EEG/MaStR unter diesem AZ gefunden. Zitat entfernt. -->

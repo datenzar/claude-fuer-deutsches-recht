@@ -39,7 +39,7 @@ Als eine der wenigen deutschen Markenanwältinnen mit echter Praxis in diesem Ni
 
    **Option B — UWG-Schutz (§ 4 Nr. 3):**
    - Unlautere Nachahmung erfordert: wettbewerbliche Eigenart + Nachahmung + besondere Umstände
-   - BGH I ZR 14/15 (Pippi-Langstrumpf-Kostüm) — ästhetische Eigenart
+   - BGH I ZR 149/14 (Pippi-Langstrumpf-Kostüm II, 19.11.2015) — wettbewerbliche Eigenart und UWG-Nachahmungsschutz
    - BGH I ZR 162/14 (Segmentstruktur) — wettbewerbliche Eigenart Produktgestaltung
    - Nachweis: Unique Smell Signature, Olfaktorik-Gutachten
    - Grenze: Nur gegen direkte Kopien, nicht gegen ähnliche Düfte
@@ -129,3 +129,10 @@ Bevor die Duftmarke eingereicht wird, klaere:
 > **EuG, Urt. v. 27.10.2005 — T-305/02 (Eden SARL):** Die Darstellung eines Geruchs als „Erdbeerduft" ist nicht als Marke eintragbar, weil sie weder praezise noch objektiv ist; ein chemisches Strukturrezept waere theoretisch ausreichend, ist aber in der Praxis des EUIPO nicht akzeptiert worden.
 
 > **DPMA, Beschl. v. 01.12.2016 — 30 2015 122 220.1 (Rosenwasser-Duftmarke):** Der Nachweis von Verkehrsdurchsetzung einer Duftmarke erfordert eine reprasentative Verbraucherbefragung mit einem Erkennungswert von mindestens 40 % im relevanten Publikum; blosse Marktpraesenz genuegt nicht.
+
+---
+<!-- AUDIT 27.05.2026 | Bundle 036
+Ersetzt: BGH I ZR 14/15 (Pippi-Langstrumpf-Kostuem) — NOT_FOUND; AZ existiert nicht auf dejure.org.
+Ersatz: BGH I ZR 149/14 (Pippi-Langstrumpf-Kostuem II, 19.11.2015) — verifiziert auf dejure.org (GRUR 2016, 725).
+Thema: wettbewerbliche Eigenart und UWG-Nachahmungsschutz; passt inhaltlich zum Kontext.
+-->

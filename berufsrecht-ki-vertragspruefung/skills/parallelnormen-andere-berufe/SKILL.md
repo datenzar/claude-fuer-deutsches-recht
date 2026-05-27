@@ -90,7 +90,6 @@ Diese Skill liefert primär Referenzdaten für andere Skills. Sie kann auch eige
 
 - BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28: Verschwiegenheitspflicht des Rechtsanwalts als strenger Schutzstandard; jede Offenbarung von Mandatsgeheimnissen gegenüber Dritten bedarf gesetzlicher Grundlage.
 - BFH, Urt. v. 13.07.2021 — VIII R 29/19, BFHE 273, 456 Rn. 32: Verschwiegenheitspflicht des Steuerberaters nach § 57 Abs. 1 StBerG schützt auch Informationen, die der Steuerberater im Rahmen der Beratung erlangt hat; Weitergabe an KI-Systeme bedarf berufsrechtlicher Rechtfertigung nach § 62a StBerG.
-- BGH, Urt. v. 08.03.2022 — X ARZ 148/22, NJW 2022, 1879 Rn. 19: Zur Gleichbehandlung der Berufsgeheimnisträger bei Durchsuchungsmaßnahmen; § 97 StPO schützt Unterlagen aller Berufsgeheimnisträger (Anwalt, Steuerberater, Notar, Arzt) gleichermaßen.
 - OLG Frankfurt, Urt. v. 17.11.2020 — 8 U 25/20, NJW-RR 2021, 145 Rn. 22: Zur Haftung des Notars für Geheimnisverrat nach § 18 BNotO; Notar darf Akteninhalte nicht an externe Dienstleister weitergeben, ohne die besonderen Anforderungen des § 26a BNotO zu erfüllen.
 
 ## Zentrale Normen (Paragrafenkette)
@@ -134,3 +133,11 @@ Beteiligte Berufsgruppen: [LISTE]
 Anzuwendende Norm (strengste bei gemischter Sozietät): § [NORM]
 Besonderheiten: [SONDERREGELN]
 ```
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 016 – Halluzinations-Reparatur
+Problem: BGH X ARZ 148/22 – NOT_FOUND. Keine Entscheidung BGH X ARZ 148/22 vom 08.03.2022 in dejure.org nachweisbar ("Nichts gefunden").
+Beanspruchtes Thema: Gleichbehandlung Berufsgeheimnisträger § 97 StPO, Durchsuchungsschutz Anwälte; NJW 2022, 1879.
+Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=08.03.2022&Aktenzeichen=X+ARZ+148/22
+-->

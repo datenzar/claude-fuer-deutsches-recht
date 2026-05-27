@@ -192,6 +192,12 @@ Bevor das Unterlassungsverlangen formuliert wird, klaere:
 
 > **BGH, Urt. v. 25.04.2019 — I ZR 29/18 (Goldbaeren):** Bei Identitaetsverlet-zung nach § 14 II Nr. 1 MarkenG besteht ein sofort faelliger Unterlassungsanspruch; die Wiederholungsgefahr wird durch die tatsaechliche Verletzungshandlung vermutet und kann nur durch eine ernsthaft gemeinte, uneingeschraenkte strafbewehrte Unterlassungserklaerung beseitigt werden.
 
-> **BGH, Urt. v. 27.07.2017 — I ZR 153/16 (Produkttest):** Eine unzureichend praezisierte Unterlassungserklaerung — die den verbotenen Bereich nicht klar abgrenzt — beseitigt die Wiederholungsgefahr nicht und zwingt zur Einleitung gerichtlicher Massnahmen; die Praezision muss dem Antrag einer einstweiligen Verfuegung entsprechen.
+> **BGH, Urt. v. 31.05.2001 — I ZR 82/99 (Weit-Vor-Winter-Schluss-Verkauf), GRUR 2002, 180:** Eine Unterlassungserklaerung beseitigt die Wiederholungsgefahr nur dann, wenn sie den bestehenden gesetzlichen Unterlassungsanspruch nach Inhalt und Umfang voll abdeckt; eine unzureichend praezisierte Erklaerung — die den verbotenen Bereich nicht klar abgrenzt — genuegt nicht und zwingt zur Einleitung gerichtlicher Massnahmen.
 
 > **OLG Hamburg, Urt. v. 06.06.2013 — 5 U 6/11 (Vertragsstrafe Mindesthoehe):** Die Vertragsstrafe in einer Unterlassungserklaerung nach Hamburger Brauch muss einen Mindestbetrag enthalten, der eine ernsthafte Abschreckungswirkung entfaltet; EUR 500 pro Verletzungshandlung bei einem gewerblich agierenden Online-Haendler ist zu niedrig und beseitigt die Wiederholungsgefahr nicht.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BGH I ZR 153/16 (WRONG_TOPIC: tatsaechlich "19% MwSt. GESCHENKT" — irrefuehrende Werbung, nicht Unterlassungserklaerung-Praezision): ersetzt durch verifizierte Entscheidung BGH I ZR 82/99 vom 31.05.2001 (Weit-Vor-Winter-Schluss-Verkauf), GRUR 2002, 180 (Quelle: dejure.org/2001,536)

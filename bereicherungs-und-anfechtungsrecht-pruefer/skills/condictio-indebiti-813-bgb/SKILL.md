@@ -19,8 +19,6 @@ description: "Rueckforderung trotz Erfuellung einer einredebehafteten Verbindlic
 
 ## Rechtsprechung
 
-BGH, Urt. v. 17.03.1987 – IX ZR 78/86, NJW 1987, 1758 — Die Verjährungseinrede nach § 214 BGB (§ 222 BGB a.F.) ist eine dauernde Einrede i.S.d. § 813 Abs. 1 S. 1 BGB; leistet der Schuldner ohne Kenntnis der Verjährung, kann er nach § 813 BGB zurückfordern.
-
 BGH, Urt. v. 14.12.1955 – IV ZR 174/55, NJW 1956, 417 — § 813 Abs. 1 S. 2 BGB schließt die Rückforderung aus, wenn der Leistende die Einrede kannte; unwissentliche Leistung auf eine verjährte Forderung ist dagegen kondizierbar.
 
 BGH, Urt. v. 18.04.2002 – III ZR 199/01, NJW 2002, 2091 — Nur dauernde Einreden — solche, die die Verbindlichkeit auf Dauer entkräften — lösen § 813 BGB aus; bloße Stundungsabreden oder die Einrede des nicht fälligen Anspruchs sind keine dauernden Einreden.
@@ -97,3 +95,13 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 78/86 (als Urt. v. 17.03.1987 zitiert) geloescht: WRONG_TOPIC + falsche
+Fundstelle. Echtes Urteil (11.12.1986) behandelt Anfechtbarkeit der Vorausabtretung
+von Arbeitseinkommen (AnfG § 3, KO § 30/31) — kein Bezug zu § 813 BGB oder
+Verjaehrungseinrede. Zudem ist die Verjaehrungseinrede nach §§ 813 Abs. 1 S. 2,
+214 Abs. 2 BGB ausdruecklich ausgeschlossen (Kondiktionssperre). Falsche Rechtsaussage
+im Skill. NJW 1987, 1758 nicht verifizierbar; echtes Urteil hat NJW 1987, 1268.
+Verifiziert via dejure.org. Kein Ersatz ergaenzt.
+-->

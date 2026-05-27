@@ -101,7 +101,7 @@ Stand: 05/2026. VSBG seit 2017. BaFin-Beschwerden 2024 ca. 8.000/Jahr. Bei FIDA-
 - BGH, Urt. v. 07.11.2017 - XI ZR 369/16, NJW 2018, 456 Rn. 18 — Ombudsmann-Verfahren hemmt die Verjaebrung fuer den betreffenden Anspruch nach § 204 Abs. 1 Nr. 4 BGB analog (staatlich anerkannte Guetstelle); Hemmung dauert bis Entscheidung oder Abbruch plus 3 Monate.
 - BGH, Urt. v. 22.02.2022 - XI ZR 159/21, NJW 2022, 1234 Rn. 24 — BaFin-Beschwerde nach § 4b FinDAG loest keine Verjaebrungshemmung aus; nur gerichtliche oder Schiedsverfahren hemmen nach § 204 BGB.
 - EuGH, Urt. v. 14.06.2017 - C-422/15, NJW 2017, 2867 — ADR-Richtlinie 2013/11/EU verlangt von Mitgliedstaaten zugaengliche und wirksame Schlichtungsstellen fuer Verbraucher; Bank kann sich nicht auf Unzustaendigkeit berufen wenn Schlichtungsstelle benannt.
-- BGH, Urt. v. 31.03.2021 - VI ZR 516/19, NJW 2021, 1952 Rn. 11 — Guetstellen-Hemmung erfordert, dass Antrag an staatlich anerkannte Stelle i.S.d. § 204 Abs. 1 Nr. 4 BGB gerichtet ist; interne Bank-Beschwerde genuegt nicht.
+- BGH, Urt. v. 01.10.2020 - III ZR 60/19, NJW 2021, 153 Rn. 18 — Guetstellen-Hemmung nach § 204 Abs. 1 Nr. 4 BGB erfordert hinreichende Individualisierung des geltend gemachten Anspruchs im Guesteantrag; ein unzureichend bestimmter Guesteantrag hemmt die Verjaebrung nicht.
 
 ### Normen-Kette ADR-Schlichtung
 - § 204 Abs. 1 Nr. 4 BGB — Verjaebrungshemmung durch staatlich anerkannte Guetestelle
@@ -179,3 +179,9 @@ Anlagen:
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
 
+
+<!-- AUDIT 27.05.2026 | bundle_053
+Geprüft: BGH VI ZR 516/19 (NOT_FOUND auf dejure.org)
+Ersatz: BGH III ZR 60/19, NJW 2021, 153 (verifiziert auf dejure.org)
+Thema: Güteantrag Verjährungshemmung § 204 BGB — thematisch passend für Schlichtungs-Kontext
+-->

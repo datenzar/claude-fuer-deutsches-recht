@@ -59,7 +59,6 @@ Erzeuge ein Rückfrage- oder Beanstandungsschreiben mit:
 
 - BGH, Urt. v. 15.03.2023 — VIII ZR 77/22, NJW 2023, 1756 Rn. 22: Belegeinsichtsverlangen des Mieters ist berechtigt; Vermieter muss Originalbelege oder beglaubigte Kopien vorlegen; unvollstaendige Belegvorlage berechtigt zur Einwendung gegen die Abrechnung.
 - BGH, Urt. v. 22.11.2023 — VIII ZR 94/22, NJW 2024, 512 Rn. 25: Formell unwirksame Nebenkostenabrechnung loest keine Nachzahlungspflicht aus; Nachforderungsfrist nach § 556 Abs. 3 Satz 3 BGB laeuft trotzdem ab.
-- BGH, Urt. v. 07.12.2022 — VIII ZR 291/21, NJW 2023, 745 Rn. 18: Einwendungsfrist nach § 556 Abs. 3 Satz 5 BGB betraegt 12 Monate nach Zugang der Abrechnung; Versaeumung fuehrt zum Anspruchsverlust auch bei inhaltlichen Fehlern.
 
 ## Paragrafenkette
 
@@ -69,3 +68,7 @@ Erzeuge ein Rückfrage- oder Beanstandungsschreiben mit:
 
 - Schmidt-Futterer, Mietrecht, 15. Aufl. — § 556 BGB Rn. 1 ff.
 - BeckOK Mietrecht — § 556 BGB Betriebskostenpruefung
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VIII ZR 291/21 (claimed: Urt. 07.12.2022, NJW 2023, 745 Rn. 18, Einwendungsfrist 12 Monate / Anspruchsverlust): NOT_FOUND auf dejure.org. Halluziniertes Urteil entfernt. -->

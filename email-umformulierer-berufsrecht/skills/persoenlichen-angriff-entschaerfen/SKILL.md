@@ -18,7 +18,6 @@ Dieser Skill vermittelt konkrete Techniken zur Entschärfung persönlicher Angri
 - BGH, Urt. v. 30.01.2018 - VI ZR 531/16, NJW 2018, 1884 — Persoenliche Angriffe in Korrespondenz koennen Unterlassungs- und Schadensersatzansprueche nach § 823 Abs. 1 BGB (Persoenlichkeitsrecht) ausloesen.
 - BVerfG, Beschl. v. 02.07.2013 - 1 BvR 1751/12, NJW 2013, 3153 — Schutz der Meinungsfreiheit bei persoenlicher Kritik endet, wo Schmahcharakter dominiert; bei Geschaeftskorrespondenz wird strenger Massstab angelegt.
 - BAG, Urt. v. 27.09.2012 - 2 AZR 646/11, NZA 2013, 334 — Beleidigende persoenliche Angriffe in Korrespondenz koennen Kuendigungsrecht (§ 626 BGB) und Abmahnpflicht ausloesen.
-- OLG Hamburg, Urt. v. 12.06.2018 - 3 U 48/17 — Persoenlichkeitsverletzende Aeusserungen in E-Mails loesen Gegendarstellungsrecht und Unterlassungsanspruch aus § 1004 BGB aus.
 
 ## Zentrale Normen
 - § 43a Abs. 3 BRAO — Sachlichkeitsgebot: persoenliche Angriffe unzulaessig
@@ -65,3 +64,5 @@ Den persönlichen Angriff durch Sachverhaltsbezug ersetzen: Statt „Sie" als ha
 ## Ausgabeformat
 
 Der Skill gibt aus: (1) Identifizierte persönliche Angriffe im Text. (2) Eingesetzte Entschärfungstechnik. (3) Neutralisierte Alternativformulierung. (4) Überarbeiteter Gesamttext ohne persönliche Angriffe.
+
+<!-- AUDIT 27.05.2026: OLG Hamburg 3 U 48/17 (NOT_FOUND: nicht auf dejure.org auffindbar, kein verifiziertes Urteil zu Persoenlichkeitsverletzung E-Mails / Unterlassungsanspruch § 1004 BGB) geloescht. Kein Ersatz eingefuegt. -->

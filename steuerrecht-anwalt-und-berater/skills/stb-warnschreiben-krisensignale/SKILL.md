@@ -1,13 +1,13 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: "Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Anwendungsfall Steuerberater erkennt Krisensignale und muss Hinweispflicht nach § 102 StaRUG und BGH-Rechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 IX ZR 70/07 erfuellen um eigene Haftung zu vermeiden. Bezug Antragspflicht § 15a InsO drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung. Empfehlung anwaltlicher Beratung keine eigene Rechtsberatung § 5 RDG. Output Warnschreiben mit Belehrung und Eingangsbestaetigung. Abgrenzung zu anw-haftungswarn-15a-inso-mandant anwaltliche Folgeberatung."
+description: "Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Anwendungsfall Steuerberater erkennt Krisensignale und muss Hinweispflicht nach § 102 StaRUG und BGH-Rechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 erfuellen um eigene Haftung zu vermeiden. Bezug Antragspflicht § 15a InsO drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung. Empfehlung anwaltlicher Beratung keine eigene Rechtsberatung § 5 RDG. Output Warnschreiben mit Belehrung und Eingangsbestaetigung. Abgrenzung zu anw-haftungswarn-15a-inso-mandant anwaltliche Folgeberatung."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
 
 ## Kernsachverhalt
 
-Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Krisensignale aus BWA, SuSa, Bilanz und Liquiditätsvorschau erkennt. Die ständige BGH-Rechtsprechung (IX ZR 285/14, IX ZR 64/12, IX ZR 104/18, IX ZR 70/07) verpflichtet ihn, ausdrücklich und schriftlich zu warnen. § 102 StaRUG hat diese Pflicht seit 1.1.2021 gesetzlich verankert. Wer warnt, schützt seine Berufshaftpflicht. Wer schweigt, haftet für Verschleppungsschäden.
+Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Krisensignale aus BWA, SuSa, Bilanz und Liquiditätsvorschau erkennt. Die ständige BGH-Rechtsprechung (IX ZR 285/14, IX ZR 104/18) verpflichtet ihn, ausdrücklich und schriftlich zu warnen. § 102 StaRUG hat diese Pflicht seit 1.1.2021 gesetzlich verankert. Wer warnt, schützt seine Berufshaftpflicht. Wer schweigt, haftet für Verschleppungsschäden.
 
 ## Kaltstart-Rückfragen
 
@@ -42,9 +42,8 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
 | BGH IX ZR 285/14 | NJW 2017, 1611 | 26.01.2017 | StB haftet für Insolvenzverschleppungsschäden bei unterlassenem Hinweis auf Krisensignale aus Buchhaltung |
-| BGH IX ZR 64/12 | NJW 2013, 1672 | 07.03.2013 | Hinweispflicht bereits bei drohender Insolvenzreife — nicht erst bei eingetretener Antragspflicht |
+| BGH IX ZR 64/12 | WM 2013, 802 | 07.03.2013 | Bei allgemeinem steuerrechtlichen Mandat ohne gesonderten Prüfauftrag keine generelle Pflicht zur Insolvenzreife-Prüfung; Hinweispflicht nur bei offenkundigen Anhaltspunkten |
 | BGH IX ZR 104/18 | NJW 2019, 2770 | 06.06.2019 | Substantiierungslast StB bei späterer Streitlage; Dokumentation der Hinweiserteilung erforderlich |
-| BGH IX ZR 70/07 | NJW 2010, 2345 | 18.02.2010 | Ausdrückliche Warnung erforderlich; allgemeine Andeutungen genügen nicht |
 | BGH IX ZR 153/09 | NJW 2011, 218 | 14.10.2010 | StB muss auf Schäden aus GF-Haftung hinweisen |
 
 ## Prüfschema Warnschreiben-Erstellung
@@ -95,8 +94,8 @@ Der Steuerberater ist in der Mandatsbetreuung der erste externe Berater, der Kri
 
 | Gegenargument des GF / Haftungsklägers | Erwiderung |
 |---|---|
-| "Krisensignal war nicht offenkundig" | BGH IX ZR 64/12: drohende Insolvenzreife reicht; SV-Rückstände, negatives EK als Standardsignale |
-| "Mündlicher Hinweis wurde erteilt" | BGH IX ZR 70/07: ausdrückliche Warnung erforderlich; Mündliches ist nicht beweisbar; Schriftform Pflicht |
+| "Krisensignal war nicht offenkundig" | BGH IX ZR 285/14: offenkundige Anhaltspunkte für Insolvenzreife lösen Hinweispflicht aus; SV-Rückstände, negatives EK als Standardsignale |
+| "Mündlicher Hinweis wurde erteilt" | BGH IX ZR 285/14: ausdrückliche Warnung erforderlich; Mündliches ist nicht beweisbar; Schriftform Pflicht |
 | "StB ist für Buchhaltung, nicht für Insolvenzrecht zuständig" | BGH IX ZR 285/14: aus der Buchhaltungsbetreuung folgt Hinweispflicht strukturell; unabhängig vom Vertragsgegenstand |
 | "Mandant wusste von der Krise selbst" | BGH IX ZR 104/18: eigenständige StB-Pflicht; Eigenkenntnis des Mandanten befreit StB nicht |
 | "Hinweis erfolgte zu spät — schon InsO-reif" | Dokumentation wann Erkenntnis eingetreten ist; Warnschreiben-Datum gegen Indizienbeweis stellen |
@@ -171,8 +170,8 @@ Entwicklungen zu überwachen. Wir empfehlen, dieses Schreiben
 unmittelbar in Ihre interne Dokumentation aufzunehmen.
 
 Wir leisten mit diesem Schreiben den nach ständiger BGH-Rechtsprechung
-obliegenden ausdrücklichen Hinweis (BGH IX ZR 285/14, IX ZR 64/12,
-IX ZR 104/18, IX ZR 70/07). Eine Beurteilung der Insolvenzantragspflicht
+obliegenden ausdrücklichen Hinweis (BGH IX ZR 285/14, IX ZR 104/18).
+Eine Beurteilung der Insolvenzantragspflicht
 steht uns als Steuerberater nach § 5 RDG nicht zu.
 
 Wir empfehlen Ihnen dringend, **binnen einer Woche**:
@@ -307,10 +306,14 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - StaRUG §§ 1, 102
 - StBerG §§ 1, 33; RDG § 5; BGB § 627
 - BGH IX ZR 285/14 = NJW 2017, 1611
-- BGH IX ZR 64/12 = NJW 2013, 1672
+- BGH IX ZR 64/12 = WM 2013, 802
 - BGH IX ZR 104/18 = NJW 2019, 2770
-- BGH IX ZR 70/07 = NJW 2010, 2345
 - BGH IX ZR 153/09 = NJW 2011, 218
 - IDW S 6 (Krisenstadien-Schema)
 - Pape/Schaltke, StaRUG § 102 Rn. 8–35
 - BeckOK StaRUG/Skauradszun, § 102 Rn. 10–22
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 64/12 (WRONG_TOPIC): Leitsatz korrigiert — Urteil steht für fehlende generelle Insolvenzprüfpflicht bei allgemeinem Mandat (WM 2013, 802), nicht für Hinweispflicht bei drohender Insolvenzreife. Tabellenzeile und Fundstelle angepasst; irreführende Formulierung in Kernsachverhalt, Gegenargumenten, Schriftsatzbaustein und Quellenverzeichnis korrigiert.
+BGH IX ZR 70/07 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht; alle Vorkommen entfernt (description, Kernsachverhalt, Leitentscheidungstabelle, Quellenverzeichnis, Gegenargumente, Schriftsatzbaustein).
+-->

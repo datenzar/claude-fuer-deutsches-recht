@@ -27,7 +27,6 @@ Dieser Skill prüft, ob ein Liquidationsereignis (Exit/Trade Sale/IPO/Fusion) al
 - § 20 UmwStG analog (steuerliche Behandlung der Wandlung bei Tauschvorgang)
 
 ### Rechtsprechung
-- BGH, Urt. v. 27. September 2010 – II ZR 256/08 (Kontrollwechsel-Klausel in Gesellschaftervertrag)
 - OLG München, Urt. v. 7. April 2016 – 23 U 3396/15 (Liquidationspräferenz bei Exit)
 
 ## Vorgehen
@@ -85,10 +84,16 @@ Stand: 05/2026. Bei Änderung GmbHG § 15/UmwStG § 20 aktualisieren.
 
 ### Leitsatz-Zitate
 
-BGH, Urt. v. 09.10.2012 — **II ZR 29/12**, BGHZ 195, 1 Rn. 18: Liquidation Event bei einem Share Deal (Übertragung > 50 % der Anteile) löst das Wandlungsrecht aus; der Darlehensgeber hat Wahlrecht zwischen Wandlung und Barrikassierung; die Gesellschaft hat unverzüglich nach Abschluss des SPA (Share Purchase Agreement) zu informieren.
-
-BGH, Urt. v. 21.07.2008 — **IX ZR 133/14**, BGHZ 198, 64 Rn. 16: Bei Liquidation durch Insolvenz ist das Wandlungsrecht wertlos, da keine neuen Anteile ausgegeben werden können; der Darlehensgeber hat in diesem Fall nur einen Rückzahlungsanspruch, der aber als nachrangige Forderung nach § 39 InsO quotal befriedigt wird.
+*(Keine verifizierten BGH-Entscheidungen zum Wandlungsrecht bei Liquidation Event in der Rechtsprechungsdatenbank nachweisbar; frühere Zitate entfernt.)*
 
 ### Normen-Ergänzung
 
 § 161 UmwG (Spaltung als Liquidation Event?) → § 2 UmwG (Verschmelzung als Exit) → §§ 60 ff. GmbHG (Liquidation GmbH) → § 39 InsO (Nachrang bei Insolvenz) → § 15 GmbHG (Share Deal — Anteilsübertragung)
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ (task_254.json, 3 Probleme):
+- BGH II ZR 256/08 (NOT_FOUND): Kein Eintrag in dejure.org-Datenbank; Zitat ersatzlos entfernt aus Abschnitt "Rechtsprechung".
+- BGH IX ZR 133/14 (WRONG_TOPIC): Existiert auf dejure.org, Datum 05.03.2015, BGHZ 204, 231; Thema Qualifizierte Rangrücktrittsvereinbarung/Insolvenz — kein Wandlungsrecht-Bezug; Leitsatz-Zitat entfernt.
+- BGH II ZR 29/12 (WRONG_TOPIC): Nicht als einschlägiges Urteil verifizierbar; BGHZ 195, 1 = BGH XI ZR 344/11 (Prospekthaftung, unzusammenhängend); II ZR 252/10 = BGHZ 193, 96 (Existenzvernichtender Eingriff); kein Bezug zu Wandlungsrecht bei Liquidation Event; Leitsatz-Zitat entfernt.
+Alle Löschungen gemäß Reparaturregel "bei Zweifel löschen". Frontmatter unverändert.
+-->

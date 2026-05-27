@@ -45,7 +45,7 @@ description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz pruefen wenn G
 | LG Berlin II 20.08.2025 — KI-Stimm-Nachahmung | 2025 | Persönlichkeitsrechtsverletzung durch KI-generierte Stimm-Imitation eines Prominenten ohne Einwilligung; Unterlassung + Schadensersatz; orientierender Einzelfall zur Reichweite §§ 22, 23 KUG bei generativer KI |
 | EuGH 07.12.2023 — C-634/21 (SCHUFA-Scoring) | 2023 | Automatisierter Score-Wert ist „Entscheidung" i. S. v. Art. 22 DSGVO wenn er maßgeblich über Vertragsschluss bestimmt; relevant für KI-gestützte Bewertungssysteme im B2C-Kontext |
 
-> **Hinweis zur Rechtsprechungslage:** Stand 05/2026 existiert keine veröffentlichte deutsche Leitentscheidung speziell zu Art. 50 KI-VO; die Norm gilt erst ab 02.08.2026. Frühere Behauptungen zu OLG Hamburg 7 W 28/22 (Influencer-KI), LG Berlin 15 O 261/22 (DALL-E-Produktfoto), BGH I ZR 143/12 (UWG-Vertragsstrafe) und BGH I ZR 94/13 (Trojanisches Pferd) entsprachen nicht der Aktenlage und wurden entfernt. Für vergleichbare Konstellationen orientierungshalber: § 5a UWG-Linie der allgemeinen Irreführungsrechtsprechung; konkrete Belege im Einzelfall recherchieren.
+> **Hinweis zur Rechtsprechungslage:** Stand 05/2026 existiert keine veröffentlichte deutsche Leitentscheidung speziell zu Art. 50 KI-VO; die Norm gilt erst ab 02.08.2026. Frühere Behauptungen zu OLG Hamburg 7 W 28/22 (Influencer-KI), LG Berlin 15 O 261/22 (DALL-E-Produktfoto) und BGH I ZR 143/12 (UWG-Vertragsstrafe) entsprachen nicht der Aktenlage und wurden entfernt. Für vergleichbare Konstellationen orientierungshalber: § 5a UWG-Linie der allgemeinen Irreführungsrechtsprechung; konkrete Belege im Einzelfall recherchieren.
 
 ## Pflichten nach Output-Typ
 
@@ -240,3 +240,7 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 - C2PA-Standard: https://c2pa.org/specifications/specifications/2.0/index.html
 - EU AI Code of Practice: https://digital-strategy.ec.europa.eu/en/policies/ai-code-practice
 - § 5a UWG: https://www.gesetze-im-internet.de/uwg_2004/__5a.html
+
+---
+
+> **Audit-Hinweis (27.05.2026):** BGH I ZR 94/13 (Hotelbewertungsportal, 19.03.2015) hatte keinen Bezug zu Art. 50 KI-VO und wurde aus dem Disclaimer entfernt. Das AZ wurde zuvor fälschlich als „Trojanisches Pferd“ beschrieben; tatsächliches Thema ist die Haftung von Bewertungsportalen für Nutzereinträge (UWG, TMG). BGH I ZR 145/10 (Tigerkopf, 28.09.2011) war in diesem Skill nicht vorhanden; das AZ betrifft Deckelung von Abmahnkosten nach § 97a UrhG. Beide AZ haben keinen Bezug zu KI-VO Art. 50.

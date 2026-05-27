@@ -140,7 +140,6 @@ Bank- und Kapitalmarktrecht ist heterogen — Anlegerschaden Konsumentenkredit S
 
 - BGH, Urt. v. 06.07.1993 - XI ZR 12/93, BGHZ 123, 126 (Bond-Urteil) — Anleger- und anlagegerechte Beratung als Grundpflicht; Fehler begruendet § 280 BGB Schadensersatz.
 - BGH, Urt. v. 19.12.2006 - XI ZR 56/05, BGHZ 170, 226 (Kickback II) — Aufklaerungspflicht ueber Rueckverguetungen; Fehler = Pflichtverletzung.
-- BGH, Urt. v. 14.01.2020 - XI ZR 143/19, NJW 2020, 1274 — Verbraucherdarlehen § 498 BGB: Kuendigung erfordert qualifizierten Verzug.
 - BGH, Urt. v. 25.04.2023 - XI ZR 225/21, NJW 2023, 2037 — Negativzins-Klausel AGB unwirksam bei fehlender Transparenz.
 
 ### Erweiterte Triage-Matrix
@@ -179,3 +178,16 @@ Folge-Skill:         [SKILL-NAME]
 Naechster Schritt:   [MASSNAHME] bis [DATUM] durch [PERSON]
 =========================================
 ```
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- XI ZR 143/19: ersatzlos entfernt (BGH-Datenbank dejure.org: Keine Entscheidung des BGH vom 14.01.2020 mit diesem Aktenzeichen gefunden)
+- XI ZR 26/20: nicht im Skill enthalten; geprueft — Aktenzeichen existiert und betrifft AGB-Zustimmungsfiktion/Postbank-Urteil (BGHZ 229, 344), nicht Kreditbearbeitungsentgelt
+- XI ZR 384/03: nicht im Skill enthalten; geprueft — Aktenzeichen existiert und betrifft Kirch/Breuer-Schadensersatz wegen kreditschaedigender Aeusserungen, nicht E-Mail als Textform
+- XI ZR 473/17: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)
+- XI ZR 562/15: nicht im Skill enthalten; geprueft — Aktenzeichen existiert und betrifft Bearbeitungsentgelt Unternehmerdarlehen (BGHZ 215, 172), nicht Entscheidungsbegruendung
+- XI ZR 79/20: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)
+- XI ZR 81/14: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)
+- XII ZB 115/19: nicht im Skill enthalten; geprueft — Aktenzeichen nicht in BGH-Datenbank auffindbar (dejure.org)

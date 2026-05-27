@@ -72,10 +72,6 @@ Das Modell benötigt:
   Kontoguthaben; das Vollstreckungsgericht prüft den PfÜB nur formal; materielle Einwendungen
   des Schuldners sind im Wege der Vollstreckungsgegenklage (§ 767 ZPO) oder Erinnerung (§ 766
   ZPO) geltend zu machen.
-- BGH, Urt. v. 20.05.2010 – IX ZR 165/09, NJW 2010, 2507 Rn. 20 ff.: Zur Drittwiderspruchs-
-  klage § 771 ZPO; der Dritte muss ein die Veräußerung hinderndes Recht (insbes. Eigentum,
-  Nießbrauch, Pfandrecht) an dem gepfändeten Gegenstand haben; bloße Schuldrechtliche Ansprüche
-  genügen nicht.
 - BGH, Beschl. v. 09.11.2021 – VII ZB 22/20, NJW 2022, 229 Rn. 18 ff.: Zum P-Konto und
   Pfändungsschutz; der Gläubiger muss den Pfändungsschutz des § 850k ZPO gegen sich gelten
   lassen; eine nachträgliche Aufhebung des Pfändungsschutzes erfordert einen gesonderten Antrag.
@@ -163,8 +159,7 @@ Schutz nach § 850k ZPO prüfen (BGH, Beschl. v. 09.11.2021 – VII ZB 22/20, NJ
 - **Falsche Pfändungsfreigrenze**: Bei Unterhaltspflichten des Schuldners erhöhte Freigrenze
   (§ 850c Abs. 2 ZPO); Überpfändung macht Gläubiger schadensersatzpflichtig.
 - **Drittwiderspruchsklage** § 771 ZPO: Gepfändeter Gegenstand gehört Dritten → Klage suspendiert
-  Vollstreckung; materiell-rechtliches Eigentum des Dritten prüfen (BGH, Urt. v. 20.05.2010 –
-  IX ZR 165/09, NJW 2010, 2507 Rn. 20).
+  Vollstreckung; materiell-rechtliches Eigentum des Dritten prüfen.
 - **Vollstreckungsgegenklage** § 767 ZPO: Schuldner hat nach Titelerlass erfüllenden Umstand
   (Zahlung, Aufrechnung, Stundung) → Klage beim Prozessgericht.
 - **Berufsrecht**: Vollstreckungsaufträge mit Vermögensdaten des Schuldners unterliegen
@@ -176,3 +171,10 @@ Jede Aussage zu Vollstreckungsvoraussetzungen, Pfändungsfreigrenzen und Rechtsb
 nach `references/zitierweise.md` zu belegen. BGH-Beschlüsse vollständig mit Datum, Az.,
 NJW-Fundstelle und Rn. Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Bei Monographien
 (Stöber/Rellermeyer) Autoren, Titel, Aufl., Jahr, Rn. zitieren.
+
+<!-- AUDIT 27.05.2026
+AZ BGH IX ZR 165/09 (beide Vorkommen) entfernt: Entscheidung existiert auf dejure.org unter
+Datum 01.07.2010 (nicht 20.05.2010), aber mit falschem Thema: real handelt das Urteil von
+Vorteilsausgleichung/Steuervorteile, nicht von Drittwiderspruchsklage § 771 ZPO (WRONG_TOPIC).
+Halluzinierte Referenz geloescht. Keine Ersatzquelle fuer § 771 ZPO-Leitentscheidung ergaenzt.
+-->

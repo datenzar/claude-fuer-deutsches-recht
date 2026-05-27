@@ -66,8 +66,7 @@ Strukturiere die Ruege in Abschnitte:
 ## Aktuelle Rechtsprechung — Leitsaetze
 
 - BGH, Urt. v. 13.09.2023 — VIII ZR 117/22, NJW 2023, 3235 Rn. 22: Mietpreisbremse nach §§ 556d ff. BGB ist verfassungskonform; qualifizierte Ruege nach § 556g Abs. 2 BGB ist materiellrechtliche Voraussetzung des Rueckzahlungsanspruchs.
-- BGH, Urt. v. 11.10.2023 — VIII ZR 161/22, NJW 2023, 3578 Rn. 18: Bestandsschutz nach § 556e BGB greift nur fuer tatsaechlich vereinbarte und gezahlte Vormiete; fiktive Vormiete oder nicht belegte Angaben schliessen Bestandsschutz aus.
-- BGH, Urt. v. 22.09.2021 — VIII ZR 168/20, NJW 2021, 3442 Rn. 25: § 5 WiStG (Mietpreisueberhoehung) ist eine Ordnungswidrigkeit; zivilrechtlich fuehrt sie zur Teilnichtigkeit nach § 134 BGB; Mieter kann Rueckforderung gestaltend ruegen ohne Kuendigung.
+<!-- AUDIT 27.05.2026: VIII ZR 161/22 (NOT_FOUND bei dejure.org) geloescht; VIII ZR 168/20 (NOT_FOUND bei dejure.org) geloescht. -->
 
 ## Paragrafenkette
 
@@ -77,3 +76,8 @@ Strukturiere die Ruege in Abschnitte:
 
 - BeckOK Mietrecht — §§ 556d ff. BGB Mietpreisbremse
 - Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 556d ff. BGB
+
+
+---
+
+<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->

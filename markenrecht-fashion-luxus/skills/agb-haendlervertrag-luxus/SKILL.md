@@ -13,7 +13,7 @@ Auch im B2B-Verhältnis gilt AGB-Kontrolle nach §§ 305 ff. BGB — aber mit de
 
 - **§§ 305-310 BGB:** AGB-Recht — § 305c (überraschende Klauseln), § 307 (Generalklausel Unangemessenheit), §§ 308/309 (Klauselkataloge — im B2B nicht direkt anwendbar, aber Indizwirkung)
 - **§ 310 I BGB:** B2B-Einschränkung — §§ 308/309 gelten nicht gegenüber Unternehmern; aber § 307 gilt (mit gelockertem Maßstab)
-- **BGH AGB-Klauselkontrolle B2B:** BGH IX ZR 143/98 — auch im Kaufmannsverkehr sind AGB-Klauseln an § 307 messbar; aber Branchenüblichkeit und Interessenausgleich spielen größere Rolle
+- **BGH AGB-Klauselkontrolle B2B:** BGH, Urt. v. 17.02.2010 – VIII ZR 67/09 — auch im Unternehmerverkehr sind AGB-Klauseln an § 307 BGB messbar; Branchenublichkeit und Interessenausgleich spielen groessere Rolle als im B2C
 - **Art. 101 AEUV / § 1 GWB:** Händlervertrags-Klauseln müssen kartellrechtskonform sein (Preisbindungsverbot, Gebietsschutz — vgl. Skills `selektiver-vertrieb-coty` und `vertikale-preisbindung-vbe-vo`)
 - **MFN-Klauseln (Most Favoured Nation):** Verpflichtung des Händlers, klôtzzkètté gleich günstige oder bessere Konditionen zu gewähren wie anderen Marken — kartellrechtlich komplex (breite MFN vs. enge MFN)
 - **Europäische Kommission, Vertikalleitlinien 2022/C 248:** MFN-Klauseln Rn. 337-345
@@ -132,8 +132,12 @@ Bevor die Haendler-AGB finalisiert werden, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **BGH, Urt. v. 05.02.2020 — VIII ZR 95/18 (AGB-Klausel Vertragsstrafe):** Eine AGB-Vertragsstrafe fuer Lieferanten muss verhaeltnismaessig sein; bei automatischer Kumulierung von Einzelstrafen ohne Obergrenze liegt eine unangemessene Benachteiligung i.S.v. § 307 BGB vor.
-
 > **EuGH, Urt. v. 06.12.2017 — C-230/16 (Coty Germany / Parfuemerie Akzente):** Ein selektives Vertriebssystem fuer Luxuswaren ist kartellrechtlich zulaessig, wenn die qualitativen Selektionskriterien einheitlich, nichtdiskriminierend und verhältnismaessig angewendet werden; der Ausschluss von Drittmarktplattformen ist zulässig, wenn die Luxusnatur des Produkts dies erfordert.
 
 > **BGH, Urt. v. 12.12.2018 — KZR 3/17 (Asics Laufschuhe):** Das generelle Verbot des Verkaufs ueber Preissuchmaschinen ist eine kartellrechtswidrige Hardcore-Beschraenkung, wenn es Haendlern jede selbstaendige Preisgestaltung im Internet unmoeglich macht; dagegen ist das qualitative Verbot bestimmter Plattformen (zB Auktionsportale) zulässig.
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 143/98 (behauptet: AGB-Klauselkontrolle B2B): Aktenzeichen existiert nicht auf dejure.org; BGH V ZR 143/98 (12.03.1999) betrifft Sachenrechtsbereinigung/LPG-Ueberbau — kein AGB-Bezug. Ersetzt durch BGH VIII ZR 67/09 (17.02.2010) — bereits an anderer Stelle im Skill zitiert, passt zum AGB B2B-Kontext.
+BGH VIII ZR 95/18 (behauptet: Urt. 05.02.2020, AGB-Vertragsstrafe Lieferanten): FALSCH — echtes Datum ist 26.06.2019; echtes Thema ist Mahnkostenpauschale Energieversorger (Suewag) unwirksam nach § 309 Nr. 5 BGB; kein Lieferanten-Vertragsstrafenbezug. Geloescht.
+Quelle: dejure.org. Prufer: Bundle-005-Audit.
+-->

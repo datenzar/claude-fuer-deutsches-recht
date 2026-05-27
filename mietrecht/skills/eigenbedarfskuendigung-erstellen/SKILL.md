@@ -87,8 +87,7 @@ Vor Versand der Eigenbedarfskündigung: fachanwaltliche Prüfung. Risiko: Unwirk
 
 - BGH, Urt. v. 04.03.2015 - VIII ZR 166/14, NJW 2015, 1590 Rn. 14 — Die Eigenbedarfskündigung erfordert eine Begründung, die dem Mieter die Beurteilung ermöglicht, ob der geltend gemachte Bedarf tatsächlich besteht; es muss konkret angegeben werden wer die Wohnung benötigt und aus welchem Grund die aktuelle Unterkunft der begünstigten Person unzumutbar ist.
 - BGH, Urt. v. 29.03.2017 - VIII ZR 44/16, NJW 2017, 1891 Rn. 22 — Entfällt der Eigenbedarf nach Zugang der Kündigung aber vor Auszug des Mieters, hat der Vermieter dies unverzüglich mitzuteilen; verletzt er diese Pflicht, ist er dem Mieter zum Schadensersatz nach § 280 Abs. 1 BGB verpflichtet.
-- BGH, Urt. v. 12.05.2010 - VIII ZR 96/09, NJW 2010, 2437 Rn. 18 — Die Sperrfrist nach § 577a BGB beginnt mit der Veräußerung; Umwandlung allein reicht nicht; der Zeitpunkt der Eintragung des neuen Eigentümers im Grundbuch ist maßgeblich.
-- BGH, Urt. v. 22.05.2019 - VIII ZR 180/18, NJW 2019, 2765 Rn. 26 — Übermäßige Begründungspflicht im Kündigungsschreiben: der Vermieter muss nicht jedes Detail der persönlichen Umstände der begünstigten Person offenbaren; wesentliche Umstände müssen aber genannt werden.
+- BGH, Urt. v. 22.05.2019 - VIII ZR 180/18, NJW 2019, 2765 Rn. 26 — Interessenabwägung bei Eigenbedarfskündigung unter Berücksichtigung älterer kranker Mieter (§ 574 BGB Sozialklausel): Tatsacheninstanzen müssen bei substantiiert geltend gemachten schwerwiegenden Gesundheitsgefahren des Mieters regelmäßig ein Sachverständigengutachten einholen; pauschale Kategorisierung nach Alter oder Mietdauer ist unzulässig.
 
 ## Paragrafenkette Eigenbedarfskündigung
 
@@ -145,3 +144,9 @@ Mit freundlichen Grüßen
 ```
 
 **Hinweis:** Vor Versand fachanwaltliche Prüfung empfohlen.
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 180/18 (behauptet: "Uebermässige Begründungspflicht Kuendigungsschreiben"): FALSCH — echtes Thema ist Interessenabwägung bei Eigenbedarfskündigung / Sozialklausel § 574 BGB bei älteren kranken Mietern (Urt. 22.05.2019, NJW 2019, 2765). Beschreibung korrigiert; AZ und Datum sind korrekt.
+BGH VIII ZR 96/09 (behauptet: "Sperrfrist § 577a BGB beginnt mit Veräußerung"): FALSCH — echtes Thema ist fristlose Kündigung § 543 BGB / Mietbegriff Zahlungsrückstand (NJW 2010, 3015); kein Eigenbedarfsbezug. Geloescht (thematisch nicht einschlaegig fuer Eigenbedarfskündigungsskill).
+Quelle: dejure.org. Prufer: Bundle-005-Audit.
+-->

@@ -239,3 +239,9 @@ Begründung:
 - BAG 7 ABR 56/21 (26.01.2022); BAG 7 ABR 14/19 (25.09.2019)
 - LAG Nürnberg 2 TaBV 8/23 (27.09.2023)
 - Fitting BetrVG-Kommentar; DKKW BetrVG
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- 7 ABR 37/23: Verwendung im Skill geprueft und bestaetigt (BAG 25.09.2024, NZA 2025, 649; Quelle: dejure.org und bundesarbeitsgericht.de) — Das AZ betrifft Betriebsratsbeschlussfassung, Heilung durch nachtraglichen Beschluss und Anwaltskostenfreistellung nach § 40 Abs. 1 BetrVG. Die Verwendung im Skill ist korrekt. Kein Loeschungsbedarf. Die im Audit gemeldeten Alternativthemen (erzwingbares Mitbestimmungsrecht) finden sich nicht im Skilltext.

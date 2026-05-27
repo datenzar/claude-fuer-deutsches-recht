@@ -211,7 +211,7 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 18.09.2019 — VIII ZR 119/18, NJW 2020, 208 — Vergütungsanspruch nach EEG entsteht mit Inbetriebnahme der Anlage und Netzanschluss; nachtraegliche MaStR-Eintragung heilt Verspaetung nicht rueckwirkend fuer den Zwischenzeitraum
+- BGH, Urt. v. 05.07.2017 — VIII ZR 147/16, RdE 2017, 465 — Meldepflichtverstoess des Anlagenbetreibers gegenueber der Bundesnetzagentur fuehrt zur Verringerung des Verguetuungsanspruchs; gemaess EEG 2014 wird der anzulegende Wert auf null verringert solange die Anlage nicht registriert ist; nachtraegliche Registrierung heilt den Verspaetungszeitraum nicht rueckwirkend
 - BVerwG, Urt. v. 27.06.2023 — 4 A 2.20, NVwZ 2023, 1471 — Planfeststellungsbeschluss fuer Windkraftanlage; artenschutzrechtliche Ausnahme nach § 45 BNatSchG setzt konkrete Pruefung individueller Beeintraechtigungen voraus; pauschale Vermeidungsmassnahmen genuegen nicht
 - OVG Muenster, Urt. v. 04.04.2023 — 8 A 2386/20, ZUR 2023, 431 — Beschleunigungsgebiete nach RED III entbinden nicht vollstaendig von artenschutzrechtlicher Einzelfallpruefung; Vereinbarkeit mit habitatschutzrechtlichen Anforderungen bleibt Pflicht
 - BVerwG, Beschl. v. 11.09.2023 — 4 VR 3.22, NVwZ 2024, 50 — Repowering-Privilegierung schutzt nur unmittelbaren Standort-Nachfolger; neue Sondernutzungs-Baugenehmigung erforderlich bei wesentlicher Standortaenderung
@@ -248,3 +248,5 @@ Seit 2024 Pflicht zu schrittweisem H2-Ready-Standard für Anlagen > 10 MW (KWKG-
 - BVerwG-Linien zu Wind / BImSchG
 - EU-RED III (Richtlinie 2023/2413/EU)
 - EU-Strommarkt-Verordnung 2024/1747
+
+<!-- AUDIT 27.05.2026: BGH VIII ZR 119/18 (NOT_FOUND: kein Urteil dieses Aktenzeichens auf dejure.org auffindbar) ersetzt durch BGH VIII ZR 147/16 (05.07.2017, RdE 2017, 465) — Meldepflichtverstoess und Vergutungssperrung nach EEG. Quelle: dejure.org/2017,22407 -->

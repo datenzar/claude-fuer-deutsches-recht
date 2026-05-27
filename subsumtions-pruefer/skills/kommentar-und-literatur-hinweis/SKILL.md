@@ -19,8 +19,6 @@ Kommentarliteratur ist für die juristische Auslegung unentbehrlich. Dieser Skil
 
 ## Aktuelle Rechtsprechung zur Bedeutung von Literatur
 
-- BGH, Urt. v. 17.03.2021 - VIII ZR 161/18, NJW 2021, 1952 — Die herrschende Kommentarmeinung (h.M.) hat nur Indizwirkung; das Gericht ist nicht gebunden, muss aber eine abweichende Auslegung begründen.
-- BGH, Urt. v. 24.01.2018 - VIII ZR 37/17, NJW 2018, 1157 — Ein Zitat aus Kommentarliteratur ersetzt keinen eigenständigen dogmatischen Begründungsansatz; Leitsätze des BGH gehen h.M. im Zweifel vor.
 - BVerfG, Beschl. v. 26.01.2021 - 1 BvR 2187/18, NJW 2021, 1022 — Verfassungskonforme Auslegung erfordert Orientierung an den Grundrechten; Kommentierungen zu Verfassungsartikel (Maunz/Dürig, Jarass/Pieroth) sind dabei maßgebend.
 - BGH, Urt. v. 07.07.2020 - II ZR 168/19, NJW 2020, 2809 — Das Wissenschaftswerk (Staudinger) beeinflusst die Entwicklung der Dogmatik maßgeblich; Divergenz zwischen Kommentierung und aktueller BGH-Rechtsprechung muss ausdrücklich benannt werden.
 
@@ -94,3 +92,8 @@ Das System reproduziert keine Kommentartexte und gibt keine verbindlichen Randnu
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 161/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 17.03.2021. Zeile entfernt.
+BGH VIII ZR 37/17 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 24.01.2018. Zeile entfernt.
+-->

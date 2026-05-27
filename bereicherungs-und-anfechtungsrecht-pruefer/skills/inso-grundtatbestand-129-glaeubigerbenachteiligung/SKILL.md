@@ -21,8 +21,6 @@ description: "Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klae
 
 BGH, Urt. v. 09.06.2016 – IX ZR 314/14, NJW 2016, 2580 — Der Begriff der Rechtshandlung in § 129 InsO ist weit auszulegen; er umfasst jedes rechtserhebliche Handeln oder Unterlassen des Schuldners, das eine rechtliche Wirkung auslöst und das Schuldnervermögen berührt.
 
-BGH, Urt. v. 16.11.2006 – IX ZR 239/04, NJW 2007, 1129 — Gläubigerbenachteiligung i.S.d. § 129 InsO ist objektiv zu bestimmen; maßgeblich ist der hypothetische Vergleich der Haftungsmasse mit und ohne die angefochtene Rechtshandlung.
-
 BGH, Urt. v. 29.11.2007 – IX ZR 121/06, NJW-RR 2008, 573 — Mittelbare Benachteiligung ist ausreichend, wenn der Kausalzusammenhang zwischen der Rechtshandlung und der Schlechterstellung der Gläubiger feststeht; bloße Befürchtungen oder Vermutungen genügen nicht.
 
 BGH, Urt. v. 06.04.2006 – IX ZR 185/04, NJW 2006, 2701 — Das Anfechtungsrecht nach §§ 129 ff. InsO steht ausschließlich dem Insolvenzverwalter zu; der einzelne Gläubiger hat außerhalb des Insolvenzverfahrens nur das Recht nach §§ 1 ff. AnfG, das einen vollstreckbaren Titel erfordert.
@@ -97,3 +95,12 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+BGH IX ZR 239/04 (als Urt. v. 16.11.2006 zitiert) geloescht: WRONG_TOPIC.
+Echtes Urteil existiert auf dejure.org (16.11.2006) und behandelt Anwendbarkeit
+der Verjaehrungsfrist § 146 InsO auf Altfaelle — kein Urteil zur Glaeubigerbenachteiligung
+als Tatbestandsmerkmal des § 129 InsO. NJW 2007, 1129 ist auf dejure.org nicht
+verzeichnet (dejure zeigt NJW 2007, 436). Falsche Fundstelle und WRONG_TOPIC.
+Verifiziert via dejure.org. Kein Ersatz ergaenzt.
+-->

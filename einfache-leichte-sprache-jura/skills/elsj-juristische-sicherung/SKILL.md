@@ -15,7 +15,6 @@ Nutze diesen Skill vor und nach jeder Übertragung.
 4. Sind rechtliche Unsicherheiten oder offene Pruefungen im Originaltext erkennbar?
 
 ## Aktuelle Rechtsprechung
-- BGH, Urt. v. 26.09.2007 - VIII ZR 143/06, NJW 2008, 214 — Fehlende oder falsche Belehrung ueber Widerrufsrecht fuehrt zur Verlaengerung der Widerrufsfrist; Fristangaben muessen praezise sein.
 - BGH, Urt. v. 15.05.2014 - III ZR 368/13, NJW 2014, 2284 — Beratungspflicht des Anwalts umfasst Hinweis auf alle relevanten Fristen, auch wenn Mandant diese nicht erfragt.
 - BVerwG, Urt. v. 21.09.2010 - 4 C 1.10, NVwZ 2011, 115 — Rechtsbehelfsbelehrung in Bescheiden muss vollstaendig und unmissverstaendlich sein; fehlende Belehrung verlaengert Frist auf ein Jahr.
 - BVerfG, Beschl. v. 30.04.2003 - 1 PBvU 1/02, BVerfGE 107, 395 — Rechtsschutz setzt voraus, dass Buerger Fristen und Rechtsmittel verstehen koennen.
@@ -114,3 +113,5 @@ Gib am Ende einen Vermerk aus:
 - Begriffe erklärt: ...
 - Nicht geklärt: ...
 ```
+
+<!-- AUDIT 27.05.2026: BGH VIII ZR 143/06 (WRONG_TOPIC: Quotenabgeltungsklausel Schoenheitsreparaturen Mietrecht, NJW 2007, 3632 — nicht Widerrufsrecht) geloescht. Kein Ersatz eingefuegt, da kein verifiziertes passendes Urteil zum Widerrufsrecht-Frist-Thema gefunden. Quelle Pruefung: dejure.org/2007,103 -->

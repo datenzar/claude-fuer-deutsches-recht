@@ -31,7 +31,6 @@ Dieser Modus-Skill aktiviert die verfahrensspezifischen Einstellungen für arbei
 ## Rechtsprechung (BAG — aktuelle Leitsätze)
 
 - BAG, Urt. v. 26.10.2023 - 6 AZR 158/22, NZA 2024, 234 — Verhaltensbedingte Kündigung setzt auch bei mittlerem Pflichtvertoss grundsätzlich eine Abmahnung voraus; Ausnahme nur bei besonderer Schwere oder Unwiederholbarkeit.
-- BAG, Urt. v. 31.01.2024 - 2 AZR 215/23, NZA 2024, 567 — Anhörung des Betriebsrats nach § 102 BetrVG ist nur wirksam wenn dem BR alle für die Kündigung wesentlichen Tatsachen mitgeteilt wurden; unvollständige Information führt zur Unwirksamkeit der Kündigung.
 - BAG, Urt. v. 14.09.2023 - 2 AZR 55/23, NZA 2024, 58 — Massenentlassungsanzeige nach § 17 KSchG muss vollständig und zeitgerecht bei der Agentur für Arbeit eingehen; fehlerhafte Anzeige macht Kündigung unwirksam.
 - BAG, Urt. v. 22.06.2023 - 8 AZR 392/22, NZA 2024, 52 — Zur Berechnung der 3-Wochen-Frist nach § 4 KSchG: Zugangszeitpunkt der Kündigung ist entscheidend; bei Einwurf-Einschreiben gilt besondere Regel.
 
@@ -114,3 +113,7 @@ Aktuelle Antraege: 1. Feststellungsklage § 4 KSchG; 2. [...]
 Streitige Punkte: [LISTE]
 Vergleichsspielraum: [BETRAG] / offenes Zeugnis / beides
 ```
+
+---
+<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
+<!-- BAG 2 AZR 215/23 (behauptet 31.01.2024, NZA 2024, 567, Betriebsratsanhoerung § 102 BetrVG): WRONG_TOPIC — real existiert nur 8 AZR 215/23 (17.10.2024, 8. Senat), Thema: DSGVO Art. 82 Datenschutz-Schadensersatz, NZA 2025, 45; 2 AZR 215/23 mit diesem Datum und Thema nicht auffindbar — geloescht -->

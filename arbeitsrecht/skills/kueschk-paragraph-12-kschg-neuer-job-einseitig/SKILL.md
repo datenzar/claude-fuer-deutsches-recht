@@ -65,7 +65,6 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 - BAG, Urt. v. 24.11.2011 – 2 AZR 429/10, NZA 2012, 610 — § 12 KSchG gibt dem Arbeitnehmer ein einseitiges Gestaltungsrecht; die Erklärung braucht keinen bestimmten Inhalt, muss aber klar zum Ausdruck bringen, dass das alte Arbeitsverhältnis nicht fortgesetzt wird.
 - BAG, Urt. v. 09.02.2011 – 7 AZR 279/09, NZA 2011, 847 — Die Wochenfrist des § 12 Satz 2 KSchG ist eine gesetzliche Ausschlussfrist; ihr Ablauf führt zur Verwirkung des Gestaltungsrechts ohne Möglichkeit der Wiedereinsetzung.
 - BAG, Urt. v. 25.10.2007 – 6 AZR 693/06, NZA 2008, 226 — Die Rechtsfolge des § 12 KSchG tritt nur ein, wenn das neue Arbeitsverhältnis tatsächlich aufgenommen wurde; eine Annahme eines Angebots ohne Arbeitsaufnahme genügt nicht.
-- BAG, Urt. v. 15.02.2007 – 6 AZR 286/06, NZA 2007, 614 — Annahmeverzugslohn nach § 615 BGB steht dem Arbeitnehmer für den Zeitraum zwischen Kündigungsablauf und neuem Job zu; Zwischenverdienst ist anzurechnen (§ 11 KSchG).
 
 ## Kommentarliteratur
 
@@ -85,5 +84,8 @@ Urteil ergangen, kein neuer Job? → Weiterbeschaeftigungsantrag oder Vergleich
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+<!-- AUDIT 27.05.2026
+BAG 6 AZR 286/06: Eintrag geloescht. Skill behauptete Thema: Annahmeverzugslohn § 615 BGB Zwischenverdienst Anrechnung § 11 KSchG, NZA 2007, 614. Dejure.org bestaetigt: Tatsaechliches Thema ist Aufhebungsvertrag oder nachtraegliche Befristung / AGB-Kontrolle § 305c BGB. NZA-Fundstelle zufaellig korrekt, Thema aber voellig falsch. Kein verifizierter Ersatz; Eintrag geloescht. Quelle: https://dejure.org/2007,511
+-->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

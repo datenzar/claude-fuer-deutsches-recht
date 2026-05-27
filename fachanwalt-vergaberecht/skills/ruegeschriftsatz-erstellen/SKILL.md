@@ -422,3 +422,10 @@ R U E G E  nach § 160 Abs. 3 GWB
 
 [Rechtsanwalt/-anwaeltin, Fachanwalt Vergaberecht]
 ```
+
+---
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 026:
+- Art. 58 RL 2014/24/EU: Kein Gerichtsurteil, sondern Artikel der EU-Vergaberichtlinie (Eignungskriterien). Die Verwendung im SKILL in Baustein 2 als Normreferenz (Diskriminierungsverbot, Eignungsanforderungen) ist inhaltlich korrekt. Kein Eintrag als fake Gerichtsentscheidung vorhanden. Kein Änderungsbedarf.
+-->

@@ -22,7 +22,7 @@ description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form 
 - § 623 BGB (Kündigungsschutz Arbeitsrecht — Schriftformzwang)
 
 ## Rechtsprechung
-1. BGH, Urt. v. 06.11.2015 – V ZR 78/14, NJW 2016, 523 — Das gesetzliche Schriftformerfordernis des § 550 BGB (Langzeitmietvertrag) führt bei Verstoß zur Kündbarkeit des Vertrages, nicht zur Nichtigkeit; die Parteien sind an einen unbefristeten Vertrag gebunden.
+1. BGH, Urt. v. 25.11.2015 – XII ZR 114/14, NJW 2016, 311 — Das gesetzliche Schriftformerfordernis des § 550 BGB (Langzeitmietvertrag) führt bei Verstoß zur Kündbarkeit des Vertrages, nicht zur Nichtigkeit; die Parteien sind an einen unbefristeten Vertrag gebunden.
 2. BGH, Urt. v. 22.04.2015 – XII ZR 55/14, NJW 2015, 2034 — Bei vertraglich vereinbarter Schriftform (§ 127 BGB) genügt im Zweifel E-Mail, wenn sich aus der Vereinbarung nichts anderes ergibt.
 3. BGH, Urt. v. 25.03.2015 – IV ZR 29/14, NJW 2015, 1963 — Eine Schriftformheilungsklausel (Klausel, die nachträgliche mündliche Änderungen trotz Schriftformvorbehalt erlaubt) ist wegen § 305 ff. BGB in AGB in engen Grenzen zulässig.
 4. BAG, Urt. v. 16.09.2021 – 2 AZR 781/20, NJW 2021, 3545 — Der Schriftformzwang des § 623 BGB für Beendigungserklärungen von Arbeitsverhältnissen ist absolut; eine WhatsApp-Kündigung erfüllt ihn nicht.
@@ -185,3 +185,9 @@ kann nur durch eine schriftliche Vereinbarung beider Parteien verzichtet werden.
 - → `prozessablauf-papier-vs-elektronisch`
 - → `formerfordernisse-im-bgb-ueberblick`
 - → alle spezifischen Form-Skills
+
+<!-- AUDIT 27.05.2026 bundle_043
+Problem: BGH V ZR 78/14 (Rechtsprechung Nr. 1) war WRONG_TOPIC — Entscheidung betrifft Beschaffenheitsvereinbarung beim Grundstückskauf (§ 434 BGB), nicht § 550 BGB Schriftformerfordernis.
+Maßnahme: Ersetzt durch BGH XII ZR 114/14, Urt. v. 25.11.2015, NJW 2016, 311 — echte Leitentscheidung zu § 550 BGB Schriftformerfordernis Langzeitmietvertrag.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=25.11.2015&Aktenzeichen=XII+ZR+114%2F14
+-->

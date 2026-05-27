@@ -39,7 +39,6 @@ In jeder Corporate/M&A-Transaktion ist die ordnungsgemäße Aktenführung die Gr
 |---|---|---|---|
 | BGH | IX ZR 10/99 | 22.01.2004 | Anwaltliche Handakte: lückenhafte Dokumentation geht im Schadensersatzprozess zu Lasten des Anwalts; Beweislastumkehr |
 | BGH | IX ZR 47/17 | 08.02.2018 | Kanzleipflichten: fehlende Fristerinnerung in der Akte begründet Organisationsverschulden des Anwalts |
-| OLG München | 6 U 4558/19 | 20.01.2020 | NDA-Vertraulichkeit: Informationen aus dem Datenraum sind auch nach Scheitern der Transaktion vertraulich, wenn NDA keine zeitliche Begrenzung enthält |
 
 ## Prüfschema / Anlage-Checkliste
 
@@ -218,10 +217,13 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - BGH, Urt. v. 22.01.2004, Az. IX ZR 10/99 (Handakte, Beweislastumkehr)
 - BGH, Urt. v. 08.02.2018, Az. IX ZR 47/17 (Fristerinnerung, Organisationsverschulden)
-- OLG München, Urt. v. 20.01.2020, Az. 6 U 4558/19 (NDA nach Scheitern)
 - § 50 BRAO; §§ 5, 6, 8 GwG; Art. 5, 25 DSGVO; §§ 257 HGB, 147 AO; MAR Art. 7, 8
 
 ## Ergaenzende Rechtsprechung (v14.2)
 
 - BGH, Urt. v. 26.01.2006 - IX ZR 185/04, NJW 2006, 1432 — Aktenaufbewahrung: Anwalt muss Akten so aufbewahren, dass wesentliche Informationen fuer Mandant jederzeit zugaenglich sind; § 257 HGB (10 Jahre) gilt analog fuer Handakten
 - OLG Frankfurt, Urt. v. 14.11.2019 - 4 U 225/18, NZG 2020, 217 — Aktenanlage und Dateisicherheit: Anwalt haftet bei Datenverlust, wenn keine angemessene Backup-Strategie vorhanden war; DSGVO-konforme Datenhaltung ist Sorgfaltspflicht
+
+<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
+- OLG Muenchen 6 U 4558/19 (20.01.2020): NOT_FOUND auf dejure.org — Tabellenzeile und Quellenangabe geloescht.
+-->

@@ -209,3 +209,11 @@ Anlagen: K1 [Beschreibung], K2 [...]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+<!-- AUDIT 27.05.2026
+Bundle-024-Flag "15 RL 2011/95" ist kein Gerichtsurteil-AZ:
+Der Eintrag "Art. 15 RL 2011/95" in der Strategietabelle (Variante C) ist eine
+Normenreferenz (Art. 15 Qualifikations-RL 2011/95/EU = subsidiärer Schutz / erheblicher Schaden),
+kein halluziniertes Urteil. Kein Loeschungs- oder Aenderungsbedarf;
+die Formulierung bleibt unveraendert.
+-->

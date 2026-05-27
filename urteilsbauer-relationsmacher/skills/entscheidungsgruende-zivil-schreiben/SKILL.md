@@ -18,7 +18,6 @@ Im Urteilsstil (nicht im Gutachtenstil). Reihenfolge: Ergebnis - Begründung.
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 04.07.2017 - XI ZR 562/15, NJW 2017, 2986 — Entscheidungsgründe müssen die tatsächlichen und rechtlichen Grundlagen der Entscheidung nachvollziehbar darlegen; pauschalisierende Formulierungen verletzen das Begründungsgebot.
-- BGH, Urt. v. 15.11.2011 - VIII ZR 304/09, NJW 2012, 382 — Zinsbeginn: § 286 BGB (Verzugszinsen ab Mahnung) vs. § 291 BGB (Rechtshängigkeitszinsen ab Klageerhebung) — beides muss klar getrennt werden.
 - BGH, Urt. v. 16.01.2020 - III ZR 23/19, NJW 2020, 1069 — Anspruchskonkurrenz zwischen vertraglichem und deliktischem Schadensersatz: jeder Anspruch eigenständig prüfen; günstigerer für Kläger anwenden.
 - BVerfG, Beschl. v. 19.01.2021 - 1 BvR 2681/19, NJW 2021, 1431 — Art. 103 Abs. 1 GG: Gericht muss wesentliche Klagebegründung im Tatbestand und Entscheidungsgründen berücksichtigen.
 
@@ -108,3 +107,5 @@ Die Entscheidung über die vorläufige Vollstreckbarkeit beruht auf § 709 ZPO.
 ## Stil
 
 Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
+
+<!-- AUDIT 27.05.2026: BGH VIII ZR 304/09 entfernt — NOT_FOUND (auf dejure.org kein Urteil BGH VIII ZR 304/09 vom 15.11.2011 auffindbar; NJW 2012, 382 verweist auf BGH II ZR 304/09, thematisch Gesellschaftsrecht/Brandschaden, nicht Zinsbeginn). Kein Ersatz eingefuegt. -->

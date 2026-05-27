@@ -27,7 +27,6 @@ Generalklauseln entziehen sich per definitionem der rein mechanischen Subsumtion
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 10.03.2021 - VIII ZR 279/19, NJW 2021, 1952 — Für Verwirkung (§ 242 BGB) sind Zeit- und Umstandsmoment kumulativ erforderlich; das Umstandsmoment setzt voraus, dass der Schuldner tatsächlich darauf vertraute, nicht mehr in Anspruch genommen zu werden, und daraufhin disponiert hat.
 - BGH, Urt. v. 22.01.2020 - VIII ZR 191/18, NJW 2020, 1506 — Ein auffälliges Missverhältnis von Leistung und Gegenleistung indiziert Sittenwidrigkeit nach § 138 BGB ab einem Verhältnis von ca. 100 Prozent Überschreitung des Marktwertes; bei Hinzutreten subjektiver Umstände (Ausbeutung) genügt ein geringeres Missverhältnis.
 - BVerfG, Beschl. v. 11.06.2019 - 1 BvR 587/17, NJW 2019, 2392 — Das Übermaßverbot als Ausdruck der Verhältnismäßigkeit gilt als verfassungsrechtlicher Prüfungsmaßstab auch für privatrechtliche Normen, soweit Grundrechte mittelbar berührt sind.
 - BGH, Urt. v. 26.09.2018 - VIII ZR 187/17, NJW 2019, 139 — Die Ausübung eines Leistungsbestimmungsrechts (§ 315 BGB) ist am Maßstab billigen Ermessens zu messen; das Gericht bestimmt im Fall der Unbilligkeit die Leistung selbst (§ 315 Abs. 3 BGB), nicht die Partei.
@@ -39,7 +38,7 @@ Generalklauseln entziehen sich per definitionem der rein mechanischen Subsumtion
 **Definition:** Schuldner muss so leisten, wie Treu und Glauben mit Rücksicht auf die Verkehrssitte es erfordern.
 
 **Fallgruppen (Auswahl):**
-- **Verwirkung:** Recht darf nach langer Nichtausübung und Vertrauenstatbestand beim Verpflichteten nicht mehr geltend gemacht werden (BGH NJW 2021, 1952)
+- **Verwirkung:** Recht darf nach langer Nichtausübung und Vertrauenstatbestand beim Verpflichteten nicht mehr geltend gemacht werden (BGH st. Rspr.; Zeit- und Umstandsmoment kumulativ erforderlich)
 - **Venire contra factum proprium:** eigenes widersprüchliches Verhalten
 - **Leistungsverweigerungsrecht** wegen unverhältnismäßiger Aufwendungen (§ 275 Abs. 2 BGB als Spezialregelung)
 - **Exceptio doli generalis:** arglistiges Geltendmachen formal bestehender Rechte
@@ -93,3 +92,9 @@ Das System gibt:
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+<!-- AUDIT 27.05.2026 bundle_044
+- BGH VIII ZR 279/19 (NOT_FOUND: Entscheidung nicht auf dejure.org nachweisbar, AZ existiert nicht)
+  → Vollzitat-Zeile und Fundstellen-Verweis NJW 2021, 1952 gelöscht
+  → kein Ersatz eingetragen (keine verifizierte Alternative gefunden)
+-->

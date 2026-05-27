@@ -56,7 +56,6 @@ Nur diese Forderungen lassen sich nach Restschuldbefreiung weiterhin vollstrecke
 - BGH 13.10.2009 – XI ZR 18/09 (Verjährung § 197 Abs. 1 Nr. 5 BGB)
 - BGH 17.1.2008 – IX ZR 220/06 (§ 302 InsO Eintragungserfordernis)
 - BGH 18.12.2008 – IX ZR 124/08 (Forderung aus Tabelle nach Restschuldbefreiung)
-- BGH 28.9.2017 – IX ZR 144/16 (Zinsen aus Tabellenauszug)
 
 ## Ausgabeformat
 
@@ -90,3 +89,5 @@ NÄCHSTER SKILL:        [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 - `zv-titel-klausel-zustellung`
 - `zv-pfueb-bank`, `zv-pfueb-arbeitsentgelt`
 - `zv-abwehr-schuldner` – Vollstreckungsgegenklage nach Restschuldbefreiung
+
+<!-- AUDIT 27.05.2026: BGH IX ZR 144/16 aus "Leitentscheidungen" entfernt — WRONG_TOPIC. Auf dejure.org verifiziert: BGH 18.01.2018 – IX ZR 144/16 betrifft Insolvenzanfechtung und Kenntnis des Gläubigers von der Zahlungseinstellung (§ 133 InsO; NJW-RR 2018, 432) — kein Bezug zu "Zinsen aus Tabellenauszug". Außerdem war das im Skill genannte Datum 28.09.2017 falsch (korrekt: 18.01.2018). Streichung wegen falschen Themas. -->

@@ -157,8 +157,7 @@ Klassische Stolperfalle in IT-, Datenschutz- und Telemedienrecht:
 - `schriftsatzkern-substantiierung` (im selben Plugin) fuer den Fall, dass Vergleichsverhandlungen scheitern und Klage erforderlich wird.
 
 ## Aktuelle Rechtsprechung (v14.2)
-- BGH, Urt. v. 22.01.2019 — II ZR 279/17, NJW 2019, 988 Rn. 17: Prozessvergleich § 794 Abs. 1 Nr. 1 ZPO — Vollstreckungstitel bei Protokollierung; Widerrufsvorbehalt mit Frist schraenkt Bindungswirkung ein.
-- BGH, Urt. v. 11.11.2010 — VII ZR 167/09, NJW 2011, 594 Rn. 22: Abgeltungsklausel im Bauvertrag-Vergleich erfasst auch unbekannte Ansprueche, sofern Parteiwille erkennbar; Auslegung nach §§ 133 157 BGB.
+- BGH, Urt. v. 19.04.2018 — IX ZR 222/17, NJW-RR 2018, 1023: Prozessvergleich § 794 Abs. 1 Nr. 1 ZPO — Widerrufsvorbehalt; Parteien koennen vereinbarte Widerrufsfrist einvernehmlich ohne Gerichtsbeteiligung verlaengern; Protokollierungszwang gilt nicht fuer Fristverlaeungerungsvereinbarung.
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia), NJW 2024, 685 Rn. 77: DSGVO-Schadensersatz — bei Datenpanne kein Nachweis konkreten Schadens fuer immateriellen Anspruch erforderlich; Vergleich sollte Schadensersatzpotenzial vollstaendig abdekken.
 - OLG Frankfurt, Urt. v. 14.03.2023 — 11 U 125/22, NJW-RR 2023, 1011 Rn. 30: Anwaltsvergleich § 796a ZPO — wirksam wenn beide Anwaelte mit Prozessvertretung betraut und schriftlich beurkundet; kein Notar erforderlich.
 
@@ -222,3 +221,11 @@ und Zustandekommen dieses Vergleichs.]
 [NAME MANDANT]                    [GEGNER]
 vertreten durch RA [NAME]         vertreten durch RA [NAME]
 ```
+
+<!-- AUDIT 27.05.2026
+Geprueft: 3 halluzinierte Aktenzeichen in Abschnitt "Aktuelle Rechtsprechung (v14.2)".
+- II ZR 279/17 (BGH): WRONG_TOPIC. Ersetzt durch BGH, 19.04.2018 - IX ZR 222/17, NJW-RR 2018, 1023 (Prozessvergleich § 794 ZPO, Widerrufsvorbehalt, Fristverlaeungerung).
+- II ZR 300/10 (BGH): NOT_FOUND auf dejure.org; behauptete Fundstelle NJW 2011, 3510 gehoert zu BGH VIII ZR 293/10 (Kfz-Garantie, falsches Thema). Eintrag ersatzlos geloescht.
+- VII ZR 167/09 (BGH): NOT_FOUND auf dejure.org; NJW 2011, 594 gehoert zu BGH VII ZR 172/09 (Verjaehrung/Beweisverfahren, falsches Thema). Eintrag ersatzlos geloescht.
+Quelle: dejure.org-Recherche. Kein Commit. Frontmatter unveraendert.
+-->

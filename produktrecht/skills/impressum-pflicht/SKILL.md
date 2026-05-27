@@ -124,3 +124,8 @@ Das Modell benötigt:
 ## Quellenpflicht
 
 Alle Aussagen in Impressumsprüfungen und Risikomemos sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (BGH GRUR 2007, 159; OLG Hamm MMR 2011, 55) und zwei Kommentarbelege im Bearbeiter-Stil. Bei Änderungen durch das DDG (seit 14.05.2024) auf Aktualität der Kommentarauflage achten.
+
+
+<!-- AUDIT 27.05.2026 bundle_040
+Geprueft: AZ '1 RL 2000/31' — kein Gerichtsurteil; korrekt als EU-Richtlinie 2000/31/EG (Art. 5 Abs. 1) in Normenabschnitt gelistet, keine halluzinierte Fallzitierung gefunden. EuGH C-298/07 korrekt und thematisch passend. Kein Aenderungsbedarf am Inhalt. Status: CLEAN.
+-->

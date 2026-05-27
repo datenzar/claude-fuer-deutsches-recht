@@ -254,7 +254,6 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ### Ergaenzende Leitsaetze
 
-- BGH, Urt. v. 21.11.2022 - XI ZR 515/21, NJW 2023, 519 Rn. 24 — Bank haftet aus § 280 BGB i.V.m. § 25h KWG wenn Transaktion offensichtliche Betrugsmerkmale aufwies und Bank keine Warnpflicht eingeleitet hat; Schwelle: Betrag > 10.000 EUR an erstmaligen Auslands-IBAN.
 - BGH, Urt. v. 26.01.2016 - XI ZR 91/14, NJW 2016, 2245 Rn. 19 — Mitverschulden bei Online-Betrug: Kunde handelt grob fahrlaessig, wenn er auf offensichtliche Betrugsanzeichen (Grammatikfehler, unbekannte IBAN, Drucksituationen) nicht reagiert; Quotelung bis 50 %.
 - BGH, Urt. v. 24.03.2022 - III ZR 183/20, NJW 2022, 1385 Rn. 16 — § 826 BGB Anspruch gegen Vermittler: Nachweis des Vorsatzes durch Indizien moeglich wenn Vermittler trotz offensichtlicher Betrugsstruktur weiter warb.
 - OLG Frankfurt, Urt. v. 08.12.2021 - 17 U 7/21, WM 2022, 115 — SEPA-Recall-Anspruch des Kunden gegenueber eigener Bank bei Betrug: Bank muss bestmoegliche Rueckrufanstrengungen unternehmen; unterlassener Recall kann Haftungsgrundlage sein.
@@ -267,3 +266,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 - § 823 Abs. 2 BGB i.V.m. § 263 StGB — Schutzgesetzverletzung
 - § 25h KWG — Sorgfaltspflichten Bank bei Verdachtsmeldung
 - § 675x BGB — SEPA-Rueckbuchungsrecht (8 Wochen)
+
+<!-- AUDIT 27.05.2026 bundle_021
+GELÖSCHT: BGH XI ZR 515/21 (13.09.2022) – WRONG_TOPIC: Reales Urteil behandelt Online-Glücksspiel/GlüStV (kein Erstattungsanspruch des Kunden bei autorisierten Kreditkartenzahlungen für illegales Glücksspiel), nicht Bank-Warnpflicht bei Cybertrading gem. § 280 BGB i.V.m. § 25h KWG. Auch Datum falsch (21.11.2022 statt 13.09.2022). Leitsatz vollständig entfernt.
+-->

@@ -58,7 +58,7 @@ Das Allgemeine Gleichbehandlungsgesetz (AGG) schützt Bewerber und Beschäftigte
 - BAG, Urt. v. 11.08.2016 – 8 AZR 406/14, NZA 2017, 309 Rn. 19: Zur Darlegungslast des Bewerbers bei § 22 AGG; statistische Unterrepräsentation einer Gruppe als Indiz. `[Modellwissen – prüfen]`
 - BAG, Urt. v. 29.06.2017 – 8 AZR 402/15, NZA 2018, 45 Rn. 27: Entschädigungshöhe nach § 15 Abs. 2 AGG – richterliche Schätzung nach § 287 ZPO, Orientierung an tatsächlich entgangenem Gewinn und Genugtuungsfunktion. `[Modellwissen – prüfen]`
 - BAG, Urt. v. 28.05.2020 – 8 AZR 170/19, NZA 2020, 1427 Rn. 35: Altersdiskriminierung bei Sozialauswahl; § 1 Abs. 3 S. 2 KSchG und AGG-Konformität. `[Modellwissen – prüfen]`
-- BAG, Urt. v. 25.06.2020 – 8 AZR 75/19, NZA 2020, 1609 Rn. 22: Entschädigung nach § 15 Abs. 2 AGG bei Geschlechtsdiskriminierung in der Vergütung. `[Modellwissen – prüfen]`
+- BAG, Urt. v. 25.06.2020 – 8 AZR 75/19, NZA 2020, 1626: Pflicht des öffentlichen Arbeitgebers nach § 82 Satz 2 SGB IX aF, schwerbehinderte Bewerber auch bei internen Stellenbesetzungen zu einem Vorstellungsgespräch einzuladen; Nichteinladung begründet Indiz für Benachteiligung wegen Behinderung (§ 22 AGG) und kann Entschädigungsanspruch nach § 15 Abs. 2 AGG auslösen. `[Modellwissen – prüfen]`
 - BAG, Urt. v. 27.08.2020 – 8 AZR 188/19, NZA 2021, 41 Rn. 31 ff.: Testbewerberthematik – AGG-Entschädigungsklage eines Testbewerbers mit Behinderung; subjektives Interesse am Arbeitsplatz muss glaubhaft gemacht werden; bloßes Testen als rechtsmissbräuchlich, wenn kein ernsthafter Stellenwunsch bestand. `[Modellwissen – prüfen]`
 - BAG, Urt. v. 23.11.2023 – 8 AZR 215/22, NZA 2024, 210 Rn. 28 ff.: Anforderungen an die ernsthafte Bewerbungsabsicht bei AGG-Klagen; ein Bewerber, der die fachlichen Mindestvoraussetzungen offensichtlich nicht erfüllt, kann sich nicht auf § 15 Abs. 2 AGG berufen. `[Modellwissen – prüfen]`
 
@@ -236,3 +236,13 @@ Wesentliche Kommentarliteratur:
 - Däubler/Bertzbach, AGG, 5. Aufl. 2022, § 1 Rn. 1 ff. (Schutzmerkmale, sachlicher Anwendungsbereich).
 
 Bei wesentlichen Rechtsentwicklungen Skill aktualisieren. Stand: 05/2026.
+
+<!-- AUDIT 27.05.2026 | Bundle 012 | Task 2
+AZ geprüft: BAG 8 AZR 75/19
+Befund WRONG_TOPIC + falsche NZA-Fundstelle korrigiert.
+Alt: "NZA 2020, 1609 Rn. 22: Entschädigung § 15 Abs. 2 AGG bei Geschlechtsdiskriminierung in der Vergütung"
+Neu: "NZA 2020, 1626: Pflicht des öffentlichen Arbeitgebers nach § 82 Satz 2 SGB IX aF,
+schwerbehinderte Bewerber zu Vorstellungsgespräch einzuladen (auch intern); Entschädigung § 15 Abs. 2 AGG"
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=8+AZR+75%2F19
+Rn.-Angabe "Rn. 22" entfernt, da dejure-Auszug für dieses Thema Rn. 31 cc ausweist.
+-->

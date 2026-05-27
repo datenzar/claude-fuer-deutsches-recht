@@ -59,10 +59,7 @@ Das Modell benötigt:
 - BGH, Urt. v. 08.03.2022 – VI ZR 47/21, NJW 2022, 1601 Rn. 18 ff.: Zur Wertminderung;
   eine merkantile Wertminderung entsteht durch das Bekanntwerden eines Unfallschadens auch bei
   fachgerechter Reparatur; Berechnungsmethode Ruhkopf/Sahm.
-- BGH, Urt. v. 28.06.2011 – VI ZR 184/10, NJW 2011, 3237 Rn. 8 ff.: Zum Direktanspruch
-  § 115 VVG; der Versicherer kann dem Geschädigten nur Einwendungen aus dem Versicherungsvertrag
-  entgegenhalten, nicht aber solche, die sich aus dem Deckungsverhältnis ergeben; der
-  Haftpflichtanspruch ist grundsätzlich direktdurchsetzbar.
+- BGH, Urt. v. 14.03.2017 – VI ZR 226/16, NJW 2017, 2271: Zur Beendigung der Verjährungshemmung nach § 115 Abs. 2 S. 3 VVG; die Entscheidung des Versicherers muss in Bezug auf alle in Betracht kommenden Schadensposten erschöpfend, umfassend und endgültig sein; eine bloße Anspruchsbejahung ohne entsprechende Klarheit genügt nicht.
 
 ### Kommentarliteratur
 
@@ -156,3 +153,9 @@ Jede Aussage zur Haftungsquote, 130%-Grenze, Nutzungsausfall und Schmerzensgeldb
 nach `references/zitierweise.md` zu belegen. BGH-Urteile vollständig (Datum, Az., NJW-Fundstelle,
 Rn.). Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Schmerzensgeldtabellen (Hacks/Wellner/Häcker;
 Beck'sche Tabelle) als eigenständige Quellen mit Auflage und Jahr zitieren.
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VI ZR 184/10 (NJW 2011, 3237) – WRONG_TOPIC; tatsächlich: Schadensersatz Gemeinde aus Gefährdungshaftung für Ölspurbeseitigung (StVG), nicht Direktanspruch § 115 VVG. Fundstelle: NVwZ-RR 2011, 925 (nicht NJW 2011, 3237).
+Maßnahme: Ersetzt durch BGH VI ZR 226/16, 14.03.2017, NJW 2017, 2271 (§ 115 Abs. 2 S. 3 VVG, Direktanspruch, verifiziert auf dejure.org).
+Quelle: https://dejure.org/2011,636
+-->

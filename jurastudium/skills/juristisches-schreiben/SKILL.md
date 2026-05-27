@@ -30,7 +30,7 @@ Wissenschaftlicher juristischer Stil folgt Konventionen, die in Stil- und Method
 - Wissenschaftliche Schreibweise gemäß Hinweisen der Deutschen Vereinigung für Internationales Recht (DVIR) und Zeitschriftenrichtlinien JuS/NJW
 
 **Leitentscheidungen für Zitiergenauigkeit:**
-- BGH, Urt. v. 26.02.2013 – VI ZR 116/12, NJW 2013, 1682 Rn. 12 — Anforderungen an substantiierten Sachvortrag (strukturelle Parallele zum wissenschaftlichen Schreiben: Behauptung + Begründung + Beleg)
+- BGH, Urt. v. 26.02.2013 – VI ZR 116/12, NJW 2013, 1679 — Haftungsverteilung nach Straßenverkehrsunfall; Zurechnungszusammenhang bei Sturz auf eisglatter Fahrbahn als Unfallfolge (als Zitierbeispiel für eine korrekte BGH-Entscheidungsangabe mit Datum, Aktenzeichen und NJW-Fundstelle)
 - BVerfG, Beschl. v. 06.11.2019 – 1 BvR 16/13, NJW 2020, 300 (Recht auf Vergessen I) — Zitierbeispiel für Entscheidungszitate mit Kurznamen
 
 **Kommentare und Formatnachweise:**
@@ -155,3 +155,5 @@ Strukturiertes Feedback nach dem Schema in Schritt 3. Einschätzung nach Notente
 Zitierhinweise in diesem Feedback folgen den gängigen deutschen Zitierkonventionen (Byrd/Lehmann, Zitierfibel für Juristen, 3. Aufl. 2022). Inhaltliche Angaben zu Rechtsnormen und Rechtsprechung sind mit `[PRÜFEN]` markiert, wenn keine Quellenverifikation möglich ist. Vor Einreichung alle Nachweise gegen aktuelle Quellen abgleichen.
 
 Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+<!-- AUDIT 27.05.2026: BGH VI ZR 116/12 (WRONG_TOPIC: echtes Thema Straßenverkehrsunfall NJW 2013, 1679, nicht Schriftsatzanforderungen NJW 2013, 1682 Rn. 12) korrigiert; Fundstelle auf NJW 2013, 1679 berichtigt und Beschreibung an echten Urteilsinhalt angepasst. -->

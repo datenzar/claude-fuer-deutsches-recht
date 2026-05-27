@@ -67,7 +67,6 @@ Erzeuge ein höflich-bestimmtes Schreiben mit:
 
 - BGH, Urt. v. 14.12.2022 — VIII ZR 304/21, NJW 2023, 1289 Rn. 28: Ein qualifizierter Mietspiegel bindet das Gericht als sachverstaendiges Zeugnis; Gegenbeweis durch Vermieter erfordert eigenes Sachverstaendigengutachten.
 - BGH, Urt. v. 21.09.2022 — VIII ZR 188/21, NJW 2022, 3580 Rn. 22: Formelle Anforderungen an Mieterhoehungsverlangen (§ 558a BGB) sind praezise; fehlerhafte Wohnlageangabe macht Verlangen unwirksam.
-- BGH, Urt. v. 19.07.2023 — VIII ZR 275/22, NJW 2023, 2893: Teilzustimmung zu Mieterhoehung ist moeglich und sinnvoll, wenn bestimmter Teil des Verlangens begruendet ist; Teilzustimmung beendet Verzugsrisiko bezueglich des anerkannten Teils.
 
 ## Paragrafenkette
 
@@ -77,3 +76,10 @@ Erzeuge ein höflich-bestimmtes Schreiben mit:
 
 - Schmidt-Futterer, Mietrecht, 15. Aufl. — §§ 558 ff. BGB
 - BeckOK Mietrecht — §§ 558 ff. Mietspiegel und Kappungsgrenze
+
+---
+<!-- AUDIT 27.05.2026 | bundle_037 | task 5/5
+BGH VIII ZR 275/22 (NOT_FOUND): Aktenzeichen und NJW 2023 S. 2893 auf dejure.org nicht auffindbar.
+Massnahme: Gesamten Rechtsprechungseintrag geloescht.
+Die verbleibenden BGH-Entscheidungen (VIII ZR 304/21, VIII ZR 188/21) sind verifiziert.
+-->

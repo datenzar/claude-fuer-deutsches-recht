@@ -35,7 +35,7 @@ Erstellung, Aktualisierung oder Aufhebung von Beweissicherungs- und Aufbewahrung
 Ab Kenntnis eines konkreten Rechtsstreits oder einer ernsthaften Drohung entsteht eine Pflicht zur Beweissicherung (vgl. BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366 Rn. 19 – Beweisvereitelung). Eine schuldhafte Vernichtung von Beweismitteln kann nach § 444 ZPO zur Umkehr der Beweislast führen oder nach § 286 ZPO als beweiswürdigungserhebliches Indiz gewertet werden.
 
 **Konsequenzen der Beweisvereitelung:**
-- § 444 ZPO: Unwiderlegliche Vermutung, dass das vernichtete Dokument den gegnerischen Vortrag bestätigt hätte (BGH, Urt. v. 14.12.2016 – IV ZR 527/15, NJW 2017, 869 Rn. 17).
+- § 444 ZPO: Schuldhaftes Vernichten oder Vorenthalten von Beweismitteln kann zu Beweislastumkehr oder Beweiserleichterungen führen (BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366 Rn. 19).
 - § 286 ZPO: Freie Beweiswürdigung kann vernichtungsbedingte Nachteile zulasten der vernichtenden Partei ziehen.
 - §§ 339 ff. StGB: Strafbarkeit wegen Beweisvereitelung / Urkundenunterdrückung (§ 274 StGB) bei vorsätzlicher Vernichtung.
 
@@ -73,7 +73,6 @@ Tabelle aller aktiven Sicherungsanordnungen im Portfolio mit:
 
 Verbindlich: `../references/zitierweise.md`.
 
-- BGH, Urt. v. 14.12.2016 – IV ZR 527/15, NJW 2017, 869 Rn. 17 (Beweisvereitelung § 444 ZPO: Vermutungswirkung).
 - BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366 Rn. 19 (Beweisvereitelung und Pflicht zur Beweismittelsicherung).
 - Greger, in: Zöller, ZPO, 35. Aufl. 2024, § 444 Rn. 1 ff. (Beweisvereitelung: Voraussetzungen, Rechtsfolgen).
 - Huber, in: Musielak/Voit, ZPO, 21. Aufl. 2024, § 485 Rn. 3 ff. (Selbständiges Beweisverfahren: Voraussetzungen, Antrag).
@@ -117,7 +116,12 @@ Kontakt: [Anwalt, Kanzlei, Telefon]
 
 ## Risiken / typische Fehler
 
-- **Verzögerter Hold:** Die Anordnung muss bei Kenntnis des Rechtsstreits sofort erfolgen; spätere Vernichtung begründet Beweisvereitelung auch ohne Hold (BGH – IV ZR 527/15).
+- **Verzögerter Hold:** Die Anordnung muss bei Kenntnis des Rechtsstreits sofort erfolgen; spätere Vernichtung begründet Beweisvereitelung auch ohne Hold (BGH, Urt. v. 23.10.2008 – III ZR 57/07, NJW 2009, 366).
 - **Zu enger Anwendungsbereich:** Custodians und Dokumentenkategorien zu eng gewählt; alle betroffenen Abteilungen und IT-Systeme (E-Mail-Archiv, Cloud-Speicher) einschließen.
 - **Datenschutzkollision:** Aufbewahrungspflicht und DSGVO-Löschpflicht können kollidieren; bei Widerspruch gilt prozessuale Sicherungspflicht im Zweifel (vgl. Art. 17 Abs. 3 lit. e DSGVO: Aufbewahrung für Rechtsstreitigkeiten).
 - **Selbständiges Beweisverfahren zu spät:** Nach Sachzustandsveränderung ist keine Beweissicherung mehr möglich; § 485 ZPO-Antrag frühzeitig stellen.
+
+
+<!-- AUDIT 27.05.2026 bundle_040
+Geprueft: BGH IV ZR 527/15, NJW 2017, 869 — WRONG_TOPIC. Urteil existiert (14.12.2016, dejure.org bestaetigt), ist aber Berufsunfaehigkeits-Zusatzversicherung (BUZ, NJW 2017, 1620), nicht §444 ZPO Beweisvereitelung. Alle drei Vorkommen ersetzt durch die korrekte Fundstelle BGH III ZR 57/07, NJW 2009, 366 (Beweisvereitelung und Beweismittelsicherungspflicht, dejure.org bestaetigt). Duplikat im Quellen-Abschnitt entfernt. Status: ERSETZT.
+-->

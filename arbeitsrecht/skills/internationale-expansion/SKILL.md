@@ -50,9 +50,7 @@ nicht über eine interne Referenztabelle.
 - BAG, Urt. v. 02.06.2010 – 7 AZR 946/08, NZA 2010, 1289 Rn. 18 ff.:
   Rechtsfolgen fehlender AÜG-Erlaubnis; Fiktionswirkung nach § 10 Abs. 1 AÜG
   bei unerlaubter Arbeitnehmerüberlassung
-- BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254:
-  Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller
-  Beschäftigungsmerkmale; Indizgewicht einzelner Faktoren
+
 
 **Kommentarliteratur:**
 
@@ -396,3 +394,17 @@ Jede Ausgabe zu AÜG-Konstellationen zitiert:
 - Schüren/Hamann, AÜG, 5. Aufl. 2022
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+<!-- AUDIT 27.05.2026 | Bundle 012 | Task 5
+AZ geprüft: BSG B 12 KR 2/20 R
+Befund WRONG_TOPIC + falsches Datum + falsche Zeitschrift → Eintrag gelöscht.
+Alt: "BSG, Urt. v. 29.03.2022 – B 12 KR 2/20 R, NZA 2022, 1254:
+     Statusfeststellungsverfahren nach § 7a SGB IV; Gesamtbetrachtung aller Beschäftigungsmerkmale"
+Tatsächliche Entscheidung (dejure.org):
+  Datum: 29.06.2021 (nicht 29.03.2022)
+  Thema: Krankenversicherung — Familienversicherung — Gesamteinkommen (§ 10 SGB V)
+  Fundstellen: BSGE 132, 245; NJW 2022, 2140; NZS 2022, 458 (NICHT NZA — NZA ist Arbeitsrechts-Zeitschrift)
+  Kein Bezug zu § 7a SGB IV / Statusfeststellung.
+Eintrag vollständig entfernt; bei Bedarf passendes Statusfeststellungs-AZ recherchieren.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=29.06.2021&Aktenzeichen=B+12+KR+2%2F20+R
+-->

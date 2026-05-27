@@ -43,11 +43,11 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 |---|---|---|---|
 | BGH | IV ZR 51/14 | 29.10.2014 | Wahrheitspflicht beim Antragsfragebogen; Kenntnisstandard |
 | BGH | IV ZR 225/10 | 22.06.2011 | § 81 VVG grob fahrlässig; quotale Kürzung abhängig von Schwere des Verschuldens |
-| BGH | IV ZR 219/14 | 23.06.2015 | Transparenzgebot; Risikoausschluss-Klausel muss klar und verständlich formuliert sein |
+
 | BGH | IV ZR 211/22 | 08.02.2023 | Bezugsberechtigung Lebensversicherung; Formvorschriften |
 | BGH | IV ZR 248/10 | 22.06.2011 | Feststellungsklage BU; Feststellungsinteresse bei Dauerleistung |
 | BGH | IV ZR 178/04 | 12.10.2005 | Anerkenntnis-Wirkung von Versicherer-Korrespondenz; Zahlungsaussicht kann binden |
-| OLG Köln | 9 U 39/23 | 28.03.2024 | AVB-Auslegung Hausrat; Einbruchdiebstahl-Definition |
+
 | BGH | IV ZR 31/12 | 30.05.2012 | BU-Gutachten; konkrete Berufsunfähigkeit bezogen auf zuletzt ausgeübte Tätigkeit |
 
 ## Prüfschema in Tabellenform
@@ -63,7 +63,7 @@ Wenn der Versicherer die Leistung ganz oder teilweise ablehnt — systematische 
 | 4 | Obliegenheitsverletzung vor/nach Versicherungsfall? | §§ 28, 31 VVG | Vorsatz → voll leistungsfrei; grobe Fahrlässigkeit → quotal |
 | 5 | Grob fahrlässige Herbeiführung § 81 VVG? | § 81 VVG; BGH IV ZR 225/10 | Quotale Kürzung; Vorsatz = volle Leistungsfreiheit |
 | 6 | Risikoausschluss eingreifend? | AVB; §§ 305c, 307 BGB | AGB-Kontrolle; Intransparenz → unwirksam |
-| 7 | AVB-Klausel wirksam — Transparenz? | § 307 Abs. 1 S. 2 BGB; BGH IV ZR 219/14 | Unklare Ausschlussklausel → gegen Verwender ausgelegen |
+| 7 | AVB-Klausel wirksam — Transparenz? | § 307 Abs. 1 S. 2 BGB | Unklare Ausschlussklausel → gegen Verwender ausgelegen |
 | 8 | Leistungsumfang korrekt — Versicherungssumme, Selbstbehalt? | Police; § 75 VVG | Unterversicherung prüfen; Deckungsrahmen |
 | 9 | Fälligkeit § 14 VVG eingetreten? | § 14 VVG | Nötige Erhebungen abgeschlossen? Verzögerung durch Versicherer? |
 | 10 | Abschlagszahlung § 14 Abs. 2 VVG möglich? | § 14 Abs. 2 VVG | Feststehendes Minimum nach 1 Monat ab Anzeige |
@@ -155,7 +155,7 @@ weil die Verletzung für den Schadenseintritt nicht kausal war:
 Die von Ihnen angeführte Ausschlussklausel [Ziffer X AVB]
 ist nach § 307 Abs. 1 Satz 2 BGB intransparent und daher
 unwirksam. Ein durchschnittlicher VN kann die Reichweite
-des Ausschlusses nicht erkennen — BGH IV ZR 219/14.
+des Ausschlusses nicht erkennen (§ 307 Abs. 1 S. 2 BGB).
 Bei Unklarheit ist nach § 305c Abs. 2 BGB gegen den Verwender
 (Sie als Versicherer) auszulegen.
 
@@ -263,7 +263,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 | Vorvertragliche Anzeigepflicht verletzt — alle Fragen falsch beantwortet | Antragsfragen vorlegen; Wortlaut der Frage entscheidend; bei Unklarheit Auslegung gegen Verwender § 305c Abs. 2 BGB |
 | Obliegenheitsverletzung durch verspätete Anzeige | AVB-Frist prüfen; § 28 Abs. 3 VVG: Kausalität fehlt? Leistungsfreiheit entfällt |
 | Grobe Fahrlässigkeit § 81 VVG | BGH IV ZR 225/10: hohe Schwelle; leichte Unachtsamkeit genügt nicht |
-| Risikoausschluss klar und eindeutig | Wortlaut-Analyse; § 307 BGB Transparenzprüfung; BGH IV ZR 219/14 |
+| Risikoausschluss klar und eindeutig | Wortlaut-Analyse; § 307 BGB Transparenzprüfung |
 | Versicherungsfall nicht eingetreten — AVB-Definition | Auslegung AVB-Definition nach § 305c Abs. 2 BGB bei Unklarheit zugunsten VN |
 | Zahlung ist nicht fällig (noch in Prüfung) | § 14 VVG: Verzögerung nicht unbegrenzt; Abschlagszahlung nach 1 Monat |
 
@@ -280,7 +280,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 |---|---|
 | Einfacher Sachschaden, Ablehnung ohne Substanz | Fristsetzung 2 Wochen; bei Ausbleiben direkt Klage |
 | BU-Versicherung, Streit über Grad | Ärztliches Gutachten auf Kosten des Mandanten; SV-Beauftragung |
-| Risikoausschluss-Klausel | AGB-Rechtsprechung vertiefen; BGH IV ZR 219/14 anführen |
+| Risikoausschluss-Klausel | AGB-Rechtsprechung vertiefen; § 307 Abs. 1 S. 2 BGB Transparenzgebot |
 | Ombudsstelle sinnvoll | Bei geringerem Streitwert bis EUR 10000; Empfehlung bindend bis dieser Grenze |
 | Verjährung naht | Ombudsmann-Verfahren einleiten; Klage vorbereiten |
 
@@ -292,7 +292,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## Quellen
 
-VVG §§ 1, 2, 14, 19, 21, 28, 31, 75, 81, 86, 161; BGB §§ 195, 199, 203, 204, 286, 288, 305–310; BGH IV ZR 51/14; IV ZR 225/10; IV ZR 219/14; IV ZR 211/22; IV ZR 248/10; IV ZR 178/04; IV ZR 31/12; OLG Köln 9 U 39/23; Prölss/Martin VVG 31. Aufl. 2022; Bruck/Möller VVG 9. Aufl.; Langheid/Wandt MüKo VVG 3. Aufl. 2022.
+VVG §§ 1, 2, 14, 19, 21, 28, 31, 75, 81, 86, 161; BGB §§ 195, 199, 203, 204, 286, 288, 305–310; BGH IV ZR 51/14; IV ZR 225/10; IV ZR 211/22; IV ZR 248/10; IV ZR 178/04; IV ZR 31/12; Prölss/Martin VVG 31. Aufl. 2022; Bruck/Möller VVG 9. Aufl.; Langheid/Wandt MüKo VVG 3. Aufl. 2022.
 
 ## Vertiefung — Aktuelle Rechtsprechung und Normen
 
@@ -312,3 +312,9 @@ BGH, Urt. v. 08.07.2009 — **IV ZR 216/07**, NJW 2009, 3501 Rn. 15: Risikoaussc
 
 - Bruck/Möller, VVG, 9. Aufl. 2012 ff., § 14 VVG: Fälligkeit und Verzug; §§ 28, 81 VVG: Obliegenheiten und Ausschlüsse.
 - Prölss/Martin, VVG, 31. Aufl. 2021, §§ 28, 307 BGB: AVB-Kontrolle, Obliegenheitsverletzungen.
+
+---
+
+<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
+AZ geprüft: (1) OLG Köln 9 U 39/23 (NOT_FOUND — dejure.org: keine Treffer; kein Ersatz gefunden): Eintrag aus Leitentscheidungen-Tabelle und Quellen-Zeile gelöscht. (2) BGH IV ZR 219/14 (NOT_FOUND — dejure.org: kein Eintrag nachweisbar): alle Verweise auf dieses AZ in Tabelle, Prüfschema, Baustein und Strategischer Empfehlung durch Normverweise (§ 307 Abs. 1 S. 2 BGB) ersetzt; AZ aus Quellen-Zeile entfernt. Frontmatter unverändert.
+-->

@@ -55,7 +55,6 @@ Genehmigung von Stallneubau oder Stallerweiterung mit immissionsschutzrechtliche
 | BVerwG | 4 C 12/01 | Futterbasis-Grenze: >50 % des Futterbedarfs muss aus eigenen Flächen stammen |
 | BVerwG | 7 C 14/17 | UVP-Vorprüfung: kumulative Wirkung ist stets mitzubewerten; keine formale Splittung |
 | OVG Münster | 8 A 1696/16 | Nachbar-Drittklage: Geruchsimmission als rügebares Drittrecht; GIRL-Werte bindend |
-| OVG Magdeburg | 2 M 14/23 | FFH-Verträglichkeit: 3 km-Radius Prüfpflicht bei Ammoniak-Emissionen Geflügelbetrieb |
 
 ## Schwellenwerte BImSchG vs. Baugenehmigung
 
@@ -264,7 +263,7 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 - TierSchNutztV
 - § 34 BNatSchG (FFH-Verträglichkeit)
 - BVerwG 4 C 20/93; BVerwG 4 C 12/01; BVerwG 7 C 14/17
-- OVG Münster 8 A 1696/16; OVG Magdeburg 2 M 14/23
+- OVG Münster 8 A 1696/16
 - Jarass BImSchG-Kommentar; Koch/Pache Immissionsschutzrecht
 
 ## Ergänzung — Aktuelle Rechtsprechung 2022-2024
@@ -272,3 +271,7 @@ den Bescheid aufzuheben und die Genehmigung zu erteilen.
 BVerwG, Urt. v. 25.11.2021 — **4 C 3.20**, BVerwGE 174, 56 Rn. 22: Immissionsschutzrechtliche Genehmigung einer Tierhaltungsanlage nach § 4 BImSchG muss Geruchsimmissions-Richtlinie (GIRL) anwenden; Abweichungen von der GIRL erfordern besondere Begründung; bei Überschreitung der Immissionswerte ist eine Verträglichkeitsprüfung nach § 34 BNatSchG erforderlich, wenn Schutzgebiete in der Nähe liegen.
 
 OVG Nordrhein-Westfalen, Urt. v. 10.06.2021 — **8 A 1577/18**, NVwZ-RR 2021, 898 Rn. 18: Neuere Rechtsprechung zu Abstandsregelungen bei Tierhaltungsanlagen: der 500-m-Mindestabstand zu Wohngebieten ist eine Orientierungsgröße, kein starrer Grenzwert; maßgeblich ist die konkrete Immissionsbelastung nach TA Luft und GIRL.
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- OVG Magdeburg 2 M 14/23 (NOT_FOUND): Aktenzeichen auf dejure.org nicht nachweisbar; kein OVG Sachsen-Anhalt-Beschluss zu FFH-Verträglichkeit 3 km-Radius Ammoniak-Emissionen Geflügelbetrieb unter diesem AZ gefunden. Tabellenzeile und Quellen-Eintrag entfernt. -->

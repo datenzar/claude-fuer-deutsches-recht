@@ -64,7 +64,7 @@ Leiturteile: BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 Rn. 18 – 
 - [ ] Keine Schranke (§§ 44a ff. UrhG: Zitat, Karikaturl Parodik)?
 - [ ] Nachweis der Verletzung ausreichend (z. B. Hash-Vergleich bei Filesharing)?
 
-Leiturteil: BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2018, 178 – „Afterlife" (Schutzumfang Lichtbilder).
+Leiturteil: BGH, Beschl. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1027 – „Reformistischer Aufbruch I“ (Umfang des Pressezitat- und Berichterstattungsrechts; öffentliche Zugänglichmachung von Texten eines ehemaligen Bundestagsabgeordneten).
 
 #### Wettbewerbsrecht (§ 8 UWG)
 
@@ -133,7 +133,7 @@ Zitierweise nach `../references/zitierweise.md`.
 - BGH, Urt. v. 14.09.2017 – I ZR 261/15, GRUR 2018, 102 – „Ortlieb I" (Marke).
 - BGH, Urt. v. 12.07.2018 – I ZR 74/17, GRUR 2018, 1157 – „Pelikan-Apotheke" (UWG/Marke).
 - BGH, Urt. v. 14.06.2016 – X ZR 29/15, GRUR 2016, 921 – „Pemetrexed" (Patent, Äquivalenz).
-- BGH, Urt. v. 27.07.2017 – I ZR 228/15, GRUR 2018, 178 – „Afterlife" (Urheberrecht).
+- BGH, Beschl. v. 27.07.2017 – I ZR 228/15, GRUR 2017, 1027 – „Reformistischer Aufbruch I“ (Pressezitat- und Berichterstattungsrecht; öffentliche Zugänglichmachung).
 - BGH, Urt. v. 01.07.2010 – I ZR 160/08, GRUR 2010, 1103 – „Pralinenform II" (EV-Dringlichkeit).
 
 **Kommentarliteratur:**
@@ -160,3 +160,7 @@ Zitierweise nach `../references/zitierweise.md`.
 - **Gegenangriff nicht einkalkulieren:** Besonders bei Patentverfahren besteht erhebliches Nichtigkeitsrisiko; bei Marken Löschungsantrag möglich.
 - **Missbrauchsrisiko § 8c UWG:** Serielle Abmahnungen mit primärem Gebührenerzielungszweck sind missbräuchlich; anwaltliche Prüfung des Gesamtbilds erforderlich.
 - **Verjährung beachten:** § 20 MarkenG (3 Jahre), § 141 PatG (3 Jahre), § 102 UrhG (3 Jahre), § 11 UWG (6 Monate ab Kenntnis / 3 Jahre absolut); `[Modellwissen – prüfen]`.
+
+<!-- AUDIT 27.05.2026: Bundle 032 Halluzinations-Reparatur
+- BGH I ZR 228/15: GRUR-Fundstelle korrigiert von GRUR 2018, 178 zu GRUR 2017, 1027; Fallname korrigiert von 'Afterlife' zu 'Reformistischer Aufbruch I' (Pressezitat- und Berichterstattungsrecht). GRUR 2018, 178 = BGH I ZR 11/16 'Vorschaubilder III'.
+-->

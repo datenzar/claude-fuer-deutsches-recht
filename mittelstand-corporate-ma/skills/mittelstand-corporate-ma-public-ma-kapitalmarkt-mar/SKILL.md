@@ -30,7 +30,7 @@ Begleitet boersennotierte Transaktionen: WpUEG-Unterlagen (Angebotsunterlage, St
 
 - BGH, Urt. v. 18.09.2012 - II ZB 22/11, BGHZ 194, 303 — Squeeze-out: Abfindung muss dem "wahren Wert" der Beteiligung entsprechen; Ertragswert (IDW S 1) massgeblich; Boersenkurs ist Untergrenze
 - EuGH, Urt. v. 11.03.2015 - C-628/13, NJW 2015, 1716 — Insiderinformation MAR: gestreckte Vorgaenge koennen bereits im Teilstadium Insiderinformationen begründen; Vorstands-Beschlussfassung ueber eine M&A-Transaktion ist relevanter Zeitpunkt
-- BGH, Urt. v. 23.04.2013 - II ZB 7/09, NZG 2013, 785 — Spruchverfahren: Spruchgericht kann eigenen Sachverstaendigen bestellen; BaFin-Bestaetigungen sind nicht bindend; Ertragswert nach IDW S 1 gibt den Rahmen
+- BGH, Beschl. v. 23.04.2013 - II ZB 7/09, NZG 2013, 708 — Kapitalanleger-Musterverfahren: Bei zeitlich gestreckten Vorgaengen koennen bereits Zwischenschritte eine Insiderinformation i.S.d. § 13 Abs. 1 WpHG (jetzt Art. 7 MAR) begruenden; jeder Einzelschritt auf dem Weg zu einem beabsichtigten Ergebnis kommt als Insiderinformation in Betracht (Daimler/Geltl)
 - BaFin, Emittentenleitfaden, Modul C (Insiderinformation) und Modul D (Ad-hoc-Meldung), aktualisierte Fassung 2023
 
 ## Kommentarliteratur
@@ -119,3 +119,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 - assets/templates/insiderliste-mar-art18.md
 - assets/templates/ad-hoc-pruefungsprotokoll.md
+
+<!-- AUDIT 27.05.2026
+Problem: BGH II ZB 7/09 war mit falschem Thema (Spruchverfahren / Sachverstaendiger) zitiert.
+Massnahme: Beschreibung korrigiert auf tatsaechlichen Inhalt: Kapitalanleger-Musterverfahren Daimler/Geltl; Insiderinformation bei gestrecktem Geschehensablauf, § 13 WpHG / Art. 7 MAR; Fundstelle NZG 2013, 708 (nicht 785).
+Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.04.2013&Aktenzeichen=II+ZB+7%2F09
+-->

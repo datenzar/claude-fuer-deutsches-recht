@@ -161,9 +161,7 @@ Klassische Stolperfalle in Internationales Wirtschafts- und Schiedsrecht:
 ### Leitsaetze
 
 - BGH, Urt. v. 11.07.2018 - XII ZR 108/17, NJW 2018, 2788 Rn. 22 — Auslegung Abgeltungsklausel im Vergleich: Pauschalformulierung "alle Anspruche sind erledigt" erfasst nur bekannte und erkennbare Anspruche aus dem Sachverhalt; spater entdeckte Schaeden mit selbstaendiger Schadensursache nicht erfasst.
-- BGH, Urt. v. 10.04.2019 - VIII ZR 244/17, NJW 2019, 2293 Rn. 18 — Anwaltsvergleich § 796a ZPO: Vollstreckbarerklarung setzt voraus, dass Vergleich von anwaltlich vertretenen Parteien unterzeichnet und Vollstreckungsklausel beantragt wurde; formnichtiger Vergleich heilt nicht.
 - BGH, Urt. v. 25.03.2020 - VIII ZR 64/19, NJW 2020, 2032 — Arglist bei Vergleichsschluss: Liegt der Gegenseite eine wesentliche Tatsache bekannt vor, die sie im Vergleichsgesprach verschweigt, kann der Vergleich nach § 123 BGB angefochten werden; Sorgfaltspflicht bei internationalen Vergleichen erhoht.
-- BGH, Urt. v. 07.02.2007 - VIII ZR 101/06, NJW 2007, 1518 Rn. 12 — Vergleich mit Ratenvereinbarung: Ratenausfall loest Sofortfaelligkeit nur aus, wenn ausdruckliche Verfallsklausel vereinbart; Auslegung eng bei erheblicher wirtschaftlicher Bedeutung.
 - EuGH, Urt. v. 06.09.2012 - C-619/10 (Trade Agency), EuZW 2012, 912 — Schiedsvergleich: Vollstreckung nach New Yorker Ubereinkommen darf nicht an schematischen inlaendischen Formvorschriften scheitern; ordre public-Einwand nur bei offensichtlichem Verstoss gegen wesentliche Rechtsgrundsatze.
 
 ### Normen-Kette Vergleich IWR
@@ -249,3 +247,7 @@ ___________________________      ___________________________
 [PARTEI 1]                       [PARTEI 2]
 durch: [RA Name]                 durch: [RA Name]
 ```
+
+---
+
+> **Audit-Hinweis (27.05.2026):** BGH VIII ZR 244/17 (10.04.2019) und BGH VIII ZR 101/06 (07.02.2007) wurden auf dejure.org nicht gefunden (NOT_FOUND). Beide Leitsaetze konnten nicht verifiziert werden. Die entsprechenden Zeilen aus dem Abschnitt "Leitsaetze" wurden entfernt. Das Thema "Anwaltsvergleich § 796a ZPO" und "Vergleich mit Ratenvereinbarung" sind rechtlich valide Themen; fuer belegte Entscheidungen bitte eigene Recherche auf dejure.org oder juris durchfuehren.

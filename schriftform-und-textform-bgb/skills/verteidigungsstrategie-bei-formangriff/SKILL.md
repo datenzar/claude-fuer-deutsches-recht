@@ -143,3 +143,10 @@ Ergebnis: Die Berufung auf den Formmangel ist im konkreten Fall nach
 - → `formerfordernisse-im-bgb-ueberblick`
 - → `gewerberaummiete-paragraph-550-bgb-langzeitform` (§ 242 BGB bei § 550 BGB)
 - → `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
+
+<!-- AUDIT 27.05.2026 bundle_043
+Problem (Audit-Meldung): BGH I ZR 202/25 als NOT_FOUND gemeldet ("AZ noch nicht entschieden").
+Befund: BGH I ZR 202/25 ist real — Urteil vom 11.03.2026 (Maklervertrag § 656a BGB, Textform, Bereicherungsausschluss). Inhaltliche Aussage in Fallstricke (Zeile 138: spezialgesetzliche Schutzzwecke schließen Treuwidrigkeitseinwand aus) ist korrekt und durch die Entscheidung gedeckt.
+Maßnahme: Keine Änderung am Skill-Text erforderlich. AZ und Inhalt bestätigt.
+Quelle: https://www.otto-schmidt.de/blog/zivil-und-zivilverfahrensrecht-blog/montagsblog-neues-vom-bgh-ZRBLOG0004000.html
+-->

@@ -68,7 +68,6 @@ Das Postmodernisierungsgesetz (PostModG) hat die Bekanntgabefiktion von drei auf
 | B 8 SO 33/07 R | BSG, 28.10.2008 | Anforderungen an Begründung sozialrechtlicher Bescheide § 35 SGB X |
 | B 14 AS 30/13 R | BSG, 04.06.2014 | Mietobergrenzen SGB II; Schlüssiges Konzept |
 | 1 BvL 7/16 | BVerfG, 05.11.2019, BVerfGE 152, 68 | Sanktionen SGB II verfassungskonform nur bei Verschulden |
-| B 13 R 167/09 B | BSG, 15.09.2011 | Fristberechnung § 84 SGG; Bekanntgabefiktion |
 | B 4 AS 29/10 R | BSG, 18.01.2011 | Widerspruchsfrist; Eingang bei Behörde maßgebend |
 
 ---
@@ -351,4 +350,8 @@ Bei Bescheiden über Aufhebung, Rückforderung oder Sanktion: Widerspruch hat ke
 
 ## Quellen
 
-Stand: 05/2026. SGG §§ 78, 84, 86a, 86b, 87, 88, 183. SGB X §§ 24, 25, 35, 37, 41, 44, 45, 48. § 37 Abs. 2 SGB X n.F. (PostModG, Vier-Tage-Fiktion ab 01.01.2025). BSG B 8 SO 33/07 R (28.10.2008). BSG B 14 AS 30/13 R (04.06.2014). BVerfG 1 BvL 7/16 (05.11.2019). BSG B 13 R 167/09 B (15.09.2011). BSG B 4 AS 29/10 R (18.01.2011).
+Stand: 05/2026. SGG §§ 78, 84, 86a, 86b, 87, 88, 183. SGB X §§ 24, 25, 35, 37, 41, 44, 45, 48. § 37 Abs. 2 SGB X n.F. (PostModG, Vier-Tage-Fiktion ab 01.01.2025). BSG B 8 SO 33/07 R (28.10.2008). BSG B 14 AS 30/13 R (04.06.2014). BVerfG 1 BvL 7/16 (05.11.2019). BSG B 4 AS 29/10 R (18.01.2011).
+
+---
+
+> **Audit 27.05.2026** — BSG B 13 R 167/09 B (behauptetes Thema: Fristberechnung § 84 SGG; Bekanntgabefiktion) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); auch alternative AZ B 13 R 67/09 R nicht auffindbar. Eintrag gelöscht.

@@ -19,10 +19,8 @@ Diese Stilrichtlinie legt verbindliche Regeln für Sprache, Gliederung und Forma
 
 ## Rechtsprechung zum Schriftsatzstil und Schriftsatz-Anforderungen
 
-- BGH, Urt. v. 06.11.2013 - VII ZR 248/12, NJW 2014, 301 — Zur inhaltlichen Bestimmtheit des Klageantrags nach § 253 Abs. 2 Nr. 2 ZPO; unbestimmte Antraege machen Klage unzulässig.
-- BGH, Beschl. v. 07.03.2017 - VIII ZB 40/16, NJW 2017, 1957 — Berufungsbegründung muss ausreichend bestimmt auf konkreten Angriffspunkt eingehen (§ 520 Abs. 3 Satz 2 Nr. 2 ZPO).
+- BGH, Beschl. v. 13.09.2012 - III ZB 24/12, NJW 2012, 3581 — Berufungsbegründung muss auf den konkreten Streitfall zugeschnitten sein und erkennen lassen, in welchen Punkten und aus welchen Gründen das erstinstanzliche Urteil für unrichtig gehalten wird (§ 520 Abs. 3 Satz 2 Nr. 2 ZPO).
 - BGH, Beschl. v. 20.06.2012 - IV ZB 18/11, NJW-RR 2012, 1269 — Anforderungen an die Revisionsbegruendung nach § 551 ZPO: pauschale Bezugnahme auf erstinstanzlichen Vortrag genügt nicht.
-- BGH, Urt. v. 26.06.2003 - VII ZR 126/02, NJW 2003, 3068 — Schriftsatz muss den Streitgegenstand klar umreissen; diffuse Klagebegründung schadet der Schlüssigkeit.
 
 ## Kommentarliteratur
 
@@ -121,3 +119,12 @@ Beispiele: 3 O 123/23 (LG) — 12 U 45/24 (OLG) — VI ZR 67/24 (BGH)
 - [ ] Beträge mit EUR-Präfix?
 - [ ] Überschriften-Hierarchie korrekt?
 - [ ] Schriftsatz erfüllt Mindestanforderungen §§ 130-131 ZPO?
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- VII ZR 248/12 (BGH): ersatzlos entfernt (NOT_FOUND auf dejure.org; kein Urteil vom 06.11.2013 nachweisbar)
+- VIII ZB 40/16 (BGH): ersetzt durch III ZB 24/12 (BGH, Beschl. v. 13.09.2012, NJW 2012, 3581; Quelle: https://dejure.org/2012,29812)
+- VII ZR 126/02 (BGH): ersatzlos entfernt (WRONG_TOPIC: tatsaechliches Thema ist Werkvertragsrecht/Verputzungsfehler/§ 421 BGB, nicht Prozessrecht; Quelle: https://dejure.org/2003,299)
+- 12 U 45/24 (OLG) und VI ZR 67/24 (BGH): beibehalten — fiktive Formatbeispiele im Abschnitt "Aktenzeichen", keine echten Rechtsprechungszitate

@@ -198,7 +198,6 @@ Vor Versand:
 
 ### Leitsaetze zur Substantiierung im grenzueberschreitenden Prozess
 
-- BGH, Urt. v. 26.09.2018 - VII ZR 83/17, NJW 2019, 143 Rn. 27 — Zur Substantiierung einer Kaufpreisklage nach CISG: Klaeger muss konkret darlegen, dass Vertragsschluss nach Art. 23 CISG und Lieferung nach Art. 53 CISG erfolgt sind; pauschaler Verweis auf Geschaftsbeziehung genuegt nicht.
 - BGH, Urt. v. 25.09.2019 - XII ZR 29/18, NJW 2020, 218 Rn. 19 — Internationale Zustandigkeit nach Art. 7 Nr. 1 EuGVVO: Erfulllungsort bestimmt sich nach Art. 5 Rom-I-VO und dem materiellen Vertragsrecht; Klaeger muss Erfulllungsort positiv vortragen und belegen.
 - BGH, Beschl. v. 04.03.2021 - I ZR 69/20, NJW-RR 2021, 1073 — Vollstreckbarerklarung auslaendisches Urteil: Klaeger muss Wirksamkeit des Titels im Ursprungsland und Nichtvorliegen der Anerkennungshindernisse (§ 328 ZPO, Art. 45 EuGVVO) substantiiert darlegen.
 - BVerfG, Beschl. v. 31.07.2014 - 2 BvR 2580/12, NJW 2015, 301 — Rechtliches Gehoer bei Versagung von Beweiserhebung: Gericht darf Beweisantrag auf Zeugenbeweis nur ablehnen, wenn die Tatsache als wahr unterstellt werden kann oder Antrag verspatet ist; strengere Anforderungen im grenzueberschreitenden Verfahren.
@@ -301,3 +300,8 @@ VI. BEWEISANGEBOTE
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ: BGH VII ZR 83/17 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Rechtsprechungs-Werkzeugkasten) entfernt. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->

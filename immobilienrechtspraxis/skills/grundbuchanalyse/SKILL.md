@@ -84,7 +84,6 @@ Objekttabelle und ein einheitliches Risikoschema.
 
 ## Aktuelle Rechtsprechung — Leitsaetze
 
-- BGH, Urt. v. 21.06.2019 — V ZR 9/18, NJW 2019, 2996 Rn. 18: Der oeffentliche Glaube des Grundbuchs nach § 892 BGB schuetzt den gutglaeubigen Erwerber nur bei Eintragung der Rechtsaenderung; Kenntnis der Unrichtigkeit schadet — Due-Diligence-Recherche kann Gutglauben vernichten.
 - BGH, Urt. v. 11.10.2019 — V ZR 348/17, NJW 2020, 537 Rn. 25: Eine nicht eingetragene Baulast begrenzt die Bebaubarkeit und mindert den Verkehrswert; sie stellt einen Sachmangel beim Grundstueckskauf dar, der zum Ruecktritt berechtigt.
 - BGH, Urt. v. 19.07.2019 — V ZR 255/17, NJW 2019, 3575: Stille Zessionen von Grundschulden sind moeglich; Erwerber muss Zessionaer ermitteln, bevor er Loeschungsbewilligung anfordert — nur der aktuelle Inhaber kann loeschen.
 - BGH, Urt. v. 22.03.2024 — V ZR 81/22, NJW 2024, 1876 Rn. 19: Gemeindliches Vorkaufsrecht nach § 24 BauGB entsteht mit Kaufvertragsschluss; Gemeindemitteilung muss innerhalb von zwei Monaten erfolgen; spaetere Ausuebung ist verfristet.
@@ -117,3 +116,9 @@ Objekttabelle und ein einheitliches Risikoschema.
 Der Skill ersetzt nicht die Pruefung durch einen Immobilienjuristen.
 Er liefert Vorstrukturierung und Risiko-Heatmap, damit der Mensch
 seine Zeit dort einsetzt, wo es wirklich brennt.
+
+
+<!-- AUDIT 27.05.2026 — Bundle 033 —
+  BGH V ZR 9/18 (NOT_FOUND) entfernt: Kein Eintrag auf dejure.org für BGH V ZR 9/18 vom 21.06.2019.
+  Kein gesicherter Ersatz verfügbar; Eintrag gelöscht. § 892 BGB bleibt als Normverweis erhalten.
+-->

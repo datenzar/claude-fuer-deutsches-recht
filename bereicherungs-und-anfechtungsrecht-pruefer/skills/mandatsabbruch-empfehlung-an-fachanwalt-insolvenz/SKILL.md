@@ -25,8 +25,6 @@ BGH, Urt. v. 21.02.2013 – IX ZR 52/10, NJW 2013, 1873 — Bei konzerninternen 
 
 BGH, Urt. v. 19.05.2011 – IX ZR 9/10, NJW 2011, 2492 — Bei Grundstücksübertragungen kurz vor Insolvenz sind neben Anfechtungsrecht auch notarielle, grundbuchrechtliche und steuerrechtliche Fragen zu klären; anwaltliche Spezialisierung ist erforderlich.
 
-BGH, Urt. v. 27.04.2010 – XI ZR 338/08, NJW 2010, 2341 — Im Kapitalmarktrecht (prospektpflichtiger Vertrieb, Emissionserlöse) überlagert das spezielle Prospekthaftungsrecht das Bereicherungsrecht; ohne spezialisierten Berater droht Normenauswahl- und Verjährungsfehler.
-
 ## Kommentarliteratur
 
 Kayser in: MüKoInsO, 4. Aufl. 2023, § 129 Rn. 1–20 (Anfechtungsrecht allgemein, Grenzen der Selbsthilfe).
@@ -90,3 +88,11 @@ Sachverhalt (kurz): [...]
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 016 – Halluzinations-Reparatur
+Problem: BGH XI ZR 338/08 – WRONG_TOPIC und falsches Datum (Skill behauptete 27.04.2010, real: 27.10.2009).
+Realthema laut dejure.org: Anlageberatung, Pflicht der Bank zur Prospektprüfung mit banküblichem kritischem Sachverstand, Kick-backs/Innenprovisionen, kein Bereicherungsrecht/Prospekthaftungsüberlagerung wie behauptet (ZIP 2009, 2380; WM 2009, 2306).
+Massnahme: Eintrag vollständig gelöscht (falsches Thema, falsches Datum, falsche NJW-Fundstelle).
+Quelle: https://dejure.org/2009,27
+-->

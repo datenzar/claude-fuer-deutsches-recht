@@ -44,7 +44,7 @@ Die Skill lädt automatisch, wenn der Nutzer Werbetexte, Landingpages, Produktbe
 
 **Vergleichende Werbung und Konkurrentennennung**
 - BGH, Urt. v. 02.04.2015 – I ZR 167/13, GRUR 2015, 1134 (Vergleichende Werbung — Prüfkriterien): Vergleich muss objektiv, nachweisbar, nicht irreführend und nicht verunglimpfend sein. `[verify]`
-- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 431 (Vergleichende Preisangaben): Zeitliche Aktualität des Vergleichs erforderlich. `[verify]`
+- BGH, Urt. v. 11.10.2017 – I ZR 78/16, GRUR 2018, 431 (Tiegelgröße): Irreführende Packungsgestaltung nach § 5 UWG bei unverhältnismäßig großer Verpackung im Verhältnis zur Füllmenge (Mogelpackung); zugleich Marktverhaltensregel i.S.d. § 3a UWG i.V.m. § 43 Abs. 2 MessEG.
 
 **Influencer-Werbung und Kennzeichnungspflicht**
 - BGH, Urt. v. 09.09.2021 – I ZR 90/20, GRUR 2022, 160 (Influencer II): Kommerzielle Postings ohne klare Kennzeichnung als Werbung sind unlauter nach § 5a Abs. 6 UWG (jetzt § 5a Abs. 4 UWG n. F.). `[verify]`
@@ -232,3 +232,8 @@ Jede Norm, Entscheidung oder Behördenaussage im Prüfvermerk muss belegt sein:
 Quellen, die nur aus dem Modellwissen stammen, tragen das Tag `[verify]`. Pinpoint-Zitate (konkrete Randnummern, Seitenzahlen) tragen `[verify-pinpoint]`.
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+
+<!-- AUDIT 27.05.2026 bundle_040
+Geprueft: BGH I ZR 78/16, GRUR 2018, 431 — AZ und Fundstelle korrekt und existent (dejure.org bestaetigt: Urt. v. 11.10.2017). Falsches Topic: 'Vergleichende Preisangaben: zeitliche Aktualitaet' ist nicht der Gegenstand; das Urteil betrifft 'Tiegelgroesse' (irrefuehrende Packungsgestaltung/Moegelpackung, §§ 5, 3a UWG). Beschreibung korrigiert. Status: KORRIGIERT.
+-->

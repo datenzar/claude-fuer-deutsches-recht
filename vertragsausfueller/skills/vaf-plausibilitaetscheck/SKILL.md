@@ -17,7 +17,6 @@ description: "Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querve
 
 - BGH, Urt. v. 10.11.2009 - VIII ZR 318/08, NJW 2010, 337 — Nebenkosten in Mietverträgen: Abrechnungspflicht erfordert korrekte Gesamtbeträge; Rechenfehler in Nebenkostenabrechnung führen zu Unwirksamkeit.
 - BGH, Urt. v. 23.09.2009 - VIII ZR 300/08, NJW 2010, 1 — Fristen für Betriebskostenabrechnung (§ 556 Abs. 3 BGB): Einhaltung der Jahresfrist; verspätete Abrechnung verwirkt Nachforderungsrecht.
-- BGH, Urt. v. 25.07.2012 - VIII ZR 143/11, NJW 2012, 3029 — Kaution: mehr als 3 Monatskaltmieten unzulässig (§ 551 BGB); Plausibilitätsprüfung zwingend.
 - BGH, Urt. v. 19.09.2018 - XII ZR 69/17, NJW 2019, 51 — Schriftformheilung in Gewerbemietvertrag: Nachtragsvereinbarung muss Bezug auf Hauptvertrag enthalten.
 
 ## Zentrale Normen
@@ -64,3 +63,10 @@ Der Skill härtet den Entwurf vor Versand oder Verhandlung. Er arbeitet freisteh
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+---
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 143/11 (behauptetes Thema: Kaution § 551 BGB, NJW 2012 3029) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
+Bundle: bundle_047.json
+-->

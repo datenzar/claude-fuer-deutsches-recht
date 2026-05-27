@@ -129,10 +129,10 @@ Bei Zustimmung: zwei Seiten, DOCX oder Markdown.
 - **§ 280 BGB** Schadensersatz inkl. vorgerichtlicher RA-Kosten.
 
 ### Leitentscheidungen
-- BGH, Urt. v. 22.01.2008 – VIII ZR 6/06, NJW 2008, 1888 — vorgerichtliche RA-Kosten als Verzugsschaden.
+- BGH, Urt. v. 07.11.2007 – VIII ZR 341/06, NJW 2008, 1888 — vorgerichtliche RA-Kosten als Verzugsschaden.
 - BGH, Urt. v. 04.10.2007 – III ZR 180/06, NJW 2008, 50 — Anforderungen an Mahnung.
-- BGH, Urt. v. 25.06.2020 – VII ZR 308/19, NJW 2020, 2884 — Verzugspauschale § 288 Abs. 5 BGB nicht im Arbeitsrecht; Reichweite.
-- BGH, Beschl. v. 23.06.2022 – V ZB 12/22 — Anforderungen elektronische Einreichung § 130a ZPO.
+- BGH, Urt. v. 22.08.2019 – VII ZR 115/18, MDR 2019, 1302 — Verzugspauschale § 288 Abs. 5 BGB; Begriff der Entgeltforderung.
+- BGH, Beschl. v. 19.01.2023 – V ZB 28/22, NJW 2023, 1587 — Anforderungen qualifizierte elektronische Signatur bei Übermittlung über EGVP, § 130a ZPO.
 - BGH, Beschl. v. 31.01.2023 – XI ZB 23/22 — Sorgfaltspflichten bei beA-Übermittlung.
 
 ### Kommentarliteratur (Bearbeiterstil)
@@ -160,3 +160,18 @@ Mindestens zwei BGH-Belege (jüngere zuerst) und zwei Kommentarbelege im Bearbei
 - Nach Rechtskraft des Titels an `zwangsvollstreckung` zur operativen Durchsetzung (`zv-pfueb-bank`,
   `zv-pfueb-arbeitsentgelt`, `zv-vermoegensauskunft-gv`).
 - Wenn der Nutzer beim nächsten Mal nur den Sachverhalt einreichen will: Schwester-Skill `klage-aus-eigenem-skill` mit dem im Schritt 8 erzeugten Plugin verwenden.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweise (27.05.2026)
+
+Drei halluzinierte Rechtsprechungsbelege wurden im Abschnitt "Leitentscheidungen" korrigiert:
+
+| # | Fehlerhaftes AZ | Status | Korrektur |
+|---|---|---|---|
+| 1 | BGH, Beschl. v. 23.06.2022 – V ZB 12/22 | WRONG_TOPIC: Entscheidung existiert (15.06.2023), behandelt aber Grundbuchsache/Ueberbau (NJW 2023, 3090), nicht § 130a ZPO | Ersetzt durch BGH, Beschl. v. 19.01.2023 – V ZB 28/22, NJW 2023, 1587 (Anforderungen qualifizierte elektronische Signatur, § 130a ZPO) |
+| 2 | BGH, Urt. v. 22.01.2008 – VIII ZR 6/06, NJW 2008, 1888 | NOT_FOUND: AZ und Datum existieren nicht auf dejure.org | Ersetzt durch BGH, Urt. v. 07.11.2007 – VIII ZR 341/06, NJW 2008, 1888 (vorgerichtliche RA-Kosten als Verzugsschaden) |
+| 3 | BGH, Urt. v. 25.06.2020 – VII ZR 308/19, NJW 2020, 2884 | NOT_FOUND: AZ existiert nicht; NJW 2020, 2884 = BGH VIII ZR 31/18 (Mietrecht/Minderung, falsches Thema) | Ersetzt durch BGH, Urt. v. 22.08.2019 – VII ZR 115/18, MDR 2019, 1302 (Verzugspauschale § 288 Abs. 5 BGB, Begriff der Entgeltforderung) |
+
+Recherchequelle: dejure.org (Abruf 27.05.2026). Frontmatter unveraendert. Kein Commit.

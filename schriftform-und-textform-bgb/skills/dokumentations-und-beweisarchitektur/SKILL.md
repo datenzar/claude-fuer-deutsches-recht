@@ -23,9 +23,9 @@ description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen bewei
 
 ## Rechtsprechung
 1. BGH, Urt. v. 04.06.2014 – VIII ZR 289/13, NJW 2014, 2480 — Den Erklärenden trifft die Beweislast für den Zugang seiner Willenserklärung; er muss Absendung und Eingang im Machtbereich des Empfängers beweisen.
-2. BGH, Urt. v. 13.05.2020 – VIII ZR 296/18, NJW 2020, 2187 — Bei qualifizierter elektronischer Signatur gilt der Anscheinsbeweis für Identität und Integrität des Dokuments (§ 371a Abs. 1 ZPO); der Gegner muss die Vermütung entkräften.
+<!-- AUDIT 27.05.2026: VIII ZR 296/18 (NOT_FOUND bei dejure.org) geloescht. -->
 3. BGH, Urt. v. 03.07.2008 – III ZR 310/06, NJW 2008, 3066 — Eine Kopie oder ein Fax begründet nur einfache Beweiskraft; für den Urkundenbeweis ist die Vorlage des Originals nach § 420 ZPO erforderlich.
-4. BGH, Urt. v. 18.12.2019 – VIII ZR 332/18, NJW 2020, 1137 — Die rechtzeitige Archivierung und Vorlage formrelevanter Dokumente obliegt dem Anwalt; eine lückenhafte Akte zu Lasten des Mandanten kann einen Haftungsfall begründen.
+<!-- AUDIT 27.05.2026: VIII ZR 332/18 (WRONG_TOPIC: Urteil betrifft Modernisierungsmassnahmen Mietrecht, nicht Anwaltshaftung/Aktenarchivierung) geloescht. -->
 
 ## Kommentarliteratur
 - Zöller/Geimer, ZPO, 35. Aufl. 2024, § 416 Rn. 1 ff. (Beweiskraft privater Urkunden).
@@ -184,3 +184,8 @@ Bitte leiten Sie alle diese Unterlagen zeitnah an unsere Kanzlei weiter.
 - → `prozessablauf-papier-vs-elektronisch`
 - → `elektronische-form-paragraph-126a-bgb-qes`
 - → `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
+
+
+---
+
+<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->

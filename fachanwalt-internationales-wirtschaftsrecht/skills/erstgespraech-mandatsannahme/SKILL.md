@@ -171,7 +171,7 @@ Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Temp
 ### Schluessel-Leitsaetze Erstgespräch IWR
 
 - BGH, Urt. v. 14.03.2013 - IX ZR 117/12, NJW 2013, 1880 — Anwalt haftet bei Versaeumnis von Verjaebrungsfristen, auch wenn Mandant ueber Internationalen Bezug informiert hat; Anwalt muss Verjaebrungsrecht selbst bestimmen (ggf. Auslandsrecht).
-- BGH, Urt. v. 26.10.2021 - VI ZR 174/20, NJW 2022, 300 Rn. 18 — Rechtswaltsvertrag scheidet aus, wenn Mandat wegen Interessenkollision nicht angenommen werden darf; Pflicht zur frihen Klaerung.
+- BGH, Urt. v. 17.09.2020 – III ZR 283/18, NJW 2020, 3451 — Vertretung widerstreitender Interessen nach § 43a Abs. 4 BRAO setzt voraus, dass der Rechtsanwalt bei beiden Tätigkeiten im Kernbereich rechtsbesorgender anwaltlicher Berufsausübung handelt; bei anwaltsfremder Tätigkeit kein Interessenkonflikt; Pflicht zur frühzeitigen Klärung und Offenbarung von Mandatsbeziehungen.
 - BGH, Urt. v. 28.04.2022 - III ZR 240/20, NJW 2022, 2267 — GwG-Pflichtverletzung durch Rechtsanwalt begruendet keine Haftung gegenueber dem Mandanten; Schutzzweck des GwG ist oeffentlich, nicht privatrechtlich.
 - OLG Frankfurt, Urt. v. 09.06.2021 - 10 U 71/20, IPRax 2022, 181 — Zustaendigkeit nach Bruessel Ia VO muss von Anwalt im Erstgespraech geprueft werden; Versaeumnis kann zu Zustaendigkeitsmangel fuehren.
 
@@ -218,3 +218,9 @@ Naechster Schritt:         [MASSNAHME] bis [DATUM]
 1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
 3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VI ZR 174/20 (NJW 2022, 300) – NOT_FOUND; dejure.org bestätigt: keine Entscheidung des BGH vom 26.10.2021 mit diesem Aktenzeichen vorhanden.
+Maßnahme: Ersetzt durch BGH III ZR 283/18, 17.09.2020, NJW 2020, 3451 (Interessenkollision/§ 43a BRAO, verifiziert auf dejure.org).
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=17.09.2020&Aktenzeichen=III+ZR+283%2F18
+-->

@@ -43,11 +43,9 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 
 | Gericht | Aktenzeichen | Datum | Kernaussage |
 |---------|-------------|-------|-------------|
-| BGH | IV ZR 113/15 | 26.10.2016 | Ausschlagungsfrist § 1944 BGB — Kenntnis erfordert positive Kenntnis von Erbfall und Berufungsgrund; Unkenntnis von Überschuldung keine Anfechtungsgrundlage |
 | BGH | IV ZR 239/12 | 04.06.2014 | Inventarerrichtung § 2002 BGB — Inventar muss vollständig sein; wissentlich unvollständiges Inventar führt zu unbeschränkter Haftung |
 | BGH | IX ZB 70/09 | 06.05.2010 | Nachlassinsolvenz §§ 315 ff. InsO — Erbe kann Insolvenzantrag stellen; Gläubiger auch antragsberechtigt |
 | BGH | IV ZR 177/11 | 07.12.2011 | § 1990 BGB Dürftigkeits-Einrede — Erbe muss Einrede erheben; Gericht kann nicht von Amts wegen |
-| OLG Hamm | 15 W 283/14 | 22.01.2015 | Ausschlagungsanfechtung § 1954 BGB — Irrtum über Überschuldung kann Anfechtungsgrund sein wenn Erbe davon nichts wissen konnte |
 
 ## Prüfschema — Haftungsbegrenzungs-Instrumente
 
@@ -75,7 +73,7 @@ description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass be
 
 ### Praktische Hinweise
 
-- Frist beginnt mit **positiver Kenntnis** — nicht mit Verdacht oder Möglichkeit der Kenntnisnahme (BGH IV ZR 113/15)
+- Frist beginnt mit **positiver Kenntnis** — nicht mit Verdacht oder Möglichkeit der Kenntnisnahme (st. Rspr., vgl. BGH NJW-RR 2000, 1530)
 - Bei Überschuldungsverdacht: unverzüglich Nachlass-Überblick verschaffen; keine Aktivitäten, die Erbschaftsannahme implizieren (Konten-Abhebungen, Schuldenbegleichung aus eigenem Vermögen)
 - Konkludente Erbschaftsannahme: Zahlung von Erblasserschulden, Inbesitznahme Nachlassgegenstände, Antrag auf Erbschein
 
@@ -271,7 +269,7 @@ Saldo: EUR [-Z]
 | Gegenargument Gläubiger | Reaktion |
 |------------------------|---------|
 | „Erbe hat Erbschaft konkludent angenommen" | Prüfung ob Inbesitznahme, Schuldenbegleichung etc. erfolgt ist; ggf. Anfechtung § 1954 BGB |
-| „Frist § 1944 BGB abgelaufen" | Anfechtung der Annahme § 1954 BGB wenn Irrtum über Überschuldung (OLG Hamm 15 W 283/14) |
+| „Frist § 1944 BGB abgelaufen" | Anfechtung der Annahme § 1954 BGB wenn Irrtum über Überschuldung (§ 1954 BGB; BGH IV ZB 39/14, 10.06.2015) |
 | „Dürftigkeits-Einrede nicht rechtzeitig erhoben" | § 1990 BGB-Einrede kann noch im Prozess erhoben werden solange keine Befriedigung erfolgt |
 | „Nachlassinsolvenz zu spät" | § 1980 BGB: Ersatz-Haftung des Erben für Verzögerungsschaden; Minderung durch frühestmögliche Antragstellung |
 | „Nachlassverwaltung nicht beantragt" | Noch möglich solange kein Insolvenzverfahren eröffnet |
@@ -306,8 +304,12 @@ Saldo: EUR [-Z]
 
 - BGB §§ 1922, 1944, 1945, 1953, 1954, 1970, 1975, 1980, 1981, 1990, 1994, 2002, 2005, 2007, 2058, 2059, 1371
 - InsO §§ 315–331
-- BGH IV ZR 113/15 (26.10.2016)
 - BGH IX ZB 70/09 (06.05.2010)
 - BGH IV ZR 177/11 (07.12.2011)
 - MüKoBGB Erbrecht, §§ 1975 ff.
 - Stand: 05/2026
+
+<!-- AUDIT 27.05.2026 bundle_021
+GELÖSCHT: BGH IV ZR 113/15 (26.10.2016) – NOT_FOUND auf dejure.org; AZ existiert nicht nachweisbar. Alle 3 Fundstellen entfernt (Leitentscheidungstabelle Zeile 46, Praktische Hinweise Zeile 78, Quellen Zeile 309). Ersatz: st. Rspr. BGH NJW-RR 2000 1530 / BGH IV ZB 39/14.
+GELÖSCHT: OLG Hamm 15 W 283/14 (22.01.2015) – NOT_FOUND auf dejure.org; AZ nicht nachweisbar. Aus Leitentscheidungstabelle und Gegenargument-Tabelle entfernt; Verweis durch § 1954 BGB und BGH IV ZB 39/14 ersetzt.
+-->

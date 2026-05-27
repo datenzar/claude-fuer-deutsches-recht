@@ -94,7 +94,6 @@ Hat ein anderes Unternehmen etwas Ähnliches gemacht? Was passierte?
 - *BGH, Urt. v. 24.07.2014 – I ZR 161/13 – „Kolumbus"* [Modellwissen – prüfen]: Irreführende Rabattwerbung ohne tatsächliche Preissenkung
 - *OLG München, Urt. v. 08.04.2021 – 29 U 2091/20*: Cookie-Banner-Anforderungen
 - *LG Berlin, Urt. v. 26.11.2020 – 16 O 341/15 – „Airbnb"*: AGB-Kontrolle, Transparenzgebot
-- *BGH, Urt. v. 14.03.2017 – VI ZR 721/15 – Nutzerdaten*: Datenhaftung bei Plattformen
 
 Vorrang nicht überschätzen. Regulierungsbehörden ändern Prioritäten; dass ein Unternehmen damit durchgekommen ist bedeutet nicht dass das nächste es auch tut.
 
@@ -224,3 +223,11 @@ Wenn die Bewertung Fälle, Normen, Verordnungen oder Vollzugsmaßnahmen zitiert 
 - **Regulierungslandschaft ohne Forschung.** Keine Regulierungslandschaft aus Modellwissen ohne Quellenprüfung erstellen. Behörden-Positionen ändern sich.
 - **DSGVO-Vollzugsfristen.** Meldepflicht Datenpanne nach Art. 33 DSGVO: 72 Stunden an zuständige Behörde. Diese Frist ist absolute Grenze.
 - **Beweislast UWG.** Bei § 5 UWG: der Unternehmer muss die Richtigkeit einer Werbeaussage nachweisen, nicht der Verbraucher deren Unrichtigkeit (§ 5 Abs. 4 UWG für nachprüfbare Tatsachen).
+
+---
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VI ZR 721/15 ("Nutzerdaten") – Zitatfehler (WRONG_TOPIC). Das Urteil behandelt unzulässige E-Mail-Werbung / § 7 UWG, nicht Datenhaftung bei Plattform-Nutzerdaten (dejure.org/2017,9951). Eintrag ersatzlos gelöscht.
+Quelle   : https://dejure.org/2017,9951
+Aktion   : Zeile entfernt
+-->

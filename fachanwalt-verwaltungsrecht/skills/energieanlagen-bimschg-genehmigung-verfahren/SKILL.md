@@ -44,7 +44,7 @@ Energieanlagen (Wind, Biogas, Wasserstoff, größere Solarthermie, KWK, Geotherm
 | BVerwG 4 C 3.10 | 4 C 3.10 | 08.01.2014 | Windkraft BImSchG-Genehmigung: artenschutzrechtliche Prüfung; Methoden saP; signifikante Erhöhung Tötungsrisiko Rotmilan |
 | BVerwG 4 A 5.12 | 4 A 5.12 | 17.12.2013 | UVP-Prüfung Energieprojekt: Alternativenprüfung und Abwägung; BVerwG prüft Methodenfehler |
 | BVerwG 7 C 11.17 | 7 C 11.17 | 21.11.2018 | TA-Lärm-Werte als Tatbestandsmerkmale des § 5 BImSchG; drittschützende Wirkung |
-| OVG NRW 8 A 926/14 | 8 A 926/14 | 12.06.2014 | Schattenwurf-Auflagen; Abschaltautomatik als verhältnismäßige Nebenbestimmung |
+
 | EuGH C-411/17 | C-411/17 | 29.07.2019 | UVP-Richtlinie 2011/92: Nachholung der UVP-Prüfung bei Verfahrensfehlern; kein Automatismus |
 | BVerfG 1 BvR 2656/18 | 1 BvR 2656/18 | 24.03.2021 | Klimaschutzpflicht; Ausstrahlungswirkung auf Genehmigungsverfahren fossiler Vorhaben |
 | BVerwG 4 C 1.19 | 4 C 1.19 | 14.03.2023 | Windenergie-Repowering: Nichtanwendbarkeit alter Abstandsregelungen; Beschleunigung |
@@ -320,3 +320,9 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 - BVerwG 4 C 3.10 (saP Rotmilan), 4 A 5.12 (UVP), 4 C 1.19 (Repowering)
 - OVG Lüneburg 12 LA 73/20 (saP Fledermäuse)
 - EuGH C-411/17 (UVP-Nachholung)
+
+---
+
+<!-- AUDIT 27.05.2026 — Bundle 027 Halluzinations-Reparatur
+AZ geprüft: OVG NRW 8 A 926/14 (WRONG_TOPIC — tatsächliches AZ laut Bundle wäre 8 A 926/16 (Jahresdiskrepanz); beide Varianten auf dejure.org nicht auffindbar): Eintrag aus Leitentscheidungen-Tabelle gelöscht. Kein Ersatz gefunden. Schattenwurf-Rechtsprechung wird weiterhin durch OVG-Rechtsprechung in den Urteilen 7 D 211/23.AK und 7 D 214/23.AK (2025) abgedeckt, die in dieser Skill-Datei nicht einzeln benannt sind. Frontmatter unverändert.
+-->

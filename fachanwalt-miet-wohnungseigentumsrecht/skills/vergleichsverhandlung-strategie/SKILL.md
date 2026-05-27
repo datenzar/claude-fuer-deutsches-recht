@@ -158,7 +158,6 @@ Klassische Stolperfalle in Wohnraum-, Gewerberaum- und WEG-Recht:
 
 ## Aktuelle Rechtsprechung Vergleichsverhandlung Miet-/WEG-Recht
 
-- BGH, Urt. v. 14.06.2017 - VIII ZR 294/15, NJW 2017, 2679 Rn. 22 — Ein außergerichtlicher Räumungsvergleich muss die betroffene Wohnung eindeutig bezeichnen; eine fehlerhafte oder fehlende Identifikation der Mietsache macht den Vergleich vollstreckungsrechtlich unverwertbar.
 - BGH, Urt. v. 20.01.2010 - VIII ZR 50/09, NJW 2010, 751 Rn. 15 — Die Abgeltungsklausel im Mietaufhebungsvertrag erfasst im Zweifel nicht Schäden, die erst nach dem Vergleichsabschluss sichtbar werden; Schönheitsreparatur-Ansprüche müssen ausdrücklich einbezogen werden.
 - BGH, Urt. v. 16.02.2018 - V ZR 148/17, NJW 2018, 1816 Rn. 19 — Im WEG-Recht kann ein Vergleich zwischen einzelnen Wohnungseigentümern nur wirken, wenn er nicht die Rechte anderer Eigentümer berührt; Beschlussmängel lassen sich durch Privatvergleich nicht heilen.
 
@@ -212,3 +211,9 @@ bei Übergabe noch nicht erkennbar waren.
 
 [UNTERSCHRIFTEN MIT DATUM]
 ```
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 294/15 entfernt: Aktenzeichen nicht auf dejure.org auffindbar;
+kein Ersatz gefunden (claimed topic: Raeumungsvergleich Wohnung eindeutig bezeichnen).
+Loesung: Eintrag geloescht.
+-->

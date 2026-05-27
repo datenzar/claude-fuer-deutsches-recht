@@ -28,7 +28,6 @@ Dieser Skill extrahiert alle Stammdaten eines Gerichtsverfahrens aus der vorgele
 
 - BGH, Beschl. v. 05.09.2019 - III ZB 55/18, NJW 2019, 3142 — Zur Parteibezeichnung in der Klageschrift: Falschbezeichnung eines Klägers schadet nicht wenn Identität aus Gesamtkontext zweifelsfrei erkennbar (falsa demonstratio non nocet).
 - BGH, Urt. v. 14.11.2017 - XI ZR 547/15, NJW 2018, 459 — Zur Partei- und Prozessfähigkeit juristischer Personen: Vertretung durch organ muss aus der Klageschrift hervorgehen; fehlende Angabe kann geheilt werden.
-- BGH, Beschl. v. 20.02.2018 - VIII ZB 66/17, NJW 2018, 1698 — Streitwertfestsetzung nach §§ 3 ff. ZPO: Gericht hat bei Schätzung weiten Ermessensspielraum; Beschwerderecht der Parteien nach § 68 GKG.
 - BGH, Urt. v. 19.01.2017 - I ZR 255/14, NJW 2017, 1689 — Zur Nebenintervention nach § 66 ZPO: Streithelfer kann nur Behauptungen und Anträge der unterstützten Hauptpartei vorbringen; eigene Ansprüche sind unzulässig.
 
 ## Kommentarliteratur
@@ -108,3 +107,7 @@ Für jede Partei:
 - Bei mehreren Klägern oder Beklagten wird jede Person separat aufgeführt.
 - Streithelfer werden gesondert unter der Hauptparteitabelle gelistet.
 - Keine Bewertung der Parteibezeichnung (z. B. ob Kläger wirklich klagebefugt ist).
+
+---
+
+> **Audit-Hinweis (27.05.2026):** Halluziniertes Zitat gelöscht. BGH VIII ZB 66/17 (behauptet: 20.02.2018, NJW 2018, 1698, Streitwertfestsetzung §§ 3 ff. ZPO) war auf dejure.org nicht auffindbar (Status: NOT_FOUND). Kein verifiziertes BGH VIII ZB 66/17 an irgendeinem Datum gefunden. Eintrag ersatzlos entfernt.

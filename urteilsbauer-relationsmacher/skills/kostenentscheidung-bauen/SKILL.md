@@ -17,8 +17,6 @@ description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Ko
 
 - BGH, Beschl. v. 19.05.2004 - IV ZB 25/03, NJW 2004, 2309 — § 92 Abs. 1 ZPO: Quotelung setzt voraus, dass die anteiligen Erfolge der Parteien erheblich voneinander abweichen; bei geringfügigem Unterliegen § 92 Abs. 2 ZPO.
 - BGH, Beschl. v. 07.10.2009 - XII ZB 48/08, NJW 2010, 536 — Gesamtschuldnerhaftung nach § 100 Abs. 4 ZPO erfordert, dass alle Streitgenossen für denselben Streitgegenstand verurteilt werden.
-- BGH, Beschl. v. 13.06.2019 - V ZB 236/17, NJW 2019, 3234 — § 93 ZPO: Kein Anlass zur Klage, wenn Schuldner sofort nach Klageerhebung anerkennt und vor Zustellung noch keine Mahnung vorlag.
-- BGH, Beschl. v. 17.03.2020 - VIII ZB 53/18, NJW 2020, 1811 — Streitwert bestimmt Kostentragung; Gericht muss Streitwertbeschluss mit der Kostenentscheidung koordinieren.
 
 ## Zentrale Normen
 
@@ -87,3 +85,8 @@ Dies ergibt eine Obsiegensquote von [X] Prozent.
 ## Streitwert
 
 Streitwertbeschluss separat oder im Tenor. Pflicht zur Begründung bei Abweichung vom Klagantrag.
+
+<!-- AUDIT 27.05.2026
+BGH V ZB 236/17 (WRONG_TOPIC): Urteil vom 23.05.2019 betrifft Abschiebungshaft/Sicherungshaft nach AufenthG — kein Bezug zu § 93 ZPO oder Kostenrecht. Zeile entfernt.
+BGH VIII ZB 53/18 (NOT_FOUND): Aktenzeichen existiert auf dejure.org nicht unter dem angegebenen Datum 17.03.2020. Zeile entfernt.
+-->

@@ -18,7 +18,7 @@ description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber d
 - BGH, Beschl. v. 22.10.2015 - I ZB 70/14, NJW 2016, 466 — § 802l ZPO: Drittauskünfte sind subsidiär gegenüber der Vermögensauskunft; aber bei unbekanntem Aufenthalt sofort zulässig.
 - BGH, Beschl. v. 26.01.2017 - I ZB 38/16, NJW 2017, 1540 — § 802l ZPO: Gläubiger kann alle drei Auskunftsquellen gleichzeitig beantragen; Reihenfolge steht in seinem Ermessen.
 - BGH, Beschl. v. 20.04.2017 - I ZB 88/16, NJW 2017, 1897 — Kontenabruf über BZSt auch nach bereits erfolgter Vermögensauskunft zulässig, wenn neue Erkenntnisse erwartet werden.
-- BGH, Beschl. v. 15.07.2021 - VII ZB 14/20, NJW 2021, 3046 — § 802c ZPO: Schuldner muss in der Vermögensauskunft alle Konten und Forderungen vollständig angeben; Verschweigen kann Strafverfolgung auslösen.
+- BGH, Beschl. v. 22.01.2015 - I ZB 77/14, NJW 2015, 2509 — § 802l ZPO: Drittauskünfte nach einer für die Vollstreckung unergiebigen Vermögensauskunft können auch dann eingeholt werden, wenn keine Anhaltspunkte für die Unrichtigkeit oder Unvollständigkeit der Vermögensauskunft vorliegen.
 
 ## Zentrale Normen
 
@@ -99,6 +99,12 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 - Niemals BZSt-Kontenabruf ohne erfolglose Vermögensauskunft oder unbekannten Aufenthalt.
 - Daten sind sensibel – Datenschutz beachten, Auskunft nur für konkrete Vollstreckung.
 - Doppelte Abfragen vermeiden (Kostenfalle).
+
+<!-- AUDIT 27.05.2026
+Problem : BGH VII ZB 14/20 vom 15.07.2021, NJW 2021, 3046 – Beschluss auf dejure.org nicht auffindbar (NOT_FOUND). Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=15.07.2021&Aktenzeichen=VII+ZB+14%2F20
+Ersatz   : BGH, Beschl. v. 22.01.2015 – I ZB 77/14, NJW 2015, 2509 (§ 802l ZPO, Drittauskünfte). Verifiziert: https://dejure.org/2015,17779
+Aktion   : Zeile ersetzt
+-->
 
 ## Querverweise
 

@@ -58,7 +58,7 @@ Massgeblich: alle Entlassungen **innerhalb von 30 Tagen**; auch Aufhebungsvertra
 | EuGH | C-422/14 (Pujante Rivera) | 11.11.2015 | Aufhebungsvertraege auf AG-Veranlassung zaehlen zum Schwellenwert; Freiwilligkeit des AN ist irrelevant |
 | EuGH | C-134/22 | 13.07.2023 | Konsultationspflicht umfasst auch Massnahmen zur Vermeidung; AG muss Auskunft ueber alle relevanten Informationen erteilen |
 | BAG | 6 AZR 948/08 | 22.04.2010 | Verstoss gegen § 17 KSchG-Anzeigepflicht fuehrt zur Unwirksamkeit der Kuendigungen; Heilung nicht moeglich |
-| BAG | 2 AZR 865/16 | 21.09.2017 | Konsultationsverfahren: Betriebsrat muss rechtzeitig und vollstaendig informiert werden; formale Stellungnahme oder Protokoll-Vermerk als Nachweis |
+| BAG | 2 AZR 276/16 | 22.09.2016 | Konsultationsverfahren: Unterrichtungspflicht und Konsultationspflicht stehen selbstaendig nebeneinander; Massenentlassungsanzeige unwirksam wenn Betriebsrat irreführend über Stand der Beratungen informiert wird (BAGE 157 1) |
 | BAG | 6 AZR 281/21 | 19.05.2022 | Interessenausgleich mit Namensliste nach § 1 Abs. 5 KSchG bei Massenentlassung: Darlegungslast des AG bei abgekuerzter Pruefung |
 | BAG | 2 AZR 155/22 | 13.04.2023 | Sozialplan-Dotierung: Einigungsstelle darf wirtschaftliche Belastungsgrenze des AG beruecksichtigen; ueberhoeher Sozialplan kann auf Null reduziert werden |
 
@@ -69,7 +69,7 @@ Massgeblich: alle Entlassungen **innerhalb von 30 Tagen**; auch Aufhebungsvertra
 | 1 | Schwellenwert erreicht? (Betriebsgroesse x Entlassungszahl) | § 17 Abs. 1 KSchG | Kein Anzeigeverfahren noetig |
 | 2 | Aufhebungsvertraege einbezogen? | EuGH C-422/14 | Falschberechnung = Unwirksamkeit |
 | 3 | Konsultation BR vollstaendig und rechtzeitig? | § 17 Abs. 2 KSchG | Anzeige und Kuendigungen unwirksam |
-| 4 | Konsultationsdauer mindestens 2 Wochen? | BAG 2 AZR 865/16 | Zu kurze Konsultation = Fehler |
+| 4 | Konsultationsdauer mindestens 2 Wochen? | BAG 2 AZR 276/16 | Zu kurze Konsultation = Fehler |
 | 5 | Anzeige schriftlich bei zustaendiger BA? | § 17 Abs. 3 KSchG | Fehlende Anzeige = Unwirksamkeit |
 | 6 | BR-Stellungnahme der Anzeige beigefuegt? | § 17 Abs. 3 S. 2 KSchG | Anzeige unvollstaendig |
 | 7 | Kuendigungen erst nach Anzeigeneingang ausgesprochen? | EuGH C-188/03 | Alle Kuendigungen unwirksam |
@@ -350,6 +350,10 @@ Anhaltspunkte fuer eine hohe Abfindung sind vorhanden.
 - RL 98/59/EG (EU-Massenentlassungs-RL); RL 2002/14/EG
 - EuGH C-188/03 (27.01.2005); EuGH C-12/08 (16.07.2009)
 - EuGH C-422/14 (11.11.2015); EuGH C-134/22 (13.07.2023)
-- BAG 6 AZR 948/08 (22.04.2010); BAG 2 AZR 865/16 (21.09.2017)
+- BAG 6 AZR 948/08 (22.04.2010); BAG 2 AZR 276/16 (22.09.2016)
 - BAG 6 AZR 281/21 (19.05.2022); BAG 2 AZR 155/22 (13.04.2023)
 - APS/Moll KSchG § 17; Fitting BetrVG §§ 112, 113; ErfK/Kiel KSchG § 17
+
+<!-- AUDIT 27.05.2026
+BAG 2 AZR 865/16 (WRONG_TOPIC): Echtes Thema laut dejure.org (https://dejure.org/2017,35401) ist ordentliche Kündigung GmbH-Geschäftsführer § 14 Abs. 1 Nr. 1 KSchG Organstellung (NZA 2018 358) – kein Bezug zu Massenentlassung oder Konsultationsverfahren. Ersetzt durch BAG 2 AZR 276/16 (22.09.2016, BAGE 157 1, NZA 2017 395): Konsultationsverfahren Massenentlassung; Unterrichtungs- und Konsultationspflicht nach § 17 Abs. 2 KSchG stehen selbständig nebeneinander; bereits im Skill als Sekundärquelle etabliert. Alle drei Fundstellen aktualisiert.
+-->

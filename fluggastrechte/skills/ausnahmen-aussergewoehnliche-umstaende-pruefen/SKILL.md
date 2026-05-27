@@ -33,7 +33,7 @@ EuGH C-294/10 (Eglitis Ratnieks) und folgende: Auch wenn ein außergewöhnlicher
 | Vogelschlag (Bird Strike) | EuGH, Urt. v. 04.05.2017 — C-315/15 (Pesokova) |
 | Treibstoff Kerosin auf der Landebahn | EuGH, Urt. v. 26.06.2019 — C-159/18 (Moens) |
 | Fluchtversuche Passagiere mit Behinderung des Bordbetriebs | je Einzelfall |
-| Sabotage an der Maschine durch Dritte | EuGH C-501/17 |
+| Schraube / Fremdkoerper auf Landebahn (Reifenschaden) | EuGH, Urt. v. 04.04.2019 — C-501/17 (Germanwings) |
 | Krieg Embargo Luftraumsperrung | EuGH ständig |
 
 ### Nein regelmäßig keine außergewöhnlichen Umstände
@@ -93,3 +93,9 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
   - Pinpoint-Zitate EuGH-Rechtsprechung
   - Ergebnis (Anspruch erhalten / Anspruch entfaellt / weitere Sachverhaltsaufklärung noetig)
 - Hinweis: Bei strittiger Beweisfrage ist die Beweislast der Airline ein wichtiger Hebel.
+
+---
+<!-- AUDIT 27.05.2026 bundle_004 -->
+**Halluzinations-Audit 27.05.2026**
+- C-501/17 (Germanwings): Tabellenzeile korrigiert. Behauptetes Thema "Sabotage an der Maschine durch Dritte" war falsch; tatsaechliches Thema ist Reifenschaden durch Fremdkoerper (Schraube) auf der Landebahn als aussergewoehnlicher Umstand (verifiziert via dejure.org, EuGH Urt. v. 04.04.2019).
+- C-509/11 (OeBB-Personenverkehr): Im Skill-Text nicht auffindbar; kein Edit erforderlich. Hinweis: C-509/11 betrifft Eisenbahnpassagierrechte (VO 1371/2007), nicht Fluggastrechte VO 261/2004, und waere thematisch unzulaessig.

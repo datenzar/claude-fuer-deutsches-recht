@@ -22,7 +22,6 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - BAG 15.5.2012 — 3 AZR 11/10 (Hinterbliebenenversorgung — Ausschlussklauseln)
 - BAG 19.7.2016 — 3 AZR 134/15 (Widerrufsvorbehalte in Einzelzusagen)
 - BAG 10.11.2015 — 3 AZR 576/14 (Ablösung BV durch neue BV)
-- EuGH C-168/18 (Bauer/Willmeroth) — Unverfallbarkeit als Grundrecht
 - AGG §§ 1–26 (Diskriminierungsverbote — Geschlecht/Alter in Versorgungsregelungen)
 - BAG 21.01.2020 — 3 AZR 349/18 (Widerrufsvorbehalt in Versorgungsordnung: Widerruf nur bei sachlichem Grund zulässig; pauschaler Widerruf ohne Angabe von Gründen unwirksam; § 315 BGB und § 307 BGB (AGB) anwendbar)
 - BAG 23.02.2021 — 3 AZR 411/19 (Spätehenklausel: zeitliche Grenze für Eheschließung (z.B. vor dem 60. Lebensjahr) in VO unzulässig als mittelbare Altersdiskriminierung; sachliche Rechtfertigung reicht für zeitliche Schranken allein nicht)
@@ -306,3 +305,8 @@ Unternehmens vorbehalten.
 - → `governance-und-anpassungsmechanismen` — Pension Committee, Trustee
 - → `drei-stufen-theorie-eingriffsanalyse` — bei Änderungen der VO
 - → `mitbestimmung-betriebsrat-einigungsstelle-bav` — Mitbestimmungsrechte bei BV-Änderungen
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 014:
+- EuGH C-168/18 (Bauer/Willmeroth) — "Unverfallbarkeit als Grundrecht" entfernt: C-168/18 betrifft PSV/Pensionskasse (Urt. 19.12.2019), nicht Unverfallbarkeit. "Bauer/Willmeroth" = C-569/16 + C-570/16 (Urlaubsabgeltung). "Unverfallbarkeit als Grundrecht" ist kein verifizierbarer EuGH-Leitsatz für eine der genannten Rechtssachen. Doppelt falsches AZ und falsches Thema; kein Ersatz verifizierbar. Eintrag gelöscht.
+-->

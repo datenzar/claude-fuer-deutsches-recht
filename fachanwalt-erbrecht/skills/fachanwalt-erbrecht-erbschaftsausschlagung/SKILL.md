@@ -157,3 +157,7 @@ Beratung bei Frage „Erbe annehmen oder ausschlagen" — Frist, Form, Strategie
 - `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` — bei Pflichtteilsfrage
 - `fachanwalt-erbrecht-testamentsvollstreckung` — bei TV
 - `fachanwalt-erbrecht-testamentsentwurf` — bei Nachfolge-Planung
+
+<!-- AUDIT 27.05.2026 bundle_021
+Prüfung: BGH IV ZR 113/15 – AZ in dieser Datei nicht vorhanden; kein Handlungsbedarf. Alle 4 enthaltenen BGH-Entscheidungen (IV ZR 134/06, IV ZB 11/17, IV ZR 7/10, IV ZB 8/19) auf dejure.org verifiziert und thematisch korrekt.
+-->

@@ -79,10 +79,9 @@ Das Modell benötigt:
 
 ## Aktuelle Rechtsprechung & Leitsätze
 
-- BGH, Urt. v. 07.04.2022 — I ZR 143/21, NJW 2022, 2200 — 30-Tage-Niedrigstpreisregel § 11 PAngV 2022; Referenz-Tiefstpreis muss tatsaechlich der niedrigste Preis der letzten 30 Tage sein; manipulative Preiserhöhung vor Sale-Beginn unlauter
 - OLG Frankfurt, Urt. v. 18.05.2023 — 6 U 1/23, WRP 2023, 890 — Streichpreis muss dem tatsaechlichen Preis der letzten 30 Tage entsprechen; fiktiver Referenzpreis ist Irrefuehrung nach § 5 UWG; Busgeld und Abmahnrisiko hoch
 - EuGH, Urt. v. 26.10.2023 — C-144/23 (Lidl), NJW 2024, 50 — Art. 6a RL 98/6/EG (Omnibus-Richtlinie); nationaler Spielraum bei Produkten ohne 30-Tage-Preishistorie begrenzt; Mitgliedstaaten koennen ergaenzende Regeln erlassen, duerfen Schutzstandard aber nicht unterschreiten
-- BGH, Urt. v. 09.07.2020 — I ZR 163/19, NJW 2020, 2958 — Grundpreisangabe § 4 PAngV; fehlende Grundpreisangabe bei verpflichteten Produkten ist Wettbewerbsverstoss; Angemessenheit der Schriftgroesse nach PAngV muss die Angabe deutlich sichtbar machen
+- BGH, Urt. v. 19.05.2022 — I ZR 69/21, GRUR 2022, 1163 — Grundpreisangabe im Internet; Grundpreis muss in unmittelbarer Naehe des Gesamtpreises stehen und zusammen mit diesem auf einen Blick wahrnehmbar sein; gilt auch unter § 4 Abs. 1 PAngV n.F.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -125,3 +124,18 @@ Das Modell benötigt:
 ## Quellenpflicht
 
 Alle Aussagen sind nach `references/zitierweise.md` zu belegen. Mindestens zwei Rspr.-Belege im BGH-Stil (EuGH C-330/23; BGH GRUR 2023, 162) und zwei Kommentarbelege im Bearbeiter-Stil. Bei Fragen zur PAngV 2022, die noch keine gefestigte höchstrichterliche Rspr. haben, ausdrücklich kennzeichnen und auf Kommentarliteratur und EuGH-Rspr. zu Art. 6a Preisangaben-RL verweisen.
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur task_198 (3 Probleme):
+1. BGH I ZR 143/21 (Zeile 82 alt): geloescht. AZ auf dejure.org nicht auffindbar;
+   das real existierende BGH I ZR 143/19 (07.04.2022, Knuspermuesli II) betrifft
+   Naehrwertdeklaration/LMIV, nicht PAngV/Streichpreise — kein passender Ersatz.
+2. BGH I ZR 163/19 (Zeile 85 alt): ersetzt durch BGH I ZR 69/21 (19.05.2022,
+   Grundpreisangabe im Internet, GRUR 2022, 1163). I ZR 163/19 nicht auf
+   dejure.org auffindbar; I ZR 69/21 ist die einschlaegige BGH-Leitentscheidung
+   zur Grundpreisangabe gem. § 4 PAngV, verifiziert via dejure.org.
+3. BGH I ZR 203/19 (GRUR 2021, 1047 Rn. 18): Im SKILL.md-Text nicht als
+   explizites AZ-Zitat vorhanden; AZ existiert (BGH 25.03.2021), betrifft aber
+   Nutzungsentgelt fuer bargeldlose Zahlungen (§ 270a BGB) — falsches Thema;
+   kein Handlungsbedarf im Text, da AZ dort nicht vorkommt.
+-->

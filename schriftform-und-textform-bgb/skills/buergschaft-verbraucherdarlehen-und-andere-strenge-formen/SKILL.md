@@ -24,8 +24,6 @@ description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und f
 1. BGH, Urt. v. 29.01.2015 – IX ZR 279/13, NJW 2015, 1367 — Die Schriftform des § 766 BGB erfordert die Originalunterschrift des Bürgen auf der Urkunde; ein Telefax-Bürgschaftsbrief ohne Originalunterschrift genügt nicht.
 2. BGH, Urt. v. 14.10.2003 – XI ZR 121/02, NJW 2004, 161 — Die Heilung der formwidrigen Bürgschaft nach § 766 S. 3 BGB setzt voraus, dass der Bürge die Hauptschuld vollständig erfüllt; eine Teilleistung genügt nicht.
 3. BGH, Urt. v. 04.12.2007 – XI ZR 227/06, NJW 2008, 644 — Beim Verbraucherdarlehen führen fehlende Pflichtangaben nach § 492 Abs. 2 BGB nicht zur Gesamtnichtigkeit, sondern zu den Rechtsfolgen des § 494 BGB (Zinsanpassung auf gesetzlichen Satz).
-4. BGH, Urt. v. 07.03.2013 – IX ZR 224/12, NJW 2013, 2345 — Die Kaufmannseigenschaft des Bürgen nach § 350 HGB bestimmt sich nach dem Zeitpunkt der Abgabe der Bürgschaftserklärung; ein späterer Kaufmannsstatus heilt keinen Formfehler rückwirkend.
-
 ## Kommentarliteratur
 - Grüneberg, BGB, 83. Aufl. 2024, § 766 Rn. 1 ff. (Bürgschaftsform und Heilung).
 - Palandt/Weidenkaff, BGB, 82. Aufl. 2023, § 492 Rn. 1 ff. (Verbraucherdarlehen).
@@ -160,3 +158,10 @@ den vorbereiteten Urkundentext zu.
 - → `notarielle-beurkundung-und-oeffentliche-beglaubigung`
 - → `verteidigungsstrategie-bei-formangriff` (Heilung, § 242 BGB)
 - → `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
+
+---
+
+<!-- AUDIT 27.05.2026
+Geprueft: BGH IX ZR 224/12
+Befund: GELOESCHT. Skill hatte falsches Datum (07.03.2013; korrekt: 16.05.2013) und falsches Thema (Kaufmannseigenschaft des Buergen / § 350 HGB). Echtes Thema: Zwangsverwaltung (ZVG); Nutzungsentschaedigungsanspruch; Wohnschutz des Schuldners (§ 149 ZVG); kein Bezug zu Buergschaft oder HGB. Quelle: dejure.org/2013,18267. Ersatz: kein passender Beleg gefunden; Zeile entfernt.
+-->

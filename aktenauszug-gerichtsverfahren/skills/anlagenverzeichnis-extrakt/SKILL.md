@@ -29,7 +29,6 @@ Umfangreiche Gerichtsakten enthalten oft Hunderte von Anlagen, die über verschi
 
 - BGH, Beschl. v. 21.11.2017 - VIII ZR 28/17, NJW 2018, 385 — Bezugnahme auf Anlage im Schriftsatz ersetzt Tatsachenvortrag nur wenn Anlage konkret bezeichnet und vollständig beigefügt ist.
 - BGH, Urt. v. 02.07.2007 - II ZR 111/05, NJW 2007, 3144 — Blosse Bezugnahme auf umfangreiche Anlagen ohne erläuternde Zusammenfassung im Schriftsatz genügt nicht den Darlegungsanforderungen.
-- BGH, Urt. v. 17.09.2019 - VI ZR 396/18, NJW 2020, 404 — Fehlende Anlage kann nachgereicht werden, Fristwahrung richtet sich nach Hauptschriftsatz-Eingang.
 - OLG München, Beschl. v. 11.03.2021 - 10 W 226/21, BeckRS 2021, 5432 — Lückenhafte Anlagenbezeichnung führt nicht zur Unzulässigkeit, aber kann Beweiswert mindern.
 
 ## Kommentarliteratur
@@ -113,3 +112,6 @@ Anlage ist im Schriftsatz bezeichnet aber fehlt körperlich in Akte?
 - [ ] Inhalt kurz aber aussagekräftig beschrieben?
 - [ ] Fundstelle (Schriftsatz und Blatt) angegeben?
 - [ ] Vorlageanordnungen nach § 142 ZPO berücksichtigt?
+
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH VI ZR 396/18 (claimed: Fehlende Anlage kann nachgereicht werden, NJW 2020, 404): WRONG_TOPIC. Urteil existiert (dejure.org/2019,38295), behandelt aber Kfz-Unfall Beilackierungskosten/§287 ZPO Schaetzungsermessen, NJW 2020, 236. Kein Bezug zu ZPO-Anlagenrecht. Eintrag geloescht. -->

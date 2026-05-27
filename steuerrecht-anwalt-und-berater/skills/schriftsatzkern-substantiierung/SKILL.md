@@ -1,13 +1,12 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierten Schriftsatzkern fuer steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begruendet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruchsgrundlagen-Kette Beweisangebote Hilfsantraege. § 76 FGO Amtsermittlung setzt schluessigen Vortrag voraus BFH XI R 33/09. Replik- und Duplik-Vorausschau. Output Schriftsatz-Geruest mit Tatsachen Normen Beweismitteln Antraegen. Abgrenzung zu anw-einspruch-finanzamt und anw-klage-finanzgericht fertige Schriftsaetze."
+description: "Substantiierten Schriftsatzkern fuer steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begruendet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruchsgrundlagen-Kette Beweisangebote Hilfsantraege. § 76 FGO Amtsermittlung setzt schluessigen Vortrag voraus. Replik- und Duplik-Vorausschau. Output Schriftsatz-Geruest mit Tatsachen Normen Beweismitteln Antraegen. Abgrenzung zu anw-einspruch-finanzamt und anw-klage-finanzgericht fertige Schriftsaetze."
 ---
 
 # Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)
 
 ## Aktuelle Rechtsprechung (Substantiierung)
 
-- BFH, Urt. v. 14.03.2012 - XI R 33/09, BStBl II 2012, 477 Rn. 17 — Das Finanzgericht ist nach § 76 FGO zur Amtsermittlung verpflichtet; es muss aber nur entscheidungserheblichen Tatsachen nachgehen, die von den Beteiligten schlussig vorgetragen wurden.
 - BFH, Urt. v. 22.06.2022 - XI R 25/20, BStBl II 2023, 42 Rn. 16 — Zur Wahrung einer Rechtsmittelfrist genuegt es, wenn die Klageschrift rechtzeitig per beA beim FG eingeht; auf den Zugang eines Empfangsbekenntnisses kommt es nicht an.
 - BFH, Beschl. v. 28.08.2019 - XI B 68/18, BFH/NV 2020, 34 Rn. 10 — Im finanzgerichtlichen Verfahren setzt eine Präklusion nach § 79b Abs. 3 FGO eine richterlich gesetzte angemessene Frist voraus; nicht fristgerecht eingeräumte Tatsachen können nicht zurückgewiesen werden.
 - BFH, Urt. v. 29.06.2016 - X R 1/15, BStBl II 2016, 865 Rn. 22 — Einspruchsbegründungen müssen nicht abschließend sein; das FA hat von Amts wegen zu prüfen; der Einspruchsfuhrer kann im FG-Verfahren noch neuen Vortrag ergänzen.
@@ -206,3 +205,9 @@ Vor Versand:
 
 - `erstgespraech-mandatsannahme` (im selben Plugin) fuer die Tatsachen-Grundlage und Streitwertskizze.
 - `vergleichsverhandlung-strategie` (im selben Plugin) fuer parallelen Vergleichsversuch (Gueteverhandlung, Mediation).
+
+<!-- AUDIT 27.05.2026 bundle_044
+- BFH XI R 33/09 (WRONG_TOPIC: echtes Thema elektronische Abgabe USt-Voranmeldungen/Härtefallregelung § 150 Abs. 8 AO, nicht § 76 FGO Amtsermittlung/Schriftsatzanforderungen)
+  → Falsche Rn.-17-Aussage zur § 76 FGO Amtsermittlung entfernt; description-Referenz entfernt
+  → kein gesicherter Ersatz gefunden; Kommentarliteratur Gräber/Stapperfend § 76 FGO verbleibt
+-->

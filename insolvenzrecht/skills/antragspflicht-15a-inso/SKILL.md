@@ -89,14 +89,12 @@ würde.
 
 ### Kanonische Rechtsprechung
 
-**BGH, Urt. v. 27.07.2021 – IX ZR 75/21, NJW 2022, 3018 Rn. 14–21:**
-Grundlegende Entscheidung zur Antragspflichthaftung: Der IX. Zivilsenat
-bekräftigt, dass § 15a InsO ein Schutzgesetz i.S.d. § 823 Abs. 2 BGB ist.
-Neugläubiger können ihren vollen Vertrauensschaden (Differenz zwischen
-eingegangener Forderung und Insolvenzquote) ersetzt verlangen. Der
-Geschäftsführer kann sich nicht auf fehlende Kenntnis des Eröffnungsgrundes
-berufen, wenn er bei pflichtgemäßer Sorgfalt hätte erkennen können, dass
-Zahlungsunfähigkeit eingetreten ist (Rn. 18 f.).
+**BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181:**
+Grundlegende Entscheidung zur Antragspflichthaftung: Der II. Zivilsenat
+befand, dass § 64 Abs. 1 GmbHG a.F. (heute § 15a InsO) ein Schutzgesetz
+i.S.d. § 823 Abs. 2 BGB ist. Neugläubiger können ihren vollen
+Vertrauensschaden ersetzt verlangen; Altgläubiger sind auf den Quotenschaden
+beschränkt (BGHZ 126, 181, 190 ff.).
 
 **BGH, Urt. v. 19.12.2017 – II ZR 234/18, NZG 2020, 1116 Rn. 17–23:**
 Der II. Zivilsenat konkretisiert die Dreiwochen­frist: Sie beginnt in dem
@@ -158,9 +156,9 @@ Feststellung; Tz. 16 ff. die Fortbestehensprognose im Überschuldungskontext.
 2. **Beginn der Antragsfrist**
    Die Frist beginnt mit dem objektiven Eintritt des Eröffnungsgrundes,
    frühestens jedoch mit dem Zeitpunkt, in dem der Geschäftsleiter diesen kannte
-   oder bei pflichtgemäßer Sorgfalt hätte erkennen können (BGH IX ZR 75/21
-   Rn. 18). Dreiwochen­frist bei Zahlungsunfähigkeit; Sechswochen­frist bei
-   Überschuldung (seit 01.01.2021).
+   oder bei pflichtgemäßer Sorgfalt hätte erkennen können (BGH, Urt. v.
+   06.06.1994 – II ZR 292/91, BGHZ 126, 181). Dreiwochen­frist bei Zahlungsunfähigkeit;
+   Sechswochen­frist bei Überschuldung (seit 01.01.2021).
 
 3. **Sanierungsversuche dokumentieren**
    Sanierungsbemühungen können den Fristablauf nicht hemmen, senken aber das
@@ -235,7 +233,7 @@ Ein Insolvenzantrag wird erst am 02.06.2026 gestellt.
    mit der GmbH eingegangen sind, können ihren Vertrauensschaden (vollständiger
    Forderungsausfall abzüglich etwaiger Insolvenzquote) von Müller persönlich
    ersetzt verlangen. Altgläubiger können den Quotenschaden geltend machen
-   (BGH IX ZR 75/21 Rn. 14 ff.).
+   (BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181, 190 ff.).
 
 2. *Zahlungsverbot (§ 15b InsO):*
    Zahlungen, die Müller nach dem 22.04.2026 veranlasst hat und die nicht unter
@@ -291,8 +289,8 @@ nicht unter die Ausnahmen fallen.
 
 Bei jeder Ausgabe zu diesem Skill sind mindestens folgende Belege anzugeben:
 
-- BGH, Urt. v. 27.07.2021 – IX ZR 75/21, NJW 2022, 3018 Rn. 14 ff.
-  (Antragspflicht-Haftung, Schutzgesetz)
+- BGH, Urt. v. 06.06.1994 – II ZR 292/91, BGHZ 126, 181
+  (Antragspflicht-Haftung, Schutzgesetz, Vertrauensschaden Neugläubiger)
 - BGH, Urt. v. 19.12.2017 – II ZR 234/18, NZG 2020, 1116 Rn. 17 ff.
   (Dreiwochen­frist, Fristbeginn)
 - BGH, Urt. v. 29.01.2013 – IX ZR 88/11, NJW 2013, 940 Rn. 15 ff.
@@ -362,3 +360,10 @@ Schlussabsatz Variante B (formal-streng):
 Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite innerhalb von [X] Tagen einen akzeptablen Vorschlag unterbreitet. Anderenfalls werden wir alle rechtlichen Schritte einleiten.
 
 
+
+<!-- AUDIT 27.05.2026 — Bundle 033 —
+  BGH IX ZR 75/21 (WRONG_TOPIC) entfernt: Entscheidung betrifft Insolvenzanfechtung/Vorsatzanfechtung
+  § 133 InsO (Gläubigerbenachteiligung durch Zahlung Konzernabschlussprüfung), nicht Antragspflichthaftung.
+  Alle vier Vorkommen ersetzt durch BGH II ZR 292/91, BGHZ 126, 181 (verifiziert; Grundsatzentscheidung
+  Antragspflichthaftung als Schutzgesetz, Vertrauensschaden Neugläubiger).
+-->

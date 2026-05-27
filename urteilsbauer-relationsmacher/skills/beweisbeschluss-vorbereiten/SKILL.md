@@ -19,7 +19,6 @@ Vor der Beweisaufnahme das, was streitig und beweisbedürftig ist, förmlich fes
 
 - BGH, Urt. v. 14.07.2015 - VI ZR 463/14, NJW 2015, 3234 — Beweisantrag ist abzulehnen, wenn die unter Beweis gestellte Tatsache für den Anspruch nicht erheblich ist; Gericht muss aber Erheblichkeit prüfen, bevor es ablehnt.
 - BGH, Urt. v. 17.02.2004 - XI ZR 140/03, NJW 2004, 1458 — Beweislastumkehr in § 280 Abs. 1 S. 2 BGB: Schuldner muss fehlendes Verschulden beweisen.
-- BGH, Urt. v. 05.10.2004 - VI ZR 255/03, NJW 2005, 354 — Anscheinsbeweis im Haftpflichtrecht; Gegenbeweis muss die ernstliche Möglichkeit eines anderen Geschehensablaufs darlegen.
 - BVerfG, Beschl. v. 08.11.2006 - 2 BvR 578/02, NJW 2007, 204 — Art. 103 Abs. 1 GG verbietet, einen Beweisantrag ohne sachlichen Grund zu übergehen.
 
 ## Zentrale Normen
@@ -85,3 +84,8 @@ Termin: [DATUM].
 ## Beweismass
 
 Paragraf 286 ZPO - volle Überzeugung des Gerichts. Wahrscheinlichkeit alleine reicht nicht.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+> **Audit-Hinweis (27.05.2026):** BGH VI ZR 255/03, NJW 2005, 354 entfernt. Tatsaechliche Fundstelle NJW 2005, 354 gehoert zu BGH VI ZR 335/03 (Urt. v. 30.11.2004) — Thema: Haftungsprivileg § 828 Abs. 2 BGB bei Kind mit Kickboard gegen parkendes Fahrzeug; kein Bezug zu Anscheinsbeweis im Haftpflichtrecht. Aktenzeichen VI ZR 255/03 existiert unter dejure.org/2004,220 und betrifft Schmerzensgeld bei Persoenlichkeitsrechtsverletzung (Caroline-Tochter). Quelle: dejure.org/2004,220, dejure.org/?Text=NJW+2005,354.

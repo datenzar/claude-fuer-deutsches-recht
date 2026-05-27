@@ -266,7 +266,6 @@ Mit freundlichen Gruessen
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA Holding/Datenschutzbeauftragter Hessen), NJW 2024, 248 Rn. 55–78: Automatisches Scoring kann Art. 22 DSGVO unterliegen; bei KI-Systemen die in Anhang III KI-VO (Nr. 5 lit. b Kreditbewilligung) gelistet sind, bestehen parallele Pflichten nach KI-VO und DSGVO — DSFA (Art. 35 DSGVO) und FRIA (Art. 27 KI-VO) müssen kombiniert werden.
 - EuGH, Urt. v. 14.12.2023 — C-340/21 (Natsionalna agentsia za prihodite), NJW 2024, 1091: Immaterieller DSGVO-Schadensersatz nach Art. 82 Abs. 1 setzt Schaden + Kausalitaet + DSGVO-Verstoss kumulativ voraus; keine Bagatellgrenze; bereits begruendete Sorge vor Datenmissbrauch kann ersatzfaehig sein; Verantwortlicher muss Geeignetheit der TOMs nach Art. 32 DSGVO darlegen.
 - BVerwG, Urt. v. 25.09.2019 — 8 C 25.18, BVerwGE 166, 308 Rn. 38: Zur Zulässigkeit automatisierter Verwaltungsentscheidungen; Art. 22 DSGVO und Hochrisiko-KI-VO-Anforderungen (menschliche Aufsicht Art. 14) setzen Grenzen.
-- VG Wiesbaden, Beschl. v. 01.12.2021 — 6 L 738/21.WI, ZD 2022, 178 Rn. 22: DSFA-Pflicht für KI-Entscheidungssysteme; parallel gilt ab 02.08.2026 die Konformitätsbewertungspflicht nach Art. 43 KI-VO für Hochrisiko-Systeme.
 
 ## Zentrale Normen (Paragrafenkette)
 
@@ -311,3 +310,8 @@ EU-Datenbankregistrierung (Art. 71): abgeschlossen / ausstehend
 Anwendbarkeitsdatum: [02.08.2026 / 02.08.2027]
 Sanktionsrisiko: Art. 99 KI-VO — bis 35 Mio. EUR / 7 %
 ```
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ: VG Wiesbaden 6 L 738/21.WI — Entscheidung auf dejure.org bestätigt (Beschl. 01.12.2021), aber WRONG_TOPIC: Echter Inhalt = Untersagung Nutzung Cookiebot-Dienst, rechtswidrige Datenübermittlung USA, DSGVO Art. 44/48. Skill verwendete sie fälschlicherweise als Beleg für DSFA-Pflicht bei KI-Entscheidungssystemen. Leitsatz-Eintrag entfernt.
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->

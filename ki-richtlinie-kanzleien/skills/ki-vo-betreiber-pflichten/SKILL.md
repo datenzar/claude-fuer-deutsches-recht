@@ -67,7 +67,6 @@ Die KI-VO wird durch Durchführungsrechtsakte und Leitlinien des Europäischen K
 - EuGH, Urt. v. 07.12.2023 — C-634/21 (SCHUFA-Score), NJW 2024, 248 Rn. 49: Betreiber von Scoring-Systemen haften fuer Einhaltung Art. 22 DSGVO — massgeblich fuer KI-VO Betreiberpflichten.
 - EuGH, Urt. v. 04.10.2024 — C-203/22 (Dun & Bradstreet), NJW 2025, 56 Rn. 38: Betreiber muss Entscheidungslogik offenlegen — Art. 26 Abs. 6 KI-VO Korrekturmechanismus.
 - BGH, Urt. v. 19.06.2018 — VI ZR 184/17, NJW 2018, 2877 Rn. 15: Interne Organisationspflichten bei technischen Systemen — Betreiberpflichten als Organisationsanforderung.
-- BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22: Dokumentationspflichten bei algorithmischen Entscheidungen fuer oeffentliche Stellen — massgeblich fuer Protokollierungspflicht Art. 26 KI-VO.
 
 ## Zentrale Normen (Paragrafenkette)
 - Art. 26 KI-VO — Betreiberpflichten (Eignungspruefung, Anleitung, menschliche Aufsicht, Protokollierung)
@@ -106,3 +105,8 @@ Art. 27 KI-VO — FRIA:
 Bussgeldrisikoklasse: [BIS 15 MIO. EUR / BIS 35 MIO. EUR]
 Verantwortlicher: [NAME], [DATUM]
 ```
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 035:
+- GELOESCHT: BVerwG, Urt. v. 04.04.2019 — 2 C 4/18, NVwZ 2019, 1283 Rn. 22 (Status: WRONG_TOPIC; reale Entscheidung BVerwG 2 C 4/18 vom 24.10.2019 betrifft Disziplinarrecht/Entfernung eines Lehrers aus dem Beamtenverhaeltnis wegen Kinderpornografie — kein Bezug zu algorithmischen Entscheidungen oder Dokumentationspflichten; ausserdem falsches Datum)
+-->

@@ -254,4 +254,8 @@ Bevor die Erfindung aufgenommen und bewertet wird, klaere:
 
 > **BGH, Urt. v. 26.10.2004 — X ZR 94/01 (Keks-Form):** Fuer die Neuheitspruefung nach § 3 PatG ist jedes Merkmal des Anspruchs einzeln mit dem Stand der Technik zu vergleichen; eine Kombination von Merkmalen ist neu, wenn sie als Kombination nicht in einer einzigen Entgegenhaltung offenbart ist.
 
-> **BAG, Urt. v. 21.12.2011 — 7 AZR 524/10 (Arbeitnehmererfindung):** Die Verguetung des Arbeitnehmererfinders nach §§ 9 ff. ArbnErfG ist nach einem dreistufigen Verfahren zu ermitteln (wirtschaftlicher Wert, Anteilsfaktor, Mitarbeiterposition); ein Arbeitgeber, der die Erfindung in Anspruch nimmt, muss die Verguetung unverzueglich festsetzen und anbieten.
+<!-- AUDIT 27.05.2026
+Task: Bundle 031 / Halluzinations-Reparatur
+Problem: BAG 7 AZR 524/10 (Datum 21.12.2011) nicht auffindbar auf dejure.org; Aktenzeichen existiert nicht.
+Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loeschen).
+-->

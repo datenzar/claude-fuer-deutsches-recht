@@ -16,7 +16,7 @@ description: "DOCX-Vorlage in strukturierten Text zerlegen: Anwendungsfall Word-
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 15.11.2006 - VIII ZR 166/06, NJW 2007, 674 — Vertragsinhalt bestimmt sich nach dem Wortlaut der schriftlichen Urkunde; bei Widersprüchen zwischen Text und Anlagen gilt der Haupttext.
-- BGH, Urt. v. 14.01.2010 - VII ZR 213/07, NJW 2010, 1283 — Urkunde ist auszulegen nach ihrem objektiven Erklärungsinhalt; späteres Verhalten der Parteien als Auslegungshilfe.
+- BGH, Urt. v. 14.01.2010 - VII ZR 213/07, NJW 2010, 1195 — Verjährung der Rückforderung von Mangelbeseitigungsvorschüssen: grob fahrlässige Unkenntnis i.S.d. § 199 Abs. 1 Nr. 2 BGB liegt vor wenn gleichsam auf der Hand liegende Erkenntnismöglichkeit versäumt wurde; BauR 2010, 618.
 - BGH, Urt. v. 22.02.2018 - VII ZR 46/17, NJW 2018, 1706 — Vertragsauslegung bei widersprüchlichen AGB-Klauseln: Spezialklausel geht Generalklausel vor.
 - BGH, Urt. v. 05.12.2019 - IX ZR 189/18, NJW 2020, 673 — Integrationsklausel ("dieser Vertrag enthält alle Vereinbarungen") schließt Einbeziehung vorvertraglicher E-Mails aus.
 
@@ -63,3 +63,5 @@ Der Skill macht aus Word-Dokumenten ein bearbeitbares Vertragsmodell. Er arbeite
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+<!-- AUDIT 27.05.2026: BGH VII ZR 213/07 (14.01.2010) WRONG_TOPIC – tatsächliches Thema ist Verjährung der Rückforderung von Mangelbeseitigungsvorschüssen, NJW 2010, 1195 (nicht Urkundenauslegung, nicht NJW 2010, 1283). Verifiziert auf dejure.org (https://dejure.org/2010,781). Eintrag korrigiert. -->

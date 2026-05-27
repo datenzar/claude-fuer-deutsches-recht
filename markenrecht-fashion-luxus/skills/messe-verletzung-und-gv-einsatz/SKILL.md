@@ -89,7 +89,6 @@ Chinesischer Hersteller zeigt auf der Pitti Uomo in Florenz klôtzzkètté-Kopie
 - BeckOK MarkenR, § 14 MarkenG Rn. 500 ff.
 - BGH, Urt. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser) — Eilbedürftigkeit einstweilige Verfügung
 - BGH, Urt. v. 18.01.2012 — I ZR 170/10 (Pommes Frites) — Unterlassung/Vernichtung
-- OLG Frankfurt, Beschl. v. 25.06.2015 — 6 W 60/15 — einstweilige Verfügung Messeverletzung
 
 ## Templates
 
@@ -148,8 +147,12 @@ Bevor der Eilantrag gestellt wird, klaere:
 
 ## Aktuelle Rechtsprechung
 
-> **OLG Frankfurt, Beschl. v. 25.06.2015 — 6 W 60/15:** Die Dringlichkeit einer Messeabmahnung entfaellt nicht, weil der Rechteinhaber am Messtag zunachst mit dem Aussteller spricht; die 4-Wochen-Dringlichkeitsfrist laeuft erst ab dem Zeitpunkt, an dem feststeht, dass eine einvernehmliche Loesung nicht moeglich ist.
-
 > **BGH, Urt. v. 13.09.2012 — I ZR 230/11 (Biomineralwasser):** Einstweiliger Rechtsschutz setzt voraus, dass die Verletzungshandlung noch andauert oder deren Wiederholung unmittelbar droht; bei Messeende und endgueltigem Abzug der verletzenden Ware fehlt der Verfuegungsgrund fuer kuenftige Unterlassung.
 
 > **BGH, Urt. v. 11.06.2015 — I ZR 19/14 (Goldbaerenbarren):** Gewerbliche Schutzrechtsverletzungen, die oeffentlich und mit kommerziellem Vorteil begangen werden — wie an einem Messestand — begruenden eine starke tatsaechliche Vermutung fuer die Vorsatz-Voraussetzung des § 14 VI 2 MarkenG.
+
+---
+<!-- AUDIT 27.05.2026 | bundle_037 | task 1/5
+OLG Frankfurt 6 W 60/15 (NOT_FOUND): Entscheidung auf dejure.org nicht auffindbar.
+Massnahme: Beide Vorkommen (Belege-Liste und Aktuelle-Rechtsprechung-Block) geloescht.
+-->

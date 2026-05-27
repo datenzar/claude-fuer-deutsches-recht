@@ -76,7 +76,6 @@ Tabellarische Bewertung pro Anforderung. Gelbe und rote Punkte fließen automati
 
 - BGH, Urt. v. 15.06.2021 — AnwSt (R) 1/21, NJW 2021, 2883 Rn. 28–38: Verschwiegenheitspflicht des Rechtsanwalts gilt unabhängig von einer besonderen Schutzeinstufung der Daten; die Weitergabe an Dritte ohne Verschwiegenheitsbindung ist berufsrechtlich unzulässig.
 - BGH, Beschl. v. 22.02.2022 — StB 7/21, NJW 2022, 1524 Rn. 14: Dienstleister muss als Berufshelfer nach § 53a StPO gebunden sein — dies setzt voraus, dass er vertraglich zur Mitwirkung am anwaltlichen Beruf verpflichtet ist, einschließlich der Verschwiegenheitspflicht.
-- OLG Frankfurt, Urt. v. 17.11.2020 — 8 U 25/20, NJW-RR 2021, 145 Rn. 22: Haftung des Notars für Geheimnisverrat nach § 18 BNotO; die vertragliche Verschwiegenheitsverpflichtung des Dienstleisters muss inhaltlich den berufsrechtlichen Anforderungen entsprechen.
 - BAG, Urt. v. 26.08.2021 — 8 AZR 253/20, NZA 2022, 192 Rn. 45: Zum Textformerfordernis nach § 126b BGB; E-Mail-Verpflichtungserklärungen erfüllen Textform, wenn sie dauerhaft zugänglich und dem Erklärenden zuzurechnen sind.
 
 ## Zentrale Normen (Paragrafenkette)
@@ -123,3 +122,11 @@ Ampel Verschwiegenheitsklausel: GRUEN / GELB / ROT
 Luecken: [BESCHREIBUNG]
 Handlungsbedarf: [ERGAENZUNGSKLAUSEL / RUECKFRAGE]
 ```
+
+<!-- AUDIT 27.05.2026
+Task: Bundle 016 – Halluzinations-Reparatur
+Problem: OLG Frankfurt 8 U 25/20 – NOT_FOUND. Keine Entscheidung OLG Frankfurt 8 U 25/20 vom 17.11.2020 in dejure.org nachweisbar ("Nichts gefunden").
+Beanspruchtes Thema: Haftung Notar Geheimnisverrat § 18 BNotO; NJW-RR 2021, 145.
+Massnahme: Eintrag vollständig gelöscht (nicht verifizierbare Entscheidung – Halluzination).
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=OLG+Frankfurt&Datum=17.11.2020&Aktenzeichen=8+U+25/20
+-->

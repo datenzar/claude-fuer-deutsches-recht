@@ -16,7 +16,6 @@ description: "Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenent
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 19.07.2018 - I ZR 268/15, NJW 2018, 3178 — Vertragsverhandlungen per Redline begründen grundsätzlich kein culpa in contrahendo; aber verdeckte Änderungen können Pflichtverletzung nach § 280 Abs. 1 BGB sein.
-- BGH, Urt. v. 18.09.2019 - VIII ZR 188/18, NJW 2020, 142 — Änderungsvorbehalt: Klausel die einseitige Änderungen erlaubt, muss transparent sein (§ 307 BGB); stillen Änderungen fehlt die Grundlage.
 - BGH, Urt. v. 07.11.2017 - KZR 38/16, NJW 2018, 1461 — Gegenseite muss über wesentliche Vertragsänderungen in Kenntnis gesetzt werden; andernfalls kann das Vertragsverhältnis nach § 122 BGB anfechtbar sein.
 - BGH, Urt. v. 10.12.2008 - XII ZR 22/07, NJW 2009, 1272 — Bei Formularverträgen sind alle Seiten einzubeziehen, die übergebenen Anlagen gelten als Teil des Vertrags.
 
@@ -63,3 +62,10 @@ Der Skill kontrolliert Änderungsfassungen vor Herausgabe. Er arbeitet freistehe
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+---
+
+<!-- AUDIT 27.05.2026
+BGH VIII ZR 188/18 (behauptetes Thema: Änderungsvorbehalt § 307 BGB, NJW 2020 142) — auf dejure.org nicht auffindbar; Eintrag gelöscht (NOT_FOUND).
+Bundle: bundle_047.json
+-->

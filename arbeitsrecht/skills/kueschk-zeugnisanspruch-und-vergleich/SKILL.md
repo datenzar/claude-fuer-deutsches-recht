@@ -31,7 +31,6 @@ Step 6: Frist für Ausstellung (z.B. zwei Wochen nach Beendigung) in Vergleich a
 - BAG, Urt. v. 18.11.2014 – 9 AZR 584/13, NZA 2015, 435 — Arbeitnehmer haben bei fehlender Substantiierung besserer Leistungen Anspruch auf ein Zeugnis mit der Gesamtnote befriedigend (Formulierung: „zur vollen Zufriedenheit“); der Arbeitgeber kann nicht auf dieser Grundlage einseitig eine schlechtere Note erteilen.
 - BAG, Urt. v. 14.10.2003 – 9 AZR 12/03, NZA 2004, 313 — Enthaltene Negativsignale im Zeugnis (z.B. „hat sich stets bemüht“) erfüllen den Anspruch auf ein ordnungsgemäßes Zeugnis nicht; der Arbeitnehmer kann Berichtigung verlangen.
 - BAG, Urt. v. 07.09.2021 – 9 AZR 3/21, NZA 2022, 70 — Das Zeugnis darf keine versteckten negativen Aussagen über den Arbeitnehmer enthalten; Formulierungen, die auf den ersten Blick positiv erscheinen, aber in der Branche als negativ bekannt sind, begründen einen Berichtigungsanspruch.
-- BAG, Urt. v. 28.02.2012 – 9 AZR 340/10, NZA 2012, 806 — Bei Vergleich über eine bestimmte Zeugnisformulierung müssen beide Parteien über denselben Inhalt übereinstimmen; Formulierungsstreitigkeiten nach Vergleich können zu erneutem Prozess führen.
 
 ## Kommentarliteratur
 
@@ -92,3 +91,10 @@ Falls das ausgestellte Zeugnis von der Vereinbarung abweicht oder schlechter als
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BAG 9 AZR 340/10: ersatzlos entfernt (NOT_FOUND: keine Entscheidung des BAG vom 28.02.2012 mit diesem Aktenzeichen auf dejure.org auffindbar; Quelle: dejure.org)
+- BAG 9 AZR 399/09: nicht im Skill-Text vorhanden; geprüft und bestaetigt nicht vorhanden (NOT_FOUND: Aktenzeichen nicht auf dejure.org auffindbar; 9 AZR 399/10 vom 13.12.2011 existiert, hat aber anderes Thema: Urlaubsabgeltung/Ausschlussfrist)

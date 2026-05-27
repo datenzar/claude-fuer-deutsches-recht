@@ -23,7 +23,7 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 
 - **Maximal drei Monatsmieten netto kalt**
 - Bei überhöhter Kaution Rückforderungs-Anspruch des Überschusses
-- BGH VIII ZR 379/02 — Pflicht zur Beschränkung
+- BGH VIII ZR 344/02 — Teilunwirksamkeit überhöhter Kautionsvereinbarung
 
 ## Schritt 2 — Anlage-Pflicht § 551 Abs. 3 BGB
 
@@ -68,7 +68,6 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 
 - **Nicht** für gewöhnliche Abnutzung
 - **Schadensersatz** für übermäßige Abnutzung § 538 BGB iVm § 280 BGB
-- BGH VIII ZR 38/08 Beweislast Schäden bei Übergabe
 
 ### Nachzahlung Betriebskosten
 
@@ -78,7 +77,7 @@ Nach Auszug aus der Wohnung ist die Rückforderung der Mietkaution ein häufiges
 ### Schönheitsreparaturen
 
 - **Wirksamkeit der Klausel** prüfen — viele Klauseln unwirksam
-- BGH VIII ZR 152/09 / VIII ZR 41/12 / VIII ZR 200/14 zur Unwirksamkeit starr Fristen-Klauseln
+- BGH VIII ZR 361/03 zur Unwirksamkeit starrer Fristen-Klauseln
 
 ## Schritt 5 — Forderungs-Schreiben
 
@@ -219,3 +218,15 @@ Mit freundlichen Grüßen
 - BGH VIII. Zivilsenat
 - Schmidt-Futterer Mietrecht
 - Sternel Mietrecht aktuell
+
+---
+
+## Audit-Hinweis
+
+**Datum:** 27.05.2026
+
+Bei diesem Skill wurden drei halluzinierte BGH-Aktenzeichen entfernt oder ersetzt:
+
+- `BGH VIII ZR 379/02` (nicht auf dejure.org) ersetzt durch `BGH VIII ZR 344/02` (25.06.2003, Teilunwirksamkeit ueberhohter Kautionsvereinbarung)
+- `BGH VIII ZR 38/08` (nicht auf dejure.org) ersatzlos geloescht (Beweislast Schaeden bei Uebergabe)
+- `BGH VIII ZR 152/09 / VIII ZR 41/12 / VIII ZR 200/14` (alle drei nicht auf dejure.org) ersetzt durch `BGH VIII ZR 361/03` (23.06.2004, Unwirksamkeit starrer Fristen-Klauseln bei Schoenheitsreparaturen)

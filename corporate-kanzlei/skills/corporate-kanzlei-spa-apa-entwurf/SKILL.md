@@ -31,7 +31,6 @@ description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement)
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 17.02.2023 - V ZR 22/22, NJW 2023, 1543 — Beim Unternehmenskauf koennen Garantien als selbststaendige Garantieversprechen i.S.d. § 311 I BGB ausgestaltet sein; vertragliche Risikoabgrenzung geht BGB-Gewaehrleistung vor
 - BGH, Urt. v. 19.06.2022 - II ZR 98/20, NJW 2022, 2965 — MAC-Klausel: Material Adverse Change setzt wesentliche dauerhafte Verschlechterung voraus; vorruebergehende Branchenkrisen reichen nicht
 - BGH, Urt. v. 29.01.2013 - II ZR 26/11, BGHZ 196, 51 — Anteilskauf: Beim Share Deal erstreckt sich Beschaffenheitsgarantie auf wirtschaftliche Verhaeltnisse der Zielgesellschaft, wenn so vereinbart
 - OLG Frankfurt, Urt. v. 07.05.2021 - 5 U 160/19, NZG 2021, 1174 — Earn-Out-Klausel: Kaeufer muss vertragliche Milestones nach Treu und Glauben foerdern; Manipulationsverbot auch ohne explizite Klausel
@@ -201,6 +200,8 @@ Best Practice: (a) Accounting-Methodology einfrieren; (b) Nicht-Beeintrachtigung
 ## Quellen
 
 - §§ 433, 453, 444, 613a BGB; § 15 GmbHG; §§ 68 AktG; §§ 35 ff. GWB
-- BGH II ZR 98/20 (MAC); BGH V ZR 22/22 (Garantieversprechen); OLG Frankfurt 5 U 160/19 (Earn-Out)
+- BGH II ZR 98/20 (MAC); OLG Frankfurt 5 U 160/19 (Earn-Out)
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022)
 - MueKo BGB/Grunewald § 453 Rn. 1 ff.
+
+<!-- AUDIT 27.05.2026: BGH V ZR 22/22 (17.02.2023) entfernt. Tatsaechliches Thema: Immobilienrecht — Grundbuchberichtigung, Auflassungsvormerkung, Nichtigkeit Grundstueckskaufvertrag (NJW 2023, 2343). SKILL behauptete: Unternehmenskauf, Garantieversprechen § 311 I BGB (NJW 2023, 1543) — falsch in Thema und Fundstelle. Eintrag und Quellen-Referenz geloescht. Kein Ersatz gefunden. Bundle 017, Task 4. -->

@@ -87,7 +87,7 @@ belege:
 
 - EuGH, Urt. v. 22.12.2008 — C-549/07 (Wallentin-Hermann), NJW 2009, 347 — Vollstaendigkeit der Fluginformationen; Gericht prueft alle relevanten Umstaende; Beweislast liegt bei Airline fuer aussergewoehnliche Umstaende.
 - BGH, Urt. v. 30.04.2019 — X ZR 75/18, NJW 2019, 2158 — Dokumentationspflicht des Passagiers; Buchungsbestaetigung und PNR genuegen; keine weiteren Nachweise erforderlich.
-- EuGH, Urt. v. 04.05.2017 — C-315/15 (Pepicova), NJW 2017, 1954 — Buchungsnachweis; gescanntes Ticket gilt als Beweis; Airline darf nicht aus formalen Gruenden Anspruch verweigern.
+- EuGH, Urt. v. 04.05.2017 — C-315/15 (Pešková und Peška), EU:C:2017:342 — Vogelschlag als außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004; Airline kann von Ausgleichspflicht befreit sein, wenn alle zumutbaren Maßnahmen ergriffen wurden.
 
 ## Kommentarliteratur
 
@@ -102,3 +102,8 @@ belege:
 ## Mehrere Passagiere
 
 Pro Flug wird **ein** Anspruchsfall mit mehreren Passagieren erfasst. Jeder Passagier hat aber einen **eigenen Ausgleichsanspruch** (Art. 7 VO 261/2004 ist persönlich). Daher bei der Klage je Passagier eigener Antrag (Streitgenossenschaft möglich). Vollmacht der Mitreisenden falls einer für alle vorgeht — Skill `vollmacht-familienmitglieder`.
+<!-- AUDIT 27.05.2026
+Problem: EuGH C-315/15 war mit falschem Thema ("Pepicova – Buchungsnachweis, gescanntes Ticket gilt als Beweis") und falscher Fundstelle (NJW 2017, 1954) eingetragen.
+Tatsächliches Thema laut dejure.org: Pešková und Peška/Travel Service – Vogelschlag als außergewöhnlicher Umstand i.S.v. Art. 5 Abs. 3 VO 261/2004.
+Aktion: Eintrag mit korrektem Thema und Fundstelle EU:C:2017:342 ersetzt.
+-->

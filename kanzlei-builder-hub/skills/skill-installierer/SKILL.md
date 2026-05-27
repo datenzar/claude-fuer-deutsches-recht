@@ -48,7 +48,6 @@ Dies dient zugleich der Einhaltung kanzleiinterner Informationssicherheitspflich
 ### Leitentscheidungen
 
 - BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211 Rn. 8 — Rechtsanwalt haftet für unzureichende Überprüfung eingesetzter Software in der Mandatsbearbeitung, wenn dadurch Datenverlust entsteht.
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594 Rn. 9 — Haftung bei Verletzung von Organisationspflichten in der Kanzlei; sorgfaltsgemäße Einrichtung technischer Systeme ist geschuldeter Anwaltspflichtstandard.
 - BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211 Rn. 8 — Rechtsanwalt haftet für unzureichende Überprüfung eingesetzter Software in der Mandatsbearbeitung, wenn dadurch Datenverlust entsteht.
 
 ### Kommentar- und Aufsatzbelege
@@ -237,9 +236,15 @@ Bei jeder Ausführung dieser Skill sind folgende Quellen als anwendbares Recht z
 - Art. 32 DSGVO (technisch-organisatorische Maßnahmen)
 - AI Act Art. 26 (Deployer-Pflichten)
 - BGH, Urt. v. 26.09.2002 – IX ZR 399/99, NJW 2003, 211
-- BGH, Urt. v. 10.02.2011 – IX ZR 49/10, NJW 2011, 1594
 - Henssler/Prütting, in: Henssler/Prütting, BRAO, 5. Aufl. 2023, § 43a Rn. 55
 - Kleine-Cosack, in: Kleine-Cosack, BRAO, 9. Aufl. 2023, § 43a Rn. 45
 - Hähnchen, NJW 2024, 1137
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+- **BGH IX ZR 49/10 (10.02.2011) in den Leitentscheidungen entfernt.** Echtes Thema laut dejure.org (https://dejure.org/2011,436): Phoenix-Fall / Aussonderungsrecht § 47 InsO / Treuhandvermoegen (BGHZ 188, 317). Die Eintragung behauptete „Haftung bei Verletzung von Organisationspflichten in der Kanzlei; NJW 2011, 1594 Rn. 9“ — falsches Thema und falsche Fundstelle (NJW 2011, 1594 = BGH IX ZR 105/10, Anwaltshaftung wegen aussichtsloser Klage). WRONG_TOPIC. Kein geeigneter Ersatz mit verifiziertem Aktenzeichen zu Organisationspflichten/Software-Pruefung gefunden; Eintrag geloescht. Hinweis: BGH IX ZR 399/99 (26.09.2002, NJW 2003, 211) im selben Abschnitt erscheint doppelt — nicht Teil dieses Auftrags, aber zur Kenntnis.

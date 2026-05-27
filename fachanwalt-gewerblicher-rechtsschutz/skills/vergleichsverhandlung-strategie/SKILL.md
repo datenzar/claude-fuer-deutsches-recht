@@ -28,7 +28,6 @@ description: "Streit im gewerblichen Rechtsschutz durch Vergleich loesen und Ver
 - BGH, Urt. v. 31.10.2018 – I ZR 73/17, GRUR 2019, 199 Rn. 35 – Goldbaerenbarren: Lizenzanaloger Schadensersatz bei Markenverletzung richtet sich nach dem, was verstaendige Parteien als Verguetung vereinbart haetten; bei Markenabmahnung Referenzlizenzrate verhandeln.
 - BGH, Urt. v. 14.01.2016 – I ZR 65/14, GRUR 2016, 399 Rn. 23: Lizenzanalogie bei Markenverletzung erfordert konkrete Feststellung der ueblichen Lizenzrate; Parteien koennen im Vergleich eine Pauschalzahlung als Abgeltung vereinbaren.
 - BGH, Urt. v. 07.03.2019 – I ZR 184/17, GRUR 2019, 748 Rn. 44 – Energieeffizienzklasse III: Missbrauchliche Abmahnung nach § 8c UWG schuetzt Abgemahnten; bei begrundetem Missbrauchsverdacht kann Vergleich zu deutlich reduzierten Konditionen angestrebt werden.
-- OLG Hamburg, Urt. v. 09.06.2022 – 5 U 4/21, GRUR-RS 2022, 17892 Rn. 44: Anti-Hammer-Klausel in der Unterlassungserklaerung — Vertragsstrafe nur bei rechtskraeftiger Feststellung der Pflichtverletzung — ist wirksam und branchenublich.
 - BGH, Urt. v. 26.04.2018 – I ZR 139/16, GRUR 2018, 924 Rn. 22 – Wagenfeld-Leuchte: Lizenzanaloger Schadensersatz bei Urheberverletzung erfordert Schaetzung nach § 287 ZPO; typischerweise 100-300 % Aufschlag auf uebliche Lizenz bei bewusster Verletzung.
 
 ## Vorbereitung der Verhandlung
@@ -189,3 +188,15 @@ dieses Anwaltsvergleichs nach § 796a ZPO durch das [GERICHT].
 - `erstgespraech-mandatsannahme` — Erstaufnahme und Streitwertgrundlage
 - `schriftsatzkern-substantiierung` — wenn Vergleich scheitert und Klage noetig
 - `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` — WIPO-Mediation bei internationalem Bezug
+
+<!-- AUDIT 27.05.2026 | Bundle 022 | Task 3
+AZ: OLG Hamburg 5 U 4/21
+Status: NOT_FOUND
+Befund: Recherche auf dejure.org ergab keine Entscheidung OLG Hamburg 5 U 4/21.
+Die behauptete Fundstelle GRUR-RS 2022, 17892 konnte nicht verifiziert werden.
+Auf dejure.org sind für den 5. Zivilsenat Hamburg aus 2021/2022 andere AZ nachweisbar
+(z. B. 5 U 12/20, 5 U 60/22, 5 U 45/21), nicht aber 5 U 4/21 mit dem behaupteten Inhalt.
+Maßnahme: Zitat aus Abschnitt "Zentrale Rechtsprechung" gelöscht.
+Hinweis: Das Anti-Hammer-Klausel-Konzept als solches ist verbreitet und bleibt
+im Vergleichsentwurf-Template erhalten (ohne Einzelzitat).
+-->

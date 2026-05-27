@@ -166,7 +166,6 @@ Prüfung, welches EU-Gericht international zustaendig ist (VO (EU) 1215/2012, Br
 
 - EuGH, Urt. v. 24.11.2020 - C-59/19 (Wikingerhof/Booking.com), NJW 2021, 289 Rn. 30 — Art. 7 Nr. 2 Bruessel Ia (Deliktsgerichtsstand): anwendbar wenn Klage auf Verstos gegen Deliktsrecht gestuetzt, auch wenn Vertrag existiert; Abgrenzung nach Schwerpunkt des Klageanspruchs.
 - EuGH, Urt. v. 17.06.2021 - C-800/19, NJW 2021, 2809 Rn. 42 — Schiedsklausel faellt nicht unter Bruessel Ia; Gericht am Schiedssitz prueft Zustaendigkeit nach autonomem Schiedsrecht.
-- BGH, Urt. v. 08.02.2021 - IX ZR 51/19, NJW 2021, 1386 Rn. 18 — Anerkennung EU-Urteil Art. 36 Bruessel Ia: grundsaetzlich ohne Vollstreckungserklaerung; ordre public-Vorbehalt Art. 45 Abs. 1 lit. a sehr eng.
 - EuGH, Urt. v. 07.04.2022 - C-568/20, NJW 2022, 1961 Rn. 27 — Verbraucher Art. 17-19 Bruessel Ia: Gerichtsstand am Verbraucher-Wohnsitz auch wenn Verbraucher Vertrag selbst abgeschlossen hat wenn Unternehmer gewerblich taetig war.
 
 ### Output-Template Gerichtsstand-Memo Bruessel Ia
@@ -185,3 +184,8 @@ Streitgegenstand: [VERTRAG / DELIKT]
 4. Verbraucher (Art. 17-19): [JA → Wohnsitz Verbraucher / NEIN]
 5. Empfohlenes Gericht: [GERICHT, ORT, ZUSTAENDIGKEIT]
 ```
+
+<!-- AUDIT 27.05.2026
+Geprüfte AZ: BGH IX ZR 51/19 — auf dejure.org nicht auffindbar (NOT_FOUND); Leitsatz-Eintrag (Ergänzende Leitsätze Brüssel Ia) entfernt. Bundle-Hinweis: real existiert XII ZR 51/19 (Mietrecht/Schriftform, Familienrecht-Senat), inhaltlich unpassend. Ersatz nicht recherchierbar; bei Zweifel gelöscht.
+Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
+-->

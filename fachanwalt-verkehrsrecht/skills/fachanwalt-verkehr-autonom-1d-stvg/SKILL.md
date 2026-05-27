@@ -30,7 +30,6 @@ Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot L
 ### Leitentscheidungen
 
 - BGH-anhängig (2025/2026)
-- OLG München, Urt. v. 17.7.2024 — 24 U 1234/23 (Tesla-Autopilot-Unfall)
 - AG Bautzen, Urt. v. 5.3.2024 — 21 C 256/23 (Level-2-Mode Haftung)
 
 ## Drei-Stufen-Haftungsanalyse
@@ -115,14 +114,14 @@ Spezial-Mandat: Unfall mit autonomem PKW (Tesla FSD Beta, Mercedes Drive Pilot L
 
 ## Quellen und Updates
 
-Stand: 05/2026. § 1d StVG seit 2021. EU-VO 2019/2144. OLG München 24 U 1234/23. Bei BGH-Linie aktualisieren.
+Stand: 05/2026. § 1d StVG seit 2021. EU-VO 2019/2144. Bei BGH-Linie aktualisieren.
 
 ## Aktuelle Rechtsprechung Autonomes Fahren
 
 - OLG Muenchen, Urt. v. 17.10.2023 - 24 U 238/22, NZV 2024, 84 — Level-2-Assistenzsystem: Fahrer ist bei aktiviertem Fahrassistenzsystem nicht von seiner Fahrerpflicht nach § 18 StVG entbunden; ein Sekundenversagen bei Systemwarnung geht zu Lasten des Fahrers.
 - AG Stuttgart, Urt. v. 22.06.2022 - 15 C 3049/21, NZV 2022, 584 — Datensicherungspflicht nach § 1g StVG: Hersteller muss Fahrdaten auf Anforderung zur Verfuegung stellen; Weigerung begruendet Beweisvereitelung und Beweislastumkehr zulasten des Herstellers.
 - EuGH, Urt. v. 10.05.2023 - C-100/21, NJW 2023, 2399 — Produkthaftung bei Softwarefehler: Software-Update das zu einem Fahrzeugdefekt fuehrt, kann Produktfehler nach § 3 ProdHaftG darstellen; Hersteller kann sich nicht auf nachtraeglichen technischen Fortschritt berufen.
-- BGH, Beschl. v. 14.03.2024 - VI ZR 12/24 (anhangig) — Revisionsvorlage zu autonomem Fahren: Vorabentscheidungsanfrage zur Auslegung von Art. 8 Abs. 5 der Verordnung (EU) 2019/2144 noch offen; Verteidiger muss Entwicklung verfolgen.
+<!-- BGH VI ZR 12/24 entfernt: tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128); kein Bezug zu autonomem Fahren (27.05.2026) -->
 
 ## Normen Autonomes Fahren
 
@@ -132,3 +131,8 @@ Stand: 05/2026. § 1d StVG seit 2021. EU-VO 2019/2144. OLG München 24 U 1234/23
 - § 7 StVG — Halterhaftung bleibt bestehen auch bei autonomem Modus
 - §§ 1-4 ProdHaftG — Herstellerhaftung bei Produktfehler (Software als Produkt)
 - VO (EU) 2019/2144 — allgemeine Fahrzeugsicherheitsverordnung (ALKS, Notbremssysteme)
+
+<!-- AUDIT 27.05.2026
+OLG Muenchen 24 U 1234/23: Az. nicht auffindbar auf dejure.org; Eintrag geloescht.
+BGH VI ZR 12/24: WRONG_TOPIC; tatsaechliches Thema ist Haushaltsfuehrungsschaden (05.11.2024, NJW 2025, 1128), kein Bezug zu autonomem Fahren; Eintrag geloescht.
+-->

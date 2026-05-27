@@ -27,7 +27,7 @@ Der Zusammenfassungsabsatz bietet dem Leser nach dem Einleitungssatz eine kompak
 ## Rechtsprechung zur Verfahrensdokumentation und Einarbeitung
 
 - BGH, Urt. v. 14.03.2023 - VIII ZR 300/22, NJW 2023, 2100 — Hinweispflicht nach § 139 ZPO: mangelhafter Aktenauszug der gerichtliche Hinweise nicht abbildet kann zur falschen Mandatsbearbeitung fuehren.
-- BGH, Urt. v. 22.09.2020 - VI ZR 146/19, NJW 2021, 158 — Zur Dokumentation des Verfahrensstands: unvollständige Zusammenfassung des Streitstands begründet Haftungsrisiko bei Mandatswechsel (§§ 280 675 BGB).
+- BGH, Urt. v. 27.04.2021 – VI ZR 84/19, NJW 2021, 2364 — Arzthaftung Behandlungsdokumentation: Umfang der Dokumentationspflicht nach § 630f BGB; ordnungsgemäße zeitnah erstellte Dokumentation entfaltet Indizwirkung zugunsten der Behandlungsseite; elektronische Dokumentation ohne feste Revisionssicherheit hat keine ausreichende Indizwirkung.
 - BGH, Beschl. v. 12.01.2021 - VIII ZB 73/19, NJW-RR 2021, 571 — Anforderungen an vollständige Aktenführung als Grundlage jeder Verfahrenszusammenfassung; Lücken gehen zu Lasten des Anwalts.
 - BGH, Urt. v. 09.06.2020 - VI ZR 261/19, NJW 2020, 2811 — Dokumentation des Verfahrensstands als Grundlage für Urteilsvorbereitung; Gericht muss den gesamten Prozessstoff kennen.
 
@@ -107,3 +107,5 @@ Rechtlich offen ist die Frage [zentrale Rechtsfrage].
 - [ ] Aktueller Stand und nächster Schritt benannt?
 - [ ] Keine Wertung, keine Prognose?
 - [ ] Richterliche Hinweise nach § 139 ZPO berücksichtigt?
+
+<!-- AUDIT 27.05.2026: BGH VI ZR 146/19 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 84/19, NJW 2021, 2364 (verifiziert auf dejure.org). -->

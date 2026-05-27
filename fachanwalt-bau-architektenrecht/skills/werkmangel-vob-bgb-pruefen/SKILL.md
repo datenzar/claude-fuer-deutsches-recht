@@ -44,12 +44,10 @@ description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht 
 | BGH | VII ZR 209/07 | 22.01.2009 | VOB/B bei einseitiger Abweichung Inhaltskontrolle einzelner Klauseln; Einbeziehung als Ganzes erforderlich |
 | BGH | VII ZR 213/01 | 19.09.2002 | Anerkannte Regeln der Technik Mindeststandard auch im BGB-Werkvertrag |
 | BGH | VII ZR 117/97 | 02.10.1997 | Konkludente Abnahme bei rügeloser Ingebrauchnahme; reicht als Abnahmehandlung |
-| BGH | VII ZR 244/12 | 25.09.2014 | Beweislastumkehr nach Abnahme — Auftraggeber trägt Beweis für Mangel nach Abnahme |
 | BGH | VII ZR 41/02 | 27.02.2003 | Symptomtheorie — Besteller muss nur Mangelerscheinung beschreiben, nicht Ursache |
 | BGH | VII ZR 226/00 | 10.01.2002 | Bauüberwachungspflicht Architekt (LPh 8) umfasst alle maßgeblichen Gewerke; Mitverschulden bei Unterlassen |
 | BGH | VII ZR 109/13 | 28.11.2013 | Vorschussanspruch § 637 BGB auch bei Architektenhaftung analog anwendbar |
 | BGH | VII ZR 136/16 | 22.02.2018 | Unverhältnismäßigkeit Nacherfüllung § 635 Abs. 3 BGB nur bei grobem Missverhältnis Aufwand/Interesse |
-| OLG Hamm | 17 U 119/18 | 15.06.2019 | Gesamtschuldnerausgleich § 426 BGB zwischen Unternehmer und Architekt: Verschuldensverhältnis 70/30 typisch bei Planungsfehler mit mangelhafter Ausführung |
 
 ## Prüfschema — Stufenweise Anspruchsprüfung
 
@@ -129,7 +127,7 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 
 **Wirkungen der Abnahme:**
 - Fälligkeit Werklohn § 641 BGB
-- Beweislastumkehr: Auftraggeber trägt Beweis für Mängel (BGH VII ZR 244/12)
+- Beweislastumkehr: Auftraggeber trägt Beweis für Mängel nach Abnahme (st. Rspr. BGH VII. Zivilsenat)
 - Verjährungsbeginn § 634a Abs. 2 BGB
 - Gefahrübergang § 644 BGB
 - Verlust Mängelansprüche für bei Abnahme bekannte Mängel ohne Vorbehalt § 640 Abs. 3 BGB
@@ -219,7 +217,7 @@ a.R.d.T. sind Mindeststandard auch im BGB-Werkvertrag (BGH VII ZR 213/01). Relev
 
 - Architekt und Bauunternehmer haften im Außenverhältnis als Gesamtschuldner § 421 BGB
 - Auftraggeber kann sich an einen oder beide halten
-- **Innenverhältnis:** Ausgleich nach Verschuldensbeiträgen § 426 BGB; typisch 70 (Unternehmer) / 30 (Architekt) bei Ausführungsfehler mit Planungsschwäche (OLG Hamm 17 U 119/18)
+- **Innenverhältnis:** Ausgleich nach Verschuldensbeiträgen § 426 BGB; typisch 70 (Unternehmer) / 30 (Architekt) bei Ausführungsfehler mit Planungsschwäche
 - Berufshaftpflicht Architekt mindestens EUR 1.500.000 je Schadensfall (§ 8 Abs. 4 HOAI-Grundsätze)
 
 ## Schritt 9 — Vorschussklage § 637 BGB
@@ -372,3 +370,10 @@ auf EUR [Betrag] netto gemäß Kostenvoranschlag vom [Datum], Anlage [K1].
 - Werner/Pastor, Der Bauprozess, 16. Aufl.
 - Kniffka/Koeble, Kompendium des Baurechts, 5. Aufl.
 - Stand: 05/2026
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- VII ZR 244/12: ersatzlos entfernt (kein BGH-Urteil VII ZR 244/12 vom 25.09.2014 in dejure.org nachweisbar; AZ als NOT_FOUND verifiziert)
+- OLG Hamm 17 U 119/18: ersatzlos entfernt (OLG Hamm 17 U 119/18 existiert nicht mit dem behaupteten Thema Gesamtschuldnerausgleich; das reale AZ OLG Hamm 18 U 119/18 betrifft Maklervertrag/Widerruf; Quelle: dejure.org)

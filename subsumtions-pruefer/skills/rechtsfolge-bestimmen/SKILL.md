@@ -29,10 +29,7 @@ Ist der Tatbestand erfüllt und sind Einwendungen und Einreden geprüft, bestimm
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 12.01.2021 - VI ZR 433/19, NJW 2021, 863 — Naturalrestitution (§ 249 Abs. 1 BGB) ist der Grundfall; Geldersatz nach § 249 Abs. 2 BGB erfordert eine Schätzung der fiktiven Reparaturkosten auf Basis des Sachverständigengutachtens, nicht des tatsächlich aufgewandten Betrags.
-- BGH, Urt. v. 15.09.2020 - VI ZR 517/19, NJW 2021, 155 — Das Schmerzensgeld (§ 253 Abs. 2 BGB) bemisst sich nach Schwere der Verletzung, Dauer der Beeinträchtigung, Verschuldensgrad und wirtschaftlichen Verhältnissen der Parteien; die Schmerzensgeldtabelle (Hacks/Wellner/Häcker) ist Orientierungspunkt, keine verbindliche Vorgabe.
 - BGH, Urt. v. 29.10.2019 - XI ZR 452/18, NJW 2020, 263 — Verzugszinsen nach § 288 Abs. 2 BGB (B2B) betragen 9 Prozentpunkte über dem Basiszinssatz; der Basiszinssatz wird von der Deutschen Bundesbank halbjährlich festgesetzt und ist auf bundesbank.de abrufbar.
-- BGH, Urt. v. 22.01.2020 - VIII ZR 401/17, NJW 2020, 1278 — Eine verwirkte Vertragsstrafe ist nach § 343 BGB herabzusetzen, wenn sie in einem groben Missverhältnis zum tatsächlichen Schaden steht; die Herabsetzung erfolgt durch Urteil, nicht automatisch.
 
 ## Kategorien von Rechtsfolgen
 
@@ -51,14 +48,14 @@ Ist der Tatbestand erfüllt und sind Einwendungen und Einreden geprüft, bestimm
 **Schadensberechnung:**
 - Differenzhypothese: Vergleich hypothetischer Zustand ohne Ereignis vs. tatsächlicher Zustand
 - Entgangener Gewinn (§ 252 BGB): Wahrscheinlichkeit nach gewöhnlichem Verlauf
-- Schmerzensgeld (§ 253 Abs. 2 BGB): nur bei Körper-, Gesundheits-, Freiheits- oder sexueller Selbstbestimmungsverletzung; BGH NJW 2021, 155 gibt Maßstab
+- Schmerzensgeld (§ 253 Abs. 2 BGB): nur bei Körper-, Gesundheits-, Freiheits- oder sexueller Selbstbestimmungsverletzung; Bemessung nach Schwere der Verletzung, Dauer der Beeinträchtigung und Verschuldensgrad
 
 ### Vertragsstrafe
 
 § 339 BGB: Verwirkung bei Pflichtverletzung; Höhe nach Vereinbarung. Das System prüft:
 - Vertragsstrafe vereinbart?
 - Verwirkt (Pflichtverletzung nachgewiesen)?
-- Nach § 343 BGB herabzusetzen? (BGH NJW 2020, 1278)
+- Nach § 343 BGB herabzusetzen? (richterliche Herabsetzung bei grobem Missverhältnis zum tatsächlichen Schaden)
 
 ### Nebenansprüche
 
@@ -97,3 +94,12 @@ Tatbestand erfüllt → Rechtsfolge bestimmen
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen und der vom Nutzer gewählten Norm. Falsche Normwahl oder falsche Sachverhaltsdarstellung kann das gesamte Ergebnis entwerten.
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+<!-- Halluzinations-Reparatur: 3 BGH-Entscheidungen geprüft, alle 3 entfernt. -->
+<!-- (1) BGH VIII ZR 401/17, NJW 2020, 1278 (Vertragsstrafe § 343 BGB): AZ auf dejure.org nicht auffindbar, NJW-Fundstelle nicht verifizierbar. Ersatzlos gelöscht. -->
+<!-- (2) BGH VI ZR 433/19, NJW 2021, 863 (Naturalrestitution § 249 BGB): AZ existiert, ist aber Beschluss v. 19.01.2021 zum Diesel-Skandal (§ 826 BGB, NJW 2021, 921). Falsche Thema- und Fundstellenzuweisung. Ersatzlos gelöscht. -->
+<!-- (3) BGH VI ZR 517/19, NJW 2021, 155 (Schmerzensgeld § 253 BGB): AZ auf dejure.org nicht auffindbar, NJW-Fundstelle nicht verifizierbar. Ersatzlos gelöscht. -->
+<!-- Verbleibende Rspr.-Referenz (XI ZR 452/18) wurde nicht beanstandet. -->

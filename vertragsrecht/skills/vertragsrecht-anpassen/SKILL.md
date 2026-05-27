@@ -50,8 +50,6 @@ begrenzt. Relevante Grenzen:
   (Zulässige Anpassung von Zinsklauseln; Transparenzgebot bei Änderungsvorbehalten)
 - BGH, Urt. v. 08.03.2005 – XI ZR 154/04, BGHZ 162, 294 Rn. 26
   (Unwirksamkeit einer AGB-Klausel bei unangemessener Benachteiligung; § 307 BGB)
-- BGH, Urt. v. 25.10.2016 – VI ZR 516/15, NJW 2017, 1104 Rn. 14
-  (Grenzen der Haftungsbeschränkung in AGB; § 309 Nr. 7 BGB)
 - BGH, Urt. v. 04.02.2009 – VIII ZR 32/08, NJW 2009, 1337 Rn. 18
   (Unwirksamkeit verkürzter Verjährungsfristen in AGB bei versteckter Klausel)
 
@@ -179,9 +177,16 @@ genau, was sich geändert hat.
 Wenn eine Klauselanpassung an zwingenden gesetzlichen Grenzen scheitert
 oder eine Warnung ausgelöst wird, muss die Ausgabe belegen:
 - Den einschlägigen Paragraphen (z. B. § 309 Nr. 7 BGB)
-- Eine BGH-Entscheidung zur Grenze (z. B. BGH, Urt. v. 25.10.2016 –
-  VI ZR 516/15, NJW 2017, 1104)
+- Eine BGH-Entscheidung zur Grenze
 - Einen Kommentarbeleg (z. B. Grüneberg, in: Grüneberg, BGB, 84. Aufl. 2025,
   § 309 Rn. 48)
 
 Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
+
+---
+
+<!-- AUDIT 27.05.2026
+BGH VI ZR 516/15 (behauptete Fundstelle NJW 2017 1104 Rn. 14; behauptetes Thema: Grenzen Haftungsbeschränkung § 309 Nr. 7 BGB) — WRONG_TOPIC: NJW 2017 1104 gehört zu BGH XII ZR 153/15 (02.11.2016), Mietrecht/Brandschutzmangel/Kündigung; kein Zusammenhang mit Haftungsausschluss AGB. Eintrag gelöscht. Auch Beispiel in Quellenpflicht-Abschnitt entfernt.
+Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=02.11.2016&Aktenzeichen=XII+ZR+153%2F15
+Bundle: bundle_047.json
+-->

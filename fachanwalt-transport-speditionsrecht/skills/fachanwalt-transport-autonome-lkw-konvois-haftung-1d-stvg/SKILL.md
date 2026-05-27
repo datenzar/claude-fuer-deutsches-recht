@@ -50,7 +50,6 @@ Platooning – automatisierte LKW-Konvois mit V2V-Kommunikation (Vehicle-to-Vehi
 
 | Aktenzeichen | Gericht / Datum | Leitsatz |
 |---|---|---|
-| OLG Hamm 11 U 12/23 | OLG Hamm, 12.03.2024 | Eines der ersten deutschen Urteile zu autonomen Fahrzeugen (Level 3): Halter haftet nach § 7 StVG ohne Entlastungsmöglichkeit; Herstellerhaftung nach ProdHaftG parallel möglich |
 | BGH VI ZR 111/21 | BGH, 26.10.2021 | Fahrspurassistenzsystem: Fahrerassistenz entlastet Fahrer nur wenn System bestimmungsgemäß eingesetzt; manuelle Übersteuerungspflicht bei Systemwarnung |
 | EuGH C-36/23 | EuGH, 2024 (anhängig) | EU-Typgenehmigung als Grundlage für Produktfehlervorwurf; nationale Gerichte dürfen nicht abweichende Sicherheitsstandards anlegen |
 | BGH I ZR 100/19 | BGH, 30.01.2020 | CMR Art. 29: Systemausfälle bei automatisierter Verarbeitung begründen qualifiziertes Verschulden wenn Frachtführer keine Redundanzkontrolle betreibt |
@@ -280,4 +279,9 @@ an den Frachtführer zu erstatten (§ 1 ProdHaftG Abs. 3;
 
 ## Quellen
 
-StVG §§ 1d–1h, 7, 12, 18 (in der Fassung nach Reform 2021). ProdHaftG §§ 1–3, 10, 12–13. PflVG § 1. CMR Art. 3, 17, 29. BGB §§ 254, 426, 809, 831. VO (EU) 2022/1426 (ALKS). VO (EU) 2019/2144. OLG Hamm 11 U 12/23. BGH VI ZR 111/21. BGH I ZR 100/19. Stand: 05/2026.
+StVG §§ 1d–1h, 7, 12, 18 (in der Fassung nach Reform 2021). ProdHaftG §§ 1–3, 10, 12–13. PflVG § 1. CMR Art. 3, 17, 29. BGB §§ 254, 426, 809, 831. VO (EU) 2022/1426 (ALKS). VO (EU) 2019/2144. BGH VI ZR 111/21. BGH I ZR 100/19. Stand: 05/2026.
+
+
+---
+
+> **Audit 27.05.2026** — OLG Hamm 11 U 12/23 (behauptetes Thema: autonomes Fahrzeug Level 3, Halterhaftung § 7 StVG; behauptetes Datum: 12.03.2024) aus Leitentscheidungen-Tabelle und Quellen entfernt. Aktenzeichen auf dejure.org nicht auffindbar (NOT_FOUND); keine Web-Fundstelle ermittelbar. Eintrag gelöscht.

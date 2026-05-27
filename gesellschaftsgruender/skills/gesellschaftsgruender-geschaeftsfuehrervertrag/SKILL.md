@@ -32,8 +32,6 @@ Klaere vor Entwurf des Anstellungsvertrags:
 - **BGH, Urt. v. 25.03.1991 – II ZR 169/90, BGHZ 114, 127** — Grundsatz-Entscheidung zum Trennungsprinzip: Organstellung und Anstellungsverhaeltnis sind streng zu trennen; die Abberufung des GF beendet nicht automatisch das Anstellungsverhaeltnis; gesondertes Kuendigungsschreiben erforderlich.
 - **BGH, Urt. v. 14.07.1966 – II ZR 212/64, BGHZ 46, 74** — Geschaeftsfuehrer-Anstellungsvertrag ist kein Arbeitsvertrag; GF hat kein KSchG-Schutz; ordentliche Kuendigung nach Vertragsfristen.
 - **BFH, Urt. v. 27.11.2019 – I R 28/17, BFHE 267, 210** — Pensionszusage an Gesellschafter-GF ist vGA wenn sie nicht dem Fremdvergleich standhalt: Erdienungszeitraum mindestens 10 Jahre; kein Widerrufsvorbehalt; keine rueckwirkende Vereinbarung.
-- **BAG, Urt. v. 21.01.2015 – 10 AZR 84/14, NZA 2015, 675** — Wettbewerbsverbot ohne Karenzentschaedigung ist grundsaetzlich nichtig; analog gilt fuer GF-Vertraege, dass ohne Karenz das Verbot in der Regel unverbindlich ist (Rechtsanalogie § 74 II HGB).
-
 ## Kommentarliteratur
 
 - Scholz/Uwe H. Schneider, GmbHG, 13. Aufl., § 35 Rn. 1-100 (Geschaeftsfuehrer-Befugnisse; Anstellungsvertrag)
@@ -133,7 +131,7 @@ Grund (§ 626 BGB) jederzeit moeglich.
 ## Quellen und Vertiefung
 
 - §§ 6, 35, 38, 43, 46 GmbHG; §§ 620, 626 BGB; § 74 II HGB analog
-- BGH BGHZ 114, 127 (1991); BGH BGHZ 46, 74 (1966); BFH BFHE 267, 210 (2019); BAG NZA 2015, 675
+- BGH BGHZ 114, 127 (1991); BGH BGHZ 46, 74 (1966); BFH BFHE 267, 210 (2019)
 - Scholz/Schneider § 35; Lutter/Hommelhoff § 38; Gosch KStG § 8
 
 ## Uebergabe an andere Skills
@@ -142,3 +140,5 @@ Grund (§ 626 BGB) jederzeit moeglich.
 - `gesellschaftsgruender-gesellschaftervereinbarung` — Vesting/Leaver-Klauseln koordinieren
 - `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase` — Pflichten nach Eintragung
 - `gesellschaftsgruender-gf-sozialversicherungs-status` — SV-Statusfeststellung vertiefen
+
+<!-- AUDIT 27.05.2026: BAG 10 AZR 84/14 entfernt. Tatssächliches Thema: Provisions-/Stornohaftungs-AGB Transparenz § 307 BGB — nicht Wettbewerbsverbot. Zusätzlich: § 74 II HGB gilt nach BGH-Linie nicht analog für GmbH-GF. Eintrag gelöscht. Bundle 029 / WRONG_TOPIC. -->

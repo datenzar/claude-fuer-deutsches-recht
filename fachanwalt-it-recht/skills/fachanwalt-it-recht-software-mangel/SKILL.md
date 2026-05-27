@@ -95,8 +95,6 @@ Mit freundlichen Gruessen
 
 ## Aktuelle Rechtsprechung (v14.2)
 
-- BGH, Urt. v. 06.06.2019 — VII ZR 124/18, NJW 2019, 2867 Rn. 28: Zur Abgrenzung Kauf- und Werkvertrag bei Software; Individualsoftware ist werkvertraglich (§ 633 BGB); Standardsoftware auf körperlichem Datenträger als Kauf (§ 434 BGB); SaaS/Cloud-Software als Miet- oder Dienstvertrag.
-- BGH, Urt. v. 16.09.2021 — VII ZR 190/20, NJW 2021, 3438 Rn. 38: Zum Mangelbegriff bei Software; fehlende Interoperabilität mit vertraglich vorausgesetzter Systemumgebung ist Sachmangel nach § 434 Abs. 1 BGB (a.F.) / § 434 Abs. 2 BGB (n.F. ab 2022).
 - OLG Frankfurt, Urt. v. 15.04.2021 — 6 U 152/20, NJW-RR 2021, 912 Rn. 22: Fristsetzung nach § 439 BGB muss konkrete Mangelbeseitigung benennen; pauschale "Nachbesserungsaufforderung" setzt Frist nicht wirksam.
 - LG Berlin, Urt. v. 28.09.2021 — 52 O 83/20, CR 2022, 145 Rn. 18: Zur Mängelrüge bei SaaS; SLA-Unterschreitung als Sachmangel; Schlechtleistung begründet Minderungsrecht nach §§ 536, 536a BGB analog.
 
@@ -128,3 +126,8 @@ Ansprüche:
 Streitwert: [BETRAG EUR]
 Verjährung: § 438 BGB 2 Jahre ab Ablieferung / § 195 BGB 3 Jahre (§ 634a BGB)
 ```
+
+---
+<!-- AUDIT 27.05.2026: Bundle 010 Halluzinations-Reparatur -->
+<!-- VII ZR 124/18 (behauptet 06.06.2019, NJW 2019, 2867): NOT_FOUND auf dejure.org — geloescht -->
+<!-- VII ZR 190/20 (behauptet NJW 2021, 3438, Thema: Software-Mangel): WRONG_TOPIC — real: Kfz-Thermofenster delikthaftung, NJW 2021, 3721, verifiziert auf dejure.org/2021,37448 — geloescht -->

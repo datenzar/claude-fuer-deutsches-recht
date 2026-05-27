@@ -178,4 +178,10 @@ Bevor der Streitwert festgesetzt wird, klaere:
 
 > **OLG Hamburg, Beschl. v. 12.04.2021 — 5 W 12/21 (Streitwert Mode-Marke):** Fuer Unterlassungsbegehren wegen Verletzung eingetragener Modemarken der Mittelsegments ist ein Ausgangswert von EUR 50.000 angemessen; bei bekannten Luxusmarken oder massenhafter Verletzung koennen EUR 150.000 bis EUR 250.000 gerechtfertigt sein.
 
-> **BGH, Beschl. v. 24.04.2008 — I ZR 20/07 (Kindersaugflaschen):** Der Gegenstandswert einer Abmahnung richtet sich nach dem Unterlassungsinteresse des Abmahnenden; bei der Bemessung sind das Interesse an der Unterbindung der Verletzungshandlung und die wirtschaftliche Bedeutung der verletzten Rechtsposition zu beruecksichtigen.
+> **BGH, Urt. v. 13.11.2013 — X ZR 171/12 (Einkaufskuehltasche), GRUR 2014, 206 Rn. 13, 16:** Der Gegenstandswert einer Abmahnung wegen Verletzung eines Schutzrechts ist nach § 23 Abs. 3 Satz 2 RVG nach billigem Ermessen zu bestimmen; massgeblich sind das Unterlassungsinteresse des Abmahnenden, die Art des Verstosses sowie die wirtschaftliche Bedeutung der verletzten Rechtsposition (sog. Angriffsfaktor).
+
+## Audit-Hinweis (27.05.2026)
+
+Im Halluzinations-Audit 2026-05-27 wurden in diesem Skill folgende
+Aktenzeichen geprueft und korrigiert:
+- BGH I ZR 20/07 (NOT_FOUND: Aktenzeichen nicht in dejure nachweisbar): ersetzt durch verifizierte Entscheidung BGH X ZR 171/12 vom 13.11.2013 (Einkaufskuehltasche), GRUR 2014, 206 (Quelle: dejure.org/2013,31771)

@@ -367,7 +367,6 @@ Hinweis: Keine Rechtsberatung. Mechanische Strukturhilfe für Insolvenz- und Sta
 - BGH, Urt. v. 22.04.2021 — IX ZR 213/19, NZI 2021, 589 — Asset-Deal Verwertungspflicht: IV muss Asset-Deal mit Insolvenzplan-Alternative vergleichen; Entscheidung fuer Asset-Deal muss erklaert und dokumentiert sein.
 - BGH, Urt. v. 01.12.2011 — IX ZR 11/11, NZI 2012, 190 — Betriebsuebergang § 613a BGB in Insolvenz: § 613a BGB gilt auch im Insolvenzverfahren; Erwerber tritt in bestehende Arbeitsverhaeltnisse ein; Kuendigung allein wegen Betriebsuebergang unwirksam.
 - BAG, Urt. v. 25.06.2020 — 6 AZR 480/19, NZA 2020, 1352 — Personalabbau im Asset-Deal: IV kann vor Betriebsuebergang kuerzen wenn betriebliche, wirtschaftliche Gruende vorliegen (nicht: weil Erwerber es will).
-- BGH, Urt. v. 04.11.2010 — IX ZR 170/09 — Steuerpflicht Asset-Deal: Veraeusserung im Regelverfahren loest Umsatzsteuer aus; Erwerber schuldet USt wenn Unternehmen fortgefuehrt wird; Masseverbindlichkeit § 55 InsO.
 
 ## Output-Template Asset-Deal-Memo
 
@@ -397,3 +396,10 @@ PERSONALAUFNAHME (§ 613a BGB):
 STEUERN:
 USt Asset-Deal: EUR [BETRAG] (Masseverbindlichkeit)
 ```
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+- **BGH IX ZR 170/09 (04.11.2010) entfernt.** Echtes Thema laut dejure.org: Steuerberaterhaftung / Verjaehrungsbeginn bei Schadenersatz wegen versaeumten Rechtsbehelfs (Datum korrekt: 21.10.2010, nicht 04.11.2010; Fundstellen WM 2010, 2284 u.a.). Die Eintragung behauptete „Steuerpflicht Asset-Deal im Insolvenzverfahren“ — falsches Thema und falsches Datum (WRONG_TOPIC). Kein geeigneter Ersatz mit verifiziertem Aktenzeichen und Thema gefunden; Eintrag geloescht.

@@ -60,7 +60,6 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 
 ## Ergänzende Rechtsprechung
 
-- BGH, Beschl. v. 05.03.2015 - IX ZB 79/13, NZI 2015, 455 Rn. 18 — Bei Eröffnung des Insolvenzverfahrens über das Vermögen des Schuldners während laufender Zwangsverwaltung geht die Verwaltungs- und Verfügungsbefugnis auf den Insolvenzverwalter über; die Zwangsverwaltung bleibt aber bestehen und wird nicht automatisch aufgehoben.
 - BGH, Beschl. v. 22.03.2007 - IX ZB 143/05, NZI 2007, 406 — Das Verhältnis von Insolvenzverwalter und Zwangsverwalter ist kollusionsfrei zu koordinieren; beide haben Auskunftspflichten gegenüber dem anderen.
 
 ## Paragrafenkette Insolvenzschnittstelle
@@ -79,3 +78,5 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 2. Ist ein vorläufiger Insolvenzverwalter bestellt? (Abstimmung der Zuständigkeiten)
 3. Welche Gläubiger haben Absonderungsrechte nach § 49 InsO?
 4. Soll die Zwangsverwaltung fortgeführt oder aufgehoben werden?
+
+<!-- AUDIT 27.05.2026: BGH IX ZB 79/13 aus "Ergänzende Rechtsprechung" entfernt — WRONG_TOPIC und falsches Aktenzeichen. Auf dejure.org existiert IX ZB 79/13 nicht; verifiziertes AZ ist IX ZR 79/13 (05.02.2015), dessen Thema jedoch "Nichtabführung von Sozialversicherungsbeiträgen und vermutete Zahlungseinstellung" ist — kein Bezug zu Insolvenz/Zwangsverwaltung-Schnittstelle. Streichung mangels Themenrelevanz und wegen falschem Verfahrenstyp (ZB vs. ZR). -->

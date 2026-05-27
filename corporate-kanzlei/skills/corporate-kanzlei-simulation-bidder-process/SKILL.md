@@ -25,7 +25,7 @@ description: "Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simuli
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 29.03.2011 - II ZR 256/09, NJW 2011, 2207 — Exklusivitaetsvereinbarung: Verstaendigt sich ein Bieter auf Exklusivitaet, haelt Verkaefer sich an diese Pflicht; anderweitiger Abschluss = c.i.c.-Haftung
-- BGH, Urt. v. 24.09.1996 - XI ZR 205/95, BGHZ 133, 297 — Vertragsanbahnung: Abbruch laufender Verhandlungen ohne sachlichen Grund verletzt § 241 II BGB; Schadensersatz moeglichals negatives Interesse (Vertrauensschaden)
+- BGH, Urt. v. 29.03.1996 - V ZR 332/94, NJW 1996, 1884 — Vertragsanbahnung: Abbruch laufender Verhandlungen kann bei schuldhafter Träupflichtverletzung Schadensersatz als negatives Interesse auslösen; bei formbeduerftigen Vertraegen in der Regel nur bei vorsaetzlicher Treupflichtverletzung
 - OLG Frankfurt, Urt. v. 04.08.2020 - 23 U 234/19, NJW-RR 2021, 38 — Process Letter ist keine Vertragsofferte; kein Kontrahierungszwang; Verkaefer kann Bieter ohne Begruendung ausschliessen sofern kein schutzwuerdiges Vertrauen entstanden
 
 ## Kommentarliteratur
@@ -136,5 +136,7 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 ## Quellen
 
 - §§ 154, 311 II, 241 II BGB; Art. 18 MAR
-- BGH II ZR 256/09 (Exklusivitaet); BGH XI ZR 205/95 (Verhandlungsabbruch c.i.c.); OLG Frankfurt 23 U 234/19 (Process Letter)
+- BGH II ZR 256/09 (Exklusivitaet); BGH V ZR 332/94 (Verhandlungsabbruch c.i.c.); OLG Frankfurt 23 U 234/19 (Process Letter)
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2
+
+<!-- AUDIT 27.05.2026: BGH XI ZR 205/95 (24.09.1996) ersetzt. AZ auf dejure.org nicht auffindbar (NOT_FOUND). Korrekte Leitentscheidung zum Verhandlungsabbruch/c.i.c.: BGH, 29.03.1996 — V ZR 332/94, NJW 1996, 1884. Ersatz eingetragen in Rechtsprechung und Quellen. Bundle 017, Task 3. -->

@@ -70,7 +70,6 @@ Wer die Kosten des Prozesses nicht selbst tragen kann, kann Prozesskostenhilfe (
 - BAG, Urt. v. 05.06.2003 – 2 AZR 690/02, NZA 2003, 914 — § 12a ArbGG schließt die Kostenerstattung für anwaltliche Vertretung in der ersten Instanz des Arbeitsgerichtsverfahrens vollständig aus; auch bei vollem Obsiegen erhält der Arbeitnehmer seinen Anwalt nicht erstattet.
 - BAG, Beschl. v. 17.12.2009 – 3 AZB 71/09, NZA 2010, 289 — Der Streitwert nach § 42 Abs. 2 GKG bemisst sich nach dem Bruttomonatsgehalt zum Zeitpunkt der Kündigung; Sonderzahlungen und Boni werden nicht eingerechnet, soweit kein Rechtsstreit darüber anhängig ist.
 - BAG, Beschl. v. 04.06.2014 – 3 AZB 10/14, NZA 2014, 1011 — PKH wird nur bewilligt, wenn die Klage hinreichende Aussicht auf Erfolg hat; ein Anspruch, der offensichtlich unbegründet ist, rechtfertigt keine PKH-Bewilligung.
-- BAG, Urt. v. 29.04.2004 – 1 ABR 30/02, NZA 2004, 1144 — Ab dem zweiten Rechtszug gilt die allgemeine Kostentragungspflicht der ZPO; die unterlegene Partei trägt die Kosten des Berufungsverfahrens einschließlich der gegnerischen Anwaltskosten.
 
 ## Kommentarliteratur
 
@@ -85,5 +84,8 @@ Ist der Arbeitnehmer **Gewerkschaftsmitglied**, übernimmt die Gewerkschaft in v
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.
+<!-- AUDIT 27.05.2026
+BAG 1 ABR 30/02 (29.04.2004): Eintrag geloescht. Skill behauptete Thema: Kostenrecht zweiter Rechtszug ZPO; NZA 2004, 1144. Dejure.org bestaetigt: Tatsaechliches Thema ist Gleitzeit Betriebsvereinbarung Durchfuehrung / Tarifvorrang § 77 BetrVG; NZA 2004, 670. Thema und NZA-Fundstelle beide falsch. Kein verifizierter Ersatz; Eintrag geloescht. Quelle: https://dejure.org/2004,299
+-->
 
 Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht prüfen.

@@ -19,7 +19,7 @@ Federführung: Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford)
 - § 11 BetrAVG (Beitragsbemessungsgrundlage — Teilwert § 6a EStG oder versicherungstechnischer Barwert)
 - § 14 BetrAVG (Meldepflichten gegenüber PSV)
 - § 7 Abs. 4 BetrAVG (Konzernhaftung: bei Konzernverbund Haftungsketten)
-- EuGH C-168/18 — Bauer und Willmeroth (22.11.2018): Richtlinie 2008/94/EG verpflichtet Mitgliedstaaten zu effektivem Schutz auch gegen Insolvenz staatlicher Einrichtungen; Art. 8 der Richtlinie unmittelbar anwendbar
+- EuGH C-168/18 (19.12.2019): Richtlinie 2008/94/EG verpflichtet Mitgliedstaaten zu effektivem Schutz auch gegen unverhältnismäßige Kürzungen von Pensionskassenrenten bei Insolvenz des Arbeitgebers; Art. 8 der Richtlinie unmittelbar anwendbar
 - BAG 18.12.2018 — 3 AZR 798/16 (Umsetzung EuGH C-168/18 in deutsches Recht)
 - BAG 14.7.2020 — 3 AZR 382/18 (PSV — Beitragsberechnung bei CTA)
 - InsO §§ 35, 47, 80 (Insolvenzmasse, Aussonderung, Verwaltungsrecht Insolvenzverwalter)
@@ -62,7 +62,7 @@ Der PSV (Pensionssicherungsverein Versicherungsverein auf Gegenseitigkeit) siche
 #### Lücke 1: Pensionskassen-Leistungskürzungen
 Bei regulierten Pensionskassen springt der PSV nicht ein; stattdessen muss der Arbeitgeber gem. § 1 Abs. 1 S. 3 BetrAVG bei Unterschreitung der Versorgungsleistungen einspringen — auch in der Insolvenz? BAG 28.6.2011 — 3 AZR 282/09: Dieser Anspruch ist Masseforderung; im Insolvenzfall real kaum durchsetzbar.
 
-#### Lücke 2: EuGH C-168/18 (Bauer/Willmeroth) — staatliche Unternehmen
+#### Lücke 2: EuGH C-168/18 (19.12.2019) — staatliche Unternehmen
 Der EuGH hat klargestellt, dass Art. 8 RL 2008/94/EG (Insolvenzschutz Arbeitnehmer) auch bei Insolvenz staatlicher Einrichtungen oder Quasi-Staatsbetrieben gilt und unmittelbare Wirkung entfaltet. In Deutschland können Arbeitnehmer staatlicher Unternehmen, die nicht PSV-pflichtig waren, direkt gegen den deutschen Staat vorgehen, wenn der Insolvenzschutz versagt.
 
 #### Lücke 3: Kleinstanwartschaften
@@ -158,3 +158,8 @@ Treuenfels Yamamoto · Dr. von Sompeh-Ostermann
 - → `cta-contractual-trust-arrangement-strukturierung` — CTA und PSV-Beitrag
 - → `buyout-im-ma-deal-asset-vs-share` — § 613a BGB und PSV-Haftung im Deal
 - → `drei-stufen-theorie-eingriffsanalyse` — Eingriffe und Schutzumfang PSV
+
+<!-- AUDIT 27.05.2026
+Halluzinations-Reparatur Bundle 014:
+- EuGH C-168/18 falsch als "Bauer und Willmeroth (22.11.2018)" bezeichnet. C-168/18 ist tatsächlich EuGH Urt. v. 19.12.2019 (PSV/Pensionskasse, Art. 8 RL 2008/94/EG, Insolvenzschutz bei Pensionskassenkürzungen). "Bauer und Willmeroth" = C-569/16 + C-570/16 (6.11.2018, Urlaubsabgeltung nach Tod des Arbeitnehmers). Korrektur: Bezeichnung und Datum bereinigt; inhaltliche Beschreibung des Insolvenzschutzes beibehalten, da zutreffend für C-168/18.
+-->

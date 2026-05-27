@@ -113,7 +113,7 @@ Stand: 05/2026. StVG, § 254 BGB. BGH-Linie zu Schmerzensgeld stabil.
 
 ## Aktuelle Rechtsprechung Quotenverhandlung
 
-- BGH, Urt. v. 10.01.2023 - VI ZR 73/22, NJW 2023, 1020 — Betriebsgefahr-Haftung (§ 17 StVG): auch bei Alleinverschulden eines Beteiligten bleibt die Betriebsgefahr des anderen Fahrzeugs grundsaetzlich zu beruecksichtigen; vollstaendiges Zuruecktreten der Betriebsgefahr nur bei groben Verschulden.
-- BGH, Urt. v. 26.01.2021 - VI ZR 233/19, NJW 2021, 1526 — Schmerzensgeld bei HWS-Distorsion: Gericht muss bei Schleudertrauma individuell alle Leidensdimensionen wuerdigen; generelles Misstrauen gegen HWS-Diagnosen ist methodisch unzulaessig.
 - OLG Saarbruecken, Urt. v. 02.06.2022 - 4 U 89/21, NJW-RR 2022, 1290 — Mitverschuldensquote § 254 BGB bei Radfahrer ohne Helm: fehlender Helm ist nur dann mitursaechlich, wenn der Schaden durch Helm haette verhindert oder vermindert werden koennen.
-- BGH, Urt. v. 11.02.2020 - VI ZR 286/19, NJW 2020, 1876 — Nutzungsausfallentschaedigung: Verzug des Versicherers mit Auszahlung der Regulierungssumme begruendet keinen eigenstaendigen Zinslauf; Zinsen laufen ab Faelligkeit der Hauptforderung.
+- BGH, Urt. v. 11.02.2020 - VI ZR 286/19, NJW 2020, 2116 — Reichweite der Gefaehrdungshaftung des Halters eines Anhaengers (§ 7 Abs. 1 StVG): Haftung besteht, solange ein durch pflichtwidriges Abstellen verursachter Gefahrenbereich fortwirkt; kein Erfordernis, dass der Schaden nur durch ein Fahrzeug verursacht werden kann.
+
+<!-- audit: 27.05.2026 — VI ZR 73/22 (NOT_FOUND auf dejure.org) geloescht; VI ZR 233/19 (NOT_FOUND auf dejure.org) geloescht; VI ZR 286/19 WRONG_TOPIC korrigiert: Thema Anhaenger-Gefaehrdungshaftung § 7 StVG, NJW-Zitat 2020 2116 (nicht 1876), Quelle dejure.org/2020,9266. -->

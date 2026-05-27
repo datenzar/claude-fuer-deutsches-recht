@@ -217,7 +217,7 @@ Wertermittlungsrichtlinien beachten.
 | Verpächter: Hofvermerk nicht bindend (veraltet) | Grundbuch-Auszug, ggf. Antrag Löschung nur nach § 5 HöfeO-Verfahren |
 | Weichender Erbe: Hofeswert zu niedrig | Sachverständigen-Gegengutachten; Ertragswert-Ansatz prüfen |
 | Nachabfindung verjährt | 20-Jahres-Frist § 13 HöfeO ist absolut; keine Verjährungseinrede möglich |
-| Übergabevertrag sittenwidrig | § 138 BGB: Gesamtbewertung aller Gegenleistungen; BGH V ZR 8/10 zu Hofübergabe-Äquivalenz |
+| Übergabevertrag sittenwidrig | § 138 BGB: Gesamtbewertung aller Gegenleistungen |
 
 ## Streitwert und Kosten
 
@@ -258,3 +258,7 @@ Wertermittlungsrichtlinien beachten.
 BGH, Beschl. v. 28.09.2017 — **BLw 3/16**, NJW-RR 2018, 263 Rn. 18: Die Nachabfindungsberechnung nach § 13 HöfeO ist auf Basis des Verkehrswertes zum Zeitpunkt der Veräußerung zu ermitteln; aufgelaufene Wertsteigerungen seit der Hofübergabe gehen anteilig an die weichenden Miterben, sofern diese nicht auf Nachabfindungsansprüche verzichtet haben.
 
 BFH, Urt. v. 22.09.2020 — **VI R 19/18**, BStBl. II 2021, 314 Rn. 14: Hofübergabe zu Lebzeiten ist steuerlich als entgeltliches Geschäft zu werten, soweit Altenteilsleistungen in Geldwert die Gegenleistung übersteigen; für Erbschaftsteuerzwecke gelten §§ 13a, 13b ErbStG mit Verschonungsabschlägen für land- und forstwirtschaftliches Vermögen.
+
+---
+<!-- AUDIT 27.05.2026 -->
+<!-- BGH V ZR 8/10 (WRONG_TOPIC): Tatsächliches Thema = Richterablehnung/Besorgnis der Befangenheit (§ 42 ZPO); kein Bezug zu Hofübergabe-Äquivalenz oder § 138 BGB. Zitat aus Gegenargumente-Tabelle entfernt. -->

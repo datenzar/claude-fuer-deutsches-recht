@@ -17,7 +17,6 @@ description: "Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwa
 
 - BGH, Urt. v. 14.07.2004 - VIII ZR 163/03, NJW 2004, 2884 — Wesentliche Vertragsbestandteile (essentialia negotii): Vertrag kommt nur zustande, wenn Parteien, Gegenstand und Entgelt hinreichend bestimmt sind.
 - BGH, Urt. v. 08.03.1994 - VI ZR 16/93, NJW 1994, 1529 — Formerfordernisse: Fehlen gesetzlich vorgeschriebener Formfelder (z.B. Schriftform § 126 BGB) führt zur Nichtigkeit.
-- BGH, Urt. v. 15.10.2008 - VIII ZR 235/07, NJW 2009, 575 — AGB: Blankofelder im Vertragsformular sind kein Hindernis für die Wirksamkeit des Vertrags, wenn der ausgefüllte Teil eindeutig ist.
 - BGH, Urt. v. 29.10.2019 - II ZR 211/18, NJW 2020, 461 — Bestimmtheitsgrundsatz: Gesellschaftsvertragsklauseln müssen so bestimmt sein, dass die Rechtsfolge ohne weiteres Ermessen feststellbar ist.
 
 ## Zentrale Normen
@@ -65,3 +64,11 @@ Der Skill baut die zentrale Datenmatrix für den Vertrag. Er arbeitet freistehen
 - Track Changes, Redline oder Vergleichsfassung nur nach ausdrücklicher Rückfrage und Bestätigung.
 - Offene Werte bleiben sichtbar; sie werden nicht erfunden.
 - Juristische Wahlentscheidungen werden erklärt und protokolliert.
+
+
+---
+
+<!-- AUDIT 27.05.2026 -->
+## Audit-Hinweis (27.05.2026)
+
+Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnachweise geprüft und korrigiert.

@@ -34,7 +34,7 @@ description: "Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risi
 - BGH, Urt. v. 20.12.2022 — **VI ZR 375/21**: keine zwingende Sperrfrist.
 - BGH, Urt. v. 14.06.1994 — **VI ZR 260/93**: plauisibler Entscheidungskonflikt — konkrete persönliche Gründe, nicht bloße Behauptung.
 - BGH, Urt. v. 11.10.2016 — **VI ZR 130/16**: strenger Maßstab hypothetische Einwilligung; individueller Vortrag notwendig.
-- BGH, Urt. v. 28.01.2014 — **VI ZR 87/15**: Aufklärung über neue Methode mit weniger Erfahrungswerten erforderlich.
+- BGH, Urt. v. 13.06.2006 — **VI ZR 323/04**: Aufklärung über neue Behandlungsmethode (Neulandmethode) mit unbekannten Risiken erforderlich; Patient muss darueber informiert werden dass unbekannte Risiken derzeit nicht auszuschliessen sind (BGHZ 168, 103).
 - BGH, Urt. v. 10.12.2019 — **VI ZR 198/10**: Sprachbarriere — Dolmetscher-Pflicht.
 
 Standardliteratur: Geiß/Greiner Arzthaftpflichtrecht Kap. C; Spickhoff Medizinrecht.
@@ -164,7 +164,14 @@ Anlagen:
 ## Quellen
 
 - BGB §§ 630c, 630d, 630e, 630h, 823, 253, 249
-- BGH VI ZR 131/02; VI ZR 178/93; VI ZR 375/21; VI ZR 260/93; VI ZR 130/16; VI ZR 87/15; VI ZR 198/10
+- BGH VI ZR 131/02; VI ZR 178/93; VI ZR 375/21; VI ZR 260/93; VI ZR 130/16; VI ZR 323/04; VI ZR 198/10
 - Geiß/Greiner Arzthaftpflichtrecht Kap. C
 - Spickhoff Medizinrecht, 3. Aufl.
 - Hacks/Wellner/Häcker Schmerzensgeld-Beträge
+
+<!-- AUDIT 27.05.2026
+BGH VI ZR 87/15 entfernt: Aktenzeichen nicht auf dejure.org oder bundesgerichtshof.de auffindbar;
+Datum 28.01.2014 fuer ein 2015-AZ unmoeglich (chronologischer Widerspruch).
+Ersatz: BGH VI ZR 323/04 (13.06.2006, BGHZ 168, 103) — verifiziert auf dejure.org;
+betrifft Aufklaerungspflicht bei Neulandmethode (Robodoc-Operation), inhaltlich passend.
+-->

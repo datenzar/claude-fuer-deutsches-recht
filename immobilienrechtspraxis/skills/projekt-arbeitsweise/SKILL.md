@@ -147,8 +147,7 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 
 ## Aktuelle Rechtsprechung — Projekt-relevante Normen
 
-- BGH, Urt. v. 12.09.2023 — VIII ZR 285/22, NJW 2023, 3578: Ordnungsmaessige anwaltliche Mandatsfuehrung erfordert Aktenhaltung und dokumentierbare Fristen-Kontrolle; fehlende Fristenueberwachung kann Haftung ausloesen.
-- BGH, Urt. v. 09.11.2022 — VIII ZR 199/21, NJW 2023, 516 Rn. 18: Vollmachten und Schriftverkehr-Archivierung in Immobilienmandaten sind beweisrechtlich kritisch; DSGVO-konforme Aufbewahrung 6-10 Jahre nach Mandatsende.
+
 
 ## Paragrafenkette Projekt-Setup
 
@@ -161,3 +160,9 @@ ist nachvollziehbar wer wann mit welchen Vorgaben geprüft hat.
 
 - Hartung/Scharmer, BORA/FAO, 7. Aufl. — Mandatsfuehrung und Dokumentation
 - BeckOK Datenschutzrecht — Art. 28 DSGVO AVV-Anforderungen
+
+---
+<!-- AUDIT 27.05.2026 bundle_004 -->
+**Halluzinations-Audit 27.05.2026**
+- BGH VIII ZR 285/22 (behauptet Urt. v. 12.09.2023, NJW 2023 3578, Aktenhaltung und Fristenkontrolle): Auf dejure.org nicht gefunden. Eintrag geloescht.
+- BGH VIII ZR 199/21 (behauptet Urt. v. 09.11.2022, NJW 2023 516 Rn. 18, Vollmachten und Archivierung): Auf dejure.org nicht gefunden. Eintrag geloescht.

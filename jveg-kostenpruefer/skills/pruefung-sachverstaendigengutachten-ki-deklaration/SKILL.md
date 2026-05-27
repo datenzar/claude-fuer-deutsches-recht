@@ -14,10 +14,9 @@ description: "KI-Deklaration in Sachverstaendigengutachten pruefen: Hat der Sach
 5. **Beschwerdestadium:** Ist bereits ein Festsetzungsbeschluss ergangen oder steht er noch aus?
 
 ## Rechtsprechung
-1. BGH, Beschl. v. 11.09.2018 – III ZR 329/16, NJW-RR 2018, 1457 — Die erforderliche Zeit i.S.d. § 8 JVEG ist objektiv zu bestimmen; persönliche Verantwortung des Sachverständigen für Inhalt und Methodik ist unabdingbar.
+1. BGH, Beschl. v. 16.12.2003 – X ZR 206/98, GRUR 2004, 446 — Die erforderliche Zeit i.S.d. § 8 JVEG ist nach einem abstrakten und objektiven Maßstab zu ermitteln; anzusetzen ist der Zeitaufwand eines Sachverständigen mit durchschnittlicher Befähigung und Erfahrung bei sachgemäßer Auftragserledigung.
 2. OLG Celle, Beschl. v. 16.01.2020 – 2 W 1/20 — § 8a JVEG erlaubt Vergütungskürzung oder -wegfall bei wesentlichen Mängeln; fehlende höchstpersönliche Erstellung kann § 8a Abs. 2 S. 1 Nr. 1 JVEG erfüllen.
-3. BGH, Beschl. v. 26.09.2018 – IV ZR 163/17 — Festsetzungsbeschlüsse nach § 4 JVEG müssen die Kürzungsgrundlage konkret benennen; pauschale Unbrauchbarkeitsverweise genügen nicht.
-4. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Die Beschwerde nach § 4 Abs. 3 JVEG erfordert substantiierte Darlegung; das Beschwerdegericht ist auf den Prüfungsrahmen des Antragstellers beschränkt.
+3. OLG Köln, Beschl. v. 09.03.2017 – 17 W 3/17 — Die Beschwerde nach § 4 Abs. 3 JVEG erfordert substantiierte Darlegung; das Beschwerdegericht ist auf den Prüfungsrahmen des Antragstellers beschränkt.
 
 ## Kommentarliteratur
 - Meyer/Höver/Bach/Oberlack, JVEG, 27. Aufl. 2021, § 8a Rn. 1 ff.
@@ -237,3 +236,9 @@ Gründe:
 - → `jveg-festsetzung-beschwerde`
 - → `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` (Anwaltsseite)
 - → `ki-einsatz-bei-gutachten-mandatsseite` (Großkanzlei-Mandatsseite)
+
+<!-- AUDIT 27.05.2026
+BGH III ZR 329/16 (behauptet: Beschl. 11.09.2018, JVEG objektive Zeit) — FALSCH: echtes Thema ist Nichtzulassungsbeschwerde/Beschwer-Bemessung (Beschl. 11.01.2018); kein JVEG-Bezug. Ersetzt durch BGH X ZR 206/98 (16.12.2003, GRUR 2004, 446) — tatsächliche Leitentscheidung zu § 8 JVEG objektiver Maßstab.
+BGH IV ZR 163/17 (behauptet: Beschl. 26.09.2018, § 4 JVEG Festsetzungsbeschluss) — FALSCH: echtes Thema ist Versorgungsausgleich/Betriebs­rentenkürzung (Urt. 17.10.2018, VersR 2019, 380); kein JVEG-Bezug. Gelöscht; vorhandene OLG Köln 17 W 3/17 (Eintrag 4) bleibt als Nr. 3 bestehen.
+Quelle: dejure.org. Prüfer: Bundle-005-Audit.
+-->

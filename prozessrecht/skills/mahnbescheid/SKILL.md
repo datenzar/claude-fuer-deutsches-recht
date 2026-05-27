@@ -63,12 +63,7 @@ Das Modell benötigt:
   anforderung im Mahnverfahren; der Entstehungsgrund muss so bezeichnet sein, dass der
   Antragsgegner die Forderung zuordnen kann; Verweis auf „Lieferscheine" ohne Nummer
   unzureichend.
-- BGH, Urt. v. 25.09.2002 – VIII ZR 253/01, NJW 2002, 3771 Rn. 14: Vollstreckungsbescheid
-  als Titel; er steht nach § 700 Abs. 1 ZPO einem Versäumnisurteil gleich; Einspruchsfrist
-  beginnt erst mit ordnungsgemäßer Zustellung.
-- BGH, Beschl. v. 06.04.2011 – VII ZB 48/10, NJW-RR 2011, 993 Rn. 11: Zur Wiedereinsetzung
-  nach versäumter Widerspruchsfrist; enge Voraussetzungen; Verschulden des Anwalts wird dem
-  Mandanten zugerechnet.
+<!-- AUDIT 27.05.2026: VIII ZR 253/01 (NOT_FOUND bei dejure.org) geloescht; VII ZB 48/10 (NOT_FOUND bei dejure.org) geloescht. -->
 
 ### Kommentarliteratur
 
@@ -151,3 +146,8 @@ Nr. 3 BGB), was vorsorglich zu nutzen ist.
 Jede Aussage zu Zulässigkeit, Inhalt des Mahnantrags und Verjährungswirkung ist nach
 `references/zitierweise.md` zu belegen. BGH-Zitate vollständig (Datum, Az., NJW-Fundstelle,
 Rn.). Kommentare mit Bearbeiter, Werk, Aufl., §, Rn. Keine allgemeinen Pauschalverweise.
+
+
+---
+
+<!-- AUDIT-HINWEIS 27.05.2026: Halluzinierte BGH-Zitate entfernt (NOT_FOUND oder WRONG_TOPIC gemaess dejure.org-Pruefung). Betroffene AZ siehe inline-Kommentare. Frontmatter unveraendert. -->
