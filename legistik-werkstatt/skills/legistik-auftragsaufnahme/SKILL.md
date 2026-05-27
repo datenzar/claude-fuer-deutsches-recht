@@ -1,6 +1,6 @@
 ---
 name: legistik-auftragsaufnahme
-description: "Strukturierte Aufnahme eines legistischen Auftrags. Nimmt eine politische Vorgabe entgegen Koalitionsvertrag Beschluss Bundeskabinett Landtagsantrag Buergermeisterbeschluss Aufsichtsweisung. Bricht sie herunter in operationalisierbare Regelungsziele. Klaert Adressaten Buerger Unternehmen Verwaltung Gerichte. Klaert Eingriffstiefe deklaratorisch konstitutiv. Klaert Dringlichkeit Eckpunktepapier Referentenentwurf Formulierungshilfe Kabinettsentwurf. Erzeugt Auftragsblatt mit zehn Fragen Regelungsziel Adressat Eingriff Norm-Ebene Vorrang anderer Normen EU-Bezug Verfassungsbezug Folgen Zeitplan Beteiligte. Anschluss `normhierarchie-routing`."
+description: "Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen legistischen Vorhaben Koalitionsvertrag Beschluss Kabinett Landtag Aufsichtsweisung liegt vor. Klaert Adressaten Eingriffstiefe deklaratorisch oder konstitutiv Dringlichkeit Eckpunktepapier Referentenentwurf Formulierungshilfe Kabinettsentwurf Norm-Ebene Verfassungs- und EU-Bezug Zeitplan Beteiligte. Output Auftragsblatt mit zehn Fragen. Anschluss normhierarchie-routing. Abgrenzung zu normenkartierung bestehende Normen kartieren."
 ---
 
 # Legistik-Auftragsaufnahme

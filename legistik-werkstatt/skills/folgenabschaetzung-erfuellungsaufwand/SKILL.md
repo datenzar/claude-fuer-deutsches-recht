@@ -1,6 +1,6 @@
 ---
 name: folgenabschaetzung-erfuellungsaufwand
-description: "Pruefung Erfuellungsaufwand fuer Buerger Wirtschaft und Verwaltung. Methodisch nach Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands BMJ BMI Statistisches Bundesamt. Fallzahlen Bearbeitungszeit Lohnsatz. Pro Vorschrift pro Adressat. Erweiterung um Bagatell-Schwelle. Pruefung KMU-Aspekt mittelstandsrelevant ja nein. Aufnahme in Vorblatt und Begruendung. Endet mit Erfuellungsaufwand-Tabelle und Empfehlung zur NKR-Vorlage. Anschluss Folgenabschaetzung Nachhaltigkeit `folgenabschaetzung-nachhaltigkeit`."
+description: "Erfuellungsaufwand fuer Buerger Wirtschaft und Verwaltung ermitteln und darstellen. Anwendungsfall Referentenentwurf soll NKR-konformes Vorblatt und Begruendung erhalten oder NKR verlangt Nachbesserung. Methodik Leitfaden BMJ BMI Statistisches Bundesamt Fallzahlen Bearbeitungszeit Lohnsatz. Pro Vorschrift pro Adressat Bagatell-Schwelle KMU-Aspekt mittelstandsrelevant. One-in-one-out-Regel der Bundesregierung. Output Erfuellungsaufwand-Tabelle Vorblatt Begruendung Empfehlung NKR-Vorlage. Abgrenzung zu folgenabschaetzung-nachhaltigkeit SDG-Folgen."
 ---
 
 # Folgenabschätzung - Erfüllungsaufwand

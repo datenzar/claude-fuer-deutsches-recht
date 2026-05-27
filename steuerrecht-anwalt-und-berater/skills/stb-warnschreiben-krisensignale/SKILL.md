@@ -1,6 +1,6 @@
 ---
 name: stb-warnschreiben-krisensignale
-description: Schreibvorlage Steuerberater an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Pflichthinweis nach BGH IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 IX ZR 70/07 (Steuerberater-Hinweispflicht bei erkennbarer Krise) zur eigenen Haftungsvermeidung. Steuerberater ist regelmaessig externer Bestandteil des Krisenfrueherkennungssystems der Mandantin nach § 102 StaRUG — ohne seinen Hinweis kann die Geschaeftsleitung ihrer eigenen Pflicht nicht nachkommen. Bezug § 15a InsO Antragspflicht (drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung). Empfehlung anwaltlicher Beratung. Keine eigene Rechtsberatung (§ 5 RDG). Eingangsbestaetigung dokumentiert.
+description: "Schreibvorlage Steuerberater-Warnschreiben an Mandanten-Geschaeftsfuehrung bei Krisensignalen aus Bilanz BWA SuSa Liquiditaet. Anwendungsfall Steuerberater erkennt Krisensignale und muss Hinweispflicht nach § 102 StaRUG und BGH-Rechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 104/18 IX ZR 70/07 erfuellen um eigene Haftung zu vermeiden. Bezug Antragspflicht § 15a InsO drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung. Empfehlung anwaltlicher Beratung keine eigene Rechtsberatung § 5 RDG. Output Warnschreiben mit Belehrung und Eingangsbestaetigung. Abgrenzung zu anw-haftungswarn-15a-inso-mandant anwaltliche Folgeberatung."
 ---
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen

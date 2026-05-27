@@ -1,6 +1,6 @@
 ---
 name: stb-kaltstart-interview
-description: "Kaltstart-Interview für das Steuerberater-Werkzeuge-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md mit Angaben zur Rolle (Steuerberater / Wirtschaftsprüfer mit Steuermandat / Bilanzbuchhalter / Geschäftsführer mit Eigenverantwortung), Mandanten-Schwerpunkten (KMU / Freiberufler / GmbH / Selbstständige), Buchhaltungs-System (DATEV / Lexware / sevDesk / sonst) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-pruefen nur für eine Konnektoren-Prüfung."
+description: "Kaltstart-Interview fuer das Steuerberater-Plugin um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation oder Konfiguration enthaelt noch Platzhalter-Marker oder Re-Interview mit --redo oder Konnektoren-Pruefung mit --integrationen-pruefen. Erfragt Rolle Steuerberater Wirtschaftspruefer Bilanzbuchhalter Geschaeftsfuehrer Mandanten-Schwerpunkte KMU Freiberufler GmbH Buchhaltungs-System DATEV Lexware sevDesk Eskalationsstrukturen Schnittstelle Anwalt. Output Kanzlei-Konfigurationsprofil CLAUDE.md. Abgrenzung zu stb-bwa-sus-bilanz-pruefung mandatsbezogener Krisencheck."
 ---
 
 # /steuerrecht-anwalt-und-berater:stb-kaltstart-interview

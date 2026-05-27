@@ -1,6 +1,6 @@
 ---
 name: folgenabschaetzung-nachhaltigkeit
-description: "Pruefung weiterer Folgen Nachhaltigkeit. UN-SDGs zugewiesen pruefen welche SDG betroffen Bewertung positiv neutral negativ Begruendung. Demografiecheck Wirkung auf demografische Entwicklung Beruecksichtigung aelterer Buerger Familien. Gleichstellungspolitischer Check Wirkung auf Geschlechter Equal Pay Familien. Klimacheck Wirkung auf Treibhausgasemissionen Ressourcenverbrauch. Soziale Folgen Inklusion Teilhabe Armut. Endet mit Folgenmatrix plus Aufnahme in Vorblatt Abschnitt G und Begruendung Abschnitt A.VI.6."
+description: "Weitere Folgen und Nachhaltigkeitspruefung fuer Gesetzesentwurf erstellen. Anwendungsfall Referentenentwurf benoetigt Vorblatt Abschnitt G und Begruendung A.VI.6 zu Nachhaltigkeitsfolgen. UN-SDGs pruefen welche betroffen Bewertung positiv neutral negativ. Demografiecheck Wirkung auf aeltere Buerger Familien. Gleichstellungspolitischer Check Art. 3 GG Equal Pay. Klimacheck Treibhausgasemissionen Ressourcenverbrauch. Soziale Folgen Inklusion Teilhabe. Output Folgenmatrix Vorblatt Abschnitt G Begruendung A.VI.6. Abgrenzung zu folgenabschaetzung-erfuellungsaufwand Buerokratiekosten."
 ---
 
 # Folgenabschätzung - Nachhaltigkeit

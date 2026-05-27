@@ -1,6 +1,6 @@
 ---
 name: normenkartierung
-description: "Kartiert alle bestehenden Normen die durch das geplante Vorhaben beruehrt werden. Stammgesetz Verordnungsverordnungen Folgenormen Verweisnetz. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aufbau einer Aenderungsliste je Norm Paragraf Aenderungsart Einfuegen Aendern Aufheben Folgeaenderung. Identifiziert Verweisketten und Domino-Wirkungen. Pruefung ob Bezugsnormen aktuell gelten oder bereits in anderem Verfahren geaendert werden. Endet mit Aenderungsmatrix als Grundlage fuer Referentenentwurf und Synopse. Anschluss `terminologie-konsistenz` und `zirkelschluss-pruefen`."
+description: "Alle durch ein legistisches Vorhaben beruehrten Normen kartieren und Aenderungsmatrix aufbauen. Anwendungsfall neues Regelungsvorhaben soll vorbereitet werden alle betroffenen Gesetze Verordnungen und Verweisketten muessen identifiziert werden. Such-Strategie BGBl-Online Bundesrecht.de Landesrecht-Portal Juris BeckOnline. Aenderungsliste je Norm Einfuegen Aendern Aufheben Folgeaenderung. Verweisketten Domino-Wirkungen Pruefung laufende Parallelverfahren. Output Aenderungsmatrix Grundlage fuer Referentenentwurf und Synopse. Anschluss terminologie-konsistenz zirkelschluss-pruefen."
 ---
 
 # Normenkartierung

@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3-6-12-monate
-description: "Erstellt für eine GmbH/UG aus unstrukturierten Eingaben (Rechnungen, Bankauszüge, BWA, SuSa, Zahlungserwartungen, Daueraufträge) eine robuste rollierende Liquiditätsvorschau mit Wochenraster über 3 und 6 und 12 Monate. Prüft fortlaufend, ob Zahlungsunfähigkeit nach § 17 InsO (10-%-Lücke / 3-Wochen-Horizont) droht oder bereits eingetreten ist, und liefert eine insolvenzrechtliche Fortführungsprognose unter Beachtung der Abgrenzung zwischen handelsbilanzieller und insolvenzrechtlicher Überschuldung (§ 19 InsO). Methodik nach IDW S 6 (Sanierungskonzept) und IDW S 11 (Insolvenzeröffnungsgründe). Exportiert die Tabelle nach Excel."
+description: "Rollierende Liquiditaetsvorschau 3-6-12 Monate fuer GmbH oder UG erstellen mit insolvenzrechtlicher Fortbestehensprognose. Anwendungsfall Steuerberater begleitet Krisenmandat und benoetigt strukturierte Zahlungsplanung fuer Insolvenzreife-Pruefung. Methodisch nach IDW S 6 Sanierungskonzept und IDW S 11 Insolvenzoeffnungsgruende. Wochenraster Pruefung Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Luecke drei Wochen Ueberschuldung § 19 InsO. Output rollierende Tabelle Ampel-Bewertung Excel-Export. Abgrenzung zu stb-liquiditaetsvorschau-3wochen Kurzfristversion."
 ---
 
 # Rollierende Liquiditätsvorschau 3/6/12 Monate mit Fortführungsprognose (§§ 17, 19 InsO)

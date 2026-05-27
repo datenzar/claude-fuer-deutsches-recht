@@ -1,6 +1,6 @@
 ---
 name: stb-drv-sozialversicherungspruefung
-description: "DRV-Sozialversicherungspruefung Begleitung durch Steuerberater. Pruefturnus alle vier Jahre § 28p SGB IV. Pruefungsschwerpunkte Statusfeststellung GF Scheinselbststaendigkeit Mini- und Midijobs Phantomlohn-Saetze BAGB-Stundenlohn Mindestlohn. § 266a StGB Strafbarkeit unterlassener Arbeitnehmer-Anteil. Haftungsrisiko Geschaeftsfuehrung § 69 AO i.V.m. Lohnsteuer-AP. Schreibvorlagen Mitwirkung Anhoerung Widerspruch."
+description: "Steuerberater-Begleitung der DRV-Sozialversicherungspruefung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Pruefankuendigung oder Pruefung laeuft bereits. Pruefungsschwerpunkte Statusfeststellung GF Scheinselbststaendigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenpruefung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern GF-Haftung Steuer."
 ---
 
 # DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung

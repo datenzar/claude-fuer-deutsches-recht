@@ -1,6 +1,6 @@
 ---
 name: anw-kaltstart-interview
-description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei. Erfragt Schwerpunktbereiche (Einkommensteuer / Umsatzsteuer / Koerperschaftsteuer / Gewerbesteuer / Erbschaftsteuer / Steuerstrafrecht) typische Mandate (Einspruch Klage Aussetzung der Vollziehung Aussenpruefungs-Begleitung Selbstanzeige) zustaendige Finanzaemter und Finanzgerichte Schnittstelle zum Steuerberater des Mandanten Aktenstruktur Versandwege ELSTER-Praxis fuer Finanzaemter und beA-Praxis fuer Finanzgerichte und Eskalation. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/steuerrecht-anwalt-und-berater/CLAUDE.md."
+description: "Kaltstart-Interview fuer die steuerrechtsanwaltliche Kanzlei um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation Plugin oder Konfiguration enthaelt noch Platzhalter-Marker. Erfragt Schwerpunktbereiche ESt USt KSt GewSt ErbSt Steuerstrafrecht typische Mandate Einspruch Klage AdV Aussenpruefungs-Begleitung Selbstanzeige zustaendige Finanzaemter und Finanzgerichte Schnittstelle Steuerberater Aktenstruktur ELSTER-Praxis beA-Praxis. Output Kanzlei-Konfigurationsprofil unter CLAUDE.md Verzeichnis. Abgrenzung zu anw-mandat-triage-steuerrecht das mandatsbezogen arbeitet."
 ---
 
 # /steuerrecht-anwalt-und-berater:anw-kaltstart-interview

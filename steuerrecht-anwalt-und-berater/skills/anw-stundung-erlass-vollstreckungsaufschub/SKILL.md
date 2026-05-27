@@ -1,6 +1,6 @@
 ---
 name: anw-stundung-erlass-vollstreckungsaufschub
-description: "Antraege auf Stundung § 222 AO Erlass § 227 AO und Vollstreckungsaufschub § 258 AO bei Zahlungskrise des Mandanten. Stundung erhebliche Haerte ohne Gefaehrdung des Anspruchs. Erlass aus persoenlichen oder sachlichen Billigkeitsgruenden. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg. Verzinsung § 234 AO im Falle Stundung. Schreibvorlage Antrag Begruendung Sicherheitsleistung Ratenzahlungsplan."
+description: "Antraege auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann faellige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persoenlichen oder sachlichen Billigkeitsgruenden § 227 AO. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg § 258 AO Verzinsung bei Stundung § 234 AO. Output Antrag mit Begruendung Sicherheitsleistung Ratenzahlungsplan. Abgrenzung zu anw-aussetzung-vollziehung AdV und anw-insolvenzreife-pruefung-17-19-inso."
 ---
 
 # Stundung § 222 AO / Erlass § 227 AO / Vollstreckungsaufschub § 258 AO

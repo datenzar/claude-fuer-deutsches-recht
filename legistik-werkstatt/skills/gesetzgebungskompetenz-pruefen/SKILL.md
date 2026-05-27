@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-pruefen
-description: "Vertiefte Pruefung der Gesetzgebungskompetenz nach Art. 70 bis 74 GG bzw. nach Landesverfassung. Ausschliessliche Bundeskompetenz Art. 71 iVm 73 GG. Konkurrierende Kompetenz Art. 72 iVm 74 GG mit Erforderlichkeitsklausel und Abweichungskompetenz Laender. Auffangkompetenz Laender Art. 70 GG. Pruefung Sperrwirkung von Bundesrecht. Pruefung Annexkompetenz und Kompetenz kraft Sachzusammenhangs BVerfGE 3 / 407. Bei Landesgesetzen Pruefung Landesverfassung. Endet mit Gutachten ein bis zwei Seiten plus Empfehlung ob Vorhaben kompetenzrechtlich tragfaehig."
+description: "Gesetzgebungskompetenz nach Art. 70 bis 74 GG pruefen bevor Entwurf aufgesetzt wird. Anwendungsfall Referent oder Verband fragt ob Bund oder Land regelungsbefogt ist. Ausschliessliche Bundeskompetenz Art. 71 i.V.m. 73 GG. Konkurrierende Kompetenz Art. 72 i.V.m. 74 GG Erforderlichkeitsklausel Abweichung Laender. Auffangkompetenz Laender Art. 70 GG Sperrwirkung Bundesrecht. Annexkompetenz Kompetenz kraft Sachzusammenhangs BVerfGE 3/407. Bei Landesgesetzen zusaetzlich Landesverfassung. Output Gutachten ein bis zwei Seiten Empfehlung Tragfaehigkeit. Abgrenzung zu normhierarchie-routing Normebenenwahl."
 ---
 
 # Gesetzgebungskompetenz prüfen

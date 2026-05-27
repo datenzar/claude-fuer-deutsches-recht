@@ -1,6 +1,6 @@
 ---
 name: anw-fristenbuch-steuerrecht
-description: Fristenbuch fuer steuerrechtliche Verfahren — pflegt zentrale Datei mit Hauptfristen und Vorfristen. Standardfristen AO (§ 355 Einspruch ein Monat / § 356 ein Jahr bei fehlender Rechtsbehelfsbelehrung) FGO (§ 47 Klage ein Monat / § 116 Nichtzulassungsbeschwerde ein Monat / § 120 Revisionsbegruendung zwei Monate). Berechnet Fristbeginn nach § 122 Abs. 2 AO Vier-Tages-Fiktion (seit 1.1.2025 PostModG; bis 31.12.2024 Drei-Tages-Fiktion) und § 108 AO Fristberechnung. Vorfristen typisch fuenf Tage vor Hauptfrist.
+description: "Fristenbuch fuer steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegruendung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen."
 ---
 
 # Fristenbuch Steuerrecht

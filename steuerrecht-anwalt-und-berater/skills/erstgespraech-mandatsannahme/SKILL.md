@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Steuerrecht (Beratung und Prozess): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden fuer Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Pruefraster Konflikt- und GwG-Check §§ 10 ff. GwG Vollmacht Streitwert Gebuehrenvereinbarung Fristen-Erstprognose Einspruch § 355 AO Klage FG § 47 FGO BFH-Revision § 120 FGO. Output Mandatsannahme-Dokumentation Vollmacht Gebuehrenvereinbarung Fristenliste. Abgrenzung zu anw-mandat-triage-steuerrecht mandatsbezogene Triage."
 ---
 
 # Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess)

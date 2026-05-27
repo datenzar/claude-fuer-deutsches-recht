@@ -1,6 +1,6 @@
 ---
 name: satzungskompetenz-pruefen
-description: "Pruefung Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentlichen Rechts. Kommunen Art. 28 Abs. 2 GG plus Gemeindeordnung Land. Berufsstaendische Kammern BRAO BAeO IHK-Gesetz HwO. Hochschulen Hochschulgesetz Land. Sozialversicherungstraeger SGB IV Paragraf 33. Rundfunkanstalten Landesrundfunkgesetze. Pruefung Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33 / 125. Pruefung Ermaechtigungsgrundlage muss Inhalt Zweck Ausmass abdecken auch bei Satzungen. Pruefung Genehmigungsvorbehalt durch Aufsichtsbehoerde. Bekanntmachung im richtigen Publikationsorgan. Endet mit Empfehlung Satzung auf welcher Grundlage erlassbar."
+description: "Satzungskompetenz fuer Koerperschaften und Anstalten des oeffentlichen Rechts pruefen. Anwendungsfall Gemeinde Kammer Hochschule oder Sozialversicherungstraeger will Satzung erlassen und Rechtsgrundlage muss geprueft werden. Kommunen Art. 28 Abs. 2 GG Gemeindeordnung Berufsstaendische Kammern BRAO IHK-Gesetz HwO Hochschulen Hochschulgesetz Sozialversicherungstraeger § 33 SGB IV. Vorbehalt des Gesetzes Wesentlichkeitstheorie BVerfGE 33/125 Ermaechtigungsgrundlage Inhalt Zweck Ausmass Genehmigungsvorbehalt Aufsichtsbehoerde Bekanntmachung richtiges Publikationsorgan. Output Empfehlung Satzung auf welcher Grundlage erlassbar."
 ---
 
 # Satzungskompetenz prüfen

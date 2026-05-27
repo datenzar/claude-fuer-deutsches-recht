@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Erstellt einen vollstaendigen Referentenentwurf des Bundes oder Landes. Format gemaess HdR. Deckblatt Bezeichnung Inhaltsuebersicht A Problem und Ziel B Loesung C Alternativen D Haushaltsausgaben E Erfuellungsaufwand F weitere Kosten G weitere Folgen H Gleichstellungspolitische Bedeutung. Entwurfstext mit Artikeln und Paragrafen. Strukturen bei Sachverhalten Definition Hauptregel Ausnahmen Sanktionen Uebergang. Inkrafttretensregelung. Pruefliste gegen GGO und HdR. Endet mit Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss `begruendung-allgemein-und-besonders` und `synopse-erstellen`."
+description: "Vollstaendigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen Normebene ist bestimmt Entwurfstext und Begruendung muessen nach HdR erstellt werden. Format HdR Deckblatt Vorblatt A Problem und Ziel B Loesung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- und HdR-Pruefliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begruendung-allgemein-und-besonders synopse-erstellen."
 ---
 
 # Referentenentwurf bauen

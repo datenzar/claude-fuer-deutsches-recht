@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-docx-pdf
-description: "Rendert Referentenentwuerfe, Kabinettsvorlagen, Formulierungshilfen, BT-Drucksachen-Layout, Synopsen und Lesefassungen als DOCX (und optional PDF) im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages nach Handbuch der Rechtsfoermlichkeit (HdR). Verwendet python-docx, das mitgelieferte Stylesheet und die Vorlagen im assets-Ordner. Beachtet Schriftart, Seitenrand, Kopf- und Fusszeile, Sperrsatz fuer Ueberschriften, Artikel- und Paragraphennummerierung, Aenderungsbefehle in Kursivsatz mit Anfuehrungszeichen, A-F-Vorblattgliederung, Begruendung Teil A und Teil B, Spaltensynopsen, Nationaler Normenkontrollrat-Stellungnahme, Anschreiben des Bundeskanzlers, korrekte Fusszeile mit Drucksachennummer und Wahlperiode."
+description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages rendern. Anwendungsfall fertiger Entwurf soll als lieferfaehiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR ausgegeben werden. Referentenentwurf Kabinettsvorlage Formulierungshilfe BT-Drucksachen-Layout Synopsen Lesefassungen. Schriftart Seitenrand Kopf- und Fusszeile Sperrsatz Artikel- und Paragraphennummerierung Aenderungsbefehle Kursivsatz A-F-Vorblatt Begruendung Teil A und B NKR-Stellungnahme Drucksachennummer Wahlperiode. Output DOCX und optional PDF. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
 ---
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout

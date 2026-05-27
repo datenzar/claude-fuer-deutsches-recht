@@ -1,6 +1,6 @@
 ---
 name: inkrafttreten-uebergangsrecht
-description: "Erstellt Inkrafttretens- und Uebergangsregelung. Standardformel und Sonderfaelle. Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf Pruefung. Gestaffeltes Inkrafttreten verschiedene Artikel zu verschiedenen Daten. Bei EU-Bezug Stillhalteperiode der Notifizierung beachten. Aussenwirkung erst nach Bekanntmachung BGBl Bundesanzeiger. Endet mit Paragraf Inkrafttreten plus Uebergangsregelung formuliert."
+description: "Inkrafttretens- und Uebergangsregelung fuer Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Uebergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf pruefen. Gestaffeltes Inkrafttreten verschiedene Artikel. EU-Bezug Stillhalteperiode Notifizierung. Aussenwirkung erst nach Bekanntmachung BGBl. Output Paragraf Inkrafttreten plus Uebergangsregelung fertig formuliert."
 ---
 
 # Inkrafttreten und Übergangsrecht

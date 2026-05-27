@@ -1,6 +1,6 @@
 ---
 name: verfassungsmaessigkeit-quercheck
-description: "Querschnittspruefung Verfassungsmaessigkeit eines Entwurfs. Pruefung Grundrechte berechtigter Eingriff Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. Pruefung Gleichbehandlung Art. 3 GG Differenzierung sachlicher Grund. Pruefung Berufsfreiheit Art. 12 GG Drei-Stufen-Theorie. Pruefung Eigentum Art. 14 GG Inhalts- und Schrankenbestimmung Enteignung. Pruefung Bestimmtheitsgebot Art. 20 Abs. 3 GG bei Strafnormen Art. 103 Abs. 2 GG. Wesentlichkeitstheorie BVerfG. Selbstverwaltungsgarantie Art. 28 Abs. 2 GG bei Eingriffen in Kommunen. Endet mit Querprotokoll plus konkreten Aenderungsempfehlungen."
+description: "Querschnittspruefung Verfassungsmaessigkeit eines Gesetzesentwurfs oder einer Verordnung. Anwendungsfall Entwurf soll vor Ressortabstimmung oder NKR-Vorlage verfassungsrechtlich abgesichert werden oder Verband prueft eingegangenen Entwurf. Grundrechte Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. Gleichbehandlung Art. 3 GG Berufsfreiheit Art. 12 GG Drei-Stufen-Theorie Eigentum Art. 14 GG Bestimmtheitsgebot Art. 20 Abs. 3 GG bei Strafnormen Art. 103 Abs. 2 GG. Wesentlichkeitstheorie BVerfG Selbstverwaltungsgarantie Art. 28 Abs. 2 GG. Output Querprotokoll konkrete Aenderungsempfehlungen. Abgrenzung zu europarechtskonformitaet EU-Recht."
 ---
 
 # Verfassungsmaessigkeit-Quercheck

@@ -1,6 +1,6 @@
 ---
 name: lesefassung-konsolidiert
-description: "Erstellt eine Lesefassung des geaenderten Stammgesetzes in der nach Inkrafttreten gueltigen Form. Einheitlich gelesen ohne Aenderungsmarkierung. Hilfreich fuer Adressaten und Vollzugsbehoerden. Pro Stammgesetz eine eigene Datei. Praezise Datierung Stand nach Inkrafttreten des neuen Gesetzes und der zugehoerigen Verordnung. Mit Pruefliste Format-Konventionen Inkrafttretens-Handling Verweis-Pflege Beispiel-Header DOCX-Ausgabe-Konventionen."
+description: "Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttreten. Format-Konventionen Inkrafttretens-Handling Verweis-Pflege DOCX-Ausgabe. Output Lesefassung pro Stammgesetz bereinigt datiert. Abgrenzung zu synopse-erstellen Gegenueberestellung alt und neu."
 ---
 
 # Lesefassung konsolidiert

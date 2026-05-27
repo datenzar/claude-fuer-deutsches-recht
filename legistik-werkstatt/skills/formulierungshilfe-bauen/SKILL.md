@@ -1,6 +1,6 @@
 ---
 name: formulierungshilfe-bauen
-description: "Erstellt eine Formulierungshilfe aus der Mitte des Bundestages oder Landtages. Kurzform die ein Aenderungsantrag der Koalitionsfraktionen aufgreifen kann. Vorteil schnelle Behandlung umgeht Ressortabstimmung Verbaendeanhoerung und Normenkontrollrat. Risiko verkuerzte Pruefung Verfassungs- und Europarechtskonformitaet. Aufbau Aenderungsantrag Wortlaut Begruendung Knapp drei bis fuenf Saetze. Hinweis Nutzungspolitik im Bundestag bzw. Landtag. Endet mit Formulierungshilfen-Text bereit zur Uebergabe an Koalitionsfraktionen. Anschluss verkuerzte Begruendung und Sofort-Quercheck Verfassung Europarecht."
+description: "Formulierungshilfe aus der Mitte des Bundestages oder Landtages aufbauen. Anwendungsfall Koalitionsfraktionen wollen Aenderung einbringen ohne neues Ressortabstimmungsverfahren und Verbandeanhoerung zu starten. Aufbau Aenderungsantrag Wortlaut knappe Begruendung drei bis fuenf Saetze. Vorteil schnelle Behandlung. Risiko verkuerzte Verfassungs- und Europarechts-Pruefung. Sofort-Quercheck Verfassung Europarecht. Output Formulierungshilfen-Text bereit zur Uebergabe an Koalitionsfraktionen. Abgrenzung zu referentenentwurf-bauen vollstaendiges Ministerialverfahren."
 ---
 
 # Formulierungshilfe bauen

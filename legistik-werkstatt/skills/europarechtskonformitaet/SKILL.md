@@ -1,6 +1,6 @@
 ---
 name: europarechtskonformitaet
-description: "Pruefung der Vereinbarkeit eines legistischen Vorhabens mit EU-Recht. Primaerrecht EUV AEUV Charta der Grundrechte. Sekundaerrecht Verordnungen Richtlinien. Pruefung Anwendungsbereich Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. EuGH-Rechtsprechung. Pruefung Notifizierungspflicht 2015/1535 fuer technische Vorschriften und IT-Vorschriften. Pruefung Subsidiaritaetsprinzip und Verhaeltnismaessigkeitsgrundsatz EU Art. 5 EUV. Pruefung Vorlagepflicht Art. 267 AEUV bei spaeteren Streitigkeiten. Endet mit Pruefgutachten ein bis drei Seiten plus Empfehlung Notifizierungs-Vermerk."
+description: "Gesetzesentwurf oder Verordnung auf Vereinbarkeit mit EU-Recht pruefen. Anwendungsfall Referent oder Verband fragt ob nationales Vorhaben mit EU-Recht vereinbar ist oder ob Notifizierungspflicht besteht. Primaerrecht EUV AEUV Grundrechtecharta Sekundaerrecht Verordnungen Richtlinien. Pruefung Anwendungsbereich Schutzbereich Eingriff Rechtfertigung Verhaeltnismaessigkeit. Notifizierungspflicht Richtlinie 2015/1535 technische Vorschriften IT-Vorschriften. Subsidiaritaet Verhaeltnismaessigkeit Art. 5 EUV Vorlagepflicht Art. 267 AEUV. Output Pruefgutachten ein bis drei Seiten Notifizierungs-Vermerk Empfehlung. Abgrenzung zu verfassungsmaessigkeit-quercheck nationales Verfassungsrecht."
 ---
 
 # Europarechtskonformität

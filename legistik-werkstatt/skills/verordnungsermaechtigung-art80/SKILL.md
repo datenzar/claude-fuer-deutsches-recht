@@ -1,6 +1,6 @@
 ---
 name: verordnungsermaechtigung-art80
-description: "Pruefung Verordnungsermaechtigung Art. 80 Abs. 1 GG. Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz hinreichend bestimmt sein. Bestimmtheitstrias. Pruefung ob Ermaechtigung existiert ob sie das geplante Regelungsziel deckt ob Sub-Delegation moeglich ist Art. 80 Abs. 1 Satz 4 GG. Auf Landesebene Pruefung Landesverfassung in der Regel parallel zu Art. 80 GG. Wenn Ermaechtigung fehlt oder zu unbestimmt zunaechst Gesetzgebungsverfahren um Ermaechtigung zu schaffen oder zu schaerfen. Endet mit Pruefprotokoll und Empfehlung Verordnung auf welcher Grundlage oder Ermaechtigungsgrundlage schaerfen."
+description: "Verordnungsermaechtigung nach Art. 80 Abs. 1 GG pruefen bevor Rechtsverordnung entworfen wird. Anwendungsfall geplante Rechtsverordnung und Anwalt oder Referent fragt ob Ermaechtigungsgrundlage genuegend bestimmt ist. Bestimmtheitstrias Inhalt Zweck Ausmass muessen im ermaechtigenden Gesetz stehen. Pruefung ob Ermaechtigung das Regelungsziel deckt Sub-Delegation Art. 80 Abs. 1 S. 4 GG. Landesebene Landesverfassung parallel zu Art. 80 GG. Wenn Ermaechtigung fehlt zunaechst Gesetzgebungsverfahren. Output Pruefprotokoll Empfehlung Verordnung auf welcher Grundlage oder Ermaechtigung schaerfen. Abgrenzung zu gesetzgebungskompetenz-pruefen Kompetenztitel."
 ---
 
 # Verordnungsermaechtigung Art. 80 GG

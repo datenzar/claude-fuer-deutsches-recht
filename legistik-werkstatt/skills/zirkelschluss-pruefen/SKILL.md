@@ -1,6 +1,6 @@
 ---
 name: zirkelschluss-pruefen
-description: "Pruefung auf Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf. Eine Norm darf nicht ueber Umwege auf sich selbst verweisen. Auch indirekte Zirkel vermeiden A verweist B B verweist C C verweist A. Pruefung tautologischer Definitionen Vermutung der Vermutung. Pruefung Reichweite dynamischer Verweisungen auf EU-Recht. Pruefung statischer Verweisungen Datum der Fassung. Erstellt Verweisgraf und markiert problematische Kanten. Endet mit Liste der zu entzerrenden Stellen."
+description: "Zirkelschluesse und kreisfreie Verweisketten im legistischen Entwurf aufspueren. Anwendungsfall Entwurf enthaelt viele Querverweise und soll auf ungewollte Zirkel und tautologische Definitionen geprueft werden. Direkte Zirkel A verweist auf A indirekte Zirkel A verweist B B verweist C C verweist A. Tautologische Definitionen Vermutung der Vermutung. Dynamische Verweisungen auf EU-Recht Pruefung Reichweite statische Verweisungen Datum der Fassung. Erstellt Verweisgraf markiert problematische Kanten. Output Liste der zu entzerrenden Stellen. Anschluss terminologie-konsistenz normenkartierung."
 ---
 
 # Zirkelschluss prüfen

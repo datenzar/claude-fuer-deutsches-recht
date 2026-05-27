@@ -1,6 +1,6 @@
 ---
 name: terminologie-konsistenz
-description: "Pruefung Terminologie-Konsistenz im legistischen Entwurf. Neue Legaldefinitionen pruefen ob Begriff bereits in anderem Gesetz definiert ist. Bei Abweichung Pruefung ob Abweichung gerechtfertigt und ausdruecklich oder versehentliche Bruchbildung. Pruefung im Entwurf selbst ob Begriffe konsistent verwendet werden. Faustregel ein Begriff eine Bedeutung. Erfassung in einer Begriffstabelle. Pruefung gegen Handbuch der Rechtsfoermlichkeit HdR und gegen Gemeinsame Geschaeftsordnung der Bundesministerien GGO. Endet mit Begriffsliste plus Markierung kritischer Faelle plus Aenderungsvorschlag."
+description: "Terminologie-Konsistenz im legistischen Entwurf pruefen und Begriffstabelle aufbauen. Anwendungsfall Entwurf enthaelt neue Legaldefinitionen oder Referent prueft ob Begriffe konsistent verwendet werden und keine ungewollten Abweichungen von bestehenden Legaldefinitionen in anderen Gesetzen vorliegen. Faustregel ein Begriff eine Bedeutung. Pruefung gegen HdR und GGO. Abweichung gerechtfertigt und ausdruecklich oder versehentliche Bruchbildung. Output Begriffsliste kritische Faelle markiert Aenderungsvorschlag."
 ---
 
 # Terminologie-Konsistenz

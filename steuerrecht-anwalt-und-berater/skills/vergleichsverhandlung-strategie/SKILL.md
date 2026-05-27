@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Steuerrecht (Beratung und Prozess): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlungs-Strategie fuer Steuerstreit und Steuerprozess entwickeln. Anwendungsfall Mandant will Steuerstreit durch Einigung beenden ohne Urteil oder Verfahren steht vor Schlussbesprechung oder Eroerrterungstermin FG. ZOPA BATNA Verhandlungsfenster Druckmittel Settlement-Skript. Tatsaechliche Verstaendigung BFH IV R 87/85 Schlussbesprechung § 201 AO Eroerrterungstermin FG § 79 FGO. Output Verhandlungsstrategie-Memo Vergleichsentwurf Protokoll- oder Anwaltsvergleich. Abgrenzung zu anw-tatsaechliche-verstaendigung-schlussbesprechung und anw-steuerstrafverteidigung-verstaendigung."
 ---
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)

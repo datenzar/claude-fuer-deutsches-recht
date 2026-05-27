@@ -1,6 +1,6 @@
 ---
 name: normhierarchie-routing
-description: "Entscheidet welche Norm-Ebene fuer einen legistischen Auftrag richtig ist Bundesgesetz Landesgesetz Rechtsverordnung Bund Rechtsverordnung Land Satzung Koerperschaft. Pruefkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG ausschliesslich konkurrierend Erforderlichkeitsklausel Art. 72 Abs. 2 GG. Landeskompetenz Auffangzustaendigkeit. Verordnungsermaechtigung Art. 80 GG. Satzungskompetenz Art. 28 Abs. 2 GG. Vorrang des Gesetzes Wesentlichkeitstheorie BVerfG. Wenn Buergerrechte oder Strafe nur Gesetz nicht VO oder Satzung. Endet mit Entscheidung plus Begruendung in drei Saetzen plus Verweis auf naechsten Pruef-Skill."
+description: "Richtige Normbene fuer ein legistisches Vorhaben bestimmen Bundesgesetz Landesgesetz Rechtsverordnung oder Satzung. Anwendungsfall politische Vorgabe liegt vor unklar auf welcher Ebene geregelt werden soll. Pruefkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG Landeskompetenz Verordnungsermaechtigung Art. 80 GG Satzungskompetenz Art. 28 Abs. 2 GG Wesentlichkeitstheorie BVerfG Vorbehalt des Gesetzes. Bei Buergerrechten oder Strafnormen nur Gesetz. Output Normebenentscheidung Begruendung drei Saetze Verweis naechster Skill. Anschluss gesetzgebungskompetenz-pruefen verordnungsermaechtigung-art80."
 ---
 
 # Normhierarchie-Routing

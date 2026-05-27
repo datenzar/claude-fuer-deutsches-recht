@@ -1,6 +1,6 @@
 ---
 name: anw-dac7-dac8-plattformen-krypto
-description: "DAC7-Meldepflichten fuer digitale Plattformen seit 1.1.2023 (PStTG umgesetzt 2022) sowie DAC8-Meldepflichten fuer Krypto-Vermoegens-Dienstleister seit 1.1.2026 (KryptoStG umgesetzt 2024). Meldepflichten Quartalsweise jaehrlich. Meldepflichten Anbieter (Plattformbetreiber Krypto-Dienstleister) und steuerliche Erfassung Anbieter. Verfahren Erfassung Datenpruefung Bussgeld § 379 AO Vermeidungsstrategie. Beratung Plattform-Betreiber und Krypto-Inhaber."
+description: "Beratung zu DAC7-Meldepflichten fuer digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten fuer Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Pruefung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bussgeld § 379 AO bei Verletzung. Output Compliance-Pruefliste Meldeprozess Vermeidungsstrategie Beratungsmemo fuer Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024."
 ---
 
 # DAC7 & DAC8 — Meldepflichten Plattformen und Krypto

@@ -1,6 +1,6 @@
 ---
 name: begruendung-allgemein-und-besonders
-description: "Erstellt die zweiteilige Begruendung zu einem Entwurf. Allgemeiner Teil A Anlass und Ziel der Gesetzgebung B wesentlicher Inhalt C Alternativen D Erfuellungsaufwand E weitere Kosten F weitere Folgen. Besonderer Teil B nach jedem geaenderten Paragrafen Erlaeuterung was wird geaendert warum wie ist es zu verstehen welche Auslegungsfragen sind absehbar Bezug zu Rechtsprechung BVerfG BVerwG BGH BSG BFH BAG EuGH. Verweis auf bestehende Kommentare und Aufsaetze wo absehbar. Endet mit vollstaendiger Begruendung. Anschluss `synopse-erstellen` und `xml-paralleldarstellung`."
+description: "Zweiteilige Begruendung zu einem Gesetzesentwurf oder einer Verordnung verfassen. Anwendungsfall Referentenentwurf oder Kabinettsentwurf ist fertig und Begruendung muss nach HdR-Schema aufgebaut werden. Allgemeiner Teil A Anlass und Ziel B wesentlicher Inhalt C Alternativen D Erfuellungsaufwand E weitere Kosten F weitere Folgen. Besonderer Teil Erlaeuterung je geaendertem Paragrafen was geaendert wird warum wie es zu verstehen ist absehbare Auslegungsfragen Bezug BVerfG BVerwG BGH BSG BFH BAG EuGH-Rechtsprechung. Output vollstaendige Begruendung. Anschluss synopse-erstellen xml-paralleldarstellung."
 ---
 
 # Begründung allgemein und besonders

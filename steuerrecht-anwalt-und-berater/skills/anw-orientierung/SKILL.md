@@ -1,6 +1,6 @@
 ---
 name: anw-orientierung
-description: Orientierung Anwalt im Steuerrecht. AO Abgabenordnung EStG KStG UStG GewStG ErbStG GrEStG. Einspruch § 347 AO Frist ein Monat AdV § 361 AO. Aussenpruefung §§ 193 ff. AO Schlussbesprechung. Finanzgerichtsverfahren FGO Klage beim FG dann Revision BFH. Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. Standardliteratur Tipke/Kruse HHSp L. Schmidt EStG. Anhang FAO § 9 Voraussetzungen Fachanwaltschaft.
+description: "Orientierungs-Skill fuer Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Ueberblick ueber verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenpruefung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. Standardliteratur Tipke/Kruse HHSp L. Schmidt EStG. Output Ueberblick verfuegbare Skills und Routing zu Spezial-Skills. FAO § 9 Fachanwaltsvoraussetzungen als Anhang."
 ---
 
 # Anwalt im Steuerrecht — Orientierung

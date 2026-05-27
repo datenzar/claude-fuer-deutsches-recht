@@ -1,6 +1,6 @@
 ---
 name: anw-aussetzung-vollziehung
-description: Antrag auf Aussetzung der Vollziehung — zweistufiges Verfahren. Zunaechst an das Finanzamt nach § 361 Abs. 2 AO im Einspruchsverfahren bei ernstlichen Zweifeln an der Rechtmaessigkeit oder unbilliger Haerte. Bei Ablehnung Antrag an das Finanzgericht nach § 69 Abs. 3 FGO. Prueft Anordnungsanspruch (ernstliche Zweifel oder unbillige Haerte) und Anordnungsgrund (Vollziehung droht). Inkludiert eidesstattliche Versicherung. Erforderlich um Steuerschuld bis zur Streitentscheidung nicht zahlen zu muessen.
+description: "Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmaessigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Pruefung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub."
 ---
 
 # Aussetzung der Vollziehung (AdV)

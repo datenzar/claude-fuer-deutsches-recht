@@ -1,6 +1,6 @@
 ---
 name: anw-aussenpruefung-strategien
-description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach §§ 193 ff. AO. Pruefungsanordnung (§ 196 AO) Anfechtung Pruefungsumfang (§ 194 AO) Mitwirkungspflichten (§ 200 AO) Datenzugriff (§ 147 AO) Auskunftsverweigerungsrecht (§§ 102 103 AO) Trennungsprinzip (§ 393 AO). Schlussbesprechung (§ 201 AO) Pruefungsbericht (§ 202 AO) Verbindliche Zusage (§ 204 AO). Strategie aktive Mitwirkung dokumentierter Widerspruch Vergleichs-Verhandlung GoBD DSFinV-K. Aenderungsbescheide §§ 173 175 AO.
+description: "Anwaltliche Begleitung einer Betriebspruefung Aussenpruefung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Pruefungsanordnung § 196 AO oder Pruefung laeuft bereits. Pruefraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Pruefungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verstaendigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verstaendigung-schlussbesprechung."
 ---
 
 # Außenprüfung — Strategien und Begleitung

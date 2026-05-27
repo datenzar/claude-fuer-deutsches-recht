@@ -1,6 +1,6 @@
 ---
 name: anw-klage-finanzgericht
-description: Entwurf einer Klage zum Finanzgericht nach §§ 40 ff. FGO. Klagefrist ein Monat nach Bekanntgabe der Einspruchsentscheidung (§ 47 Abs. 1 FGO); ein Jahr bei fehlender Rechtsbehelfsbelehrung (§ 55 FGO). Untaetigkeitsklage nach sechs Monaten ohne Einspruchsentscheidung (§ 46 FGO). Sachliche Zustaendigkeit Finanzgericht (§ 33 FGO) oertlich Beklagtensitz Finanzamt (§ 38 FGO). beA-Pflicht. Erzeugt Klageschrift Anlagen Beweisangebote nach FGO-Standards.
+description: "Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurueckgewiesen Mandant will Klage einreichen oder Untaetigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untaetigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zustaendigkeit FG § 33 FGO oertlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde."
 ---
 
 # Klage zum Finanzgericht

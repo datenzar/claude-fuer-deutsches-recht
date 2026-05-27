@@ -1,6 +1,6 @@
 ---
 name: anw-betriebsausgaben-werbungskosten-pruefraster
-description: Pruefraster fuer die Abgrenzung Betriebsausgaben § 4 Abs. 4 EStG und Werbungskosten § 9 EStG von Kosten der privaten Lebensfuehrung § 12 EStG. Anwendung Aufteilungsgebot bei gemischt veranlassten Aufwendungen GrS BFH GrS 1/06 und Folge-Rechtsprechung. Spezial-Faelle Arbeitsmittel doppelte Haushaltsfuehrung Fahrtkosten Pendlerpauschale Verpflegungsmehraufwand Fortbildung Studienreisen Pkw-Nutzung Wirtschaftsmittel betrieblich und privat Bewirtungsaufwendungen Bestechung § 4 Abs. 5 Satz 1 Nr. 10 EStG Geschenke Reisekosten BAB Sponsoring Spenden. Beruecksichtigt Nachweispflicht und Aufzeichnungspflichten § 4 Abs. 7 EStG.
+description: "Pruefraster Betriebsausgaben § 4 Abs. 4 EStG und Werbungskosten § 9 EStG abgrenzen von Kosten der privaten Lebensfuehrung § 12 EStG. Anwendungsfall Mandant fragt ob Ausgabe steuerlich absetzbar ist Finanzamt streicht Posten oder Betriebspruefung beanstandet Abzug. Aufteilungsgebot gemischt veranlasste Aufwendungen GrS BFH GrS 1/06. Spezialfall Arbeitsmittel doppelte Haushaltsfuehrung Fahrtkosten Pendlerpauschale Verpflegungsmehraufwand Fortbildung Studienreisen Pkw-Nutzung Bewirtungsaufwendungen § 4 Abs. 5 EStG Geschenke Sponsoring. Nachweispflicht Aufzeichnungspflichten § 4 Abs. 7 EStG. Output Pruefprotokoll Abzugs- entscheidung Empfehlung Belegnachweise."
 ---
 
 # Betriebsausgaben Werbungskosten — Prüfraster

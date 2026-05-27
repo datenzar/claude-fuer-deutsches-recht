@@ -1,6 +1,6 @@
 ---
 name: anw-minbestg-pillar2-konzernbesteuerung
-description: "Mindestbesteuerung Pillar Two OECD BEPS Konzernbesteuerung 15 Prozent globaler Mindeststeuersatz. Mindestbesteuerungsgesetz MinBestG vom 21.12.2023 in Kraft 1.1.2024. Anwendungsbereich Konzerne ab 750 Mio EUR Umsatz. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax. Berechnung effektiver Steuersatz Top-Up Tax Country-by-Country Steuererklaerung. Mandantenberatung Compliance Aufbau Reporting."
+description: "Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG fuer Konzerne ab 750 Mio EUR Umsatz. Anwendungsfall Konzern fragt nach GloBE-Pflichten Compliance-Aufbau oder Country-by-Country Reporting ab 01.01.2024. MinBestG vom 21.12.2023. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax 15 Prozent globaler Mindeststeuersatz. Berechnung effektiver Steuersatz Top-Up Tax Steuererklaerung. Output Compliance-Pruefprotokoll Reporting-Konzept Beratungsmemo. Abgrenzung zu anw-organschaft-konzern-grundlagen inlaendische Konzernstruktur."
 ---
 
 # Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 %

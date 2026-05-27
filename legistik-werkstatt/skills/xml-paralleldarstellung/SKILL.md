@@ -1,6 +1,6 @@
 ---
 name: xml-paralleldarstellung
-description: "Erstellt eine maschinenlesbare Paralleldarstellung des Entwurfs in LegalDocML.de oder eNorm-XML. Akoma Ntoso bzw. eNorm-Schema des Bundes. Pro Bestandteil eigene XML-Knoten Hauptnorm Aenderungsnorm Begruendung Inkrafttreten. Metadaten Federfuehrendes Ressort Aktenzeichen Stand Verfahrenstand. Auch fuer Landesrecht analog. Schemavalidierung empfohlen. Endet mit XML-Datei plus Schemavalidierungs-Protokoll. Hilfreich fuer eGesetzgebung BMJ Bundesgesetzblatt online und automatisierte Weiterverarbeitung."
+description: "Maschinenlesbare Paralleldarstellung eines Gesetzesentwurfs in LegalDocML.de oder eNorm-XML erstellen. Anwendungsfall eGesetzgebung BMJ Bundesgesetzblatt online oder automatisierte Weiterverarbeitung erfordert strukturierte XML-Ausgabe. Akoma-Ntoso bzw. eNorm-Schema des Bundes Hauptnorm Aenderungsnorm Begruendung Inkrafttreten. Metadaten Federfuehrendes Ressort Aktenzeichen Stand Verfahrensstand Landesrecht analog. Schemavalidierung. Output XML-Datei Schemavalidierungs-Protokoll. Abgrenzung zu synopse-erstellen menschenlesbare Tabelle."
 ---
 
 # XML-Paralleldarstellung
