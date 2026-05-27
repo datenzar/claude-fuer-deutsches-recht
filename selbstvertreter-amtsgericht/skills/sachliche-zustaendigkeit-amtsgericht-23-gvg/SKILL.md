@@ -1,6 +1,6 @@
 ---
 name: sachliche-zustaendigkeit-amtsgericht-23-gvg
-description: "Pruefung der sachlichen Zustaendigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze nach § 23 Nr. 1 GVG (historisch 5.000 EUR Reform-Initiative 2026 anhaengig). Sonderzustaendigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Verifikationspflicht erlaeutert."
+description: "Pruefung der sachlichen Zustaendigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzustaendigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert."
 ---
 
 # Ist das Amtsgericht fuer Ihren Fall sachlich zustaendig?
@@ -23,10 +23,10 @@ Sachliche Zustaendigkeit heisst: Welches Gericht (Amtsgericht oder Landgericht) 
 
 ## Rechtsgrundlagen
 
-- **§ 23 Nr. 1 GVG** — AG zustaendig bis zur Wertgrenze (historisch 5.000 EUR). Stand 05/2026 laeuft eine Bundesrats-Initiative zur Anhebung; die Diskussion bewegt sich um 8.000 EUR oder hoeher. **Pruefen Sie die aktuelle Grenze in juris/beck-online oder bei Ihrer Amtsgerichts-Geschaeftsstelle.**
+- **§ 23 Nr. 1 GVG (Fassung seit 01.01.2026)** — Amtsgericht zustaendig bis zur Wertgrenze von **10.000 EUR** (zehntausend Euro). Die Grenze wurde mit dem Justizstandort-Staerkungsgesetz zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. **Verifizieren Sie bei Klagen kurz vor oder kurz nach dem Stichtag, welche Fassung fuer Ihren Fall gilt** (Uebergangsregelungen pruefen).
 - **§ 23 Nr. 2 GVG** — Bestimmte Streitarten **immer** AG, unabhaengig vom Wert.
 - **§ 23a, 23b, 23c GVG** — Familiensachen, Betreuungssachen, Nachlasssachen.
-- **§ 71 GVG** — LG-Zustaendigkeit als Auffangzustaendigkeit.
+- **§ 71 GVG** — LG-Zustaendigkeit als Auffangzustaendigkeit ab 10.000 EUR.
 - **§ 3 ZPO** — Streitwert nach freiem Ermessen.
 
 ## Schritt-fuer-Schritt-Anleitung
@@ -44,19 +44,19 @@ Diese Streitarten sind **unabhaengig vom Streitwert immer** beim AG (§ 23 Nr. 2
 
 ### Schritt 2 — Wenn keine Spezialzustaendigkeit: Streitwert berechnen
 
-- **Geldforderung**: Streitwert = Forderungssumme. Beispiel: Sie wollen 3.000 EUR — Streitwert 3.000 EUR.
+- **Geldforderung**: Streitwert = Forderungssumme. Beispiel: Sie wollen 8.000 EUR — Streitwert 8.000 EUR.
 - **Mehrere Forderungen**: Werden zusammengerechnet (§ 5 ZPO).
 - **Rente, wiederkehrende Leistung**: § 9 ZPO — dreieinhalbfacher Jahresbetrag.
 - **Anspruch auf Herausgabe einer Sache**: Wert der Sache.
 - **Feststellungsklage**: 80 % des positiven Anspruchswerts (Praxisregel).
 - **Mietsachen**: Bei Raeumung der Jahresbetrag der Bruttomiete (§ 41 GKG).
 
-### Schritt 3 — Wertgrenze pruefen
+### Schritt 3 — Wertgrenze pruefen (Stand 2026)
 
-- Streitwert unterhalb der aktuellen Wertgrenze § 23 Nr. 1 GVG: AG.
-- Streitwert oberhalb: LG (= dort Anwaltszwang!).
+- **Streitwert bis einschliesslich 10.000 EUR**: Amtsgericht (§ 23 Nr. 1 GVG). Sie koennen sich **selbst vertreten** — kein Anwaltszwang.
+- **Streitwert ueber 10.000 EUR**: Landgericht (§ 71 GVG). **Anwaltszwang** § 78 I ZPO.
 
-**Wichtig zur Reform**: Stand 05/2026 ist die historische Grenze 5.000 EUR. Eine Bundesrats-Initiative will sie auf 8.000 EUR (oder hoeher) anheben. Sehr wahrscheinlich wird die Grenze in den naechsten Monaten auf einen hoeheren Wert angehoben — verifizieren Sie zwingend vor Klage-Einreichung. Wenn Sie die Grenze knapp ueberschreiten und Anwaltszwang vermeiden wollen, kann eine **Teilklage** (nur ueber Teilbetrag klagen) sinnvoll sein — aber das wirkt sich auf Verjaehrung und Streitwert aus, sprechen Sie das ggf. mit der Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
+**Reform-Hinweis**: Die Wertgrenze wurde zum 01.01.2026 von 5.000 EUR auf 10.000 EUR angehoben. Damit gehoeren deutlich mehr Streitigkeiten zur AG-Zustaendigkeit, in der Sie sich selbst vertreten koennen. Wenn Sie einen Streitwert knapp ueber 10.000 EUR haben und Anwaltszwang vermeiden wollen, kann eine **Teilklage** (nur ueber einen Teilbetrag klagen) erwogen werden — beachten Sie aber die Auswirkungen auf Verjaehrung und Streitwert. Sprechen Sie das ggf. mit der Rechtsantragsstelle (Skill `einreichung-rechtsantragsstelle-selbst`).
 
 ### Schritt 4 — Bei Unsicherheit beim Streitwert
 
@@ -68,17 +68,18 @@ Falsche Zustaendigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 
 ## Worauf Sie besonders achten muessen
 
-- **Reform 2026**: Die genaue Wertgrenze ist im Fluss. Wenn Sie knapp ueber 5.000 EUR liegen, kann sich Warten lohnen oder die Reform-Lage zu Ihren Gunsten wirken. Verifizieren Sie zwingend.
+- **Stichtag 01.01.2026**: Fuer Klagen, die vorher anhaengig waren, gilt die alte Grenze von 5.000 EUR (Uebergangsregelung beachten). Fuer neue Klagen ab 01.01.2026 gilt 10.000 EUR.
 - **Mietsache**: Auch eine Miet-Forderung von 50.000 EUR ist AG. Streitwert ist hier irrelevant.
 - **Familiensache**: Immer AG, aber Anwaltszwang nach § 114 FamFG. Skill `anwaltszwang-pruefen-78-zpo`.
 - **Streitwert wird beim Einreichen vorlaeufig angegeben**; das Gericht setzt am Ende endgueltig fest.
 
 ## Typische Fehler
 
-- "Ich klage in jedem Fall beim AG, ist ja billiger." → Wenn LG zustaendig waere, wird verwiesen und Sie haben Kosten doppelt.
+- "Ich klage in jedem Fall beim AG, ist ja billiger." → Wenn LG zustaendig waere (Streitwert ueber 10.000 EUR), wird verwiesen und Sie haben Kosten doppelt.
 - "Eine Mietsache mit 30.000 EUR Hauptforderung gehoert ans LG." → Falsch. Mietsachen sind **immer** AG, unabhaengig vom Wert.
 - "Bei Unsicherheit nehme ich den niedrigsten Streitwert an." → Falsch. Setzen Sie realistisch an; bei Untererfassung droht spaetere Streitwert-Festsetzung und Nachzahlung.
 - "Familiengerichts-Sachen kann ich selbst betreiben." → Bei Ehesachen und Folgesachen Anwaltszwang § 114 FamFG.
+- "Die Grenze ist 5.000 EUR." → Veraltet. Seit 01.01.2026 sind es 10.000 EUR.
 
 ## Querverweise
 
@@ -90,4 +91,4 @@ Falsche Zustaendigkeit ist nicht das Ende. Auf Ihren Antrag verweist das Gericht
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 23 Nr. 1 GVG: historische Grenze 5.000 EUR, Reform-Initiative anhaengig (Anhebung auf 8.000 EUR oder hoeher diskutiert). **Aktuelle Grenze vor Klage-Einreichung in juris/beck-online oder ueber die Geschaeftsstelle des Amtsgerichts verifizieren.**
+Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhebung von 5.000 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus der Uebergangszeit Stichtag und Anhaengigkeit pruefen.

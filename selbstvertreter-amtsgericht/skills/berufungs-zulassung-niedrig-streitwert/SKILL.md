@@ -1,31 +1,37 @@
 ---
 name: berufungs-zulassung-niedrig-streitwert
-description: "Zulassung der Berufung bei niedrigem Streitwert § 511 IV ZPO. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Antrag und Aussichten Zulassung-Beschwerde wenn AG nicht zugelassen hat."
+description: "Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschliesslich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht."
 ---
 
-# Berufungs-Zulassung bei Streitwert unter 600 EUR
+# Berufungs-Zulassung bei Beschwer bis 1.000 EUR
 
 ## Worum geht es?
 
-Wenn Ihre Beschwer unter 600 EUR liegt, ist Berufung grundsaetzlich nicht moeglich (§ 511 II Nr. 1 ZPO). Aber: § 511 II Nr. 2 ZPO erlaubt **Zulassung** durch das AG, wenn die Sache grundsaetzliche Bedeutung hat. Diese Skill zeigt, wann Zulassung in Betracht kommt und was Sie bei Nicht-Zulassung tun koennen.
+Wenn Ihre Beschwer **1.000 EUR oder weniger** betraegt, ist Berufung grundsaetzlich **nicht** statthaft (§ 511 II Nr. 1 ZPO, Fassung seit 01.01.2026). Eine Berufung ist in dieser Konstellation nur moeglich, wenn das **Amtsgericht selbst die Berufung in seinem Urteil ausdruecklich zugelassen hat** (§ 511 II Nr. 2 ZPO i.V.m. § 511 IV ZPO).
+
+**Wichtig:** Die Zulassung erfolgt **nur durch das erstinstanzliche Gericht (AG)**. Wenn das AG nicht zugelassen hat, gibt es **keinen separaten Rechtsbehelf zum LG** — keine "Zulassungs-Beschwerde", keine "Nichtzulassungsbeschwerde" wie etwa in der Revision (§ 544 ZPO). Das AG-Urteil ist dann endgueltig.
+
+Eine sehr enge Ausnahme bietet die **Anhoerungsruege § 321a ZPO** bei Verletzung des rechtlichen Gehoers — keine Vollkontrolle, sondern Korrektur eines Verfahrensfehlers durch das AG selbst.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ihre Beschwer ist unter 600 EUR.
+- Ihre Beschwer ist 1.000 EUR oder weniger.
 - Sie meinen, Ihre Sache hat grundsaetzliche Bedeutung.
-- AG hat Berufung nicht zugelassen — Sie wollen Beschwerde.
+- Sie wollen wissen, ob Sie das Urteil noch angreifen koennen, wenn das AG nicht zugelassen hat.
 
 ## Fachbegriffe (kurz erklaert)
 
 - **Beschwer**: Differenz zwischen Antrag und Urteil zu Ihren Lasten.
 - **Grundsaetzliche Bedeutung**: Frage, deren Beantwortung ueber den Einzelfall hinaus klaerend wirkt.
-- **Zulassungs-Beschwerde**: Rechtsmittel gegen Nicht-Zulassung.
+- **Zulassung der Berufung**: Erklaerung des AG im Urteil, dass Berufung ausnahmsweise statthaft ist.
+- **Anhoerungsruege**: Rechtsbehelf bei Verletzung des rechtlichen Gehoers (§ 321a ZPO).
 
 ## Rechtsgrundlagen
 
-- **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung.
-- **§ 511 IV ZPO** — Zulassung-Verfahren.
-- **§ 522 II ZPO** — Verwerfung wenn unzulaessig.
+- **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung als Voraussetzung der Berufung bei geringer Beschwer.
+- **§ 511 IV ZPO** — Voraussetzungen der Zulassung. Zulassung erfolgt **durch das Gericht erster Instanz** (= AG).
+- **§ 321a ZPO** — Anhoerungsruege bei Gehoersverletzung (enge Ausnahme).
+- **§ 522 ZPO** — Verwerfung unstatthafter Berufung durch LG.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -37,69 +43,70 @@ Wenn Ihre Beschwer unter 600 EUR liegt, ist Berufung grundsaetzlich nicht moegli
 - **Fortbildung des Rechts**: Frage ist offen und braucht Entscheidung.
 - **Sicherung einheitlicher Rechtsprechung**: Divergierende Entscheidungen anderer Gerichte.
 
-In Praxis: AG-Urteile mit niedrigem Streitwert werden selten zugelassen.
+In Praxis: AG-Urteile mit niedriger Beschwer werden sehr selten zugelassen.
 
-### Schritt 2 — Bei Zulassung im AG-Urteil
+### Schritt 2 — Im AG-Verfahren Zulassung anregen
 
-Wenn das AG im Urteil **die Berufung zugelassen** hat: Sie koennen normal Berufung einlegen — Skill `berufung-amtsgericht-511-zpo`.
+Schon **im AG-Verfahren** koennen Sie die Zulassung der Berufung anregen — typisch in der muendlichen Verhandlung oder im letzten Schriftsatz. Begruendung:
 
-### Schritt 3 — Wenn nicht zugelassen
-
-Wenn AG nicht zugelassen: Berufung grundsaetzlich nicht moeglich.
-
-§ 511 IV 4 ZPO: **Zulassungs-Beschwerde** an das LG.
-
-### Schritt 4 — Zulassungs-Beschwerde
-
-Frist: 1 Monat ab Zustellung des Urteils (§ 569 I ZPO).
-
-Form: Schriftsatz an LG. Aber: Anwaltszwang vor LG! Sie koennen die Beschwerde **selbst** einlegen (§ 78 III ZPO), aber Begruendung mit Anwalt.
-
-### Schritt 5 — Begruendung der Beschwerde
-
-Konkret darlegen, warum Zulassung erforderlich:
-
-- Welche Rechtsfrage ist grundsaetzlich?
-- Wer hat schon anders entschieden?
+- Welche Rechtsfrage ist klaerungs-beduerftig?
+- Gibt es divergierende Entscheidungen anderer Gerichte?
 - Warum ist Klaerung wichtig?
 
-### Schritt 6 — Erfolgsaussichten realistisch
+Das AG entscheidet ueber die Zulassung **im Urteil**.
 
-Realistisch betrachten: Bei kleinen Streitigkeiten (z. B. Streitwert 350 EUR) ist Zulassungs-Beschwerde sehr unwahrscheinlich erfolgreich. Sie zahlen Anwalt + Gerichtskosten der Beschwerde, die i. d. R. nicht zurueck.
+### Schritt 3 — Pruefen, ob das AG zugelassen hat
 
-Pruefen Sie:
+Schauen Sie im Urteil unter "Tenor" oder am Ende der Entscheidungsgruende. Dort steht typisch:
 
-- Lohnt sich der Aufwand?
-- Ist die Rechtsfrage wirklich klaerungs-beduerftig?
+- "Die Berufung wird zugelassen." → Sie koennen Berufung einlegen. Skill `berufung-amtsgericht-511-zpo`.
+- Oder: Keine Aussage zur Zulassung. Das heisst: **Zulassung erfolgt nicht** (im Zweifel hat das AG sie geprueft und stillschweigend abgelehnt).
 
-### Schritt 7 — Alternative: Vergleich akzeptieren
+### Schritt 4 — Wenn nicht zugelassen: keine Berufung
 
-Bei niedrigen Streitwerten ist oft sinnvoller, das AG-Urteil zu akzeptieren — auch wenn Sie meinen, dass es falsch ist.
+Wenn das AG die Berufung nicht zugelassen hat und Ihre Beschwer 1.000 EUR oder weniger betraegt, ist die Berufung **endgueltig ausgeschlossen**. Eine separate "Zulassungs-Beschwerde" zum LG sieht § 511 ZPO **nicht** vor.
 
-### Schritt 8 — Ausnahme: Verbraucher-Verbandsklagen
+Versuche, dennoch eine Berufung einzulegen, werden vom LG nach § 522 I ZPO als unzulaessig verworfen — mit Kostenfolge fuer Sie.
 
-Bei Verbraucher-Verbandsklagen, Musterklagen oder bestimmten Spezialsachen kann die Zulassung haeufiger erfolgen, weil Grundsatz-Charakter staerker ausgepraegt ist.
+### Schritt 5 — Enge Ausnahme: Anhoerungsruege § 321a ZPO
+
+Wenn das AG **Ihr rechtliches Gehoer verletzt** hat (z.B. einen entscheidungserheblichen Vortrag vollstaendig ignoriert), koennen Sie binnen 2 Wochen ab Kenntnis Anhoerungsruege erheben — beim **AG selbst** (nicht beim LG). Voraussetzungen sind eng:
+
+- Konkrete Gehoersverletzung darlegen.
+- Entscheidungserheblichkeit.
+- Frist 2 Wochen.
+
+Das AG prueft seine eigene Entscheidung. Bei Erfolg fuehrt es das Verfahren fort. Skill `wiedereinsetzung-frist-233-zpo` (Wiedereinsetzung, separates Thema).
+
+### Schritt 6 — Realistisch: meist Urteil akzeptieren
+
+Bei niedriger Beschwer ist oft sinnvoller, das AG-Urteil zu akzeptieren — selbst wenn Sie es fuer falsch halten. Die Kosten eines Berufungs- oder Anhoerungsruege-Versuchs uebersteigen oft den Streitwert.
+
+### Schritt 7 — Bei Zulassung: Berufung einlegen
+
+Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat ab Zustellung (§ 517 ZPO). Begruendung durch Anwalt. Skill `berufung-amtsgericht-511-zpo`.
 
 ## Worauf Sie besonders achten muessen
 
-- **Selten erfolgreich** bei niedrigem Streitwert.
-- **Anwaltszwang** fuer Begruendung.
-- **Kosten-Risiko**: Beschwerde-Kosten + Anwalt.
-- **Wirtschaftlichkeit** abwaegen.
+- **Zulassung passiert im AG-Urteil** — nicht spaeter.
+- **Keine separate Zulassungs-Beschwerde** zum LG. Wer trotzdem versucht, zahlt drauf.
+- **Anhoerungsruege § 321a ZPO** ist die einzige Notfall-Option bei Gehoersverletzung — kein Allzweck-Rechtsmittel.
+- **Wertgrenze 1.000 EUR** (Stand 2026; frueher 600 EUR).
 
 ## Typische Fehler
 
-- "Mein Fall ist grundsaetzlich, ich bekomme Zulassung." → Praxis sehr restriktiv.
-- "Ich begruende Beschwerde selbst." → Anwaltszwang.
-- "Beschwerde-Frist gleich Berufungs-Frist." → Tatsaechlich beide 1 Monat (§ 569 I ZPO).
+- "Mein Fall ist grundsaetzlich, ich bekomme Zulassung." → Praxis sehr restriktiv; ohne Anregung im AG-Verfahren so gut wie nie.
+- "Wenn AG nicht zulaesst, lege ich Beschwerde beim LG ein." → Existiert nicht. Eine Zulassungs-Beschwerde gibt es in § 511 ZPO **nicht**.
+- "Anhoerungsruege bedeutet zweite Chance auf alles." → Falsch. Nur bei konkreter, entscheidungserheblicher Gehoersverletzung.
+- "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
 
 ## Querverweise
 
 - `berufung-amtsgericht-511-zpo` — Berufung allgemein.
-- `urteil-pruefen-313-zpo` — Urteil.
+- `urteil-pruefen-313-zpo` — Urteil pruefen.
 - `rechtsmittelfrist-517-zpo` — Frist.
 - `kostenrisiko-streitwert-berechnen-gkg` — Kosten.
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 511 ZPO unveraendert.
+Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.

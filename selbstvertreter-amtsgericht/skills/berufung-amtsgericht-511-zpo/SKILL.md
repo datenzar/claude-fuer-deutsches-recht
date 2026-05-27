@@ -1,6 +1,6 @@
 ---
 name: berufung-amtsgericht-511-zpo
-description: "Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 600 EUR Berufungs-Frist 1 Monat Berufungsbegruendungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter."
+description: "Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegruendungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter."
 ---
 
 # Berufung gegen AG-Urteil: Was geht und was nicht
@@ -19,14 +19,16 @@ Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Be
 
 - **Berufung**: Rechtsmittel gegen Urteile erster Instanz.
 - **Landgericht (LG)**: Berufungsinstanz fuer AG-Urteile.
-- **Wertgrenze**: 600 EUR Mindest-Beschwer fuer Berufung.
-- **Zulassung der Berufung**: Bei niedrigem Streitwert kann Berufung zugelassen werden.
+- **Beschwer**: Differenz zwischen Ihrem Antrag und der Entscheidung — der Betrag, mit dem Sie "verloren" haben.
+- **Wertgrenze**: Mindest-Beschwer fuer Berufung **ohne Zulassung**.
+- **Zulassung der Berufung**: Bei niedriger Beschwer kann das AG die Berufung ausdruecklich zulassen.
 
 ## Rechtsgrundlagen
 
 - **§ 511 ZPO** — Berufung statthaft.
-- **§ 511 II Nr. 1 ZPO** — Beschwer 600 EUR.
-- **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung.
+- **§ 511 II Nr. 1 ZPO (Fassung seit 01.01.2026)** — Beschwer muss **1.000 EUR** uebersteigen (Anhebung von 600 EUR auf 1.000 EUR durch das Justizstandort-Staerkungsgesetz zum 01.01.2026).
+- **§ 511 II Nr. 2 ZPO** — Berufungs-Zulassung durch das erstinstanzliche Gericht (AG) bei geringerer Beschwer.
+- **§ 511 IV ZPO** — Voraussetzungen der Zulassung; **Zulassung erfolgt durch das erstinstanzliche Gericht im Urteil**, nicht durch eine eigene Beschwerde zum LG.
 - **§ 517 ZPO** — Berufungsfrist 1 Monat.
 - **§ 519 ZPO** — Berufungsschrift.
 - **§ 520 ZPO** — Berufungsbegruendung 2 Monate.
@@ -34,24 +36,31 @@ Wenn Sie ein AG-Urteil fuer falsch halten, koennen Sie **Berufung** einlegen. Be
 
 ## Schritt-fuer-Schritt-Anleitung
 
-### Schritt 1 — Berufungs-Wertgrenze pruefen
+### Schritt 1 — Berufungs-Wertgrenze pruefen (Stand 2026)
 
-§ 511 II Nr. 1 ZPO: Sie muessen mit **mehr als 600 EUR** beschwert sein.
+§ 511 II Nr. 1 ZPO (aktuelle Fassung): Sie muessen mit **mehr als 1.000 EUR** beschwert sein.
 
 Beschwer = Differenz zwischen Ihrem Antrag und der Entscheidung.
 
-Beispiel: Sie klagten 1.500 EUR, abgewiesen → Beschwer 1.500 EUR. Berufung moeglich.
+**Beispiele:**
 
-Beispiel: Sie klagten 800 EUR, 250 EUR zugesprochen → Beschwer 550 EUR. **Keine** Berufung ohne Zulassung.
+- Sie klagten 5.000 EUR, abgewiesen → Beschwer 5.000 EUR. Berufung moeglich (uebersteigt 1.000 EUR).
+- Sie klagten 1.500 EUR, abgewiesen → Beschwer 1.500 EUR. Berufung moeglich.
+- Sie klagten 1.500 EUR, 700 EUR zugesprochen → Beschwer 800 EUR. **Keine** Berufung ohne Zulassung (unter 1.000 EUR).
+- Sie klagten 800 EUR, voll abgewiesen → Beschwer 800 EUR. **Keine** Berufung ohne Zulassung.
 
-### Schritt 2 — Bei Beschwer unter 600 EUR: Zulassung
+**Hinweis zur Reform**: Die Wertgrenze wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben. Fuer Urteile, die noch vor dem Stichtag verkuendet wurden, gilt ggf. die alte Grenze — pruefen Sie die Uebergangsregelung.
 
-§ 511 II Nr. 2 ZPO: Berufung kann vom AG ausdruecklich zugelassen werden, wenn:
+### Schritt 2 — Bei Beschwer bis 1.000 EUR: Zulassung im Urteil
 
-- Rechtssache grundsaetzliche Bedeutung.
-- Fortbildung des Rechts oder Sicherung einheitlicher Rechtsprechung.
+§ 511 II Nr. 2 ZPO i.V.m. § 511 IV ZPO: Das AG kann die Berufung **im erstinstanzlichen Urteil** zulassen, wenn:
 
-Wenn Sie meinen, das ist Ihr Fall: schon im Urteil pruefen, ob Zulassung erfolgt. Skill `berufungs-zulassung-niedrig-streitwert`.
+- die Rechtssache **grundsaetzliche Bedeutung** hat,
+- die **Fortbildung des Rechts** oder die **Sicherung einer einheitlichen Rechtsprechung** eine Entscheidung des Berufungsgerichts erfordert.
+
+**Wichtig:** Die Zulassung erfolgt **durch das AG selbst im Urteil**. Eine eigene "Zulassungs-Beschwerde" zum LG sieht die ZPO **nicht** vor. Wenn das AG die Berufung nicht zugelassen hat, ist die Berufung bei einer Beschwer von 1.000 EUR oder weniger **endgueltig ausgeschlossen** (Ausnahme: Anhoerungsruege § 321a ZPO bei Verletzung des rechtlichen Gehoers — sehr enger Anwendungsbereich).
+
+Skill `berufungs-zulassung-niedrig-streitwert` zur Strategie.
 
 ### Schritt 3 — Berufungsfrist 1 Monat
 
@@ -127,16 +136,19 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 
 ## Worauf Sie besonders achten muessen
 
-- **Beschwer 600 EUR**: Pflicht (es sei denn Zulassung).
+- **Beschwer mehr als 1.000 EUR**: Pflicht (es sei denn Zulassung).
 - **Anwaltszwang vor LG**: Begruendung nur durch Anwalt.
 - **PKH-Antrag rechtzeitig**.
 - **Berufungs-Frist 1 Monat** Notfrist.
+- **Keine eigene Zulassungs-Beschwerde**: Wenn das AG die Berufung nicht zugelassen hat und Sie unter 1.000 EUR Beschwer liegen, ist Schluss. Es gibt keinen Rechtsbehelf "Zulassungs-Beschwerde" zum LG.
 
 ## Typische Fehler
 
 - "Ich begruende Berufung selbst." → Vor LG nicht moeglich.
 - "Ich warte mit Anwalt-Suche." → 2 Monate sind schnell weg.
-- "Beschwer unter 600 EUR — ich versuche es trotzdem." → Wird verworfen.
+- "Beschwer unter 1.000 EUR — ich versuche es trotzdem." → Wird als unzulaessig verworfen.
+- "Das AG hat nicht zugelassen — ich lege Beschwerde beim LG ein." → Existiert nicht. Eine "Zulassungs-Beschwerde" gibt es in § 511 IV ZPO nicht.
+- "Die Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
 
 ## Querverweise
 
@@ -148,4 +160,4 @@ LG-Urteil kann mit **Revision zum BGH** angefochten werden — aber nur, wenn vo
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 511 ZPO unveraendert. Anwaltszwang § 78 ZPO unveraendert.
+Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz). Anwaltszwang § 78 ZPO unveraendert. Eine Zulassungs-Beschwerde zum LG existiert in § 511 ZPO nicht.

@@ -54,9 +54,9 @@ Auch vor AG kann Anwalt sinnvoll sein bei:
 
 Faustregel:
 
-- Streitwert < 1.000 EUR: Selbstvertretung oft ausreichend.
-- Streitwert 1.000-5.000 EUR: Pruefung Einzelfall.
-- Streitwert ueber 5.000 EUR (LG-Bereich nach Reform): Anwalt zwingend.
+- Streitwert bis 1.000 EUR: Selbstvertretung oft ausreichend (auch § 495a ZPO vereinfachtes Verfahren moeglich).
+- Streitwert 1.000-10.000 EUR: AG zustaendig, kein Anwaltszwang — Pruefung Einzelfall.
+- Streitwert ueber 10.000 EUR: LG zustaendig (§ 71 GVG), **Anwalt zwingend** (§ 78 I ZPO).
 
 ### Schritt 4 — Spezialmaterie
 
@@ -70,15 +70,15 @@ Bei Spezial-Rechtsgebieten:
 
 ### Schritt 5 — Kosten-Nutzen-Rechnung
 
-#### Anwalts-Kosten bei Streitwert 5.000 EUR:
+#### Anwalts-Kosten bei Streitwert 8.000 EUR:
 
 - Bei Erfolg: Gegnerseite traegt.
-- Bei Niederlage: Sie tragen Anwalts-Kosten + Gegner-Kosten (ca. 2.500 EUR Anwaltskosten total bei diesem Streitwert).
+- Bei Niederlage: Sie tragen Anwalts-Kosten + Gegner-Kosten (Groessenordnung 3.500 EUR Anwaltskosten total bei diesem Streitwert).
 
-#### Selbstvertretung bei Streitwert 5.000 EUR:
+#### Selbstvertretung bei Streitwert 8.000 EUR:
 
 - Bei Erfolg: keine eigenen Anwalts-Kosten (nur Auslagen).
-- Bei Niederlage: Gegnerseiten-Anwalts-Kosten ca. 1.200 EUR.
+- Bei Niederlage: Gegnerseiten-Anwalts-Kosten Groessenordnung 1.700 EUR.
 
 Anwalt erhoeht das Verlust-Risiko, aber senkt das Niederlage-Risiko durch bessere Verfahrenswahrnehmung.
 

@@ -107,7 +107,7 @@ Wenn Beklagter den Streitwert ruegelt: Gericht entscheidet (§§ 63 GKG, 3 ZPO).
 ## Worauf Sie besonders achten muessen
 
 - **Zustaendigkeitsrelevant**: Streitwert entscheidet, ob AG oder LG.
-- **Wertgrenze § 23 Nr. 1 GVG**: Stand 05/2026 historisch 5.000 EUR, Reform-Initiative laeuft. Aktuelle Grenze verifizieren!
+- **Wertgrenze § 23 Nr. 1 GVG**: 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). Bei Klagen aus Uebergangszeit Stichtag pruefen.
 - **Mietsache § 41 GKG**: Bei Wohnraum-Streit nicht zaehlt der konkrete Streitbetrag, sondern Jahresnettomiete.
 - **Nebenforderungen** zaehlen nicht (Zinsen, Kosten — § 4 ZPO).
 

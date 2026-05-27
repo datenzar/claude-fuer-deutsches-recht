@@ -4,7 +4,7 @@ Plugin fuer Buerger, die sich vor dem Amtsgericht **ohne Rechtsanwalt** selbst v
 
 ## Fuer wen?
 
-- Sie wollen eine Geldforderung bis zur Wertgrenze des § 23 Nr. 1 GVG einklagen (Stand 2026: die historische Grenze von 5.000 EUR wird durch eine laufende Reform-Initiative angehoben — verifizieren Sie die aktuelle Grenze in juris/beck-online oder bei der Geschaeftsstelle Ihres Amtsgerichts).
+- Sie wollen eine Geldforderung bis zur Wertgrenze des § 23 Nr. 1 GVG einklagen (seit 01.01.2026: **10.000 EUR**, Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz).
 - Sie sind verklagt worden und wollen sich selbst verteidigen.
 - Sie wollen Mietsachen, Reisemaengel, Familienunterhalt oder andere AG-typische Streitigkeiten betreiben.
 - Sie wollen vor einer moeglichen Mandatierung verstehen, was rechtlich passiert.

@@ -30,7 +30,7 @@ Vor dem Amtsgericht (AG) brauchen Sie als Buerger keinen Rechtsanwalt. Sie koenn
 - **§ 23 GVG** — Sachliche Zustaendigkeit des AG.
 - **§ 23a, 23b, 23c GVG** — Familiensachen, Betreuungssachen, Nachlasssachen.
 - **§§ 12 ff. ZPO** — Oertliche Zustaendigkeit.
-- **§ 495a ZPO** — Vereinfachtes Verfahren bis 600 EUR Streitwert.
+- **§ 495a ZPO** — Vereinfachtes Verfahren bis 1.000 EUR Streitwert (Stand 2026, vorher 600 EUR).
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -91,4 +91,4 @@ Forderungen verjaehren in der Regel in **drei Jahren** zum Jahresende. Ist Ihr A
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze historisch 5.000 EUR, eine Bundesrats-Initiative zur Anhebung (Diskussion 8.000 EUR oder hoeher) ist anhaengig. Verifizieren Sie die **aktuelle** Wertgrenze ueber juris/beck-online oder die Geschaeftsstelle Ihres Amtsgerichts, bevor Sie Klage einreichen. MJP (Mein Justizpostfach) ist seit 2024 im Buerger-Betrieb.
+Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung von 5.000 EUR durch das Justizstandort-Staerkungsgesetz). § 495a ZPO: Wertgrenze 1.000 EUR (Anhebung von 600 EUR). § 511 II Nr. 1 ZPO: Berufungs-Beschwer 1.000 EUR (Anhebung von 600 EUR). MJP (Mein Justizpostfach) ist seit 2024 im Buerger-Betrieb.

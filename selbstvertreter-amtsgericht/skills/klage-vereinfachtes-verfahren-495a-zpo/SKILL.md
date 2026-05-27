@@ -1,17 +1,19 @@
 ---
 name: klage-vereinfachtes-verfahren-495a-zpo
-description: "Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 600 EUR. Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung moeglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt."
+description: "Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung moeglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt."
 ---
 
-# Vereinfachtes Verfahren bis 600 EUR (§ 495a ZPO)
+# Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)
 
 ## Worum geht es?
 
-Bei Streitwerten **bis 600 EUR** kann das Amtsgericht das Verfahren nach **billigem Ermessen** gestalten — sprich: vereinfachte Form, oft schriftlich ohne muendliche Verhandlung, geringere Foermlichkeit. Das spart Zeit und Geld. Aber: Sie verlieren ein Stueck Verfahrensgarantie. Diese Skill zeigt, wann es sinnvoll ist und wann Sie muendliche Verhandlung beantragen sollten.
+Bei Streitwerten **bis 1.000 EUR** (Stand 2026) kann das Amtsgericht das Verfahren nach **billigem Ermessen** gestalten — sprich: vereinfachte Form, oft schriftlich ohne muendliche Verhandlung, geringere Foermlichkeit. Das spart Zeit und Geld. Aber: Sie verlieren ein Stueck Verfahrensgarantie. Diese Skill zeigt, wann es sinnvoll ist und wann Sie muendliche Verhandlung beantragen sollten.
+
+**Reform-Hinweis:** Die Wertgrenze des § 495a ZPO wurde zum 01.01.2026 von 600 EUR auf 1.000 EUR angehoben. Damit fallen mehr kleinere Streitigkeiten unter das vereinfachte Verfahren.
 
 ## Wann brauchen Sie diese Skill?
 
-- Ihr Streitwert ist niedrig (unter 600 EUR).
+- Ihr Streitwert ist niedrig (bis 1.000 EUR).
 - Sie wollen wissen, wie das vereinfachte Verfahren laeuft.
 - Sie wollen pruefen, ob Sie muendliche Verhandlung beantragen sollten.
 
@@ -24,15 +26,21 @@ Bei Streitwerten **bis 600 EUR** kann das Amtsgericht das Verfahren nach **billi
 
 ## Rechtsgrundlagen
 
-- **§ 495a ZPO** — Verfahren bei Streitwerten bis 600 EUR; Gericht bestimmt nach billigem Ermessen.
+- **§ 495a ZPO (Fassung seit 01.01.2026)** — Verfahren bei Streitwerten bis **1.000 EUR**; Gericht bestimmt nach billigem Ermessen. Anhebung von 600 EUR auf 1.000 EUR durch das Justizstandort-Staerkungsgesetz.
 - **§ 495a S. 2 ZPO** — Antrag auf muendliche Verhandlung muss zugelassen werden.
-- **§§ 491 ff. ZPO** — Allgemeines Verfahrensrecht.
+- **§ 4 ZPO** — Streitwert (Hauptforderung ohne Nebenforderungen).
 
 ## Schritt-fuer-Schritt-Anleitung
 
-### Schritt 1 — Pruefen, ob Streitwert unter 600 EUR
+### Schritt 1 — Pruefen, ob Streitwert bis 1.000 EUR
 
-Bezogen auf Hauptforderung ohne Nebenforderungen (§ 4 ZPO). Zinsen, Mahnkosten ziehen nicht.
+Bezogen auf Hauptforderung ohne Nebenforderungen (§ 4 ZPO). Zinsen, Mahnkosten zaehlen nicht mit.
+
+**Beispiele:**
+
+- Sie klagen 800 EUR Hauptforderung + 50 EUR Zinsen → Streitwert 800 EUR → § 495a ZPO anwendbar.
+- Sie klagen 1.000 EUR Hauptforderung → Streitwert 1.000 EUR → noch im Anwendungsbereich (Grenze ist eingeschlossen).
+- Sie klagen 1.200 EUR → § 495a ZPO **nicht** anwendbar; normales Verfahren.
 
 ### Schritt 2 — Was bedeutet "billiges Ermessen"?
 
@@ -96,7 +104,7 @@ Theoretisch moeglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt 
 
 ## Worauf Sie besonders achten muessen
 
-- **Wertgrenze 600 EUR** ist seit langem stabil — keine aktuelle Reform geplant.
+- **Wertgrenze 1.000 EUR** seit 01.01.2026 (vorher 600 EUR). Bei Altklagen, die vor dem Stichtag anhaengig wurden, ggf. Uebergangsregelung pruefen.
 - **Antragsrecht auf muendliche Verhandlung** ist Garantiestueck — nutzen Sie es, wenn Sie es brauchen.
 - **Vergleichschance**: Im Termin oft besser als rein schriftlich.
 
@@ -104,7 +112,8 @@ Theoretisch moeglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt 
 
 - "Vereinfachtes Verfahren ist meine einzige Option." → Sie koennen muendliche Verhandlung beantragen.
 - "Keine muendliche Verhandlung heisst, mein Fall wird abgewiesen." → Nein, Gericht entscheidet trotzdem in der Sache.
-- "Ich brauche keine Anwaesheit." → Im vereinfachten Verfahren oft nicht erforderlich. Aber wenn Termin: pflichtschuldig erscheinen.
+- "Ich brauche keine Anwesenheit." → Im vereinfachten Verfahren oft nicht erforderlich. Aber wenn Termin: pflichtschuldig erscheinen.
+- "Wertgrenze ist 600 EUR." → Veraltet. Seit 01.01.2026 sind es 1.000 EUR.
 
 ## Querverweise
 
@@ -115,4 +124,4 @@ Theoretisch moeglich, aber selten. Wenn Beweis-Notwendigkeit besteht, beantragt 
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 495a ZPO unveraendert. Wertgrenze 600 EUR stabil.
+Stand: 05/2026. § 495a ZPO aktuelle Fassung: Wertgrenze 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026 durch das Justizstandort-Staerkungsgesetz).
