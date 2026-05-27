@@ -26,8 +26,14 @@ Sie wollen Ihre Klage einreichen, sind aber krank oder ausser Haus. Sie geben da
 - **§ 233 ZPO** — Wiedereinsetzung in den vorigen Stand: nur bei "ohne Verschulden" versaeumter Frist.
 - **§ 234 ZPO** — Frist fuer Wiedereinsetzungs-Antrag (2 Wochen).
 - **§ 236 ZPO** — Form des Antrags.
-- **BVerfG, Beschl. v. 5.11.2014 – 1 BvR 2310/14** — Selbstverantwortungs-Linie (Sorgfaltsmassstab bei Faxen — Aktenzeichen vor Uebernahme in juris/beck-online verifizieren).
-- **BGH zur Wiedereinsetzung bei Bote/Drittversand** (z. B. BGH VI ZR 67/15, NJW 2016, 1305 — Aktenzeichen und Fundstelle in juris/beck-online verifizieren).
+- **BVerfG-Linie zur Selbstverantwortung** — Wer eigene Fristen einhalten muss, traegt das Risiko fuer Auswahl und Ueberwachung von Boten/Drittversendern. Konkrete BVerfG-Entscheidung vor Berufung darauf in juris/beck-online recherchieren.
+- **BGH-Linie zur Wiedereinsetzung bei Bote/Drittversand** — Aktuelles Aktenzeichen mit konkretem Sachverhalt in juris/beck-online recherchieren, bevor Sie sich darauf berufen.
+
+<!-- AUDIT 27.05.2026 | welle 4 | selbstvertreter-amtsgericht
+     Geprueft und korrigiert:
+     - BVerfG 1 BvR 2310/14: NOT_FOUND auf dejure.org -> konkretes AZ entfernt, allgemeine Linie erhalten
+     - BGH VI ZR 67/15: WRONG_TOPIC (echtes Thema Arzthaftung/Behandlungsfehler, NJW 2016, 713;
+       der Skill behauptete NJW 2016, 1305 und Bote/Drittversand) -> AZ und Fundstelle entfernt -->
 
 ## Schritt-fuer-Schritt-Anleitung
 
