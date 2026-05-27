@@ -1,0 +1,22 @@
+{
+  "name": "selbstvertreter-amtsgericht",
+  "version": "14.2.0",
+  "description": "Plugin fuer Buerger ohne Anwalt vor dem Amtsgericht. Zustaendigkeit Streitwert Klageschrift Erwiderung Replik Fristen Beweise PKH Termin Berufung. Workflow- und Verfahrens-Plugin ohne inhaltliche Pruefung.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "selbstvertreter",
+    "amtsgericht",
+    "zpo",
+    "klageschrift",
+    "klageerwiderung",
+    "pkh",
+    "fristen",
+    "buergerprozess",
+    "ohne-anwalt",
+    "mjp"
+  ]
+}
