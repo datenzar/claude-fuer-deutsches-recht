@@ -1,6 +1,6 @@
 # Skill-Übersicht
 
-Automatisch gezählte Gesamtübersicht aller **2390 Skills** in **101 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
+Automatisch gezählte Gesamtübersicht aller **2410 Skills** in **102 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
 
 **Repository:** [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
 
@@ -81,6 +81,7 @@ Automatisch gezählte Gesamtübersicht aller **2390 Skills** in **101 Plugins**.
 - [memorandums-ersteller](#memorandums-ersteller) — 2 Skills
 - [methodenlehre-buergerliches-recht](#methodenlehre-buergerliches-recht) — 2 Skills
 - [mietrecht](#mietrecht) — 15 Skills
+- [nachbarschaftsstreit-pruefer](#nachbarschaftsstreit-pruefer) — 20 Skills
 - [mittelstand-corporate-ma](#mittelstand-corporate-ma) — 54 Skills
 - [nda-abgleich](#nda-abgleich) — 2 Skills
 - [normenkontrolle-bauleitplanung](#normenkontrolle-bauleitplanung) — 22 Skills
@@ -1433,6 +1434,23 @@ Automatisch gezählte Gesamtübersicht aller **2390 Skills** in **101 Plugins**.
 | [`mietsenkungsverlangen`](./mietrecht/skills/mietsenkungsverlangen/SKILL.md) | [`mietspiegel-quellen`](./mietrecht/skills/mietspiegel-quellen/SKILL.md) |
 | [`nebenkostenabrechnung-erstellen`](./mietrecht/skills/nebenkostenabrechnung-erstellen/SKILL.md) | [`nebenkostenabrechnung-pruefen`](./mietrecht/skills/nebenkostenabrechnung-pruefen/SKILL.md) |
 | [`weg-beschluss-anfechten`](./mietrecht/skills/weg-beschluss-anfechten/SKILL.md) |  |
+
+## nachbarschaftsstreit-pruefer
+
+[↑ zum Inhaltsverzeichnis](#inhaltsverzeichnis)
+
+| Skill | Skill |
+|---|---|
+| [`akten-und-grundstuecksaufnahme`](./nachbarschaftsstreit-pruefer/skills/akten-und-grundstuecksaufnahme/SKILL.md) | [`allgemein`](./nachbarschaftsstreit-pruefer/skills/allgemein/SKILL.md) |
+| [`anspruchslandkarte-bgb-nachbarrecht`](./nachbarschaftsstreit-pruefer/skills/anspruchslandkarte-bgb-nachbarrecht/SKILL.md) | [`aufforderungsschreiben-nachbar`](./nachbarschaftsstreit-pruefer/skills/aufforderungsschreiben-nachbar/SKILL.md) |
+| [`beweissicherung-ortstermin-fotos`](./nachbarschaftsstreit-pruefer/skills/beweissicherung-ortstermin-fotos/SKILL.md) | [`drohender-einsturz-gefahranlage`](./nachbarschaftsstreit-pruefer/skills/drohender-einsturz-gefahranlage/SKILL.md) |
+| [`einfriedung-zaun-mauer-hecke`](./nachbarschaftsstreit-pruefer/skills/einfriedung-zaun-mauer-hecke/SKILL.md) | [`einstweilige-verfuegung-und-klage`](./nachbarschaftsstreit-pruefer/skills/einstweilige-verfuegung-und-klage/SKILL.md) |
+| [`grenzbaum-und-grenzanlage`](./nachbarschaftsstreit-pruefer/skills/grenzbaum-und-grenzanlage/SKILL.md) | [`hammerschlags-und-leiterrecht`](./nachbarschaftsstreit-pruefer/skills/hammerschlags-und-leiterrecht/SKILL.md) |
+| [`horrorfall-aktenauswertung`](./nachbarschaftsstreit-pruefer/skills/horrorfall-aktenauswertung/SKILL.md) | [`immissionen-laerm-geruch-rauch-licht`](./nachbarschaftsstreit-pruefer/skills/immissionen-laerm-geruch-rauch-licht/SKILL.md) |
+| [`landesnachbarrecht-router`](./nachbarschaftsstreit-pruefer/skills/landesnachbarrecht-router/SKILL.md) | [`nachbarrecht-kaltstart-triage`](./nachbarschaftsstreit-pruefer/skills/nachbarrecht-kaltstart-triage/SKILL.md) |
+| [`notweg-zufahrt-wegerecht`](./nachbarschaftsstreit-pruefer/skills/notweg-zufahrt-wegerecht/SKILL.md) | [`selbsthilfe-und-eskalationsgrenzen`](./nachbarschaftsstreit-pruefer/skills/selbsthilfe-und-eskalationsgrenzen/SKILL.md) |
+| [`ueberbau-pruefung`](./nachbarschaftsstreit-pruefer/skills/ueberbau-pruefung/SKILL.md) | [`ueberhang-aeste-wurzeln`](./nachbarschaftsstreit-pruefer/skills/ueberhang-aeste-wurzeln/SKILL.md) |
+| [`vergleich-mediation-nachbarschaftsfrieden`](./nachbarschaftsstreit-pruefer/skills/vergleich-mediation-nachbarschaftsfrieden/SKILL.md) | [`vertiefung-baugrube-stuetzverlust`](./nachbarschaftsstreit-pruefer/skills/vertiefung-baugrube-stuetzverlust/SKILL.md) |
 
 ## mittelstand-corporate-ma
 

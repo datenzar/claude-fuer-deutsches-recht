@@ -672,6 +672,15 @@
       "version": "21.0.0"
     },
     {
+      "name": "nachbarschaftsstreit-pruefer",
+      "source": "./nachbarschaftsstreit-pruefer",
+      "description": "Nachbarrecht und Nachbarschaftsstreit: Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun/Mauer/Hecke, Immissionen, Vertiefung, Notweg, Hammerschlagsrecht, Beweise, Aufforderung, Klage und Vergleich.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "21.0.0"
+    },
+    {
       "name": "mittelstand-corporate-ma",
       "source": "./mittelstand-corporate-ma",
       "description": "Freistehendes Mittelstandsmandat-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.",

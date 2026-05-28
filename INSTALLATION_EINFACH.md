@@ -25,7 +25,7 @@ Das war's. In der Plugin-Liste erscheint das Plugin direkt, kann aktiviert werde
 
 ## Welches ZIP brauche ich?
 
-Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **80 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
+Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) liegen **102 Plugin-ZIPs** — eines pro Rechtsgebiet bzw. Werkzeug. Es muss nicht alles installiert werden; nur das, was gerade gebraucht wird.
 
 ### Kanzlei-Backoffice und Querschnitt
 
@@ -76,6 +76,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | `fluggastrechte.zip`                      | VO 261/2004, EuGH-Rspr., Ticketprüfung, Pauschalklage                                                                      |
 | `arbeitsrecht.zip`                        | Kündigung (KSchG, 3-Wochen-Frist), Aufhebungsvertrag inkl. Sperrzeit, Abmahnung, BR-Anhörung                               |
 | `mietrecht.zip`                           | Mieterhöhung, Mietspiegel-Quellen, Eigenbedarf, Schönheitsreparaturen                                                      |
+| `nachbarschaftsstreit-pruefer.zip`        | Überbau, Überhang, Äste/Wurzeln, Grenzbaum, Zaun, Immissionen, Baugrube, Notweg, Hammerschlagsrecht, Beweise, Schreiben und Vergleich |
 | `sozialrecht-kanzlei.zip`                 | Bescheidanalyse, Widerspruch, Klage SGB II/III/V/VI/IX/XII                                                                 |
 | `steuerrecht-anwalt-und-berater.zip`                 | Bescheidanalyse, Einspruch, Klage FG/BFH                                                                                   |
 | `verfassungsrecht.zip`                    | Verfassungsbeschwerde, GG-Auslegung, BVerfG-Verfahren                                                                      |
@@ -129,6 +130,7 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | `forderungsmanagement-klagewerkstatt` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | `phishing-vorfall-pruefer` |
 | `testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip` | `vertragsausfueller` |
+| `testakte-nachbarschaftsstreit-horrorfall-rosengarten.zip` | `nachbarschaftsstreit-pruefer` |
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | `geldwaeschepraevention-aml-kyc` |
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | `common-law-kompass` |
