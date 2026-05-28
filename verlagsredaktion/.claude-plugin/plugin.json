@@ -1,6 +1,6 @@
 {
   "name": "verlagsredaktion",
-  "version": "19.0.0",
+  "version": "19.1.0",
   "description": "Verlegerischer Redaktionsassistent für juristische Verlage und Autoren. Macht aus disparaten Inputs ein Rohmanuskript für Aufsatz Kommentar oder Buchkapitel. Editionssystem überarbeitet umgliedert verdichtet erkennt Widersprueche. Hauszitierweise mit Pinpoint-Randnummer.",
   "license": "Apache-2.0 OR MIT",
   "author": {

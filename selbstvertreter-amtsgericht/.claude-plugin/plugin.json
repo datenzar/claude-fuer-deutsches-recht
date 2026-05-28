@@ -1,6 +1,6 @@
 {
   "name": "selbstvertreter-amtsgericht",
-  "version": "19.0.0",
+  "version": "19.1.0",
   "description": "Plugin für Buerger ohne Anwalt vor dem Amtsgericht. Zuständigkeit Streitwert Klageschrift Erwiderung Replik Fristen Beweise PKH Termin Berufung. Workflow- und Verfahrens-Plugin ohne inhaltliche Prüfung.",
   "license": "Apache-2.0 OR MIT",
   "author": {

@@ -1,7 +1,8 @@
-# Unreleased — Qualitätslauf nach Perplexity-Nachlauf
+# v19.1.0 — BGB AT, Arbeitszeugnis-Testakte und Legistik-Ausbau
 
 - Neues Plugin `bgb-at-pruefer` mit 52 Skills zum BGB Allgemeiner Teil: Fallaufnahme, Anspruchsaufbau, Willenserklärung, Zugang, Vertragsschluss, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung.
 - Neue synthetische Testakte `bgb-at-altfraenkische-werkstatt` mit Online-Auktion, Annahmefrist, Minderjährigenkauf, Vollmacht, Anfechtung, Bedingung und Form-/Sittenwidrigkeitsprüffeldern.
+- Neue Testakte `arbeitszeugnis-analyse-bluehendes-leben` mit zehn vollständigen Arbeitszeugnissen aus zehn Branchen (PTA Apotheke, angestellter Anwalt, MTRA Radiologie, Lagermeister, ZFA, Filialleiterin Sparkasse, Speditionsdisponent, Hotel-Empfangsleiter, Wohnbereichsleitung Pflege, Industriemechanik); tatsächliche Noten verdeckt über gesamte Skala eins bis fünf, ohne Musterlösung.
 - `methodenlehre-buergerliches-recht` und `subsumtions-pruefer` verweisen nun auf `bgb-at-pruefer`, wenn die abstrakte Methodik in konkrete BGB-AT-Mechanik überführt werden soll.
 
 - Legistik-Werkstatt auf fünf Startbahnen erweitert: Bundesressort/Bundesregierung, Bundestag/Fraktion/Opposition, Landesressort/Landesregierung, Landtag/Landtagsfraktion und sonstige Normgeber.
@@ -28,6 +29,7 @@
 - Die BVG-Testakte verwendet nun Lichtbildbeschreibungen statt Platzhalterdateien; die VG-Berlin-Fundstelle ist auf Urteil vom 30.05.2022, VG 11 K 298/21, mit Pressemitteilung vom 04.07.2022 korrigiert.
 - `README.md`, `SKILLS.md`, `testakten/README.md` und der Allgemein-Skill des Verwaltungsrechts-Plugins spiegeln nun 2279 Skills, 50 Testakten und das neue Routing zum BVG-Widerspruchsbescheid wider.
 - alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `19.0.0`.
+- `README.md` und `testakten/README.md` auf Stand 101 Plugins, 2331 Skills, 52 Testakten und Release `v19.1.0` aktualisiert.
 
 ---
 
