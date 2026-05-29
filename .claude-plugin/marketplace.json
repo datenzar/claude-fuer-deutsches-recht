@@ -834,6 +834,15 @@
       "version": "42.0.0"
     },
     {
+      "name": "strafzumessung",
+      "source": "./strafzumessung",
+      "description": "Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitsstrafe Bewaehrung § 56 § 49 Regelbeispiele besonders schwerer Fall Verstaendigung § 257c StPO TOA § 46a Gesamtstrafe § 55 JGG.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "42.0.0"
+    },
+    {
       "name": "subsumtions-pruefer",
       "source": "./subsumtions-pruefer",
       "description": "Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung.",
