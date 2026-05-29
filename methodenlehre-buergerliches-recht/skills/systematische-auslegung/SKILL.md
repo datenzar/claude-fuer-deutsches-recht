@@ -1,6 +1,6 @@
 ---
 name: systematische-auslegung
-description: "Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280, 311, 433, 823 BGB. Praezises Pruefraster fuer das System-Element."
+description: "Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster fuer das System-Element."
 ---
 
 # Systematische Auslegung

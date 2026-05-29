@@ -49,7 +49,7 @@ Vier klassische Kanones plus zwei Querschnittskanones. **Eine starre Rangfolge g
 
 **Praxisbeispiele zur Gewichtung:**
 
-- *§ 199 Abs. 1 BGB — „Kenntnis"*: Wortlaut sagt nur „Kenntnis", aber teleologisch (Verjährung als Rechtsfriedensinstrument) wird grob fahrlässige Unkenntnis gleichgestellt — und genau das hat der Gesetzgeber im Wortlaut ausdrücklich aufgenommen. Historie und Telos decken sich, das Argument trägt.
+- *§ 199 Abs. 1 BGB — „Kenntnis oder grob fahrlaessige Unkenntnis"*: Wortlaut nennt **beide** Tatbestaende ausdruecklich (§ 199 Abs. 1 Nr. 2 BGB: "von den Umstaenden ... Kenntnis erlangt oder ohne grobe Fahrlaessigkeit erlangen muesste"). Die anfaengliche Diskussion ("Wortlaut sagt nur Kenntnis, teleologisch ergaenzt") aus der Zeit des § 852 BGB a.F. ist mit der Schuldrechtsmodernisierung 2002 ueberholt. Praxiswert: Wortlaut, Systematik und Telos decken sich hier — grob fahrlaessige Unkenntnis ist gesetzlich gleichgestellt; Diskussionspunkt ist nur, **wann konkret** grobe Fahrlaessigkeit vorliegt (BGH-Linie zur Erkundigungsobliegenheit).
 - *§ 138 Abs. 2 BGB — „auffälliges Missverhältnis"*: Wortlaut offen, Systematik (Wucherrechtsprechung) und Telos (Schutz vor Ausbeutung) prägen die Konkretisierung; historisch ist die Norm seit dem RGBl. 1900 unverändert, hilft also wenig.
 - *§ 651a BGB ff. (Pauschalreise) nach RL-Umsetzung 2018*: Wortlaut allein trägt nicht; richtlinienkonforme (= unionsrechtskonforme) Auslegung ist Pflicht, weil die Norm Unionsrecht umsetzt.
 

@@ -1,13 +1,13 @@
 ---
 name: gesamtstrafenbildung-53-54-stgb-erste-instanz
-description: "Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53, 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis zu Tateinheit § 52 StGB. Begruendungspflicht im Urteil."
+description: "Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis zu Tateinheit § 52 StGB. Begruendungspflicht im Urteil."
 ---
 
-# Gesamtstrafenbildung — §§ 53, 54 StGB
+# Gesamtstrafenbildung — §§ 53 und 54 StGB
 
 ## Worum geht es?
 
-Bei **Realkonkurrenz** (mehrere selbststaendige Taten in einem Verfahren) sind nach §§ 53, 54 StGB zuerst die **Einzelstrafen** festzusetzen und daraus eine **Gesamtstrafe** zu bilden. Die hoechste Einzelstrafe ist die **Einsatzstrafe**; sie wird um eine angemessene Quote erhoeht. Die Gesamtstrafe darf weder die Summe der Einzelstrafen erreichen noch das gesetzliche Hoechstmass ueberschreiten.
+Bei **Realkonkurrenz** (mehrere selbststaendige Taten in einem Verfahren) sind nach §§ 53 und 54 StGB zuerst die **Einzelstrafen** festzusetzen und daraus eine **Gesamtstrafe** zu bilden. Die hoechste Einzelstrafe ist die **Einsatzstrafe**; sie wird um eine angemessene Quote erhoeht. Die Gesamtstrafe darf weder die Summe der Einzelstrafen erreichen noch das gesetzliche Hoechstmass ueberschreiten.
 
 ## Wann brauchen Sie diese Skill?
 

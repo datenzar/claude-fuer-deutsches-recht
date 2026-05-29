@@ -1,6 +1,6 @@
 ---
 name: freiheitsstrafe-strafmass-pruefen
-description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38, 39, 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung."
+description: "Konkrete Zumessung der Freiheitsstrafe nach §§ 38 39 46 StGB. Strafrahmen pruefen, Strafhoehe innerhalb des Schuldrahmens bestimmen, Wechselwirkung mit Bewaehrung (§ 56 StGB) und Aussetzung des Strafrests (§ 57 StGB). Faustwerte fuer typische Tatbestaende. Schnittstelle Verteidigungsplaedoyer, Antragsstrafe Staatsanwaltschaft, Urteilsbegruendung."
 ---
 
 # Freiheitsstrafe — Strafmass pruefen
