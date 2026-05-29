@@ -1,9 +1,11 @@
 ---
 name: handwerker-beauftragung-vergabe
-description: "Begleitet Handwerkerbeauftragung: Leistungsbeschreibung, Angebotsvergleich, Beschlussbedarf, Budget, Nachträge, Abnahme, Rechnungskontrolle, Gewährleistung und Dokumentation."
+description: "Begleitet Handwerkerbeauftragung in der WEG (Stand 05/2026): Leistungsbeschreibung, Vergleichsangebote, Beschlussbedarf, Budget, Nachträge, Abnahme, Rechnungskontrolle, Gewährleistung, Dokumentation; berücksichtigt § 27 WEG (Verwalterkompetenz), § 21 WEG (Kostenfolge), GEG-Pflichten beim Heizungstausch und Sondervergütungspraxis."
 ---
 
 # Handwerkerbeauftragung und Vergabe
+
+Stand: 05/2026.
 
 ## Ziel
 
@@ -11,17 +13,69 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 
 ## Workflow
 
-1. Schaden/Maßnahme beschreiben: Fotos, Ort, Dringlichkeit, Fachgewerk.
-2. Leistungsbeschreibung erstellen.
-3. Angebote vergleichbar machen: Preis, Leistungsumfang, Ausführungszeit, Gewährleistung, Ausschlüsse.
-4. Beschlussbedarf prüfen: laufende Verwaltung, Notmaßnahme oder Eigentümerbeschluss.
-5. Beauftragung, Nachträge und Abnahme dokumentieren.
-6. Rechnung gegen Angebot und Abnahme prüfen.
+1. **Schaden/Maßnahme beschreiben**: Fotos, Ort, Dringlichkeit, Fachgewerk, betroffene Eigentumsteile, Sicherungsmaßnahmen.
+2. **Leistungsbeschreibung** erstellen: gewünschtes Ergebnis, vorhandene Bausubstanz, Ausführungszeitfenster, einzuhaltende Normen.
+3. **Angebote vergleichbar machen**:
+   - **Mindestens 2–3 Vergleichsangebote** bei substantiellen Maßnahmen (Schwellwerte im Verwaltervertrag/GO oder Beschluss verankert).
+   - Vergleichstabelle: Preis (Netto/Brutto), Leistungsumfang, Material, Ausführungszeit, Gewährleistungsfrist, Pauschal-/Stundenanteil, Nebenkosten, Ausschlüsse, Referenzen, Versicherung, Bonität.
+4. **Beschlussbedarf prüfen** (siehe Tabelle).
+5. **Beauftragung** mit klarer Vollmacht, Auftragsbestätigung, ggf. VOB/B-Vereinbarung, Versicherungsnachweis.
+6. **Nachträge** schriftlich vereinbaren (Mehrkostenrisiko sichtbar machen), Beirat ggf. einbinden.
+7. **Abnahme** dokumentieren (Protokoll, Mängelliste, Beginn Gewährleistung).
+8. **Rechnungsprüfung** gegen Angebot, Aufmaß und Abnahme; ggf. Sicherheitseinbehalt.
+
+## Beschlussbedarf (Faustregel)
+
+| Maßnahme | Verwalter allein | Beschluss |
+| --- | --- | --- |
+| Bagatell-/Routine (kleine Reparaturen) | ja (untergeordnete Bedeutung, § 27 Abs. 1 Nr. 1 WEG) | nein |
+| Eilmaßnahme (Schadensabwehr) | ja (§ 27 Abs. 1 Nr. 2 WEG), Bericht | nein |
+| Erhaltung über Schwellwert | nur wenn Verwaltervertrag/Beschluss ermächtigt | Mehrheitsbeschluss |
+| Modernisierende Erhaltung | nein | Mehrheitsbeschluss, Kostenrahmen |
+| Bauliche Veränderung § 20 WEG | nein | Beschluss mit Auflagen, Kostenfolge nach § 21 WEG |
+| Heizungstausch (GEG § 71) | nein | Beschluss mit GEG-konformem Konzept |
+
+## Vergleichstabelle Angebote (Schema)
+
+| Punkt | Angebot A | Angebot B | Angebot C |
+| --- | --- | --- | --- |
+| Brutto Festpreis | ... | ... | ... |
+| Ausführungszeit | ... | ... | ... |
+| Gewährleistungsfrist (Werkvertrag 5 J, VOB 4 J) | ... | ... | ... |
+| Materialqualität / Typ | ... | ... | ... |
+| Ausgeschlossene Leistungen | ... | ... | ... |
+| Versicherung / Sachkunde | ... | ... | ... |
+| Bonität / Referenzen | ... | ... | ... |
+| Nachweise (BAFA, GEG) | ... | ... | ... |
+
+## Mustertext Auftragsbestätigung
+
+> Sehr geehrte Damen und Herren,
+> auf Grundlage Ihres Angebots vom [Datum] und des Beschlusses der WEG [Adresse] vom [Datum, TOP X] beauftragen wir Sie verbindlich mit der Ausführung der Maßnahme [Bezeichnung] zu folgenden Konditionen:
+> 1. Leistungsumfang gemäß Angebot Anlage 1.
+> 2. Pauschalpreis brutto [Betrag] EUR (inkl. USt.).
+> 3. Ausführungszeitraum: [Beginn]–[Ende].
+> 4. Abnahme: gemeinsam vor Ort am [Datum].
+> 5. Gewährleistungsfrist: [5 / 4] Jahre ab Abnahme.
+> 6. Versicherungsnachweis bitte bis [Datum] vorlegen.
+> 7. Nachträge nur schriftlich nach vorheriger Freigabe der Verwaltung.
 
 ## Output
 
 - Leistungsbeschreibung
-- Angebotsvergleich
+- Angebotsvergleich (Tabelle)
 - Beauftragungsentwurf
-- Nachtragsprüfung
-- Abnahme-/Mängelprotokoll
+- Nachtragsprüfung (Anlass, Erforderlichkeit, Mehrkosten, Freigabe)
+- Abnahme- und Mängelprotokoll
+- Rechnungsprüfung mit Differenzliste
+
+## Cross-Refs
+
+- Erhaltung / Modernisierung / GEG → `erhaltung-modernisierung-baumaengel`
+- Bauliche Veränderung → `bauliche-veraenderungen-20-weg`
+- Beschluss / Sonderumlage → `beschlussvorlagen-erstellen`, `hausgeld-sonderumlage-liquiditaet`
+- Beiratskontrolle → `beirat-controlling-verwalter`
+
+## Quellenpflicht
+
+`rechtsstand-mai-2026-faktenbank` laden. § 27 WEG: https://www.gesetze-im-internet.de/woeigg/__27.html . Bei Heizungstausch GEG § 71 (https://www.gesetze-im-internet.de/geg/__71.html) prüfen.
