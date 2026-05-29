@@ -12,7 +12,7 @@ im Zwangsversteigerungsverfahren
 | Gutachtennummer | 2026-HH-117 |
 | Aktenzeichen | 71 K 18/26 |
 | Amtsgericht | Amtsgericht Hamburg, Abteilung 71 |
-| Gutachter | Dipl.-Ing. Thorsten Malkwitz (fiktiv), öbuv Sachverständiger |
+| Gutachter | Dipl.-Ing. Thorsten Malkwitz (), öbuv Sachverständiger |
 | Wertermittlungsstichtag | 28.04.2026 |
 | Auftraggeber | Amtsgericht Hamburg, Abteilung 71 |
 | Objekt | WE Nr. 9, Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg |
@@ -25,7 +25,7 @@ im Zwangsversteigerungsverfahren
 
 Das Amtsgericht Hamburg, Abteilung 71, hat den Unterzeichner im Rahmen des Zwangsversteigerungsverfahrens 71 K 18/26 mit der Ermittlung des Verkehrswerts (Marktwerts) der im Betreff genannten Eigentumswohnung beauftragt. Grundlage ist § 74a Abs. 5 ZVG i.V.m. §§ 194, 195 BauGB. Der Verkehrswert ist derjenige Preis, der in dem Zeitpunkt, auf den sich die Ermittlung bezieht, im gewöhnlichen Geschäftsverkehr nach den rechtlichen Gegebenheiten und tatsächlichen Eigenschaften, der sonstigen Beschaffenheit und Lage des Grundstücks ohne Rücksicht auf ungewöhnliche oder persönliche Verhältnisse zu erzielen wäre.
 
-Eine Innenbesichtigung wurde vom Mieter L. Sommer (fiktiv) trotz mehrfacher Anfrage nicht gestattet. Die Bewertung beruht auf Außenbesichtigung (12.04.2026), Aktenlage, Gutachterausschussdaten Hamburg und öffentlich zugänglichen Vergleichsdaten.
+Eine Innenbesichtigung wurde vom Mieter L. Sommer trotz mehrfacher Anfrage nicht gestattet. Die Bewertung beruht auf Außenbesichtigung (12.04.2026), Aktenlage, Gutachterausschussdaten Hamburg und öffentlich zugänglichen Vergleichsdaten.
 
 ──────────────────────────────────────────────────────────────────────
 
@@ -43,7 +43,7 @@ Das Bewertungsobjekt liegt im Stadtteil Hamburg-Eppendorf, einem gewachsenen inn
 | Miteigentumsanteil | 39,20/1.000 |
 | GRZ / GFZ | nicht ermittelt; Altbestand |
 | Bebauungsplan | nicht bekannt; Innenbereich § 34 BauGB |
-| Denkmalschutz | nicht eingetragen; Erhaltungsgebiets-Vermerk Eppendorf-Ost (fiktiv) |
+| Denkmalschutz | nicht eingetragen; Erhaltungsgebiets-Vermerk Eppendorf-Ost |
 
 
 2.2 Gebäude
@@ -83,7 +83,7 @@ Die Bewertungseinheit ist die Eigentumswohnung Nr. 9 im 3. Obergeschoss links de
 
 3. Rechtliche und wirtschaftliche Verhältnisse
 
-Zum Wertermittlungsstichtag ist die Wohnung vermietet. Es besteht ein Mietvertrag vom 26.08.2021 zwischen der Erbengemeinschaft Albrecht (fiktiv) und L. Sommer (fiktiv). Die anfängliche Nettokaltmiete von 850,00 EUR wurde mit Renovierungsleistungen des Mieters begründet; seit dem 01.05.2023 beträgt die Nettokaltmiete 1.320,00 EUR monatlich.
+Zum Wertermittlungsstichtag ist die Wohnung vermietet. Es besteht ein Mietvertrag vom 26.08.2021 zwischen der Erbengemeinschaft Albrecht und L. Sommer. Die anfängliche Nettokaltmiete von 850,00 EUR wurde mit Renovierungsleistungen des Mieters begründet; seit dem 01.05.2023 beträgt die Nettokaltmiete 1.320,00 EUR monatlich.
 
 | Zeitraum | Nettokaltmiete | BK-Vorauszahlung | Gesamt |
 |---|---|---|---|
@@ -103,13 +103,13 @@ Da ausreichende Vergleichsdaten für Eigentumswohnungen in Hamburg-Eppendorf vor
 
 4.1 Vergleichsdaten
 
-| Vergleichsobjekt (fiktiv) | Lage | Wfl. qm | Kaufpreis | EUR/qm |
+| Vergleichsobjekt | Lage | Wfl. qm | Kaufpreis | EUR/qm |
 |---|---|---|---|---|
-| V1: Hegestraße (fiktiv) | Eppendorf | 88,0 | 598.000 | 6.795 |
-| V2: Ludolfstraße (fiktiv) | Eppendorf | 97,5 | 675.000 | 6.923 |
-| V3: Erikastraße (fiktiv) | Eppendorf | 91,0 | 636.000 | 6.989 |
-| V4: Geibelstraße (fiktiv) | Harvestehude | 102,0 | 740.000 | 7.255 |
-| V5: Brahmsallee (fiktiv) | Harvestehude | 83,0 | 568.000 | 6.843 |
+| V1: Hegestraße | Eppendorf | 88,0 | 598.000 | 6.795 |
+| V2: Ludolfstraße | Eppendorf | 97,5 | 675.000 | 6.923 |
+| V3: Erikastraße | Eppendorf | 91,0 | 636.000 | 6.989 |
+| V4: Geibelstraße | Harvestehude | 102,0 | 740.000 | 7.255 |
+| V5: Brahmsallee | Harvestehude | 83,0 | 568.000 | 6.843 |
 | **Mittelwert** |   |   |   | **6.961** |
 
 
@@ -185,12 +185,10 @@ festgestellt.
 Hamburg, 05.05.2026
 
 
-Dipl.-Ing. Thorsten Malkwitz (fiktiv)
+Dipl.-Ing. Thorsten Malkwitz
 
 Öffentlich bestellter und vereidigter Sachverständiger
 
 für Bewertung von bebauten und unbebauten Grundstücken
 
 ──────────────────────────────────────────────────────────────────────
-
-Fiktives Dokument für Übungszwecke. Alle Personen, Daten und Werte sind erfunden.

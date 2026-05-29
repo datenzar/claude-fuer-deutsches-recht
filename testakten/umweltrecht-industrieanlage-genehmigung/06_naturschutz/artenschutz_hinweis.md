@@ -142,5 +142,3 @@ Die Ergebnisse dieser Vorprüfung sind der Bezirksregierung Köln mit der Baugen
 *Karte 3: Beobachtungspunkte Fledermäuse (Gehegebegehung 17.03.2026)*
 
 ---
-
-*Dieses Dokument ist ein fiktives Beispieldokument für Ausbildungszwecke. Alle Angaben zu Personen, Unternehmen und Behörden sind erfunden. Es ersetzt keine Rechtsberatung.*

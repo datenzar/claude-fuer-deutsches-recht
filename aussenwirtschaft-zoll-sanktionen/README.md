@@ -89,9 +89,9 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 ## Testakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen`. Sie wird im Release als `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/aussenwirtschaft-zoll-sanktionen-globalmaschinen`. Sie wird im Release als `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [aussenwirtschaft-zoll-sanktionen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aussenwirtschaft-zoll-sanktionen.zip)
-- Testakte: [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)
+- Akte: [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip)

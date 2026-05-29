@@ -9,9 +9,9 @@ Dieses Plugin ist **vollstaendig freistehend**. Es erwartet keine anderen Plugin
 | Datei | Direkt-Download |
 | --- | --- |
 | **Plugin-ZIP: Lobbyregister Bundestag** | [lobbyregister-bundestag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag.zip) |
-| **Testakte: Dublin Bank / Frankfurt Branch** | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
-| **Testakte: Public Affairs Agentur Wasserstoff** | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
-| **Testakte: Bürgerinitiative Waldmoor** | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
+| **Akte: Dublin Bank / Frankfurt Branch** | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
+| **Akte: Public Affairs Agentur Wasserstoff** | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+| **Akte: Bürgerinitiative Waldmoor** | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 
 Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
 
@@ -160,9 +160,9 @@ Fristenkalender und Offenlegungsbausteinen fuer Erstkontakte.
 
 Zum Ausprobieren liegen drei fiktive Akten unter `testakten/`:
 
-- [lobbyregister-dublin-bank-frankfurt-branch](../testakten/lobbyregister-dublin-bank-frankfurt-branch) - auslaendische Bank mit unselbststaendiger Frankfurter Zweigniederlassung und Doppelregistrierungsfrage
+- [lobbyregister-dublin-bank-frankfurt-branch](../testakten/lobbyregister-dublin-bank-frankfurt-branch) - auslaendische Bank mit unselbstständiger Frankfurter Zweigniederlassung und Doppelregistrierungsfrage
 - [lobbyregister-public-affairs-agentur-wasserstoff](../testakten/lobbyregister-public-affairs-agentur-wasserstoff) - Agenturfall mit Auftraggebern, Unterauftrag, Stellungnahmen und Quartalsupload
-- [lobbyregister-buergerinitiative-waldmoor](../testakten/lobbyregister-buergerinitiative-waldmoor) - Buergerinitiative/Netzwerk mit Ausnahmepruefung, Petition, Anhoerung und freiwilliger Registrierung
+- [lobbyregister-buergerinitiative-waldmoor](../testakten/lobbyregister-buergerinitiative-waldmoor) - Bürgerinitiative/Netzwerk mit Ausnahmepruefung, Petition, Anhoerung und freiwilliger Registrierung
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

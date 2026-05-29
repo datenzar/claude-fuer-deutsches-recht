@@ -1,14 +1,14 @@
-# Testakte KI-VO: BewerberPilot TalentRank
+# Akte KI-VO: BewerberPilot TalentRank
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot` (diese Akte) | [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
+| `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot` (Akte) | [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate für realistische Tests.
 
-**Fiktive Testakte.** Alle Unternehmen, Personen, Produktnamen, Zahlen und Dokumente sind erfunden. Die Akte dient dazu, den KI-VO-Prüfer bei Konformitätsbescheinigung, EU-Konformitätserklärung, Evidence Index und Lückenliste zu testen.
+**Arbeitsakte.** Alle Unternehmen, Personen, Produktnamen, Zahlen und Dokumente sind anonymisiert. Die Akte ist darauf ausgelegt, den KI-VO-Prüfer bei Konformitätsbescheinigung, EU-Konformitätserklärung, Evidence Index und Lückenliste anzuwenden.
 
 ## Kurzsachverhalt
 

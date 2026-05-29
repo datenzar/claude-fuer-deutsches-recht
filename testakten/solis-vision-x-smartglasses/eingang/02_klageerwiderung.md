@@ -19,7 +19,7 @@ Hilfsweise: Die Klage wird als unzulaessig abgewiesen.
 
 ### Unzulaessigkeit
 
-Das angerufene Amtsgericht Hamburg ist nicht zustaendig. In Ziffer 18.1 unserer AGB (Anlage B 1) heisst es: "Ausschliesslicher Gerichtsstand ist Zuerich, Schweiz." Diese Gerichtsstandsvereinbarung ist nach Artikel 25 EuGVVO wirksam. Selbst wenn die Klaegerin meint, das Erfuellungsort-Argument greife (Artikel 7 Nummer 1 b EuGVVO), so ist nach FOB Galway gerade nicht Hamburg, sondern Galway Erfuellungsort.
+Das angerufene Amtsgericht Hamburg ist nicht zustaendig. In Ziffer 18.1 unserer AGB (Anlage B 1) heisst es: "Ausschliesslicher Gerichtsstand ist Zürich, Schweiz." Diese Gerichtsstandsvereinbarung ist nach Artikel 25 EuGVVO wirksam. Selbst wenn die Klaegerin meint, das Erfuellungsort-Argument greife (Artikel 7 Nummer 1 b EuGVVO), so ist nach FOB Galway gerade nicht Hamburg, sondern Galway Erfuellungsort.
 
 ### Anwendbares Recht
 

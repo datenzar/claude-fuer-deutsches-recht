@@ -3,7 +3,7 @@
 **Mandat:** Emerald Liffey Bank plc - Lobbyregister Deutschland
 **Kanzleiakte:** 2026/LR/ELB-017
 **Stand:** 27.05.2026
-**Arbeitsauftrag:** Klaeren, ob der irische Rechtstraeger mit deutscher unselbststaendiger Zweigniederlassung einmal oder zweimal im Lobbyregister einzutragen ist.
+**Arbeitsauftrag:** Klaeren, ob der irische Rechtstraeger mit deutscher unselbstständiger Zweigniederlassung einmal oder zweimal im Lobbyregister einzutragen ist.
 
 ## Arbeitsfragen
 

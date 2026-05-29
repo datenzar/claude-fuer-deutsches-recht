@@ -6,15 +6,14 @@
 
 ### Verkehrswertermittlung – Vergleichswertverfahren (§§ 15, 16 ImmoWertV)
 _Az. 71 K 18/26 · WE Nr. 9, Eppendorfer Mühlenbogen 16, 20249 Hamburg · Stichtag: 28.04.2026_
-_A. Vergleichspreise (fiktive Daten, Stichtag ca. 28.04.2026)_
 
-| Vergleichsobjekt (fiktiv) | Wohnfläche (qm) | Lage | Kaufpreis (EUR) | EUR/qm | Abgleich<br>Ausstattung | Bereinigter<br>EUR/qm |
+| Vergleichsobjekt | Wohnfläche (qm) | Lage | Kaufpreis (EUR) | EUR/qm | Abgleich<br>Ausstattung | Bereinigter<br>EUR/qm |
 |---|---|---|---|---|---|---|
-| V1: Hegestraße 22, Eppendorf (fiktiv) | 88 | Eppendorf | 598.000 | 6.795,45 | +/- 0 % | 6.795,45 |
-| V2: Ludolfstraße 9, Eppendorf (fiktiv) | 97.5 | Eppendorf | 675.000 | 6.923,08 | +/- 0 % | 6.923,08 |
-| V3: Erikastraße 15, Eppendorf (fiktiv) | 91 | Eppendorf | 636.000 | 6.989,01 | +/- 0 % | 6.989,01 |
-| V4: Geibelstraße 5, Harvestehude (fiktiv) | 102 | Harvestehude | 740.000 | 7.254,90 | +/- 0 % | 7.254,90 |
-| V5: Brahmsallee 33, Harvestehude (fiktiv) | 83 | Harvestehude | 568.000 | 6.843,37 | +/- 0 % | 6.843,37 |
+| V1: Hegestraße 22, Eppendorf | 88 | Eppendorf | 598.000 | 6.795,45 | +/- 0 % | 6.795,45 |
+| V2: Ludolfstraße 9, Eppendorf | 97.5 | Eppendorf | 675.000 | 6.923,08 | +/- 0 % | 6.923,08 |
+| V3: Erikastraße 15, Eppendorf | 91 | Eppendorf | 636.000 | 6.989,01 | +/- 0 % | 6.989,01 |
+| V4: Geibelstraße 5, Harvestehude | 102 | Harvestehude | 740.000 | 7.254,90 | +/- 0 % | 7.254,90 |
+| V5: Brahmsallee 33, Harvestehude | 83 | Harvestehude | 568.000 | 6.843,37 | +/- 0 % | 6.843,37 |
 | Mittelwert |  |  | 643.400 | 6,961.1636 |  | 6,961.1636 |
 | B. Wertermittlung Bewertungsobjekt |  |  |  |  |  |  |
 | Position | Wohnfläche (qm) | EUR/qm | Rohwert (EUR) | Korrekturfaktor | Betrag (EUR) | Kumuliert (EUR) |

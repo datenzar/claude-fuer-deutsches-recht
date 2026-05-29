@@ -7,7 +7,7 @@ description: "Wertet die Testakte meinungspruefer-grenzfaelle-alltag aus. Sortie
 
 ## Ziel
 
-Nutze diesen Skill, wenn die Testakte `meinungspruefer-grenzfaelle-alltag` hochgeladen oder genannt wird. Die Akte enthält mehrere kleine, unordentliche Äußerungsfälle. Sie soll nicht mit einer Musterlösung erschlagen werden, sondern in Arbeitsstränge zerlegt werden.
+Nutze diesen Skill, wenn die Arbeitsakte `meinungspruefer-grenzfaelle-alltag` hochgeladen oder genannt wird. Die Akte enthält mehrere kleine, unordentliche Äußerungsfälle. Sie soll nicht mit einer Erwartungshorizont erschlagen werden, sondern in Arbeitsstränge zerlegt werden.
 
 ## Vorgehen
 

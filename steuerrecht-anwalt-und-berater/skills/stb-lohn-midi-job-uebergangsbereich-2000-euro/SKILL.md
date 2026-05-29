@@ -66,7 +66,7 @@ Vereinfacht: AN-Anteil wird linear progressiv erhoeht von 0 (an Untergrenze) bis
 ### Phase 5 — Sonderzahlungen
 
 - Bei einmaligen Sonderzahlungen: Aufteilung auf die Monate, sofern regelmaessig.
-- Bei unregelmaessigen Sonderzahlungen: separate Berechnung.
+- Bei unregelmäßigen Sonderzahlungen: separate Berechnung.
 
 ### Phase 6 — Buchung
 

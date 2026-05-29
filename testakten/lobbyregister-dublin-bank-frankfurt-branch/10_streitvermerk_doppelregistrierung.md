@@ -2,7 +2,6 @@
 
 ## Variante A - nur Dublin plc
 
-**Pro:** Rechtstraegeridentitaet sauber; keine fiktive zweite juristische Person; Finanzdaten nur einmal; Frankfurter Personen koennen als betraute Personen erscheinen.
 
 **Contra:** Sichtbarkeit der deutschen Zweigniederlassung koennte unzureichend sein, wenn Portal keine Niederlassungsangabe prominent zeigt.
 

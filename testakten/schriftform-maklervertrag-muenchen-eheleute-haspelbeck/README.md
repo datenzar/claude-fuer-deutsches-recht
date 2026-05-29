@@ -1,22 +1,13 @@
-# Testakte: Schriftform-Maklervertrag – Eheleute Haspelbeck-Türkenfeld
+# Akte: Schriftform-Maklervertrag – Eheleute Haspelbeck-Türkenfeld
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck` (diese Akte) | [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) |
+| `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck` (Akte) | [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Hinweis: Alle Personen, Adressen, Aktenzeichen, IBANs, Telefonnummern, Gerichtsurteile
-> und sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
-> Testmaterial für das Plugin `schriftform-und-textform-bgb`. Jede Ähnlichkeit mit realen
-> Personen, Unternehmen oder Ereignissen ist zufällig und unbeabsichtigt.**
->
-> **Das BGH-Urteil I ZR 202/25 vom 11.03.2026 ist erfunden.** Es orientiert sich an der
-> realen Rechtsprechungslinie des BGH (I ZR 197/22, I ZR 284/20, I ZR 42/23, I ZR 113/21),
-> bildet aber keine reale Entscheidung ab.
 
 ---
 
@@ -77,25 +68,23 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | Tatsächlich gezahlt | EUR 8.810,76 (Streitwert) |
 | Formerfordernis | § 656a BGB: Textform (§ 126b BGB) für Maklervertrag bei EFH-Vermittlung |
 | Kernfrage | Genügt Signaturhinweis mit "maximal 3,7 %" und ohne Objektbezeichnung den Anforderungen des § 656a BGB i.V.m. § 126b BGB? |
-| **BGH-Antwort (I ZR 202/25, 11.03.2026)** | **NEIN** — Revision der Beklagten zurückgewiesen |
+| Höchstrichterlicher Stand | Keine konkrete BGH-Entscheidung in der Akte belegt; jede Rechtsprechungsangabe ist vor Verwendung live zu verifizieren |
 | Rückforderungsgrundlage | § 812 Abs. 1 Satz 1 Alt. 1 BGB (Leistungskondiktion) |
 | Zinsen | § 288 BGB, 5 Prozentpunkte über Basiszinssatz, ab 12.08.2023 |
 
-### BGH-Leitsätze I ZR 202/25 (fiktiv)
+### Arbeitslinien für die rechtliche Prüfung
 
 1. Ein bloßer Hinweis in der E-Mail-Signatur des Maklers auf einen Höchstprovisionssatz ohne
-   Benennung des konkreten Vermittlungsobjekts erfüllt nicht die Anforderungen des § 656a BGB
-   i.V.m. § 126b BGB an die Textform eines Maklervertrags über ein Einfamilienhaus.
+   klare Objekt- und Provisionsbezeichnung ist als Textformträger problematisch.
 
 2. Eine nachfolgende notarielle Maklerklausel im Kaufvertrag heilt den wegen Formmangels
-   nichtigen Maklervertrag nicht.
+   problematischen Maklervertrag nicht ohne Weiteres.
 
-3. Der Makler kann für seine Vermittlungsleistung auch keine Wertvergütung nach § 818
-   Abs. 2 BGB verlangen, da § 656a BGB als Schutzgesetz dem bereicherungsrechtlichen
-   Ausgleich entgegensteht.
+3. Bereicherungsrechtliche Rückabwicklung und möglicher Wertersatz sind gesondert aus
+   § 812 BGB, § 818 BGB und dem Schutzzweck des § 656a BGB herzuleiten.
 
 4. § 242 BGB (Treu und Glauben) rechtfertigt keine Aufrechterhaltung des nichtigen
-   Maklervertrags, auch wenn der Käufer die Besichtigung in Anspruch genommen hat.
+   Maklervertrags allein deshalb, weil der Käufer die Besichtigung in Anspruch genommen hat.
 
 ### Instanzenzug
 
@@ -103,7 +92,7 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 |---|---|---|---|
 | LG München I | 12 O 8842/23 | 06.06.2024 | Klage vollständig stattgegeben |
 | OLG München | 13 U 412/24 | 17.02.2025 | Berufung der Beklagten abgewiesen |
-| BGH | I ZR 202/25 | 11.03.2026 | Revision zurückgewiesen |
+| BGH | — | — | Keine verifizierte Entscheidung in der Akte; Quellenprüfung vor jeder Zitierung |
 
 ---
 
@@ -119,16 +108,15 @@ Trotzenburg, die Klage am 14.09.2023 einreichte.
 | `Anwaltsschreiben_Haspelbeck_Zurueckweisung.pdf` | PDF | Dr. Hagelbrand-Wittlsbach an Bechtholdsmeier, 03.08.2023 | Erste anwaltliche Rückforderung, Fristsetzung 2 Wochen |
 | `Mahnschreiben_Bechtholdsmeier_Anwalt.pdf` | PDF | Dr. Korkenzieher-Mariastein an Hagelbrand, 12.08.2023 | Beklagte weist Forderung zurück; Notarklausel-Argument |
 | `Klageschrift_LG_Muenchen_I.pdf` | PDF | Klageschrift vom 14.09.2023 an LG München I (12 O 8842/23) | Streitwert EUR 8.810,76; §§ 656a, 812 BGB |
-| `Klageerwiderung_Haspelbeck.pdf` | PDF | Klageerwiderung Dr. Korkenzieher-Mariastein, 20.09.2024 | Enthält BGH I ZR 202/25-Gegenargumentation |
-| `BGH_I_ZR_202-25_Volltext_Auszug.pdf` | PDF | Fiktiver BGH-Volltext, I ZR 202/25 vom 11.03.2026 | Leitsätze, Tatbestand, Entscheidungsgründe mit Pinpoint-Annotations |
-| `Memo_Anwalt_an_Mandant_Risiko-Einschaetzung.pdf` | PDF | Internes Anwaltsmemo Dr. Hagelbrand an Mandanten, 14.03.2026 | Post-BGH-Urteil; Handlungsempfehlungen, Zwangsvollstreckung |
+| `Klageerwiderung_Haspelbeck.pdf` | PDF | Klageerwiderung Dr. Korkenzieher-Mariastein, 20.09.2024 | Gegenargumentation zu Textform, Notarklausel und Bereicherungsrecht |
+| `Memo_Anwalt_an_Mandant_Risiko-Einschaetzung.pdf` | PDF | Internes Anwaltsmemo Dr. Hagelbrand an Mandanten, 14.03.2026 | Verfahrensstand, Rechtsprechungsprüfung und nächste Schritte |
 | `Aufstellung_Provisionsstreitwert.xlsx` | Excel | Streitwertaufstellung, Zeithonorare, RVG-Vergleich, Zinsberechnung | 2 Tabellenblätter; Formeln, Summenzeilen, bedingte Formatierung |
 | `Notiz_Erstgespraech_Haspelbeck.txt` | Text | Rohe Anwaltsnotiz vom Erstgespräch 15.08.2023 | Chaotisch, mit Mandanten-O-Tönen, internen Einschätzungen |
 | `Chatverlauf_Haspelbeck_Anwalt_2023-05-12.md` | Text | Beschreibung WhatsApp-Chat Walburga ↔ Korbinian (12.05.2023 während Notartermin) | Belegt fehlende Kenntnis Walburgas zur Provision; "Waaaas?!" |
 
 ---
 
-## Was lernt man hier? – Lernziele für das Plugin `schriftform-und-textform-bgb`
+## Prüffokus für das Plugin `schriftform-und-textform-bgb`
 
 ### 1. Textform-Analyse aus unstrukturierten Unterlagen
 
@@ -149,14 +137,14 @@ Anhand der Notarklausel in Abschnitt V des Kaufvertrags muss der Skill beurteile
 - Kann eine notarielle Klausel einen nach § 656a BGB nichtigen Maklervertrag heilen?
 - **Nein** — § 656a BGB ist lex specialis; die Formvorschrift schützt den Käufer
   vor überraschenden Provisionsvereinbarungen.
-- **BGH-Linie:** Konvalidation durch Kaufvertrag ist ausgeschlossen (I ZR 202/25, Leitsatz 2).
+- Jede behauptete BGH-Linie ist vor Ausgabe mit Gericht, Datum, Aktenzeichen und Quelle zu verifizieren.
 
 ### 3. Bereicherungsrechtliche Rückabwicklung (§ 812 BGB)
 
 - Voraussetzungen der Leistungskondiktion: "ohne rechtlichen Grund" (§ 656a BGB-Formmangel = kein wirksamer Maklervertrag)
-- Kein Wertersatz nach § 818 Abs. 2 BGB (Leitsatz 3 BGH I ZR 202/25)
+- Wertersatz nach § 818 Abs. 2 BGB ist am Schutzzweck des § 656a BGB zu messen.
 - § 242 BGB (venire contra factum proprium) greift nicht, obwohl Mandanten die Besichtigung
-  nutzen (Leitsatz 4)
+  nutzen; die Begründung muss aus Normzweck und Einzelfall kommen.
 
 ### 4. Zinsberechnung und Streitwertfeststellung
 
@@ -177,7 +165,7 @@ Anhand der `Aufstellung_Provisionsstreitwert.xlsx` soll der Skill:
 
 Der Skill soll anhand des Aktenmaterials einen klageweise einsetzbaren Schriftsatz erzeugen:
 - Sachverhaltsdarstellung inkl. E-Mail-Chronologie
-- Rechtliche Begründung §§ 656a, 126b, 812 BGB + BGH I ZR 202/25
+- Rechtliche Begründung §§ 656a, 126b, 812 BGB plus verifizierte Rechtsprechung
 - Bezifferte Forderung (EUR 8.810,76 zzgl. Zinsen)
 - Anlagenverzeichnis mit korrekten Dateinamen aus dieser Akte
 
@@ -195,11 +183,6 @@ Der Skill soll anhand des Aktenmaterials einen klageweise einsetzbaren Schriftsa
 | Käufer (Haus) | Bartholomäus Höglmayr-Stockenfels und Hiltrud Höglmayr-Stockenfels geb. Raufbold, Ismaninger Straße 88, 81675 München | — |
 | LG München I | 12. Zivilkammer | Az. 12 O 8842/23 · Urteil 06.06.2024 |
 | OLG München | 13. Zivilsenat | Az. 13 U 412/24 · Urteil 17.02.2025 |
-| BGH | I. Zivilsenat | Az. I ZR 202/25 · Urteil 11.03.2026 |
-| BGH-Vorsitzender (fiktiv) | Prof. Dr. Bergmann-Kaiserswerth | Beisitzer: Dr. Kirchhoff-Allgäu, Dr. Fischbacher-Wörth, Dr. Löffler-Rupprecht, Dr. Hennecke-Bodensee |
-
----
-
 ## Plugin- und Skill-Empfehlungen
 
 - **`schriftform-und-textform-bgb`** — Hauptskill für diesen Fall; analysiert die
@@ -211,10 +194,3 @@ Der Skill soll anhand des Aktenmaterials einen klageweise einsetzbaren Schriftsa
   (z. B. abweichende Kaufpreise, andere Provisionssätze).
 - **`office/docx`** — Für die Erstellung einer anwaltlichen Vollmacht oder eines
   Mandatsvertrags im Word-Format.
-
----
-
-*Alle Daten in dieser Akte sind fiktiv (Testakte, erstellt Mai 2026). Immobilien-Vermittlung
-Bechtholdsmeier-Schongau e.K. existiert nicht. Das Ehepaar Haspelbeck-Türkenfeld existiert
-nicht. Das BGH-Urteil I ZR 202/25 vom 11.03.2026 ist erfunden und dient ausschließlich
-Schulungszwecken.*

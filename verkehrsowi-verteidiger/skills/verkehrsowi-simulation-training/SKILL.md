@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-simulation-training
-description: "Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Beispielfaelle mit Musterlösung. Training ohne echte Mandatsdaten."
+description: "Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten."
 ---
 
 # Simulationstraining OWi-Mandate
@@ -20,7 +20,7 @@ Max Mustermann, wohnhaft in Musterstadt, erhielt am 15.03.2024 einen Bussgeldbes
 3. Messakte-Inhalt anfordern: Eichschein, Protokoll, Schulung, Rohmessdaten
 4. Einspruchsschreiben formulieren
 
-**Musterloesung:**
+**Erwartungshorizont:**
 - Fristende 29.03.2024 (§ 67 Abs. 1 OWiG + § 33 OWiG, § 180 ZPO)
 - Vorwerfbare Geschwindigkeit 61 km/h = 11 km/h Ueberschreitung → BKatV Nr. 11.3.3 = 80 EUR, 1 Punkt — Bescheid koennte zu hoch sein!
 - Messakte-Anforderung: Standardformulierung
@@ -37,7 +37,7 @@ Lena Beispiel erhielt einen Bussgeldbescheid: qualifiziertes Rotlicht (> 1 Sekun
 3. Sachverstaendigenantrag formulieren fuer Rotphasendauer-Messung
 4. Haertefall-Argumentation prufen (Lena ist Krankenpflegerin, benoetigt Auto)
 
-**Musterloesung:**
+**Erwartungshorizont:**
 - Zeugenaussage zur Rotphasendauer angreifbar wenn keine technische Messung
 - Sachverstaendigenantrag: "Zeuge kann Rotphasendauer von > 1 Sekunde nicht exakt einschaetzen; Messung der Ampelphasendauer durch technischen Sachverstaendigen beantragt"
 - Haertefall: Krankenhaus-Arbeitgeberbescheinigung + Schichtplan ohne OEPNV-Option
@@ -49,7 +49,7 @@ Karl Probefall, Bussgeld 100 EUR, 1 Punkt. Polizeibeamter sah ihn an einer roten
 
 **Rechtsfrage:** Verstos nach § 23 Abs. 1a StVO wenn Fahrzeug steht?
 
-**Musterloesung:**
+**Erwartungshorizont:**
 - BGH 2019: § 23 Abs. 1a StVO gilt auch an der roten Ampel wenn Motor laeuft; nur bei ausgeschaltetem Motor kein Verstos
 - Wenn Motor lief: Verstos begruendet
 - Wenn Motor aus: kein Verstos; Polizeibeamten befragen ob Motor lief

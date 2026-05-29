@@ -1,6 +1,6 @@
-# Testakte: Nachbarschaftsstreit Rosengartenstraße
+# Akte: Nachbarschaftsstreit Rosengartenstraße
 
-**Fiktive Testakte.** Alle Personen, Adressen, Aktenzeichen, Flurstücke, Firmen und Behördenkontakte sind erfunden. Die Akte dient zum Testen des Plugins `nachbarschaftsstreit-pruefer`.
+**Arbeitsakte.** Alle Personen, Adressen, Aktenzeichen, Flurstücke, Firmen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `nachbarschaftsstreit-pruefer`.
 
 ## Kurzbild
 
@@ -15,7 +15,7 @@ Marianne und Dr. Henning Albers besitzen ein Reihenendhaus in der Rosengartenstr
 - Kesslers behaupten plötzlich ein Notwegerecht für Handwerker durch den Garten der Albers.
 - Bauamt, Ordnungsamt, Gartenbauunternehmen, Vermesser und zwei Anwälte haben jeweils nur Teile der Akte gesehen.
 
-Die Akte enthält keine Musterlösung. Sie ist absichtlich fragmentarisch, widersprüchlich und voll mit Dingen, die in echten Nachbarschaftsmandaten das Denken verstopfen.
+Die Akte enthält keine vorgefertigte Lösung. Sie ist absichtlich fragmentarisch, widersprüchlich und voll mit Dingen, die in echten Nachbarschaftsmandaten das Denken verstopfen.
 
 ## Dateien
 

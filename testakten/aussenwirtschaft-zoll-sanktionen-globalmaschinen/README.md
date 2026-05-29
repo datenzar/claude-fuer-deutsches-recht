@@ -1,15 +1,15 @@
-# Testakte: Außenwirtschaft, Zoll, Sanktionen und CBAM – Globalmaschinen GmbH
+# Akte: Außenwirtschaft, Zoll, Sanktionen und CBAM – Globalmaschinen GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen` (diese Akte) | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip) |
+| `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen` (Akte) | [testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktive Lehrakte** | Maschinenbau | Exportkontrolle | Dual-Use | Sanktionsrecht | Zollrecht | CBAM | Verbrauchsteuer | AML/KYC
+**Arbeitsakte** | Maschinenbau | Exportkontrolle | Dual-Use | Sanktionsrecht | Zollrecht | CBAM | Verbrauchsteuer | AML/KYC
 
 ---
 
@@ -89,7 +89,7 @@ Die Syndikusrechtsanwältin **Dr. Sabine Brennecke** koordiniert die interne Kri
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersicht: Sachverhalt, Akteure, Zeitleiste, Lernziel, Disclaimer |
+| [README.md](README.md) | Diese Übersicht: Sachverhalt, Akteure, Zeitleiste und Prüffokus |
 | [01_intake/email_mandant_globalmaschinen.txt](01_intake/email_mandant_globalmaschinen.txt) | Erstanfrage Mandant (Kurzübersicht aller Themen) |
 | [02_waren/produktdaten_cnc_modul.md](02_waren/produktdaten_cnc_modul.md) | Technisches Datenblatt GX-900 + Klassifizierungsbegründung (EU + US EAR) |
 | [03_exportkontrolle/dual_use_pruefung_roh.md](03_exportkontrolle/dual_use_pruefung_roh.md) | Vollständige Dual-Use-Prüfung (2B001.b, Catch-All, ECCN-Vergleich, De-minimis) |
@@ -110,9 +110,9 @@ Die Syndikusrechtsanwältin **Dr. Sabine Brennecke** koordiniert die interne Kri
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte illustriert die typische Mehrdimensionalität von Exportkontroll- und Zollrechtsfällen in einem mittelständischen Industrieunternehmen. Lernende und praktizierende Rechtspraktiker erarbeiten anhand dieser Akte:
+Diese Akte zeigt die typische Mehrdimensionalität von Exportkontroll- und Zollrechtsfällen in einem mittelständischen Industrieunternehmen. Lernende und praktizierende Rechtspraktiker erarbeiten anhand dieser Akte:
 
 1. **Dual-Use-Prüfung:** Wie wird ein technisches Produkt anhand der EU-Dual-Use-Güterliste (VO EU 2021/821) klassifiziert? Welche Rolle spielen ECCN (US-EAR), De-minimis-Regel und Catch-All-Pflicht?
 
@@ -138,8 +138,5 @@ Diese Testakte illustriert die typische Mehrdimensionalität von Exportkontroll-
 
 ## Disclaimer
 
-**Diese Akte ist vollständig fiktiv und dient ausschließlich Lehr- und Übungszwecken.**
-
-Alle Personen, Unternehmen, Aktenzeichen, Adressen, Kontonummern und Sachverhalte sind frei erfunden. Ähnlichkeiten mit realen Personen oder Unternehmen sind rein zufällig und nicht beabsichtigt. Die Dokumente stellen keine Rechts- oder Steuerberatung dar und ersetzen diese nicht. Für die Lösung realer Rechtsprobleme ist stets qualifizierter anwaltlicher oder steuerrechtlicher Rat einzuholen.
 
 Die Rechtslagen sind nach bestem Wissen zum Bearbeitungszeitpunkt dargestellt; Rechtsentwicklungen nach Redaktionsschluss sind nicht eingearbeitet.

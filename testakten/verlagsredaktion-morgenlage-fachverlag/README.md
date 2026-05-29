@@ -1,6 +1,6 @@
-# Testakte: Verlagsredaktion Morgenlage Fachverlag
+# Akte: Verlagsredaktion Morgenlage Fachverlag
 
-Fiktive Testakte für `verlagsredaktion`.
+Arbeitsakte für `verlagsredaktion`.
 
 Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachverlag Morgenstern & Falkenhayn. Im Postfach liegen Autor:innenmails, ein fast fertiges Zeitschriftenheft, ein Buchkapitel mit Fremdmaterial, Bildrechtefragen, ein Satzfahnenlauf und Marketingwünsche. Nichts ist dramatisch, aber alles hängt aneinander.
 
@@ -15,7 +15,7 @@ Die Akte simuliert den Montagmorgen einer Sachbearbeiterin im juristischen Fachv
 | `05_bildrechte_tabellen_screenshots.md` | Abbildungen, Screenshots, Tabellen, Credits und Rechteprobleme |
 | `06_satzfahne_korrekturlauf.md` | Satzfahnennotiz mit Umbruchfehlern und Freigabeproblemen |
 | `07_metadaten_marketing_vertrieb.md` | Klappentext, Schlagworte, Newsletter und Vertriebskurztext |
-| `08_erwarteter_output.md` | Qualitätsanforderungen ohne Musterlösung |
+| `08_erwarteter_output.md` | Qualitätsanforderungen ohne vorgefertigte Lösung |
 
 ## Testziele
 

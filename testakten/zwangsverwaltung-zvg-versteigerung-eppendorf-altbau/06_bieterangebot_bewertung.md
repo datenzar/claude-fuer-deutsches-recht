@@ -2,7 +2,7 @@
 
 ## Eingang
 
-Die fiktive Nordhafen Immobilien UG bietet vor dem Versteigerungstermin an, "die Sache außergerichtlich" für 515.000,00 EUR zu übernehmen. Gleichzeitig will sie, dass der Zwangsverwalter eine kurzfristige Besichtigung mit dem Mieter organisiert.
+Die Nordhafen Immobilien UG bietet vor dem Versteigerungstermin an, "die Sache außergerichtlich" für 515.000,00 EUR zu übernehmen. Gleichzeitig will sie, dass der Zwangsverwalter eine kurzfristige Besichtigung mit dem Mieter organisiert.
 
 ## Vorläufige Bewertung
 

@@ -1,21 +1,21 @@
-# Testakte Inkasso-Zahlungsklage ModeFuchs
+# Akte Inkasso-Zahlungsklage ModeFuchs
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-inkasso-zahlungsklage-modefuchs` (diese Akte) | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
+| `testakte-inkasso-zahlungsklage-modefuchs` (Akte) | [testakte-inkasso-zahlungsklage-modefuchs.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-inkasso-zahlungsklage-modefuchs.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Schulungsakte für das Plugin `forderungsmanagement-klagewerkstatt`, Skill `inkasso-zahlungsklage-ersteller`.
+Arbeitsakte für das Plugin `forderungsmanagement-klagewerkstatt`, Skill `inkasso-zahlungsklage-ersteller`.
 
 ## Kernfall
 
 ModeFuchs GmbH verkauft Ware auf Rechnung an Gottlieb von Altenhausen. Die Rechnung über 698,00 EUR wird mehrfach angemahnt, dann an die InkassoZentrale GmbH abgetreten. Der Schuldner zahlt die Hauptforderung am 26.06.2025 direkt an ModeFuchs. Diese Zahlung ist intern spätestens am 01.07.2025 aktenkundig. Trotzdem werden später Mahnbescheid und Klage weiter über die Hauptforderung und Nebenforderungen geführt.
 
-Der Schulungszweck ist absichtlich scharf: Der Klagegenerator muss erkennen, dass die Hauptforderung nicht mehr eingeklagt werden darf. Es geht um **eindeutige Ansprüche einklagen, unsichere oder erledigte Positionen streichen**.
+Der Prüffokus ist absichtlich scharf: Der Klagegenerator muss erkennen, dass die Hauptforderung nicht mehr eingeklagt werden darf. Es geht um **eindeutige Ansprüche einklagen, unsichere oder erledigte Positionen streichen**.
 
 ## Inhalt
 
@@ -40,5 +40,3 @@ Der Schulungszweck ist absichtlich scharf: Der Klagegenerator muss erkennen, das
 - Verzugszinsen 10,80 EUR: **GELB**, nur nach Freigabe.
 - Inkassokosten 83,54 EUR: **GELB**, nur nach Freigabe.
 - Gericht: AG Nürnberg für die streitige Klage plausibel; zentrale Mahngerichtszuständigkeit Bayern: AG Coburg. Beides im Echtlauf online prüfen und dokumentieren.
-
-Alle Personen, Unternehmen, Beträge, Adressen und Aktenzeichen sind fiktiv.

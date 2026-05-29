@@ -7,7 +7,7 @@ description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant St
 
 ## Triage zu Beginn — klaere zuerst
 
-1. Wer ist Mandant: oeffentlicher Trager, Investor, Anlieger, Verband oder Buergerinitiative?
+1. Wer ist Mandant: oeffentlicher Trager, Investor, Anlieger, Verband oder Bürgerinitiative?
 2. Welche Planungsstufe: informelle Konzeption, Ratsvorlage, Bauleitplanung oder Planfeststellung?
 3. Gibt es eine UVP-Pflicht (Anlage 1 UVPG, § 5 UVPG)?
 4. Welche Fristen gelten: Auslegungsfrist, Einwendungsfrist, Ratsbeschluss?

@@ -1,8 +1,8 @@
 # Statuskarte Projekt Silberfalke — Stand 14. Oktober 2024
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Erstellt:** 14. Oktober 2024, 09:15 Uhr  
-**Verfasserin:** Sophie Maurer, Paralegal  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Erstellt:** 14. Oktober 2024, 09:15 Uhr
+**Verfasserin:** Sophie Maurer, Paralegal
 **Gesamtampel:** 🟡 GELB
 
 ---
@@ -60,10 +60,8 @@
 
 ## 5. Nächste Team-Abstimmung
 
-**Datum:** Mittwoch, 16. Oktober 2024, 10:00 Uhr  
-**Format:** Video-Call (Teams-Link: [intern])  
+**Datum:** Mittwoch, 16. Oktober 2024, 10:00 Uhr
+**Format:** Video-Call (Teams-Link: [intern])
 **Agenda:** (1) Compliance-Update Sanctions, (2) VDR-Status, (3) Tax-Votum Timeline, (4) SPA-Drafting-Kick-off
 
 ---
-
-*Alle in dieser Statuskarte genannten Personen, Unternehmen und Termine sind frei erfunden und dienen ausschließlich Schulungszwecken.*

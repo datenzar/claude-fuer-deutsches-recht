@@ -4,13 +4,13 @@ Ein freistehender Strafbefehls-Assistent für Kanzleien: vom Fristnotruf über A
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn Register, Kanzleisoftware, beA, E-Mail, Datenraum oder Aktenexport fehlen, arbeitet es mit manuellen Uploads oder mit einem klar gekennzeichneten Simulationsmodus.
 
-### Zum Ausprobieren: Testakte (separat)
+### Arbeitsakte (separat)
 
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip) |
+| **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
 
 
 ## Schnellstart
@@ -72,11 +72,11 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 - Fristen, Rechtsmittel, Aussageverhalten und Nebenfolgen werden sichtbar geprüft.
 - Jede Ausgabe muss so gestaltet sein, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
-## Testakte
+## Arbeitsakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/strafbefehl-ladendiebstahl-fahrerflucht-musterakte`. Sie wird im Release als `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/strafbefehl-ladendiebstahl-fahrerflucht`. Sie wird im Release als `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [strafbefehl-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip)
-- Testakte: [testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip)
+- Akte: [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip)

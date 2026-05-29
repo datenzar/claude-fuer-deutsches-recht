@@ -1,6 +1,6 @@
-# Testakte: Grunderwerbsteuer Share Deal Waldkrone
+# Akte: Grunderwerbsteuer Share Deal Waldkrone
 
-Fiktive M&A-Testakte zu Grunderwerbsteuer bei Share Deal, Signing/Closing, 90-%-Schwelle und doppelter Festsetzung. Die Akte ist so gebaut, dass das Plugin nicht nur einen Steuersatz ausrechnet, sondern eine Deal-Timeline, Anzeigezuständigkeiten, SPA-Klauseln, AdV und § 16 GrEStG zusammenführen muss.
+M&A-Akte zu Grunderwerbsteuer bei Share Deal, Signing/Closing, 90-%-Schwelle und doppelter Festsetzung. Die Akte ist so gebaut, dass das Plugin nicht nur einen Steuersatz ausrechnet, sondern eine Deal-Timeline, Anzeigezuständigkeiten, SPA-Klauseln, AdV und § 16 GrEStG zusammenführen muss.
 
 ## Mandatskern
 
@@ -28,6 +28,6 @@ Die irische **Silver Harbour Capital plc** erwirbt sämtliche Anteile an der **W
 - `/steuerrecht-anwalt-und-berater:anw-grest-spa-tax-clause-indemnity`
 - `/steuerrecht-anwalt-und-berater:anw-grest-bescheid-einspruch-adv-16`
 
-## Lernziel
+## Prüffokus
 
 Das System soll differenzieren: Die Transaktion kann steuerbar sein; der eigentliche Streit liegt in der zusätzlichen Belastung eines einheitlichen Lebenssachverhalts. Es soll die BFH-AdV-Beschlüsse gezielt einsetzen, ohne aus ihnen eine endgültige Hauptsacheentscheidung zu machen.

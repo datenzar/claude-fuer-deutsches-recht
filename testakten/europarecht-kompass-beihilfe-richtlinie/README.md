@@ -1,15 +1,13 @@
-# Testakte: Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage
+# Akte: Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-europarecht-kompass-beihilfe-richtlinie` (diese Akte) | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
+| `testakte-europarecht-kompass-beihilfe-richtlinie` (Akte) | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-Fiktive Akte einer deutschen Kommune (Stadt Lindenhafen, Niedersachsen), die ihrer kommunalen Fernwärmetochter einen Investitionszuschuss von 14 Mio. Euro für die Klimawende gewährt – mit anschließender Wettbewerberbeschwerde bei der EU-Kommission und Vorabentscheidungsersuchen an den EuGH. Alle Namen, Zahlen, Aktenzeichen und Adressen sind frei erfunden.
 
 ---
 
@@ -55,11 +53,11 @@ Die HeatBridge AG (Hannover), ein privater Wärmecontractor, hatte der Stadt 202
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 ### EU-Beihilferecht (Art. 107, 108 AEUV)
 
-Die Akte demonstriert den vollständigen Prüfungsaufbau einer staatlichen Beihilfe: Tatbestandsmerkmale (staatliche Mittel, selektiver Vorteil, Handelskriterium), Freistellungsmöglichkeiten (DAWI nach Art. 106 Abs. 2 AEUV, AGVO, De-minimis) und die prozessualen Folgen einer fehlenden Notifizierung (Stand-still-Verstoß, Rückforderungsrisiko).
+Die Akte zeigt den vollständigen Prüfungsaufbau einer staatlichen Beihilfe: Tatbestandsmerkmale (staatliche Mittel, selektiver Vorteil, Handelskriterium), Freistellungsmöglichkeiten (DAWI nach Art. 106 Abs. 2 AEUV, AGVO, De-minimis) und die prozessualen Folgen einer fehlenden Notifizierung (Stand-still-Verstoß, Rückforderungsrisiko).
 
 ### AGVO-Prüfung in der Praxis
 
@@ -71,10 +69,8 @@ Der Vorlagebeschluss des VG Lüneburg zeigt, wie ein deutsches Verwaltungsgerich
 
 ### Grundfreiheiten und Vergaberecht
 
-Die Vergabeklausel des Förderbescheids veranschaulicht den Konflikt zwischen kommunalpolitischem Regionalismus und dem unionsrechtlichen Gleichbehandlungsgebot (Art. 49, 56 AEUV).
+Die Vergabeklausel des Förderbescheids zeigt den Konflikt zwischen kommunalpolitischem Regionalismus und dem unionsrechtlichen Gleichbehandlungsgebot (Art. 49, 56 AEUV).
 
 ---
 
 ## Disclaimer
-
-Diese Akte ist ausschließlich zu Lern- und Demonstrationszwecken erstellt. Alle Personen, Unternehmen, Aktenzeichen, Adressen, Beträge und Sachverhalte sind frei erfunden. Die Dokumente ersetzen keine Rechtsberatung und stellen keine rechtsgültige Anwaltsstrategie dar. Für konkrete Rechtsfragen wenden Sie sich bitte an zugelassene Rechtsanwältinnen und Rechtsanwälte.

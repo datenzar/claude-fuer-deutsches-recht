@@ -1,11 +1,11 @@
 ---
 name: schulung-legistik
-description: "Trainerleitfaden für Legistik-Schulung mit der Schulungsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begründung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Musterlösung. Output Trainerleitfaden Aufgabenhefte Musterlösungen je Station. Kompatibel mit Testakte legistik-pflichtpostfach."
+description: "Trainerleitfaden für Legistik-Schulung mit der Arbeitsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begründung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Erwartungshorizont. Output Trainerleitfaden Aufgabenhefte Erwartungshorizonten je Station. Kompatibel mit der Arbeitsakte legistik-pflichtpostfach."
 ---
 
 # Trainerleitfaden Schulung Legistik
 
-> Schulungsakte "Elektronisches Pflichtpostfach". Zwei Tage Inhouse-Schulung oder Aufteilung auf eine Fortbildungswoche.
+> Arbeitsakte "Elektronisches Pflichtpostfach". Zwei Tage Inhouse-Schulung oder Aufteilung auf eine Fortbildungswoche.
 
 ## Lernziele
 
@@ -22,7 +22,7 @@ Nach Abschluss der Schulung koennen die Teilnehmenden:
 9. **NKR-Vorlage** - Erstellung
 10. **Goldplating erkennen und vermeiden**
 
-## Schulungsakte
+## Arbeitsakte
 
 Politische Vorgabe: "Jede im Handelsregister eingetragene Gesellschaft sowie alle nach DSA als VLOP oder VLOSE eingestuften Unternehmen müssen ein elektronisches Pflichtpostfach vorhalten."
 
@@ -84,9 +84,9 @@ Diskussion: wann ist strenger als EU OK? Wann nicht?
 
 Skill `schulung-legistik`. Was würden Sie anders machen?
 
-## Musterlösungen
+## Erwartungshorizonte
 
-Siehe Testakte `legistik-pflichtpostfach`.
+Siehe Arbeitsakte `legistik-pflichtpostfach`.
 
 ## Stolperfallen-Sammlung
 
@@ -99,7 +99,7 @@ Siehe Testakte `legistik-pflichtpostfach`.
 
 ## Materialliste
 
-- Drucker für Entwuerfe
+- Drucker für Entwürfe
 - Whiteboard / Flipchart
 - ggf. Excel-Schulung für Synopsen-Tabellen
 - HdR-PDF, GGO-PDF, NKRG-PDF
@@ -110,7 +110,7 @@ Siehe Testakte `legistik-pflichtpostfach`.
 
 ## Zentrale Normen (Paragrafenkette)
 
-§§ 38-42 GGO (Legistik-Grundregeln, Schulungs-Pflicht fuer Referenten) — §§ 1-5 HdR (Handbuch der Rechtsfoermlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualitaet) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
+§§ 38-42 GGO (Legistik-Grundregeln, Schulungspflicht für Referenten) — §§ 1-5 HdR (Handbuch der Rechtsförmlichkeit, Ausbildungsgrundlage) — Art. 20 Abs. 3 GG (Rechtsstaat: hinreichende Normenqualität) — § 33 BBG (Fortbildungspflicht Bundesbeamte)
 
 ## Quellenregel
 

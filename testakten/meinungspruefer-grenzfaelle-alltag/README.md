@@ -1,6 +1,6 @@
-# Testakte: Meinungsprüfer - Grenzfälle im Alltag
+# Akte: Meinungsprüfer - Grenzfälle im Alltag
 
-**Fiktive Testakte.** Alle Personen, Orte, Unternehmen, Schulen, Accounts, Aktenzeichen und Behördenkontakte sind erfunden. Die Akte dient zum Testen des Plugins `meinungspruefer`.
+**Arbeitsakte.** Alle Personen, Orte, Unternehmen, Schulen, Accounts, Aktenzeichen und Behördenkontakte sind anonymisiert. Die Akte gehört fachlich zum Plugin `meinungspruefer`.
 
 ## Kurzbild
 
@@ -14,7 +14,7 @@ Die Akte bündelt mehrere kleine Äußerungsfälle aus Alltag, Beruf, Schule und
 - Eine Abmahnung und eine informelle polizeiliche Anhörung machen aus Ärger plötzlich Aktenarbeit.
 - Die Geschäftsführerin will für eine US-Tochter wissen, warum das First Amendment den deutschen Fall nicht automatisch entscheidet.
 
-Die Akte enthält keine Musterlösung. Sie soll den Workflow testen: Wortlaut sichern, Kontext erfassen, Meinung/Tatsache trennen, Belege prüfen, Art.-5-GG-Abwägung dokumentieren, passende Reaktion wählen.
+Die Akte enthält keine vorgefertigte Lösung. Sie soll den Workflow abbilden: Wortlaut sichern, Kontext erfassen, Meinung/Tatsache trennen, Belege prüfen, Art.-5-GG-Abwägung dokumentieren, passende Reaktion wählen.
 
 ## Dateien
 

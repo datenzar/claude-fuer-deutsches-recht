@@ -28,7 +28,7 @@ Soweit zwingende DSGVO-Bestimmungen in Rede stehen, fanden diese ohnehin unabhae
 
 ### II. Aufhebungsanspruch nach Artikel 49 Absatz 1 a CISG
 
-Die Klaegerin kann den Vertrag aufheben und nach Artikel 81 Absatz 2 CISG den Kaufpreis Zug um Zug gegen Rueckgabe der Brille zurueckverlangen.
+Die Klaegerin kann den Vertrag aufheben und nach Artikel 81 Absatz 2 CISG den Kaufpreis Zug um Zug gegen Rückgabe der Brille zurueckverlangen.
 
 **1. Sachmangel nach Artikel 35 CISG.** Die Brille entspricht nicht dem Vertrag im Sinne von Artikel 35 Absatz 1 CISG.
 
@@ -44,7 +44,7 @@ Eine Auseinandersetzung mit der Frage, ob die Brille technisch funktioniere (8K-
 
 **4. Aufhebungserklaerung.** Die Klaegerin hat den Vertrag mit Schreiben vom 23. Februar 2026 (Anlage K 6) wirksam aufgehoben, Artikel 26 CISG.
 
-**5. Rueckabwicklung.** Nach Artikel 81 Absatz 2 CISG kann die Klaegerin den Kaufpreis zurueckverlangen Zug um Zug gegen Rueckgabe der Brille. Der Antrag zu 1 ist daher in Hoehe von 1197 EUR begruendet.
+**5. Rueckabwicklung.** Nach Artikel 81 Absatz 2 CISG kann die Klaegerin den Kaufpreis zurueckverlangen Zug um Zug gegen Rückgabe der Brille. Der Antrag zu 1 ist daher in Hoehe von 1197 EUR begruendet.
 
 ### III. Gutachterkosten als Schadensersatz, Artikel 74 CISG
 

@@ -46,7 +46,7 @@
 
 ## Dokumentenlandkarte
 
-Die Originale liegen in `originale/` und im ZIP `Schulungsakte_ModeFuchs_GmbH.zip`. Für den Skilltest sind besonders wichtig:
+Die Originale liegen in `originale/` und im ZIP `Akte_ModeFuchs_GmbH.zip`. Für die Bearbeitung sind besonders wichtig:
 
 - `04_Rechnung_R-20250406-3098.pdf`
 - `05_Erste_Zahlungserinnerung_20-04-2025.pdf`

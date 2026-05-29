@@ -1,8 +1,8 @@
 # Antwortbaustein – Reaktion auf Ablehnungsschreiben LG Tübingen vom 27.01.2026
 
-**Typ:** Schriftsatz-Entwurf / Argumentationshilfe  
-**Verfasser:** RA Klotzkette, für Dr. Sophia Berger  
-**Datum des Bausteins:** 29.01.2026  
+**Typ:** Schriftsatz-Entwurf / Argumentationshilfe
+**Verfasser:** RA Klotzkette, für Dr. Sophia Berger
+**Datum des Bausteins:** 29.01.2026
 **Bezug:** Schreiben LG Tübingen, Az. 7 O 118/23, vom 27.01.2026 (Ablehnung Vorschuss)
 
 ---
@@ -51,7 +51,6 @@ Der Verdienstausfall (528,00 EUR, 24 h × 22,00 EUR nach § 22 JVEG) wird zurüc
 
 ## D. Formale Empfehlungen
 
-**Frist:** Eine gesetzliche Frist für die Reaktion auf das Ablehnungsschreiben existiert nicht. Jedoch sollte die Antwort zeitnah erfolgen, um eine rasche Klärung vor dem Verhandlungstermin am 17.02.2026 zu ermöglichen.
 
 **Form:** Schriftlich per Fax oder Einschreiben an die Geschäftsstelle, Az. 7 O 118/23, z. Hd. Frau Krämer (Durchwahl 07071/200-1247).
 

@@ -1,19 +1,13 @@
-# Testakte: Schriftform der Wohnraumkündigung — Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen
+# Akte: Schriftform der Wohnraumkündigung — Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher` (diese Akte) | [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip) |
+| `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher` (Akte) | [testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Fiktion-Disclaimer:** Alle Personen, Adressen, Aktenzeichen, IBANs, Telefonnummern und sonstigen
-> Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als Testmaterial für das
-> Plugin `schriftform-und-textform-bgb`. Jede Ähnlichkeit mit realen Personen oder Ereignissen ist
-> zufällig und unbeabsichtigt. Die in den Dokumenten zitierten Rechtsvorschriften und das BGH-Urteil
-> VIII ZR 159/23 vom 27. November 2024 sind real; der fingierte Rechtsstreit ist es nicht.
 
 ---
 
@@ -128,7 +122,7 @@ Der BGH bestätigte dieses Argument 2024 als Leitsatz c).
 
 ---
 
-## Lernziele für das Plugin `schriftform-und-textform-bgb`
+## Prüffokuse für das Plugin `schriftform-und-textform-bgb`
 
 ### 1. Formanalyse: Schriftform vs. Textform vs. elektronische Form
 
@@ -197,6 +191,6 @@ Formfehlern verdeutlichen können:
 
 ---
 
-*Alle Daten in dieser Akte sind fiktiv (Testakte). Frau Pferdedrescher-Riesenstein existiert nicht.
-Herr Eberhart-Wolframshausen existiert nicht. Das Aktenzeichen 34 C 421/22 ist erfunden.
-Das BGH-Urteil VIII ZR 159/23 vom 27.11.2024 ist real — der Rechtsstreit in dieser Testakte ist es nicht.*
+*Alle Daten in dieser Akte sind (Akte). Frau Pferdedrescher-Riesenstein existiert nicht.
+Herr Eberhart-Wolframshausen existiert nicht. Das Aktenzeichen 34 C 421/22 ist anonymisiert.
+Das BGH-Urteil VIII ZR 159/23 vom 27.11.2024 ist real — der Rechtsstreit in dieser Akte ist es nicht.*

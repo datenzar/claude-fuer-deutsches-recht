@@ -1,6 +1,6 @@
 # Originale - Vollstreckungsmappe Mueller
 
-Dieses Verzeichnis wuerde im Echtbetrieb scans der nachfolgenden Urkunden enthalten. Aus Schulungsgruenden sind nur die Hinweise erhalten:
+Dieses Verzeichnis hält Platz für Scans der nachfolgenden Urkunden; in dieser Aktenfassung liegen die Hinweise als strukturierte Notizen vor:
 
 | Anlage | Inhalt |
 | --- | --- |
@@ -12,4 +12,4 @@ Dieses Verzeichnis wuerde im Echtbetrieb scans der nachfolgenden Urkunden enthal
 | K 6 | Anlage Krypto-Bestaende (Screenshot Ledger Live, Bitpanda-Bestaetigung) |
 | K 7 | Anwaltliche Forderungsaufstellung vom 25.5.2026 |
 
-Die Akte ist fiktiv. Personen, Adressen, IBANs, Aktenzeichen, Wallet-Adressen und Beraternamen sind erfunden.
+Personen, Adressen, IBANs, Aktenzeichen, Wallet-Adressen und Beraternamen sind anonymisiert.

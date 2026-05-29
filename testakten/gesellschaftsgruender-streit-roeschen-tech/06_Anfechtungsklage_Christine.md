@@ -100,7 +100,7 @@ Die BGH-Linie zum Bezugsrechtsausschluss beginnt mit der Kali+Salz-Entscheidung 
 
 Im vorliegenden Fall fehlt es bereits am **sachlichen Grund**:
 
-- **Pi Mu Holding GmbH** ist nach den oeffentlich zugaenglichen Registerdaten und eigenen Angaben ein Finanzinvestor, kein strategischer Investor.
+- **Pi Mu Holding GmbH** ist nach den oeffentlich zugänglichen Registerdaten und eigenen Angaben ein Finanzinvestor, kein strategischer Investor.
 - Die behaupteten "industriellen Synergien" sind nicht substantiiert.
 - Die Behauptung, Pi Mu Holding bringe **Markt-Zugang Industrie**, ist nicht belegt.
 

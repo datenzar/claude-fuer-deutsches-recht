@@ -3,7 +3,7 @@
 ## Ausgangsrechnungen
 
 - R-2026-0007: netto 352,00 EUR, Umsatzsteuer 66,88 EUR, Entwurf, noch nicht freigegeben.
-- Weitere Ausgangsrechnungen fehlen in der Testakte.
+- Weitere Ausgangsrechnungen fehlen in der Akte.
 
 ## Eingangsrechnungen
 

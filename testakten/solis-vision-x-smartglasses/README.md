@@ -1,12 +1,12 @@
-# Schulungsakte: Solis Vision X Smartglasses
+# Akte: Solis Vision X Smartglasses
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-solis-vision-x-smartglasses` (diese Akte) | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
+| `testakte-solis-vision-x-smartglasses` (Akte) | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
 Streitsache: **Datenschutzverein NORD e.V. ./. Lir Optics Ltd.**
@@ -20,16 +20,16 @@ Der **Datenschutzverein NORD e.V.** (klagebefugt nach Paragraf 8 Absatz 3 Nummer
 Der Gutachter stellt fest:
 - Die Brille zeichnet **heimlich Video-Streams umgebender Personen auf**, ohne dass eine LED-Aufzeichnungsanzeige (wie etwa bei Apple Vision Pro Pflicht) eingeschaltet ist.
 - **Live-Streaming** in die Hersteller-Cloud (Server in den USA und in Singapur) ist Werkseinstellung; ein Hinweis-Pop-up gibt es nicht.
-- Eine **Gesichtserkennung in Echtzeit** identifiziert Personen aus öffentlich zugaenglichen Quellen und blendet Namen ins Sichtfeld ein.
-- Datenübertragung in Drittlaender erfolgt **ohne EU-Standardvertragsklauseln** und ohne Transfer Impact Assessment.
+- Eine **Gesichtserkennung in Echtzeit** identifiziert Personen aus öffentlich zugänglichen Quellen und blendet Namen ins Sichtfeld ein.
+- Datenübertragung in Drittländer erfolgt **ohne EU-Standardvertragsklauseln** und ohne Transfer Impact Assessment.
 
-Die Klägerin verlangt **Rückzahlung des Kaufpreises Zug um Zug gegen Rueckgabe der Brille** sowie **Erstattung der Gutachterkosten** und **Feststellung des Annahmeverzugs**.
+Die Klägerin verlangt **Rückzahlung des Kaufpreises Zug um Zug gegen Rückgabe der Brille** sowie **Erstattung der Gutachterkosten** und **Feststellung des Annahmeverzugs**.
 
-Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Zuerich vor, hilfsweise sei ein Sachmangel zu verneinen, weil die Brille technisch einwandfrei funktioniere.
+Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Zürich vor, hilfsweise sei ein Sachmangel zu verneinen, weil die Brille technisch einwandfrei funktioniere.
 
-## Lehrziele
+## Prüfschwerpunkte
 
-| Lehrziel | Wo es vorkommt |
+| Prüfschwerpunkt | Wo es vorkommt |
 |---|---|
 | **Internationale Zuständigkeit** | EuGVVO/Brussel Ia, Artikel 17 ff. Verbrauchergerichtsstand (hier nicht, Klägerin ist Verein); Artikel 7 Nummer 1 b EuGVVO Erfüllungsort Lieferort Hamburg |
 | **Anwendbares Recht** | Rom-I Artikel 4 Absatz 1 a Verkaeufersitz CH → Schweizer Recht; aber Artikel 6 CISG; **CISG anwendbar**, weil beide Staaten Vertragsstaaten und kein wirksamer Ausschluss |
@@ -48,11 +48,11 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Zueric
 | `gerichtsakte/` | Aktenübersicht, Verfügungen, Protokoll muendliche Verhandlung, Beweisbeschluss |
 | `beweismittel/` | AGB beide Parteien, Bestellbestätigung mit FOB Galway, Gutachten, Screenshots, Gerät-Spezifikation |
 | `output/` | Hier landen Relationsgutachten, Tenorentwurf, Urteilsentwurf, DOCX/PDF |
-| `referenzen/` | CISG-Volltext (Verweis), Rom-I-Verweis, DSGVO-Verweis, Trainerhandbuch |
+| `referenzen/` | CISG-Volltext (Verweis), Rom-I-Verweis, DSGVO-Verweis, Workflow-Vermerk |
 
-## Wie schult man mit dieser Akte
+## Bearbeitungsablauf
 
-1. Phase 1 (1.5 Stunden): Aktenintake (Skill `aktenintake-zivil`). Teilnehmende ordnen alle Schriftstücke chronologisch und bewerten Relevanz.
+1. Phase 1 (1.5 Stunden): Aktenintake (Skill `aktenintake-zivil`). Die Bearbeitung ordnet alle Schriftstücke chronologisch und bewerten Relevanz.
 2. Phase 2 (3 Stunden): Relationsgutachten (Skill `relation-zivil`). Sachbericht plus Klägerstation plus Beklagtenstation plus Beweisstation plus Tenorierungsstation.
 3. Phase 3 (2 Stunden): Prüfung Zulässigkeit (Skill `zulaessigkeit-pruefen`), insbesondere internationale Zuständigkeit.
 4. Phase 4 (3 Stunden): Materielle Prüfung (Skills `cisg-pruefen`, `kollidierende-agb-pruefen`, `incoterms-und-gefahruebergang`, `dsgvo-rechtswidriges-produkt`, `internationales-privatrecht`).
@@ -62,4 +62,4 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Zueric
 8. Phase 8 (1 Stunde): Berufungsfest prüfen (Skill `berufungsfest-pruefen`).
 9. Phase 9 (30 Minuten): DOCX-Rendering (Skill `dokumente-rendern-urteil-docx`).
 
-Trainerhandbuch: siehe `referenzen/trainerhandbuch.md`.
+Workflow-Vermerk: siehe `referenzen/workflow_relation_und_pruefpunkte.md`.

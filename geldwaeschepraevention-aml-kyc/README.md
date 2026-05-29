@@ -95,9 +95,9 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 ## Testakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/geldwaesche-aml-kyc-musterholding`. Sie wird im Release als `testakte-geldwaesche-aml-kyc-musterholding.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/geldwaesche-aml-kyc-musterholding`. Sie wird im Release als `testakte-geldwaesche-aml-kyc-musterholding.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [geldwaeschepraevention-aml-kyc.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/geldwaeschepraevention-aml-kyc.zip)
-- Testakte: [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip)
+- Akte: [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip)

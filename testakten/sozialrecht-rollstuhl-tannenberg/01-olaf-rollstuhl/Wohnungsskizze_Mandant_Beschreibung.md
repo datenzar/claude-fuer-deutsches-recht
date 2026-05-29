@@ -53,4 +53,4 @@ Relevanz für den Widerspruch:
 
 Hinweis für Plugin sozialrecht-kanzlei:
   Im echten Mandatsverhältnis würde hier ein Foto oder Scan der handgezeichneten Skizze
-  eingescannt und als PNG/JPG beigefügt. Diese Beschreibung hält die Testakte auch ohne eingebettete Bilddatei auswertbar.
+  eingescannt und als PNG/JPG beigefügt. Diese Beschreibung hält die Akte auch ohne eingebettete Bilddatei auswertbar.

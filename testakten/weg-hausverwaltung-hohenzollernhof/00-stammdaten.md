@@ -71,7 +71,7 @@ Auswahl der Eigentümer mit aktueller Relevanz:
 
 ## Akten-Übersicht
 
-Diese Stammdaten-Datei ist Anker. Weitere Akten-Dokumente in dieser Testakte:
+Diese Stammdaten-Datei ist Anker. Weitere Akten-Dokumente in dieser Akte:
 
 - `01-verwaltungsbeirat-notiz.md` — Beiratsnotiz mit Stimmungslage
 - `02-einladung-eigentuemerversammlung-entwurf.md` — Rohentwurf Einladung 17.06.2026
@@ -92,7 +92,7 @@ Diese Stammdaten-Datei ist Anker. Weitere Akten-Dokumente in dieser Testakte:
 - `17-wallbox-antrag-yildiz-WE19.md` — Wallbox-Antrag mit technischer Beschreibung
 - `mandant.yaml` — Mandanten-Stammdaten strukturiert
 
-## Ziel der Testakte
+## Ziel der Akte
 
 Diese Akte simuliert eine **realistische Berliner WEG mittlerer Größe** mit allen typischen Konfliktthemen einer Hausverwaltung. Sie ist bewusst **unordentlich** und enthält **mehrere Fehlerquellen** (falscher Verteilungsschlüssel, formal angreifbare Beschlüsse, CO2-Aufteilungsmängel, ungenaue Beschlusssammlung).
 

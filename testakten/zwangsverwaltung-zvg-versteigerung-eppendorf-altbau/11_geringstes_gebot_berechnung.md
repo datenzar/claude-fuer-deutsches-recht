@@ -110,5 +110,3 @@ Das **wirtschaftliche Bietlimit** ist keine Rechtsgröße, sondern die intern ka
 **Bestehenbleibende Rechte:** In manchen Fällen – insbesondere wenn ein nachrangiger Gläubiger betreibt oder wenn vorrangige Rechte bestehen bleiben – kann das geringste Gebot erheblich höher liegen und den Erwerber wirtschaftlich massiv belasten. Diese Akte ist ein Beispiel, in dem nach vorläufiger Prüfung keine bestehenbleibenden Rechte bestehen – eine Prüfung, die zwingend vor dem Termin vorzunehmen ist.
 
 ---
-
-*Fiktives Dokument. Kein Ersatz für rechtliche Beratung im Einzelfall.*

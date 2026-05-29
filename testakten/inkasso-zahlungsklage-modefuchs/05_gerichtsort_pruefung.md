@@ -35,6 +35,6 @@ Vor Ausgabe einer echten Klage muss der Skill online dokumentieren:
 - Abrufdatum.
 - genaue Postanschrift und elektronische Erreichbarkeit, soweit öffentlich gelistet.
 
-## Ergebnis für die Testakte
+## Ergebnis für die Akte
 
 AG Nürnberg ist plausibel, aber nicht blind zu übernehmen. Vor Einreichung muss die aktuelle Nürnberger Anschrift des Beklagten bestätigt werden.

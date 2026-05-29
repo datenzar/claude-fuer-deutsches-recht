@@ -1,7 +1,5 @@
 # Familien-Stammbaum Tannenberg / Petersen
 
-> Fiktive Familie, dient als Schulungsgrundlage fuer das Plugin `sozialrecht-kanzlei`.
-> Alle Personen, Diagnosen, Adressen, Aktenzeichen sind erfunden.
 
 ## Uebersicht
 

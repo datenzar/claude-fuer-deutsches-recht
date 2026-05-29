@@ -63,11 +63,11 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - Fristen, Rechtsmittel, Aussageverhalten und Nebenfolgen werden sichtbar geprüft.
 - Jede Ausgabe muss so gestaltet sein, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
-## Testakte
+## Arbeitsakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/verkehrsowi-rotlicht-tempo-musterakte`. Sie wird im Release als `testakte-verkehrsowi-rotlicht-tempo-musterakte.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/verkehrsowi-rotlicht-tempo`. Sie wird im Release als `testakte-verkehrsowi-rotlicht-tempo.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [verkehrsowi-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehrsowi-verteidiger.zip)
-- Testakte: [testakte-verkehrsowi-rotlicht-tempo-musterakte.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo-musterakte.zip)
+- Akte: [testakte-verkehrsowi-rotlicht-tempo.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehrsowi-rotlicht-tempo.zip)

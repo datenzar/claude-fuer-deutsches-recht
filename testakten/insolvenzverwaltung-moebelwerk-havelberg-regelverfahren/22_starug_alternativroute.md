@@ -83,7 +83,7 @@ Hätte man ein Moratorium gegen vollstreckende Gläubiger beantragt, wäre Vorau
 
 ---
 
-## III. Lehren für zukünftige Fälle (Lernziel)
+## III. Lehren für zukünftige Fälle (Prüfziel)
 
 | Prüfpunkt | Kritisches Timing im Fall Möbelwerk |
 |---|---|

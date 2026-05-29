@@ -1,7 +1,5 @@
 # 00 Deal Personen und Zeitleiste
 
-Fiktive Akte zu Schulungszwecken. Alle Namen, Unternehmen, Daten, Adressen, Beträge, Aktenzeichen und Vertragsklauseln sind frei erfunden. Übereinstimmungen mit realen Personen oder Unternehmen sind nicht beabsichtigt.
-
 ## Codename und Eckdaten
 
 | Punkt | Wert |
@@ -26,7 +24,7 @@ Fiktive Akte zu Schulungszwecken. Alle Namen, Unternehmen, Daten, Adressen, Betr
 ### Auf Mandantenseite
 
 - **Kunigunde Reiter** — Gründerin, CEO, 40 Prozent nominal. Volkswirtin, will Mandantenfragen in normaler Sprache beantwortet bekommen, ohne Anglizismen-Lawine. Sehr klare Linie: Anrechnung der bereits geleisteten Vesting-Monate ist für sie ein Knackpunkt.
-- **Meinhard Voss** — Gründer, CTO, 30 Prozent nominal. Skeptisch gegenüber englischen Begriffen, hält Anti-Dilution intuitiv für „auch eine Art Bezugsrecht". Wichtige Lern-Situation.
+- **Meinhard Voss** — Gründer, CTO, 30 Prozent nominal. Skeptisch gegenüber englischen Begriffen, hält Anti-Dilution intuitiv für „auch eine Art Bezugsrecht". Heikler Punkt für den Gründercall.
 - **Walburga Stein** — Gründerin, Product, 20 Prozent nominal. Politisch im Gründerteam Mittlerin; will keine Reibung mit Investoren.
 - **Olaf Eichholtz** — Interim CFO, ehemals Inhouse Counsel bei einem Mittelstandskonzern. Liefert die internen Cap-Table-Files. Hat aber Cap Table und Gesellschafterliste in einem Excel-Reiter vermischt — typischer Fehler.
 - **Eberwein & Helmstadt LLP, München** — bisherige Hauskanzlei für Arbeitsrecht und Vertragsrecht. Keine Corporate-Praxis. Hat den Seed-SHA gezeichnet.
@@ -76,15 +74,14 @@ Fiktive Akte zu Schulungszwecken. Alle Namen, Unternehmen, Daten, Adressen, Betr
 | 15.07.2026 | Zielcloseing. |
 | 15.09.2026 | Long-Stop-Date laut Term Sheet. |
 
-## Was die Akte testet
+## Aktenschwerpunkte für die kommende Verhandlung
 
-- Trennung von **Cap Table** (internes Steuerungsinstrument) und **Gesellschafterliste** (öffentliches Register nach Paragraf 40 GmbHG).
-- Wirtschaftliches Verständnis von **fully diluted basis**, Option-Pool-Shuffle, Wandeldarlehen, VSOP-Anteilen.
-- Umgang mit englischen Vertragsbegriffen, die deutsch ähnlich klingen, aber rechtlich anders wirken: Liquidation Preference, Anti-Dilution, Drag/Tag, Reps & Warranties, Consent Matters, Investor Director.
-- Brücke zwischen englischem Term Sheet und deutscher Notar-, Register- und GmbHG-Welt.
-- Sensibilität für Anfängerfehler: blinde Eindeutschung, Cap-Table-Gesellschafterlisten-Verwechslung, Übersehen des Wandeldarlehens, Beirat als Board behandeln.
-- Sauberer Übergang in Partnerbriefing, Mandantenmemo und Liste an Investor Counsel.
+- Saubere Trennung von **Cap Table** (internes Steuerungsinstrument) und **Gesellschafterliste** (öffentliches Register nach Paragraf 40 GmbHG).
+- Wirtschaftliche Position der Gründer auf **fully diluted basis** nach Pool-Shuffle, Wandlung des Wandeldarlehens Frau Ermelind und Bedienung der VSOP-Anteile.
+- Englische Vertragsbegriffe, die im deutschen Recht eine eigene Umsetzung verlangen: Liquidation Preference, Anti-Dilution, Drag/Tag, Reps & Warranties, Consent Matters, Investor Director.
+- Brücke zwischen englischem Term Sheet, deutscher Notar-, Register- und GmbHG-Welt sowie bestehender Satzung und Seed-SHA.
+- Vorbereitung der Verhandlung mit Northbridge bzw. Brackenmuir & Quint LLP: Partnerbriefing, Mandantenmemo und Liste an Investor Counsel.
 
-## Wichtig für den Test
+## Offene Punkte zur Bearbeitung
 
-Diese Akte ist bewusst unrund. Sie enthält Widersprüche zwischen Term Sheet, Satzung, Seed-SHA, Wandeldarlehen und VSOP. Die Aufgabe besteht **nicht** darin, eine perfekte Verhandlungsposition zu schreiben, sondern die Widersprüche zu erkennen, in Partnerbriefing und Mandantenmemo zu übersetzen und für die Verhandlung sortiert vorzulegen.
+Die Akte ist im Arbeitsstand und enthält erkennbare Widersprüche zwischen Term Sheet, Satzung, Seed-SHA, Wandeldarlehen und VSOP. Die nächsten Schritte: die Widersprüche identifizieren, in Partnerbriefing und Mandantenmemo zusammenführen und für die anstehende Verhandlung sortiert vorlegen.

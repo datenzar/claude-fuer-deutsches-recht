@@ -1,10 +1,10 @@
 # Strukturvarianten-Memo — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** STRUCT-OPT-001/SIL  
-**Datum:** 5. Dezember 2024  
-**Verfasser:** Dr. Markus Weidemann (Corporate), Dr. Sabine Roth (Tax)  
-**Adressat:** Eagle Capital Partners GmbH & Co. KG (Felix Brandl)  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** STRUCT-OPT-001/SIL
+**Datum:** 5. Dezember 2024
+**Verfasser:** Dr. Markus Weidemann (Corporate), Dr. Sabine Roth (Tax)
+**Adressat:** Eagle Capital Partners GmbH & Co. KG (Felix Brandl)
 **Betreff:** Strukturgutachten — Varianten A, B, C: Share Deal / Asset Deal / Vorab-Ausgliederung
 
 ---
@@ -126,5 +126,3 @@ Diese Variante kombiniert Elemente aus Variante A mit einer strukturellen Vorber
 - [ ] ECP: Entscheidung Struktur-Präferenz bis 15.12.2024
 
 ---
-
-*Alle in diesem Memo genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

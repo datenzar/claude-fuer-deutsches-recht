@@ -1,6 +1,5 @@
 # Verfahrensübersicht — Nordlicht Handels GmbH
 
-> Leseversion der Testakte `Insolvenzakte_Nordlicht_Handels_GmbH.pdf`  
 > Az. 10 IN 127/13, Insolvenzgericht AG Kiel
 
 ---
@@ -71,4 +70,4 @@
 
 ---
 
-*Originaldokument: `Insolvenzakte_Nordlicht_Handels_GmbH.pdf` — fiktive Testakte, keine Rechtsberatung*
+*Originaldokument: `Insolvenzakte_Nordlicht_Handels_GmbH.pdf` — Arbeitsakte, keine Rechtsberatung*

@@ -138,7 +138,7 @@ Die Planwerkstatt aus dem freien Plugin ist inhaltlich vollständig auch in dies
 
 ## Testakte
 
-Die fiktive Testakte liegt unter [testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/](../testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/) und wird im Release als [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) bereitgestellt.
+Die Arbeitsakte liegt unter [testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/](../testakten/insolvenzverwaltung-moebelwerk-havelberg-regelverfahren/) und wird im Release als [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) bereitgestellt.
 
 ## Sicherheitsleitplanken
 

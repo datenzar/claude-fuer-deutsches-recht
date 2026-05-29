@@ -24,7 +24,7 @@ Das Plugin arbeitet entlang des typischen Mandats:
 
 ## Beispielakte
 
-Die realistische Schulungsakte liegt separat unter [`testakten/phishing-vorfall-mayer-sparkasse-berlin/`](../testakten/phishing-vorfall-mayer-sparkasse-berlin/) und steht als ZIP zum Download bereit:
+Die Arbeitsakte liegt separat unter [`testakten/phishing-vorfall-mayer-sparkasse-berlin/`](../testakten/phishing-vorfall-mayer-sparkasse-berlin/) und steht als ZIP zum Download bereit:
 
 [testakte-phishing-vorfall-mayer-sparkasse-berlin.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-phishing-vorfall-mayer-sparkasse-berlin.zip)
 

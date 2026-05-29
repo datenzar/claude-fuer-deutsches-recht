@@ -1,18 +1,13 @@
-# Testakte: Familie Tannenberg - vier Sozialrechtsverfahren parallel
+# Akte: Familie Tannenberg - vier Sozialrechtsverfahren parallel
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-sozialrecht-rollstuhl-tannenberg` (diese Akte) | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
+| `testakte-sozialrecht-rollstuhl-tannenberg` (Akte) | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Hinweis:** Diese Akte ist frei erfunden und dient ausschließlich der Schulung
-> mit dem Plugin `sozialrecht-kanzlei`. Personen, Ärzte, Versicherungsnummern,
-> Aktenzeichen, Adressen, Befunde - alles fiktiv. Keine reale Aehnlichkeit
-> beabsichtigt.
 
 ## Idee der Akte
 
@@ -30,7 +25,7 @@ Die Familie Tannenberg in Kiel wickelt zur gleichen Zeit **vier sozialrechtliche
 ```
 testakten/sozialrecht-rollstuhl-tannenberg/
   README.md                           <- dies hier
-  SCHULUNG-Trainerhandbuch.md         <- Trainer-Leitfaden 1 Tag
+  Fallkonferenz_Tannenberg_Workflow.md         <- Fallkonferenz und Prüfmatrix
   Familien-Stammbaum.md               <- wer ist mit wem verwandt
   Fristen_Familie_Tannenberg.xlsx     <- alle Fristen auf einen Blick
   Fristen_Familie_Tannenberg.md       <- Markdown-Vorschau dafuer
@@ -75,7 +70,7 @@ testakten/sozialrecht-rollstuhl-tannenberg/
     Notiz_Kanzlei_Erstgespraech_Bodo.txt
 ```
 
-## Schulungs-Workflow (Kurz)
+## Bearbeitungsworkflow (Kurz)
 
 1. **Triage** - vier Bescheide auf den Tisch, SGB-Buch zuordnen
 2. **Frist-Quick-Check** - 60 Sekunden pro Bescheid, Ampel rot/gelb/grün
@@ -84,7 +79,7 @@ testakten/sozialrecht-rollstuhl-tannenberg/
 5. **Mandantenbrief** - in einfacher Sprache
 6. **Strategie** - PKH, Eilrechtsschutz, Untätigkeitsklage
 
-Details siehe `SCHULUNG-Trainerhandbuch.md`.
+Details: `Fallkonferenz_Tannenberg_Workflow.md`.
 
 ## Stand der Verfahren (Datum 22.05.2026)
 
@@ -93,14 +88,12 @@ Details siehe `SCHULUNG-Trainerhandbuch.md`.
 - **Margarete:** Widerspruchsentwurf vom 28.04.2026 eingereicht, Antwort AOK steht aus
 - **Bodo:** Widerspruchsentwurf vom 02.05.2026 eingereicht, PKH für mgl. Klage vorbereitet
 
-## Empfohlener Einstieg für Selbststudium
+## Empfohlener Einstieg
 
-1. `SCHULUNG-Trainerhandbuch.md` lesen, um den Aufbau zu verstehen
+1. `Fallkonferenz_Tannenberg_Workflow.md` lesen, um den Aufbau zu verstehen
 2. Im Plugin `sozialrecht-kanzlei` mit Skill `sozialrecht-fallaufnahme-routing` starten
 3. Bei jedem Fall den Bescheid lesen, dann das Gutachten, dann den Widerspruchsentwurf
 4. Fristen-XLSX dazulegen, um die Termin-Logik zu verstehen
 5. Den Mandantenbrief von Lena lesen und überlegen, wie er für Bodo aussehen würde
 
 ## Disclaimer
-
-**Diese Akte ist nicht zur Verwendung in echten Mandaten geeignet.** Schriftsätze, Anlagen und Texte sind Schulungsmaterial. Aktenzeichen, Versicherungsnummern, Befunde und Personen sind erfunden. Vor jedem realen Einsatz ist eine vollständige fachliche Prüfung durch eine Rechtsanwältin oder einen Rechtsanwalt für Sozialrecht erforderlich.

@@ -1,6 +1,6 @@
 # Stellungnahme HansaH2 Storage AG
 
-Diese fiktive Stellungnahme wurde am 20.05.2026 an BMWK, BMF und Mitglieder des Bundestags-Finanzausschusses versandt.
+Diese Stellungnahme wurde am 20.05.2026 an BMWK, BMF und Mitglieder des Bundestags-Finanzausschusses versandt.
 
 ## Kernaussagen
 

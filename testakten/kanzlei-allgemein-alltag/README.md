@@ -1,15 +1,15 @@
-# Testakte Kanzlei-Allgemein-Plugin
+# Akte Kanzlei-Allgemein-Plugin
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-kanzlei-allgemein-alltag` (diese Akte) | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
+| `testakte-kanzlei-allgemein-alltag` (Akte) | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktiver Kanzlei-Alltag der **Kanzlei Lindenstraße Rechtsanwältin Jana Reuter**, Berlin. Die Akte ist zum Durchspielen von **Kanzlei-Allgemein-Plugin** (`kanzlei-allgemein`) gebaut: edles Claude-Cowork-Dashboard, Nachtblau/Silber/Orange-Look, Kommandocenter, freundlicher Copilot, Integrationscheck, Simulationsmodus, Mandatsannahme/GwG, KYC, PEP, Kontoblatt, Schreib-Canvas, Klage-/Replik-Turbo, Rechtsprechungsrecherche, Vertragsentwurf, Handelsregisterabruf, Qualitätsgate, beA-Journal, EB, Fristen, Kanzleikalender, HR, Urlaub, Krankheit, Payroll, Zeitnarrative, Rechnung, Geschäftskonto, Bankmatching, E-Rechnung, UStVA und Tagesabschluss.
+Kanzlei-Alltag der **Kanzlei Lindenstraße Rechtsanwältin Jana Reuter**, Berlin. Die Akte ist als Arbeitsmappe für **Kanzlei-Allgemein-Plugin** (`kanzlei-allgemein`) gebaut: edles Claude-Cowork-Dashboard, Nachtblau/Silber/Orange-Look, Kommandocenter, freundlicher Copilot, Integrationscheck, Simulationsmodus, Mandatsannahme/GwG, KYC, PEP, Kontoblatt, Schreib-Canvas, Klage-/Replik-Turbo, Rechtsprechungsrecherche, Vertragsentwurf, Handelsregisterabruf, Qualitätsgate, beA-Journal, EB, Fristen, Kanzleikalender, HR, Urlaub, Krankheit, Payroll, Zeitnarrative, Rechnung, Geschäftskonto, Bankmatching, E-Rechnung, UStVA und Tagesabschluss.
 
 ## Sachverhalt
 
@@ -173,9 +173,9 @@ Am Nachmittag beschäftigt Jana Reuter die monatliche Buchhaltung: Eingangsrechn
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte demonstriert, wie ein Kanzlei-Assistent-Plugin einen vollständigen Kanzlei-Alltag einer Einzelanwältin abbilden kann — von der Frist-Überwachung über GwG-Prüfung bis zur E-Rechnung. Konkret zeigt sie:
+Diese Akte zeigt, wie ein Kanzlei-Assistent-Plugin einen vollständigen Kanzlei-Alltag einer Einzelanwältin abbilden kann — von der Frist-Überwachung über GwG-Prüfung bis zur E-Rechnung. Konkret zeigt sie:
 
 - **Fristmanagement** unter Druck (23.05.2026, 12:00 Uhr) mit fehlenden Anlagen als Engpass
 - **Verbotene Eigenmacht** (§§ 858–862 BGB) als Besitzschutz-Eilsache mit Antrag auf einstweilige Verfügung
@@ -190,7 +190,7 @@ Diese Testakte demonstriert, wie ein Kanzlei-Assistent-Plugin einen vollständig
 ## Startprompt
 
 ```text
-Bitte starte Kanzlei-Allgemein-Plugin mit dieser Testakte. Nutze zuerst das edle Cowork-Kommandocenter, zeige eine Statuskarte mit Ampel, prüfe die Integrationen und führe mich im Simulationsmodus durch einen beschleunigten achtstündigen Kanzleitag.
+Bitte starte Kanzlei-Allgemein-Plugin mit dieser Akte. Nutze zuerst das edle Cowork-Kommandocenter, zeige eine Statuskarte mit Ampel, prüfe die Integrationen und führe mich im Simulationsmodus durch einen beschleunigten achtstündigen Kanzleitag.
 ```
 
 ## Erwarteter Ablauf
@@ -214,5 +214,3 @@ Bitte starte Kanzlei-Allgemein-Plugin mit dieser Testakte. Nutze zuerst das edle
 ---
 
 ## Disclaimer
-
-Alle Personen, Aktenzeichen, Adressen, IBANs, Firmennamen und sonstigen Daten in dieser Testakte sind frei erfunden. Jede Ähnlichkeit mit realen Personen oder Unternehmen ist rein zufällig. Diese Testakte ersetzt keine Rechtsberatung. Sie dient ausschließlich dem Testen und Demonstrieren von Kanzlei-Software-Funktionen.

@@ -1,15 +1,13 @@
-# Testakte: Vollstreckungsmappe Sparkasse Niederrhein gegen Mueller
+# Akte: Vollstreckungsmappe Sparkasse Niederrhein gegen Mueller
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein` (diese Akte) | [testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip) |
+| `testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein` (Akte) | [testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vollstreckungsmappe-mueller-sparkasse-niederrhein.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-Sammelakte fuer drei parallele Vollstreckungsvorgaenge der Sparkasse Niederrhein (Glaeubigerin) gegen die Familie Mueller. Alle Personen, Konten, Adressen, Aktenzeichen, Wallet-Adressen und Beraternamen sind frei erfunden. IBANs sind keine echten Bankverbindungen, BICs sind Beispielwerte.
 
 ## Mandantenkonstellation
 
@@ -51,10 +49,10 @@ vollstreckungsmappe-mueller-sparkasse-niederrhein/
 - 01_grundschuld_mueller/
 - 02_kontopfaendung_kuechen-mueller-gmbh/
 - 03_kryptowallets_mueller/
-- originale/ (gescannte Schriftstuecke - in dieser Testakte nur als Text beschrieben)
+- originale/ (gescannte Schriftstuecke - in dieser Akte nur als Text beschrieben)
 - README.md
 ```
 
 ## Hinweis
 
-Diese Testakte ist eine **fiktive** Schulungsakte. Sie ist erkennbar nicht zur Verwendung in einem realen Mandat geeignet. IBANs, BICs, Aktenzeichen und Wallet-Adressen sind Beispielwerte. Die wirtschaftliche und rechtliche Analyse folgt der zum Stand 25.5.2026 geltenden Rechtslage einschliesslich des ZVollstrDigitG (BT-Drs. 21/4815) und der Pfaendungsfreigrenzenbekanntmachung 1.7.2025.
+IBANs, BICs, Aktenzeichen und Wallet-Adressen sind anonymisierte Beispielwerte für die Aktenarbeit. Die wirtschaftliche und rechtliche Analyse folgt der zum Stand 25.5.2026 geltenden Rechtslage einschliesslich des ZVollstrDigitG (BT-Drs. 21/4815) und der Pfaendungsfreigrenzenbekanntmachung 1.7.2025.

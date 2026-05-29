@@ -1,6 +1,5 @@
 # Konformitätsvermerk (Entwurf)
 
-**Nicht zur finalen Marktfreigabe bestimmt. Fiktives Muster für Testzwecke.**
 
 Anbieter: BewerberPilot Score GmbH, Köln
 System: BewerberPilot TalentRank 2.4

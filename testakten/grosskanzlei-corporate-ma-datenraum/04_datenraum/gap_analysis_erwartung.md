@@ -1,10 +1,10 @@
 # Gap-Analyse Datenraum — Fehlende Unterlagen und Erwartungen
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** DR-GAP-001/SIL  
-**Datum:** 28. November 2024  
-**Verfasserin:** Sophie Maurer, Paralegal / Katharina Pfeiffer, Senior Associate  
-**Adressat:** Dr. Markus Weidemann / Seller Counsel Dr. Bäumler  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** DR-GAP-001/SIL
+**Datum:** 28. November 2024
+**Verfasserin:** Sophie Maurer, Paralegal / Katharina Pfeiffer, Senior Associate
+**Adressat:** Dr. Markus Weidemann / Seller Counsel Dr. Bäumler
 **Betreff:** Gap-Analyse nach Sichtung des Virtual Data Room (Phase 2, Stand 28.11.2024)
 
 ---
@@ -81,5 +81,3 @@ Diese Unterlagen sind für die Abgabe eines vollständigen Binding Offer oder f�
 **Gesamtdatenraum-Vollständigkeit: ca. 63 % — UNZUREICHEND für Binding Offer.**
 
 ---
-
-*Alle in diesem Vermerk genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

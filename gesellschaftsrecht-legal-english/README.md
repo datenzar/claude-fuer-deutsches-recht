@@ -1,4 +1,4 @@
-# Gesellschaftsrecht Legal English
+# Didaktisches Gesellschaftsrecht — English Business Terms
 
 Didaktisches Plugin für die zweisprachige Gesellschaftsrechts- und Transaktionspraxis. Es erklärt nicht nur Begriffe, sondern führt Anfängerinnen, Anfänger und laterale Quereinsteiger durch echte Arbeitsprodukte: Cap Table, Term Sheet, Investment Agreement, Gesellschaftervereinbarung, Satzung, SPA, Due-Diligence-Report, Closing-Checkliste, Mandantenmemo und Partnerbriefing.
 
@@ -23,7 +23,7 @@ Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft
 | --- | --- |
 | **Frankfurt Startup Round Legal English** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 
-Die Testakte enthält eine fiktive Venture-Capital- und M&A-Vorbereitung mit Partnerauftrag, Cap Table, Term Sheet, Gesellschafterliste, SHA-Auszug, DD-Notizen, Mandantenfragen und einem bewusst nervösen Associate-Arbeitsstand. Sie ist inzwischen als kleiner Dealroom angelegt: Markdown-Unterlagen, ein Excel-Trainingsmodell, PDF-Scan, PDF-Cheatsheet, Email-Screenshot, WhatsApp-Screenshot und Whiteboard-Foto.
+Die Testakte ist eine realistische Series-A-Mandatsakte der Kanzlei Hagemann & Westarp für die Kometenfalter Systems GmbH (Project Comet Moth): Partnerauftrag, Cap Table und Gesellschafterliste, Term-Sheet-Auszug, SHA-/Satzungs- und Vesting-Notizen, DD-Red-Flag-Liste, Associate-Arbeitsstand, Wandeldarlehen-Vorgeschichte, Investor-Counsel-Markup-Roundtrip, Notar-Checkliste, Side Letter, Board-/Consent-Matters-Mapping, Closing-Checkliste, WhatsApp-Thread Partner/Associate, Mailbox-/Call-Fragmente und die Agio-/Kapitalrücklage-Streitfrage. Sie ist als vollständige Akte angelegt: 17 Sachdateien plus Akten-Deckblatt (`README.md`), ein konsistentes Excel-Cap-Table-Modell (`18-cap-table-und-waterfall.xlsx`) samt PDF-Ausdruck, Whiteboard-Foto, Investor-Email- und WhatsApp-Screenshot, echte `.eml`-Dateien im Unterordner `emails/` (Outlook-kompatibel), Chatverläufe (Slack `#project-comet-moth`, WhatsApp Partner/Associate) als eigene Markdown-Dateien im Unterordner `chats/` sowie eine zusammengeführte PDF-Lesefassung (`26-gesamtakte-kometenfalter-series-a.pdf`). Notar-Memo 19 ist ein realistisches Memorandum aus dem Notariat Veitschegger (Az. UR-Nr. 1182/2026).
 
 ## Installation
 
@@ -101,7 +101,9 @@ Das Plugin arbeitet in drei Schichten:
 
 Die Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` eignet sich für Live-Demos:
 
-- erst `00` bis `03` für Einstieg und Term Sheet,
-- dann `08` und `09` für Begriffsschulung und Anfängerfehler,
-- dann `16` bis `23` für Multi-Format-Materialien wie WhatsApp, Excel, Scan, Screenshot und Whiteboard,
-- zum Schluss `15` für Closing-Logik und Qualitätstor.
+- erst `00` bis `03` für Einstieg, Deal-Personen, Cap Table und Term Sheet,
+- dann `04` bis `06` für SHA/Satzung/Vesting, DD-Red-Flags und den Associate-Arbeitsstand,
+- dann `10` bis `14` für Wandeldarlehen-Vorgeschichte, Investor-Counsel-Markup, Notar-Checkliste, Side Letter und Board-/Consent-Mapping,
+- dann `16` und `18` bis `22` für die Multi-Format-Materialien (WhatsApp-Thread im Chatlook, Cap-Table-Excel samt PDF-Ausdruck, Notar-Memo, Whiteboard, Investor-Email- und WhatsApp-Screenshot) sowie `chats/` für Slack-Thread und WhatsApp je als eigenes Dokument,
+- zum Schluss `15`, `24` und `25` für Closing-Checkliste, Agio-/Kapitalrücklage-Streitfrage und Mailbox-/Call-Fragmente.
+- Für schnelle Vorführungen ohne Fragmentwechsel: `26-gesamtakte-kometenfalter-series-a.pdf`.

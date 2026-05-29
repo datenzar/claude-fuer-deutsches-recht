@@ -1,10 +1,10 @@
 # Aktenvermerk: Conflict-Check und Sanctions-Screening
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Vermerk-Nr.:** AV-001/SIL  
-**Datum:** 14. Oktober 2024  
-**Verfasser:** Dr. Markus Weidemann, Partner  
-**Adressat:** Compliance-Abteilung / Frau Dr. Iris Hofer (Compliance-Partnerin)  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Vermerk-Nr.:** AV-001/SIL
+**Datum:** 14. Oktober 2024
+**Verfasser:** Dr. Markus Weidemann, Partner
+**Adressat:** Compliance-Abteilung / Frau Dr. Iris Hofer (Compliance-Partnerin)
 **Betreff:** Conflict-Check und Sanctions-Screening Projekt Silberfalke — Rohdaten und Zwischenstand
 
 ---
@@ -19,35 +19,35 @@ Mit der Übernahme des Mandats (Engagement Letter unterzeichnet am 10. Oktober 2
 
 ### 2.1 Mandantin (Käuferin)
 
-**Eagle Capital Partners GmbH & Co. KG**  
-Sitz: Frankfurt am Main, Bockenheimer Landstraße 55, 60325 Frankfurt  
-Handelsregister: HRA 47221 (AG Frankfurt am Main)  
-Rechtsform: GmbH & Co. KG (PE-Fonds)  
-Komplementärin: Eagle Capital Management GmbH (HRB 91043, AG Frankfurt am Main)  
-UBO/Fondsstruktur: Eagle Capital Fund IV LP (Delaware Limited Partnership), Investoren: institutionelle Investoren (Pensionskassen, Versicherungen), gemeldet gemäß GwG.  
+**Eagle Capital Partners GmbH & Co. KG**
+Sitz: Frankfurt am Main, Bockenheimer Landstraße 55, 60325 Frankfurt
+Handelsregister: HRA 47221 (AG Frankfurt am Main)
+Rechtsform: GmbH & Co. KG (PE-Fonds)
+Komplementärin: Eagle Capital Management GmbH (HRB 91043, AG Frankfurt am Main)
+UBO/Fondsstruktur: Eagle Capital Fund IV LP (Delaware Limited Partnership), Investoren: institutionelle Investoren (Pensionskassen, Versicherungen), gemeldet gemäß GwG.
 Bekannte Konflikte: keine (Stand 14.10.2024)
 
 ### 2.2 Verkäuferin
 
-**Solaris Familienholding AG**  
-Sitz: Augsburg, Ulmer Straße 7, 86159 Augsburg  
-Handelsregister: HRB 12847 (AG Augsburg)  
-Aktionärsstruktur: Gründerfamilien Grünwald (72,4 %) und Winkel (27,6 %)  
+**Solaris Familienholding AG**
+Sitz: Augsburg, Ulmer Straße 7, 86159 Augsburg
+Handelsregister: HRB 12847 (AG Augsburg)
+Aktionärsstruktur: Gründerfamilien Grünwald (72,4 %) und Winkel (27,6 %)
 UBO-Klärungsbedarf: Familienstamm Grünwald — Übertragungen an Familienmitglieder zweiter Generation nicht vollständig im Unternehmensregister dokumentiert (s. u., Abschnitt 4)
 
 ### 2.3 Zielgesellschaft
 
-**Solaris Industries AG**  
-Sitz: Augsburg, Industriestraße 40, 86154 Augsburg  
-Handelsregister: HRB 14572 (AG Augsburg)  
-Branche: Präzisionsantriebssysteme für Industrieanlagen  
+**Solaris Industries AG**
+Sitz: Augsburg, Industriestraße 40, 86154 Augsburg
+Handelsregister: HRB 14572 (AG Augsburg)
+Branche: Präzisionsantriebssysteme für Industrieanlagen
 Tochtergesellschaften: Solaris Distribution Italia S.r.l. (Mailand), Solaris Distribution US Inc. (Delaware), Solaris Distribution Singapore Pte. Ltd. (Singapur), Solaris Service GmbH (Augsburg)
 
 ### 2.4 Investmentbank / Process Agent
 
-**Meridian Corporate Finance GmbH**  
-Sitz: München, Maximilianstraße 14, 80539 München  
-Handelsregister: HRB 205648 (AG München)  
+**Meridian Corporate Finance GmbH**
+Sitz: München, Maximilianstraße 14, 80539 München
+Handelsregister: HRB 205648 (AG München)
 Funktion: Sell-side Financial Advisor; kein Konflikt mit Kanzlei bekannt.
 
 ---
@@ -149,5 +149,3 @@ Der Conflict-Check ist abgeschlossen und ohne Befund. Das Sanctions-Screening is
 - Anlage 3: E-Mail an Dr. Bäumler vom 14.10.2024 — [01_intake_conflicts/email_mandant.txt]
 
 ---
-
-*Alle in diesem Vermerk genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

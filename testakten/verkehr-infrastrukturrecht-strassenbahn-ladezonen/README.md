@@ -1,15 +1,15 @@
-# Testakte Verkehrs- und Infrastrukturrecht: Straßenbahn Linie 7, Ladezonen und Schulwegsicherheit
+# Akte Verkehrs- und Infrastrukturrecht: Straßenbahn Linie 7, Ladezonen und Schulwegsicherheit
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen` (diese Akte) | [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip) |
+| `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen` (Akte) | [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Testakte für eine Mittelstadt (Stadt Friedrichshöfe, ca. 220.000 Einwohner) mit komplexem Verkehrsinfrastrukturvorhaben: Verlängerung der Straßenbahnlinie 7 (Westast), Einrichtung von Ladezonen für Wirtschaftsverkehr und E-Mobilität, Anpassung der Parkraumbewirtschaftung sowie verkehrsberuhigende Maßnahmen zur Schulwegsicherheit.
+Arbeitsakte für eine Mittelstadt (Stadt Friedrichshöfe, ca. 220.000 Einwohner) mit komplexem Verkehrsinfrastrukturvorhaben: Verlängerung der Straßenbahnlinie 7 (Westast), Einrichtung von Ladezonen für Wirtschaftsverkehr und E-Mobilität, Anpassung der Parkraumbewirtschaftung sowie verkehrsberuhigende Maßnahmen zur Schulwegsicherheit.
 
 ---
 
@@ -31,7 +31,7 @@ Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzi
 
 | Merkmal | Wert |
 |---|---|
-| Stadt | Friedrichshöfe (fiktiv), ca. 220.000 Einwohner |
+| Stadt | Friedrichshöfe (), ca. 220.000 Einwohner |
 | Aktenzeichen Planungsamt | PA-2024-L7-0091 |
 | Aktenzeichen Planfeststellung | BezReg Westmark – PF-2025/478-VBF |
 | Vorhaben | Straßenbahnverlängerung Linie 7, Westast, ca. 3,2 km |
@@ -109,9 +109,9 @@ Die Finanzierung des Gesamtprojekts stützt sich auf das Gemeindeverkehrsfinanzi
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte illustriert das Zusammenspiel mehrerer öffentlich-rechtlicher Verfahren bei einem kommunalen Verkehrsinfrastrukturprojekt:
+Diese Akte zeigt das Zusammenspiel mehrerer öffentlich-rechtlicher Verfahren bei einem kommunalen Verkehrsinfrastrukturprojekt:
 
 1. **Planfeststellungsverfahren (§§ 28, 29 PBefG, §§ 72 ff. VwVfG NRW):** Ablauf von Antragstellung über öffentliche Auslegung, TÖB-Beteiligung, Erörterungstermin bis zum Beschluss; Abwägungsgebot; Einwendungen und deren Behandlung.
 2. **Straßenrecht / Sondernutzung:** Anforderungen an Sondernutzungserlaubnisse für Ladepunkte auf Gehwegen; Abgrenzung Gemeingebrauch/Sondernutzung.
@@ -125,5 +125,3 @@ Diese Testakte illustriert das Zusammenspiel mehrerer öffentlich-rechtlicher Ve
 ---
 
 ## Disclaimer
-
-Diese Akte ist vollständig fiktiv. Alle Personen, Behörden, Aktenzeichen, Adressen und Sachverhalte sind frei erfunden. Die Dokumente dienen ausschließlich zu Lehr- und Übungszwecken im Bereich des deutschen Verwaltungs- und Infrastrukturrechts. Sie ersetzen keine anwaltliche Rechtsberatung. Eine Ähnlichkeit mit realen Personen oder laufenden Verfahren ist nicht beabsichtigt und wäre rein zufällig.

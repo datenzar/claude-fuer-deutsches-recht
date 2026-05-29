@@ -1,10 +1,10 @@
 # SPA Key Issues Liste — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** SPA-KEYS-001/SIL  
-**Version:** 1.3 (Stand: 15. Dezember 2024)  
-**Verfasser:** Dr. Markus Weidemann, Katharina Pfeiffer, Dr. Sabine Roth  
-**Adressat:** Eagle Capital Partners GmbH & Co. KG (Felix Brandl) / Seller Counsel Dr. Bäumler  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** SPA-KEYS-001/SIL
+**Version:** 1.3 (Stand: 15. Dezember 2024)
+**Verfasser:** Dr. Markus Weidemann, Katharina Pfeiffer, Dr. Sabine Roth
+**Adressat:** Eagle Capital Partners GmbH & Co. KG (Felix Brandl) / Seller Counsel Dr. Bäumler
 **Betreff:** Key Issues für SPA-Verhandlung — offene Punkte und Positionen
 
 ---
@@ -23,7 +23,7 @@ ECP hat in seiner Binding Offer signalisiert, einen Locked-Box-Mechanismus zu be
 - **Permitted Leakage:** Vereinbarte, abschließend definierte Ausnahmen (z. B. laufende Geschäftsführer-Vergütung, Dividenden wenn ausdrücklich zugestimmt).
 - **Praxis:** Seller stellt eine Locked-Box-Guarantee aus; bei Verletzung Schadensersatz EUR-für-EUR.
 
-**Vorteil für ECP:** Kaufpreissicherheit; kein post-Closing-Streit über Abschlusskonten.  
+**Vorteil für ECP:** Kaufpreissicherheit; kein post-Closing-Streit über Abschlusskonten.
 **Vorteil für Seller:** Einmaliger Prozess ohne Completion-Accounts-Prüfung.
 
 ### 1.3 Completion Accounts (Seller-Alternative)
@@ -42,13 +42,13 @@ Seller Counsel hat in der Telefonkonferenz vom 10. Dezember 2024 mitgeteilt, das
 
 ### 2.2 SPA-Klausel-Optionen
 
-**Option 1 — Closing Condition (ECP-Position):**  
+**Option 1 — Closing Condition (ECP-Position):**
 Closing ist aufschiebend bedingt durch die schriftliche Bestätigung von Kunde A, auf sein CoC-Kündigungsrecht gemäß § 16 Abs. 3 des Rahmenvertrags C-001 zu verzichten. Fristsetzung: Waiver muss bis zum 20. Januar 2025 (10 Tage vor geplantem Signing) vorliegen.
 
-**Option 2 — Pre-Signing Condition (härtere Variante):**  
+**Option 2 — Pre-Signing Condition (härtere Variante):**
 Waiver muss als Bedingung vor dem Signing-Termin erfüllt sein (nicht erst zum Closing). Kann zu Signing-Verzögerung führen, gibt ECP aber maximale Sicherheit.
 
-**Option 3 — Kaufpreisabschlag + Garantie (Seller-Option):**  
+**Option 3 — Kaufpreisabschlag + Garantie (Seller-Option):**
 Falls Waiver nicht möglich: Escrow-Einbehalt EUR 12 Mio. (entspricht ca. 2x Jahres-EBITDA-Beitrag Kunde A); Freigabe nach 12 Monaten ohne Kündigung von Kunde A. Kombination mit Garantie der Seller (keine Kenntnis von Kündigungsabsicht).
 
 **ECP-Position:** Option 1 (Closing Condition); fallback Option 3 bei Scheitern.
@@ -123,5 +123,3 @@ Für W&I-Transaktionen typische Seller-Limitations:
 | SPA Signing | Notar Frankfurt | 28. Januar 2025 |
 
 ---
-
-*Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

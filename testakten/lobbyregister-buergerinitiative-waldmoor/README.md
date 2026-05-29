@@ -1,19 +1,19 @@
-# Testakte Lobbyregister: Buergerinitiative Waldmoor 2030
+# Akte Lobbyregister: Bürgerinitiative Waldmoor 2030
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-lobbyregister-buergerinitiative-waldmoor` (diese Akte) | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
+| `testakte-lobbyregister-buergerinitiative-waldmoor` (Akte) | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Akte fuer das Plugin `lobbyregister-bundestag`. Die Akte testet eine Buergerinitiative, die zuerst lokal/petitionsbezogen arbeitet und dann bundespolitische Interessenvertretung betreibt.
+Akte für das Plugin `lobbyregister-bundestag`. Die Akte behandelt eine Bürgerinitiative, die zuerst lokal/petitionsbezogen arbeitet und dann bundespolitische Interessenvertretung betreibt.
 
 ## Sachverhalt
 
-Die Buergerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Trasse durch ein Moorgebiet. Anfangs gibt es nur eine Petition und lokale Schreiben. Spaeter organisiert die Initiative eine bundesweite Kampagne, spricht regelmaessig mit Bundestagsabgeordneten und dem Bundesverkehrsministerium, laesst ein Gutachten erstellen und sammelt Spenden.
+Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Trasse durch ein Moorgebiet. Anfangs gibt es nur eine Petition und lokale Schreiben. Spaeter organisiert die Initiative eine bundesweite Kampagne, spricht regelmaessig mit Bundestagsabgeordneten und dem Bundesverkehrsministerium, laesst ein Gutachten erstellen und sammelt Spenden.
 
 ## Dateien
 
@@ -41,9 +41,9 @@ Die Buergerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [19_antwortentwurf_presse.md](19_antwortentwurf_presse.md) | Antwortentwurf an die Lokalzeitung |
 | [20_finalcheck_redteam.md](20_finalcheck_redteam.md) | Red-Team-Notiz zur Kampagnenphase |
 | [21_api_monitoring_notiz_waldmoor.md](21_api_monitoring_notiz_waldmoor.md) | API-Monitoringnotiz vor und nach freiwilliger Registrierung |
-| [22_api_mock_search_waldmoor_pre_registration.json](22_api_mock_search_waldmoor_pre_registration.json) | Fiktive API-Suche ohne Treffer vor Registrierung |
+| [22_api_mock_search_waldmoor_pre_registration.json](22_api_mock_search_waldmoor_pre_registration.json) | API-Suche ohne Treffer vor Registrierung |
 | [23_registerexport_diff_freiwillig.md](23_registerexport_diff_freiwillig.md) | Geplanter Registerexport-Diff fuer freiwillige Registrierung |
 
-## Lernziel
+## Prüffokus
 
-Die Akte zeigt, dass Petition und lokale Anliegen nicht automatisch Lobbyregisterpflicht bedeuten, dass aber regelmaessige bundespolitische Einflussnahme mit Organisation, Gutachten und Spendenfinanzierung neu bewertet werden muss. Sie testet ausserdem, dass eine leere API-Suche keine Entwarnung fuer die rechtliche Pflichtpruefung ist.
+Die Akte zeigt, dass Petition und lokale Anliegen nicht automatisch Lobbyregisterpflicht bedeuten, dass aber regelmäßige bundespolitische Einflussnahme mit Organisation, Gutachten und Spendenfinanzierung neu bewertet werden muss. Sie bündelt ausserdem, dass eine leere API-Suche keine Entwarnung für die rechtliche Pflichtprüfung ist.

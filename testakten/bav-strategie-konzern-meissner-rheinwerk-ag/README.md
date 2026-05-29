@@ -1,18 +1,13 @@
-# Testakte: Betriebliche Altersversorgung – MEISSNER RHEINWERK AG
+# Akte: Betriebliche Altersversorgung – MEISSNER RHEINWERK AG
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-bav-strategie-konzern-meissner-rheinwerk-ag` (diese Akte) | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
+| `testakte-bav-strategie-konzern-meissner-rheinwerk-ag` (Akte) | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Hinweis: Alle Personen, Unternehmen, Aktenzeichen, Finanzdaten, Adressen und sonstigen
-> Angaben in dieser Akte sind vollständig fiktiv und dienen ausschließlich als Testmaterial
-> für das Plugin `bav-strategie-konzern`. Jede Ähnlichkeit mit realen Personen, Unternehmen
-> oder Ereignissen ist zufällig und unbeabsichtigt.**
 
 ---
 
@@ -137,7 +132,7 @@ Der Vorstand verfolgt drei parallele Maßnahmen zur Entlastung der Bilanz:
 
 ---
 
-## Was lernt man hier? – Lernziele für das Plugin `bav-strategie-konzern`
+## Prüffokus für das Plugin `bav-strategie-konzern`
 
 ### 1. Komplexe bAV-Landschaft analysieren
 
@@ -211,7 +206,7 @@ der Skill Hintergrundinformationen einordnen:
 
 ---
 
-*Alle Daten in dieser Akte sind fiktiv (Testakte, angelegt 14.01.2026, erstellt Mai 2026).
+*Alle Daten in dieser Akte sind (Akte, angelegt 14.01.2026, erstellt Mai 2026).
 MEISSNER RHEINWERK AG existiert nicht. Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB
 existiert nicht. Prof. Dr. Adalbert von Sompeh-Ostermann existiert nicht. Alle Aktenzeichen,
-DBO-Zahlen und Verfahrensnummern sind erfunden.*
+DBO-Zahlen und Verfahrensnummern sind anonymisiert.*

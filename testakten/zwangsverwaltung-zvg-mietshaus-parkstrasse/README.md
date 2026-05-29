@@ -1,15 +1,15 @@
-# Testakte: Zwangsverwaltung ZVG – Mietshaus Parkstraße 18, Leipzig
+# Akte: Zwangsverwaltung ZVG – Mietshaus Parkstraße 18, Leipzig
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse` (diese Akte) | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
+| `testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse` (Akte) | [testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-mietshaus-parkstrasse.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Testakte für die Demonstration einer vollständigen gerichtlichen Zwangsverwaltung über ein vermietetes Mehrfamilienhaus mit Gewerbeanteilen. Die Akte deckt den vollständigen Verfahrensablauf ab: Anordnungsbeschluss, Besitzübernahme, Mietverhältnisse, Betriebskosten, Instandhaltungsnotfälle, Gläubigerkorrespondenz, Schuldnerwiderspruch, Insolvenzschnittstelle und Schlussrechnung.
+Arbeitsakte für die Demonstration einer vollständigen gerichtlichen Zwangsverwaltung über ein vermietetes Mehrfamilienhaus mit Gewerbeanteilen. Die Akte deckt den vollständigen Verfahrensablauf ab: Anordnungsbeschluss, Besitzübernahme, Mietverhältnisse, Betriebskosten, Instandhaltungsnotfälle, Gläubigerkorrespondenz, Schuldnerwiderspruch, Insolvenzschnittstelle und Schlussrechnung.
 
 ---
 
@@ -77,7 +77,7 @@ Im Verlauf des Verfahrens (Mai 2026 – Februar 2027) wurden alle Notfallmaßnah
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 Diese Akte vermittelt das vollständige Instrumentarium der gerichtlichen **Zwangsverwaltung nach §§ 146 ff. ZVG** und der **ZwVwV** (Zwangsverwalterverordnung):
 
@@ -94,5 +94,3 @@ Diese Akte vermittelt das vollständige Instrumentarium der gerichtlichen **Zwan
 ---
 
 ## Disclaimer
-
-> **Diese Akte ist vollständig fiktiv.** Alle Personen, Unternehmen, Aktenzeichen, Adressen, Kontonummern und Beträge sind frei erfunden. Jede Ähnlichkeit mit realen Personen oder Verfahren ist rein zufällig. Die Dokumente ersetzen keine Rechtsberatung und stellen keine Muster für konkrete Verfahren dar. Für rechtliche Fragen zur Zwangsverwaltung wenden Sie sich an eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt.

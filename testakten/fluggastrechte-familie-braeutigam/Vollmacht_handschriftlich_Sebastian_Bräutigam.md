@@ -59,6 +59,3 @@ Dr. Sebastian Bräutigam
 
 
 [Interne Anwaltsnotiz] Mängel dieser Vollmacht: (1) Fehlt Unterschrift Yasmin Zaytuna-Bräutigam – PSA fordert Vollmacht BEIDER Sorgeberechtigter für die Kinder (s. Mail 04.05.2026). (2) Die drei minderjährigen Kinder Linnea, Mika und Noor sind überhaupt nicht erwähnt – Ausgleichsansprüche der Kinder werden nicht von dieser Vollmacht abgedeckt. (3) Ohne Vollmacht beider Elternteile für Kinder ist keine wirksame außergerichtliche Geltendmachung möglich. (4) Formulierung "die Anwältin / den Anwalt" ist zu unspezifisch – sollte Name und Kanzlei des bevollmächtigten Anwalts enthalten. Handlungsbedarf: Neue, vollständige Vollmacht aufsetzen lassen.
-
-
-ACHTUNG: Alle Angaben in diesem Dokument sind fiktiv. Testakte zum Plugin fluggastrechte.

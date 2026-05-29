@@ -1,16 +1,16 @@
-# Testakte: Kündigungsschutzklage Weber ./. TechLogix GmbH
+# Akte: Kündigungsschutzklage Weber ./. TechLogix GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-kuendigungsschutzklage-weber-techlogix` (diese Akte) | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+| `testakte-kuendigungsschutzklage-weber-techlogix` (Akte) | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktiver Beispielfall** zur Demonstration der `kueschk-*`-Skills im Plugin `arbeitsrecht`.  
-Aktenzeichen Arbeitsgericht Berlin: **28 Ca 7314/26** (fiktiv)
+**Beispielfall** für die `kueschk-*`-Skills im Plugin `arbeitsrecht`.
+Aktenzeichen Arbeitsgericht Berlin: **28 Ca 7314/26**
 
 ---
 
@@ -36,7 +36,7 @@ Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fe
 | **Betriebsrat** | vorhanden, 5 Mitglieder; Vorsitz: Torsten Hähnel |
 | **Prozessvertreter Kläger** | RA Benedikt Steinhauer, Kanzlei Steinhauer & Vonau, Oranienstr. 14, 10999 Berlin |
 | **Prozessvertreter Beklagte** | RAin Dr. Miriam Falkenberg, Falkenberg Arbeitsrecht, Potsdamer Platz 7, 10785 Berlin |
-| **Aktenzeichen ArbG** | 28 Ca 7314/26 (fiktiv) |
+| **Aktenzeichen ArbG** | 28 Ca 7314/26 |
 | **Beginn Arbeitsverhältnis** | 01.03.2018 |
 | **Funktion** | Senior IT-Administrator |
 | **Bruttogehalt** | EUR 4.850,00/Monat |
@@ -56,7 +56,7 @@ Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fe
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Dateiliste, Lernziele |
+| [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
 | [arbeitsvertrag_weber_2018.md](arbeitsvertrag_weber_2018.md) | Vollständiger Arbeitsvertrag vom 15.02.2018 (alle §§) |
 | [arbeitsvertrag_weber_2018.docx](arbeitsvertrag_weber_2018.docx) | DOCX-Original des Arbeitsvertrags |
 | [kuendigungsschreiben_techlogix_30-04-2026.md](kuendigungsschreiben_techlogix_30-04-2026.md) | Kündigungsschreiben TechLogix GmbH vom 28.04.2026 mit Kanzlei-Anmerkungen |
@@ -81,9 +81,9 @@ Der Fall vereint mehrere klassische Streitpunkte des Kündigungsschutzrechts: fe
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte demonstriert den vollständigen Ablauf eines Kündigungsschutzverfahrens — vom Erstgespräch bis zum Vergleich. Im Einzelnen werden folgende Rechtsfragen und Praxissituationen abgedeckt:
+Diese Akte zeigt den vollständigen Ablauf eines Kündigungsschutzverfahrens — vom Erstgespräch bis zum Vergleich. Im Einzelnen werden folgende Rechtsfragen und Praxissituationen abgedeckt:
 
 **Verfahrensrechtlich**
 - Fristberechnung nach § 4 KSchG: Dreiwochenfrist ab Zugang der Kündigung, Bedeutung des Zugangszeitpunkts bei Botenzustellung
@@ -142,5 +142,3 @@ Dann weiter mit `kueschk-frist-und-zugang-pruefen` — die Frist ist das erste T
 ---
 
 ## Disclaimer
-
-Alle Personen, Unternehmen, Adressen, Beträge, Aktenzeichen und sonstigen Angaben in dieser Akte sind frei erfunden. Ähnlichkeiten mit realen Personen, Firmen oder Verfahren sind zufällig und unbeabsichtigt. Die Akte dient ausschließlich dem Testen von KI-gestützten Rechtsanwendungs-Skills und stellt in keiner Weise eine Rechtsberatung dar. Für konkrete rechtliche Fragen wenden Sie sich bitte an eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt.

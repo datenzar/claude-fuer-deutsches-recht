@@ -1,6 +1,6 @@
 # ZUGFeRD R-2026-0007 — Validierungsnotiz
 
-Für diese Testakte liegt noch keine echte PDF/A-3-Datei mit eingebettetem XML vor.
+Für diese Akte liegt noch keine echte PDF/A-3-Datei mit eingebettetem XML vor.
 
 Erwarteter Workflow:
 1. Sichtrechnung als PDF/A-3 erzeugen.

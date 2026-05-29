@@ -1,3 +1,218 @@
+# v47.2.0 — Plugin methodenlehre-buergerliches-recht: README und Skills geschaerft
+
+Das Plugin `methodenlehre-buergerliches-recht` wurde an drei Stellen verbessert; die alte Breaking-Change-Sektion in der README ist entfernt, weil sie seit dem Plugin-Rename in v3.0 ihren Zweck erfuellt hat und nun nur noch Laerm war.
+
+## README
+
+- Sektion `Breaking Change in v3.0` entfernt.
+- Neue Sektion `Was dieses Plugin konkret macht`: praezise Beschreibung der Plugin-Leistung mit allen Komponenten (Anspruchsgrundlagen-Reihenfolge, vier Kanones plus zwei Querschnittskanones, Lueckenfuellung, Generalklauseln, Querschnittsthemen, Verbotsliste, Memo-Standardstruktur, Selbstpruefungs-Checkliste).
+- Skill-Tabelle um den `allgemein`-Skill erweitert (war bisher untertabelliert).
+- Neuer Abschnitt `Verknuepfung mit anderen Plugins`.
+
+## Skill `methodenlehre-anwenden`
+
+- Neue Begruendung der Anspruchsgrundlagen-Reihenfolge (Speziellere vor Allgemeineren, rechtsgeschaeftliche Bindung vor gesetzlichen Schuldverhaeltnissen, etc.).
+- Drei konkrete Praxisbeispiele zur Gewichtung der Auslegungskanones (§ 199 Abs. 1 BGB, § 138 Abs. 2 BGB, §§ 651a ff. BGB Pauschalreise).
+- Erweiterter Abschnitt zu Rechtsfortbildung mit vier klassischen BGH-Argumentationsmustern (Vertrag mit Schutzwirkung, Drittschadensliquidation, c.i.c. vor 2002, Verwirkung/Treuwidrigkeit ueber § 242 BGB).
+- Neuer Hinweis zu typischen Fehlanwendungen von Generalklauseln als Erstargument.
+- Verbotsliste um Punkt "keine ergebnisorientierte Rueckwaerts-Subsumtion" erweitert.
+- Selbstpruefungs-Checkliste um Rechtsfortbildungs-Frage erweitert.
+- Verlinkung zu `bgb-at-pruefer` ergaenzt.
+
+## Skill `allgemein`
+
+- Sektion `Spezial-Skills in diesem Plugin`: aussagekraeftige Beschreibung statt Trunkierung; neue Spalte `Erwarteter Output`.
+- Neuer Block `Routing-Faustregel` mit vier konkreten Weiterleitungen (BGB-AT-Detailpruefung zu `bgb-at-pruefer`, Zitierfragen zu `zitierweise-deutsches-recht`, Fachgebiete zu Fachplugins).
+
+## Plugin-Version
+
+- `methodenlehre-buergerliches-recht/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `42.1.0`. Description und Slug unveraendert.
+
+# v47.1.1 — Plugin gesellschaftsrecht-legal-english: Codex-Feedback zu bgb-at-schuldrecht-at-im-ma
+
+Reaktion auf zwei P2-Badges aus dem Codex-Review zu PR #142:
+
+- **§ 343 BGB qualifiziert auf Kaufleute (§ 348 HGB):** Die fruehere Aussage "Im B2B kein § 343 BGB-Schutz" war zu pauschal. Der Ausschluss der richterlichen Herabsetzung greift nach § 348 HGB nur, wenn ein Kaufmann die Vertragsstrafe im Betrieb seines Handelsgewerbes verspricht. Fuer Freiberufler, nicht-gewerbliche GbRs und Unternehmer ohne Kaufmannseigenschaft bleibt § 343 BGB anwendbar. Wurde sauber qualifiziert.
+- **Falsche BGH-Zitate ersetzt:** BGH I ZR 17/05 (Pralinenform II) ist Markenrecht und keine Best-Efforts-/§ 242-Entscheidung. BGH VIII ZR 244/97 betrifft Leasing-AGB und nicht die Einheitstheorie. Beide entfernt. Neu: BGH II ZR 155/85 (14.04.1986) und BGH VIII ZR 329/99 (27.06.2001, NJW 2002, 142) zur Reichweite des Beurkundungserfordernisses nach § 15 Abs. 4 GmbHG. Die Best-Efforts-Auslegung wird nun dogmatisch ueber § 242 BGB hergeleitet, ohne unpassende Einzelfallzitate. AGB-B2B-Quelle ersetzt durch BGH VII ZR 58/14 (22.10.2015).
+
+## Plugin-Version
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `47.1.1` gebumpt. Description und Slug unveraendert. Skill-Anzahl unveraendert (32).
+
+# v47.1.0 — Plugin gesellschaftsrecht-legal-english: zwei neue Grundlagen-Skills
+
+Reaktion auf den Hinweis aus der Praxis (LinkedIn-Diskussion vom 29.05.2026), dass M&A-Anwaelte regelmaessig Basics aus BGB AT, Schuldrecht AT und Kapitalaufbringungsrecht uebersehen, weil sie M&A fuer reines Vertragsrecht halten. Gerade in Zeiten breiter KI-Nutzung bleibt das Grundlagenwissen entscheidend, damit Ergebnisse richtig interpretiert werden.
+
+Zwei neue Skills im Plugin `gesellschaftsrecht-legal-english`:
+
+- **`verdeckte-sacheinlage`**: erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG. Anrechnungsloesung seit MoMiG, Vorbelastungshaftung, Pruefraster mit sieben Schritten, typische M&A-Fallen (Cash-In-Series-A plus Akquisition, Wandeldarlehen, Verrechnungsabreden, Sale-and-lease-back, Beraterhonorar an Investor), klare Heilungswege.
+- **`bgb-at-schuldrecht-at-im-ma`**: macht sichtbar, wo BGB AT und Schuldrecht AT in englischsprachigen M&A-, Finanzierungs- und SHA-Vertraegen unter deutschem Recht stillschweigend mitlaufen. Zehnstufiges Pruefraster: Form und Einheitstheorie § 15 Abs. 4 GmbHG, Stellvertretung §§ 164 ff. und § 181 BGB, Bedingungseintritt und -vereitelung § 162 BGB, AGB-Kontrolle §§ 305 ff. und § 307 BGB auch im B2B, Treu und Glauben § 242 BGB fuer reasonable-/best-efforts, Anfechtung §§ 119, 123 BGB und Sperre des § 444 BGB. Konkrete Falleinordnungen mit Heilungswegen.
+
+Beide Skills sind in der Fuehrungsmatrix des `allgemein`-Routing-Skills erfasst, damit Nutzer mit Aussagen wie "Wir machen Vertragsrecht, BGB AT ist egal" oder "Bareinlage und gleichzeitig Erwerb vom Gesellschafter" direkt auf die richtige Stelle geroutet werden.
+
+## Plugin-Version
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `47.1.0` gebumpt (Skill-Anzahl von 30 auf 32). Description und Slug unveraendert.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
+# v47.0.0 — Schlussrunde Testakten, Übersichten und quellenfeste Schriftformakte
+
+Große Abschlussrunde über den Akten- und Release-Bestand:
+
+- Alle Testakten-READMEs von sichtbaren Test-/Lehr-/Fiktionsmarkern bereinigt und auf Aktenlogik, Direkt-Downloads und menschliche Umlaute geglättet.
+- Schmalfeld-Betreuungsakte um `09_vertragsauszuege_pruefmappe.md` erweitert: Alltagsverträge, Fernwartungs-/Sicherheitssoftware, Hochrisikoanlagen, Spanien-Reservierung, Haustürvertrieb, Beleglücken und priorisierte Maßnahmen.
+- Schriftform-Maklerakte Haspelbeck von einem nicht verifizierten BGH-Scheinzitat bereinigt: fake BGH-PDF entfernt, PDFs neu ohne Erzeugungsfußzeilen gebaut, Excel/Markdown-Vorschau auf offene Rechtsprechungsprüfung umgestellt.
+- VerkehrsOWi-Akte von konstruierten OLG-Fundstellen bereinigt und in eine quellenfeste Rechtsprechungsrecherche mit Arbeitsmatrix umgebaut.
+- Sichtbare Unterrichts-/Muster-Slugs in mehreren Akten entschärft: LUMEN Studios, Strafbefehl, VerkehrsOWi, Solis Vision X, Sozialrecht Tannenberg und Roeschen Tech laufen nun als Arbeits-, Prüf- oder Fallkonferenzakten.
+- `SKILLS.md` neu aus dem tatsächlichen Bestand generiert: 2.553 Skill-Links in 105 Plugins, inklusive der bisher fehlenden Agio-/Kapitalrücklage-Skills.
+- Plugin-/Testakten-Übersichten aktualisiert; `gesellschaftsrecht` und `grosskanzlei-corporate-ma` verlinken nun auch die Corporate-Legal-English-Frankfurt-Akte.
+- README, Testaktenübersicht und Asset-Index auf `v47.0.0` nachgezogen; Sammel-Downloads `alle-plugins-megazip.zip` und `alle-testakten.zip` bleiben sichtbar.
+
+---
+
+# v46.0.0 — Corporate-Legal-English-Akte: Gesamt-PDF und Cap-Table-Abgleich
+
+Nachlauf für `gesellschaftsrecht-legal-english` und die Frankfurt-Startup-Akte:
+
+- `18-cap-table-und-waterfall.xlsx` auf den Aktenstand aus Datei 02 gebracht: Kunigunde/Meinhard/Walburga, 900 VSOP, 5.000 Pool, 6.700 Convertible, 16.679 Northbridge- und 1.390 Krämer-Angel-Anteile.
+- `18-cap-table-und-waterfall.pdf` als PDF-Ausdruck des Excel-Arbeitsmodells ergänzt.
+- `26-gesamtakte-kometenfalter-series-a.pdf` als 64-seitige zusammengeführte Lesefassung der Aktenbestandteile ergänzt, inklusive Excel-Ausdruck, Bildfragmenten und E-Mail-Anhang.
+- WhatsApp-PDF im Chatlook neu erzeugt; die Bildfragmente 20 bis 22 von Rookie-/Lernhinweisen bereinigt.
+- README-Dateien, Marketplace und Plugin-Manifest für `gesellschaftsrecht-legal-english` aktualisiert; Plugin-Version jetzt `46.0.0`.
+
+---
+
+# v45.0.0 — Sammel-ZIPs für Plugins und Testakten
+
+Release-Infrastruktur und Übersichten nachgezogen:
+
+- `.github/workflows/release-plugin-zips.yml` baut zusätzlich `alle-plugins-megazip.zip` mit allen installierbaren Plugin-ZIPs plus `marketplace.json`.
+- Der Workflow baut zusätzlich `alle-testakten.zip` mit allen Testaktenordnern in Originalstruktur.
+- `README.md`, `testakten/README.md` und `ASSET_INDEX.md` zeigen die Sammel-Downloads sichtbar an.
+- Erwarteter Release-Umfang: 105 Plugin-ZIPs, 63 Testakten-ZIPs, `marketplace.json` und 2 Sammelarchive, also 171 Assets.
+
+---
+
+# v44.0.1 — Akte: Excel entlehrmaterialisiert, gemischte PDFs nach Kanaltyp getrennt
+
+Folgefix nach v44.0.0. Drei Dinge:
+
+## Excel
+
+- `18-cap-table-waterfall-training.xlsx` → ersetzt durch `18-cap-table-und-waterfall.xlsx`.
+- Workbook-Titel: "Cap Table und Waterfall — Series A Project Comet Moth" (statt "Corporate Legal English Training Workbook").
+- Sheets neu: Übersicht, Cap Table, Pool-Szenarien, Wandeldarlehen, Waterfall. Sheet "Rookie Quiz" geloescht, Sheet "README" als "Übersicht" mit Mandantin / Aktenzeichen / Sachbearbeitung / Stand neu aufgesetzt.
+- Alle "Lernziel", "Didaktischer Hinweis", "fiktive Testakte", "Training Workbook", "didaktisch", "Rookie"-Markierungen entfernt.
+
+## PDF-Trennung nach Kanaltyp
+
+- `01-partnerauftrag-email.md` enthielt zwei E-Mails plus einen Slack-Thread im selben PDF. Aufgeteilt: `01-partnerauftrag-emails.md` (nur die zwei E-Mails) plus `chats/01-slack-comet-moth-cap-table.md` (Slack) jeweils als eigenes DOCX und PDF.
+- `11-investor-counsel-markup-roundtrip.md` enthielt drei E-Mails plus eine Randnotiz Westarp. Aufgeteilt: `11-investor-counsel-markup-emails.md` (nur die drei E-Mails) plus `11n-westarp-randnotiz-zum-entwurf.md` (Randnotiz) jeweils als eigenes DOCX und PDF.
+- `chats/16-whatsapp-partner-associate-thread.md` jetzt auch als eigenes DOCX und PDF (zusaetzlich zum bereits separat existierenden Datei-16-PDF im Wurzelverzeichnis).
+
+## Restliche Textentlehrungen
+
+- `00-deal-personen-und-zeitleiste.md`: Abschnitt "Was die Akte testet" umbenannt in "Aktenschwerpunkte fuer die kommende Verhandlung", inhaltlich auf das Mandat statt auf den Lernzweck formuliert.
+- `06-associate-arbeitsstand.md`: Lead-Absatz von "dem Nachwuchs zeigen, wie eine Partnerin Anfaengertexte umarbeitet — sachlich, hart, lehrreich" auf "Adelheid von Westarp hat am 21.05.2026 vormittags Anmerkungen am Rand vermerkt" geaendert.
+- `14-board-und-consent-matters-mapping-de-en.md`: Abschnitt "Lernziel" in "Ausgangspunkt" umbenannt.
+- `chats/01-slack-comet-moth-cap-table.md`: Kopfblock "Auszug aus dem internen Slack-Channel" durch realistische Channel-/Teilnehmer-/Zeitstempel-Angaben ersetzt.
+
+## Konsequenzen fuer README und Plugin-README
+
+- Testakten-`README.md`: Aktenbestand-Tabelle aktualisiert (neue Dateinamen `01-partnerauftrag-emails`, `11-investor-counsel-markup-emails`, `11n-westarp-randnotiz-zum-entwurf`, `18-cap-table-und-waterfall.xlsx`). Hinweise auf chats/DOCX/PDF ergaenzt.
+- Plugin-`README.md`: Excel-Dateiname aktualisiert; Demo-Material-Sektion um chats/ ergaenzt.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Volltextsuche `lehr|fiktiv|didakt|training|quiz|rookie|lernziel|simul|cheatsheet|musterloesung` ueber alle PDFs/DOCX/XLSX — 0 echte Treffer (nur juristischer Fachbegriff "Zweckuebertragungslehre" verbleibt).
+
+---
+
+# v44.0.0 — Testakte Frankfurt-Startup entlehrmaterialisiert: echte Akte statt Lehrkompendium
+
+Die Frankfurt-Startup-Testakte wird zu einer realistischen Mandatsakte umgebaut. Alle didaktischen Marker ("fiktive Lehrakte", "Aehnlichkeiten zu realen Transaktionen sind nicht beabsichtigt", "Lehrmaterial") sowie alle formalen Lehrhilfen (Cheat-Sheets, Glossare, Fehlerkataloge, Index-Beipackzettel) sind entfernt. Was bleibt, ist das bluehende Leben einer Series-A-Mandatsakte der Kanzlei Hagemann & Westarp fuer die Kometenfalter Systems GmbH.
+
+## Entlehrmaterialisierung
+
+- Fuenf formale Lehrdateien geloescht (jeweils `.md` + `.docx` + `.pdf`): `07-erwarteter-output`, `08-glossar-english-deutsch`, `09-anfaengerfehler-katalog`, `17-anschauungsmaterial-index`, `23-rookie-cheatsheet`.
+- In den verbleibenden 15 Markdown-Dateien alle Disclaimer-Zeilen entfernt ("Fiktive Lehrakte", "Aehnlichkeit zu realen Transaktionen", "Lehrmaterial", "Didaktischer Hinweis", "Simuliert wird").
+- ASCII-Umlaute systematisch gefixt: `Aehnlichkeiten` → `Ähnlichkeiten`, `Uebersetzung` → `Übersetzung`, `fuer` → `für` (kontextabhaengig), `dass` korrekt, `ß` durchgaengig.
+- E-Mail-Adressen entfiktivisiert: `[mailto fiktiv ...]` → echte Kanzlei-Domains (`@hagemann-westarp.de`, `@brackenmuir-quint.de`); "Fiktive Adresse:" → echte Anschrift.
+- `README.md` der Testakte komplett neu als Akten-Deckblatt der Kanzlei (Mandantin, Az., Sachbearbeitung, Aktenbestand).
+
+## Re-Rendering
+
+- Alle verbleibenden 16 Markdown-Dateien (15 Sachdateien + `README.md`) sowie das Notar-Memo 19 neu als `.docx` und `.pdf` gerendert (17 DOCX + 17 PDF).
+- Footer: `Vertraulich · Akteninterne Bearbeitungsfassung` (statt v43-Footer `Lehrmaterial Didaktisches Gesellschaftsrecht`).
+- Nummerierte Listen werden jetzt korrekt als `1.`/`2.`/`3.` gerendert (war v43-Bug — alle Eintraege erschienen als `1.`).
+- Notar-Memo 19 (`19-notar-scan-beurkundungssprache`) neu als realistisches Memorandum aus dem Notariat Veitschegger mit Briefkopf, Az. UR-Nr. 1182/2026, ohne didaktische Rahmung.
+- EML-Dateien (`emails/11a`, `emails/11b`) korrigiert: echte Domains, korrekte Anschriften.
+
+## Plugin-Version
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json` und `.claude-plugin/marketplace.json` auf `44.0.0` gebumpt. `description` und Slug unveraendert.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- Volltextsuche `lehr|fiktiv|didakt|simuliert|aehnlich` in allen 17 PDFs, 17 DOCX, 5 EML, 2 Chat-MDs — 0 Treffer.
+- PDF 19 (Notar-Memo) und PDF 11 (Investor-Counsel) visuell mit `pdftoppm` geprueft: Briefkopf korrekt, Nummerierung korrekt, kein Ueberlauf.
+
+---
+
+# v43.0.0 — Frankfurt-Startup-Testakte Big-Law-Rebuild + Plugin-Spotlight "Didaktisches Gesellschaftsrecht — English Business Terms"
+
+Testakte `gesellschaftsrecht-legal-english-frankfurt-startup` komplett neu gerendert und didaktisch erweitert; Plugin `gesellschaftsrecht-legal-english` (Slug unveraendert) tritt jetzt unter dem Titel "Didaktisches Gesellschaftsrecht — English Business Terms" auf.
+
+## Testakte-Rebuild
+
+- Alle 20 Textdateien + 2 didaktische Cheatsheets (19, 23) zusaetzlich als Big-Law-Memo gerendert: 22x `.docx` und 22x `.pdf` im Stil Times New Roman 11pt, Blocksatz, Seitenkopf (Mandantenname links / Dateilabel rechts), Seitenfuss (Vertraulichkeitshinweis links / "Seite X von Y" rechts), H1 zentriert, H2 nummeriert (13pt bold), H3 als (a)/(b) (11pt bold), Tabellen mit grauer Headerzeile und sauberem Umbruch.
+- PDF 19 (Notar-Scan Beurkundungssprache § 16 BeurkG) und PDF 23 (Rookie Cheatsheet Corporate Legal English ↔ Deutsches Werkzeug) komplett neu aufgesetzt: kein Textueberlauf am rechten Rand mehr, keine Label-Kollision "Deutsches WerkzeugSatzung" mehr, Spaltenbreiten 22/38/40 % mit sauberem Zeilenumbruch.
+- Fiktive E-Mails (2 aus Datei 01, 3 aus Datei 11) zusaetzlich als echte `.eml`-Dateien in `emails/` mit RFC-5322-Headern (Outlook-kompatibel).
+- Slack-Thread `#project-comet-moth` (Mittwoch 22:14-22:58) als eigenstaendige Markdown in `chats/01-slack-comet-moth-cap-table.md` extrahiert.
+- WhatsApp-Verlauf Partner/Associate (Donnerstag 06:58-08:21) vollstaendig in `chats/16-whatsapp-partner-associate-thread.md` gespiegelt (zusammenhaengender Thread, daher in Gaenze).
+
+## Plugin-Spotlight
+
+- `gesellschaftsrecht-legal-english/.claude-plugin/plugin.json`: `description` auf "Didaktisches Gesellschaftsrecht — English Business Terms: Corporate Legal English fuer Big-Law-Anfaenger…" umgestellt, `version` auf `43.0.0` gebumpt. Slug `gesellschaftsrecht-legal-english` BLEIBT (kein Rename).
+- `gesellschaftsrecht-legal-english/README.md`: Titel auf "Didaktisches Gesellschaftsrecht — English Business Terms". Testakten-Beschreibung um DOCX/PDF/EML/Chats erweitert.
+- `.claude-plugin/marketplace.json`: Eintrag fuer `gesellschaftsrecht-legal-english` an die neue description angepasst und auf `43.0.0` synchronisiert.
+
+## Qualitaetssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+- PDF 19/23 + Stichprobe PDF 11 visuell mit `pdftoppm` geprueft: kein Ueberlauf, Header/Footer/Seitenzaehler korrekt.
+
+---
+
+# v42.0.0 — README-Spotlight komplett entfernt
+
+- "Ganz oben: Corporate Legal English"-Spotlight-Block aus README entfernt.
+- README startet jetzt direkt mit "Über dieses Repository" nach der Titelzeile und dem Lead-Absatz.
+- Keine Plugin-Aenderungen.
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs` — OK
+- `python3 scripts/validate-yaml-frontmatter.py` — 0 Fehler 0 Warnungen
+- `python3 /tmp/welle5_komma_check.py` — 0 Treffer
+
+---
+
 # v41.0.0 — README-Spotlight: Corporate Legal English statt Meinungspruefer (Tag-Bump nach v40)
 
 Reiner Tag-Bump: Der v40.0.0-Tag wurde bereits zuvor auf den Sanity-Release-Commit `51ade7ae` gesetzt. Da der README-Schnitt (Meinungspruefer-Hero raus, Corporate Legal English oben) danach folgte und Tags nicht ueberschrieben werden, wird der aktuelle `main` als `v41.0.0` markiert.
@@ -476,7 +691,7 @@ Version 15 buendelt die nachgelieferten Perplexity-/Klar-Ausbauten mit dem neuen
 
 - **`lobbyregister-bundestag` neu:** 50 gefuehrte Skills fuer Registrierungspflicht, Ausnahmen, Portal-Eingabeplan, Finanzdaten, Regelungsvorhaben, Stellungnahmen/Gutachten, Verhaltenskodex, Aktualisierung, Bussgeldrisiken, RfS-Kommunikation und Revisionsspur.
 - **Open Data/API V2 im Lobbyregister:** eigene Referenz, API-Abfrageplan, JSON-Mapping, Registerexport-Diff und Monitoringplan. Die API wird bewusst als lesende Kontrollschicht gefuehrt; Registrierung und Aktualisierung bleiben Portalhandlungen.
-- **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Buergerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
+- **Drei Lobbyregister-Testakten:** Dublin-Bank mit Frankfurter Zweigniederlassung und Doppelregistrierungsproblem, Public-Affairs-Agentur Wasserstoff, Bürgerinitiative Waldmoor. Alle drei enthalten API-/Export-Diff-Artefakte.
 - **Selbstvertreter-Plugins:** Amtsgericht und Sozialgericht sind auf `main` integriert und in die Marketplace-/Release-Struktur aufgenommen.
 - **Steuerberater-Werkzeuge:** `steuerrecht-anwalt-und-berater` enthaelt die neuen StB-Skills fuer BWA, SuSa, Lohn, Jahresabschluss, DBA, Mandantenkommunikation und Software-/Portalroutinen.
 - **Audit-Fixes:** Halluzinations- und Aktenzeichen-Reparaturwellen aus den v14.2.x Hotfixes sind mitenthalten.
@@ -731,7 +946,7 @@ Alle 98 Plugins und `marketplace.json` auf v12.3.0.
 - zwangsverwaltung-zvg (Friedrichshoefe, Mietshaus Parkstrasse, Eppendorf)
 
 ## Fix
-- testakten/inkasso-zahlungsklage-modefuchs/README.md: toter Link auf `Schulungsakte_ModeFuchs_GmbH.zip` entfernt; nur der `originale/` Ordner mit 28 PDFs bleibt.
+- testakten/inkasso-zahlungsklage-modefuchs/README.md: toter Link auf `Akte_ModeFuchs_GmbH.zip` entfernt; nur der `originale/` Ordner mit 28 PDFs bleibt.
 - Mapping-Korrektur Testakten zu Plugins: `bauplanungsrecht` -> `normenkontrolle-bauleitplanung`.
 
 ## Bump

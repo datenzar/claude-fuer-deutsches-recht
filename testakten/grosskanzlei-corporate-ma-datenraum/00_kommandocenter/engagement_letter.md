@@ -98,7 +98,3 @@ Mit freundlichen Grüßen
 Dr. Markus Weidemann
 
 Partner — MWK Rechtsanwälte Partnerschaftsgesellschaft mbB
-
-
-
-Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.

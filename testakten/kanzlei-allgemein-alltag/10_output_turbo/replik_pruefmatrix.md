@@ -13,5 +13,5 @@
 1. Keine pauschale Replik schreiben.
 2. Jeden Gegenvortrag einzeln beantworten.
 3. Tatsachen, Beweis und Recht trennen.
-4. Unklare Punkte als Rückfrage oder TODO markieren.
+4. Unklare Punkte als Rückfrage oder Offen markieren.
 5. Am Ende ein kurzes Versand- und Fristgate ausgeben.

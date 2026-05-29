@@ -56,5 +56,3 @@ informierter Vertragsschluss ueber die Maklerprovision vorlag.
 
 Authentifizierung: Original-Screenshot per E-Mail uebermittelt. Kein Anzeichen von
 Nachbearbeitung. Datei-Metadaten bestaetigen Aufnahme 12.05.2023 13:51:07 Uhr.
-
-FIKTIVE TESTAKTE -- Nur fuer Schulungszwecke -- Alle Angaben erfunden -- Kein echtes Rechtsdokument

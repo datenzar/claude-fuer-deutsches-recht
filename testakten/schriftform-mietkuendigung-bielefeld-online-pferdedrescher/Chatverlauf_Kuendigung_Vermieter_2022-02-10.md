@@ -1,6 +1,6 @@
 # Chatverlauf Kündigung Vermieterin/Mieter — Screenshotbeschreibung
 
-Dieses Dokument beschreibt einen WhatsApp-Screenshot, der in der Testakte als Beweisstück
+Dieses Dokument beschreibt einen WhatsApp-Screenshot, der in der Akte als Beweisstück
 (Anlage K-MIET-3) enthalten ist.
 
 BESCHREIBUNG DES BILDINHALTS:
@@ -49,5 +49,3 @@ ANMERKUNGEN ZUM BEWEISWERT:
 
 AKTENZEICHEN: 34 C 421/22 | Anlage K-MIET-3
 ERSTELLT: 10.02.2022 | AKTENFUNDSTELLE: WhatsApp-Chat Pferdedrescher <-> Eberhart
-
-■ FIKTIVE TESTAKTE — Alle Personen und Daten sind erfunden.

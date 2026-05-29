@@ -67,9 +67,9 @@ Bei Krankheit hat der AN nach § 3 EFZG fuer 6 Wochen Anspruch auf Entgeltfortza
 ### Phase 3 — Berechnung Entgeltfortzahlung
 
 - 100 Prozent des durchschnittlichen Brutto-Arbeitsentgelts.
-- Bemessungsbasis: regelmaessige Arbeitsleistung.
+- Bemessungsbasis: regelmäßige Arbeitsleistung.
 - Schwankende Verguetung: Durchschnittsberechnung 13 Wochen.
-- Mehrarbeit, Schichtzuschlaege: einbezogen, soweit zur regelmaessigen Verguetung.
+- Mehrarbeit, Schichtzuschlaege: einbezogen, soweit zur regelmäßigen Verguetung.
 
 ### Phase 4 — 6-Wochen-Grenze und Fortsetzung
 

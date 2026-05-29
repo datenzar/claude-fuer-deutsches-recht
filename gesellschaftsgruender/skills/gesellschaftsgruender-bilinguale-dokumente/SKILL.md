@@ -365,7 +365,7 @@ Bei DIS-Schiedsklausel: Schiedsverfahrenssprache explizit im Vertrag nennen. Sta
 
 ## Output-Template: Vorrang-Klausel (einzusetzen in alle Dokumente)
 
-**Adressat:** Vertrag oder Satzung mit auslaendischen Beteiligten — Tonfall praezise-juristisch
+**Adressat:** Vertrag oder Satzung mit ausländischen Beteiligten — Tonfall praezise-juristisch
 
 ```
 § [X] Sprache / Language

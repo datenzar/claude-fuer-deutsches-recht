@@ -85,7 +85,7 @@ Vollständig (15 Min.): vollständiger Gesprächsablauf unten.
 
 Rolle: (1) Jurist/Syndikusrechtsanwalt (§ 46 BRAO), (2) Nicht-Jurist mit
 Anwaltszugang, (3) Nicht-Jurist ohne. Bei 2/3 einmalig erklären:
-Ausgaben als Arbeitsmaterial für anwaltliche Prüfung, nicht als
+Ausgaben als Aktenpaket für anwaltliche Prüfung, nicht als
 abschließende Rechtsauskunft.
 
 Integrationscheck: nur `✓` bei erfolgreich getesteter Verbindung; `⚪`

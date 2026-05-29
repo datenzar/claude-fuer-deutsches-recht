@@ -1,17 +1,16 @@
 # Aktenvermerk — Geschäftskonto-Simulation
 
-**Vermerk-Nr.:** BUCH-2026-0003  
-**Datum:** 20.05.2026  
-**Verfasserin:** Jana Reuter  
-**Zweck:** Dokumentation der simulierten Bankanbindung für die Testakte; Beschreibung des erwarteten Workflows und der Systemgrenzen
+**Vermerk-Nr.:** BUCH-2026-0003
+**Datum:** 20.05.2026
+**Verfasserin:** Jana Reuter
 
 ---
 
 ## 1. Ausgangslage
 
-Die Kanzlei Jana Reuter führt ein Geschäftskonto bei der Commerzbank AG (fiktiv: IBAN DE12 1004 0048 0012 3456 78, BIC COBADEFFXXX). Eine direkte technische Anbindung des Kontos an die Kanzleisoftware oder an ein Buchhaltungsprogramm besteht derzeit nicht.
+Die Kanzlei Jana Reuter führt ein Geschäftskonto bei der Commerzbank AG (anonymisierte IBAN DE12 1004 0048 0012 3456 78, BIC COBADEFFXXX). Eine direkte technische Anbindung des Kontos an die Kanzleisoftware oder an ein Buchhaltungsprogramm besteht derzeit nicht.
 
-Für die Zwecke der Testakte wird das Konto durch die CSV-Datei `geschaeftskonto_mai_2026.csv` simuliert, die typische Kontobewegungen des Monats Mai 2026 enthält (Zahlungseingänge von Mandanten, Daueraufträge, Ausgangsüberweisungen, ungeklärte Eingänge).
+Für die Zwecke der Akte wird das Konto durch die CSV-Datei `geschaeftskonto_mai_2026.csv` simuliert, die typische Kontobewegungen des Monats Mai 2026 enthält (Zahlungseingänge von Mandanten, Daueraufträge, Ausgangsüberweisungen, ungeklärte Eingänge).
 
 ---
 
@@ -61,7 +60,7 @@ Das System (oder der Bearbeiter manuell) gleicht Zahlungseingänge im Kontoauszu
 
 ### Schritt 4 — Klärfälle bearbeiten
 
-**Klärfall 228,00 EUR:**  
+**Klärfall 228,00 EUR:**
 Eingang am 16.05.2026, Auftraggeber: "W. Lindner, Savignyplatz 11, 10627 Berlin", Verwendungszweck: "Beratung April". Kein offener Posten in dieser Höhe. Mögliche Szenarien:
 
 - Mandant aus früherer Beratung, Rechnung nicht vollständig erfasst — Rechnungsarchiv April prüfen.
@@ -94,7 +93,7 @@ In einem vollständig integrierten System (z. B. DATEV-Online, Lexware, sevDesk)
 - Echtzeit-Saldoanzeige in der Kanzleisoftware
 - Liquiditätsplanung auf Basis offener Forderungen und Kontostand
 
-Die Testakte simuliert diesen Zielzustand mit statischen Dateien, um den Workflow abzubilden, ohne echte Bankdaten zu verwenden.
+Die Akte simuliert diesen Zielzustand mit statischen Dateien, um den Workflow abzubilden, ohne echte Bankdaten zu verwenden.
 
 ---
 

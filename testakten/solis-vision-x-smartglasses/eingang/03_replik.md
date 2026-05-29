@@ -12,7 +12,7 @@ erwidern wir auf die Klageerwiderung der Beklagten:
 
 ## Zur Zustaendigkeit
 
-Die Beklagte beruft sich auf ihre Ziffer 18.1 (Gerichtsstand Zuerich). Diese Gerichtsstandsvereinbarung ist unwirksam, weil:
+Die Beklagte beruft sich auf ihre Ziffer 18.1 (Gerichtsstand Zürich). Diese Gerichtsstandsvereinbarung ist unwirksam, weil:
 
 1. Es liegt eine **AGB-Kollision** vor. In unseren AGB (Anlage K 1, Ziffer 14) ist Gerichtsstand Hamburg vereinbart. Nach der Knock-out-Doktrin des BGH fallen beide Klauseln weg; es gelten die allgemeinen Vorschriften, also Artikel 7 Nummer 1 b EuGVVO und Erfuellungsort Hamburg (Lieferort).
 

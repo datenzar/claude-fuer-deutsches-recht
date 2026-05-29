@@ -1,21 +1,21 @@
-# Testakte: Arbeitszeugnis-Analyse — aus dem blühenden Leben
+# Akte: Arbeitszeugnis-Analyse — aus dem blühenden Leben
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-arbeitszeugnis-analyse-bluehendes-leben` (diese Akte) | [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
+| `testakte-arbeitszeugnis-analyse-bluehendes-leben` (Akte) | [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Diese Testakte enthält **zehn Arbeitszeugnisse aus zehn verschiedenen Branchen und Berufen**, jeweils ein bis zwei Seiten lang, alle formal freundlich und im üblichen Wohlwollens-Stil verfasst. Die Akte ist als realistisches Trainingsmaterial für das Plugin [`arbeitszeugnis-analyse`](../../arbeitszeugnis-analyse) gedacht.
+Diese Akte enthält **zehn Arbeitszeugnisse aus zehn verschiedenen Branchen und Berufen**, jeweils ein bis zwei Seiten lang, alle formal freundlich und im üblichen Wohlwollens-Stil verfasst. Die Akte ist als realistisches Trainingsmaterial für das Plugin [`arbeitszeugnis-analyse`](../../arbeitszeugnis-analyse) gedacht.
 
 ## Zweck der Akte
 
 Die Zeugnisse sehen oberflächlich höflich, vollständig und unkritisch aus. Tatsächlich verteilen sich die Bewertungen über die gesamte Notenskala. Die Aufgabe für jeden Skill dieses Plugins ist es, aus Briefkopf, Aufbau, Wortwahl, Steigerungsadverbien, Zufriedenheitsformeln, Beendigungsgrund, Schlussformel und Unterzeichnerstruktur die wahre Bewertung herauszulesen.
 
-Es liegt **keine Musterlösung bei**. Welche Note sich hinter dem jeweiligen Zeugnis verbirgt, soll der Skill selbst aus dem Material herleiten.
+Es liegt **keine vorgefertigte Lösung bei**. Welche Note sich hinter dem jeweiligen Zeugnis verbirgt, soll der Skill selbst aus dem Material herleiten.
 
 ## Aktenübersicht
 
@@ -58,6 +58,6 @@ Alle Zeugnisse enthalten:
 ## Technisches
 
 - Format der Zeugnisse: PDF, A4, deutsche Typographie mit Anführungszeichen "...", Halbgeviertstrich und korrekt gesetzten Umlauten
-- Keine Blindtexte, keine leeren Lücken und keine Musterlösung im Aktenbestand
-- Personen, Firmen, Adressen und Personalnummern sind frei erfunden; Übereinstimmungen mit realen Personen oder Unternehmen sind nicht beabsichtigt
-- Die Zeugnisse sind als Trainings- und Testmaterial gedacht und ersetzen keine rechtliche Beratung
+- Keine Blindtexte, keine leeren Lücken und keine vorgefertigte Lösung im Aktenbestand
+Personenbezogene Angaben und Kontaktdaten sind anonymisiert; die rechtliche Arbeit richtet sich nach den in der Akte dokumentierten Unterlagen.
+- Die Zeugnisse sind als Aktenpaket gedacht und ersetzen keine rechtliche Beratung

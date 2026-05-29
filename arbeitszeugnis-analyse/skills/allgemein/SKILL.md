@@ -130,4 +130,4 @@ Vor jeder abschließenden Antwort prüfe:
 
 ## Testakten nutzen
 
-Für Schulung und Regression eignet sich die Testakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als Musterlösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Spezial-Skills absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.
+Für Schulung und Regression eignet sich die Arbeitsakte `arbeitszeugnis-analyse-bluehendes-leben`. Nutze sie nicht als vorgefertigte Lösung, sondern als lebendiges Material: erst lesen, dann Hypothese bilden, dann mit den Spezial-Skills absichern. Die Fälle sollen zeigen, dass Arbeitszeugnisse oft höflich aussehen und trotzdem in einzelnen Abschnitten hart abwerten.

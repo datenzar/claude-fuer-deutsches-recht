@@ -1,4 +1,4 @@
-# Fiktive Terminsbekanntmachung
+# Terminsbekanntmachung
 
 **Amtsgericht Hamburg**
 

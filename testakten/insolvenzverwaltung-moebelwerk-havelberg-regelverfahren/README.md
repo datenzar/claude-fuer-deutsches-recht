@@ -1,15 +1,15 @@
-# Testakte Insolvenzverwaltung – Möbelwerk Havelberg GmbH
+# Akte Insolvenzverwaltung – Möbelwerk Havelberg GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren` (diese Akte) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
+| `testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren` (Akte) | [testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-moebelwerk-havelberg-regelverfahren.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktive Testakte** für das Plugin `insolvenzverwaltung`. Vollständiges Regelinsolvenzverfahren mit vorläufiger Verwaltung, Betriebsfortführung, Eröffnung, Forderungsanmeldungen, Gläubigerausschuss, Anfechtung, § 15b InsO-Analyse, Masseunzulänglichkeitsszenario, Insolvenzplan-Planoption, StaRUG-Alternativroute und Schlussverteilung.
+**Arbeitsakte** für das Plugin `insolvenzverwaltung`. Vollständiges Regelinsolvenzverfahren mit vorläufiger Verwaltung, Betriebsfortführung, Eröffnung, Forderungsanmeldungen, Gläubigerausschuss, Anfechtung, § 15b InsO-Analyse, Masseunzulänglichkeitsszenario, Insolvenzplan-Planoption, StaRUG-Alternativroute und Schlussverteilung.
 
 ---
 
@@ -86,7 +86,7 @@ Das Insolvenzverfahren wurde am **12.06.2026** förmlich eröffnet. Der Prüfung
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 Diese Akte deckt den **vollständigen Lebenszyklus eines Regelinsolvenzverfahrens** ab – von der Antragstellung bis zur Schlussverteilung. Besondere Lernpunkte:
 
@@ -121,5 +121,3 @@ Diese Akte deckt den **vollständigen Lebenszyklus eines Regelinsolvenzverfahren
 ---
 
 ## Disclaimer
-
-Diese Akte ist vollständig **fiktiv**. Alle Personen, Unternehmen, Adressen, Aktenzeichen, Beträge und Sachverhalte sind frei erfunden und dienen ausschließlich Lern- und Testzwecken. Jede Ähnlichkeit mit realen Personen oder Verfahren ist rein zufällig. Diese Akte ersetzt keine Rechtsberatung und stellt keine Rechtsmeinung dar. Für konkrete Rechtsfragen wenden Sie sich an einen zugelassenen Rechtsanwalt oder Insolvenzverwalter.

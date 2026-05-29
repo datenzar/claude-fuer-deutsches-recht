@@ -1,17 +1,17 @@
-# Schulungsakte - Elektronisches Pflichtpostfach
+# Akte - Elektronisches Pflichtpostfach
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-legistik-pflichtpostfach` (diese Akte) | [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip) |
+| `testakte-legistik-pflichtpostfach` (Akte) | [testakte-legistik-pflichtpostfach.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-legistik-pflichtpostfach.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-> Trainingsakte für das Plugin `legistik-werkstatt`. Die Akte simuliert einen vollständigen Legistik-Durchlauf vom Koalitionsvertrag bis zur fertigen Kabinettsmappe.
+> Arbeitsakte für das Plugin `legistik-werkstatt`. Die Akte simuliert einen vollständigen Legistik-Durchlauf vom Koalitionsvertrag bis zur fertigen Kabinettsmappe.
 
-## Politische Vorgabe (Auszug Koalitionsvertrag, fiktiv)
+## Politische Vorgabe (Auszug Koalitionsvertrag)
 
 > "Wir wollen die Digitalisierung der Rechtskommunikation entschlossen voranbringen. Alle im Handelsregister eingetragenen Gesellschaften, ihre Zweigniederlassungen sowie sehr große Online-Plattformen und Online-Suchmaschinen im Sinne des Digital Services Act sollen verpflichtet werden, ein elektronisches Pflichtpostfach vorzuhalten. Dieses Pflichtpostfach soll für Zustellungen durch Gerichte, Behörden und in Wahrnehmung öffentlicher Aufgaben handelnde Stellen geeignet sein. Wir gewaehrleisten Interoperabilitaet mit den vorhandenen Postfaechern (beA, beBPo, eBO, ELSTER-Postfach, Mein Unternehmenskonto)."
 
@@ -23,9 +23,9 @@ Aus dieser politischen Vorgabe ist ein **Stammgesetz "Pflichtpostfachgesetz - Pf
 - Bezüge zu DSA, eIDAS 2.0, GoBD herstellt und
 - über das Notifizierungsverfahren 2015/1535 europarechtlich abgesichert wird.
 
-Ein vollständiger Workflow durch alle 25 Skills des Plugins `legistik-werkstatt` ist im Trainerhandbuch beschrieben (`trainerhandbuch.md`).
+Ein vollständiger Verfahrensdurchlauf durch die 25 Skills des Plugins `legistik-werkstatt` ist im Methodikvermerk beschrieben (`methodik_verfahrensdurchlauf.md`).
 
-## Lernfallen, die in der Schulung bewusst eingebaut sind
+## Akteninterne Reibungspunkte
 
 1. **Goldplating** - die DSA-Pflicht auf 45 Mio Nutzer ist klar, aber der Entwurf zieht sie auf eine "vergleichbare Größe" herab. Skill `goldplating-vermeiden` muss greifen.
 2. **Bestimmtheit** - die Formulierung "ab einer gewissen Größe" ist verfassungsrechtlich nicht haltbar. Skill `verfassungsmaessigkeit-quercheck` muss eine Untergrenze fordern.
@@ -39,9 +39,9 @@ Ein vollständiger Workflow durch alle 25 Skills des Plugins `legistik-werkstatt
 ```
 testakten/legistik-pflichtpostfach/
   README.md                # diese Datei
-  trainerhandbuch.md       # 1-Tag und 2-Tage-Schulung
+  methodik_verfahrensdurchlauf.md       # Methodikvermerk und Verfahrensdurchlauf
   eingang/
-    auftragsblatt.md       # Auftrag des federfuehrenden Ressorts
+    auftragsblatt.md       # Auftrag des federführenden Ressorts
     metadaten.yaml         # Titel, Kurztitel, Federfuehrung, Bearbeitungsstand
     vorblatt.md            # A bis F nach HdR
     gesetzestext.md        # Artikelgesetz mit PflPostG + Folgeaenderungen
@@ -60,7 +60,7 @@ testakten/legistik-pflichtpostfach/
   output/                  # leer am Anfang, wird vom render.py gefuellt
 ```
 
-## So führen Sie die Schulung durch
+## So läuft die Bearbeitung
 
 1. Auftrag aus `eingang/auftragsblatt.md` lesen
 2. Skill `legistik-auftragsaufnahme` durchlaufen
@@ -68,7 +68,7 @@ testakten/legistik-pflichtpostfach/
 4. Skills `gesetzgebungskompetenz-pruefen`, `verfassungsmaessigkeit-quercheck`, `europarechtskonformitaet`
 5. Skill `normenkartierung` -> Karte mit HGB, ZPO, FamFG, DSA, eIDAS, VwZG
 6. Skill `terminologie-konsistenz` -> ein einheitlicher Begriff für "Pflichtpostfach"
-7. Skill `referentenentwurf-bauen` -> baut das Markdown-Geruest
+7. Skill `referentenentwurf-bauen` -> baut das Markdown-Gerüst
 8. Skill `begruendung-allgemein-und-besonders`
 9. Skill `synopse-erstellen` -> CSV
 10. Skill `xml-paralleldarstellung` -> LegalDocML.de

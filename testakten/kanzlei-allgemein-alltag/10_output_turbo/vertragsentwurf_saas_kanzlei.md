@@ -2,7 +2,7 @@
 
 ## Ausgangslage
 
-Die Kanzlei Lindenstraße möchte mit der fiktiven CloudWerk AG einen Vertrag über ein Mandantenportal schließen. Der Entwurf soll für eine junge Anwältin verständlich geführt werden, aber für eine erfahrene Kanzlei belastbar genug sein.
+Die Kanzlei Lindenstraße möchte mit der CloudWerk AG einen Vertrag über ein Mandantenportal schließen. Der Entwurf soll für eine junge Anwältin verständlich geführt werden, aber für eine erfahrene Kanzlei belastbar genug sein.
 
 ## Eckdaten
 

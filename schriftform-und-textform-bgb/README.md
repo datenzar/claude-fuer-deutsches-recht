@@ -1,7 +1,7 @@
 # Schriftform und Textform im BGB
 
-**Plugin-Slug:** `schriftform-und-textform-bgb`  
-**Version:** 3.2.1  
+**Plugin-Slug:** `schriftform-und-textform-bgb`
+**Version:** 3.2.1
 **Autor:** Klotzkette
 
 ## Direkt-Download
@@ -61,7 +61,7 @@ Umfassender Workflow-Organisator für Schriftform- und Textform-Erfordernisse im
 
 | Skill | Inhalt |
 |-------|--------|
-| `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` | I ZR 202/25: E-Mail-Austausch, Bereicherungssperre |
+| `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` | § 656a BGB: E-Mail, Signaturhinweis, Textform und Verifizierungspflicht |
 | `wohnraummiete-kuendigung-paragraph-568-bgb` | § 568, qES-Zugang, Begründungspflicht, Praxisempfehlung |
 | `gewerberaummiete-paragraph-550-bgb-langzeitform` | Langzeitform, Heilung, ordentliche Kündigung bei Verstoß |
 | `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` | § 766, § 492, § 311b BGB, strenge Formen |

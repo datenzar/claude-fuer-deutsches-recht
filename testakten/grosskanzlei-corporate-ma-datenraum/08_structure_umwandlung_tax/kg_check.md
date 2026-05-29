@@ -1,10 +1,10 @@
 # KG-Check — Anteilserwerb und gesellschaftsrechtliche Besonderheiten
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** STRUCT-KG-001/SIL  
-**Datum:** 12. Dezember 2024  
-**Verfasserin:** Katharina Pfeiffer, Senior Associate  
-**Adressat:** Dr. Markus Weidemann, Dr. Sabine Roth  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** STRUCT-KG-001/SIL
+**Datum:** 12. Dezember 2024
+**Verfasserin:** Katharina Pfeiffer, Senior Associate
+**Adressat:** Dr. Markus Weidemann, Dr. Sabine Roth
 **Betreff:** Gesellschaftsrechtlicher Check — Kommanditgesellschaft und Anteilsübertragung (historisch/Vergleich)
 
 ---
@@ -82,5 +82,3 @@ Die Solaris Service GmbH (GmbH, nicht KG) soll vor Signing auf Ebene der Solaris
 | 6 | Familienrat-Information nach Stiftungssatzung § 4 | Dr. Weidemann prüft | Offen | 20.12.2024 |
 
 ---
-
-*Alle in diesem Memo genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

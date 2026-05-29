@@ -183,7 +183,7 @@ Widerspruchsstelle Rechtsabteilung
 
 ## Beispieltestakte
 
-Eine vollständige Schulungsakte mit sechs Fallvarianten und allen Ausgangsdokumenten liegt unter `testakten/bvg-widerspruchsstelle-abschleppen-mobg/`. Die Akte enthält keine Musterlösungen — sie soll mit diesem Skill erst zum Widerspruchsbescheid verarbeitet werden.
+Eine vollständige Arbeitsakte mit sechs Fallvarianten und allen Ausgangsdokumenten liegt unter `testakten/bvg-widerspruchsstelle-abschleppen-mobg/`. Die Akte enthält keine Erwartungshorizonten — sie soll mit diesem Skill erst zum Widerspruchsbescheid verarbeitet werden.
 
 ## Hinweise zur praktischen Bescheidung
 

@@ -224,5 +224,3 @@ Der Staat zahlt die Anwaltskosten.
 Hinweis zur Leichten Sprache
 
 Dieser Text wurde nach den Regeln des Netzwerks Leichte Sprache geschrieben. Er wurde noch nicht von Menschen aus der Zielgruppe geprüft. Diese Prüfung ist bei echten Texten in Leichter Sprache Pflicht.
-
-Fiktive Lernakte – alle Personen und Aktenzeichen sind frei erfunden – ersetzt keine Rechtsberatung.

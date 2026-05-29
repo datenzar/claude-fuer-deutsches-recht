@@ -1,15 +1,15 @@
-# Testakte Lobbyregister: Emerald Liffey Bank plc / Zweigniederlassung Frankfurt
+# Akte Lobbyregister: Emerald Liffey Bank plc / Zweigniederlassung Frankfurt
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-lobbyregister-dublin-bank-frankfurt-branch` (diese Akte) | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
+| `testakte-lobbyregister-dublin-bank-frankfurt-branch` (Akte) | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Akte fuer das Plugin `lobbyregister-bundestag`. Sie testet die schwierige Eintragungseinheit bei einer auslaendischen Bank mit unselbststaendiger deutscher Zweigniederlassung.
+Akte für das Plugin `lobbyregister-bundestag`. Sie bündelt die schwierige Eintragungseinheit bei einer ausländischen Bank mit unselbstständiger deutscher Zweigniederlassung.
 
 ## Sachverhalt
 
@@ -27,10 +27,10 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 
 | Datei | Inhalt |
 |---|---|
-| [00_aktenuebersicht.md](00_aktenuebersicht.md) | Aktenplan, Lernziele und Arbeitsauftrag |
+| [00_aktenuebersicht.md](00_aktenuebersicht.md) | Aktenplan, Prüffokus und Arbeitsauftrag |
 | [01_mandatsanfrage_email.txt](01_mandatsanfrage_email.txt) | E-Mail der Bank an die Kanzlei |
-| [02_cro_registerauszug_dublin.md](02_cro_registerauszug_dublin.md) | Fiktiver irischer Registerauszug |
-| [03_handelsregister_frankfurt_zweigniederlassung.md](03_handelsregister_frankfurt_zweigniederlassung.md) | Fiktiver Handelsregisterauszug der Zweigniederlassung |
+| [02_cro_registerauszug_dublin.md](02_cro_registerauszug_dublin.md) | Irischer Registerauszug |
+| [03_handelsregister_frankfurt_zweigniederlassung.md](03_handelsregister_frankfurt_zweigniederlassung.md) | Handelsregisterauszug der Zweigniederlassung |
 | [04_bafin_passporting_notiz.md](04_bafin_passporting_notiz.md) | Notiz zu BaFin/Passporting und Erlaubnislage |
 | [05_organigramm_legal_entity.md](05_organigramm_legal_entity.md) | Rechtstraeger- und Niederlassungsstruktur |
 | [06_kontaktlog_bundestag_bmf.csv](06_kontaktlog_bundestag_bmf.csv) | Kontaktlog mit Bundestag/BMF-Kontakten |
@@ -54,13 +54,11 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | [23_datenschutz_personenfreigabe.md](23_datenschutz_personenfreigabe.md) | Freigaben betrauter Personen fuer Registerdaten |
 | [24_kostenstellen_mapping_dublin_frankfurt.md](24_kostenstellen_mapping_dublin_frankfurt.md) | Kostenstellenmapping Dublin/Frankfurt/Berlin |
 | [25_api_abfrageplan_open_data.md](25_api_abfrageplan_open_data.md) | API-Abfrageplan fuer Dublin/Frankfurt-Dublettencheck |
-| [26_api_mock_response_dublin.json](26_api_mock_response_dublin.json) | Fiktive API-Antwort fuer den veroeffentlichten Dublin-Eintrag |
+| [26_api_mock_response_dublin.json](26_api_mock_response_dublin.json) | API-Antwort fuer den veroeffentlichten Dublin-Eintrag |
 | [27_registerexport_diff_dublin.md](27_registerexport_diff_dublin.md) | Diff zwischen Freigabeakte und oeffentlichem API/API-Export |
 
-## Lernziel
+## Prüffokus
 
 Die Akte zwingt das Plugin, `personen-organisationstyp`, `konzern-netzwerk-plattform`, `erstregistrierung-ausfuellen`, `registereintrag-finalcheck`, `registerfuehrende-stelle-kontakt`, `suche-open-data-monitor` und `fristen-und-quartalsmonitor` zusammenzuspielen. Entscheidend ist nicht eine voreilige Antwort, sondern eine saubere Registerpraxis: Primaerentwurf, Streitvermerk, RfS-Anfrage, API-Dublettencheck und keine Doppelung ohne Klaerung.
 
 ## Disclaimer
-
-Alle Angaben sind frei erfunden. Die Akte ist eine Schulungsakte und keine Aussage zur echten Registerpraxis.

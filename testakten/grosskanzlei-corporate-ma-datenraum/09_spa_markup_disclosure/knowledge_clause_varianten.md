@@ -1,10 +1,10 @@
 # Knowledge Clause Varianten — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** SPA-KNW-001/SIL  
-**Datum:** 16. Dezember 2024  
-**Verfasserin:** Katharina Pfeiffer, Senior Associate  
-**Adressat:** Dr. Markus Weidemann / SPA-Team  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** SPA-KNW-001/SIL
+**Datum:** 16. Dezember 2024
+**Verfasserin:** Katharina Pfeiffer, Senior Associate
+**Adressat:** Dr. Markus Weidemann / SPA-Team
 **Betreff:** Vergleich Knowledge-Clause-Varianten — Seller-Position vs. Buyer-Position
 
 ---
@@ -21,10 +21,10 @@ Die Verhandlung der Knowledge Clause beeinflusst unmittelbar den Wert des Garant
 
 **Formulierungsvorschlag Seller:**
 
-> "Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich ausschließlich auf die **tatsächliche, positive Kenntnis** (actual knowledge) der folgenden natürlichen Personen zum Zeitpunkt der Unterzeichnung dieses Vertrags:  
-> (a) Friedrich Grünwald (Vorstand / CEO, Solaris Industries AG),  
-> (b) Thomas Bergmann (CFO, Solaris Industries AG),  
-> (c) Dr. Anna Seifert (Aufsichtsratsvorsitzende, Solaris Industries AG).  
+> "Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich ausschließlich auf die **tatsächliche, positive Kenntnis** (actual knowledge) der folgenden natürlichen Personen zum Zeitpunkt der Unterzeichnung dieses Vertrags:
+> (a) Friedrich Grünwald (Vorstand / CEO, Solaris Industries AG),
+> (b) Thomas Bergmann (CFO, Solaris Industries AG),
+> (c) Dr. Anna Seifert (Aufsichtsratsvorsitzende, Solaris Industries AG).
 > Eine Pflicht zur Nachforschung (duty of inquiry) oder ein Kennenmüssen (constructive knowledge) ist hiermit ausdrücklich ausgeschlossen."
 
 **Merkmale der Seller-Variante:**
@@ -44,14 +44,14 @@ Die Verhandlung der Knowledge Clause beeinflusst unmittelbar den Wert des Garant
 
 **Formulierungsvorschlag ECP:**
 
-> "Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich auf die tatsächliche, positive Kenntnis der folgenden natürlichen Personen sowie auf alles, was diese Personen bei Anwendung der in ihrer Position zu erwartenden Sorgfalt hätten wissen müssen (constructive knowledge):  
-> (a) Friedrich Grünwald (Vorstand / CEO),  
-> (b) Thomas Bergmann (CFO),  
-> (c) Dr. Anna Seifert (Aufsichtsratsvorsitzende),  
-> (d) Michael Krause (COO),  
-> (e) Rainer Hollmann (Leiter Exportkontrolle / Compliance),  
-> (f) Leiterin HR, Marianne Stoll,  
-> (g) Leiter Produktion, Dieter Baum.  
+> "Sämtliche in diesem Vertrag enthaltenen Garantien des Verkäufers, die durch den Begriff 'nach Kenntnis des Verkäufers' oder gleichartige Formulierungen eingeschränkt sind, beziehen sich auf die tatsächliche, positive Kenntnis der folgenden natürlichen Personen sowie auf alles, was diese Personen bei Anwendung der in ihrer Position zu erwartenden Sorgfalt hätten wissen müssen (constructive knowledge):
+> (a) Friedrich Grünwald (Vorstand / CEO),
+> (b) Thomas Bergmann (CFO),
+> (c) Dr. Anna Seifert (Aufsichtsratsvorsitzende),
+> (d) Michael Krause (COO),
+> (e) Rainer Hollmann (Leiter Exportkontrolle / Compliance),
+> (f) Leiterin HR, Marianne Stoll,
+> (g) Leiter Produktion, Dieter Baum.
 > Als Kennenmüssen gilt insbesondere jede Information, die in den dem Verkäufer vor Unterzeichnung überlassenen Datenraum-Dokumenten, in Jahresabschlüssen, Prüfungsberichten, Behördenkorrespondenzen oder internen Compliance-Berichten enthalten ist."
 
 **Merkmale der ECP-Variante:**
@@ -72,12 +72,12 @@ Für den Verhandlungsgang empfiehlt das Kanzlei-Team folgende Kompromissformulie
 
 **Formulierungsvorschlag MWK:**
 
-> "Knowledge des Verkäufers bezeichnet die tatsächliche, positive Kenntnis (actual knowledge) der nachfolgend genannten Schlüsselpersonen (die 'Wissensträger') zum Zeitpunkt der Unterzeichnung dieses Vertrags:  
-> (a) Friedrich Grünwald,  
-> (b) Thomas Bergmann,  
-> (c) Michael Krause,  
-> (d) Rainer Hollmann.  
-> Im Hinblick auf in den Virtual Data Room (VDR, Intralinks, Stand: 20. Dezember 2024) hochgeladene Dokumente gilt der Seller als in Kenntnis des wesentlichen Inhalts dieser Dokumente (Wissensfiktion).  
+> "Knowledge des Verkäufers bezeichnet die tatsächliche, positive Kenntnis (actual knowledge) der nachfolgend genannten Schlüsselpersonen (die 'Wissensträger') zum Zeitpunkt der Unterzeichnung dieses Vertrags:
+> (a) Friedrich Grünwald,
+> (b) Thomas Bergmann,
+> (c) Michael Krause,
+> (d) Rainer Hollmann.
+> Im Hinblick auf in den Virtual Data Room (VDR, Intralinks, Stand: 20. Dezember 2024) hochgeladene Dokumente gilt der Seller als in Kenntnis des wesentlichen Inhalts dieser Dokumente (Wissensfiktion).
 > Constructive knowledge im Übrigen (d.h. für Sachverhalte außerhalb des VDR) ist ausgeschlossen. Eine Nachforschungspflicht besteht nicht."
 
 **Begründung des Kompromisses:**
@@ -110,5 +110,3 @@ Die W&I-Underwriter (Allianz Risk Transfer) haben klargestellt, dass sie folgend
 | Schutz ECP | niedrig | hoch | mittel–hoch |
 
 ---
-
-*Alle in diesem Vermerk genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

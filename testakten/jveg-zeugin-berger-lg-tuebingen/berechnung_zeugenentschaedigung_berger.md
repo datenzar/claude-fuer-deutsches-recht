@@ -46,7 +46,6 @@ _LG Tübingen · Az. 7 O 118/23 · Hartmann ./. Vogt · Zeugin: Dr. Sophia Berge
 | 2. Kilometersatz 0,35 EUR gilt für Zeugen (§5 Abs. 2 Nr.1 JVEG, Stand 2026). Bei Nutzung öffentlicher Verkehrsmittel gelten die tatsächlichen Kosten. |  |  |  |  |
 | 3. Übernachtungskosten werden nur bis zur Obergrenze von 80 EUR/Nacht erstattet; höhere Kosten bedürfen besonderer Begründung. |  |  |  |  |
 | 4. Zeitversäumnis (§20 JVEG, max. 3,50 EUR/h) ist nur anzusetzen, wenn kein Verdienstausfall nachgewiesen werden kann. |  |  |  |  |
-| 5. Alle Beträge sind frei erfunden und dienen ausschließlich der Illustration des JVEG-Prüfschemas. |  |  |  |  |
 
 ## Sheet: Vorschuss §3 JVEG
 

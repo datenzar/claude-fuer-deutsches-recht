@@ -1,6 +1,6 @@
-# Testakte: Grundsteuer Rosenwinkel-Bescheidkette
+# Akte: Grundsteuer Rosenwinkel-Bescheidkette
 
-Fiktive, realistisch aufgebaute Mandatsakte zur neuen Grundsteuer ab 2025. Die Akte zeigt, wie aus einem scheinbar einfachen kommunalen Grundsteuerbescheid eine dreistufige Bescheidkettenprüfung wird: Grundsteuerwertbescheid, Grundsteuermessbescheid und Grundsteuerbescheid der Gemeinde.
+Realistisch aufgebaute Mandatsakte zur neuen Grundsteuer ab 2025. Die Akte zeigt, wie aus einem scheinbar einfachen kommunalen Grundsteuerbescheid eine dreistufige Bescheidkettenprüfung wird: Grundsteuerwertbescheid, Grundsteuermessbescheid und Grundsteuerbescheid der Gemeinde.
 
 ## Mandatskern
 
@@ -27,6 +27,6 @@ Die Rosenwinkel Hausverwaltung GmbH verwaltet ein denkmalgeschütztes Wohn- und 
 - `/steuerrecht-anwalt-und-berater:anw-grundsteuer-einspruch-adv-bfh`
 - `/steuerrecht-anwalt-und-berater:anw-grundsteuer-hebesatz-zahlungsplan`
 
-## Lernziel
+## Prüffokus
 
 Das System soll nicht reflexhaft "Grundsteuer verfassungswidrig" schreiben, sondern die richtige Ebene finden, Belege anfordern, die BFH-AdV-Linie korrekt einordnen und einen handhabbaren Einspruchs- und Zahlungsplan bauen.

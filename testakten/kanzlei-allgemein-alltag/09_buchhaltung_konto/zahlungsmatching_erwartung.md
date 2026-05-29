@@ -8,7 +8,7 @@
 ## Schwache Matches
 
 - 892,50 EUR von P Schneider mit "Honorar April" -> wahrscheinlich R-2026-0004, Rechnungsnummer fehlt, Klärhinweis.
-- 418,88 EUR von C Meyer mit "Meyer" -> Betrag passt zu R-2026-0007, aber Rechnung ist in der Testakte noch Entwurf; nicht automatisch buchen.
+- 418,88 EUR von C Meyer mit "Meyer" -> Betrag passt zu R-2026-0007, aber Rechnung ist in der Akte noch Entwurf; nicht automatisch buchen.
 
 ## Klärfälle
 

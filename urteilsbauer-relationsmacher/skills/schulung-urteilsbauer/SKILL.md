@@ -1,6 +1,6 @@
 ---
 name: schulung-urteilsbauer
-description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Uebungen anhand Schulungsakte, Musterlösung. Output Seminarplan, Uebungsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung."
+description: "Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung."
 ---
 
 # Trainer-Leitfaden Schulung Urteilsbauer
@@ -11,7 +11,7 @@ Zielgruppe: Proberichter/-innen, Assessoren/-innen, Rechtspfleger/-innen.
 ## Triage zu Beginn (für Trainer)
 
 1. Wie groß ist die Gruppe und welche Vorkenntnisse haben die Teilnehmenden (Proberichter, Assessoren, Rechtspfleger)?
-2. Wird die Schulungsakte `testakten/solis-vision-x-smartglasses/` verwendet oder eine andere Testakte?
+2. Wird die Arbeitsakte `testakten/solis-vision-x-smartglasses/` verwendet oder eine andere Testakte?
 3. Wird ein-tägig oder zwei-tägig geschult — welche Themenblöcke können gestrichen werden?
 4. Sollen DOCX-Rendern und PDF-Export live vorgeführt werden (technische Voraussetzungen prüfen)?
 
@@ -86,7 +86,7 @@ Die Teilnehmenden koennen am Ende
 
 ## Zweitagesschulung
 
-Tag 1 wie oben. Tag 2 vertieft die Schulungsakte `testakten/solis-vision-x-smartglasses/`:
+Tag 1 wie oben. Tag 2 vertieft die Arbeitsakte `testakten/solis-vision-x-smartglasses/`:
 - Vormittag: kollidierende AGB Schweizer Recht und EU-Recht; CISG-Anwendbarkeit ohne und mit ordnungsgemäßem Ausschluss
 - Mittag: DSGVO als Eingriffsnorm und Auswirkung auf den Sachmangel
 - Nachmittag: Beweiswürdigung des Gutachtens; Schreiben des Urteilstenors und der Entscheidungsgründe; Render des DOCX
@@ -106,7 +106,7 @@ Am Anfang **immer** vier Wahlfragen stellen:
 
 Die Antworten werden im Akten-Workspace gespeichert (Datei `workflow-entscheidungen.yaml`) damit nachvollziehbar bleibt was geliefert wurde.
 
-## Lernfallen in der Schulungsakte
+## Stolperstellen in der Arbeitsakte
 
 1. Kläger glaubt, deutsches Recht gelte - die AGB der Beklagten verweisen aber auf Schweizer Recht.
 2. Beide AGB kollidieren - Knock-out Doktrin greift.

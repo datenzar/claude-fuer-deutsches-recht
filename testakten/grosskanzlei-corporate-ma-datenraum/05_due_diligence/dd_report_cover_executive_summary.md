@@ -67,7 +67,3 @@ BAFA-Selbstanzeige Exportkontrolle einleiten (RF-002)
 Ausgliederung Solaris Service GmbH abschließen (Eintragung HR bis 10.01.2025)
 
 Finales SPA-Markup und Disclosure-Schedule-Verhandlung (8.–13. Januar 2025)
-
-
-
-Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.

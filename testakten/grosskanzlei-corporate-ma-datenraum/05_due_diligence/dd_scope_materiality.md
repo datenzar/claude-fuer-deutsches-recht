@@ -1,10 +1,10 @@
 # Due Diligence Scope und Materialitätsschwellen — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** DD-SCOPE-001/SIL  
-**Datum:** 11. Oktober 2024  
-**Verfasser:** Dr. Markus Weidemann, Partner  
-**Adressat:** Eagle Capital Partners GmbH & Co. KG (z.Hd. Felix Brandl, Managing Director)  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** DD-SCOPE-001/SIL
+**Datum:** 11. Oktober 2024
+**Verfasser:** Dr. Markus Weidemann, Partner
+**Adressat:** Eagle Capital Partners GmbH & Co. KG (z.Hd. Felix Brandl, Managing Director)
 **Betreff:** Due Diligence Scope, Materialitätsschwellen und Workstream-Einteilung — Solaris Industries AG
 
 ---
@@ -152,5 +152,3 @@ Für diese Transaktion gelten die folgenden Schwellenwerte, die mit ECP am 10. O
 - SPA-Implikationen: DD-Team liefert für jeden Red Flag eine standardisierte SPA-Impact-Karte (Garantievorschlag oder Freistellungsempfehlung)
 
 ---
-
-*Alle in diesem Memo genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

@@ -1,8 +1,8 @@
 # Freestanding Selftest — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 01.04.2026  
-**Letzte Aktualisierung:** 20.05.2026  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 01.04.2026
+**Letzte Aktualisierung:** 20.05.2026
 **Zweck:** Nachweis, dass alle M&A-Kern-Workflows ohne externe Plugin-Abhängigkeiten abgedeckt sind
 
 ---
@@ -64,7 +64,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 | Zeitnachweise → Billing-Narrativ | Mandantengerechtes Narrative Ledger | ✓ Bestanden |
 | XRechnung-Datenblock | Strukturierter Datensatz (ohne PDF/A-3-Validierung) | ✓ Bestanden |
 | GoBD-Protokoll | Rechnungsnummer, Änderungslog, Korrekturpfad | ✓ Bestanden |
-| USt-Prüfung | TODO-Markierung wenn Leistungsort fehlt | ✓ Bestanden |
+| USt-Prüfung | Offen-Markierung wenn Leistungsort fehlt | ✓ Bestanden |
 
 ### grosskanzlei-ma-schreibcanvas
 
@@ -86,7 +86,7 @@ Der Skill besteht den Freestanding-Test, wenn er alle nachfolgend genannten Work
 
 | Bereich | Einschränkung | Kommentar |
 |---|---|---|
-| ZUGFeRD PDF/A-3 | Keine Validierung eines finalen PDF/A-3 | Als TODO markiert |
+| ZUGFeRD PDF/A-3 | Keine Validierung eines finalen PDF/A-3 | Als Offen markiert |
 | Live-Datenabfragen | Kein Echtzeit-Handelsregister-Abruf | Manuelle Eingabe erforderlich |
 | Digitale Signatur | Kein qualifiziertes elektronisches Siegel | Externe eIDAS-Plattform nötig |
 

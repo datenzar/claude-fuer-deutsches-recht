@@ -2,9 +2,9 @@
 
 Internes Arbeitsdokument für das Mapping der Term-Sheet-Klausel „Investor Director Approval" in die deutsche GmbH-Welt. Wird in Datei 11 mehrfach referenziert.
 
-## Lernziel
+## Ausgangspunkt
 
-Im Term Sheet steht „**Investor Director Approval**", als sei das ein Block-Veto am Board-Tisch wie in Delaware. Die GmbH kennt **kein Board**. Wir müssen jede Klausel in **drei Organebenen** denken: (a) Geschäftsführung, (b) Gesellschafterversammlung, (c) Beirat (sofern installiert und mit Kompetenzen versehen).
+Im Term Sheet steht „**Investor Director Approval**", als sei das ein Block-Veto am Board-Tisch wie in Delaware. Die GmbH kennt **kein Board**. Jede Klausel ist deshalb in **drei Organebenen** zu denken: (a) Geschäftsführung, (b) Gesellschafterversammlung, (c) Beirat (sofern installiert und mit Kompetenzen versehen).
 
 ## Regelfragen vor jedem Mapping
 
@@ -48,7 +48,7 @@ Wenn Northbridge auf einem **Investor Director Approval** besteht und wir den Be
 
 ## Praxisfehler
 
-Häufiger Anfängerfehler in dieser Akte: alle Reserved Matters werden unbesehen in die Geschäftsordnung der Geschäftsführung übernommen, einschließlich Materien, die kraft Gesetzes der Gesellschafterversammlung vorbehalten sind (Paragraf 46 GmbHG). Effekt: zwei Wege parallel, beide widersprüchlich, am Ende keiner sauber.
+Häufiger Strukturfehler in dieser Akte: alle Reserved Matters werden unbesehen in die Geschäftsordnung der Geschäftsführung übernommen, einschließlich Materien, die kraft Gesetzes der Gesellschafterversammlung vorbehalten sind (Paragraf 46 GmbHG). Effekt: zwei Wege parallel, beide widersprüchlich, am Ende keiner sauber.
 
 Sauberer Pfad:
 
@@ -57,7 +57,7 @@ Sauberer Pfad:
 3. Dann die **Geschäftsführungs-Geschäftsordnung** mit den verbleibenden operativen Zustimmungsvorbehalten füllen.
 4. Erst zum Schluss die **SHA-/Side-Letter-Ebene** als verbindliche Verpflichtung der Gesellschafter, ihre Stimmrechte entsprechend auszuüben.
 
-## Cheat Sheet für das nächste Briefing
+## Kurznotiz für das nächste Briefing
 
 - „Reserved Matter" ist immer eine Frage: **Welches Organ?**
 - „Investor Director Approval" ist eine Frage: **Welche Geschäftsordnung?**

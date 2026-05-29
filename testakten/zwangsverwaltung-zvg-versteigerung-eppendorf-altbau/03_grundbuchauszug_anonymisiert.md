@@ -1,4 +1,4 @@
-# Wohnungsgrundbuch - fiktiver Auszug
+# Wohnungsgrundbuch - anonymisierter Auszug
 
 **Grundbuch von Hamburg-Eppendorf, Blatt 48291**
 
@@ -21,7 +21,7 @@ Abdruck vom 19.05.2026
 
 | Lfd. Nr. | Eigentümer |
 | --- | --- |
-| 1 | Erbengemeinschaft nach Jonas R. Albrecht, bestehend aus zwei fiktiven Miterben |
+| 1 | Erbengemeinschaft nach Jonas R. Albrecht, bestehend aus zwei Miterben |
 
 ## Abteilung II - Lasten und Beschränkungen
 
@@ -29,17 +29,17 @@ Abdruck vom 19.05.2026
 | --- | --- |
 | 2 | Die Zwangsverwaltung ist angeordnet. Amtsgericht Hamburg, 71 L 44/25. Eingetragen am 18.11.2025. |
 | 3 | Die Zwangsversteigerung ist angeordnet. Amtsgericht Hamburg, 71 K 18/26. Eingetragen am 12.02.2026. |
-| 4 | Sanierungsvermerk nach fiktivem Erhaltungsgebiet "Eppendorf-Ost"; Einzelprüfung erforderlich. |
+| 4 | Sanierungsvermerk nach aktenkundigem Erhaltungsgebiet "Eppendorf-Ost"; Einzelprüfung erforderlich. |
 
 ## Abteilung III - Grundpfandrechte
 
 | Lfd. Nr. | Recht |
 | --- | --- |
 | 1 | Grundschuld über 520.000,00 EUR für Nordelbe Kreditbank AG, Hamburg |
-| 2 | Zwangssicherungshypothek über 38.400,00 EUR für fiktive Wohnungseigentümergemeinschaft |
+| 2 | Zwangssicherungshypothek über 38.400,00 EUR für Wohnungseigentümergemeinschaft |
 
 ## Prüfnotiz
 
 - Bestehenbleibende Rechte sind im Versteigerungstermin und anhand der Versteigerungsbedingungen zu klären.
 - Abteilung-II-Rechte können wirtschaftlich entscheidend sein.
-- Sanierungsvermerk ist nur fiktiv, soll aber die Prüfung öffentlich-rechtlicher Bindungen trainieren.
+- Sanierungsvermerk ist nur  soll aber die Prüfung öffentlich-rechtlicher Bindungen trainieren.

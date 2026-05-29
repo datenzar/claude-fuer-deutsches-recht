@@ -39,4 +39,3 @@ _Flug PSA 4472 – Annullierung 11.04.2026 – Notaufenthalt Bangkok 11.–13.04
 | Sonstige Schaeden (SIM, Kabel, Med.) |  | § 280 BGB / Art. 12 |  |  |  | Nachgewiesene Mehraufwendungen |  |  |
 | Verdienstausfall Yasmin Zaytuna-Braeutigam |  | Pruefung |  |  | 0 | Kinderklinik Hamburg, Fruehdienst 14.04.2026 ausgefallen – Nachweis ausstehend |  |  |
 | GESAMTFORDERUNG |  |  |  |  |  |  |  |  |
-| Hinweis: EUR-Betraege aus Kurs THB/EUR = 38,35 (Stand 13.04.2026). Alle Daten fiktiv (Testakte). Verjaehrung gem. § 195 BGB: 31.12.2029. Verdienstausfall Yasmin noch nicht beziffert (Nachweis Kinderklinik Hamburg ausstehend). |  |  |  |  |  |  |  |  |

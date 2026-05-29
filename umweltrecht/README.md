@@ -56,9 +56,9 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 ## Testakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/umweltrecht-industrieanlage-genehmigung`. Sie wird im Release als `testakte-umweltrecht-industrieanlage-genehmigung.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/umweltrecht-industrieanlage-genehmigung`. Sie wird im Release als `testakte-umweltrecht-industrieanlage-genehmigung.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [umweltrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/umweltrecht.zip)
-- Testakte: [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip)
+- Akte: [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip)

@@ -1,6 +1,5 @@
 # Mieterstromvertrag — Volltext
 
-> Vollständiger Vertrags-Volltext nach EEG § 21 und EnWG § 42a für die Testakte des `energierecht`-Plugin. Dient als Muster für Quartier Hafenbogen.
 
 ---
 

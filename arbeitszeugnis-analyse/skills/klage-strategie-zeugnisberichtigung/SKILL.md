@@ -15,7 +15,7 @@ Dritte Stufe ist der Klageantrag. Er sollte konkret formuliert werden: nicht nur
 
 Der Streitwert einer Zeugnisberichtigungsklage liegt nach gefestigter Rechtsprechung bei einem Monatsbruttogehalt. Auch das Bruchteilsverhaeltnis bei mehreren Streitpunkten folgt diesem Wert. Bei einer reinen Schlussformel-Korrektur kann der Streitwert auf ein Drittel oder ein Halbes Monatsgehalt reduziert sein.
 
-Die Verjaehrung folgt der regelmaessigen Verjaehrungsfrist nach §§ 195, 199 BGB. Der Anspruch entsteht mit Ausstellung des Zeugnisses, beginnt mit Schluss des Ausstellungsjahrs zu laufen und verjaehrt drei Jahre spaeter. Praktisch wichtig ist daneben die Frist zur tatsaechlichen Geltendmachung — verzoegert der Arbeitnehmer das Berichtigungsverlangen, geht ihm die Verwirkungsmoeglichkeit voraus.
+Die Verjaehrung folgt der regelmäßigen Verjaehrungsfrist nach §§ 195, 199 BGB. Der Anspruch entsteht mit Ausstellung des Zeugnisses, beginnt mit Schluss des Ausstellungsjahrs zu laufen und verjaehrt drei Jahre spaeter. Praktisch wichtig ist daneben die Frist zur tatsaechlichen Geltendmachung — verzoegert der Arbeitnehmer das Berichtigungsverlangen, geht ihm die Verwirkungsmoeglichkeit voraus.
 
 ## Geheimcode-Regeln
 

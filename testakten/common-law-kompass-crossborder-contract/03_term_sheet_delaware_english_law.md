@@ -34,6 +34,3 @@ Aktenzeichen: CLC-2024-HH-007 | Parteien: RheinMain Sensors GmbH | Blue Harbor (
 
 
 Zusammenfassung: Praeferierte Loesung: Deutsches Recht (Nr. 1), DIS Hamburg (Nr. 8), EUR-Preis (Nr. 18), Parent Guarantee als Deed EN Law (Nr. 7). Nicht verhandelbar: Kein Ausschluss ProdHaftG (Nr. 13), kein vollstaendiger Waiver of Consequential Damages in AGB (Nr. 5), keine US-Work-for-Hire-Klausel (Nr. 14).
-
-
-Term Sheet - Arbeitsfassung, nicht rechtsverbindlich. Inhalte fiktiv. Keine Rechtsberatung. Kanzlei Brandt & Wessel, Hamburg, April 2024.

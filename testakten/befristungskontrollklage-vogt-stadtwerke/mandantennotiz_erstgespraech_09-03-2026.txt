@@ -71,7 +71,7 @@ Vorläufige Bewertung (Bearbeiter):
 
 ---
 
-HINWEISE / TODO:
+HINWEISE / Offen:
 - Vollmacht heute unterzeichnet (liegt bei)
 - PKH-Antrag prüfen (Vogt ist aktuell ohne Beschäftigung, Einkommen = 0)
 - Kostenvoranschlag besprechen → Mandantin bittet um Kosteneinschätzung per Email

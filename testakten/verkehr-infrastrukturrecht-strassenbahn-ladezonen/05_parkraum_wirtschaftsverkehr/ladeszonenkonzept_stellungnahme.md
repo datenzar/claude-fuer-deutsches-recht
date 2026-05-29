@@ -68,7 +68,7 @@ Mit freundlichen Grüßen
 Vorstand: Margit Schönfeld (1. Vorsitzende), Dr. Reinhard Paasch (2. Vorsitzender), Petra Klose (Schatzmeisterin)
 Westparkstraße 3, 47112 Friedrichshöfe
 E-Mail: buergerinitiative-westpark@posteo.de
-Website: www.westpark-lebenswert.de *(fiktiv)*
+Website: www.westpark-lebenswert.de
 
 ---
 

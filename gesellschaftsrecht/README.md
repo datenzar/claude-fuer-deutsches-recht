@@ -5,13 +5,14 @@ Abläufe für gesellschaftsrechtliche Mandate in deutschen Kanzleien und Rechtsa
 **Jedes Ergebnis ist ein Entwurf zur anwaltlichen Überprüfung – zitiert, markiert und gesperrt – kein Rechtsgutachten.** Das Plugin übernimmt die Arbeit: liest Dokumente, wendet dein Playbook an, findet die Issues, erstellt den Bericht. Ein Rechtsanwalt prüft, verifiziert und entscheidet. Zitate sind mit Quellen gekennzeichnet, damit klar ist, welche aus einem Recherchetool stammen und welche noch zu prüfen sind. Mandantengeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB) wird konservativ gewahrt. Folgenreiche Handlungen – Einreichung, Versendung, Beurkundung – werden durch ausdrückliche Bestätigung gesperrt.
 
 
-## ⬇️ Zum Ausprobieren: Testakte (separat)
+## ⬇️ Zum Ausprobieren: Arbeitsakten (separat)
 
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+Mandatsakten zum sofortigen Ausprobieren — **kein Teil des Plugins**, separater Download:
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
 | **gesellschaftsgruender streit roeschen tech** | [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
+| **gesellschaftsrecht legal english frankfurt startup** | [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
 
 Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
 

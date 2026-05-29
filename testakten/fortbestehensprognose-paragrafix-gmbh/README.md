@@ -1,46 +1,40 @@
-# Testakte: Fortbestehensprognose Paragrafix GmbH
+# Akte: Fortbestehensprognose Paragrafix GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-fortbestehensprognose-paragrafix-gmbh` (diese Akte) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+| `testakte-fortbestehensprognose-paragrafix-gmbh` (Akte) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **HINWEIS:** Alle Personen, Unternehmen, Zahlen, Adressen, IBAN-Nummern, 
-> Handelsregisternummern, Steuernummern und sonstigen Angaben in dieser Testakte 
-> sind **vollständig frei erfunden**. Die Akte dient ausschließlich zu Testzwecken 
-> für KI-gestützte Rechtsdokumentations-Plugins. Jede Ähnlichkeit mit realen 
-> Personen oder Unternehmen ist rein zufällig.
 
 ---
 
 ## 1. Über diesen Fall
 
-**Mandant (fiktiv):** Paragrafix GmbH, Heidestraße 78, 10557 Berlin-Moabit  
-**Handelsregister:** HRB 247841 B, Amtsgericht Charlottenburg  
-**Branche:** Legal-AI-SaaS (KI-Assistent für Steuerberater und Rechtsanwälte)  
-**Stichtag der Fortbestehensprognose:** 30. April 2026  
+**Mandant:** Paragrafix GmbH, Heidestraße 78, 10557 Berlin-Moabit
+**Handelsregister:** HRB 247841 B, Amtsgericht Charlottenburg
+**Branche:** Legal-AI-SaaS (KI-Assistent für Steuerberater und Rechtsanwälte)
+**Stichtag der Fortbestehensprognose:** 30. April 2026
 **Relevante Rechtsnormen:** §§ 17–19 InsO, § 102 StaRUG, § 43 GmbHG, § 252 Abs. 1 Nr. 2 HGB
 
 ### Ausgangslage
 
-Die Paragrafix GmbH ist ein 2023 gegründetes Legal-AI-Startup (Serie A: 8,5 Mio. EUR, 
-Lead-Investor Earlybird). Das Unternehmen entwickelt KI-Assistenten für Steuerberater und 
+Die Paragrafix GmbH ist ein 2023 gegründetes Legal-AI-Startup (Serie A: 8,5 Mio. EUR,
+Lead-Investor Earlybird). Das Unternehmen entwickelt KI-Assistenten für Steuerberater und
 Rechtsanwälte mit DSGVO-konformer Vertragsanalyse und Workflow-Automatisierung.
 
-**Die Herausforderung:** Bei einer Burn-Rate von ca. 380.000 EUR/Monat und 
-einem Kassenbestand von 1.870.000 EUR (30.04.2026) reicht die Liquidität ohne 
-weitere Finanzierung nur bis ca. Mitte August 2026. Die zweite Tranche der 
-Series-A-Finanzierung (3,0 Mio. EUR) ist an Meilensteine gebunden (ARR 2,5 Mio. EUR 
-bis 30.06.2026). Das MRR beträgt 187.400 EUR (April 2026), ARR ca. 2,25 Mio. EUR — 
+**Die Herausforderung:** Bei einer Burn-Rate von ca. 380.000 EUR/Monat und
+einem Kassenbestand von 1.870.000 EUR (30.04.2026) reicht die Liquidität ohne
+weitere Finanzierung nur bis ca. Mitte August 2026. Die zweite Tranche der
+Series-A-Finanzierung (3,0 Mio. EUR) ist an Meilensteine gebunden (ARR 2,5 Mio. EUR
+bis 30.06.2026). Das MRR beträgt 187.400 EUR (April 2026), ARR ca. 2,25 Mio. EUR —
 die Lücke zum Meilenstein beträgt ca. 250.000 EUR ARR.
 
 Die Steuerberaterin (KMK Berlin, Steiglitz) hat am 06.05.2026 ein StaRUG-§-102-
-Hinweisschreiben versandt und die Geschäftsführerin aufgefordert, eine formale 
-**Fortbestehensprognose nach § 19 Abs. 2 InsO** sowie eine 
+Hinweisschreiben versandt und die Geschäftsführerin aufgefordert, eine formale
+**Fortbestehensprognose nach § 19 Abs. 2 InsO** sowie eine
 **13-Wochen-Liquiditätsplanung nach § 17 InsO** zu erstellen.
 
 ---
@@ -109,10 +103,10 @@ Dieses Plugin ist für die **Fortbestehensprognose nach § 19 Abs. 2 InsO** zust
 - "Ist die Fortbestehensprognose positiv oder negativ? Begründung?"
 - "Welche Sanierungsmaßnahmen sind für eine positive Prognose erforderlich?"
 - "Reicht der Comfortletter von Earlybird als Grundlage für eine positive Fortbestehensprognose?"
-- "Berechne den Eigenkapital-Saldo aus der Bilanz und erkläre, warum trotz negativem 
+- "Berechne den Eigenkapital-Saldo aus der Bilanz und erkläre, warum trotz negativem
   buchmäßigem EK keine Überschuldung i. S. d. § 19 InsO vorliegt."
 
-**Lernziele:**
+**Prüffokus:**
 - Unterschied Fortbestehensprognose vs. Überschuldungsstatus vs. Zahlungsunfähigkeit
 - Qualitative vs. quantitative Fortbestehensprognose
 - Anforderungen an Sanierungsmaßnahmen als Grundlage der Prognose
@@ -129,7 +123,7 @@ Für die **13-Wochen-Liquiditätsplanung (§ 17 InsO)** und den **12-Monats-Fore
 - "Berechne den Break-even-Punkt, ab dem kein externer Cash mehr benötigt wird."
 
 ### Plugin: `insolvenzrecht` (Begleitplugin)
-Für Fragen zu **Antragspflicht, drohender Zahlungsunfähigkeit (§ 18 InsO)**, 
+Für Fragen zu **Antragspflicht, drohender Zahlungsunfähigkeit (§ 18 InsO)**,
 Massesicherungspflichten und Haftungsrisiken der Geschäftsführung.
 
 **Testfragen / Szenarien:**
@@ -143,24 +137,24 @@ Massesicherungspflichten und Haftungsrisiken der Geschäftsführung.
 ## 6. Besondere Lernaspekte dieser Akte
 
 ### Reverse Charge § 13b UStG (Dateien 09, 10)
-Die Rechnungen von OpenAI (USA), Anthropic (USA) und AWS EMEA SARL (Luxemburg) 
+Die Rechnungen von OpenAI (USA), Anthropic (USA) und AWS EMEA SARL (Luxemburg)
 zeigen das Reverse-Charge-Verfahren für B2B-Dienstleistungen aus dem Ausland.
-Steuerschuldner ist nicht der Leistungserbringer, sondern Paragrafix GmbH als 
+Steuerschuldner ist nicht der Leistungserbringer, sondern Paragrafix GmbH als
 Leistungsempfänger. Besonders relevant für die Umsatzsteuer-Voranmeldungen.
 
 ### Going-Concern-Beurteilung (§ 252 HGB vs. § 19 InsO)
-Der Anhang der Bilanz (Datei 01) zeigt, wie die HGB-Going-Concern-Beurteilung 
-nach § 252 Abs. 1 Nr. 2 HGB von der insolvenzrechtlichen Fortbestehensprognose 
+Der Anhang der Bilanz (Datei 01) zeigt, wie die HGB-Going-Concern-Beurteilung
+nach § 252 Abs. 1 Nr. 2 HGB von der insolvenzrechtlichen Fortbestehensprognose
 nach § 19 Abs. 2 InsO abzugrenzen ist.
 
 ### Schwäche des Comfortletters (Datei 06)
-Der Comfortletter von Earlybird ist **ausdrücklich nicht rechtsverbindlich**. 
-Er kann für die Fortbestehensprognose qualitativ berücksichtigt werden, ersetzt 
+Der Comfortletter von Earlybird ist **ausdrücklich nicht rechtsverbindlich**.
+Er kann für die Fortbestehensprognose qualitativ berücksichtigt werden, ersetzt
 aber keine verbindliche Finanzierungszusage (Term Sheet oder Darlehensvertrag).
 
 ### SKR03-Kontenlogik (Datei 03)
-Die Summen- und Saldenliste zeigt realistische SKR03-Konten für ein SaaS-Startup: 
-Fremdleistungen für LLM-Kosten (SKR03 3100/3105), SaaS-Abonnement-Erlöse (8400), 
+Die Summen- und Saldenliste zeigt realistische SKR03-Konten für ein SaaS-Startup:
+Fremdleistungen für LLM-Kosten (SKR03 3100/3105), SaaS-Abonnement-Erlöse (8400),
 aktivierte Eigenleistungen (0200), Miete (4210).
 
 ---
@@ -180,7 +174,7 @@ aktivierte Eigenleistungen (0200), Miete (4210).
 
 ---
 
-*Diese Testakte wurde mit Hilfe von KI-Tools erstellt. Alle Angaben sind fiktiv. 
+*Diese Akte wurde mit Hilfe von KI-Tools erstellt. Alle Angaben sind .
 Kein Bestandteil dieser Akte begründet Rechtsberatung oder steuerliche Beratung.*
 
 *Erstellt: Mai 2026 (Testversion) | Plugin-Testing: fortbestehensprognose, liquiditätsplanung*

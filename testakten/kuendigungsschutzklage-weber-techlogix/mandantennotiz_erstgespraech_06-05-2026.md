@@ -1,7 +1,7 @@
 # Mandantennotiz — Erstgespräch 06.05.2026
 
-> **VERTRAULICH — § 43a BRAO / Anwaltsgeheimnis**  
-> Kanzlei Steinhauer & Vonau, Oranienstr. 14, 10999 Berlin  
+> **VERTRAULICH — § 43a BRAO / Anwaltsgeheimnis**
+> Kanzlei Steinhauer & Vonau, Oranienstr. 14, 10999 Berlin
 > Aktenzeichen intern: S&V 2026/0512
 
 ---
@@ -99,7 +99,7 @@ Laut Weber und dem Inhalt des Gesprächs vom März 2026 war der Outsourcing-Vert
 
 ---
 
-## 4. Weitere Schritte (Kanzlei-TODO)
+## 4. Weitere Schritte (Offene Kanzleipunkte)
 
 - [x] Vollmacht unterschrieben (Anlage)
 - [x] Kostenbelehrung § 12a ArbGG erteilt (kein Kostenerstattungsanspruch in der 1. Instanz)

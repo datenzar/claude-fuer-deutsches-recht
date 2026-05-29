@@ -1,12 +1,12 @@
-# Testakte JVEG Zeugenentschädigung – Dr. Sophia Berger / LG Tübingen
+# Akte JVEG Zeugenentschädigung – Dr. Sophia Berger / LG Tübingen
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-jveg-zeugin-berger-lg-tuebingen` (diese Akte) | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
+| `testakte-jveg-zeugin-berger-lg-tuebingen` (Akte) | [testakte-jveg-zeugin-berger-lg-tuebingen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-jveg-zeugin-berger-lg-tuebingen.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
 **Kurzbezeichnung:** JVEG Zeugin Berger · Internationaler Anreisefall · Vorschuss und Festsetzung
@@ -54,7 +54,7 @@ Die Akte beleuchtet typische Probleme des JVEG-Entschädigungsrechts bei interna
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersicht mit Sachverhalt, Eckdaten, Dateitabelle und Lernzielen |
+| [README.md](README.md) | Diese Übersicht mit Sachverhalt, Eckdaten, Dateitabelle und Prüffokusn |
 | [00_aktenuebersicht.md](00_aktenuebersicht.md) | Kurze Übersicht aller Verfahrensbeteiligten, Entschädigungspositionen und Chronologie |
 | [01_falldaten_berger.json](01_falldaten_berger.json) | Maschinell lesbare Falldaten (Strecke, Sätze, Beträge) für Plugin-Verarbeitung |
 | [02_rechenblatt_berger.csv](02_rechenblatt_berger.csv) | Tabellarische Übersicht aller JVEG-Positionen mit Prüfansätzen und Belegstatus |
@@ -82,9 +82,9 @@ Die Akte beleuchtet typische Probleme des JVEG-Entschädigungsrechts bei interna
 
 ---
 
-## Lernziele / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte veranschaulicht das **JVEG-Entschädigungsrecht** an einem praxisnahen internationalen Fall. Sie ist besonders geeignet für:
+Diese Akte zeigt das **JVEG-Entschädigungsrecht** an einem praxisnahen internationalen Fall. Sie ist besonders geeignet für:
 
 ### 1. § 3 JVEG – Vorschussanspruch
 - **Was ist der Tatbestand?** Erhebliche Fahrtkosten oder sonstige Aufwendungen – kein Bedürftigkeitsmerkmal.
@@ -121,5 +121,3 @@ Die Akte deckt die gesamte Prozesskette ab: Ladung → Vorschussantrag → Ableh
 ---
 
 ## Disclaimer
-
-Alle Personen, Aktenzeichen, Adressen, IBANs und sonstigen Angaben in dieser Akte sind frei erfunden. Die Akte dient ausschließlich der Illustration typischer Rechtsprobleme und der Erprobung von Software-Werkzeugen. Sie ersetzt keine Rechtsberatung. Für konkrete JVEG-Fragen ist stets ein Rechtsanwalt oder Rechtspfleger zu konsultieren.

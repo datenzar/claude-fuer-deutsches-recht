@@ -1,18 +1,13 @@
-# Testakte: Betreuungsfall Hildegard Sauer
+# Akte: Betreuungsfall Hildegard Sauer
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-betreuung-hildegard-sauer` (diese Akte) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
+| `testakte-betreuung-hildegard-sauer` (Akte) | [testakte-betreuung-hildegard-sauer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-hildegard-sauer.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **⚠️ Alle Daten, Namen, Adressen, Aktenzeichen, Kontonummern und sonstigen
-> Angaben in dieser Akte sind frei erfunden. Jegliche Ähnlichkeit mit realen
-> Personen, Verfahren oder Institutionen ist rein zufällig. Diese Akte dient
-> ausschließlich als Testmaterial für das Plugin `betreuungsrecht`.**
 
 ---
 
@@ -96,7 +91,7 @@ Berufsbetreuers eingereicht.
 
 ---
 
-## Was lernt man in dieser Testakte?
+## Was lernt man in dieser Akte?
 
 ### 1. Jahresbericht nach § 1863 BGB
 
@@ -206,6 +201,4 @@ bei gerichtlicher Anforderung zu erstellen ist.
 
 ---
 
-*Erstellt als Testmaterial für das Plugin `betreuungsrecht` im Repository
-`claude-fuer-deutsches-recht`. Stand: April 2026 (fiktiv). Alle Personen,
-Daten und Verfahren sind frei erfunden.*
+Personenbezogene Angaben und Kontaktdaten sind anonymisiert; die rechtliche Arbeit richtet sich nach den in der Akte dokumentierten Unterlagen.

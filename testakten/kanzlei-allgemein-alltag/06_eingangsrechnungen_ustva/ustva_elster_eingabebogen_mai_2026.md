@@ -5,12 +5,12 @@
 - Formular: Umsatzsteuer-Voranmeldung
 - Jahr: 2026
 - Voranmeldungszeitraum: Mai
-- Steuernummer: fehlt in Testakte
+- Steuernummer: fehlt in Akte
 - Unternehmerin: Rechtsanwältin Jana Reuter
 - Besteuerungsart: unklar
 - Dauerfristverlängerung: unklar
 
-## Werte aus Testakte
+## Werte aus Akte
 
 | Bereich | Betrag | Quelle | Unsicherheit |
 | --- | --- | --- | --- |

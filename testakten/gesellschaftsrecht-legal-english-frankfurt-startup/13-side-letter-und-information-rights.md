@@ -1,7 +1,5 @@
 # 13 Side Letter und Information Rights
 
-Datenraum-Auszug. Fiktiv. Zur Schulung der Lehre über Side Letters, Most Favoured Nation (MFN), Informationsrechte und Reporting-Pflichten im VC-Umfeld.
-
 ## Auszug Seed Side Letter Stahlauge Ventures GmbH, datiert 01.07.2023
 
 **Section 1 Information Rights**
@@ -30,7 +28,7 @@ The Investor's 1x non-participating liquidation preference granted under the See
 
 ## Folgenabschätzung für Series A
 
-1. **Information Rights Stack**. Northbridge wird im Series-A-SHA umfangreiche Informationsrechte verlangen (monthly, quarterly, annual, budget). Stahlauge hat sie bereits. Aufwand für die Mandantin: jedes Reporting-Format einmal sauber aufbauen, dann gleichmäßig an alle Berechtigten verteilen. Klassischer Anfängerfehler: nur an Northbridge schicken und Stahlauge übersehen.
+1. **Information Rights Stack**. Northbridge wird im Series-A-SHA umfangreiche Informationsrechte verlangen (monthly, quarterly, annual, budget). Stahlauge hat sie bereits. Aufwand für die Mandantin: jedes Reporting-Format einmal sauber aufbauen, dann gleichmäßig an alle Berechtigten verteilen. Klassischer Organisationsfehler: nur an Northbridge schicken und Stahlauge übersehen.
 
 2. **MFN**. Wenn Northbridge stärkere Rechte erhält (z. B. monatlicher KPI-Bericht, Direktzugang zu Daten), kann Stahlauge unter Section 3 die gleichen Rechte verlangen. Achtung: MFN-Klauseln können ohne ausdrücklichen Trigger auslösen.
 
@@ -72,7 +70,7 @@ For a period of 24 months following Closing, the Company shall procure that no t
 
 4. **Most Favoured Investor**. Northbridge will sich gegen MFN-Effekte des Stahlauge-Side-Letters absichern. Sauberes Mapping mit dem Stahlauge-Side-Letter erforderlich. Wenn beide Investoren MFN haben, droht eine **Endlosspirale**: jede Verbesserung für einen Investor zieht die Verbesserung für den anderen nach sich. Lösung: Stichtagsbezug oder Ausnahmen klar definieren.
 
-5. **Reserved Matters Veto**. Die Klausel formuliert das Veto auf Investor-Director-Ebene. Wie in Glossar Datei 08 erläutert, ist die GmbH-Organstruktur eine andere: Geschäftsführer haften organrechtlich. Wenn der Investor Director ein Veto-Recht hat, muss die interne Geschäftsordnung der Geschäftsführung dies abbilden, oder der Vorbehalt muss auf Gesellschafterebene gespiegelt werden. Sonst Reibungsverluste in der Praxis.
+5. **Reserved Matters Veto**. Die Klausel formuliert das Veto auf Investor-Director-Ebene. Die GmbH-Organstruktur ist aber eine andere: Geschäftsführer haften organrechtlich. Wenn der Investor Director ein Veto-Recht hat, muss die interne Geschäftsordnung der Geschäftsführung dies abbilden, oder der Vorbehalt muss auf Gesellschafterebene gespiegelt werden. Sonst Reibungsverluste in der Praxis.
 
 ## Skizze Information-Rights-Stack nach Closing
 

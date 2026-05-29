@@ -105,7 +105,7 @@ VI. Auszahlungsanweisung
 Es wird beantragt, den festgesetzten Betrag auf folgendes Konto zu ueberweisen:
 
 Kontoinhaber: Dr. Sophia Berger
-IBAN: ES76 0049 1234 5678 9012 3456 (fiktiv)
+IBAN: ES76 0049 1234 5678 9012 3456
 BIC: BSCHESMMXXX
 Bank: Banco Santander, Barcelona
 

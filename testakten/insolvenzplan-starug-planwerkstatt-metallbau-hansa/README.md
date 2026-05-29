@@ -1,15 +1,15 @@
-# Testakte: Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung
+# Akte: Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa` (diese Akte) | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
+| `testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa` (Akte) | [testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive, realistische Testakte für die **Insolvenzplan- und StaRUG-Planwerkstatt** (`insolvenzplan-starug-planwerkstatt`). Die Schuldnerin, die Metallbau Hansa GmbH aus Hamburg-Billbrook, ist ein mittelständischer Stahlbaudienstleister mit 86 Beschäftigten, der nach zwei Verlustprojekten und einer ausgeschöpften Bankenlinie in eine Liquiditäts- und Ertragskrise geraten ist. Die Akte demonstriert alle wesentlichen Schritte eines Insolvenzplan- oder StaRUG-Verfahrens: Krisendiagnose, Gläubigerstruktur, Vergleichsrechnung, Gruppen-/Klassenbildung, Investor-Einbindung, gestaltender und darstellender Teil, Stimmrechtssimulation, Cram-Down-Vorbereitung und Planvollzug.
+Realistische Akte für die **Insolvenzplan- und StaRUG-Planwerkstatt** (`insolvenzplan-starug-planwerkstatt`). Die Schuldnerin, die Metallbau Hansa GmbH aus Hamburg-Billbrook, ist ein mittelständischer Stahlbaudienstleister mit 86 Beschäftigten, der nach zwei Verlustprojekten und einer ausgeschöpften Bankenlinie in eine Liquiditäts- und Ertragskrise geraten ist. Die Akte zeigt alle wesentlichen Schritte eines Insolvenzplan- oder StaRUG-Verfahrens: Krisendiagnose, Gläubigerstruktur, Vergleichsrechnung, Gruppen-/Klassenbildung, Investor-Einbindung, gestaltender und darstellender Teil, Stimmrechtssimulation, Cram-Down-Vorbereitung und Planvollzug.
 
 ---
 
@@ -80,9 +80,9 @@ Am 12. Mai 2026 beauftragte die Geschäftsführerin Anna Reimers die Kanzlei Wes
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte illustriert den gesamten Workflow der Insolvenzplan- und StaRUG-Planwerkstatt an einem realistischen Mittelstandsfall:
+Diese Akte zeigt den gesamten Workflow der Insolvenzplan- und StaRUG-Planwerkstatt an einem realistischen Mittelstandsfall:
 
 1. **Erstgespräch und Krisendiagnose:** Wie wird aus dem ersten Mandantengespräch eine vollständige Mandatsnotiz mit Handlungsempfehlungen? Welche Sofortfragen sind in den ersten 48 Stunden zu klären?
 
@@ -107,5 +107,3 @@ Diese Testakte illustriert den gesamten Workflow der Insolvenzplan- und StaRUG-P
 ---
 
 ## Disclaimer
-
-**Diese Akte ist vollständig fiktiv.** Alle Personen, Unternehmen, Aktenzeichen, Adressen, IBAN- und Kontonummern sowie Geschäftszahlen sind erfunden. Übereinstimmungen mit realen Personen oder Unternehmen sind unbeabsichtigt. Die Dokumente ersetzen keine Rechts- oder Steuerberatung und stellen kein verbindliches Rechtsgutachten dar. Sie dienen ausschließlich der Demonstration des Leistungsumfangs der Insolvenzplan- und StaRUG-Planwerkstatt.

@@ -1,15 +1,15 @@
-# Testakte: Insolvenzforderungsanmeldungsprüfung Phoenix Solar Montage GmbH
+# Akte: Insolvenzforderungsanmeldungsprüfung Phoenix Solar Montage GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar` (diese Akte) | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
+| `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar` (Akte) | [testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Testakte für das KI-Plugin `insolvenzforderungsanmeldungspruefung`. Sie simuliert einen vollständigen Forderungsprüfungslauf nach Eröffnung des Insolvenzverfahrens über das Vermögen der Phoenix Solar Montage GmbH. Die Akte deckt alle typischen Problemlagen ab: formale Mängel, Dubletten, Sicherheiten mit unbekanntem Verwertungsausfall, besonderer Rechtsgrund (Steuerstraftat, vbuH), Nachrangdarlehen, Schuldnerwiderspruch, Feststellungsklage und abschließende Verteilung nach § 189 InsO.
+Arbeitsakte für das KI-Plugin `insolvenzforderungsanmeldungspruefung`. Sie simuliert einen vollständigen Forderungsprüfungslauf nach Eröffnung des Insolvenzverfahrens über das Vermögen der Phoenix Solar Montage GmbH. Die Akte deckt alle typischen Problemlagen ab: formale Mängel, Dubletten, Sicherheiten mit unbekanntem Verwertungsausfall, besonderer Rechtsgrund (Steuerstraftat, vbuH), Nachrangdarlehen, Schuldnerwiderspruch, Feststellungsklage und abschließende Verteilung nach § 189 InsO.
 
 ---
 
@@ -88,9 +88,9 @@ Im Prüfungstermin erhob der Schuldner Wendler **Widerspruch** gegen zwei Forder
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte demonstriert folgende typische Prüfungsprobleme im Insolvenzrecht:
+Diese Akte zeigt folgende typische Prüfungsprobleme im Insolvenzrecht:
 
 1. **Formale Mängel bei Forderungsanmeldungen** (§ 174 InsO): fehlende Belege, unvollständige Tatsachendarstellung, kein Verwertungsausfall beziffert.
 2. **Abgrenzung Insolvenzforderung / Masseverbindlichkeit** (§§ 38, 55 InsO): bei monatsübergreifenden Ansprüchen (Miete, SV-Beiträge) und bei Lohnforderungen in der Insolvenzgeld-Periode.
@@ -108,5 +108,3 @@ Diese Testakte demonstriert folgende typische Prüfungsprobleme im Insolvenzrech
 ---
 
 ## Disclaimer
-
-**Alle Personen, Firmen, Adressen, Bankverbindungen, Aktenzeichen, Beträge und sonstigen Angaben in dieser Akte sind vollständig frei erfunden.** Ähnlichkeiten mit realen Personen, Unternehmen oder Verfahren sind nicht beabsichtigt und rein zufällig. Diese Unterlagen dienen ausschließlich dem Test von KI-Assistenzsystemen und ersetzen keine individuelle Rechtsberatung. Für die Lösung konkreter Rechtsfragen wenden Sie sich bitte an eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt.

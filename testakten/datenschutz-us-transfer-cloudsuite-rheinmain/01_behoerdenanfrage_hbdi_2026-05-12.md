@@ -1,6 +1,6 @@
 # Hessischer Beauftragter für Datenschutz und Informationsfreiheit
 
-**Fiktives Schreiben für Testzwecke**
+**Entwurf Behördenkorrespondenz**
 
 Aktenzeichen: HBDI-4.2-DS-2026-0512-PTG
 Datum: 12.05.2026

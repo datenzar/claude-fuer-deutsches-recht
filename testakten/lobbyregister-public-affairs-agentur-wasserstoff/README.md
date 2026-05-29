@@ -1,15 +1,15 @@
-# Testakte Lobbyregister: Spreebogen Regulatory GmbH / Wasserstoffpaket
+# Akte Lobbyregister: Spreebogen Regulatory GmbH / Wasserstoffpaket
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-lobbyregister-public-affairs-agentur-wasserstoff` (diese Akte) | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
+| `testakte-lobbyregister-public-affairs-agentur-wasserstoff` (Akte) | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Agenturakte fuer das Plugin `lobbyregister-bundestag`. Die Akte simuliert eine Public-Affairs-Agentur mit mehreren Auftraggebern und Unterauftragnehmern.
+Agenturakte fuer das Plugin `lobbyregister-bundestag`. Die Akte simuliert eine Public-Affairs-Agentur mit mehreren Auftraggebern und Unterauftragnehmern.
 
 ## Sachverhalt
 
@@ -19,7 +19,7 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 
 | Datei | Inhalt |
 |---|---|
-| [00_aktenuebersicht.md](00_aktenuebersicht.md) | Arbeitsauftrag und Lernziel |
+| [00_aktenuebersicht.md](00_aktenuebersicht.md) | Arbeitsauftrag und Prüffokus |
 | [01_mandatsvertrag_agentur.md](01_mandatsvertrag_agentur.md) | Agenturvertrag HansaH2 |
 | [02_auftraggebermatrix.csv](02_auftraggebermatrix.csv) | Auftraggeber, Vorhaben und Personen |
 | [03_unterauftrag_eventagentur.md](03_unterauftrag_eventagentur.md) | Unterauftrag OpenGrid Events UG |
@@ -44,9 +44,9 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 | [22_anlagenverzeichnis.md](22_anlagenverzeichnis.md) | Anlagenverzeichnis der Registerakte |
 | [23_finalcheck_redteam.md](23_finalcheck_redteam.md) | Red-Team-Notiz zu verbleibenden Risiken |
 | [24_api_monitoringplan_h2.md](24_api_monitoringplan_h2.md) | API-Monitoringplan fuer Auftraggeber, Unterauftrag und Wasserstoffvorhaben |
-| [25_api_mock_search_hansah2_spreebogen.json](25_api_mock_search_hansah2_spreebogen.json) | Fiktive API-Suchergebnisliste HansaH2/Spreebogen |
+| [25_api_mock_search_hansah2_spreebogen.json](25_api_mock_search_hansah2_spreebogen.json) | API-Suchergebnisliste HansaH2/Spreebogen |
 | [26_registerexport_diff_quartalsupload.md](26_registerexport_diff_quartalsupload.md) | Diff nach Q2-Upload und Korrektur Auftraggebertext |
 
-## Lernziel
+## Prüffokus
 
-Diese Akte testet, ob das Plugin Auftraggeber, Unterauftragnehmer, Schwellen, Vorhaben, Stellungnahme-Upload, Finanzdaten und API-Nachkontrolle auseinanderhaelt.
+Diese Akte bündelt, ob das Plugin Auftraggeber, Unterauftragnehmer, Schwellen, Vorhaben, Stellungnahme-Upload, Finanzdaten und API-Nachkontrolle auseinanderhält.

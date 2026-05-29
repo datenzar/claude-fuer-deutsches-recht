@@ -78,7 +78,3 @@ Vorlage des originalen IP-Abtretungsvertrags Friedrich Grünwald (2018).
 (1) Die Verkäuferin stellt die Käuferin und die Gesellschaft von sämtlichen Schäden, Kosten, Bußgeldern und Aufwendungen frei, die aus Exportkontrollverstößen vor dem Closing-Stichtag entstehen, insbesondere aus Lieferungen der Baureihe PDS-800 nach Singapur ohne BAFA-Genehmigung in den Jahren 2022–2024.
 
 (2) Die Freistellung gilt unbegrenzt in der Höhe und für eine Dauer von 7 Jahren ab Closing. § 15 Abs. 4 BGB (Verjährung) wird vertraglich abbedungen.
-
-
-
-Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken. Dieses Dokument ist ein Ausbildungsmuster, kein Rechtsgutachten.

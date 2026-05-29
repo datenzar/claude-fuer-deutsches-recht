@@ -1,10 +1,10 @@
 # Umwandlungssteuer-Matrix — Solaris Industries AG / Carve-out PDS
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** STRUCT-TAX-001/SIL  
-**Datum:** 12. Dezember 2024  
-**Verfasserin:** Dr. Sabine Roth, Tax-Partnerin  
-**Adressat:** Dr. Markus Weidemann, Felix Brandl (ECP)  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** STRUCT-TAX-001/SIL
+**Datum:** 12. Dezember 2024
+**Verfasserin:** Dr. Sabine Roth, Tax-Partnerin
+**Adressat:** Dr. Markus Weidemann, Felix Brandl (ECP)
 **Betreff:** Steuerliche Matrix — Umwandlungsvorgänge, Rückwirkung, Sperrfristen, Verlustvorträge, US-Tax
 
 ---
@@ -117,5 +117,3 @@ Dividenden der US-Tochter an die deutsche Muttergesellschaft (nach Closing: Sola
 | TP-006 | Steuerfreistellungsklauseln SPA (Umwandlung 2024, Exportkontrolle) | Dr. Roth → SPA-Team | Offen | 08.01.2025 |
 
 ---
-
-*Alle in diesem Memo genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

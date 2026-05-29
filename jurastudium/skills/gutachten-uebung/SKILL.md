@@ -13,7 +13,7 @@ Der Gutachtenstil ist die Grundtechnik jeder deutschen Juristenklausur. Er folgt
 
 Diese Skill bewertet die Struktur einer eingereichten Klausurbearbeitung oder erzeugt einen Übungssachverhalt, auf den der Nutzer eine Lösung schreibt. Feedback ist strukturell und inhaltlich, aber die Klausur wird nie umgeschrieben — das ist Lernarbeit des Studierenden.
 
-**Kein Umschreiben. Keine Musterlösung.** Der Skill zeigt Defizite, benennt Techniken, gibt maximal ein bis zwei markierte Formulierungsbeispiele zu Demonstrationszwecken — nie zur Übernahme.
+**Kein Umschreiben. Die Unterlagen lassen die rechtliche Einordnung offen.** Der Skill zeigt Defizite, benennt Techniken, gibt maximal ein bis zwei markierte Formulierungsbeispiele zu Demonstrationszwecken — nie zur Übernahme.
 
 ## Eingaben
 
@@ -149,7 +149,7 @@ Nach 3+ Sitzungen: Fehlermuster benennen:
 
 ## Ausgabeformat
 
-Strukturiertes Feedback nach dem Schema in Schritt 3. Kein Umschreiben der Klausur. Keine Musterlösung. Einschätzung in Notenbändern (bestanden / grenzwertig / nicht bestanden), keine Prozentzahl.
+Strukturiertes Feedback nach dem Schema in Schritt 3. Kein Umschreiben der Klausur. Die Unterlagen lassen die rechtliche Einordnung offen. Einschätzung in Notenbändern (bestanden / grenzwertig / nicht bestanden), keine Prozentzahl.
 
 ## Beispiel
 

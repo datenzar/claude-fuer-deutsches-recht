@@ -1,6 +1,6 @@
 ---
 name: schulung-fallbesprechung
-description: "Strukturierte Fallbesprechung für Schulung Inhouse-Fortbildung Referendariats-AG oder Prüfungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und führt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Musterlösung. Eignet sich für 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Testakte sozialrecht-rollstuhl-tannenberg in der vier disparate Faelle einer Familie als Trainings-Setting vorliegen."
+description: "Strukturierte Fallbesprechung für Schulung Inhouse-Fortbildung Referendariats-AG oder Prüfungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und führt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Erwartungshorizont. Eignet sich für 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Arbeitsakte sozialrecht-rollstuhl-tannenberg, in der vier disparate Fälle einer Familie parallel bearbeitet werden."
 ---
 
 # Schulungs-Fallbesprechung — Trainerleitfaden
@@ -31,7 +31,7 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 
 **Diskussionsfrage:** "Was waere die schlechteste Entscheidung in dieser Stunde?"
 
-**Musterlösung:** Routing-Karte ausfuellen.
+**Erwartungshorizont:** Routing-Karte ausfuellen.
 
 ### Station 2 — Bescheidanalyse (30 Minuten)
 
@@ -46,7 +46,7 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 - Begründung der Begründung — überlasen Standardformeln
 - Wechselwirkungen zwischen Bescheiden derselben Familie nicht erkannt
 
-**Musterlösung:** Bescheid-Prüfraster pro Fall.
+**Erwartungshorizont:** Bescheid-Prüfraster pro Fall.
 
 ### Station 3 — Strategiebesprechung (20 Minuten)
 
@@ -121,7 +121,7 @@ Du fuehrst eine Schulung. Dieser Skill macht aus jedem Realfall oder einer Testa
 
 ## Anwendungs-Setting Tannenberg
 
-Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder ausgelegt — Olaf (Rollstuhl, SGB V), Margarete Mutter (Pflegegrad, SGB XI), Lena Tochter (Schulbegleitung, SGB VIII/IX), Bodo Schwager (EM-Rente, SGB VI). Eine Schulung kann eine 90-Minuten-Variante mit einem Fall oder eine 4-Stunden-Variante mit allen vier durchspielen. Im Trainerhandbuch der Testakte sind die Stationen mit konkreten Materialhinweisen verknuepft.
+Die Testakte `sozialrecht-rollstuhl-tannenberg` ist auf vier Familienmitglieder ausgelegt — Olaf (Rollstuhl, SGB V), Margarete Mutter (Pflegegrad, SGB XI), Lena Tochter (Schulbegleitung, SGB VIII/IX), Bodo Schwager (EM-Rente, SGB VI). Eine Schulung kann eine 90-Minuten-Variante mit einem Fall oder eine 4-Stunden-Variante mit allen vier durchspielen. Im Workflow-Vermerk der Testakte sind die Stationen mit konkreten Materialhinweisen verknuepft.
 
 ## Anschluss-Skills
 

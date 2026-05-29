@@ -1,11 +1,11 @@
 # Schulungsunterlage: Geldwäscheprävention, AML und KYC
 
-**Musterholding GmbH – Interne Schulung**  
-**Datum:** 26.05.2026 | **Format:** Präsenz + Online-Zugang  
-**Zielgruppe:** Alle Mitarbeiter mit Kundenkontakt, Buchhaltung, Vertrieb, Compliance (42 Personen)  
-**Schulungsverantwortlicher:** Thomas Eckhardt (Geldwäschebeauftragter)  
-**Dauer:** ca. 3,5 Stunden  
-**Dokument-Nr.:** SCHULUNG-MH-2026-02  
+**Musterholding GmbH – Interne Schulung**
+**Datum:** 26.05.2026 | **Format:** Präsenz + Online-Zugang
+**Zielgruppe:** Alle Mitarbeiter mit Kundenkontakt, Buchhaltung, Vertrieb, Compliance (42 Personen)
+**Schulungsverantwortlicher:** Thomas Eckhardt (Geldwäschebeauftragter)
+**Dauer:** ca. 3,5 Stunden
+**Dokument-Nr.:** SCHULUNG-MH-2026-02
 
 ---
 
@@ -21,7 +21,7 @@ Geldwäsche (§ 261 StGB) ist die Einschleusung von Geldern oder Vermögenswerte
 | 2 | **Layering (Verschleierung)** | Verdecken der Spur durch mehrere Transaktionen | Überweisungen über Briefkastengesellschaften |
 | 3 | **Integration** | Einbringen in legale Wirtschaft | Kauf von Immobilien, Luxusgütern |
 
-**Warum betrifft das uns?**  
+**Warum betrifft das uns?**
 Die Musterholding GmbH nimmt im Rahmen ihres Güterhandels und ihrer Immobilientätigkeit Barzahlungen und internationale Überweisungen entgegen. Damit sind wir ein mögliches Ziel für Placement und Layering. Das Gesetz zwingt uns, aktiv zu verhindern, dass wir unwissentlich zum Werkzeug der Geldwäsche werden.
 
 ### 1.2 Unser Status als Verpflichteter
@@ -182,25 +182,25 @@ Zur Veranschaulichung wird ein aktueller, vereinfacht anonymisierter Fall bespro
 - Keine Vorauszahlungen vor abgeschlossenem KYC
 - Vertrieb stärker auf Meldepflichten hinweisen
 
-**Lernziel:** AML-Compliance ist keine Behinderung des Vertriebs — sie schützt das Unternehmen vor erheblichen rechtlichen und reputativen Schäden.
+**Prüfziel:** AML-Compliance ist keine Behinderung des Vertriebs — sie schützt das Unternehmen vor erheblichen rechtlichen und reputativen Schäden.
 
 ---
 
 ## Abschluss: Wissenstest (5 Fragen)
 
-1. Ab welchem Betrag einer Barzahlung gelten für uns als Güterhändler besondere Sorgfaltspflichten?  
+1. Ab welchem Betrag einer Barzahlung gelten für uns als Güterhändler besondere Sorgfaltspflichten?
    *(a) 1.000 EUR (b) 5.000 EUR (c) 10.000 EUR (d) 15.000 EUR)*
 
-2. Was ist ein UBO?  
+2. Was ist ein UBO?
    *(a) Eine EU-Behörde (b) Die natürliche Person, die ein Unternehmen letztlich kontrolliert (c) Der Unternehmensberater (d) Eine Offshore-Gesellschaft)*
 
-3. Was dürfen Sie einem Kunden NICHT sagen, wenn eine Verdachtsmeldung läuft?  
+3. Was dürfen Sie einem Kunden NICHT sagen, wenn eine Verdachtsmeldung läuft?
    *(a) "Wir rufen Sie zurück." (b) "Wir befinden uns in einem regulatorischen Prüfprozess." (c) "Wir haben Sie bei der FIU gemeldet." (d) "Bitte haben Sie etwas Geduld.")*
 
-4. Was ist eine Drittzahlung?  
+4. Was ist eine Drittzahlung?
    *(a) Die dritte Zahlung in einer Reihe (b) Eine Zahlung von jemand anderem als dem Vertragspartner (c) Eine Zahlung über 300 EUR (d) Eine Zahlung an Behörden)*
 
-5. An wen melden Sie intern einen Geldwäsche-Verdacht?  
+5. An wen melden Sie intern einen Geldwäsche-Verdacht?
    *(a) Direkt an die BaFin (b) An den Vertriebsleiter (c) An den Geldwäschebeauftragten (d) An den Betriebsrat)*
 
 *(Antworten: 1c, 2b, 3c, 4b, 5c)*
@@ -211,5 +211,5 @@ Zur Veranschaulichung wird ein aktueller, vereinfacht anonymisierter Fall bespro
 
 ---
 
-*Dokument-Nr.: SCHULUNG-MH-2026-02 — Musterholding GmbH / Geldwäschebeauftragter*  
+*Dokument-Nr.: SCHULUNG-MH-2026-02 — Musterholding GmbH / Geldwäschebeauftragter*
 *Aufbewahrung: 5 Jahre (§ 8 Abs. 4 GwG)*

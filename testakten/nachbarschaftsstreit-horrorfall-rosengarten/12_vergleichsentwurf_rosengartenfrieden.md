@@ -1,6 +1,5 @@
 # Vergleichsentwurf Rosengartenfrieden
 
-**Fiktiver Entwurf für Testzwecke**
 
 Zwischen Marianne und Dr. Henning Albers, Rosengartenstraße 17, und Stefan und Lara Kessler, Rosengartenstraße 19, wird zur Befriedung der nachbarrechtlichen Streitigkeiten folgender Vergleich geschlossen.
 

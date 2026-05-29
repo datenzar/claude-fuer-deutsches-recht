@@ -3,11 +3,11 @@
 Insolvenz- und sanierungsrechtliche Skills nach deutschem Recht (InsO, StaRUG, COVInsAG-Nachwirkungen). Zielgruppe: Insolvenzverwalter, beratende Rechtsanwälte (Insolvenz-/Sanierungsrecht), Geschäftsführer, Vorstände, Sanierungsberater, Wirtschaftsprüfer (IDW-S-11-/S-6-/S-9-Praxis).
 
 
-## ⬇️ Zum Ausprobieren: Testakte (separat)
+## ⬇️ Arbeitsakte (separat)
 
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
 | **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
 
@@ -29,18 +29,18 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
-### Zum Ausprobieren: Testakte (separat)
+### Arbeitsakte (separat)
 
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip) |
+| **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
 
 
 ### Zum Ausprobieren: Beispielakte (separat)
 
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 
 [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip)
 

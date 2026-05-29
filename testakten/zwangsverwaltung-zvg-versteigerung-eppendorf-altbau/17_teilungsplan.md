@@ -15,7 +15,7 @@ _Die Rangklassen richten sich nach § 10 Abs. 1 ZVG. Höhere Rangklassen (niedri
 |  | Zinsansprüche auf Bargebot (§ 49 Abs. 2 ZVG, Schätzung) | 0 | 0 | 0 |  |  |
 |  | Verfügbare Teilungsmasse |  |  | 0 |  |  |
 | B. Rangklasse 1 – Öffentliche Lasten (§ 10 Abs. 1 Nr. 1 ZVG) |  |  |  |  |  |  |
-| 1 | Grundsteuer Hamburg 2025 (fiktiv, Schätzung) | 1.240 | 0 | 1.240 | 1.240 | 0 |
+| 1 | Grundsteuer Hamburg 2025 ( Schätzung) | 1.240 | 0 | 1.240 | 1.240 | 0 |
 | 1 | Grundsteuer Hamburg 2026 (anteilig Jan–Jul, Schätzung) | 725 | 0 | 725 | 725 | 0 |
 |  | Summe Rangklasse 1 | 1.965 |  | 1.965 | 1.965 | 0 |
 | C. Rangklasse 2 – Hausgeld WEG (§ 10 Abs. 1 Nr. 2 ZVG, max. 5 % VW = 34.250,00 EUR) |  |  |  |  |  |  |
@@ -25,7 +25,7 @@ _Die Rangklassen richten sich nach § 10 Abs. 1 ZVG. Höhere Rangklassen (niedri
 |  | Summe Rangklasse 2 | 48.128 |  | 38.250 | 38.250 | 0 |
 | D. Rangklasse 4 – Kosten des Verfahrens (§ 10 Abs. 1 Nr. 4 ZVG) |  |  |  |  |  |  |
 | 4 | Gerichtsgebühren (GKG, 3,0-facher Satz, Wert 685.000 EUR) | 7.242 | 0 | 7.242 | 7.242 | 0 |
-| 4 | Gutachterhonorar Dipl.-Ing. Malkwitz (fiktiv) | 3.800 | 0 | 3.800 | 3.800 | 0 |
+| 4 | Gutachterhonorar Dipl.-Ing. Malkwitz | 3.800 | 0 | 3.800 | 3.800 | 0 |
 | 4 | Gerichtliche Auslagen (Bekanntmachungen, Zustellungen) | 1.240 | 0 | 1.240 | 1.240 | 0 |
 | 4 | Zwangsverwalterkosten (71 L 44/25, Schätzung) | 7.232 | 0 | 7.232 | 7.232 | 0 |
 |  | Summe Rangklasse 4 | 19.514 |  | 19.514 | 19.514 | 0 |

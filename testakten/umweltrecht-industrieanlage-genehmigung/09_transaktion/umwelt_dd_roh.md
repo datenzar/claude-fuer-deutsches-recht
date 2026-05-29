@@ -75,7 +75,7 @@ Die nachstehende Fragenliste richtet sich an die Rheinland Spezialchemie GmbH (V
 
 | Nr. | Frage | Antwort |
 |---|---|---|
-| 6.1 | Werden gefährliche Abfälle erzeugt? Welche Mengen pro Jahr? | Ja: Filterstaub (EAK 06 01 02*) ca. 220 t/a; Produktionsschlamm (unklar, Analytik in Auftrag, EAK TBD) ca. 950 t/a; Aktivkohle (EAK 06 01 05*) ca. 2,4 t/a. |
+| 6.1 | Werden gefährliche Abfälle erzeugt? Welche Mengen pro Jahr? | Ja: Filterstaub (EAK 06 01 02*) ca. 220 t/a; Produktionsschlamm (unklar, Analytik in Auftrag, EAK noch offen) ca. 950 t/a; Aktivkohle (EAK 06 01 05*) ca. 2,4 t/a. |
 | 6.2 | Liegen alle erforderlichen Nachweise (eANV) vor? | Für Filterstaub: eANV vorhanden. Für Produktionsschlamm: **Analytik fehlt, Einstufung offen (RED FLAG)**. Verpackung: nicht gefährlich, kein eANV erforderlich. |
 | 6.3 | Sind Entsorgungsverträge mit zugelassenen Entsorgern geschlossen? | Filterstaub: Entsorgung Nord GmbH (Vertrag läuft bis 31.12.2026, Verlängerung geplant). Produktionsschlamm: kein Vertrag (offen). |
 | 6.4 | Bestehen Rückstellungen für Entsorgungskosten in der Bilanz? | Laut Jahresabschluss 2025 Rückstellung 85.000 EUR für Sonderabfallentsorgung; nach Gutachtereinschätzung möglicherweise zu niedrig, wenn Produktionsschlamm als gefährlich eingestuft wird. |
@@ -152,5 +152,3 @@ Die nachstehende Fragenliste richtet sich an die Rheinland Spezialchemie GmbH (V
 **Gesamtempfehlung:** Der Erwerb ist unter Umweltgesichtspunkten bedingt empfehlenswert. Das wesentliche Risiko (RF-01 Altlast S-02) muss vor Signing durch eine Orientierungsuntersuchung quantifiziert werden. Alternativ ist ein Kaufpreiseinbehalt oder eine Escrow-Lösung zu strukturieren.
 
 ---
-
-*Dieses Dokument ist ein fiktives Beispieldokument für Ausbildungszwecke. Alle Angaben zu Personen, Unternehmen und Behörden sind erfunden. Es ersetzt keine Rechtsberatung.*

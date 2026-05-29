@@ -114,7 +114,7 @@ Mit freundlichen Grüßen
 
 **Rheinland Spezialchemie GmbH**
 
-Dr. Markus Haverkamp  
+Dr. Markus Haverkamp
 Geschäftsführer (technisch)
 
 ---
@@ -125,5 +125,3 @@ Geschäftsführer (technisch)
 3. Fotodokumentation Südhalle (innen/außen, März 2026)
 
 ---
-
-*Dieses Dokument ist ein fiktives Beispieldokument für Ausbildungszwecke. Alle Angaben zu Personen, Unternehmen und Behörden sind erfunden. Es ersetzt keine Rechtsberatung.*

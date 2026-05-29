@@ -76,7 +76,7 @@ Vor der WEG-Reform 2020 war hier qualifizierte Mehrheit erforderlich. **Stand 05
 - **Wichtig:** Verteilungs-Aenderungs-Beschluss **fuer den konkreten Einzelfall** (BGH V ZR 128/23 v. 14.02.2025) — generelle Aenderung Vereinsbeschluss-Mehrheit.
 - Heizkostenverteilung nach HeizkostenV: 70 % Verbrauch, 30 % Flaeche (TE § 22 Abs. 3).
 
-## Konsequenzen fuer die Testakte
+## Konsequenzen fuer die Akte
 
 1. **Balkonsanierung** ist Gemeinschaftseigentum, Beschluss nach § 21 IV WEG, Mehrheit nach MEA.
 2. **Wallbox WE 19 Yildiz** ist privilegierte Veraenderung § 20 II Nr. 2 WEG, Kostentragung Yildiz, Gemeinschaft muss Gestattung beschliessen.

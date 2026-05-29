@@ -57,13 +57,11 @@ Die Erklärungen sind bewusst kurz und alltagsnah formuliert.
 
 | Person / Stelle | Rolle |
 |---|---|
-| **Frau Gisela Neumann** | Mandantin (betreute Person, fiktiv). Hat einen Bescheid des Jobcenters erhalten und sucht anwaltliche Hilfe. |
-| **Sabine Muster** | Rechtsanwältin, Fachanwältin für Sozialrecht (fiktiv). Verfasserin des Mandantenbriefs. |
-| **Jobcenter Berlin-Lichtenberg** | Die Behörde, die den Bescheid erlassen hat (fiktiv, aber realer Ort). |
-| **Wohnungsbaugesellschaft Nord GmbH** | Vermieterin von Frau Neumann (fiktiv). Hat die Heizkostenabrechnung erstellt. |
+| **Frau Gisela Neumann** | Mandantin (betreute Person). Hat einen Bescheid des Jobcenters erhalten und sucht anwaltliche Hilfe. |
+| **Sabine Muster** | Rechtsanwältin, Fachanwältin für Sozialrecht. Verfasserin des Mandantenbriefs. |
+| **Jobcenter Berlin-Lichtenberg** | Die Behörde, die den Bescheid erlassen hat ( aber realer Ort). |
+| **Wohnungsbaugesellschaft Nord GmbH** | Vermieterin von Frau Neumann. Hat die Heizkostenabrechnung erstellt. |
 | **Amtsgericht Berlin-Mitte** | Zuständig für Beratungshilfeanträge im Bezirk (real). |
 | **Bundessozialgericht (BSG)** | Hat in mehreren Urteilen geklärt, wann Heizkostennachzahlungen übernommen werden müssen. |
 
 ---
-
-> **Hinweis:** Dieses Glossar ist Teil einer fiktiven Lernakte. Alle Personen, Aktenzeichen und Sachverhalte sind frei erfunden. Es ersetzt keine rechtliche Beratung.

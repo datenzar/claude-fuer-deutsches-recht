@@ -1,4 +1,4 @@
-# Amtsgericht Frankfurt am Main - Fiktiver Handelsregisterauszug
+# Amtsgericht Frankfurt am Main - Handelsregisterauszug
 
 **HRB:** 131777
 **Firma:** Emerald Liffey Bank plc Zweigniederlassung Frankfurt am Main

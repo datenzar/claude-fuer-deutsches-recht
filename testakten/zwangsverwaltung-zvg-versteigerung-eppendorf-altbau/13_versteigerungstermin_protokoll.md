@@ -13,8 +13,8 @@ Amtsgericht Hamburg, Abteilung 71 – Az.: 71 K 18/26
 | Uhrzeit Beginn | 10:00 Uhr |
 | Uhrzeit Ende | 12:47 Uhr |
 | Ort | Amtsgericht Hamburg, Sievekingplatz 1, Saal 214 |
-| Rechtspflegerin | Sabine Tönnies (fiktiv), Rechtspflegerin |
-| Urkundsbeamtin | Petra Lüthje (fiktiv), Urkundsbeamtin der Geschäftsstelle |
+| Rechtspflegerin | Sabine Tönnies (), Rechtspflegerin |
+| Urkundsbeamtin | Petra Lüthje (), Urkundsbeamtin der Geschäftsstelle |
 | Aktenzeichen | 71 K 18/26 |
 | Verfahrensart | Zwangsversteigerung im Wege der Zwangsvollstreckung (§ 15 ZVG) |
 | Objekt | WE Nr. 9, Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg |
@@ -29,15 +29,15 @@ Erschienen sind folgende Personen (Legitimation geprüft):
 
 | Nr. | Name / Bezeichnung | Eigenschaft | Legitimation |
 |---|---|---|---|
-| 1 | Nordelbe Kreditbank AG (fiktiv), vertr. d. RA Gregor Sülfeld (fiktiv) | Betreibende Gläubigerin | Vollmacht + HR-Auszug |
-| 2 | Heinrich J. Albrecht (fiktiv) | Schuldner / Miterbe 1 | Personalausweis |
-| 3 | Sofie Albrecht-Wegener (fiktiv), vertr. d. RAin Dr. Claudia Mester (fiktiv) | Schuldnerin / Miterbin 2 | Vollmacht + PA |
-| 4 | Nordhafen Immobilien UG (fiktiv), vertr. d. Geschäftsführer Paul Körner (fiktiv) | Bieterin | Vollmacht + HR-Auszug |
-| 5 | Elke Sonnenberg (fiktiv) | Bieterin (privat) | Personalausweis |
-| 6 | BH Capital GmbH & Co. KG (fiktiv), vertr. d. RA Dr. Kai Brehmer (fiktiv) | Bieter | Vollmacht + HR-Auszug + PoA |
+| 1 | Nordelbe Kreditbank AG (), vertr. d. RA Gregor Sülfeld | Betreibende Gläubigerin | Vollmacht + HR-Auszug |
+| 2 | Heinrich J. Albrecht | Schuldner / Miterbe 1 | Personalausweis |
+| 3 | Sofie Albrecht-Wegener (), vertr. d. RAin Dr. Claudia Mester | Schuldnerin / Miterbin 2 | Vollmacht + PA |
+| 4 | Nordhafen Immobilien UG (), vertr. d. Geschäftsführer Paul Körner | Bieterin | Vollmacht + HR-Auszug |
+| 5 | Elke Sonnenberg | Bieterin (privat) | Personalausweis |
+| 6 | BH Capital GmbH & Co. KG (), vertr. d. RA Dr. Kai Brehmer | Bieter | Vollmacht + HR-Auszug + PoA |
 
 
-Der Mieter L. Sommer (fiktiv) ist nicht erschienen.
+Der Mieter L. Sommer ist nicht erschienen.
 
 ──────────────────────────────────────────────────────────────────────
 
@@ -67,9 +67,9 @@ Nachweis der Sicherheitsleistung durch die Bieter:
 
 | Bieter | Form | Betrag | Akzeptiert |
 |---|---|---|---|
-| Nordhafen Immobilien UG (fiktiv) | Bankbürgschaft Sparkasse Hamburg (fiktiv) | 68.500,00 EUR | Ja |
-| Elke Sonnenberg (fiktiv) | Verrechnungsscheck Hamburger Volksbank (fiktiv) | 68.500,00 EUR | Ja |
-| BH Capital GmbH & Co. KG (fiktiv) | Bankbürgschaft Commerzbank AG (fiktiv) | 68.500,00 EUR | Ja |
+| Nordhafen Immobilien UG | Bankbürgschaft Sparkasse Hamburg | 68.500,00 EUR | Ja |
+| Elke Sonnenberg | Verrechnungsscheck Hamburger Volksbank | 68.500,00 EUR | Ja |
+| BH Capital GmbH & Co. KG | Bankbürgschaft Commerzbank AG | 68.500,00 EUR | Ja |
 
 
 3. Geringstes Gebot (§ 49 ZVG)
@@ -94,21 +94,21 @@ Der Biettermin beginnt um 10:38 Uhr. Es werden folgende Gebote abgegeben (Zeitst
 
 | Zeit | Bieter | Bargebot | Kumuliert |
 |---|---|---|---|
-| 10:40 | Nordhafen Immobilien UG (fiktiv) | 420.000,00 EUR | 420.000,00 EUR |
-| 10:43 | BH Capital GmbH & Co. KG (fiktiv) | 450.000,00 EUR | 450.000,00 EUR |
-| 10:46 | Elke Sonnenberg (fiktiv) | 465.000,00 EUR | 465.000,00 EUR |
-| 10:49 | Nordhafen Immobilien UG (fiktiv) | 480.000,00 EUR | 480.000,00 EUR |
-| 10:52 | BH Capital GmbH & Co. KG (fiktiv) | 495.000,00 EUR | 495.000,00 EUR |
-| 10:55 | Nordhafen Immobilien UG (fiktiv) | 505.000,00 EUR | 505.000,00 EUR |
-| 10:59 | BH Capital GmbH & Co. KG (fiktiv) | 515.000,00 EUR | 515.000,00 EUR |
-| 11:03 | Nordhafen Immobilien UG (fiktiv) | 520.000,00 EUR | 520.000,00 EUR |
-| 11:07 | BH Capital GmbH & Co. KG (fiktiv) | 522.000,00 EUR | 522.000,00 EUR |
-| 11:10 | Nordhafen Immobilien UG (fiktiv) | 524.000,00 EUR | 524.000,00 EUR |
-| 11:14 | Elke Sonnenberg (fiktiv) | 526.000,00 EUR | 526.000,00 EUR |
-| 11:16 | BH Capital GmbH & Co. KG (fiktiv) | 528.000,00 EUR | 528.000,00 EUR |
-| 11:19 | Nordhafen Immobilien UG (fiktiv) | 530.000,00 EUR | 530.000,00 EUR |
-| 11:23 | BH Capital GmbH & Co. KG (fiktiv) | 532.000,00 EUR | 532.000,00 EUR |
-| 11:25 | Nordhafen Immobilien UG (fiktiv) | 534.000,00 EUR | 534.000,00 EUR |
+| 10:40 | Nordhafen Immobilien UG | 420.000,00 EUR | 420.000,00 EUR |
+| 10:43 | BH Capital GmbH & Co. KG | 450.000,00 EUR | 450.000,00 EUR |
+| 10:46 | Elke Sonnenberg | 465.000,00 EUR | 465.000,00 EUR |
+| 10:49 | Nordhafen Immobilien UG | 480.000,00 EUR | 480.000,00 EUR |
+| 10:52 | BH Capital GmbH & Co. KG | 495.000,00 EUR | 495.000,00 EUR |
+| 10:55 | Nordhafen Immobilien UG | 505.000,00 EUR | 505.000,00 EUR |
+| 10:59 | BH Capital GmbH & Co. KG | 515.000,00 EUR | 515.000,00 EUR |
+| 11:03 | Nordhafen Immobilien UG | 520.000,00 EUR | 520.000,00 EUR |
+| 11:07 | BH Capital GmbH & Co. KG | 522.000,00 EUR | 522.000,00 EUR |
+| 11:10 | Nordhafen Immobilien UG | 524.000,00 EUR | 524.000,00 EUR |
+| 11:14 | Elke Sonnenberg | 526.000,00 EUR | 526.000,00 EUR |
+| 11:16 | BH Capital GmbH & Co. KG | 528.000,00 EUR | 528.000,00 EUR |
+| 11:19 | Nordhafen Immobilien UG | 530.000,00 EUR | 530.000,00 EUR |
+| 11:23 | BH Capital GmbH & Co. KG | 532.000,00 EUR | 532.000,00 EUR |
+| 11:25 | Nordhafen Immobilien UG | 534.000,00 EUR | 534.000,00 EUR |
 
 
 Nach 534.000,00 EUR (Nordhafen Immobilien UG, 11:25 Uhr) werden keine weiteren Gebote abgegeben. Die Rechtspflegerin wartet die gesetzliche Dreimal-Frist ab. Sie verliest das Höchstgebot dreimal und fragt nach weiteren Geboten. Keine weiteren Gebote erfolgen.
@@ -119,7 +119,7 @@ Höchstgebot:
 
 | Bieter | Bargebot |
 |---|---|
-| Nordhafen Immobilien UG (fiktiv), vertr. d. GF Paul Körner | 534.000,00 EUR |
+| Nordhafen Immobilien UG (), vertr. d. GF Paul Körner | 534.000,00 EUR |
 
 
 ──────────────────────────────────────────────────────────────────────
@@ -140,10 +140,10 @@ Der Zuschlag wird erteilt.
 
 | Feld | Inhalt |
 |---|---|
-| Zuschlag an | Nordhafen Immobilien UG (fiktiv) |
+| Zuschlag an | Nordhafen Immobilien UG |
 | Bargebot | 534.000,00 EUR |
 | Zuschlagszeit | 12:02 Uhr, 16.07.2026 |
-| Rechtspflegerin | Sabine Tönnies (fiktiv) |
+| Rechtspflegerin | Sabine Tönnies |
 
 
 Der Ersteher nimmt den Zuschlag an. Die Rechtspflegerin belehrt über die Folgen des Zuschlags (§ 91 ZVG: Übergang von Besitz, Gefahr und Nutzen auf den Ersteher; Erlöschen der Grundpfandrechte; Entstehung der Zahlungspflicht). Der gesonderte Zuschlagsbeschluss wird zugestellt.
@@ -152,17 +152,15 @@ Der Ersteher nimmt den Zuschlag an. Die Rechtspflegerin belehrt über die Folgen
 
 VII. Protokollschluss
 
-Das Protokoll wird von der Urkundsbeamtin Petra Lüthje (fiktiv) verlesen. Die Rechtspflegerin Sabine Tönnies (fiktiv) genehmigt das Protokoll. Der Termin endet um 12:47 Uhr.
+Das Protokoll wird von der Urkundsbeamtin Petra Lüthje verlesen. Die Rechtspflegerin Sabine Tönnies genehmigt das Protokoll. Der Termin endet um 12:47 Uhr.
 
 
 Hamburg, 16.07.2026
 
 
-| Sabine Tönnies (fiktiv) | Petra Lüthje (fiktiv) |
+| Sabine Tönnies | Petra Lüthje |
 |---|---|
 | Rechtspflegerin | Urkundsbeamtin der Geschäftsstelle |
 
 
 ──────────────────────────────────────────────────────────────────────
-
-Fiktives Dokument für Übungszwecke. Alle Personen, Daten und Aktenzeichen sind erfunden.

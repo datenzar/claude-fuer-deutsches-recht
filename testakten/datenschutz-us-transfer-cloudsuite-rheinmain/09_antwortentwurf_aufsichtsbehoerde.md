@@ -1,6 +1,5 @@
 # Antwortentwurf an die Datenschutzaufsicht
 
-**Fiktiver Entwurf zur Testakte**
 
 RheinMain Präzisionstechnik GmbH
 Hanauer Landstraße 188

@@ -49,7 +49,7 @@ Die geringfuegige Beschaeftigung ("Minijob") ist seit 01.10.2022 dynamisch an de
 - Stand 01.01.2025: 556 EUR/Monat (MiLo 12,82 EUR; § 8 Abs. 1a SGB IV).
 - Stand 01.01.2026: 603 EUR/Monat (MiLo 13,90 EUR; MiLoV5 vom 05.11.2025, BGBl. 2025 I Nr. 268; bestaetigt durch Minijob-Zentrale, Jahresgrenze 7.236 EUR).
 - Voraussichtlich 01.01.2027: 633 EUR/Monat (MiLo 14,60 EUR; MiLoV5).
-- Sonderzahlungen (Weihnachts-, Urlaubsgeld): bei regelmaessigem Anspruch JAHRES-Durchschnitt bilden, sonst Grenzverletzung.
+- Sonderzahlungen (Weihnachts-, Urlaubsgeld): bei regelmäßigem Anspruch JAHRES-Durchschnitt bilden, sonst Grenzverletzung.
 - Mehrfacher Minijob mehrerer AG: Summe pruefen.
 
 ### Phase 2 — Pauschalabgaben AG

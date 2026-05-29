@@ -53,9 +53,9 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 ## Testakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen`. Sie wird im Release als `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/verkehr-infrastrukturrecht-strassenbahn-ladezonen`. Sie wird im Release als `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [verkehr-infrastrukturrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/verkehr-infrastrukturrecht.zip)
-- Testakte: [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip)
+- Akte: [testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip)

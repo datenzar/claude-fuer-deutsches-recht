@@ -1,12 +1,12 @@
-# Testakte Selbstvertreter Amtsgericht — Küchentisch Kaufpreis
+# Akte Selbstvertreter Amtsgericht — Küchentisch Kaufpreis
 
-Fiktive Testakte für das Plugin `selbstvertreter-amtsgericht`. Mittlerer Schwierigkeitsgrad, mehrschichtig: Werk- oder Kaufvertrag, AGB mit unwirksamen Klauseln, Selbstvertreter-Klageentwurf mit typischen Schwächen, privat eingeholte Voreinschätzung eines Tischlermeisters, PKH-Frage, Mahn-Bescheid-Gefahr und Internet-Rechercheverwirrung.
+Arbeitsakte für das Plugin `selbstvertreter-amtsgericht`. Mittlerer Schwierigkeitsgrad, mehrschichtig: Werk- oder Kaufvertrag, AGB mit unwirksamen Klauseln, Selbstvertreter-Klageentwurf mit typischen Schwächen, privat eingeholte Voreinschätzung eines Tischlermeisters, PKH-Frage, Mahn-Bescheid-Gefahr und Internet-Rechercheverwirrung.
 
 ## Kurzbild
 
 Mara Hohenstaufen, freiberufliche Übersetzerin aus Hannover, hat bei der Tischlerei Braun & Sohn GbR einen Küchentisch nach Maß bestellt. Vereinbart waren 1.240 EUR brutto, davon 620 EUR Anzahlung. Der Tisch wurde gut zweieinhalb Wochen verspätet geliefert, wackelt sichtbar (drei der vier Stahlkufen tragen, die vierte ist um etwa 3 mm zu kurz), hat zwei aufgequollene Stellen auf der Tischplatte und eine ungleichmäßige Kantenrundung. Die Tischlerei verweist auf "normales Arbeiten von Massivholz" und einen AGB-Ausschluss der Rücknahme bei Maßmöbeln, verlangt den Restkaufpreis und droht mit Inkasso. Frau Hohenstaufen hat per Messenger und per E-Mail Mangel angezeigt, eine Nachbesserungsfrist bis 12. Mai 2026 gesetzt, danach den Rücktritt erklärt. Ein befreundeter Tischlermeister hat den Tisch privat angesehen und drei nachweisbare Fertigungsfehler dokumentiert. Frau Hohenstaufen will ohne Anwalt klagen, hat einen Roh-Entwurf einer Klage gebaut und steht vor der Frage Hauptantrag/Hilfsantrag, Streitwert, Zug-um-Zug-Konstruktion, PKH, vereinfachtes Verfahren nach § 495a ZPO.
 
-## Lernziele
+## Prüffokuse
 
 - Werkvertrag oder Kaufvertrag sauber einordnen.
 - Nacherfüllungsverlangen, Fristsetzung, Rücktritt sauber unterscheiden — und die typische Selbstvertreter-Vermischung erkennen.
@@ -52,5 +52,3 @@ Mara Hohenstaufen, freiberufliche Übersetzerin aus Hannover, hat bei der Tischl
 6. `beweismittel-vorab-sammeln-checkliste`
 7. PKH-Vorbereitung
 8. `sanity-check-selbstvertretung-amtsgericht`
-
-Alle Namen, Beträge, Aktenzeichen und Adressen sind frei erfunden.

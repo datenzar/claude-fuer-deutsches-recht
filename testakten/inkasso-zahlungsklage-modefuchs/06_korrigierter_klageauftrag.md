@@ -6,7 +6,7 @@
 Der Beklagte wird verurteilt, an die Klägerin 698,00 EUR nebst Zinsen zu zahlen.
 ```
 
-Dieser Antrag ist in der Testakte falsch, weil die Hauptforderung vor Klageeinreichung erfüllt wurde.
+Dieser Antrag ist in der Akte falsch, weil die Hauptforderung vor Klageeinreichung erfüllt wurde.
 
 ## Nur nach Freigabe denkbarer Antrag
 

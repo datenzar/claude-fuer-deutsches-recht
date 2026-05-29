@@ -77,6 +77,5 @@ Validierungsprogramm: KoSIT Validator (https://www.xrechnung.de) — noch nicht 
 
 ## Hinweis Testbetrieb
 
-Diese Protokolldatei dokumentiert Testdaten. R-2026-0007 ist keine echte Rechnung; alle Beträge, Adressen und Aktenzeichen sind frei erfunden. Die GoBD-Systematik ist realitätsnah abgebildet zum Zweck der Schulung und Systemdemonstration.
 
 *Erstellt: 20.05.2026 — Kanzlei Jana Reuter, Lindenstraße 14, 10969 Berlin*

@@ -1,9 +1,9 @@
 # Deal Briefing — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Datum:** 14. Oktober 2024  
-**Verfasser:** Dr. Markus Weidemann, Partner (Corporate/M&A)  
-**Adressat:** Deal Team Silberfalke  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Datum:** 14. Oktober 2024
+**Verfasser:** Dr. Markus Weidemann, Partner (Corporate/M&A)
+**Adressat:** Deal Team Silberfalke
 **Klassifizierung:** Streng vertraulich — nur Mandanten-Team
 
 ---
@@ -109,5 +109,3 @@ Eagle Capital Partners hat signalisiert, W&I-Versicherung nutzen zu wollen. Der 
 - [ ] Strukturgutachten Varianten A/B/C für Tax-Team vorbereiten (08_structure_umwandlung_tax)
 
 ---
-
-*Alle in diesem Briefing genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

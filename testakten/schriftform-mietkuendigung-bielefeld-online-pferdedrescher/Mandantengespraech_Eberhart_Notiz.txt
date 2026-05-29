@@ -40,7 +40,7 @@ MANDANT-WUNSCH:
 - "Aber ich will auch, dass dieses rechtliche Argument zum BGH kommt. Das ist wichtig!"
 - "Koennen wir nicht einfach sagen: Kuendigung unwirksam, ich zahle den Rest, Thema erledigt?"
   --> Erklaert: Das ist der optimale Ausgang, aber Klaegerin koennte erneut wirksam kuendigen.
-  
+
 RECHTLICHE ERSTEINSCHAETZUNG (vorlaeufig!):
 - § 568 Abs. 1 BGB: Schriftform erforderlich
 - WhatsApp-Sprachnachricht: eindeutig unwirksam
@@ -69,5 +69,4 @@ Ggf. Presseanfragen vorbereiten wenn Fall oeffentlich wird.
 "BGH hat Recht gegeben -- Nov. 2024! Mandant wollte partout Mietrecht-YouTuber werden. 😄"
 
 ======================================================
-■ FIKTIVE TESTAKTE -- Alle Personen und Daten sind erfunden.
 Erstellt fuer Plugin schriftform-und-textform-bgb

@@ -143,7 +143,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 ## Worum geht es?
 
-Das Plugin unterstuetzt Kanzleien und Rechtsabteilungen bei der Erstellung, Anpassung und regelmaessigen Aktualisierung einer berufsrechtskonformen KI-Nutzungsrichtlinie. Eine solche Richtlinie ist seit Inkrafttreten der KI-Kompetenz-Pflicht nach Art. 4 KI-VO (2. Februar 2025) und angesichts zunehmender KI-Nutzung in anwaltlichen Workflows keine Kuer mehr, sondern ein berufsrechtliches Erfordernis.
+Das Plugin unterstuetzt Kanzleien und Rechtsabteilungen bei der Erstellung, Anpassung und regelmäßigen Aktualisierung einer berufsrechtskonformen KI-Nutzungsrichtlinie. Eine solche Richtlinie ist seit Inkrafttreten der KI-Kompetenz-Pflicht nach Art. 4 KI-VO (2. Februar 2025) und angesichts zunehmender KI-Nutzung in anwaltlichen Workflows keine Kuer mehr, sondern ein berufsrechtliches Erfordernis.
 
 Das Plugin verbindet DSGVO-Anforderungen, berufsrechtliche Vorgaben aus BRAO und BORA, die neuen Pflichten aus dem EU AI Act sowie die aktuellen Hinweise von BRAK und DAV zu einer praxistauglichen Richtlinienstruktur. Es richtet sich an Kanzleiinhaber, Compliance-Verantwortliche und Datenschutzbeauftragte.
 

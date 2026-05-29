@@ -1,20 +1,13 @@
-# Testakte: Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH
+# Akte: Markenrecht – klôtzzkètté S.A. ./. Brezelmann Discount KG & Donauzon Marketplace GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon` (diese Akte) | [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
+| `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon` (Akte) | [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Hinweis: Alle Personen, Firmen, Marken, Aktenzeichen, Behördenentscheidungen, Geldbeträge,
-> Adressen, Telefonnummern, Kontonummern, E-Mail-Adressen und sonstigen Daten in dieser Akte
-> sind vollständig fiktiv und dienen ausschließlich als Testmaterial für das Plugin
-> `markenrecht-fashion-luxus`. Jede Ähnlichkeit mit realen Personen, Unternehmen oder
-> Ereignissen ist zufällig und unbeabsichtigt. Die dargestellten Rechtsstreitigkeiten
-> existieren nicht.**
 
 ---
 
@@ -144,7 +137,7 @@ Koordination: P. Forsythe-Vanderhof
 
 ---
 
-## Was lernt man hier? – Lernziele für das Plugin `markenrecht-fashion-luxus`
+## Prüffokus für das Plugin `markenrecht-fashion-luxus`
 
 ### 1. Markenrechtliche Grundlagenanalyse aus heterogenem Aktendossier
 
@@ -216,5 +209,3 @@ Aus Notiz, WhatsApp und E-Mail-Kette soll der Skill erkennen:
 - **`legal/contract-review`** — Für Prüfung des Engagement Letters (Whitman Brennan) und der Mandatsbedingungen Steinacker Lichtenberg.
 
 ---
-
-*Alle Daten in dieser Akte sind fiktiv (Testakte für Plugin `markenrecht-fashion-luxus`, erstellt Mai 2026). Die Kanzleien Steinacker Lichtenberg & Partners IP Boutique und Whitman Brennan Forsythe LLP existieren nicht. Die Maison klôtzzkètté S.A. existiert nicht. Comtesse Béatrice de Klôtzzkètté-Visconti existiert nicht. Sämtliche Aktenzeichen, Markenregisternummern, IBAN, Telefon- und Faxnummern, Entscheidungen und Verfahren sind erfunden.*

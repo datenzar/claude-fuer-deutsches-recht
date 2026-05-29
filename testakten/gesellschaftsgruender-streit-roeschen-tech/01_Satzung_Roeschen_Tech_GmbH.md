@@ -170,5 +170,3 @@ Berlin, den 15.11.2025
 Gegruendet beurkundet vor Notar Dr. Wolfgang Sturm, Berlin, Az. UR-Nr. 1245/2025
 
 ---
-
-*Diese Satzung ist eine fiktive Schulungsvorlage. Alle Personen und Firmen sind frei erfunden.*

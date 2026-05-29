@@ -1,18 +1,13 @@
-# Testakte: Fluggastrechte – Familie Bräutigam-Zaytuna
+# Akte: Fluggastrechte – Familie Bräutigam-Zaytuna
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-fluggastrechte-familie-braeutigam` (diese Akte) | [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
+| `testakte-fluggastrechte-familie-braeutigam` (Akte) | [testakte-fluggastrechte-familie-braeutigam.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fluggastrechte-familie-braeutigam.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Hinweis: Alle Personen, Flüge, Buchungsnummern, Adressen, IBANs, Telefonnummern und
-> sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
-> Testmaterial für das Plugin `fluggastrechte`. Jede Ähnlichkeit mit realen Personen
-> oder Ereignissen ist zufällig und unbeabsichtigt.**
 
 ---
 
@@ -33,7 +28,7 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 ### Buchung
 
 - **Buchungsnummer:** PSA-XK4LB7
-- **Airline:** Pacific Sky Airways (fiktiv), IATA-Code PSA
+- **Airline:** Pacific Sky Airways (), IATA-Code PSA
 - **Buchungsportal:** fluege-direkt.de, 14.11.2025
 - **Gesamtpreis:** 4.847,32 EUR (5 Personen, Hin- und Rückflug Economy, Reihe 32)
 
@@ -132,7 +127,7 @@ Vollmacht beider Sorgeberechtigter für die minderjährigen Kinder) verzögert.
 
 ---
 
-## Was lernt man hier? – Lernziele für das Plugin `fluggastrechte`
+## Prüffokus für das Plugin `fluggastrechte`
 
 ### 1. Rechtliche Analyse aus unstrukturierten Unterlagen
 
@@ -197,6 +192,6 @@ Druck, aber söp-Schlichtung zeitnah empfehlen.
 
 ---
 
-*Alle Daten in dieser Akte sind fiktiv (Testakte, erstellt 20.05.2026). Pacific Sky
+*Alle Daten in dieser Akte sind (Akte, erstellt 20.05.2026). Pacific Sky
 Airways existiert nicht. Familie Bräutigam-Zaytuna existiert nicht. Buchungsnummer
-PSA-XK4LB7 ist erfunden.*
+PSA-XK4LB7 ist anonymisiert.*

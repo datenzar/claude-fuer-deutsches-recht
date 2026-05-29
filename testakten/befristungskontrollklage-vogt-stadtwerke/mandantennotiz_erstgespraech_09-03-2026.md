@@ -1,11 +1,11 @@
 # Mandantennotiz – Erstgespräch 09. März 2026
 
-> **Kanzlei:** [Kanzleiname], [Adresse]  
-> **Aktenzeichen:** VGT/2026/0309-ARB  
-> **Datum:** 09. März 2026, 14:30 Uhr  
-> **Dauer:** ca. 55 Minuten  
-> **Bearbeiterin:** RA'in [H. Dressel]  
-> **Mandantin:** Lena Vogt, Erkstraße 48, 12043 Berlin, geb. [12.09.1993]  
+> **Kanzlei:** [Kanzleiname], [Adresse]
+> **Aktenzeichen:** VGT/2026/0309-ARB
+> **Datum:** 09. März 2026, 14:30 Uhr
+> **Dauer:** ca. 55 Minuten
+> **Bearbeiterin:** RA'in [H. Dressel]
+> **Mandantin:** Lena Vogt, Erkstraße 48, 12043 Berlin, geb. [12.09.1993]
 > **Kontakt:** [lena.vogt@privat.de], [0151 – XX XX XX XX]
 
 ---
@@ -109,7 +109,7 @@ Hilfsargument vertretbar, aber kein Hauptstreitpunkt.
 
 ---
 
-## 5. Nächste Schritte / TODO
+## 5. Nächste Schritte / Offen
 
 - [x] Vollmacht heute unterzeichnet (Original liegt bei Akte)
 - [ ] **Klageschrift sofort erstellen**, Einreichung beim ArbG Berlin (Magdeburger Platz 1,

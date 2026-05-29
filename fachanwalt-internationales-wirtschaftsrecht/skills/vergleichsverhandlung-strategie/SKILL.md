@@ -179,7 +179,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 Bevor losgelegt wird, klaere:
 1. Wie gross ist der ZOPA realistisch — welches BATNA hat jede Partei in diesem grenzueberschreitenden Streit?
 2. Soll der Vergleich vollstreckbar sein — Anwaltsvergleich § 796a ZPO, Prozessvergleich, oder Schiedsvergleich?
-3. Gilt international eine besondere Zustimmungsanforderung — Vollmacht der auslaendischen Partei ausreichend?
+3. Gilt international eine besondere Zustimmungsanforderung — Vollmacht der ausländischen Partei ausreichend?
 4. Steuerliche Behandlung der Vergleichszahlung — Schadensersatz (umsatzsteuerfrei), Honorar (USt), Lohn (LSt)?
 5. Vertraulichkeitsklausel gewunscht — setzt schriftliche NDA im Vergleich voraus?
 

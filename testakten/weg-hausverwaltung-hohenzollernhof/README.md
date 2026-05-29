@@ -1,6 +1,6 @@
-# Testakte: WEG Hohenzollernhof — Hausverwaltung unter Druck
+# Akte: WEG Hohenzollernhof — Hausverwaltung unter Druck
 
-Fiktive Testakte fuer das Plugin `weg-hausverwaltung`. Stand: 27.05.2026 (vor Eigentuemerversammlung am 17.06.2026).
+Arbeitsakte für das Plugin `weg-hausverwaltung`. Stand: 27.05.2026 (vor Eigentuemerversammlung am 17.06.2026).
 
 Die Akte simuliert eine **realistische Berliner Mittel-WEG** mit 38 Wohnungen und 2 Gewerbeeinheiten am Hohenzollerndamm 180. Sie ist bewusst **unordentlich** und enthaelt **mehrere Fehlerquellen** (CO2-Aufteilung versaeumt, formal angreifbare Beschlussvorlagen, schlechter Verteilungsschluessel bei der geplanten Sonderumlage, Hausgeldrueckstand mit verspaeteten Mahnungen).
 
@@ -41,7 +41,7 @@ Die Akte simuliert eine **realistische Berliner Mittel-WEG** mit 38 Wohnungen un
 
 ## Verwendung mit den Skills
 
-Diese Akte ist ideal, um die folgenden Skills aus `weg-hausverwaltung` zu testen:
+Diese Akte ist ideal, um die folgenden Skills aus `weg-hausverwaltung` anzuwenden:
 
 - `eigentuemerversammlung-vorbereiten` (Einladung Frist 27.05.2026!)
 - `einladung-tagesordnung-fristen` (3-Wochen-Frist § 24 IV WEG)
@@ -62,7 +62,7 @@ Diese Akte ist ideal, um die folgenden Skills aus `weg-hausverwaltung` zu testen
 
 ## Ziel
 
-Die Akte ist **ohne Musterloesung** zu nutzen. Gute Tests:
+Die Akte ist **ohne vorgefertigte Loesung** zu nutzen. Gute Tests:
 
 - **Eigentuemerversammlung vollstaendig vorbereiten** (Einladung formgerecht, Beschlussvorlagen anfechtungssicher).
 - **Anfechtungs-Risiko** der vorbereiteten Beschluesse bewerten.
@@ -74,5 +74,3 @@ Die Akte ist **ohne Musterloesung** zu nutzen. Gute Tests:
 - **Anwaltsschreiben Mautz** angemessen beantworten.
 
 ## Realismus
-
-Die Akte ist **frei erfunden**. Namen, Adressen, Aktenzeichen, Polizei-Nummern, Bankverbindungen sind erfunden und gehoeren niemandem zu. Hohenzollerndamm 180 existiert in Berlin als gewoehnliches Wohnhaus; jegliche Aehnlichkeit mit der dortigen WEG ist unbeabsichtigt.

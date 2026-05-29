@@ -26,10 +26,10 @@ Alternativ via Marketplace:
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
 
-## Testakten
+## Arbeitsakten
 
 - **Solis Vision X Smartglasses** (Produkthaftung und DSGVO bei smarter Brille, AG/LG-Zivil): [testakten/solis-vision-x-smartglasses/](../testakten/solis-vision-x-smartglasses/) -> [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip)
-- **Schulungsakte Lumen Studios** (Insolvenz- und strafrechtliche Schnittstelle): [testakten/schulungsakte-lumen-studios-insolvenz-strafrecht/](../testakten/schulungsakte-lumen-studios-insolvenz-strafrecht/) -> [testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulungsakte-lumen-studios-insolvenz-strafrecht.zip)
+- **LUMEN Studios** (Insolvenz- und strafrechtliche Schnittstelle): [testakten/lumen-studios-insolvenz-strafverfahren/](../testakten/lumen-studios-insolvenz-strafverfahren/) -> [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip)
 
 ## Skill-Landkarte
 

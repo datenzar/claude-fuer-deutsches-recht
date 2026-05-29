@@ -1,15 +1,15 @@
-# Testakte Geldwäscheprävention, AML und KYC: Musterholding GmbH
+# Akte Geldwäscheprävention, AML und KYC: Musterholding GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-geldwaesche-aml-kyc-musterholding` (diese Akte) | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
+| `testakte-geldwaesche-aml-kyc-musterholding` (Akte) | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Testakte für ein mittelständisches Konglomerat mit internationalem Vertrieb, das als Verpflichteter nach dem Geldwäschegesetz (GwG) eingestuft ist. Die Akte zeigt den vollständigen Compliance-Zyklus: Risikoanalyse, KYC-Prüfung, UBO-Ermittlung, PEP/Sanktionsscreening, Transaktionsmonitoring, Verdachtsmeldung an die FIU, Behördenkommunikation, Mitarbeiterschulung, internes Audit und Krisenkommunikation.
+Arbeitsakte für ein mittelständisches Konglomerat mit internationalem Vertrieb, das als Verpflichteter nach dem Geldwäschegesetz (GwG) eingestuft ist. Die Akte zeigt den vollständigen Compliance-Zyklus: Risikoanalyse, KYC-Prüfung, UBO-Ermittlung, PEP/Sanktionsscreening, Transaktionsmonitoring, Verdachtsmeldung an die FIU, Behördenkommunikation, Mitarbeiterschulung, internes Audit und Krisenkommunikation.
 
 ---
 
@@ -92,7 +92,7 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Zeitachse, Dateitabelle, Lernziel, Disclaimer |
+| [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Zeitachse, Dateitabelle und Prüffokus |
 | [Fall_Uebersicht_Onepager.pdf](Fall_Uebersicht_Onepager.pdf) | One-Pager mit Stammdaten, Eckdaten und Beteiligten (Druckversion) |
 | [Fall_Uebersicht_Onepager.png](Fall_Uebersicht_Onepager.png) | One-Pager als PNG (Bildschirmversion) |
 | [Fall_Zeitstrahl_AML_Musterholding.pdf](Fall_Zeitstrahl_AML_Musterholding.pdf) | Zeitstrahl der Ereignisse 07.04.–28.05.2026 (Druckversion) |
@@ -141,9 +141,9 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte vermittelt den vollständigen Compliance-Workflow nach dem deutschen Geldwäschegesetz (GwG) in einem mittelständischen Unternehmen:
+Diese Akte vermittelt den vollständigen Compliance-Workflow nach dem deutschen Geldwäschegesetz (GwG) in einem mittelständischen Unternehmen:
 
 1. **Verpflichtetenstatus** — Wie ermittelt ein Unternehmen, ob und nach welchem Tatbestand des § 2 GwG es verpflichtet ist, und welche Sicherungspflichten gem. §§ 4–17 GwG daraus folgen.
 2. **Risikoanalyse** — Aufbau einer GwG-konformen Risikoanalyse (§ 5 GwG) mit Risikokategorien, Risikomatrix und Freigabeprozess.
@@ -160,5 +160,3 @@ Diese Testakte vermittelt den vollständigen Compliance-Workflow nach dem deutsc
 ---
 
 ## Disclaimer
-
-**Diese Akte ist vollständig fiktiv.** Alle genannten Unternehmen, Personen, Aktenzeichen, Kontonummern und Adressen sind frei erfunden. Ähnlichkeiten mit tatsächlich existierenden Unternehmen oder Personen sind unbeabsichtigt und zufällig. Die Akte dient ausschließlich Schulungs- und Demonstrationszwecken im Kontext der Ausbildung juristischer und compliance-bezogener Fachkräfte. Sie ersetzt keine individuelle Rechtsberatung. Die dargestellten Sachverhalte, Bewertungen und Entscheidungen geben keine Rechtsauffassung einer Kanzlei oder Behörde wieder.

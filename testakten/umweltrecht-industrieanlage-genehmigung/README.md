@@ -1,15 +1,15 @@
-# Testakte Umweltrecht: Industrieanlage — Genehmigung, Emissionshandel, Altlast und Transaktion
+# Akte Umweltrecht: Industrieanlage — Genehmigung, Emissionshandel, Altlast und Transaktion
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-umweltrecht-industrieanlage-genehmigung` (diese Akte) | [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip) |
+| `testakte-umweltrecht-industrieanlage-genehmigung` (Akte) | [testakte-umweltrecht-industrieanlage-genehmigung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-umweltrecht-industrieanlage-genehmigung.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Lehrakte über einen komplexen umweltrechtlichen Beratungsfall rund um die geplante Erweiterung einer Spezialchemie-Anlage in Nordrhein-Westfalen. Die Akte deckt das gesamte Spektrum des modernen betrieblichen Umweltrechts ab: Immissionsschutz, Emissionshandel, Wasserrecht, Bodenschutz, Naturschutz, Ordnungswidrigkeiten und umweltrechtliche Due Diligence bei einem Unternehmensverkauf.
+Arbeitsakte über einen komplexen umweltrechtlichen Beratungsfall rund um die geplante Erweiterung einer Spezialchemie-Anlage in Nordrhein-Westfalen. Die Akte deckt das gesamte Spektrum des modernen betrieblichen Umweltrechts ab: Immissionsschutz, Emissionshandel, Wasserrecht, Bodenschutz, Naturschutz, Ordnungswidrigkeiten und umweltrechtliche Due Diligence bei einem Unternehmensverkauf.
 
 ---
 
@@ -29,18 +29,18 @@ Schließlich prüft ein Investor die Übernahme von Gesellschaftsanteilen an der
 
 | Merkmal | Wert |
 |---|---|
-| Betreiberin | Rheinland Spezialchemie GmbH (fiktiv) |
-| Standort | Industriestraße 47, 50389 Wesseling (NRW) — fiktive Adresse |
+| Betreiberin | Rheinland Spezialchemie GmbH |
+| Standort | Industriestraße 47, 50389 Wesseling (NRW) — Aktenadresse |
 | Anlagentyp | Feinchemikalienproduktion (Chlorbenzaldehyd-Derivate), Batch-Verfahren |
 | BImSchG-Kategorie | Nr. 4.1.1 Anhang 1 4. BImSchV, IED-Anlage |
 | Zuständige Behörde | Bezirksregierung Köln, Abt. 6 (Immissionsschutz) |
-| Genehmigungszeichen (Bestand) | BR-K/6-52.4/2019-014 (fiktiv) |
-| Genehmigungszeichen (Änderungsanzeige) | BR-K/6-52.4/2026-031 (fiktiv) |
-| TEHG-Anlage-ID | DE-RS-GmbH-0047-2021 (fiktiv) |
-| OWi-Verfahren | BR-K/6-OWi-2026-0087 (fiktiv) |
-| Geschäftsführung RS GmbH | Dr. Markus Haverkamp (technisch), Sandra Vielhaber (kaufmännisch) — fiktiv |
-| Beratende Kanzlei | Rosengart & Partner, Köln (fiktiv) |
-| UIG-Antragstellerin | Rheinischer Umweltschutzverein e.V. (fiktiv) |
+| Genehmigungszeichen (Bestand) | BR-K/6-52.4/2019-014 |
+| Genehmigungszeichen (Änderungsanzeige) | BR-K/6-52.4/2026-031 |
+| TEHG-Anlage-ID | DE-RS-GmbH-0047-2021 |
+| OWi-Verfahren | BR-K/6-OWi-2026-0087 |
+| Geschäftsführung RS GmbH | Dr. Markus Haverkamp (technisch), Sandra Vielhaber (kaufmännisch)  |
+| Beratende Kanzlei | Rosengart & Partner, Köln |
+| UIG-Antragstellerin | Rheinischer Umweltschutzverein e.V. |
 
 ### Zeitleiste
 
@@ -86,7 +86,7 @@ Schließlich prüft ein Investor die Übernahme von Gesellschaftsanteilen an der
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 Diese Akte vermittelt typische Querschnittsthemen des **betrieblichen Umweltrechts** in Deutschland, die in der Beratungspraxis häufig gleichzeitig auftreten:
 
@@ -101,10 +101,8 @@ Diese Akte vermittelt typische Querschnittsthemen des **betrieblichen Umweltrech
 
 ---
 
-## Disclaimer
+## Aktenhinweis
 
-Diese Akte ist ein **fiktives Lehr- und Übungsmaterial**. Alle Personen, Unternehmen, Adressen, Aktenzeichen, Messdaten und behördlichen Entscheidungen sind erfunden und dienen ausschließlich der Illustration rechtlicher Strukturen. Jede Ähnlichkeit mit realen Personen oder Unternehmen ist unbeabsichtigt und rein zufällig.
-
-Die Akte ersetzt **keine Rechtsberatung**. Für konkrete rechtliche Fragen wenden Sie sich an eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt mit Spezialisierung im Umwelt- und Planungsrecht.
+Personenbezogene Angaben, Adressen und Kontaktdaten sind anonymisiert; die rechtliche Arbeit richtet sich nach den in der Akte dokumentierten Unterlagen.
 
 Erstellt von: Klotzkette / 39582916+Klotzkette@users.noreply.github.com

@@ -1,17 +1,17 @@
-# Testakte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen
+# Akte Energierecht: Stadtwerke Klotzkette AG – Quartier Hafenbogen
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-energierecht-stadtwerke-quartier` (diese Akte) | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
+| `testakte-energierecht-stadtwerke-quartier` (Akte) | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Aktenzeichen:** SWK/ENR/2024-047  
-**Mandant:** Stadtwerke Klotzkette AG, Bahnhofstraße 12, 59348 Lüdinghausen  
-**Bearbeitung:** Kanzlei Bernauer & Partnerinnen, Energierechtliche Beratung  
+**Aktenzeichen:** SWK/ENR/2024-047
+**Mandant:** Stadtwerke Klotzkette AG, Bahnhofstraße 12, 59348 Lüdinghausen
+**Bearbeitung:** Kanzlei Bernauer & Partnerinnen, Energierechtliche Beratung
 **Stand:** Juni 2026
 
 ---
@@ -119,15 +119,15 @@ Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) sol
 | [07_verfahren/bnetza_stellungnahme_waermeleitung.md](07_verfahren/bnetza_stellungnahme_waermeleitung.md) | Stellungnahme SWKK / Kanzlei an BNetzA (Antwort auf Bescheid) |
 | [08_finanzierung/ppa_projektfinanzierung_check.md](08_finanzierung/ppa_projektfinanzierung_check.md) | Bankability-Checkliste + PPA-Prüfung |
 | [08_finanzierung/foerderantrag_kfw_442.md](08_finanzierung/foerderantrag_kfw_442.md) | Förderantrag KfW-Programm 442 (Klimafreundlicher Neubau – Kommunen) |
-| [08_finanzierung/foerderbewilligung_kfw_442.md](08_finanzierung/foerderbewilligung_kfw_442.md) | Bewilligungsbescheid KfW-Programm 442 (fiktiv) |
+| [08_finanzierung/foerderbewilligung_kfw_442.md](08_finanzierung/foerderbewilligung_kfw_442.md) | Bewilligungsbescheid KfW-Programm 442 |
 | [09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.md](09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.md) | Wirtschaftlichkeitsrechnung (Übersicht, Annahmen, Ergebnis) |
 | [09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.xlsx](09_wirtschaftlichkeit/wirtschaftlichkeitsrechnung_hafenbogen.xlsx) | XLSX-Wirtschaftlichkeitsmodell (Investition, Erlöse, Kosten, NPV, IRR) |
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Testakte demonstriert die typische **energierechtliche Beratungspraxis** bei einem kommunalen Quartiers­entwicklungsprojekt. Sie deckt folgende Rechtsgebiete und Praxisfragen ab:
+Diese Akte zeigt die typische **energierechtliche Beratungspraxis** bei einem kommunalen Quartiers­entwicklungsprojekt. Sie deckt folgende Rechtsgebiete und Praxisfragen ab:
 
 - **Netzanschlussrecht (§§ 17 f. EnWG):** Anschluss­begehren, Angebotspflicht des Netzbetreibers, Fristen, Sonder­konstellation Kundenanlage vs. Geschlossenes Verteiler­netz (§ 110 EnWG).
 - **EEG 2023 / Mieterstrom:** Anforderungen an Mieterstrom­zuschlag (§ 21 Abs. 3 EEG), Messkonzept, Liefer­ketten, Bilanz­kreisverantwortung, Abgrenzung Netz­einspeisung.
@@ -142,5 +142,3 @@ Diese Testakte demonstriert die typische **energierechtliche Beratungspraxis** b
 ---
 
 ## Disclaimer
-
-Diese Akte ist ausschließlich zu Demonstrations- und Ausbildungs­zwecken erstellt. Sämtliche Personen, Unternehmen, Adressen, Aktenzeichen, Vertrags­daten und Zahlen­werte sind **frei erfunden**. Ähnlichkeiten mit realen Personen oder Unternehmen sind zufällig und nicht beabsichtigt. Die Dokumente ersetzen keine Rechts­beratung und stellen keine Rechts­auskunft dar. Für konkrete energierechtliche Fragen ist stets qualifizierte anwaltliche Beratung einzuholen. Die abgebildeten Vertrags­muster entsprechen dem Stand Sommer 2026 und können durch spätere Rechts­änderungen überholt sein.

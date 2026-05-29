@@ -1,8 +1,8 @@
-# Simulierter Handelsregisterabruf: Alpha UG
+# Handelsregisterabruf Arbeitsauszug: Alpha UG
 
 ## Hinweis
 
-Diese Datei ist vollständig fiktiv. Sie simuliert, wie das Plugin einen Abruf aus offiziellen Registerquellen dokumentieren soll. Für echte Vorgänge müssen die offiziellen Registerseiten genutzt werden.
+Diese Datei ist vollständig . Sie simuliert, wie das Plugin einen Abruf aus offiziellen Registerquellen dokumentieren soll. Für echte Vorgänge müssen die offiziellen Registerseiten genutzt werden.
 
 ## Abrufprotokoll
 

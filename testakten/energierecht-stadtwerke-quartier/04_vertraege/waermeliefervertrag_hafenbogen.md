@@ -1,6 +1,5 @@
 # Wärmeliefervertrag — Volltext
 
-> Vollständiger Mustervertrag — passt für die Testakte des `energierecht`-Plugin. Vertrag dient der Demonstration aller relevanten Regelungspunkte (Preisformel, AVBFernwärmeV-Bezug, Sonderkündigungs-Rechte, Anschluss-Pflicht).
 
 ---
 

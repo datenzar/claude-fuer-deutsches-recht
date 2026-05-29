@@ -63,7 +63,7 @@ Der Einstieg fragt schnell ab: exakter Wortlaut, Medium, Publikum, Anlass, Vorge
 
 Die Testakte [`meinungspruefer-grenzfaelle-alltag`](../testakten/meinungspruefer-grenzfaelle-alltag/) enthält mehrere lebensnahe Grenzfälle ohne parteipolitische Zuspitzung: ein X-Post über ein Bauprojekt, ein LinkedIn-Kommentar über Projektleitung, ein Kantinengespräch im Betrieb, ein Elternchat zur Schulleitung, eine kommunale Bürgerversammlung mit dem Begriff "Lackaffe", ein Pinocchio-Vergleich, eine unsaubere Tatsachenbehauptung mit lückenhafter Beleglage und eine interne Notiz zum USA-Vergleich.
 
-Direkt-Download der Testakte: [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip)
+Direkt-Download der Akte: [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip)
 
 ## Quellenstand
 

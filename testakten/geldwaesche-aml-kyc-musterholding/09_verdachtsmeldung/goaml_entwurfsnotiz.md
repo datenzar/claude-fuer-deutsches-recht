@@ -1,12 +1,12 @@
 # Verdachtsmeldung an FIU – VM-MH-2026-0041 (Vollständiges SAR-Formular)
 
-**Meldungs-Nr. (intern):** VM-MH-2026-0041  
-**goAML-Referenz:** Eingereicht 19.05.2026, 11:34 Uhr MESZ  
-**goAML-Eingangsbestätigung:** 19.05.2026, 11:41 Uhr (automatische Bestätigung goAML-Portal)  
-**Meldepflichtiger:** Musterholding GmbH, Gutleutstraße 44, 60329 Frankfurt am Main  
-**Geldwäschebeauftragter:** Thomas Eckhardt  
-**Unterstützende Beratung:** RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld  
-**Rechtsgrundlage:** § 43 Abs. 1 GwG; § 261 StGB; § 89a StGB  
+**Meldungs-Nr. (intern):** VM-MH-2026-0041
+**goAML-Referenz:** Eingereicht 19.05.2026, 11:34 Uhr MESZ
+**goAML-Eingangsbestätigung:** 19.05.2026, 11:41 Uhr (automatische Bestätigung goAML-Portal)
+**Meldepflichtiger:** Musterholding GmbH, Gutleutstraße 44, 60329 Frankfurt am Main
+**Geldwäschebeauftragter:** Thomas Eckhardt
+**Unterstützende Beratung:** RA Dr. Franziska Heller, Kanzlei Heller & Schoenfeld
+**Rechtsgrundlage:** § 43 Abs. 1 GwG; § 261 StGB; § 89a StGB
 
 ---
 
@@ -37,7 +37,7 @@
 | **Geburtsort** | Cluj-Napoca, Rumänien |
 | **Staatsangehörigkeit** | Rumänisch |
 | **Wohnsitz** | Calea Dorobanților 188, 400117 Cluj-Napoca, Rumänien |
-| **Funktion** | Geschäftsführer Danube Trade Solutions SRL; fiktiver UBO |
+| **Funktion** | Geschäftsführer Danube Trade Solutions SRL; wirtschaftlich Berechtigter nach § 3 Abs. 2 GwG |
 | **Ausweisdokument** | Reisepass Nr. RX 3847291, Rumänien |
 | **PEP-Status** | Ungeklärt (Namensähnlichkeit zu ehem. Minister; wahrscheinlicher FP, nicht verifiziert) |
 
@@ -100,22 +100,22 @@ Im April 2026 nahm die Musterholding GmbH Verhandlungen mit der Danube Trade Sol
 
 ### 4.2 Einzelne Verdachtsmomente
 
-**Verdachtsmoment 1 — Drittzahlung ohne Erklärung:**  
+**Verdachtsmoment 1 — Drittzahlung ohne Erklärung:**
 Am 28.04.2026 ging eine Vorauszahlung von 187.500 EUR auf dem Konto der Musterholding GmbH ein. Als Auftraggeber war nicht der Vertragspartner (Danube Trade Solutions SRL), sondern die Adriatic Commerce Ltd. (Malta) angegeben. Eine vertragliche Grundlage oder schriftliche Erklärung für diese Drittzahlung lag zu diesem Zeitpunkt nicht vor und wurde trotz Anfrage nicht vollständig nachgereicht. Die Verbindung zwischen Adriatic Commerce Ltd. und Danube Trade Solutions SRL beschränkt sich auf die mündliche Erklärung, es handele sich um ein "verbundenes Unternehmen".
 
-**Verdachtsmoment 2 — Ungeklärter wirtschaftlich Berechtigter:**  
+**Verdachtsmoment 2 — Ungeklärter wirtschaftlich Berechtigter:**
 Als Gesellschafter von Danube Trade Solutions SRL wurde die Blue Harbor Holdings Ltd. (Nikosia, Zypern) angegeben. Trotz zweier schriftlicher Anforderungen (16.04.2026 und 08.05.2026) wurde keine natürliche Person als wirtschaftlich Berechtigter benannt. Das zyprische Handelsregister weist lediglich einen Nominee Director aus. Die behauptete Treuhandkonstruktion wurde nicht dokumentiert.
 
-**Verdachtsmoment 3 — PEP-Nähe Geschäftsführer:**  
+**Verdachtsmoment 3 — PEP-Nähe Geschäftsführer:**
 Der Geschäftsführer von Danube Trade Solutions SRL, Andrei Constantin Moldovan (geb. 14.02.1971), wies beim Screening über LSEG World-Check eine Namensähnlichkeit zu einem ehemaligen stellvertretenden rumänischen Wirtschaftsminister auf. Das Geburtsdatum weicht um zwei Jahre ab. Eine eindeutige Identitätsfeststellung konnte nicht herbeigeführt werden. Auf Anfrage legte Herr Moldovan eine eidesstattliche Erklärung vor, dass er kein PEP sei; unabhängige Verifikation dieser Erklärung ist nicht möglich.
 
-**Verdachtsmoment 4 — Fehlende wirtschaftliche Substanz:**  
+**Verdachtsmoment 4 — Fehlende wirtschaftliche Substanz:**
 Das Stammkapital von Danube Trade Solutions SRL beläuft sich auf 200 RON (ca. 40 EUR). Jahresabschlüsse wurden seit 2021 beim rumänischen Handelsregister nicht eingereicht. Trotzdem wird ein Jahresvolumen von 2.400.000 EUR in Aussicht gestellt. Nachweise über bestehende Kundenbeziehungen in Südosteuropa wurden nicht erbracht.
 
-**Verdachtsmoment 5 — Zeitdruck durch Vertrieb:**  
+**Verdachtsmoment 5 — Zeitdruck durch Vertrieb:**
 Der interne Vertrieb der Musterholding GmbH berichtete, dass Herr Moldovan mehrfach auf eine beschleunigte Freigabe der Zahlung und eine zügige Vertragsunterzeichnung gedrängt habe, obwohl die KYC-Prüfung noch nicht abgeschlossen war. Solcher Zeitdruck gilt nach den FATF-Leitlinien und der BaFin-AuA als eigenständiger Risikoindikator.
 
-**Verdachtsmoment 6 — Geographische Häufung von Hochrisikojurisdiktionen:**  
+**Verdachtsmoment 6 — Geographische Häufung von Hochrisikojurisdiktionen:**
 Die am Sachverhalt beteiligten Einheiten haben Bezüge zu Rumänien (Mittel), Zypern (Hoch) und Malta (Hoch). Alle drei Jurisdiktionen sind für Offshore-Konstruktionen und Briefkastengesellschaften bekannt. Die Kombination mit Drittzahlung und ungeklärtem UBO verdichtet das Risikobild.
 
 ### 4.3 Gesamtwürdigung
@@ -165,12 +165,12 @@ Hiermit erkläre ich, Thomas Eckhardt, als bestellter Geldwäschebeauftragter de
 
 **Frankfurt am Main, 19.05.2026**
 
-**Thomas Eckhardt**  
-Geldwäschebeauftragter  
-Musterholding GmbH  
+**Thomas Eckhardt**
+Geldwäschebeauftragter
+Musterholding GmbH
 
 ---
 
-*Verdachtsmeldung VM-MH-2026-0041 — Musterholding GmbH*  
-*goAML-Einreichung: 19.05.2026, 11:34 Uhr*  
+*Verdachtsmeldung VM-MH-2026-0041 — Musterholding GmbH*
+*goAML-Einreichung: 19.05.2026, 11:34 Uhr*
 *Aufbewahrungsfrist: 5 Jahre (§ 8 Abs. 4 GwG)*

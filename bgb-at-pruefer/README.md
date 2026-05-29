@@ -9,7 +9,7 @@ Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext und 
 | Datei | Direkt-Download |
 | --- | --- |
 | **Plugin-ZIP: BGB AT Prüfer** | [bgb-at-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-at-pruefer.zip) |
-| **Testakte: bgb at altfraenkische werkstatt** | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
+| **Akte: bgb at altfraenkische werkstatt** | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
 
 Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
 

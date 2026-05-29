@@ -166,7 +166,7 @@ nennen. Ergebnis: RICHTLINIENÄNDERUNG EMPFOHLEN.
 - **Ehmann/Selmayr, DS-GVO, 3. Aufl. 2024, Art. 5 Rn. 62 ff.**
 
 ## Triage zu Beginn
-1. Sweep-Modus oder Direktanfrage — neue Praxis oder regelmaessiger Policy-Abgleich?
+1. Sweep-Modus oder Direktanfrage — neue Praxis oder regelmäßiger Policy-Abgleich?
 2. Wann war der letzte Sweep — sind neue Anwendungsfaelle oder Folgenabschaetzungen seit dann dazugekommen?
 3. Gibt es bereits bekannte Richtlinien-Praxis-Kluft (z.B. Anwendungsfall ohne Richtlinien-Deckung)?
 4. Betrifft die neue Praxis einen Hochrisiko-Bereich (Art. 9 KI-VO Qualitaetsmanagement)?

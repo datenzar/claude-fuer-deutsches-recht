@@ -6,7 +6,6 @@
 
 ### KOSTENAUFSTELLUNG -- Pferdedrescher-Riesenstein ./. Eberhart-Wolframshausen
 _Az.: AG Bielefeld 34 C 421/22  \|  LG 14 S 88/23  \|  BGH VIII ZR 159/23_
-_FIKTIVE TESTAKTE -- Plugin: schriftform-und-textform-bgb_
 _1. STREITWERT-BERECHNUNG_
 
 | Position | Betrag (EUR) | Grundlage | Hinweis | Spalte 5 |

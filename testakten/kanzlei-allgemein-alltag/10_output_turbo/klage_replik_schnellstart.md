@@ -1,13 +1,13 @@
 # Klage- und Replik-Schnellstart
 
-## Fiktives Mandat
+## Mandat
 
 - Akte: `JR-2026-014 Meyer ./. Alpha UG`
 - Mandantin: Nora Meyer, Prenzlauer Allee 81, 10405 Berlin
 - Gegnerin: Alpha UG (haftungsbeschränkt), angeblich Rosenthaler Straße 41, 10178 Berlin
 - Streitwert: 18.742,60 EUR
 - Gericht: Landgericht Berlin II, Zivilkammer
-- Frist: Replikfrist läuft fiktiv am 28.05.2026, 23:59 Uhr ab
+- Frist: Replikfrist läuft kalendermäßig am 28.05.2026, 23:59 Uhr ab
 - Ziel: Zahlungsklage oder Replik schnell in einen versandfähigen Entwurf bringen
 
 ## Rohsachverhalt

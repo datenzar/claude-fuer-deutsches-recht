@@ -1,6 +1,6 @@
 # UStVA-XML — Validierungsnotiz
 
-Für diese Testakte liegt keine echte ELSTER-XML vor; die Datei ist nicht uploadfähig.
+Für diese Akte liegt keine echte ELSTER-XML vor; die Datei ist nicht uploadfähig.
 
 Erwarteter Workflow:
 1. Nicht als echte UStVA verwenden.

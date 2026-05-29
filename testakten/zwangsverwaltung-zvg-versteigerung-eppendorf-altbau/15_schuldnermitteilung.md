@@ -6,9 +6,9 @@ Sievekingplatz 1
 20355 Hamburg
 
 **Von:**
-Ralf Benderoth (fiktiv)
+Ralf Benderoth
 Zwangsverwalter
-c/o Benderoth & Kassel Immobilienverwaltung GmbH (fiktiv)
+c/o Benderoth & Kassel Immobilienverwaltung GmbH
 Grindelallee 99, 20146 Hamburg
 
 **Datum:** 03.06.2026
@@ -30,12 +30,12 @@ ich erteile hiermit die erbetene Auskunft zum aktuellen Sachstand der Zwangsverw
 
 ## I. Angaben zur Schuldnerin / zum Schuldner
 
-Die Vollstreckungsschuldner sind die Mitglieder der **Erbengemeinschaft nach Jonas R. Albrecht** (fiktiv). Nach den mir vorliegenden Unterlagen handelt es sich um zwei Miterben:
+Die Vollstreckungsschuldner sind die Mitglieder der **Erbengemeinschaft nach Jonas R. Albrecht**. Nach den mir vorliegenden Unterlagen handelt es sich um zwei Miterben:
 
 | Nr. | Bezeichnung | Stellung |
 |-----|-------------|----------|
-| 1 | Miterbe 1 (fiktiv): Heinrich J. Albrecht, geb. fiktiv, wohnhaft in Kiel | Miterbe zu ½ |
-| 2 | Miterbin 2 (fiktiv): Sofie Albrecht-Wegener, geb. fiktiv, wohnhaft in Hamburg | Miterbin zu ½ |
+| 1 | Miterbe 1: Heinrich J. Albrecht, geb.  wohnhaft in Kiel | Miterbe zu ½ |
+| 2 | Miterbin 2: Sofie Albrecht-Wegener, geb.  wohnhaft in Hamburg | Miterbin zu ½ |
 
 Beide Miterben sind postalisch und telefonisch über ihre jeweils benannten Bevollmächtigten erreichbar. Ein gemeinschaftlicher Vertreter der Erbengemeinschaft für das Verwaltungshandeln wurde nicht bestellt. Entsprechende Mitteilungen wurden stets an beide Miterben gesondert versandt.
 
@@ -43,7 +43,7 @@ Beide Miterben sind postalisch und telefonisch über ihre jeweils benannten Bevo
 
 ## II. Sachstand Mietverhältnis
 
-Das Objekt ist seit dem 01.11.2021 an Herrn **L. Sommer** (fiktiv) zu Wohnzwecken vermietet. Die aktuelle Nettokaltmiete beträgt 1.320,00 EUR monatlich zuzüglich Betriebskostenvorauszahlungen von 260,00 EUR (gesamt: 1.580,00 EUR monatlich).
+Das Objekt ist seit dem 01.11.2021 an Herrn **L. Sommer** zu Wohnzwecken vermietet. Die aktuelle Nettokaltmiete beträgt 1.320,00 EUR monatlich zuzüglich Betriebskostenvorauszahlungen von 260,00 EUR (gesamt: 1.580,00 EUR monatlich).
 
 ### Mieteingang und Rückstände
 
@@ -74,7 +74,7 @@ Das laufende Hausgeld beträgt gemäß Wirtschaftsplan der WEG Eppendorfer Mühl
 | Erhaltungsrücklage gesamt WEG per 31.12.2025 | 118.450,00 EUR |
 | Anteil WE Nr. 9 an Erhaltungsrücklage (39,20/1.000) | 4.643,24 EUR |
 
-Zur **Sonderumlage** für Steigleitungen und Dachentwässerung: Aus den WEG-Versammlungsprotokollen ergibt sich, dass eine solche Sonderumlage im Raum steht. Ein Beschluss ist nach meiner Kenntnis noch nicht gefasst worden. Ich habe den WEG-Verwalter, Herrn Marcus Dreyer (fiktiv), Eppendorfer Immobilienverwaltung GmbH (fiktiv), mit Schreiben vom 20.05.2026 um Bestätigung gebeten. Eine Antwort steht noch aus.
+Zur **Sonderumlage** für Steigleitungen und Dachentwässerung: Aus den WEG-Versammlungsprotokollen ergibt sich, dass eine solche Sonderumlage im Raum steht. Ein Beschluss ist nach meiner Kenntnis noch nicht gefasst worden. Ich habe den WEG-Verwalter, Herrn Marcus Dreyer (), Eppendorfer Immobilienverwaltung GmbH (), mit Schreiben vom 20.05.2026 um Bestätigung gebeten. Eine Antwort steht noch aus.
 
 ---
 
@@ -114,9 +114,8 @@ Für Rückfragen stehe ich gerne zur Verfügung.
 
 Mit freundlichen Grüßen,
 
-**Ralf Benderoth (fiktiv)**
 Zwangsverwalter
-Benderoth & Kassel Immobilienverwaltung GmbH (fiktiv)
+Benderoth & Kassel Immobilienverwaltung GmbH
 
 ---
 
@@ -126,5 +125,3 @@ Benderoth & Kassel Immobilienverwaltung GmbH (fiktiv)
 - Anlage 3: Schreiben an WEG-Verwalter vom 20.05.2026
 
 ---
-
-*Fiktives Dokument. Alle Beteiligten und Daten sind erfunden.*

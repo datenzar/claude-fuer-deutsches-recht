@@ -13,7 +13,7 @@ Fuehrt offizielle Registerabrufe fuer Zielgesellschaft, Verkaeufer, Erwerber, Be
 
 1. Welche Gesellschaften sind zu recherchieren — Zielgesellschaft, Muttergesellschaft, Kaeufer-Holding, Komplementaer-GmbH?
 2. Wird ein aktueller HR-Auszug benoetigt (nicht aelter als 1 Woche) oder ein historischer Registerstand?
-3. Sind Beteiligungsketten mit auslaendischen Gesellschaften zu kartieren — lokale Register (UK Companies House, Niederlande KvK, Frankreich INPI)?
+3. Sind Beteiligungsketten mit ausländischen Gesellschaften zu kartieren — lokale Register (UK Companies House, Niederlande KvK, Frankreich INPI)?
 4. Gibt es bekannte Unstimmigkeiten zwischen Datenraum-Angaben und HR-Stand?
 
 ## Zentrale Rechtsgrundlagen

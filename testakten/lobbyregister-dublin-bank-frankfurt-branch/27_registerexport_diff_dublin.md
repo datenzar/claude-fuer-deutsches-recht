@@ -45,7 +45,7 @@ Die Abfrage `Emerald Liffey Frankfurt` liefert denselben Eintrag R009814. Die Ab
 
 ## Offene Punkte
 
-1. Die API-Antwort zeigt eine `example.invalid`-URL im fiktiven Testfall. In einer echten Akte muesste die PDF-/Kodex-URL aus dem Register oder der Unternehmensseite geprueft werden.
+1. Die API-Antwort zeigt eine `example.invalid`-URL aus dem Exportbeispiel. In einer echten Akte müsste die PDF-/Kodex-URL aus dem Register oder der Unternehmensseite geprüft werden.
 2. Die RfS-Anfrage bleibt in der Akte, obwohl keine zweite Registrierung vorgenommen wurde. Sie dokumentiert die vorherige Unsicherheit.
 3. Bei erster grundlegender Stellungnahme zum Digital-Euro-Begleitgesetz muss der Quartalsupload neu geprueft werden.
 

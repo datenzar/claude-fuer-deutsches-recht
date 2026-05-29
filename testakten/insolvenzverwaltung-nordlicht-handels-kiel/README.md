@@ -1,15 +1,15 @@
-# Testakte: Insolvenzverwaltung Nordlicht Handels GmbH
+# Akte: Insolvenzverwaltung Nordlicht Handels GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-insolvenzverwaltung-nordlicht-handels-kiel` (diese Akte) | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
+| `testakte-insolvenzverwaltung-nordlicht-handels-kiel` (Akte) | [testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzverwaltung-nordlicht-handels-kiel.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktiver Beispielfall** zur Demonstration des Plugins `insolvenzverwaltung`.
+**Beispielfall** zur Bearbeitung des Plugins `insolvenzverwaltung`.
 
 ## Verfahrenseckdaten
 
@@ -85,5 +85,3 @@ Die Akte enthält 14 turnusmäßige Berichte gem. § 156 InsO, vollständige For
 `insolvenzverwaltung` — vollständiger Workflow von Eröffnung bis Schlussverteilung.
 
 ## Disclaimer
-
-Alle Personen, Firmen, Konten, Beträge und Aktenzeichen sind frei erfunden. Die Akte dient ausschließlich dem Testen der Skills und ist keine Rechtsberatung.

@@ -1,6 +1,6 @@
 # Anfrage an die registerfuehrende Stelle - Zweigniederlassung
 
-**Betreff:** Lobbyregister - Eintragung auslaendischer Rechtstraeger mit unselbststaendiger deutscher Zweigniederlassung
+**Betreff:** Lobbyregister - Eintragung auslaendischer Rechtstraeger mit unselbstständiger deutscher Zweigniederlassung
 
 Sehr geehrte Damen und Herren,
 

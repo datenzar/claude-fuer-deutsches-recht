@@ -54,9 +54,9 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 
 ## Testakte
 
-Zum Ausprobieren liegt eine fiktive Testakte unter `testakten/energierecht-stadtwerke-quartier`. Sie wird im Release als `testakte-energierecht-stadtwerke-quartier.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
+Zum Arbeiten liegt die Akte unter `testakten/energierecht-stadtwerke-quartier`. Sie wird im Release als `testakte-energierecht-stadtwerke-quartier.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
 
 ## Download
 
 - Plugin-ZIP: [energierecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/energierecht.zip)
-- Testakte: [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip)
+- Akte: [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip)

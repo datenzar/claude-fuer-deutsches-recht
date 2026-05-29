@@ -1,21 +1,21 @@
-# Testakte Betreuung Schmalfeld: Kontodaten und verdächtige Verträge
+# Akte Betreuung Schmalfeld: Kontodaten und verdächtige Verträge
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-betreuung-schmalfeld-kontodaten-vertraege` (diese Akte) | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
+| `testakte-betreuung-schmalfeld-kontodaten-vertraege` (Akte) | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Diese fiktive Beispielakte gehört zum Plugin `betreuungsrecht`, Skill
+Diese Arbeitsakte gehört zum Plugin `betreuungsrecht`, Skill
 `kontodaten-vertragsverdacht-pruefung`.
 
 ## Fallkern
 
 Herbert Wilhelm Schmalfeld, geboren am 14.03.1941, lebt in Berlin. Die
-Testakte simuliert die erste Durchsicht der Vermögenssorge nach Übernahme
+Akte simuliert die erste Durchsicht der Vermögenssorge nach Übernahme
 einer Betreuung. Vorliegen:
 
 - Kontoauszüge 2023 bis 2025.
@@ -37,6 +37,7 @@ einer Betreuung. Vorliegen:
 | `06_risikoauswertung_schmalfeld.json` | Erwartete Skriptauswertung |
 | `07_erstvermerk_betreuungsgericht.md` | Muster für sachlichen Erstvermerk |
 | `08_massnahmenplan.md` | Sofort- und Folgeaufgaben |
+| `09_vertragsauszuege_pruefmappe.md` | Vertragsauszüge, Risikokörbe, Beleglücken und priorisierte Maßnahmen |
 | `originale/` | Originale Beispielunterlagen als ZIP und PDFs |
 
 ## Erwarteter Testlauf
@@ -60,4 +61,3 @@ Er soll unterscheiden:
 - wirtschaftlich unplausible oder risikoreiche Geschäfte,
 - technische Schutzthemen durch Fernzugriff,
 - mögliche gerichtliche Schutzmaßnahmen.
-

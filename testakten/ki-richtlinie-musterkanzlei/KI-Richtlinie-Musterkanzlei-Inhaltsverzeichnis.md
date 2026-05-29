@@ -1,8 +1,8 @@
 # KI-Nutzungsrichtlinie — Musterkanzlei (Inhaltsverzeichnis und Kapitelübersicht)
 ## Mustermann & Musterfrau Rechtsanwälte PartG mbB
 
-> Strukturübersicht des Originaldokuments `KI-Richtlinie-Musterkanzlei-Entwurf.docx`  
-> Erstellt mit dem Plugin `ki-richtlinie-kanzleien` — fiktive Testakte
+> Strukturübersicht des Originaldokuments `KI-Richtlinie-Musterkanzlei-Entwurf.docx`
+> Erstellt mit dem Plugin `ki-richtlinie-kanzleien` — Arbeitsakte
 
 ---
 
@@ -75,4 +75,4 @@
 
 ---
 
-*Originaldokument: `KI-Richtlinie-Musterkanzlei-Entwurf.docx` — fiktive Testakte, keine Rechtsberatung*
+*Originaldokument: `KI-Richtlinie-Musterkanzlei-Entwurf.docx` — Arbeitsakte, keine Rechtsberatung*

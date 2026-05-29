@@ -1,10 +1,10 @@
 # UBO-Dokumentation – Danube Trade Solutions SRL / Blue Harbor Holdings Ltd.
 
-**Dokument-Nr.:** UBO-MH-2026-0028  
-**Erstellungsdatum:** 02.05.2026  
-**Verfasser:** Thomas Eckhardt (Geldwäschebeauftragter)  
-**Aktenzeichen Kanzlei:** 2026/AML/047-MH  
-**Rechtsgrundlage:** § 3 GwG; Art. 3 Nr. 6 AMLD5 (EU 2018/843); § 10 Abs. 1 Nr. 2 GwG  
+**Dokument-Nr.:** UBO-MH-2026-0028
+**Erstellungsdatum:** 02.05.2026
+**Verfasser:** Thomas Eckhardt (Geldwäschebeauftragter)
+**Aktenzeichen Kanzlei:** 2026/AML/047-MH
+**Rechtsgrundlage:** § 3 GwG; Art. 3 Nr. 6 AMLD5 (EU 2018/843); § 10 Abs. 1 Nr. 2 GwG
 
 ---
 
@@ -89,7 +89,6 @@ Mit Schreiben vom 08.05.2026 wurde Danube Trade Solutions SRL erneut aufgeforder
 
 Da keine natürliche Person als wirtschaftlich Berechtigter ermittelt werden konnte, greift § 3 Abs. 2 S. 2 GwG: Als wirtschaftlich Berechtigter gilt in diesem Fall der gesetzliche Vertreter, also Andrei Moldovan als GF der Danube Trade Solutions SRL.
 
-**Rechtsfolge:** Der fiktive wirtschaftlich Berechtigte löst keine Vereinfachung der Prüfpflichten aus; er ist lediglich ein Hilfsinstrument zur Dokumentation. Das Hochrisikoprofil bleibt bestehen. Zusätzlich: Der PEP-Treffer zu Andrei Moldovan führt dazu, dass bereits der fiktive UBO als potenzieller PEP einzustufen ist.
 
 ---
 
@@ -143,5 +142,5 @@ Die mangelnde Kooperation bei der UBO-Offenlegung ist nach den FATF-Leitlinien (
 
 ---
 
-*Dokument-Nr.: UBO-MH-2026-0028 — Musterholding GmbH / Geldwäschebeauftragter*  
+*Dokument-Nr.: UBO-MH-2026-0028 — Musterholding GmbH / Geldwäschebeauftragter*
 *Aufbewahrungsfrist: 5 Jahre (§ 8 Abs. 4 GwG)*

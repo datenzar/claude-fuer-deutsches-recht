@@ -1,6 +1,5 @@
 # Fristen — BVG-Widerspruchsverfahren Abschleppen
 
-Stand: aktuelle Bearbeitungslage der Widerspruchsstelle. Alle Daten fiktiv.
 
 ## Fristübersicht
 

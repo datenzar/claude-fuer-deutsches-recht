@@ -1,21 +1,20 @@
-# Schulungsakte "Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation
+# Akte "Roeschen Tech GmbH" — Gesellschaftsgründung mit B-Shares und Streit-Eskalation
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-gesellschaftsgruender-streit-roeschen-tech` (diese Akte) | [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
+| `testakte-gesellschaftsgruender-streit-roeschen-tech` (Akte) | [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
 ## Szenario
 
-Die **Roeschen Tech GmbH** (fiktive Gesellschaft, alle Personen frei erfunden) wird im März 2024 von **drei Gründern** mit Sitz in Berlin gegründet. Stammkapital 30.000 EUR. Geschäftsmodell: KI-gestützte Software-Entwicklung.
 
-Im November 2025 tritt **Investor Stahlauge Ventures AG** (fiktiv) im Rahmen einer Series-A-Finanzierung ein. Es werden **B-Shares** mit Sondervetorechten und 1,5x Liquidation Preference ausgegeben. Das Stammkapital wird auf 40.000 EUR erhoeht; Bezugsrecht der Gründer ausgeschlossen.
+Im November 2025 tritt **Investor Stahlauge Ventures AG** im Rahmen einer Series-A-Finanzierung ein. Es werden **B-Shares** mit Sondervetorechten und 1,5x Liquidation Preference ausgegeben. Das Stammkapital wird auf 40.000 EUR erhoeht; Bezugsrecht der Gründer ausgeschlossen.
 
-Im **Juni 2026** plant Stahlauge Ventures gemeinsam mit zwei Gründern eine **zweite Kapitalerhöhung** um 12.500 EUR — wiederum mit Bezugsrechtsausschluss — zur Aufnahme eines strategischen Investors (Pi Mu Holding GmbH, fiktiv). Die dritte Gründerin Christine **widerspricht**: sie sieht Verwässerung von 19 % auf 14 % als unverhältnismaessig und nicht sachlich gerechtfertigt.
+Im **Juni 2026** plant Stahlauge Ventures gemeinsam mit zwei Gründern eine **zweite Kapitalerhöhung** um 12.500 EUR — wiederum mit Bezugsrechtsausschluss — zur Aufnahme eines strategischen Investors (Pi Mu Holding GmbH). Die dritte Gründerin Christine **widerspricht**: sie sieht Verwässerung von 19 % auf 14 % als unverhältnismaessig und nicht sachlich gerechtfertigt.
 
 In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhöhung **mehrheitlich** beschlossen (zustimmend: Andrea, Bert, Stahlauge Ventures mit B-Sondervetorecht; ablehnend: Christine). Christine erhebt **Anfechtungsklage** und beantragt **einstweilige Verfügung** beim Landgericht Berlin sowie **Anmeldungs-Sperre** beim Amtsgericht Charlottenburg.
 
@@ -80,15 +79,15 @@ In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhöhung **
    - Beirat-Schlichtungs-Empfehlung
    - Vorschlag eines Kompromisses
 
-09_Schulungsbegleiter.md
-   - Hinweise zur Bearbeitung der Akte
-   - Aufgaben und Loesungs-Skizzen
-   - Lernziele
+09_pruefvermerk_beirat_und_kapitalerhoehung.md
+   - Interne Arbeitshinweise
+   - Prüffragen und erste Bewertungslinien
+   - Prüffokus
 ```
 
 ## Bearbeitungs-Hinweise
 
-### Variante A — Standardgründung lernen
+### Variante A — Standardgründung prüfen
 
 1. Beginne mit `gesellschaftsgruender-rechtsformwahl` und `gesellschaftsgruender-gmbh-vorbereitung`.
 2. Lies die Satzung der Roeschen Tech GmbH.
@@ -107,5 +106,3 @@ In der **Gesellschafterversammlung vom 18.06.2026** wird die Kapitalerhöhung **
 3. Diskutiere: Ist der Bezugsrechtsausschluss sachlich gerechtfertigt? Wie ist der Eilantrag zu bewerten?
 
 ## Verbotenes (Plagiats-Hinweis)
-
-Diese Akte ist eine **Schulungsakte**. Sie ist nicht zur Verwendung in echten Mandanten-Akten gedacht. Die Personen und Firmen sind frei erfunden; Aehnlichkeiten mit existierenden Personen oder Firmen sind rein zufaellig.

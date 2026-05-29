@@ -55,7 +55,7 @@ PKH geprüft: Nettoeinkommen ca. EUR 3.200 + Kindergeld → knapp über Grenze, 
 Vollmacht unterschrieben (Anlage).
 Terminvereinbarung Folgegespräch: 13.05.2026, 10:00 Uhr.
 
-TODO KANZLEI
+OFFENE PUNKTE KANZLEI
 [ ] Klageschrift vorbereiten bis 14.05.
 [ ] Koslowski als Zeugin nochmal schriftlich anfragen
 [ ] HR-Liste TechLogix (23 AN?) verifizieren

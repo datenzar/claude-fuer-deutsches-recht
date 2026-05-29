@@ -74,6 +74,3 @@ Rheinland Spezialchemie GmbH
 Dr. Markus Haverkamp — Geschäftsführer (technisch)
 
 Anlagen: 1. Geänderte Abschnitte MP Rev. 4 (vorab) — 2. Datenblatt CT-600 — 3. CO₂-Berechnung
-
-
-Dieses Dokument ist ein fiktives Beispieldokument für Ausbildungszwecke. Alle Angaben zu Personen, Unternehmen und Behörden sind erfunden. Es ersetzt keine Rechtsberatung.

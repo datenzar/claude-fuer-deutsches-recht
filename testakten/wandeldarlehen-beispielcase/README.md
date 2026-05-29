@@ -1,15 +1,13 @@
-# Testakte: Wandeldarlehen-Lebenszyklus (Sonnenglas Solartechnologie UG)
+# Akte: Wandeldarlehen-Lebenszyklus (Sonnenglas Solartechnologie UG)
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-wandeldarlehen-beispielcase` (diese Akte) | [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip) |
+| `testakte-wandeldarlehen-beispielcase` (Akte) | [testakte-wandeldarlehen-beispielcase.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-wandeldarlehen-beispielcase.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> Komplette fiktive Beispielakte für das Plugin [`wandeldarlehen-lebenszyklus`](../../wandeldarlehen-lebenszyklus/). Alle Personen, Firmen, Adressen, Kontonummern und Aktenzeichen sind frei erfunden. Die Akte deckt den gesamten Lebenszyklus vom Term-Sheet über Auszahlung bis zur Wandlung im Rahmen einer Seed-Runde ab und stellt sowohl deutschsprachige als auch bilinguale (DE/EN) Vertragsmuster bereit.
 
 ## Sachverhalt in einer Minute
 

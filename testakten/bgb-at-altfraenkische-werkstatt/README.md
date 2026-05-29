@@ -1,15 +1,15 @@
-# Testakte BGB AT: Altfränkische Werkstatt
+# Akte BGB AT: Altfränkische Werkstatt
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-bgb-at-altfraenkische-werkstatt` (diese Akte) | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
+| `testakte-bgb-at-altfraenkische-werkstatt` (Akte) | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Ausbildungs- und Kanzleitestakte zu BGB AT. Die Akte bündelt Vertragsschluss, Online-Auktion, Zugang, Minderjährigenrecht, Vollmacht, Missbrauch der Vertretungsmacht, Anfechtung, Form, Sittenwidrigkeit, Bedingung, Fristen und Verjährung in einem unordentlichen, aber bearbeitbaren Mandatsbild.
+Ausbildungs- und Kanzleiakte zu BGB AT. Die Akte bündelt Vertragsschluss, Online-Auktion, Zugang, Minderjährigenrecht, Vollmacht, Missbrauch der Vertretungsmacht, Anfechtung, Form, Sittenwidrigkeit, Bedingung, Fristen und Verjährung in einem unordentlichen, aber bearbeitbaren Mandatsbild.
 
 ## Einsatz
 
@@ -31,5 +31,3 @@ Fiktive Ausbildungs- und Kanzleitestakte zu BGB AT. Die Akte bündelt Vertragssc
 - 09_anspruchsmatrix_roh.md
 - 10_erwartete_pruefpfade.md
 - 11_bea_qes_formfiktion_schriftsatz.md
-
-Alle Angaben sind frei erfunden. Die Akte enthält keine Musterlösung, sondern Prüfpfade und Reibungsflächen zum Arbeiten.

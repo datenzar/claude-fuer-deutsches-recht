@@ -215,7 +215,7 @@ Das Plugin unterstuetzt bei der risikobasierten Risikoanalyse, dem KYC-Onboardin
 ## Typische Fehler
 
 - KYC-Onboarding ohne PEP-Screening: Neukunde ist politisch exponiert, wird aber als Standardkunde eingestuft.
-- Keine regelmaessige Aktualisierung der Kundendaten: Risikoeinstufung veraltet, obwohl sich Eigentumsstruktur geaendert hat.
+- Keine regelmäßige Aktualisierung der Kundendaten: Risikoeinstufung veraltet, obwohl sich Eigentumsstruktur geaendert hat.
 - Verdachtsmeldung verzoegert eingereicht: Interne Rechts- und Compliance-Schleife verzoegert Meldung ueber 24 Stunden hinaus.
 - Gruppenweite Richtlinien nicht auf Tochterlandniveau heruntergebrochen: Lokale GwG-Anforderungen abweichend zu Gruppenpolicy.
 - Immobilienmakler-Pflichten unterschaetzt: Barzahlungsverbot und KYC-Pflicht ab 10.000 Euro werden uebersehen.

@@ -4,7 +4,7 @@ Die Klaegerin, ein im Vereinsregister beim Amtsgericht Hamburg unter VR 12345 ei
 
 In der Bestelloberflaeche der Klaegerin war ein Verweis auf deren Allgemeine Geschaeftsbedingungen (Anlage K 1) hinterlegt. In Ziffer 13 sehen diese deutsches Recht unter Einschluss des UN-Kaufrechts vor, in Ziffer 14 den Gerichtsstand Hamburg.
 
-In der Auftragsbestaetigung der Beklagten verwies diese auf ihre eigenen Allgemeinen Geschaeftsbedingungen (Anlage B 1). In Ziffer 17.1 sehen diese schweizerisches Recht unter Ausschluss des UN-Kaufrechts vor, in Ziffer 18.1 den ausschliesslichen Gerichtsstand Zuerich.
+In der Auftragsbestaetigung der Beklagten verwies diese auf ihre eigenen Allgemeinen Geschaeftsbedingungen (Anlage B 1). In Ziffer 17.1 sehen diese schweizerisches Recht unter Ausschluss des UN-Kaufrechts vor, in Ziffer 18.1 den ausschliesslichen Gerichtsstand Zürich.
 
 Nach Erhalt der Brille gab die Klaegerin am 22. Februar 2026 ein Sachverstaendigengutachten bei dem oeffentlich bestellten und vereidigten Sachverstaendigen Dipl.-Ing. Tobias Reiff in Auftrag (Anlage K 4). Das Gutachten kommt zu dem Ergebnis, dass die Brille bei Inbetriebnahme im Werkszustand ohne Nutzeraktivitaet einen Buffer-Modus mit 60-Sekunden-Ringspeicher startet, dass eine LED-Aufzeichnungsanzeige fehlt, dass im Hintergrund eine Echtzeit-Gesichtserkennung auf Basis oeffentlicher Datenbanken laeuft und dass Datentransfers in die USA und nach Singapur ohne Standardvertragsklauseln stattfinden. Die Kosten des Gutachtens betragen 380 EUR.
 
@@ -14,7 +14,7 @@ Die Klaegerin behauptet, die im Gutachten festgestellten Funktionen seien Werksz
 
 Die Klaegerin beantragt,
 
-1. die Beklagte zu verurteilen, an sie 1197 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit 26. Februar 2026 Zug um Zug gegen Rueckgabe der Datenbrille Solis Vision X mit der Geraeteseriennummer LO-SVX-2025-44712 zu zahlen,
+1. die Beklagte zu verurteilen, an sie 1197 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit 26. Februar 2026 Zug um Zug gegen Rückgabe der Datenbrille Solis Vision X mit der Geraeteseriennummer LO-SVX-2025-44712 zu zahlen,
 
 2. die Beklagte zu verurteilen, an die Klaegerin weitere 380 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit Rechtshaengigkeit zu zahlen,
 
@@ -22,7 +22,7 @@ Die Klaegerin beantragt,
 
 Die Beklagte beantragt, die Klage abzuweisen.
 
-Die Beklagte ruegt die Zustaendigkeit des Amtsgerichts Hamburg, weil nach Ziffer 18.1 ihrer AGB ausschliesslicher Gerichtsstand Zuerich sei. Sie meint, die AGB der Klaegerin seien nicht wirksam einbezogen worden. Anwendbar sei schweizerisches Recht unter Ausschluss des CISG. Die Brille sei technisch einwandfrei. Eine datenschutzrechtliche Beurteilung sei nicht Bestandteil des Vertrags. Die Aufzeichnungsfunktion sei zudem standardmaessig deaktiviert. Mit FOB Galway sei der Gefahruebergang bereits am 17. Februar 2026 erfolgt; Mangel-Risiko habe die Klaegerin zu tragen.
+Die Beklagte ruegt die Zustaendigkeit des Amtsgerichts Hamburg, weil nach Ziffer 18.1 ihrer AGB ausschliesslicher Gerichtsstand Zürich sei. Sie meint, die AGB der Klaegerin seien nicht wirksam einbezogen worden. Anwendbar sei schweizerisches Recht unter Ausschluss des CISG. Die Brille sei technisch einwandfrei. Eine datenschutzrechtliche Beurteilung sei nicht Bestandteil des Vertrags. Die Aufzeichnungsfunktion sei zudem standardmaessig deaktiviert. Mit FOB Galway sei der Gefahruebergang bereits am 17. Februar 2026 erfolgt; Mangel-Risiko habe die Klaegerin zu tragen.
 
 Wegen der weiteren Einzelheiten des Sach- und Streitstandes wird auf die gewechselten Schriftsaetze nebst Anlagen sowie auf das Protokoll der muendlichen Verhandlung vom 15. Mai 2026 Bezug genommen.
 

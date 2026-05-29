@@ -1,4 +1,4 @@
-1. Die Beklagte wird verurteilt, an die Klaegerin 1197 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit dem 6. Maerz 2026 zu zahlen, Zug um Zug gegen Rueckgabe der Datenbrille Solis Vision X mit der Geraeteseriennummer LO-SVX-2025-44712.
+1. Die Beklagte wird verurteilt, an die Klaegerin 1197 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit dem 6. Maerz 2026 zu zahlen, Zug um Zug gegen Rückgabe der Datenbrille Solis Vision X mit der Geraeteseriennummer LO-SVX-2025-44712.
 
 2. Die Beklagte wird verurteilt, an die Klaegerin weitere 380 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit dem 27. Februar 2026 zu zahlen.
 

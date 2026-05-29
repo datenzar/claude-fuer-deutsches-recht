@@ -2,7 +2,7 @@
 
 Name: Leo von Falkenstein-Lux
 Geburtsdatum: 12.04.1984
-Staatsangehörigkeit: fiktiv
+Staatsangehörigkeit: in Ausweiskopie geschwärzt
 Anschrift: c/o Family Office Falkenstein-Lux, Luxemburg
 
 Nicht transkribieren:

@@ -10,7 +10,7 @@ Der Anbieter behauptet in E-Mail vom 03.04.2026, "CloudSuite participates in the
 
 ## 2. Interner Prüfstand
 
-Für diese fiktive Testakte wird angenommen, dass bei manueller Recherche am 17.05.2026 folgender Treffer dokumentiert wurde:
+Für diese Arbeitsakte wird angenommen, dass bei manueller Recherche am 17.05.2026 folgender Treffer dokumentiert wurde:
 
 | Prüffeld | Ergebnis in der Akte |
 |---|---|
@@ -24,7 +24,6 @@ Für diese fiktive Testakte wird angenommen, dass bei manueller Recherche am 17.
 | Produktbezug | CloudSuite Assist Platform; ReplyPilot nicht ausdrücklich erwähnt |
 | Beschwerdemechanismus | TrustLine Dispute Resolution Services |
 
-**Hinweis:** Dies ist ein fiktiver Treffer zur Testakte, kein realer Nachweis über eine tatsächliche DPF-Listung.
 
 ## 3. Bewertung
 

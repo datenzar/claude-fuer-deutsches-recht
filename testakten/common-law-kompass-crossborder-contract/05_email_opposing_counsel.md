@@ -1,7 +1,7 @@
 # Verhandlungs-E-Mails – Opposing Counsel Correspondence
 
-> **Aktenzeichen:** CLC-2024-HH-007  
-> **Parteien:** RheinMain Sensors GmbH (vertreten durch RA Thomas Brandt, Brandt & Wessel, Hamburg) | Blue Harbor (UK) Ltd. / Blue Harbor Systems Inc. (vertreten durch Michael T. Johnson, Esq., und Amanda Clarke, Solicitor, Carver, Whitmore & Finch LLP)  
+> **Aktenzeichen:** CLC-2024-HH-007
+> **Parteien:** RheinMain Sensors GmbH (vertreten durch RA Thomas Brandt, Brandt & Wessel, Hamburg) | Blue Harbor (UK) Ltd. / Blue Harbor Systems Inc. (vertreten durch Michael T. Johnson, Esq., und Amanda Clarke, Solicitor, Carver, Whitmore & Finch LLP)
 > **Zeitraum:** März – April 2024
 
 ---
@@ -10,11 +10,11 @@
 
 ---
 
-> **Von:** Michael T. Johnson <m.johnson@cwf-law.com>  
-> **An:** Thomas Brandt <t.brandt@brandt-wessel.de>  
-> **Cc:** Amanda Clarke <a.clarke@cwf-law.com>; Lena Voss <l.voss@cwf-law.com>  
-> **Datum:** 25. März 2024, 16:42 Uhr (GMT)  
-> **Betreff:** Re: RheinMain/Blue Harbor – Supply & License Agreement (v1.0) – Initial Comments  
+> **Von:** Michael T. Johnson <m.johnson@cwf-law.com>
+> **An:** Thomas Brandt <t.brandt@brandt-wessel.de>
+> **Cc:** Amanda Clarke <a.clarke@cwf-law.com>; Lena Voss <l.voss@cwf-law.com>
+> **Datum:** 25. März 2024, 16:42 Uhr (GMT)
+> **Betreff:** Re: RheinMain/Blue Harbor – Supply & License Agreement (v1.0) – Initial Comments
 > **Aktenzeichen (CWF):** M-2024-0312-RMS
 
 Dear Thomas,
@@ -35,11 +35,11 @@ We note that your draft includes a carve-out for "wilful misconduct or gross neg
 
 We look forward to your response and propose a call for Wednesday, 3 April, 10:00 AM London time (11:00 AM Hamburg). Please confirm availability.
 
-Kind regards,  
-**Michael T. Johnson**  
-Partner, Carver, Whitmore & Finch LLP  
-30 Rockefeller Plaza, 42nd Floor | New York, NY 10112  
-T: +1 212 555 0190 | M: +1 917 555 0443  
+Kind regards,
+**Michael T. Johnson**
+Partner, Carver, Whitmore & Finch LLP
+30 Rockefeller Plaza, 42nd Floor | New York, NY 10112
+T: +1 212 555 0190 | M: +1 917 555 0443
 *Admitted in New York and New Jersey*
 
 ---
@@ -64,11 +64,11 @@ In Punkt 3: Der Ausschluss des consequential damages-Waivers bei gross negligenc
 
 ---
 
-> **Von:** Thomas Brandt <t.brandt@brandt-wessel.de>  
-> **An:** Michael T. Johnson <m.johnson@cwf-law.com>  
-> **Cc:** Amanda Clarke <a.clarke@cwf-law.com>; Dr. Anke Förster <a.foerster@rheinmain-sensors.de>; Hendrik Wessel <h.wessel@brandt-wessel.de>  
-> **Datum:** 03. April 2024, 11:15 Uhr (CEST)  
-> **Betreff:** Re: RheinMain/Blue Harbor – Supply & License Agreement – Response to Initial Comments  
+> **Von:** Thomas Brandt <t.brandt@brandt-wessel.de>
+> **An:** Michael T. Johnson <m.johnson@cwf-law.com>
+> **Cc:** Amanda Clarke <a.clarke@cwf-law.com>; Dr. Anke Förster <a.foerster@rheinmain-sensors.de>; Hendrik Wessel <h.wessel@brandt-wessel.de>
+> **Datum:** 03. April 2024, 11:15 Uhr (CEST)
+> **Betreff:** Re: RheinMain/Blue Harbor – Supply & License Agreement – Response to Initial Comments
 > **Aktenzeichen (BW):** CLC-2024-HH-007
 
 Dear Michael, dear Amanda,
@@ -97,12 +97,12 @@ This formulation tracks the standard English law carve-outs (fraud, personal inj
 
 We propose to circulate a marked-up redline of the Agreement by Friday 12 April. Please confirm that this timetable is acceptable on your end. We remain available for a further call this week if needed.
 
-Yours sincerely,  
-**Thomas Brandt**  
-Rechtsanwalt / Attorney-at-Law, LL.M. (London)  
-Kanzlei Brandt & Wessel Rechtsanwälte PartGmbB  
-Neuer Wall 88 | 20354 Hamburg  
-T: +49 40 555 0220 | F: +49 40 555 0229  
+Yours sincerely,
+**Thomas Brandt**
+Rechtsanwalt / Attorney-at-Law, LL.M. (London)
+Kanzlei Brandt & Wessel Rechtsanwälte PartGmbB
+Neuer Wall 88 | 20354 Hamburg
+T: +49 40 555 0220 | F: +49 40 555 0229
 *Zugelassen beim Landgericht Hamburg und allen übergeordneten Gerichten*
 
 ---
@@ -123,11 +123,11 @@ T: +49 40 555 0220 | F: +49 40 555 0229
 
 ---
 
-> **Von:** Amanda Clarke <a.clarke@cwf-law.com>  
-> **An:** Thomas Brandt <t.brandt@brandt-wessel.de>  
-> **Cc:** Michael T. Johnson <m.johnson@cwf-law.com>; Lena Voss <l.voss@cwf-law.com>; Hendrik Wessel <h.wessel@brandt-wessel.de>  
-> **Datum:** 12. April 2024, 14:33 Uhr (BST)  
-> **Betreff:** Re: RheinMain/Blue Harbor – Dispute Resolution Clause – Agreed Draft  
+> **Von:** Amanda Clarke <a.clarke@cwf-law.com>
+> **An:** Thomas Brandt <t.brandt@brandt-wessel.de>
+> **Cc:** Michael T. Johnson <m.johnson@cwf-law.com>; Lena Voss <l.voss@cwf-law.com>; Hendrik Wessel <h.wessel@brandt-wessel.de>
+> **Datum:** 12. April 2024, 14:33 Uhr (BST)
+> **Betreff:** Re: RheinMain/Blue Harbor – Dispute Resolution Clause – Agreed Draft
 > **Aktenzeichen (CWF):** M-2024-0312-RMS
 
 Dear Thomas,
@@ -156,11 +156,11 @@ Our client had requested the LCIA emergency arbitrator mechanism as a fallback f
 
 I believe this wording addresses both parties' concerns. Can you please confirm by close of business Monday, 15 April, that the above is acceptable to RheinMain Sensors, so that we can incorporate it into the consolidated redline before the London meeting on 22 April?
 
-Best regards,  
-**Amanda Clarke**  
-Solicitor (England and Wales)  
-Carver, Whitmore & Finch LLP – London Office  
-30 St Mary Axe | London EC3A 8EP  
+Best regards,
+**Amanda Clarke**
+Solicitor (England and Wales)
+Carver, Whitmore & Finch LLP – London Office
+30 St Mary Axe | London EC3A 8EP
 T: +44 20 7946 0122 | M: +44 7700 900 571
 
 ---
@@ -180,5 +180,3 @@ Der Vorbehalt des Landgerichts Hamburg für einstweiligen Rechtsschutz ist optim
 **Zu tun:** Bestätigung bis Montag 15. April, 17:00 Uhr; Redline von Kanzlei CWF bis Mittwoch 17. April; interne Freigabe durch Dr. Förster bis 19. April.
 
 ---
-
-*Korrespondenz fiktiv. Keine echten Personen oder Unternehmen. Keine Rechtsberatung. Stand: April 2024.*

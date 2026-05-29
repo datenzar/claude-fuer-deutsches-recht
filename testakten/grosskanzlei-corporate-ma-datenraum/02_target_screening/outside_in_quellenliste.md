@@ -1,10 +1,10 @@
 # Außen-Screening Solaris Industries AG — Quellenliste und Auswertung
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Vermerk-Nr.:** AV-002/SIL  
-**Datum:** 15. Oktober 2024  
-**Verfasserin:** Katharina Pfeiffer, Senior Associate  
-**Adressat:** Dr. Markus Weidemann / Deal Team  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Vermerk-Nr.:** AV-002/SIL
+**Datum:** 15. Oktober 2024
+**Verfasserin:** Katharina Pfeiffer, Senior Associate
+**Adressat:** Dr. Markus Weidemann / Deal Team
 **Betreff:** Outside-in-Screening Solaris Industries AG — Quellen, Befunde, offene Fragen
 
 ---
@@ -21,7 +21,7 @@ Alle Quellen wurden zwischen dem 7. und 15. Oktober 2024 abgerufen und sind im v
 
 ### 2.1 Handelsregister und Unternehmensdaten
 
-**Quelle:** Bundesanzeiger / Unternehmensregister  
+**Quelle:** Bundesanzeiger / Unternehmensregister
 **Abgerufen:** 08. Oktober 2024
 
 - **Jahresabschluss 2022** veröffentlicht im Bundesanzeiger (Veröffentlichungsdatum: 18. Juli 2023). Jahresabschluss 2023 noch nicht veröffentlicht (gesetzliche Offenlegungsfrist läuft; gemäß § 325 HGB i.V.m. EHUG bis 12 Monate nach Geschäftsjahresende). Seller hat zugesagt, den Jahresabschluss 2023 als ersten Datenraum-Eintrag hochzuladen.
@@ -48,23 +48,22 @@ Alle Quellen wurden zwischen dem 7. und 15. Oktober 2024 abgerufen und sind im v
 
 #### Relevante Artikel:
 
-1. **"Augsburger Präzisionstechnik unter Druck"**, Handelsblatt, 14. Februar 2024:  
-   Bericht über Lieferkettenprobleme bei deutschen Maschinenbauern. Solaris Industries AG wird namentlich erwähnt als betroffenes Unternehmen mit Abhängigkeiten von Halbleiterlieferanten aus Taiwan. Das Management habe laut Artikel eine Dual-Sourcing-Strategie angekündigt, diese sei jedoch noch nicht vollständig implementiert.  
+1. **"Augsburger Präzisionstechnik unter Druck"**, Handelsblatt, 14. Februar 2024:
+   Bericht über Lieferkettenprobleme bei deutschen Maschinenbauern. Solaris Industries AG wird namentlich erwähnt als betroffenes Unternehmen mit Abhängigkeiten von Halbleiterlieferanten aus Taiwan. Das Management habe laut Artikel eine Dual-Sourcing-Strategie angekündigt, diese sei jedoch noch nicht vollständig implementiert.
    *Bewertung:* Lieferkettenrisiko relevant für DD-Commercial (Bestandsrisiken, Vertragskonzentration). Management sollte in Präsentation erläutern, wie weit die Dual-Sourcing-Maßnahmen sind.
 
-2. **"Solaris Industries: Expansionspläne in Nordamerika"**, industry-manager.de, 3. April 2024:  
-   CEO Friedrich Grünwald kündigt Ausbau der US-Tochter (Solaris Distribution US Inc.) an; Investition in neue Lagerhaltung in Ohio. Investment-Budget: USD 8 Mio.  
+2. **"Solaris Industries: Expansionspläne in Nordamerika"**, industry-manager.de, 3. April 2024:
+   CEO Friedrich Grünwald kündigt Ausbau der US-Tochter (Solaris Distribution US Inc.) an; Investition in neue Lagerhaltung in Ohio. Investment-Budget: USD 8 Mio.
    *Bewertung:* Investment muss im Carve-out berücksichtigt werden: Wer trägt die Schulden? Ist die US-Tochter bereits in der Carve-out-Perimeter?
 
-3. **"Exportkontrolle im Maschinenbau: Neue Anforderungen durch EU-Dual-Use-Verordnung"**, Compliance-Magazin, 22. August 2024:  
-   Allgemeiner Branchenbericht; Solaris Industries AG wird als Beispiel für einen Hersteller antriebstechnischer Produkte mit potenziell Dual-Use-Relevanz genannt, ohne konkrete Vorwürfe.  
+3. **"Exportkontrolle im Maschinenbau: Neue Anforderungen durch EU-Dual-Use-Verordnung"**, Compliance-Magazin, 22. August 2024:
+   Allgemeiner Branchenbericht; Solaris Industries AG wird als Beispiel für einen Hersteller antriebstechnischer Produkte mit potenziell Dual-Use-Relevanz genannt, ohne konkrete Vorwürfe.
    *Bewertung:* Bestätigt Relevanz der Exportkontrollprüfung. Dr. Fuchs (Regulatory) hat bereits Prüfauftrag.
 
 4. **Keine negativen Berichte** über Steuerstrafverfahren, Kartellverfahren, Produkthaftungsfälle oder Umweltdelikte gefunden (Stand 10. Oktober 2024).
 
 ### 2.4 Produktportfolio und Webseite
 
-**Quelle:** Unternehmenswebseite solaris-industries.de (fiktiv; abgerufen 11. Oktober 2024)
 
 Das Produktportfolio umfasst laut Webseite:
 - **Baureihe PDS-500:** Präzisionsservomotoren (Nennmoment 10–200 Nm), eingesetzt in CNC-Bearbeitungszentren
@@ -132,5 +131,3 @@ Recherche auf Anmeldernamen "Solaris Industries", "Solaris AG", "Solaris GmbH":
 - Anlage D: DPMA-Registerauszug Patente (14 Treffer) — [04_datenraum/VDR]
 
 ---
-
-*Alle in diesem Vermerk genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

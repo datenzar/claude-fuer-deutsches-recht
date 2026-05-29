@@ -45,6 +45,4 @@ Bei der Durchsicht des Gutachtens fielen Auffaelligkeiten auf, die Anlass zur Pr
 
 Die Akte ist absichtlich fragmentarisch, mit Brueche, gemischten Formaten und teils nur Bruchstuecken — sie spiegelt eine reale Mandatslage in der Phase der Indizienverdichtung wider und dient zum Testen, wie ein Generalist-Workflow mit unvollstaendigen Eingaben umgeht.
 
-## Hinweis zur Testakte
-
-Diese Akte ist abstrahiert. Alle Namen, Aktenzeichen, Adressen und technischen Daten sind erfunden. Sie dient ausschliesslich der Erprobung des Workflows nach den Skills `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`, `pruefung-sachverstaendigengutachten-ki-deklaration` und der allgemeinen Vertragsrechts-Skills.
+## Hinweis zur Akte

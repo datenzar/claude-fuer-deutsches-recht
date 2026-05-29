@@ -1,15 +1,15 @@
-# Testakte: Juristischer Mandantenbrief in Einfacher und Leichter Sprache
+# Akte: Juristischer Mandantenbrief in Einfacher und Leichter Sprache
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-einfache-leichte-sprache-jura-mandantenbrief` (diese Akte) | [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
+| `testakte-einfache-leichte-sprache-jura-mandantenbrief` (Akte) | [testakte-einfache-leichte-sprache-jura-mandantenbrief.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Diese Lernakte zeigt, wie ein juristisches Anwaltsschreiben in zwei vereinfachte Sprachstufen übertragen wird — **Einfache Sprache** (DIN SPEC 33429) und **Leichte Sprache** (Regelwerk Netzwerk Leichte Sprache). Zielgruppe ist eine fiktive Mandantin mit kognitiven Einschränkungen, die unter rechtlicher Betreuung steht.
+Diese Akte zeigt, wie ein juristisches Anwaltsschreiben in zwei vereinfachte Sprachstufen übertragen wird — **Einfache Sprache** (DIN SPEC 33429) und **Leichte Sprache** (Regelwerk Netzwerk Leichte Sprache). Zielgruppe ist eine Mandantin mit kognitiven Einschränkungen, die unter rechtlicher Betreuung steht.
 
 ---
 
@@ -23,7 +23,7 @@ Besonders betroffen sind **betreute Personen** im Sinne des § 1814 BGB. Sie hab
 
 Das Gesetz zur Barrierefreiheit (BITV 2.0, BGG) verpflichtet Behörden zur Bereitstellung von Informationen in Leichter Sprache. Für Anwaltskanzleien besteht keine formelle Pflicht, aber eine wachsende fachliche und ethische Praxis orientiert sich an diesen Standards.
 
-### Die fiktive Fallkonstellation
+### Fallkonstellation
 
 **Mandantin:** Gisela Neumann, 54 Jahre, wohnhaft in Berlin-Lichtenberg. Frau Neumann steht unter gesetzlicher Betreuung. Sie bezieht Bürgergeld nach dem SGB II und bewohnt eine 52-qm-Wohnung.
 
@@ -39,8 +39,8 @@ Das Gesetz zur Barrierefreiheit (BITV 2.0, BGG) verpflichtet Behörden zur Berei
 
 | Merkmal | Wert |
 |---|---|
-| **Mandantin** | Gisela Neumann (fiktiv) |
-| **Anwältin** | Sabine Muster, Kanzlei Muster & Partner GbR (fiktiv) |
+| **Mandantin** | Gisela Neumann |
+| **Anwältin** | Sabine Muster, Kanzlei Muster & Partner GbR |
 | **Behörde** | Jobcenter Berlin-Lichtenberg (Az. JC-LB-2026-00814-KdU) |
 | **Kanzlei-Aktenzeichen** | KMP/SoR/2026/0438 |
 | **Datum des Bescheids** | 28. April 2026 |
@@ -72,8 +72,8 @@ Das **Netzwerk Leichte Sprache** (gegründet 2006) hat Regeln für Leichte Sprac
 - Sätze: max. 8–10 Wörter, ein Gedanke pro Satz
 - Wörter: kurze, allgemein bekannte Begriffe; keine Abkürzungen
 - Typografie: große Schrift (mind. 14 pt), kurze Zeilen (max. 60 Zeichen), viel Weißraum
-- Bilder: oft begleitende Piktogramme (in dieser Testakte nicht enthalten)
-- Prüfung: Texte in Leichter Sprache müssen von Menschen aus der Zielgruppe geprüft werden — diese Prüfung steht in dieser fiktiven Akte aus
+- Bilder: oft begleitende Piktogramme (in dieser Akte nicht enthalten)
+- Prüfung: Texte in Leichter Sprache müssen von Menschen aus der Zielgruppe geprüft werden — diese Prüfung steht in dieser Akte noch aus
 
 Rechtsgrundlagen: § 11 BGG (Behindertengleichstellungsgesetz), BITV 2.0.
 
@@ -94,7 +94,7 @@ Rechtsgrundlagen: § 11 BGG (Behindertengleichstellungsgesetz), BITV 2.0.
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 Diese Akte eignet sich für folgende Lernszenarien:
 
@@ -102,18 +102,16 @@ Diese Akte eignet sich für folgende Lernszenarien:
 
 2. **Regelwerke anwenden:** Die DIN SPEC 33429 und das Regelwerk Netzwerk Leichte Sprache können anhand der Fassungen direkt überprüft werden. Welche Regeln wurden eingehalten? Wo gibt es Abweichungen (z. B. ein zu langer Satz)?
 
-3. **Automatische Qualitätsprüfung interpretieren:** Die JSON-Dateien 05 und 06 zeigen, was ein Skript automatisch prüfen kann und was nicht. Dass der Qualitätscheck "ok" meldet, heißt nicht, dass der Text gut verständlich ist — das illustriert die Grenzen maschineller Prüfung.
+3. **Automatische Qualitätsprüfung interpretieren:** Die JSON-Dateien 05 und 06 zeigen, was ein Skript automatisch prüfen kann und was nicht. Dass der Qualitätscheck "ok" meldet, heißt nicht, dass der Text gut verständlich ist — das zeigt die Grenzen maschineller Prüfung.
 
 4. **Sozialrecht im Kontext:** Der Sachverhalt (§ 22 SGB II, Widerspruchsfrist, Akteneinsicht) bietet eine kompakte Einführung in das Bürgergeld-Recht und die Schritte eines Widerspruchsverfahrens.
 
-5. **Barrierefreie Kommunikation:** Die Akte veranschaulicht den Zusammenhang zwischen Recht, Sprache und gesellschaftlicher Teilhabe — insbesondere für Menschen mit kognitiven Einschränkungen.
+5. **Barrierefreie Kommunikation:** Die Akte zeigt den Zusammenhang zwischen Recht, Sprache und gesellschaftlicher Teilhabe — insbesondere für Menschen mit kognitiven Einschränkungen.
 
 ---
 
-## Disclaimer
+## Hinweis zur Zielgruppenprüfung
 
-Diese Akte ist ein **fiktives Ausbildungsmaterial**. Alle Personen (Frau Neumann, Rechtsanwältin Muster), alle Aktenzeichen, Daten, Adressen und Sachverhalte sind vollständig erfunden. Übereinstimmungen mit realen Personen oder Verfahren sind zufällig und nicht beabsichtigt.
-
-Das Dokument **ersetzt keine rechtliche Beratung** im Einzelfall. Die dargestellte Rechtslage ist vereinfacht und kann von der tatsächlichen Rechtslage abweichen. Für konkrete Rechts- oder Sprachfragen wenden Sie sich bitte an qualifizierte Fachleute.
+Personenbezogene Angaben und Kontaktdaten sind anonymisiert; die rechtliche Arbeit richtet sich nach den in der Akte dokumentierten Unterlagen.
 
 Die Leichte-Sprache-Fassungen wurden **nicht von Menschen aus der Zielgruppe geprüft**. Eine solche Prüfung ist nach dem Regelwerk des Netzwerks Leichte Sprache zwingend vorgeschrieben, bevor ein Text als "Leichte Sprache" bezeichnet werden darf. Die Fassungen hier sind daher als Entwürfe zu verstehen.

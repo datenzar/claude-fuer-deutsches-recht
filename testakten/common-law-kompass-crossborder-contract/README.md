@@ -1,15 +1,15 @@
-# Testakte Common-Law-Kompass: Crossborder Supply & License Agreement
+# Akte Common-Law-Kompass: Crossborder Supply & License Agreement
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-common-law-kompass-crossborder-contract` (diese Akte) | [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
+| `testakte-common-law-kompass-crossborder-contract` (Akte) | [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-Fiktive Akte über die Verhandlung eines grenzüberschreitenden Liefer- und Lizenzvertrags zwischen einem deutschen Mittelständler (RheinMain Sensors GmbH, Hamburg) und einem US/UK-Konzern (Blue Harbor Systems Inc. / Blue Harbor (UK) Ltd.). Der Fall illustriert die typischen Rechtsprobleme, Terminologiefallen und Verhandlungstaktiken im deutsch-amerikanisch-britischen Vertragsrecht.
+Akte über die Verhandlung eines grenzüberschreitenden Liefer- und Lizenzvertrags zwischen einem deutschen Mittelständler (RheinMain Sensors GmbH, Hamburg) und einem US/UK-Konzern (Blue Harbor Systems Inc. / Blue Harbor (UK) Ltd.). Der Fall zeigt die typischen Rechtsprobleme, Terminologiefallen und Verhandlungstaktiken im deutsch-amerikanisch-britischen Vertragsrecht.
 
 ---
 
@@ -66,7 +66,7 @@ Die Verhandlungen sind durch fundamentale Meinungsverschiedenheiten über das an
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
 Diese Akte eignet sich für das Training und die Evaluation von KI-Assistenten im Bereich des grenzüberschreitenden Vertragsrechts (Cross-Border Commercial Law). Sie deckt folgende Kompetenzfelder ab:
 
@@ -95,12 +95,5 @@ Diese Akte eignet sich für das Training und die Evaluation von KI-Assistenten i
 
 ## Disclaimer
 
-> Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Vertragspartner, Aktenzeichen, Adressen, Bankverbindungen und Zahlen sind frei erfunden und dienen ausschließlich zu Trainings- und Demonstrationszwecken. Jede Ähnlichkeit mit realen Personen, Unternehmen oder Rechtssachen ist zufällig und unbeabsichtigt.
->
-> Die Inhalte dieser Akte stellen keine Rechtsberatung dar und ersetzen diese nicht. Für konkrete Rechtsfragen wenden Sie sich an einen zugelassenen Rechtsanwalt. Das Urheberrecht an den Inhalten liegt bei den Erstellern des Repositorys claude-fuer-deutsches-recht.
->
-> Keine Erwähnung von KI, Claude, GPT oder anderen Sprachmodellen ist beabsichtigt. Alle inhaltlichen Fehler sind fiktiv.
 
 ---
-
-*Letzte Aktualisierung: April 2024 | Kanzlei Brandt & Wessel (fiktiv)*

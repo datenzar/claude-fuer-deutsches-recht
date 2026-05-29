@@ -85,7 +85,7 @@ Lizenzgebuehren werden nach OECD-MA grundsaetzlich im Wohnsitzstaat des Glaeubig
 3. § 50a-Steuerabzug bei deutschen Vergueterschuldnern.
 
 ### Phase 6 — Anrechnung / Erklaerung
-1. § 34c EStG-Anrechnung beim auslaendischen Empfaenger.
+1. § 34c EStG-Anrechnung beim ausländischen Empfaenger.
 2. Anlage AUS / Anlage EUer.
 
 ## Output

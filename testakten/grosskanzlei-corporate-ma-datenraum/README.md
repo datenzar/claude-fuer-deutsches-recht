@@ -1,18 +1,15 @@
-# Testakte Großkanzlei Corporate/M&A Datenraum
+# Akte Großkanzlei Corporate/M&A Datenraum
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-grosskanzlei-corporate-ma-datenraum` (diese Akte) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
+| `testakte-grosskanzlei-corporate-ma-datenraum` (Akte) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-Fiktive Testakte für `grosskanzlei-corporate-ma`. Alle Daten, Personen, Unternehmen und Aktenzeichen sind frei erfunden.
 
 **Startprompt:**
-> `Starte das Corporate-M&A-Kommandocenter für diese Testakte und zeige mir die nächste beste Aktion.`
 
 ---
 
@@ -87,7 +84,7 @@ Dieser Abschnitt dokumentiert den Aufbau der Akte für die Phasen 00 bis 09 der 
 | [09_spa_markup_disclosure/disclosure_schedule_roh.md](09_spa_markup_disclosure/disclosure_schedule_roh.md) | Disclosure Schedule Rohfassung mit Buy-side-Kommentierung: Blanket-Disclosure-Kritik, fehlende Exportkontroll-Disclosure, Maßnahmenplan |
 | [09_spa_markup_disclosure/spa_auszug_key_provisions.docx](09_spa_markup_disclosure/spa_auszug_key_provisions.docx) | **DOCX** — SPA-Auszug: Rubrum, §§ 1 (Kaufgegenstand), 2 (Kaufpreis/Locked Box), 3 (Closing Conditions), 7 (Garantien), 10 (Regulatory Indemnity) |
 
-### Lernziel / Was zeigt diese Akte (Phase 00–09)
+### Prüffokus (Phase 00–09)
 
 Diese Akte zeigt exemplarisch den vollständigen Buy-side-M&A-Workflow einer deutschen Großkanzlei vom ersten Mandantenkontakt bis zum SPA-Markup:
 
@@ -106,10 +103,8 @@ Diese Akte zeigt exemplarisch den vollständigen Buy-side-M&A-Workflow einer deu
 
 ## Freestanding-Härtung
 
-Diese Testakte enthält zusätzliche Ordner für Aktenanlage, Liquiditätsvorschau, Insolvenzreife, Billing/E-Rechnung und GoBD (Ordner 10–18). Diese Ordner wurden von einem zweiten Subagenten bearbeitet und sind unabhängig nutzbar.
+Diese Akte enthält zusätzliche Ordner für Aktenanlage, Liquiditätsvorschau, Insolvenzreife, Billing/E-Rechnung und GoBD (Ordner 10–18). Diese Ordner wurden von einem zweiten Subagenten bearbeitet und sind unabhängig nutzbar.
 
 ---
 
 ## Disclaimer
-
-Alle Personen, Unternehmen, Aktenzeichen, Zahlen, Daten und sonstigen Angaben in dieser Testakte sind vollständig frei erfunden. Die Akte dient ausschließlich Schulungs- und Demonstrationszwecken. Sie stellt keine Rechtsberatung dar und ersetzt diese nicht. Die Kanzlei MWK Rechtsanwälte existiert nicht.

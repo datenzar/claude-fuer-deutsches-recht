@@ -202,7 +202,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 - **Drei-Stufen-Theorie strikt anwenden**: Eingriffe in bereits erdiente Anwartschaften scheitern regelmaessig an der BAG-Rechtsprechung, wenn keine sachlichen Gruende vorliegen.
 - **Mitbestimmung nicht vergessen**: Die Einfuehrung und wesentliche Aenderung von bAV-Systemen ist mitbestimmungspflichtig nach § 87 Abs. 1 Nr. 8 BetrVG.
 - **IFRS und steuerliche Bilanzierung abstimmen**: IFRS IAS 19 und § 6a EStG folgen unterschiedlichen Bewertungslogiken; Discrepanzen koennen zu Ueberraschungen fuehren.
-- **Drittlandrisiko bei internationalen Datenflows**: bAV-Daten von Expatriates oder auslaendischen Konzerngesellschaften fallen unter DSGVO Art. 44 ff.
+- **Drittlandrisiko bei internationalen Datenflows**: bAV-Daten von Expatriates oder ausländischen Konzerngesellschaften fallen unter DSGVO Art. 44 ff.
 - **PSV-Pflicht nicht uebersehen**: Nicht alle Durchfuehrungswege sind PSV-pflichtig; Fehler bei der Einordnung fuehren zu Haftungsluecken.
 
 ## Typische Fehler

@@ -103,7 +103,7 @@ Die Lohnsteuer-Anmeldung wird elektronisch ueber ELSTER an das Finanzamt uebermi
 - Bei Sondervergueteungen Fuenftel-Regelung § 34 EStG pruefen.
 - Bei Mehrfachbeschaeftigung des AN: Steuerklasse 6 fuer Folge-AG.
 - StBVV: ELSTER-Anmeldung in Lohnpauschale.
-- DATEV-Tipp: DATEV LODAS hat direkte ELSTER-Schnittstelle; bei Sicherheits-Zertifikaten regelmaessige Erneuerung.
+- DATEV-Tipp: DATEV LODAS hat direkte ELSTER-Schnittstelle; bei Sicherheits-Zertifikaten regelmäßige Erneuerung.
 
 ## Querverweise
 

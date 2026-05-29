@@ -97,6 +97,3 @@ Anlage 1: Entwurf Widerspruchsschreiben (zur Ansicht, noch nicht versandt)
 Anlage 2: Antrag auf Akteneinsicht (Entwurf)
 
 Anlage 3: Merkblatt Beratungshilfe Amtsgericht Berlin-Mitte
-
-
-Fiktive Lernakte – alle Personen und Aktenzeichen sind frei erfunden – ersetzt keine Rechtsberatung.

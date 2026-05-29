@@ -1,24 +1,19 @@
-# Testakte: Krisenfrüherkennung & StaRUG – Vier Varianten
+# Akte: Krisenfrüherkennung & StaRUG – Vier Varianten
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-krisenfrueherkennung-starug-vier-varianten` (diese Akte) | [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) |
+| `testakte-krisenfrueherkennung-starug-vier-varianten` (Akte) | [testakte-krisenfrueherkennung-starug-vier-varianten.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-krisenfrueherkennung-starug-vier-varianten.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
-
-> **Hinweis: Alle Personen, Unternehmen, Aktenzeichen, IBANs, Telefonnummern und
-> sonstigen Daten in dieser Akte sind vollständig fiktiv und dienen ausschließlich als
-> Testmaterial für das Plugin `krisenfrueherkennung-starug`. Jede Ähnlichkeit mit realen
-> Personen, Unternehmen oder Ereignissen ist zufällig und unbeabsichtigt.**
 
 ---
 
 ## Überblick
 
-Diese Testakte enthält vier parallel aufgebaute Restrukturierungsmandate, die das
+Diese Akte enthält vier parallel aufgebaute Restrukturierungsmandate, die das
 gesamte Spektrum der Krisenfrüherkennung nach § 1 StaRUG abdecken – von der
 strategischen Frühkrise bis zur akuten Insolvenzantragspflicht. Die vier Fälle sind
 bewusst kontrastiert: unterschiedliche Rechtsformen, Unternehmensgrößen, Gläubigerstrukturen
@@ -254,7 +249,7 @@ mehr greift, aber eine geordnete Insolvenz noch möglich ist.
 
 ---
 
-## Gemeinsame Lernziele – Plugin `krisenfrueherkennung-starug`
+## Gemeinsamer Prüffokus – Plugin `krisenfrueherkennung-starug`
 
 ### 1. Krisenstadien erkennen und rechtlich einordnen
 
@@ -310,7 +305,7 @@ einteilung nachvollziehen und die Voraussetzungen des § 26 StaRUG prüfen:
 
 ### 6. E-Mail-Anbahnung und Erstgespräch (Fall D)
 
-Die Salaltbar-E-Mail-Kette testet, ob der Skill aus einer unstrukturierten
+Die Salaltbar-E-Mail-Kette zeigt, ob der Skill aus einer unstrukturierten
 Mandatsanbahnung die relevanten Fakten extrahiert:
 
 - Liquiditätsstatus aus E-Mail-Text ableiten (EUR 3.400, EUR 43.300 fällig)
@@ -320,7 +315,7 @@ Mandatsanbahnung die relevanten Fakten extrahiert:
 
 ### 7. Besonderheiten gemeinnütziger Rechtsträger (Fall A)
 
-Die VEYRA gGmbH-Akte testet spezifisches Wissen über:
+Die VEYRA gGmbH-Akte legt besonderes Gewicht auf:
 
 - Einschränkungen bei Mitteleinsatz (§§ 55, 57, 58 AO – Gemeinnützigkeitsprinzip)
 - Fehlende Bankverschuldung als StaRUG-Besonderheit (kein Haircut gegenüber Banken möglich)
@@ -339,6 +334,6 @@ Die VEYRA gGmbH-Akte testet spezifisches Wissen über:
 
 ---
 
-*Alle Daten in dieser Akte sind fiktiv (Testakte, erstellt 22.05.2026). VEYRA AI Foundation gGmbH,
+*Alle Daten in dieser Akte sind (Akte, erstellt 22.05.2026). VEYRA AI Foundation gGmbH,
 Hartmannschmidt AG, Nordfels Power Cells SE und Salaltbar UG existieren nicht. Alle genannten
-Personen, Aktenzeichen, IBANs und Telefonnummern sind erfunden.*
+Personen, Aktenzeichen, IBANs und Telefonnummern sind anonymisiert.*

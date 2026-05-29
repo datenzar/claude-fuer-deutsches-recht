@@ -34,7 +34,7 @@ Theatinerstrasse 42
 
 Es wird beantragt, im Namen der Klaegerin durch Urteil zu erkennen:
 
-1. Die Beklagte wird verurteilt, an die Klaegerin 1197 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit 26. Februar 2026 Zug um Zug gegen Rueckgabe einer Datenbrille der Bauart Solis Vision X mit der Geraeteseriennummer LO-SVX-2025-44712 zu zahlen.
+1. Die Beklagte wird verurteilt, an die Klaegerin 1197 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit 26. Februar 2026 Zug um Zug gegen Rückgabe einer Datenbrille der Bauart Solis Vision X mit der Geraeteseriennummer LO-SVX-2025-44712 zu zahlen.
 
 2. Die Beklagte wird verurteilt, an die Klaegerin weitere 380 EUR nebst Zinsen in Hoehe von neun Prozentpunkten ueber dem Basiszinssatz seit Rechtshaengigkeit zu zahlen.
 
@@ -50,7 +50,7 @@ Die Klaegerin ist ein im Vereinsregister beim Amtsgericht Hamburg unter VR 12345
 
 Am 12. Februar 2026 bestellte die Klaegerin im Onlineshop der Beklagten unter solis-vision.example eine Datenbrille der Bauart **Solis Vision X**, Geraeteseriennummer LO-SVX-2025-44712, zum Kaufpreis von 1197 EUR. Die Bestellung erfolgte als **Testkauf zur Beweissicherung** zwecks anschliessender Begutachtung der Datenschutzkonformitaet.
 
-Bei der Bestellung verwendete die Klaegerin in der Eingabemaske ihrer Bestellung ihre AGB (Anlage K 1). Die Beklagte bestaetigte die Bestellung am 13. Februar 2026 und verwies in ihrer Auftragsbestaetigung auf ihre eigenen AGB (Anlage K 2). Beide AGB enthalten widersprueche, insbesondere zur Rechtswahl: Die AGB der Klaegerin sehen deutsches Recht vor, die AGB der Beklagten Schweizer Recht und Gerichtsstand Zuerich.
+Bei der Bestellung verwendete die Klaegerin in der Eingabemaske ihrer Bestellung ihre AGB (Anlage K 1). Die Beklagte bestaetigte die Bestellung am 13. Februar 2026 und verwies in ihrer Auftragsbestaetigung auf ihre eigenen AGB (Anlage K 2). Beide AGB enthalten widersprueche, insbesondere zur Rechtswahl: Die AGB der Klaegerin sehen deutsches Recht vor, die AGB der Beklagten Schweizer Recht und Gerichtsstand Zürich.
 
 Die Lieferung erfolgte am 19. Februar 2026 per Kurier von Galway nach Hamburg. Die Auftragsbestaetigung enthielt den Vermerk "FOB Galway, Incoterms 2020" (Anlage K 3).
 
@@ -63,7 +63,7 @@ Nach Erhalt der Brille gab die Klaegerin ein Sachverstaendigengutachten bei dem 
 
 Die Kosten des Gutachtens belaufen sich auf 380 EUR (Anlage K 5).
 
-Mit anwaltlichem Schreiben vom 23. Februar 2026 (Anlage K 6) erklaerte die Klaegerin gegenueber der Beklagten die Vertragsaufhebung wegen wesentlicher Vertragsverletzung und forderte sie unter Fristsetzung bis 5. Maerz 2026 zur Rueckzahlung von 1577 EUR Zug um Zug gegen Rueckgabe der Brille auf. Die Beklagte lehnte mit Schreiben vom 25. Februar 2026 (Anlage K 7) ab.
+Mit anwaltlichem Schreiben vom 23. Februar 2026 (Anlage K 6) erklaerte die Klaegerin gegenueber der Beklagten die Vertragsaufhebung wegen wesentlicher Vertragsverletzung und forderte sie unter Fristsetzung bis 5. Maerz 2026 zur Rueckzahlung von 1577 EUR Zug um Zug gegen Rückgabe der Brille auf. Die Beklagte lehnte mit Schreiben vom 25. Februar 2026 (Anlage K 7) ab.
 
 ## Rechtliche Wuerdigung
 
@@ -93,7 +93,7 @@ Selbst wenn man Schweizer Recht anwenden wollte, fuehrt Artikel 9 Rom-I dazu, da
 
 ### Rechtsbehelfe
 
-Wegen wesentlicher Vertragsverletzung im Sinne des Artikel 25 CISG (Beraubung des wesentlichen Vertragsinteresses) ist die Klaegerin nach Artikel 49 Absatz 1 a CISG zur Aufhebung des Vertrages berechtigt. Sie kann nach Artikel 81 Absatz 2 CISG den Kaufpreis zurueckverlangen Zug um Zug gegen Rueckgabe der Brille. Die Aufwendungen fuer das Gutachten sind nach Artikel 74 CISG als Folgeschaden ersatzfaehig.
+Wegen wesentlicher Vertragsverletzung im Sinne des Artikel 25 CISG (Beraubung des wesentlichen Vertragsinteresses) ist die Klaegerin nach Artikel 49 Absatz 1 a CISG zur Aufhebung des Vertrages berechtigt. Sie kann nach Artikel 81 Absatz 2 CISG den Kaufpreis zurueckverlangen Zug um Zug gegen Rückgabe der Brille. Die Aufwendungen fuer das Gutachten sind nach Artikel 74 CISG als Folgeschaden ersatzfaehig.
 
 Mit freundlichen Gruessen
 

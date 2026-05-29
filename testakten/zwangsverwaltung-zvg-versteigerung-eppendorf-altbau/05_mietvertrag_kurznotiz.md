@@ -4,8 +4,8 @@
 
 | Feld | Inhalt |
 | --- | --- |
-| Vermieter | Erbengemeinschaft Albrecht, fiktiv |
-| Mieter | L. Sommer, fiktiv |
+| Vermieter | Erbengemeinschaft Albrecht |
+| Mieter | L. Sommer |
 | Mietbeginn | 01.11.2021 |
 | Vertragszweck | Wohnraummiete |
 | Fläche | ca. 95,30 qm |

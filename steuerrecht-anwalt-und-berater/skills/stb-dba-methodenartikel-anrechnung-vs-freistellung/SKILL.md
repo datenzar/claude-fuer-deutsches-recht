@@ -17,7 +17,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 4. Greift eine Aktivitaetsklausel im DBA (Erfordernis aktiver Taetigkeit)?
 5. Greift § 50d Abs. 9 EStG (Subject-to-Tax-Klausel mit Rueckfall) wegen Nichtbesteuerung im Quellenstaat?
 6. Greift § 20 Abs. 2 AStG (Switch-Over bei niedrig besteuerter Betriebsstaette)?
-7. Wurden Nachweise der auslaendischen Besteuerung (Steuerbescheid, Quellensteuerbescheinigung, BZSt-Formulare) eingereicht?
+7. Wurden Nachweise der ausländischen Besteuerung (Steuerbescheid, Quellensteuerbescheinigung, BZSt-Formulare) eingereicht?
 8. Liegen begleitende deutsche Anlagen (Anlage AUS, Anlage N-AUS) bereits vor oder muessen sie erstellt werden?
 
 ## Rechtlicher Rahmen
@@ -76,7 +76,7 @@ Nach DBA-Pruefung der Verteilungsartikel folgt die Methodenpruefung: Wie wird di
 
 ### Switch-Over § 20 Abs. 2 AStG
 
-- Anwendbar bei auslaendischen Betriebsstaetten.
+- Anwendbar bei ausländischen Betriebsstaetten.
 - Voraussetzung: passive Einkuenfte und niedrige Besteuerung.
 - AStG-Reform 2022: Niedrigsteuer-Schwelle betraegt weiterhin 25 Prozent gemaess § 8 Abs. 5 AStG n.F. — aktuellen Anwendungserlass im Einzelfall pruefen.
 

@@ -12,7 +12,7 @@
 
 | Bereich | Interne Freigabe | Erwarteter API/API-Export | Risiko |
 |---|---|---|---|
-| Organisation | Buergerinitiative Waldmoor 2030 | Name exakt, keine Vereinsrechtsform | mittel |
+| Organisation | Bürgerinitiative Waldmoor 2030 | Name exakt, keine Vereinsrechtsform | mittel |
 | Organisationstyp | Netzwerk/sonstige Organisation ohne eigene Rechtspersoenlichkeit | `identity` Organisation, Rechtsformhinweis | mittel |
 | Sprecherinnen | Luise Barmbek, Navid Sahin | als vertretungs-/sprechbefugte Personen | gering |
 | Taetigkeit | Moratorium B 449n und Alternativenpruefung | nicht nur "Umweltschutz allgemein" | hoch |
@@ -22,7 +22,7 @@
 | Gutachten | Karten- und Moorhydrologie-Gutachten | nur als Stellungnahme, wenn an Bundesadressaten versandt | mittel |
 | Kodex | Ehrenamtsleitfaden akzeptiert | keine eigene Kodex-PDF erforderlich, wenn nicht vorhanden | gering |
 
-## Fiktiver API-Schnipsel nach Veroeffentlichung
+## API-Schnipsel nach Veroeffentlichung
 
 ```json
 {
@@ -40,7 +40,7 @@
   },
   "lobbyistIdentity": {
     "identity": "ORGANIZATION",
-    "companyName": "Buergerinitiative Waldmoor 2030"
+    "companyName": "Bürgerinitiative Waldmoor 2030"
   },
   "activitiesAndInterests": {
     "generalInformation": "Interessenvertretung fuer ein Moratorium der Bundesfernstrassen-Trasse B 449n und fuer eine moorschutzfachliche Alternativenpruefung."

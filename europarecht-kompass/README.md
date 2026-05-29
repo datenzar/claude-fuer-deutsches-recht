@@ -66,4 +66,4 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 ## Download
 
 - Plugin-ZIP: [europarecht-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip)
-- Testakte: [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip)
+- Akte: [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip)

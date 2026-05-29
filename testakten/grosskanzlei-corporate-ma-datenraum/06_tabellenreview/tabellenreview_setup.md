@@ -1,10 +1,10 @@
 # Tabellenreview-Setup — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** TABREV-SETUP-001/SIL  
-**Datum:** 28. November 2024  
-**Verfasserin:** Katharina Pfeiffer, Senior Associate  
-**Adressat:** DD-Team / Associate Tim Berger  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** TABREV-SETUP-001/SIL
+**Datum:** 28. November 2024
+**Verfasserin:** Katharina Pfeiffer, Senior Associate
+**Adressat:** DD-Team / Associate Tim Berger
 **Betreff:** Setup und Arbeitsanleitung Vertragsreview-Tabelle (Commercial Workstream)
 
 ---
@@ -114,5 +114,3 @@ Gesamt: ca. **24 Verträge** im ersten Review-Durchgang.
 - **Assignment:** Vertragsübertragungs- und Abtretungsklauseln sind bei Share Deals theoretisch nicht direkt ausgelöst (die Gesellschaft bleibt Vertragspartner); trotzdem können Zustimmungsklauseln formuliert sein, die auf den Anteilserwerb abstellen.
 
 ---
-
-*Alle in diesem Vermerk genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

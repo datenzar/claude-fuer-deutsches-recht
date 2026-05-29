@@ -1,12 +1,12 @@
-# Testakte: ZVG-Versteigerung Eppendorf-Altbau
+# Akte: ZVG-Versteigerung Eppendorf-Altbau
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` (diese Akte) | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
+| `testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau` (Akte) | [testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-zvg-versteigerung-eppendorf-altbau.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
 Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vom Anordnungsbeschluss bis zum Zuschlag und Teilungsplan. Der Fall spielt in Hamburg-Eppendorf und umfasst eine vermietete Eigentumswohnung in einem Gründerzeit-Altbau. Die Akte deckt die gesamte Verfahrensstrecke ab: ZVG-Portal-Recherche, Grundbuchanalyse, Verkehrswertgutachten, Terminvorbereitung, Biettermin, Zuschlagsbeschluss und Erlösverteilung.
@@ -15,13 +15,13 @@ Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vo
 
 ## Sachverhalt
 
-Jonas R. Albrecht (fiktiv) hinterlässt beim Tod seine Eigentumswohnung Nr. 9 im dritten Obergeschoss links des Altbau-Mehrfamilienhauses Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg. Die Wohnung gehört zur WEG Eppendorf Blatt 48291 (Flurstück 1842/7, 612 qm, MEA 39,20/1.000) und hat laut Teilungserklärung eine Wohnfläche von 95,30 qm. Das Gebäude wurde um 1890 errichtet; das Dachgeschoss wurde um 1994 ausgebaut.
+Jonas R. Albrecht hinterlässt beim Tod seine Eigentumswohnung Nr. 9 im dritten Obergeschoss links des Altbau-Mehrfamilienhauses Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg. Die Wohnung gehört zur WEG Eppendorf Blatt 48291 (Flurstück 1842/7, 612 qm, MEA 39,20/1.000) und hat laut Teilungserklärung eine Wohnfläche von 95,30 qm. Das Gebäude wurde um 1890 errichtet; das Dachgeschoss wurde um 1994 ausgebaut.
 
-Die Erbengemeinschaft – bestehend aus den Miterben Heinrich J. Albrecht und Sofie Albrecht-Wegener (beide fiktiv) – bedient die Grundschuld der Nordelbe Kreditbank AG (fiktiv) in Höhe von 520.000,00 EUR nicht mehr. Die Kreditbank erwirkt zunächst die Anordnung der Zwangsverwaltung (Az. 71 L 44/25, eingetragen 18.11.2025) und anschließend die Anordnung der Zwangsversteigerung (Az. 71 K 18/26, eingetragen 12.02.2026). Die Wohnung ist seit dem 01.11.2021 an L. Sommer (fiktiv) vermietet; die Nettokaltmiete beträgt seit Mai 2023 monatlich 1.320,00 EUR. Auffällig sind drei Klingelnamenschilder sowie der Briefkastenzusatz "Atelier Nordbogen" – die tatsächliche Nutzung bleibt ungeklärt.
+Die Erbengemeinschaft – bestehend aus den Miterben Heinrich J. Albrecht und Sofie Albrecht-Wegener  – bedient die Grundschuld der Nordelbe Kreditbank AG in Höhe von 520.000,00 EUR nicht mehr. Die Kreditbank erwirkt zunächst die Anordnung der Zwangsverwaltung (Az. 71 L 44/25, eingetragen 18.11.2025) und anschließend die Anordnung der Zwangsversteigerung (Az. 71 K 18/26, eingetragen 12.02.2026). Die Wohnung ist seit dem 01.11.2021 an L. Sommer vermietet; die Nettokaltmiete beträgt seit Mai 2023 monatlich 1.320,00 EUR. Auffällig sind drei Klingelnamenschilder sowie der Briefkastenzusatz "Atelier Nordbogen" – die tatsächliche Nutzung bleibt ungeklärt.
 
-Der vom Gericht bestellte Sachverständige Dipl.-Ing. Thorsten Malkwitz (fiktiv) erstellt zum Stichtag 28.04.2026 ein Verkehrswertgutachten. Da eine Innenbesichtigung vom Mieter verweigert wird, stützt er sich auf Außenbesichtigung und Vergleichsdaten des Gutachterausschusses Hamburg. Der Verkehrswert wird auf 685.000,00 EUR festgesetzt; Abschläge für fehlende Innenbesichtigung (−25.000,00 EUR) und ungeklärte Nutzung (−10.000,00 EUR) sind eingerechnet. Die WEG hält eine Sonderumlage für Steigleitungen und Dachentwässerung im Raum; ein Beschluss hierüber liegt noch nicht vor.
+Der vom Gericht bestellte Sachverständige Dipl.-Ing. Thorsten Malkwitz erstellt zum Stichtag 28.04.2026 ein Verkehrswertgutachten. Da eine Innenbesichtigung vom Mieter verweigert wird, stützt er sich auf Außenbesichtigung und Vergleichsdaten des Gutachterausschusses Hamburg. Der Verkehrswert wird auf 685.000,00 EUR festgesetzt; Abschläge für fehlende Innenbesichtigung (−25.000,00 EUR) und ungeklärte Nutzung (−10.000,00 EUR) sind eingerechnet. Die WEG hält eine Sonderumlage für Steigleitungen und Dachentwässerung im Raum; ein Beschluss hierüber liegt noch nicht vor.
 
-Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnies (fiktiv) am Amtsgericht Hamburg statt. Drei Bieter erscheinen: Nordhafen Immobilien UG (fiktiv), Elke Sonnenberg (fiktiv) und BH Capital GmbH & Co. KG (fiktiv). Nach 15 Geboten erteilt die Rechtspflegerin der Nordhafen Immobilien UG den Zuschlag zum Bargebot von 534.000,00 EUR. Der Erlös übersteigt die 7/10-Grenze (479.500,00 EUR), sodass kein Versagungsgrund nach § 74a ZVG vorliegt. Der Teilungsplan weist nach Abzug von öffentlichen Lasten, WEG-Hausgeld und Verfahrenskosten einen Restbetrag an die betreibende Gläubigerin Nordelbe Kreditbank AG aus; ein Überschuss zugunsten der Schuldner verbleibt nicht.
+Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnies am Amtsgericht Hamburg statt. Drei Bieter erscheinen: Nordhafen Immobilien UG (), Elke Sonnenberg und BH Capital GmbH & Co. KG. Nach 15 Geboten erteilt die Rechtspflegerin der Nordhafen Immobilien UG den Zuschlag zum Bargebot von 534.000,00 EUR. Der Erlös übersteigt die 7/10-Grenze (479.500,00 EUR), sodass kein Versagungsgrund nach § 74a ZVG vorliegt. Der Teilungsplan weist nach Abzug von öffentlichen Lasten, WEG-Hausgeld und Verfahrenskosten einen Restbetrag an die betreibende Gläubigerin Nordelbe Kreditbank AG aus; ein Überschuss zugunsten der Schuldner verbleibt nicht.
 
 ---
 
@@ -38,11 +38,11 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 | **Wohnfläche WE Nr. 9** | 95,30 qm (laut TE) |
 | **Baujahr** | um 1890 (DG-Ausbau um 1994) |
 | **Adresse** | Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg |
-| **Schuldner** | Erbengemeinschaft Albrecht (fiktiv): Heinrich J. Albrecht + Sofie Albrecht-Wegener |
-| **Betreibende Gläubigerin** | Nordelbe Kreditbank AG (fiktiv) |
+| **Schuldner** | Erbengemeinschaft Albrecht: Heinrich J. Albrecht + Sofie Albrecht-Wegener |
+| **Betreibende Gläubigerin** | Nordelbe Kreditbank AG |
 | **Grundschuld** | 520.000,00 EUR (Abt. III Nr. 1) |
 | **Zwangssicherungshypothek WEG** | 38.400,00 EUR (Abt. III Nr. 2) |
-| **Mieter** | L. Sommer (fiktiv), seit 01.11.2021 |
+| **Mieter** | L. Sommer (), seit 01.11.2021 |
 | **Nettokaltmiete aktuell** | 1.320,00 EUR/Monat (ab 01.05.2023) |
 | **Hausgeld WEG** | 512,00 EUR/Monat (inkl. 126,00 EUR Erhaltungsrücklage) |
 | **Verkehrswert (§ 74a ZVG)** | 685.000,00 EUR (Stichtag 28.04.2026) |
@@ -50,9 +50,9 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 | **5/10-Grenze** | 342.500,00 EUR |
 | **Sicherheitsleistung** | 68.500,00 EUR |
 | **Versteigerungstermin** | 16.07.2026, 10:00 Uhr, Saal 214 |
-| **Höchstgebot / Zuschlag** | 534.000,00 EUR (Nordhafen Immobilien UG, fiktiv) |
-| **Gutachter** | Dipl.-Ing. Thorsten Malkwitz (fiktiv), Gutachtennr. 2026-HH-117 |
-| **Zwangsverwalter** | Ralf Benderoth (fiktiv), Benderoth & Kassel Immobilienverwaltung GmbH |
+| **Höchstgebot / Zuschlag** | 534.000,00 EUR (Nordhafen Immobilien UG) |
+| **Gutachter** | Dipl.-Ing. Thorsten Malkwitz (), Gutachtennr. 2026-HH-117 |
+| **Zwangsverwalter** | Ralf Benderoth (), Benderoth & Kassel Immobilienverwaltung GmbH |
 
 ---
 
@@ -60,10 +60,10 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 
 | Datei | Format | Inhalt |
 |-------|--------|--------|
-| [00_hinweis_anonymisierung.md](00_hinweis_anonymisierung.md) | MD | Fiktions- und Abgrenzungsvermerk, alle erfundenen Stammdaten |
+| [00_hinweis_anonymisierung.md](00_hinweis_anonymisierung.md) | MD | Fiktions- und Abgrenzungsvermerk, alle anonymisierten Stammdaten |
 | [01_zvg_portal_rechercheprotokoll.md](01_zvg_portal_rechercheprotokoll.md) | MD | Dokumentierte ZVG-Portal-Suche Hamburg/Eppendorf mit Wiederholungsanweisung |
-| [02_terminsbekanntmachung.md](02_terminsbekanntmachung.md) | MD | Fiktive Terminsbekanntmachung (§ 39 ZVG): Objekt, Termin, Verkehrswert, Hinweise |
-| [03_grundbuchauszug_anonymisiert.md](03_grundbuchauszug_anonymisiert.md) | MD | Fiktiver Wohnungsgrundbuchauszug: Bestandsverzeichnis, Abt. I–III |
+| [02_terminsbekanntmachung.md](02_terminsbekanntmachung.md) | MD | Terminsbekanntmachung (§ 39 ZVG): Objekt, Termin, Verkehrswert, Hinweise |
+| [03_grundbuchauszug_anonymisiert.md](03_grundbuchauszug_anonymisiert.md) | MD | Wohnungsgrundbuchauszug: Bestandsverzeichnis, Abt. I–III |
 | [04_verkehrswertgutachten_kurzfassung.md](04_verkehrswertgutachten_kurzfassung.md) | MD | Gutachten-Kurzfassung: Miettabellen, WEG, Abschläge, Ergebnis 685.000 EUR |
 | [05_mietvertrag_kurznotiz.md](05_mietvertrag_kurznotiz.md) | MD | Mietstruktur, besondere Abreden, Auffälligkeiten (Atelier Nordbogen) |
 | [06_bieterangebot_bewertung.md](06_bieterangebot_bewertung.md) | MD | Bewertung eines vorgerichtlichen Bieterangebots (515.000 EUR); Bietlimit 525.000 EUR |
@@ -88,7 +88,7 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 
 ---
 
-## Lernziele / Was zeigt diese Akte
+## Prüffokus
 
 **Verfahrensstruktur:**
 - Zusammenspiel von Zwangsverwaltung (§§ 146 ff. ZVG) und Zwangsversteigerung (§§ 15 ff. ZVG) in einer Akte
@@ -119,6 +119,5 @@ Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnie
 
 ## Disclaimer
 
-Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Aktenzeichen, Grundbuchdaten, Adressen, IBANs und sonstigen Angaben sind frei erfunden. Übereinstimmungen mit realen Personen, Gesellschaften oder Verfahren sind zufällig und nicht beabsichtigt. Originale Fotos, Grundrisse und Karten sind nicht enthalten; entsprechende Bild- und Kartenbeschreibungen sind als Text dokumentiert.
 
 Die Inhalte dienen ausschließlich der Ausbildung und dürfen nicht als Rechtsberatung im Einzelfall verstanden werden. Für konkrete rechtliche Fragen zu Zwangsversteigerungsverfahren ist stets anwaltlicher Rat einzuholen.

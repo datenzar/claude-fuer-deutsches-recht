@@ -1,26 +1,26 @@
-# Testakte Datenschutz: US-Transfer CloudSuite Assist
+# Akte Datenschutz: US-Transfer CloudSuite Assist
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-datenschutz-us-transfer-cloudsuite-rheinmain` (diese Akte) | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
+| `testakte-datenschutz-us-transfer-cloudsuite-rheinmain` (Akte) | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate für realistische Tests.
 
-**Fiktive Testakte.** Alle Personen, Unternehmen, Aktenzeichen, Vertragsdaten und Dienste sind erfunden. Die Akte dient dazu, die Datenschutz-Skills zu US-Transfers, DPF-Listing, SCC, TIA und Behördenkommunikation realistisch zu testen.
+**Arbeitsakte.** Alle Personen, Unternehmen, Aktenzeichen, Vertragsdaten und Dienste sind anonymisiert. Die Akte ist darauf ausgelegt, die Datenschutz-Skills zu US-Transfers, DPF-Listing, SCC, TIA und Behördenkommunikation realistisch anzuwenden.
 
 ## Kurzsachverhalt
 
 Die RheinMain Präzisionstechnik GmbH aus Frankfurt am Main nutzt seit Januar 2025 die SaaS-Plattform **CloudSuite Assist** für CRM, Supporttickets und KI-gestützte Antwortvorschläge. Vertragspartner im Rahmenvertrag ist die CloudSuite Ireland Ltd.; technische Betreiberin und US-Importeurin ist nach DPA und Security-Anhang die CloudSuite Assist Inc., Delaware/San José. Die produktiven Kundendaten liegen laut Vertrag in Frankfurt und Dublin, aber der 2nd-Level-Support, Telemetrieauswertung, Abuse-Detection und einzelne KI-Logfragmente werden in den USA verarbeitet.
 
-Im Mai 2026 fragt die hessische Datenschutzaufsicht nach, auf welcher Grundlage die US-Transfers laufen. Der Einkauf hat bislang nur eine Anbieter-Mail "we are DPF certified" abgelegt. Die Rechtsabteilung findet außerdem SCC, aber nicht vollständig ausgefüllte Annex-II- und Annex-III-Anlagen. Die Testakte enthält bewusst kleine Reibungen: Konzernnamen weichen voneinander ab, der DPF-Scope ist unklar, HR-Daten dürfen eigentlich nicht in Tickets landen, und ein Subprozessor ist erst im April 2026 ergänzt worden.
+Im Mai 2026 fragt die hessische Datenschutzaufsicht nach, auf welcher Grundlage die US-Transfers laufen. Der Einkauf hat bislang nur eine Anbieter-Mail "we are DPF certified" abgelegt. Die Rechtsabteilung findet außerdem SCC, aber nicht vollständig ausgefüllte Annex-II- und Annex-III-Anlagen. Die Akte enthält bewusst kleine Reibungen: Konzernnamen weichen voneinander ab, der DPF-Scope ist unklar, HR-Daten dürfen eigentlich nicht in Tickets landen, und ein Subprozessor ist erst im April 2026 ergänzt worden.
 
 ## Enthaltene Unterlagen
 
 | Datei | Inhalt |
 |---|---|
-| `01_behoerdenanfrage_hbdi_2026-05-12.md` | Fiktive Anfrage der hessischen Datenschutzaufsicht |
+| `01_behoerdenanfrage_hbdi_2026-05-12.md` | Anfrage der hessischen Datenschutzaufsicht |
 | `02_anbieterprofil_cloudsuite_assist.md` | Anbieter-, Vertrags- und Datenflussprofil |
 | `03_dpf_pruefvermerk_listung_und_luecken.md` | Interner Vermerk zum behaupteten DPF-Listing |
 | `04_transferregister_vvt_auszug.md` | Auszug aus Transferregister und VVT |

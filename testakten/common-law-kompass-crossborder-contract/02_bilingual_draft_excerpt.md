@@ -274,7 +274,3 @@ Dauert ein Ereignis höherer Gewalt länger als neunzig (90) Kalendertage, ist j
 Clause 16.3 Termination Right
 
 If a Force Majeure event continues for more than ninety (90) calendar days, either Party may terminate this Agreement by written notice to the other Party without liability for such termination.
-
-
-
-Vertragsauszug – Arbeitsentwurf v2.3. Kein vollständiges Vertragsdokument. Inhalte fiktiv. Keine Rechtsberatung. Kanzlei Brandt & Wessel, Hamburg, April 2024.

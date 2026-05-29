@@ -7,7 +7,7 @@ description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. A
 
 ## Kernsachverhalt
 
-Kurzarbeit ist die voruebergehende Reduzierung der regelmaessigen Arbeitszeit aus wirtschaftlichen Gruenden. Der AG meldet Kurzarbeit bei der Bundesagentur fuer Arbeit (BA) an; der AN erhaelt anteilig den Lohn vom AG plus KUG von der BA. KUG wird ueber AG abgerechnet (Erstattungsverfahren). Das KUG selbst ist steuerfrei, unterliegt aber dem Progressionsvorbehalt (§ 32b EStG) — wirkt also auf den Steuersatz der uebrigen Einkuenfte.
+Kurzarbeit ist die voruebergehende Reduzierung der regelmäßigen Arbeitszeit aus wirtschaftlichen Gruenden. Der AG meldet Kurzarbeit bei der Bundesagentur fuer Arbeit (BA) an; der AN erhaelt anteilig den Lohn vom AG plus KUG von der BA. KUG wird ueber AG abgerechnet (Erstattungsverfahren). Das KUG selbst ist steuerfrei, unterliegt aber dem Progressionsvorbehalt (§ 32b EStG) — wirkt also auf den Steuersatz der uebrigen Einkuenfte.
 
 ## Kaltstart-Rueckfragen
 

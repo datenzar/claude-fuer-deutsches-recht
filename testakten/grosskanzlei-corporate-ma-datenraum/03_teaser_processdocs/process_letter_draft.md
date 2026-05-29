@@ -1,9 +1,9 @@
 # Process Letter — Projekt Silberfalke (Phase 1 und Phase 2)
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** PL-001/SIL  
-**Datum:** 3. Oktober 2024  
-**Herausgeber:** Meridian Corporate Finance GmbH (Sell-side Advisor), Maximilianstraße 14, 80539 München  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** PL-001/SIL
+**Datum:** 3. Oktober 2024
+**Herausgeber:** Meridian Corporate Finance GmbH (Sell-side Advisor), Maximilianstraße 14, 80539 München
 **Adressat:** Alle qualifizierten Bieter (je gesondert adressiert)
 
 ---
@@ -28,7 +28,7 @@ Der Bieterprozess ist in drei Phasen gegliedert:
 
 ### Phase 1: Sondierungsphase (Teaser/NDA/indikatives Angebot)
 
-**Inhalt:**  
+**Inhalt:**
 - Unterzeichnung der Vertraulichkeitsvereinbarung (NDA) durch alle teilnehmenden Bieter
 - Übergabe des Management Summary (Teaser) an unterzeichnende Bieter
 - Management Call / Präsentation (ca. 60 Minuten, telefonisch oder Video; auf Anfrage)
@@ -44,7 +44,7 @@ Der Bieterprozess ist in drei Phasen gegliedert:
 - Beabsichtigte Bieterkonsortien (sofern zutreffend)
 - Vorläufige Zeitvorstellung für Closing
 
-**Auswahlkriterien Phase 1 → Phase 2:**  
+**Auswahlkriterien Phase 1 → Phase 2:**
 Die Verkäuferin wählt nach Auswertung der NBOs diejenigen Bieter für Phase 2 aus, die das überzeugendste Preis-Leistungs-Profil und eine hinreichende Abschlusssicherheit bieten. Es wird kein Anspruch auf Begründung der Nichtauswahl gewährt.
 
 ---
@@ -53,7 +53,7 @@ Die Verkäuferin wählt nach Auswertung der NBOs diejenigen Bieter für Phase 2 
 
 **Eröffnung Datenraum:** voraussichtlich 25. November 2024
 
-**Inhalt:**  
+**Inhalt:**
 - Zugang zum Virtual Data Room (VDR, Plattform: Intralinks) für ausgewählte Bieter
 - Management Presentations (2.–6. Dezember 2024 in Augsburg; je Bieter ca. 3 Stunden)
 - Q&A-Prozess über das VDR-Q&A-Modul (schriftliche Fragen; Antworten innerhalb von 5 Werktagen)
@@ -113,12 +113,9 @@ Eine Ansprache von Mitarbeitern der Gesellschaft oder ihrer Tochtergesellschafte
 
 ## V. Kontakt
 
-> **Meridian Corporate Finance GmbH**  
-> Ansprechpartner: Rolf Dinkelbach (Director M&A), Telefon: +49 89 123 456-10  
-> E-Mail: r.dinkelbach@meridian-cf.de *(fiktiv)*  
-> Clara Voigt (Analyst), Telefon: +49 89 123 456-11  
+> **Meridian Corporate Finance GmbH**
+> Ansprechpartner: Rolf Dinkelbach (Director M&A), Telefon: +49 89 123 456-10
+> Clara Voigt (Analyst), Telefon: +49 89 123 456-11
 > Alle Fragen bitte schriftlich per E-Mail, Antwortfrist 2 Werktage.
 
 ---
-
-*Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen, Daten und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

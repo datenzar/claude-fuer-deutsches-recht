@@ -1,6 +1,6 @@
-# Testakte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag
+# Akte Selbstvertreter Sozialgericht — Heizkosten und Eilantrag
 
-Fiktive Testakte für das Plugin `selbstvertreter-sozialgericht`. Mittlerer bis höherer Schwierigkeitsgrad: KdU-Konzept der Stadt Leipzig, bundesweiter Heizkostenspiegel, kindliches Asthma als individueller Mehrbedarf, Eilantrag § 86b SGG mit Anordnungsanspruch und Anordnungsgrund, Zustellfiktion, Vorschuss § 42 SGB I, Mahnbescheid-Risiko.
+Arbeitsakte für das Plugin `selbstvertreter-sozialgericht`. Mittlerer bis höherer Schwierigkeitsgrad: KdU-Konzept der Stadt Leipzig, bundesweiter Heizkostenspiegel, kindliches Asthma als individueller Mehrbedarf, Eilantrag § 86b SGG mit Anordnungsanspruch und Anordnungsgrund, Zustellfiktion, Vorschuss § 42 SGB I, Mahnbescheid-Risiko.
 
 ## Kurzbild
 
@@ -10,7 +10,7 @@ Hintergrund: Der Heizverbrauch ist objektiv erhöht — Erdgaspreis ist 2025 um 
 
 Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 
-## Lernziele
+## Prüffokuse
 
 - Bescheidkette und Fristen im SGG ordnen (Bescheid → Widerspruch → Widerspruchsbescheid → Klage / Eilantrag).
 - Unterschied § 86b Abs. 1 SGG (aufschiebende Wirkung) und § 86b Abs. 2 SGG (einstweilige Anordnung) verstehen und richtig anwenden.
@@ -59,5 +59,3 @@ Frau Reuter will ohne Anwalt klagen und gleichzeitig einen Eilantrag stellen.
 6. § 42 SGB I-Vorschuss prüfen (nachholbar?)
 7. `klage-zusammenstellen-bundle-sozialgericht`
 8. `sanity-check-selbstvertretung-sozialgericht`
-
-Alle Namen, Beträge, Aktenzeichen und Adressen sind frei erfunden.

@@ -57,5 +57,3 @@ ANMERKUNGEN ZUM BEWEISWERT:
 
 AKTENZEICHEN: 34 C 421/22 / LG 14 S 88/23 / BGH VIII ZR 159/23
 AKTENFUNDSTELLE: Handakte RA Dr. Hassenstein-Heepen, Ordner "Korrespondenz Mandant"
-
-■ FIKTIVE TESTAKTE — Alle Personen und Daten sind erfunden.

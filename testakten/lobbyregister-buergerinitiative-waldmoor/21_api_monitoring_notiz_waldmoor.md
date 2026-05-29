@@ -1,18 +1,18 @@
-# API-Monitoringnotiz: Buergerinitiative Waldmoor 2030
+# API-Monitoringnotiz: Bürgerinitiative Waldmoor 2030
 
 ## Anlass
 
 Die Initiative ist unsicher, ob sie nach Petition, Anhoerung und spaeterer Bundeskampagne freiwillig oder verpflichtend registriert werden soll. Vor einer freiwilligen Registrierung soll geprueft werden, ob es bereits oeffentliche Treffer gibt und ob eine Namensverwechslung mit anderen Waldmoor-Gruppen droht.
 
-Bearbeitung: Luise Barmbek und RAin Julia Stern  
-Erster API-Test: 20.05.2026  
+Bearbeitung: Luise Barmbek und RAin Julia Stern
+Erster API-Test: 20.05.2026
 Geplanter zweiter API-Test nach freiwilliger Registrierung: 10.06.2026
 
 ## Suchprofil vor Registrierung
 
 | Suchlauf | Suchbegriff | Zweck | Erwartung |
 |---|---|---|---|
-| 1 | Buergerinitiative Waldmoor 2030 | eigener Treffer? | kein Treffer |
+| 1 | Bürgerinitiative Waldmoor 2030 | eigener Treffer? | kein Treffer |
 | 2 | Waldmoor 2030 | Schreibvarianten und Mediennamen | kein Lobbyregistertreffer |
 | 3 | B 449n Moortrasse | Vorhabenbezug | kein eigener Registereintrag |
 | 4 | Moortrasse Moratorium | Kampagnenbegriff | kein Treffer oder themennahe Organisationen |

@@ -2,7 +2,7 @@
 
 Sehr geehrte Damen und Herren,
 
-wir bitten um einen Hinweis zur registerpraktischen Behandlung einer irischen Bank mit unselbststaendiger Zweigniederlassung in Frankfurt am Main. Die Bank ist eine irische public limited company mit Sitz in Dublin. Die Frankfurter Zweigniederlassung ist im deutschen Handelsregister eingetragen, aber keine eigene juristische Person. Interessenvertretung gegenueber Bundestag und Bundesregierung wird teilweise durch Mitarbeitende der Zweigniederlassung wahrgenommen.
+wir bitten um einen Hinweis zur registerpraktischen Behandlung einer irischen Bank mit unselbstständiger Zweigniederlassung in Frankfurt am Main. Die Bank ist eine irische public limited company mit Sitz in Dublin. Die Frankfurter Zweigniederlassung ist im deutschen Handelsregister eingetragen, aber keine eigene juristische Person. Interessenvertretung gegenueber Bundestag und Bundesregierung wird teilweise durch Mitarbeitende der Zweigniederlassung wahrgenommen.
 
 Ist aus Ihrer Sicht ein Registereintrag des irischen Rechtstraegers ausreichend, wenn die deutsche Zweigniederlassung, die deutsche Geschaeftsanschrift, die betrauten Personen und die deutschen Finanzaufwendungen im Eintrag transparent abgebildet werden? Oder ist eine zusaetzliche gesonderte Eintragung der unselbststaendigen Zweigniederlassung vorgesehen?
 

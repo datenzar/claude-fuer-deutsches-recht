@@ -40,7 +40,7 @@ Die laengere und kontinuierliche Beobachtung des behandelnden Arztes ist gegenue
 
 #### 2. Wechselwirkung Schmerz - Depression
 
-Das DRV-Gutachten wuerdigt zwar die einzelnen Diagnosen, betrachtet aber das Wechselspiel zwischen chronischem Schmerzsyndrom und depressiver Erkrankung nicht. Aus psychiatrischer Sicht (Dr. Lornsen-Joost) ist die Konzentrationsfaehigkeit erheblich eingeschraenkt; aus orthopaedischer Sicht ist die Belastbarkeit der LWS reduziert. Beide Befunde zusammen schliessen praktisch jede regelmaessige Arbeit ueber drei Stunden taeglich aus.
+Das DRV-Gutachten wuerdigt zwar die einzelnen Diagnosen, betrachtet aber das Wechselspiel zwischen chronischem Schmerzsyndrom und depressiver Erkrankung nicht. Aus psychiatrischer Sicht (Dr. Lornsen-Joost) ist die Konzentrationsfaehigkeit erheblich eingeschraenkt; aus orthopaedischer Sicht ist die Belastbarkeit der LWS reduziert. Beide Befunde zusammen schliessen praktisch jede regelmäßige Arbeit ueber drei Stunden taeglich aus.
 
 #### 3. Verschlossener Arbeitsmarkt
 

@@ -1,9 +1,9 @@
 # Billing / E-Rechnung / GoBD — Projekt Silberfalke
 
-**Aktenzeichen:** MA-2026-SF-001  
-**Erstellt:** 20.05.2026  
-**Verfasser:** Billing-Koordination Kanzlei (Counsel B)  
-**Adressat:** Kanzlei-Management / Mandant Eagle Capital Partners  
+**Aktenzeichen:** MA-2026-SF-001
+**Erstellt:** 20.05.2026
+**Verfasser:** Billing-Koordination Kanzlei (Counsel B)
+**Adressat:** Kanzlei-Management / Mandant Eagle Capital Partners
 **Status:** Arbeitsfassung — freigabe Mandant ausstehend
 
 ---
@@ -23,8 +23,8 @@
 
 ### 1.2 Abrechnungszeitraum
 
-Erste Teilrechnung: 01.04.2026 – 31.05.2026  
-Zweite Teilrechnung: 01.06.2026 – Signing (bereits abgerechnet)  
+Erste Teilrechnung: 01.04.2026 – 31.05.2026
+Zweite Teilrechnung: 01.06.2026 – Signing (bereits abgerechnet)
 Abschlussrechnung: Post-Closing
 
 ---
@@ -45,7 +45,7 @@ Abschlussrechnung: Post-Closing
 | 20.05.2026 | Associate B | PMI | 2,5 | Koordination PMI-Planung; Strukturierung des 100-Tage-Plans | 700,00 |
 | **Gesamt** | | | **25,1** | | **9.414,00** |
 
-> **Hinweis:** Die Leistungsbeschreibungen enthalten keine mandatsspezifischen Einzelheiten, die das Mandatsgeheimnis verletzen könnten. Strategische Beratungsinhalte sind nicht offengelegt. Umsatzsteuer: TODO — Leistungsort und Mandantenstatus (§ 13b UStG) noch zu prüfen.
+> **Hinweis:** Die Leistungsbeschreibungen enthalten keine mandatsspezifischen Einzelheiten, die das Mandatsgeheimnis verletzen könnten. Strategische Beratungsinhalte sind nicht offengelegt. Umsatzsteuer: Offen — Leistungsort und Mandantenstatus (§ 13b UStG) noch zu prüfen.
 
 ---
 
@@ -84,21 +84,21 @@ Abschlussrechnung: Post-Closing
   <LegalMonetaryTotal>
     <LineExtensionAmount currencyID="EUR">9414.00</LineExtensionAmount>
     <TaxExclusiveAmount currencyID="EUR">9414.00</TaxExclusiveAmount>
-    <!-- TODO: USt-Betrag nach Klärung Leistungsort eintragen -->
+    <!-- Offen: USt-Betrag nach Klärung Leistungsort eintragen -->
     <PayableAmount currencyID="EUR">9414.00</PayableAmount>
   </LegalMonetaryTotal>
 </Invoice>
 ```
 
-> **TODO:** Umsatzsteuerlogik noch offen. Wenn Eagle Capital Partners Fund V als Unternehmer im Inland gilt (§ 3a Abs. 2 UStG), schuldet Mandant USt nach § 13b UStG. Bestätigung Mandantenstatus anfordern.
+> **Offen:** Umsatzsteuerlogik noch offen. Wenn Eagle Capital Partners Fund V als Unternehmer im Inland gilt (§ 3a Abs. 2 UStG), schuldet Mandant USt nach § 13b UStG. Bestätigung Mandantenstatus anfordern.
 
 ---
 
 ## 4. GoBD-Protokoll
 
-**Rechnungsnummer:** KZ-MA-2026-SF-001-R1  
-**Erstellt:** 31.05.2026  
-**Erstellt von:** Billing Counsel B  
+**Rechnungsnummer:** KZ-MA-2026-SF-001-R1
+**Erstellt:** 31.05.2026
+**Erstellt von:** Billing Counsel B
 **System:** Kanzlei-DMS (Legalware Pro, Version 4.2)
 
 | Nr. | Ereignis | Datum | Handelnde Person | Ergebnis |
@@ -111,10 +111,10 @@ Abschlussrechnung: Post-Closing
 
 ### Korrekturpfad
 
-Sollte nach Rechnungsversand eine Korrektur notwendig sein:  
-1. Stornierung der Originalrechnung mit Stornobeleg (Dokument-ID KZ-MA-2026-SF-001-R1-STORNO)  
-2. Erstellung einer korrigierten Rechnung mit neuer fortlaufender Nummer  
-3. Eintrag im Änderungslog (diese Tabelle)  
+Sollte nach Rechnungsversand eine Korrektur notwendig sein:
+1. Stornierung der Originalrechnung mit Stornobeleg (Dokument-ID KZ-MA-2026-SF-001-R1-STORNO)
+2. Erstellung einer korrigierten Rechnung mit neuer fortlaufender Nummer
+3. Eintrag im Änderungslog (diese Tabelle)
 4. Aufbewahrungsfrist: 10 Jahre nach Buchungsdatum (§ 147 AO)
 
 ### Aufbewahrungshinweis (§ 147 AO / GoBD)
@@ -134,11 +134,11 @@ Sollte nach Rechnungsversand eine Korrektur notwendig sein:
 
 Für die Erstellung des finalen ZUGFeRD-Dokuments sind folgende Schritte vorgesehen:
 
-1. XRechnung-Datenblock (oben) finalisieren  
-2. PDF-Rechnungsdokument aus Kanzlei-DMS exportieren  
-3. XRechnung-XML in PDF/A-3 einbetten (ZUGFeRD 2.1 Profil EN 16931)  
-4. Validierung mit ZUGFeRD-Validator (z.B. Mustang Validator)  
-5. Versand per E-Mail oder DE-Mail an Mandanten  
+1. XRechnung-Datenblock (oben) finalisieren
+2. PDF-Rechnungsdokument aus Kanzlei-DMS exportieren
+3. XRechnung-XML in PDF/A-3 einbetten (ZUGFeRD 2.1 Profil EN 16931)
+4. Validierung mit ZUGFeRD-Validator (z.B. Mustang Validator)
+5. Versand per E-Mail oder DE-Mail an Mandanten
 
 ---
 

@@ -2,7 +2,6 @@
 
 ## Suchanlass
 
-Test der Portalrecherche für einen fiktiven Hamburger Eppendorf-Fall.
 
 ## Tatsächliche Portalsuche
 
@@ -18,7 +17,7 @@ Test der Portalrecherche für einen fiktiven Hamburger Eppendorf-Fall.
 | Verfahrensart | nicht eingeschränkt |
 | Ergebnis | Alle Termine, insgesamt 0 |
 
-## Konsequenz für diese Testakte
+## Konsequenz für diese Akte
 
 Die Akte ist keine echte Portalbekanntmachung. Die nachfolgenden Unterlagen simulieren ein realistisches Verfahren, damit der Workflow für Recherche, Bieterbewertung und Versteigerungsteilnahme geübt werden kann.
 

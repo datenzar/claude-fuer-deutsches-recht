@@ -126,6 +126,3 @@ Kanzlei Rosengart & Partner
 Rechtsanwältin Claudia Rosengart — Fachanwältin für Verwaltungsrecht
 
 Anlagen: 1. Vollmacht — 2. SCADA-Fehlerprotokoll — 3. Reparaturprotokoll — 4. Neue Betriebsanweisung — 5. Screening-Berechnung
-
-
-Dieses Dokument ist ein fiktives Beispieldokument für Ausbildungszwecke. Alle Angaben zu Personen, Unternehmen und Behörden sind erfunden. Es ersetzt keine Rechtsberatung.

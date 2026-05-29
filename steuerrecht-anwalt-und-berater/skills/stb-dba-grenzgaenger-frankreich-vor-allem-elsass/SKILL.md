@@ -44,7 +44,7 @@ Die Grenzgaengerregelung des DBA-Frankreich ist im DBA-Text bzw. Aenderungsproto
 
 ### Taetigkeitsort in 20-km-Zone
 
-- Der regelmaessige Arbeitsort muss ebenfalls in einer Gemeinde der 20-km-Zone des anderen Vertragsstaats liegen.
+- Der regelmäßige Arbeitsort muss ebenfalls in einer Gemeinde der 20-km-Zone des anderen Vertragsstaats liegen.
 - Bei Mehrfach-Taetigkeitsorten: ueberwiegender Arbeitsort.
 
 ### Arbeitstaegliche Rueckkehr

@@ -1,10 +1,10 @@
 # Clean Room Log — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** CR-LOG-001/SIL  
-**Version:** 1.2  
-**Datum:** 25. November 2024  
-**Verfasserin:** Sophie Maurer, Paralegal / Clean Room Manager  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** CR-LOG-001/SIL
+**Version:** 1.2
+**Datum:** 25. November 2024
+**Verfasserin:** Sophie Maurer, Paralegal / Clean Room Manager
 **Adressat:** Dr. Markus Weidemann, Dr. Sabine Roth
 
 ---
@@ -17,7 +17,7 @@ Der Clean Room dient der kontrollierten Offenlegung besonders sensibler Datenrau
 
 ## 2. Clean Room Agreement
 
-**Datum Unterzeichnung:** 22. November 2024  
+**Datum Unterzeichnung:** 22. November 2024
 **Unterzeichnende Parteien:**
 
 | Partei | Unterzeichner | Datum |
@@ -27,7 +27,7 @@ Der Clean Room dient der kontrollierten Offenlegung besonders sensibler Datenrau
 | Buyer Tax Counsel | Dr. Sabine Roth (MWK Rechtsanwälte) | 22.11.2024 |
 | Buyer Regulatory | Dr. Hans-Peter Fuchs (MWK Rechtsanwälte) | 22.11.2024 |
 
-**Clean Room-Berater auf Buy-side (gesamt):** 4 Personen  
+**Clean Room-Berater auf Buy-side (gesamt):** 4 Personen
 **Clean Room-Berater auf Sell-side (gesamt):** 2 Personen (Seller Counsel Dr. Bäumler + Assistent)
 
 **Wesentliche Regeln der Clean Room Agreement:**
@@ -80,5 +80,3 @@ Der Clean Room dient der kontrollierten Offenlegung besonders sensibler Datenrau
 Alle Daten im Clean Room, die personenbezogene Daten enthalten (z. B. Gehaltsstrukturen, Umsätze von Einzelpersonen in Kleinkunden-Kategorie), wurden vor Aufnahme in den Clean Room anonymisiert oder pseudonymisiert gemäß den Anforderungen der DSGVO (Art. 25 DSGVO, Privacy by Design). Seller Counsel hat bestätigt, dass die Anonymisierung regelkonform erfolgte.
 
 ---
-
-*Alle in diesem Protokoll genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

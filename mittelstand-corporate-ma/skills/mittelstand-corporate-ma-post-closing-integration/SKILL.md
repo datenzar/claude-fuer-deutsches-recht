@@ -22,7 +22,7 @@ Uebersetzt DD-Findings, SPA-Pflichten und Synergieannahmen in einen Post-Merger-
 - § 613a BGB — Betriebsuebergang: nach Asset Deal gehen alle Arbeitsverhaeltnisse kraft Gesetzes ueber; Widerspruchsrecht 1 Monat nach Information; Klaerung von Ueberleitungsfragen nach Closing
 - § 40 GmbHG — Einreichung der Gesellschafterliste: Notar oder Geschaeftsfuehrer innerhalb eines Monats nach Anteilsuebertragung
 - § 20 TranspRG — Transparenzregistermeldung: wirtschaftlich Berechtigte nach Gesellschafterwechsel; Frist 2 Wochen nach Closing
-- §§ 195, 199 BGB — Verjaehrungsfristen fuer Post-Closing-Ansprueche: regelmaessige Verjaehrung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
+- §§ 195, 199 BGB — Verjaehrungsfristen fuer Post-Closing-Ansprueche: regelmäßige Verjaehrung 3 Jahre; vertragliche Abkuerzung auf 18-24 Monate ueblich; Fristbeginn mit Kenntnis oder Entstehung
 - § 254 BGB — Mitverschulden bei unterlassener Untersuchung nach Closing
 - §§ 346 ff. BGB — Rueckabwicklung: bei MAC-Einritt und Ruecktritt; Nutzungsersatz; Wertminderung
 

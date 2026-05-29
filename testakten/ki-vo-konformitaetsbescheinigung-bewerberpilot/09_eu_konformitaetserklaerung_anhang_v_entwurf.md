@@ -1,6 +1,5 @@
 # EU-Konformitätserklärung nach Art. 47 / Anhang V (Entwurf)
 
-**Fiktiver Entwurf. Nicht unterschreiben, bevor Evidence Index und Lückenliste geschlossen sind.**
 
 ## 1. Anbieter
 

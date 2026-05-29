@@ -1,17 +1,16 @@
-# Testakte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH
+# Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger` (diese Akte) | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+| `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger` (Akte) | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-## Zweck der Testakte
+## Zweck der Akte
 
-Diese Akte ist eine **abstrahierte Testakte** fuer Workflows zum Umgang mit dem Vorwurf, ein gerichtliches Sachverstaendigengutachten sei ganz oder teilweise unter Einsatz von KI-Werkzeugen erstellt worden.
 
 Sie dient dem **Plugin `vertragsrecht`** als Erprobungsfall und kann gleichzeitig folgende Skills aktivieren:
 
@@ -69,7 +68,6 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 
 ## Disclaimer
 
-Alle Namen, Aktenzeichen, Adressen, Telefonnummern und technischen Daten sind erfunden. Diese Akte hat keinen Bezug zu realen Personen oder realen Verfahren. Sie dient ausschliesslich der Erprobung von Workflows in deutschen Rechtsanwaltskanzleien.
 
 ## Empfohlener Workflow
 

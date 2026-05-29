@@ -1,6 +1,6 @@
 # ZPO § 130d - Nutzungspflicht fuer Rechtsanwaelte, Behoerden und juristische Personen des oeffentlichen Rechts
 
-(Geltende Fassung, gekuerzt fuer Schulungszwecke)
+(Geltende Fassung, gekürzt für die Arbeitsfassung)
 
 Vorbereitende Schriftsaetze und deren Anlagen sowie schriftlich einzureichende Antraege und Erklaerungen, die durch einen Rechtsanwalt, durch eine Behoerde oder durch eine juristische Person des oeffentlichen Rechts einschliesslich der von ihr zur Erfuellung ihrer oeffentlichen Aufgaben gebildeten Zusammenschluesse eingereicht werden, sind als elektronisches Dokument zu uebermitteln. Ist dies aus technischen Gruenden voruebergehend nicht moeglich, bleibt die Uebermittlung nach den allgemeinen Vorschriften zulaessig. Die voruebergehende Unmoeglichkeit ist bei der Ersatzeinreichung oder unverzueglich danach glaubhaft zu machen.
 

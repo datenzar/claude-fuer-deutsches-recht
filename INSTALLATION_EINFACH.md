@@ -135,8 +135,8 @@ Wer einen konkreten Fall durchspielen will, lädt sich zusätzlich eine **Testak
 | `testakte-aussenwirtschaft-zoll-sanktionen-globalmaschinen.zip` | `aussenwirtschaft-zoll-sanktionen` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | `common-law-kompass` |
 | `testakte-europarecht-kompass-beihilfe-richtlinie.zip` | `europarecht-kompass` |
-| `testakte-strafbefehl-ladendiebstahl-fahrerflucht-musterakte.zip` | `strafbefehl-verteidiger` |
-| `testakte-verkehrsowi-rotlicht-tempo-musterakte.zip` | `verkehrsowi-verteidiger` |
+| `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` | `strafbefehl-verteidiger` |
+| `testakte-verkehrsowi-rotlicht-tempo.zip` | `verkehrsowi-verteidiger` |
 | `testakte-energierecht-stadtwerke-quartier.zip`          | `energierecht`                                              |
 | `testakte-umweltrecht-industrieanlage-genehmigung.zip`   | `umweltrecht`                                               |
 | `testakte-verkehr-infrastrukturrecht-strassenbahn-ladezonen.zip` | `verkehr-infrastrukturrecht`                         |

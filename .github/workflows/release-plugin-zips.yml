@@ -70,6 +70,27 @@ jobs:
             done
           fi
 
+      - name: Sammel-ZIPs bauen
+        run: |
+          # alle-plugins-megazip.zip enthaelt die installierbaren Einzel-ZIPs
+          # plus marketplace.json, nicht die Rohordner.
+          mkdir -p dist/mega-plugins
+          cp dist/marketplace.json dist/mega-plugins/marketplace.json
+          for plugin in ${{ steps.plugins.outputs.names }}; do
+            cp "dist/${plugin}.zip" "dist/mega-plugins/${plugin}.zip"
+          done
+          (cd dist/mega-plugins && zip -rq "../alle-plugins-megazip.zip" . -x '*.DS_Store')
+          rm -rf dist/mega-plugins
+
+          # alle-testakten.zip enthaelt die Aktenordner in Originalstruktur.
+          if [ -d testakten ]; then
+            (cd testakten && zip -rq "../dist/alle-testakten.zip" README.md */ -x '*.DS_Store')
+          fi
+
+          test -s dist/alle-plugins-megazip.zip
+          test -s dist/alle-testakten.zip
+          ls -lh dist/alle-plugins-megazip.zip dist/alle-testakten.zip
+
       - name: Tag bestimmen
         id: tagref
         run: |

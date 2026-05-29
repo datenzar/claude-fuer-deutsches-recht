@@ -169,7 +169,6 @@ Wenn Nicht-Anwälte KI-Systeme zur Erstellung juristischer Texte nutzen und dies
 Grundsatz 4: Umgang mit "Halluzinationen" und die Gefahr des Prozessbetrugs
 
 
-Die größte praktische Gefahr stellen die oben erwähnten sogenannten "Halluzinationen" dar – von KI frei erfundene, aber plausibel wirkende Zitate und Gerichtsurteile. Hier gilt wie schon gesagt die eiserne Regel:
 
 
 Alle von einer KI generierten Fundstellen sind ausnahmslos auf ihre Existenz und ihren Inhalt hin zu überprüfen. Wer dies unterlässt, handelt pflichtwidrig und haftet für die Folgen.
@@ -332,7 +331,7 @@ Vorurteile/Bias/Diskriminierung: Die derzeitigen KI-Systeme beruhen auf großen 
 Verbot automatisierter Entscheidungen: Auch ohne den AI Act ist es in der EU bereits jetzt verboten, als Mensch einer ausschließlich automatisierten Entscheidung unterworfen zu sein, Art. 22 DSGVO. Beim Einsatz der Chatbots und auch bei der Schulung der Mitarbeiterinnen und Mitarbeiter diesbezüglich muss darauf geachtet werden, dass niemand eine Letztentscheidung an das KI-System delegiert und diese nur noch formell übernimmt.
 
 
-Obacht bei der juristischen Recherche: es ist durchaus möglich, dass ein Chatbot fiktive Fälle erzeugt, falsche Gesetzeszitate oder Rechtsprechungs-Fundstellen, juristische Kommentare oder Fachbücher erfindet und nicht vorhandene juristische Aufsätze erwähnt und zitiert. Die zugrunde liegenden Sprachmodelle sind mit großen Datenmengen trainiert worden, haben aber nicht den gleichen auf Korrektheit und Kohärenz redaktionell überprüften Datenbestand wie die juristischen Fach-Datenbanken. Deswegen taugen die Chatbots auch nicht zur juristischen Recherche, jedenfalls nicht solange sie nicht wenigstens mit einer Internet-Suchmaschine verknüpft sind oder gegebenenfalls sogar mit einer juristischen Datenbank. Diesbezüglich muss die Performance jedes einzelnen KI-Systems geprüft und bewertet werden.
+Obacht bei der juristischen Recherche: es ist durchaus möglich, dass ein Chatbot Fälle erzeugt, falsche Gesetzeszitate oder Rechtsprechungs-Fundstellen, juristische Kommentare oder Fachbücher erfindet und nicht vorhandene juristische Aufsätze erwähnt und zitiert. Die zugrunde liegenden Sprachmodelle sind mit großen Datenmengen trainiert worden, haben aber nicht den gleichen auf Korrektheit und Kohärenz redaktionell überprüften Datenbestand wie die juristischen Fach-Datenbanken. Deswegen taugen die Chatbots auch nicht zur juristischen Recherche, jedenfalls nicht solange sie nicht wenigstens mit einer Internet-Suchmaschine verknüpft sind oder gegebenenfalls sogar mit einer juristischen Datenbank. Diesbezüglich muss die Performance jedes einzelnen KI-Systems geprüft und bewertet werden.
 
 ### 8. Exkurs: Rechtsberatung durch KI-Chatbots/berufsrechtliche Zulässigkeit der KI-Chatbot-Nutzung:
 
@@ -475,7 +474,7 @@ Die Durchsetzung der KI-VO erfolgt durch spezialisierte nationale Aufsichtsbehö
 
 ### 11. Ausblick und Fazit
 
-Die Integration von KI in die Anwaltschaft ist unausweichlich und bietet erhebliche Chancen. Der Schlüssel zum Erfolg liegt in der Beachtung der Grundprinzipien: Vollständige Überprüfung aller KI-Ergebnisse, sorgfältige Auswahl der KI-Anbieter unter strikter Beachtung der Verschwiegenheitspflicht und eine transparente Kommunikation. Die Diskussion, ob explizite berufsrechtliche Regelungen notwendig sind, wird weitergehen. Statt einer "selbstfahrenden Kanzlei" ohne Anwälte liegt die Zukunft eher in einer effektiven Symbiose aus menschlicher Expertise und künstlicher Intelligenz. 
+Die Integration von KI in die Anwaltschaft ist unausweichlich und bietet erhebliche Chancen. Der Schlüssel zum Erfolg liegt in der Beachtung der Grundprinzipien: Vollständige Überprüfung aller KI-Ergebnisse, sorgfältige Auswahl der KI-Anbieter unter strikter Beachtung der Verschwiegenheitspflicht und eine transparente Kommunikation. Die Diskussion, ob explizite berufsrechtliche Regelungen notwendig sind, wird weitergehen. Statt einer "selbstfahrenden Kanzlei" ohne Anwälte liegt die Zukunft eher in einer effektiven Symbiose aus menschlicher Expertise und künstlicher Intelligenz.
 
 Gleichzeitig entwickelt sich die Diskussion weiter: In Zukunft könnte aus der anwaltlichen Sorgfaltspflicht nicht nur die Pflicht zum sicheren, sondern auch zum kompetenten Umgang mit KI erwachsen. Effizienz und Kostenvorteile, die durch KI-Systeme erzielt werden, könnten von Mandanten zunehmend erwartet werden. Die Leitlinien der BRAK und die für andere Berufe wie Wirtschaftsprüfer entsprechenden Überlegungen deuten bereits an, dass technologische Kompetenz ein integraler Bestandteil der modernen Berufsausübung ist.
 
@@ -488,7 +487,6 @@ Man sollte diese Entwicklung jedoch in die richtige Perspektive rücken: Eine ta
 
 ### 12. Disclaimer
 
-Diese Richtlinie betrifft lediglich deutsches Recht (und Europarecht, soweit es in Deutschland Anwendung findet) und ersetzt keine Rechtsberatung im Einzelfall. Bei spezifischen Fragen ist stets dringend geboten, rechtzeitig Rechtsrat einzuholen. Dritte können sich nicht rechtlich auf dieses Dokument verlassen oder ihre rechtlichen Einschätzungen darauf stützen.
 
 ### 13. Weiterführende Literatur
 

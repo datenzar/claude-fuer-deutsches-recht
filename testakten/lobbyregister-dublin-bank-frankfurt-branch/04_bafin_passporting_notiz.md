@@ -1,6 +1,6 @@
 # BaFin/Passporting-Notiz
 
-Fiktive interne Zusammenfassung.
+Interne Zusammenfassung.
 
 Die Emerald Liffey Bank plc nutzt EU-Passporting fuer Deutschland. Die BaFin fuehrt die Zweigniederlassung als angezeigte Niederlassung eines irischen CRR-Kreditinstituts. Fuer die Lobbyregisterfrage ist die aufsichtsrechtliche Anzeige wichtig, aber nicht identisch mit eigener Rechtspersoenlichkeit.
 

@@ -3,10 +3,10 @@
 ## Mindestprüfung bei Klage oder Replik
 
 - Antrag ist vollstreckungsfähig oder der Entwurf markiert, warum noch nicht.
-- Zuständigkeit und Streitwert sind geprüft oder als TODO mit konkreter Rückfrage markiert.
+- Zuständigkeit und Streitwert sind geprüft oder als Offen mit konkreter Rückfrage markiert.
 - Parteibezeichnung ist gegen Handelsregisterabruf oder Aktenquelle geprüft.
 - Anspruchsgrundlage, Tatsachen und Beweise sind getrennt.
-- Jede erhebliche Behauptung hat eine Quelle oder ein TODO.
+- Jede erhebliche Behauptung hat eine Quelle oder einen offenen Punkt.
 - Anlagen sind nummeriert, erwähnt und datenschutzarm vorbereitet.
 - Frist, Signatur, Vollmacht, beA-Versand und Versandprotokoll sind geprüft.
 - Unklare Punkte werden nicht erfunden, sondern offen und handhabbar gemacht.
@@ -26,7 +26,7 @@ Wenn der Nutzer nur Rohtext liefert:
 
 1. Sofort eine brauchbare Struktur vorschlagen.
 2. Maximal drei wichtigste Rückfragen stellen.
-3. Fehlendes als TODO im Dokument markieren.
+3. Fehlendes als Offen im Dokument markieren.
 4. Einen nächsten konkreten Arbeitsschritt anbieten.
 
 ## Profi-Härtung

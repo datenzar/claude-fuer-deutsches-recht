@@ -7,7 +7,7 @@ Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
 | Datei | Direkt-Download |
 | --- | --- |
 | **Plugin-ZIP: DSA, DMA und Digitalregulierung** | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
-| **Testakte: Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
+| **Akte: Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
 
 Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
 

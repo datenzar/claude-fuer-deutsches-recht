@@ -1,7 +1,5 @@
 # 24 Agio und Kapitalrücklage — Streitfrage Satzungsverankerung bei Kapitalerhöhung
 
-> **Fiktive Lehrakte.** Personen, Mandanten und Zitate sind erfunden. Übereinstimmungen mit realen Personen sind nicht beabsichtigt.
-
 ## Kontext im Deal
 
 Bei der Series-A-Runde von Kometenfalter Systems GmbH zahlt Northbridge Growth III SCS für 16.679 neue Geschäftsanteile zu einem Ausgabebetrag von ca. 287,77 EUR pro Anteil. Der Nennbetrag pro Geschäftsanteil ist 1,00 EUR. Die Differenz von 286,77 EUR pro Anteil ist das **Agio** (Aufgeld). Bei 18.069 Series-A-Anteilen sind das in Summe rund 5,182 Mio. EUR Agio — fast die gesamte Investitionssumme. Das Stammkapital steigt nur um 18.069 EUR von 30.000 auf 48.069 EUR.
@@ -19,19 +17,19 @@ ich sehe in Ihrem Memo-Entwurf den Satz „Das Agio wird in die Kapitalrücklage
 ### 1. Echtes (korporatives) vs. unechtes (schuldrechtliches) Agio
 
 - **Echtes/korporatives Agio:** gesellschaftsrechtlich begründeter Aufpreis auf den Nennbetrag der übernommenen Stammeinlage. Wird durch korporativen Beschluss begründet, ist Teil der mitgliedschaftlichen Pflichtenstellung, fließt in die Kapitalrücklage nach **§ 272 Abs. 2 Nr. 1 HGB** und unterliegt der Kapitalbindung. Standard bei VC-Runden.
-- **Unechtes/schuldrechtliches Agio:** beruht auf einer rein schuldrechtlichen Nebenabrede (zwischen Gesellschaftern oder zwischen Gesellschafter und Gesellschaft). Keine korporative Wirkung. Fließt nach herrschender Meinung in die Kapitalrücklage nach **§ 272 Abs. 2 Nr. 4 HGB** (andere Zuzahlungen). Vgl. Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 5 Rn. 32 ff.
+- **Unechtes/schuldrechtliches Agio:** beruht auf einer rein schuldrechtlichen Nebenabrede (zwischen Gesellschaftern oder zwischen Gesellschafter und Gesellschaft). Keine korporative Wirkung. Fließt nach herrschender Meinung in die Kapitalrücklage nach **§ 272 Abs. 2 Nr. 4 HGB** (andere Zuzahlungen). Literaturstand nur hausintern prüfen; nicht ungeprüft in Mandantenmemos übernehmen.
 
 **Für Kometenfalter brauchen wir das echte Agio.** Northbridge schreibt 4,8 Mio. EUR mit korporativer Wirkung auf die GmbH-Bilanz, nicht eine schuldrechtliche Zuzahlung an Mitgesellschafter. Das ist Vorbedingung für die Buchwertfortführung beim qualifizierten Anteilstausch nach § 21 UmwStG und für die spätere steuerneutrale Rückgewähr aus dem Einlagekonto.
 
 ### 2. Gründungsstadium: § 3 Abs. 2 GmbHG zwingend
 
-Bei der **Gründung** ist die Lage unstreitig: Das echte Agio ist eine **Nebenleistungspflicht** im Sinne des § 3 Abs. 2 GmbHG und muss zwingend in den Gesellschaftsvertrag (Satzung) aufgenommen werden. Die fehlende Aufnahme führt zur **Unwirksamkeit der Agioverpflichtung** (vgl. BGH, Urt. v. 15.10.2007 — II ZR 216/06, GmbHR 2008, 147; Roth, in: Roth/Altmeppen, GmbHG, 10. Aufl. 2021, § 3 Rn. 41; J. Vetter, in: MüKoGmbHG, 4. Aufl. 2022, § 3 Rn. 109 ff.). Praktisch besonders relevant bei der Etablierung von Holding-Strukturen, in denen die Tochter-GmbH durch Bargründung mit gleichzeitiger Sachagio-Einbringung von Anteilen entsteht — der klassische § 21 UmwStG-Anteilstausch.
+Bei der **Gründung** ist die Lage unstreitig: Das echte Agio ist eine **Nebenleistungspflicht** im Sinne des § 3 Abs. 2 GmbHG und muss zwingend in den Gesellschaftsvertrag (Satzung) aufgenommen werden. Die fehlende Aufnahme führt zur **Unwirksamkeit der Agioverpflichtung** (vgl. BGH, Urt. v. 15.10.2007 — II ZR 216/06; Fundstelle vor externer Verwendung prüfen). Praktisch besonders relevant bei der Etablierung von Holding-Strukturen, in denen die Tochter-GmbH durch Bargründung mit gleichzeitiger Sachagio-Einbringung von Anteilen entsteht — der klassische § 21 UmwStG-Anteilstausch.
 
 ### 3. Kapitalerhöhung: Die eigentliche Streitfrage
 
-Bei der **Kapitalerhöhung** ist die Lage diffiziler. § 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung, sondern dauerhaft (Strukturnorm). Daraus könnte folgen, dass jedes echte Agio zwingend in den aktualisierten Satzungstext muss. Das ist nicht ohne Weiteres so. Die richtige Differenzierung — die in der Neuauflage des Scholz, GmbHG, § 3 (14. Aufl. 2027, Verlag Dr. Otto Schmidt) vertieft werden wird — lautet:
+Bei der **Kapitalerhöhung** ist die Lage diffiziler. § 3 Abs. 2 GmbHG gilt sachlich nicht nur bei Gründung, sondern dauerhaft (Strukturnorm). Daraus könnte folgen, dass jedes echte Agio zwingend in den aktualisierten Satzungstext muss. Das ist nicht ohne Weiteres so. Für den Entwurf ist die folgende Differenzierung maßgeblich:
 
-**Parallele zur Sachkapitalerhöhung:** Obwohl § 5 Abs. 4 GmbHG bei der Gründung die Festsetzung des Sacheinlagegegenstandes als Wirksamkeitsvoraussetzung verlangt, ist nach allgemeiner Meinung bei der Sachkapitalerhöhung die Aufnahme in den **Kapitalerhöhungsbeschluss und die Übernahmeerklärung** ausreichend — eine Wiedergabe im aktualisierten Satzungswortlaut ist nicht erforderlich, weil der Kapitalerhöhungsbeschluss selbst **satzungsändernde Wirkung** entfaltet (vgl. BGH, Urt. v. 16.02.1981 — II ZR 168/79, BGHZ 80, 129; Lieder, in: MüKoGmbHG, 4. Aufl. 2022, § 55 Rn. 71 ff.).
+**Parallele zur Sachkapitalerhöhung:** Obwohl § 5 Abs. 4 GmbHG bei der Gründung die Festsetzung des Sacheinlagegegenstandes als Wirksamkeitsvoraussetzung verlangt, ist nach allgemeiner Meinung bei der Sachkapitalerhöhung die Aufnahme in den **Kapitalerhöhungsbeschluss und die Übernahmeerklärung** ausreichend — eine Wiedergabe im aktualisierten Satzungswortlaut ist nicht erforderlich, weil der Kapitalerhöhungsbeschluss selbst **satzungsändernde Wirkung** entfaltet (vgl. BGH, Urt. v. 16.02.1981 — II ZR 168/79; Fundstelle vor externer Verwendung prüfen).
 
 **Differenzierung nach Fälligkeit (h.M. für das echte Agio bei KapErh):**
 
@@ -46,7 +44,7 @@ Anders als im Gründungsfall führt die fehlende Aufnahme **nicht zur Unwirksamk
 - Der Beschluss ist im Registerordner einsehbar — dem Publizitätsgedanken ist Genüge getan.
 - Eine Nichtigkeitsfolge wäre unverhältnismäßig, da ein formwirksamer, notariell beurkundeter Beschluss vorliegt.
 
-**Steuerlich** dürfte die fehlende Aufnahme in den Satzungstext unschädlich sein — die Finanzverwaltung knüpft an die materielle gesellschaftsrechtliche Wirksamkeit an, nicht an die formale Satzungsredaktion (vgl. UmwSt-Erlass v. 11.11.2011, BStBl. I 2011, 1314, Rn. 21.09 ff.).
+**Steuerlich** dürfte die fehlende Aufnahme in den Satzungstext unschädlich sein — die Finanzverwaltung knüpft an die materielle gesellschaftsrechtliche Wirksamkeit an, nicht an die formale Satzungsredaktion (UmwSt-Erlass v. 11.11.2011, Rn. 21.09 ff.; vor Verwendung gegen amtliche Fassung prüfen).
 
 ### 5. Praxisempfehlung Adelheid
 
@@ -92,13 +90,13 @@ Damit Hildemar die Mandantin Kunigunde Reiter (Geschäftsführerin Kometenfalter
 1. **Bewertungsdifferenz Verkehrswert vs. Nennwert.** Das Stammkapital von 30.000 EUR (vor Series A) ist eine registerlich publizierte Größe, die mit dem Verkehrswert von 12 Mio. EUR pre-money nichts zu tun hat. Das Agio bildet die Differenz ab.
 2. **Verwässerungssteuerung.** Northbridge zahlt 4,8 Mio. EUR, bekommt aber nur 16.679 EUR Nennbetrag (entspricht 16.679 Geschäftsanteilen à 1 EUR) plus ca. 4,783 Mio. EUR Agio. Die quotale Mehrheit der Gründer bleibt rechnerisch erhalten.
 3. **Vermeidung der „Stammkapital-Inflation".** Würde Northbridge 4,8 Mio. EUR als Stammkapital zeichnen, hätte die GmbH ein Stammkapital von ca. 4,83 Mio. EUR — dauerhaft der Kapitalbindung nach § 30 GmbHG unterworfen, nur mit Sperrjahr und Gläubigeraufruf nach §§ 58 ff. GmbHG zurückführbar. Das Agio fließt dagegen in die Kapitalrücklage, die flexibler aufgelöst werden kann.
-4. **Steuerliche Erfassung im Einlagekonto.** Das Agio erhöht das steuerliche Einlagekonto nach **§ 27 KStG**. Spätere Rückzahlungen aus der Kapitalrücklage gelten als steuerneutrale Einlagenrückgewähr (nicht als Dividende). Beim Gesellschafter erhöht das Agio die Anschaffungskosten der Beteiligung (st. Rspr.: BFH, Urt. v. 27.05.2009 — I R 53/08, BFHE 226, 500, BStBl II 2010, 1004; bestätigt durch BFH, Urt. v. 03.05.2023 — IX R 12/22).
+4. **Steuerliche Erfassung im Einlagekonto.** Das Agio erhöht das steuerliche Einlagekonto nach **§ 27 KStG**. Spätere Rückzahlungen aus der Kapitalrücklage gelten als steuerneutrale Einlagenrückgewähr (nicht als Dividende). Beim Gesellschafter erhöht das Agio nach der BFH-Linie die Anschaffungskosten der Beteiligung (u.a. BFH, Urt. v. 27.05.2009 — I R 53/08; BFH, Urt. v. 03.05.2023 — IX R 12/22; beide vor externer Verwendung verifizieren).
 5. **Bezugsrechtsschutz.** Bei einer Kapitalerhöhung unter Bezugsrechtsausschluss ist ein angemessenes Agio regelmäßig zwingend, weil andernfalls die vom Bezug ausgeschlossenen Altgesellschafter wirtschaftlich nicht geschützt sind. Der für die AG entwickelte „Kali+Salz"-Grundsatz (BGH, Urt. v. 13.03.1978 — II ZR 142/76, BGHZ 71, 40) ist auf die GmbH übertragbar.
 6. **Signalfunktion.** Die Höhe des Agios dokumentiert die Pre-Money-Bewertung. Bezugspunkt für ESOP-Ausgabepreise, Anti-Dilution-Berechnungen und Folgerunden.
 
 ---
 
-## Anfängerfehler-Catalogue: typische Stolperer beim Agio
+## Fehlerliste aus dem Memo-Entwurf
 
 | Fehler | Was richtig wäre |
 |---|---|
@@ -113,7 +111,7 @@ Damit Hildemar die Mandantin Kunigunde Reiter (Geschäftsführerin Kometenfalter
 
 ---
 
-## Aufgabe für Hildemar
+## Offene Arbeitspunkte für Hildemar
 
 1. Bauen Sie in das Memo für die Mandantin einen Abschnitt „Agio und Liquidationspräferenz" ein, der die Punkte 1 bis 6 oben für Kunigunde Reiter verständlich auflöst.
 2. Prüfen Sie den vorliegenden Satzungsentwurf des Notariats Schwartz daraufhin, ob die Liquidationspräferenz auf **Ausgabebetrag** oder fälschlich auf **Nennbetrag** Bezug nimmt. Falls letzteres: Markup an Brackenmuir & Quint vorbereiten.
@@ -124,18 +122,12 @@ Damit Hildemar die Mandantin Kunigunde Reiter (Geschäftsführerin Kometenfalter
 
 ---
 
-## Weiterführende Quellen für Hildemar (Studien-Stoff)
+## Interne Quellenliste für die Schlussprüfung
 
-- BGH, Urt. v. 15.10.2007 — II ZR 216/06, GmbHR 2008, 147 (Sachagio bei Gründung, § 3 Abs. 2 GmbHG zwingend)
+- BGH, Urt. v. 15.10.2007 — II ZR 216/06 (Sachagio bei Gründung, § 3 Abs. 2 GmbHG zwingend)
 - BGH, Urt. v. 16.02.1981 — II ZR 168/79, BGHZ 80, 129 (Sachkapitalerhöhung, Beschluss mit satzungsändernder Wirkung)
 - BGH, Urt. v. 13.03.1978 — II ZR 142/76, BGHZ 71, 40 — „Kali+Salz" (Bezugsrechtsausschluss, sachliche Rechtfertigung)
-- BFH, Urt. v. 27.05.2009 — I R 53/08, BFHE 226, 500, BStBl II 2010, 1004 (Agio als Anschaffungskosten des neu erworbenen Anteils)
+- BFH, Urt. v. 27.05.2009 — I R 53/08 (Agio als Anschaffungskosten des neu erworbenen Anteils)
 - BFH, Urt. v. 03.05.2023 — IX R 12/22 (Überpari-Emission, Bestätigung I R 53/08, kein § 42 AO-Missbrauch)
-- UmwSt-Erlass v. 11.11.2011, BStBl. I 2011, 1314, Rn. 21.09 ff. (qualifizierter Anteilstausch und Sachagio)
-- Bayer, in: Lutter/Hommelhoff, GmbHG, 21. Aufl. 2023, § 5 Rn. 32 ff.
-- J. Vetter, in: MüKoGmbHG, 4. Aufl. 2022, § 3 Rn. 109 ff.
-- Lieder, in: MüKoGmbHG, 4. Aufl. 2022, § 55 Rn. 71 ff.
-- Roth, in: Roth/Altmeppen, GmbHG, 10. Aufl. 2021, § 3 Rn. 41
-- Scholz, GmbHG, § 3 (14. Aufl. 2027, Verlag Dr. Otto Schmidt, im Erscheinen — wird die Differenzierung nach Fälligkeit vertiefen)
-- Schwandtner, Das Agio im GmbH- und Aktienrecht, 2006 (Duncker & Humblot)
-- Baums, Agio und sonstige Zuzahlungen im Aktienrecht, ILF Working Paper No. 124
+- UmwSt-Erlass v. 11.11.2011, Rn. 21.09 ff. (qualifizierter Anteilstausch und Sachagio; amtliche Fassung vor Zitierung prüfen)
+- Kommentar- und Aufsatzstand nur über die lizenzierten Kanzleiquellen prüfen; keine Blindzitate in Mandantenmemos.

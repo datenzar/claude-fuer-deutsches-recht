@@ -1,15 +1,15 @@
-# Testakte: Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe"
+# Akte: Zwangsverwaltung Büro- und Geschäftshaus "Friedrichshöfe"
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-zwangsverwaltung-friedrichshoefe-berlin` (diese Akte) | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
+| `testakte-zwangsverwaltung-friedrichshoefe-berlin` (Akte) | [testakte-zwangsverwaltung-friedrichshoefe-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zwangsverwaltung-friedrichshoefe-berlin.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktiver Beispielfall** zur Demonstration des Plugins `zwangsverwaltung-zvg`.
+**Beispielfall** zur Bearbeitung des Plugins `zwangsverwaltung-zvg`.
 
 ## Verfahrenseckdaten
 
@@ -81,5 +81,3 @@ Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus de
 `zwangsverwaltung-zvg` — vollständiger Workflow von Anordnung bis Schlussrechnung.
 
 ## Disclaimer
-
-Alle Personen, Firmen, Konten, Beträge, Aktenzeichen und Adressen sind frei erfunden. Die Akte dient ausschließlich dem Testen der Skills und ist keine Rechtsberatung.

@@ -115,7 +115,3 @@ Plattform: Intralinks VDRPro  |  Zugang: Eagle Capital Partners Deal Team + Bera
 | 06 IP | 40 % | IP-Abtretung 2018 kritisch fehlend |
 | 07 Employment | 65 % | Betriebsvereinbarungen 4–7, Organigramm fehlen |
 | GESAMT | ca. 63 % | Unzureichend für Binding Offer |
-
-
-
-Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.

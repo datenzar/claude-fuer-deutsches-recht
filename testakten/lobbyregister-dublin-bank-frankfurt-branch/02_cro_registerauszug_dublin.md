@@ -1,4 +1,4 @@
-# Companies Registration Office Ireland - Fiktiver Auszug
+# Companies Registration Office Ireland - Registerauszug
 
 **Company Name:** Emerald Liffey Bank plc
 **Company Number:** 718204

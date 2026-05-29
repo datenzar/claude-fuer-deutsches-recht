@@ -1,12 +1,12 @@
 # Expert Call-Protokoll — Management Presentation und Expert Calls
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** QA-CALL-001/SIL  
-**Datum:** 4. Dezember 2024  
-**Verfasserin:** Katharina Pfeiffer, Senior Associate  
-**Teilnehmer (Käuferseite):** Dr. Markus Weidemann, Katharina Pfeiffer, Felix Brandl (ECP), Dr. Sabine Roth  
-**Teilnehmer (Verkäuferseite):** Friedrich Grünwald (CEO), Thomas Bergmann (CFO), Dr. Anna Seifert (AR-Vorsitz), Rolf Dinkelbach (Meridian)  
-**Format:** Video-Call (Zoom, 3 Stunden), Augsburg-Delegation  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** QA-CALL-001/SIL
+**Datum:** 4. Dezember 2024
+**Verfasserin:** Katharina Pfeiffer, Senior Associate
+**Teilnehmer (Käuferseite):** Dr. Markus Weidemann, Katharina Pfeiffer, Felix Brandl (ECP), Dr. Sabine Roth
+**Teilnehmer (Verkäuferseite):** Friedrich Grünwald (CEO), Thomas Bergmann (CFO), Dr. Anna Seifert (AR-Vorsitz), Rolf Dinkelbach (Meridian)
+**Format:** Video-Call (Zoom, 3 Stunden), Augsburg-Delegation
 **Betreff:** Protokoll Management Presentation 4. Dezember 2024
 
 ---
@@ -42,7 +42,7 @@ Die Management Presentation fand am 4. Dezember 2024 von 10:00 bis 13:00 Uhr sta
 
 ## 3. Expert Call: COO Michael Krause (Operativ)
 
-**Beginn:** 13:30 Uhr, Ende: 14:30 Uhr  
+**Beginn:** 13:30 Uhr, Ende: 14:30 Uhr
 **Weitere Teilnehmer:** Rainer Hollmann (Exportkontrolle/Compliance, Leiter)
 
 ### 3.1 Lieferkette und Dual Sourcing
@@ -88,5 +88,3 @@ Die Management Presentation hinterlässt einen insgesamt positiven Eindruck. Das
 3. Das **Darlehen der Holding** für die US-Investition ist als Debt-like-Item zu behandeln; dieser Betrag (USD 8 Mio.) mindert den Equity Value. ECP muss Kaufpreismodell anpassen.
 
 ---
-
-*Alle in diesem Protokoll genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

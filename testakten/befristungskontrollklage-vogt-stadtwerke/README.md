@@ -1,15 +1,15 @@
-# Testakte: Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH
+# Akte: Befristungskontrollklage Vogt ./. Stadtwerke Neukölln GmbH
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-befristungskontrollklage-vogt-stadtwerke` (diese Akte) | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+| `testakte-befristungskontrollklage-vogt-stadtwerke` (Akte) | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
-**Fiktiver Beispielfall** zur Demonstration der `entfristung-*`-Skills im Plugin `arbeitsrecht`.
+**Beispielfall** für die `entfristung-*`-Skills im Plugin `arbeitsrecht`.
 
 ---
 
@@ -79,7 +79,7 @@ rechtskräftiges Feststellungsurteil.
 
 | Datei | Inhalt |
 |---|---|
-| [README.md](README.md) | Diese Übersichtsseite: Sachverhalt, Eckdaten, Dateiliste, Lernziele |
+| [README.md](README.md) | Diese Übersichtsseite: Sachverhalt, Eckdaten, Dateiliste, Prüffokus |
 | [mandantennotiz_erstgespraech_09-03-2026.md](mandantennotiz_erstgespraech_09-03-2026.md) | Strukturierte Kanzleinotiz zum Erstgespräch vom 09.03.2026 |
 | [mandantennotiz_erstgespräch_09-03-2026.txt](mandantennotiz_erstgespraech_09-03-2026.txt) | Rohabschrift der handschriftlichen Notiz (Original) |
 | [vollmacht_vogt.docx](vollmacht_vogt.docx) | Vollmacht Lena Vogt (DOCX-Fassung) |
@@ -126,9 +126,9 @@ rechtskräftiges Feststellungsurteil.
 
 ---
 
-## Lernziel / Was zeigt diese Akte
+## Prüffokus
 
-Diese Akte demonstriert den vollständigen Ablauf einer Befristungskontrollklage nach TzBfG:
+Diese Akte zeigt den vollständigen Ablauf einer Befristungskontrollklage nach TzBfG:
 
 - **Erstberatung unter Fristdruck**: Erkennen und Berechnen der 3-Wochen-Frist des § 17 TzBfG
 - **Schriftformprüfung § 14 Abs. 4 TzBfG**: Wie die rein digitale Vertragsunterzeichnung
@@ -156,14 +156,13 @@ Diese Akte demonstriert den vollständigen Ablauf einer Befristungskontrollklage
 | `entfristung-guetetermin-und-kammertermin-sprechzettel` | Gütertermin-Vorbereitung |
 | `entfristung-vergleichsverhandlung-checkliste` | Neue Stelle vs. Abfindung |
 
-Einstieg: `/arbeitsrecht:entfristung-triage-was-will-user`  
+Einstieg: `/arbeitsrecht:entfristung-triage-was-will-user`
 Kernbaustein: `entfristung-schriftform-14-abs-4-erkennen`
 
 ---
 
 ## Disclaimer
 
-Alle Personen, Firmen, Adressen, Beträge und Aktenzeichen sind frei erfunden. Übereinstimmungen
 mit realen Personen oder Unternehmen wären rein zufällig. Die Akte dient ausschließlich dem
 Testen und der Demonstration der Skills im Plugin `arbeitsrecht` und stellt keine Rechtsberatung
 dar. Für konkrete rechtliche Fragen wenden Sie sich an eine zugelassene Rechtsanwältin oder

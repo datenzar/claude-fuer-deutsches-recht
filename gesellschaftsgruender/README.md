@@ -24,11 +24,11 @@ Alternativ via Marketplace:
 
 Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und das Verzeichnis `skills/` enthalten.
 
-## Schulungsakte (Direkt-Download)
+## Arbeitsakte (Direkt-Download)
 
 - **Streit Roeschen Tech GmbH i.Gr.** (Drei-Gründer-Streit mit Vesting/SHA/Class-Shares): [testakten/gesellschaftsgruender-streit-roeschen-tech/](../testakten/gesellschaftsgruender-streit-roeschen-tech/) -> [testakte-gesellschaftsgruender-streit-roeschen-tech.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip)
 
-Details zur Schulungsakte stehen weiter unten.
+Details zur Arbeitsakte stehen weiter unten.
 
 ## Mandatsperspektive
 
@@ -161,9 +161,9 @@ Phase E — Laufender Betrieb und Konflikt-Mass nahmen
 | `gesellschaftsgruender-kapitalerhoehung-bezugsrecht` | Kapitalerhöhung Bezugsrecht Bezugsrechtsausschluss BGH-Linie Kali-Salz |
 | `gesellschaftsgruender-gesellschafterstreit-eilantraege` | Einstweilige Verfügung LG Anmeldungs-Sperre Registergericht Anfechtungsklage |
 
-## Schulungsakte
+## Arbeitsakte
 
-Im Verzeichnis `testakten/gesellschaftsgruender-streit-roeschen-tech/` befindet sich eine **vollständige Schulungsakte** mit dem Szenario einer fiktiven Roeschen Tech GmbH:
+Im Verzeichnis `testakten/gesellschaftsgruender-streit-roeschen-tech/` befindet sich eine **vollständige Arbeitsakte** zum Gesellschafterstreit der Roeschen Tech GmbH:
 
 - Gründung mit drei Gründern und Stammkapital 30.000 EUR
 - Series-A-Aufnahme von Stahlauge Ventures AG mit B-Shares
@@ -179,7 +179,7 @@ Enthält:
 - Einladung und Protokoll der streitigen GV
 - Anfechtungsklage und Eilanträge
 - Beirat-Schlichtungs-Empfehlung
-- Schulungsbegleiter mit Lernzielen und Aufgaben
+- Prüfvermerk mit Lernzielen und Aufgaben
 
 ## Pluginscope und Stoppschilder
 

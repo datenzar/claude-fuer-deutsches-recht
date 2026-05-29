@@ -1,6 +1,6 @@
 ---
 name: maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25
-description: "Workflow-Skill zu maklervertrag paragraph 656a bgb textform bgh i zr 202 25. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Workflow-Skill zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren."
 ---
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
@@ -19,27 +19,27 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 - BGH, Urt. v. 06.03.2025 – Az. I ZR 32/24 — Halbteilungsgrundsatz § 656c BGB beim Verkauf eines Einfamilienhauses; Definition des Einfamilienhauses; analoge Anwendung auf Maklervertraege mit Dritten. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.03.2025&Aktenzeichen=I+ZR+32/24 (BGH-Presseinformation Nr. 44/2025).
 - BGH, Urt. v. 06.03.2025 – Az. I ZR 138/24 — Gesamtnichtigkeit der Abwaelzungsvereinbarung bei Verstoss gegen § 656d BGB; kein Anspruch des Maklers gegen den Kaeufer auf die volle Provision. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=06.03.2025&Aktenzeichen=I+ZR+138/24
 - BGH, Urt. v. 09.10.2025 – Az. I ZR 159/24 — Maklervertraege ueber Online-Anbahnung ohne Buttonloesung (§ 312j BGB analog) sind im B2C-Verhaeltnis bei fehlender ausdruecklicher Zahlungsbutton-Bestaetigung unwirksam. Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=09.10.2025&Aktenzeichen=I+ZR+159/24
-- Rechtsprechung zu Az. I ZR 202/25 ist nach offen zugaenglichen Quellen (Stand Mai 2026) noch nicht entschieden; falls im Mandat darauf abgehoben wird, ueber https://dejure.org und https://www.bundesgerichtshof.de verifizieren.
+- Rechtsprechung zu Az. I ZR 202/25 ist nach offen zugaenglichen Quellen (Stand Mai 2026) nicht als entscheidungstragende BGH-Entscheidung belegt; falls im Mandat darauf abgehoben wird, ueber https://dejure.org und https://www.bundesgerichtshof.de verifizieren und bei fehlendem Treffer nicht zitieren.
 
 ## Rechtsprechung live prüfen
 
-### Sachverhalt (vereinfacht)
+### Pflichtprogramm vor jeder Rechtsprechungszitierung
 
-Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach erfolgreicher Vermittlung. Ein ausdrücklicher schriftlicher Maklervertrag war nicht geschlossen worden. Der Kontakt erfolgte über E-Mails. In einer E-Mail des Maklers fand sich ein Provisionshinweis — allerdings stand dieser **unterhalb der Grußformel und der Namensangabe** des Maklers. Der oberhalb angeordnete Text der E-Mail nahm auf den Provisionshinweis nicht Bezug. Die Klage des Maklers blieb in der Revision erfolglos: Es war kein formwirksamer Maklervertrag zustande gekommen, und bereicherungsrechtliche Ansprüche des Maklers waren ausgeschlossen.
+1. Suche in der BGH-Datenbank, bei dejure.org und möglichst zusätzlich in einer frei zugänglichen Gerichtsdatenbank nach Gericht, Datum und Aktenzeichen.
+2. Prüfe, ob der gefundene Treffer wirklich § 656a BGB, Textform, Maklerprovision und die konkrete Aussage betrifft.
+3. Zitiere nur, wenn Gericht, Entscheidungsform, Datum, Aktenzeichen, Quelle und tragende Aussage zusammenpassen.
+4. Wenn ein Aktenzeichen aus einer Mandatsakte nicht auffindbar ist, schreibe offen: "Keine verifizierte Entscheidung gefunden"; dann aus Normtext, Aktenlage und verifizierter Rechtsprechung argumentieren.
 
-### Leitsätze des BGH (sinngemäß)
+### Prüfproblem: Provisionshinweis in E-Mail-Signatur
 
-**Erster Leitsatz — getrennte Datenträger genügen**:
-> § 126b S. 1 BGB ist mit Blick auf § 656a BGB so auszulegen, dass die Erklärungen der Vertragsparteien nicht in einem Dokument enthalten sein müssen, sondern auf getrennten dauerhaften Datenträgern stehen können. Durch Austausch von E-Mails kann ein nach § 656a BGB formwirksamer Maklervertrag zustande kommen.
+Ein Provisionshinweis unterhalb der Grußformel, in einer Standardsignatur oder in einem Footer ist nicht automatisch Teil der eigentlichen Vertragserklärung. Der Skill prüft deshalb ohne ungeprüftes BGH-Zitat:
 
-**Zweiter Leitsatz — konkludenter Abschluss möglich**:
-> Maklerverträge nach § 656a BGB können wirksam nicht nur ausdrücklich, sondern auch konkludent abgeschlossen werden, wenn sich die wesentlichen Bestandteile — Parteien, Höhe der Provision, Gegenstand des in Aussicht genommenen Hauptvertrags — aus den die Textform wahrenden Vertragserklärungen bestimmbar ergeben. Für die Bestimmbarkeit darf auf außerhalb der Erklärungen liegende Umstände zurückgegriffen werden, sofern ein zureichender Anhaltspunkt in der Urkunde besteht.
-
-**Dritter Leitsatz — Erklärungsende muss erkennbar sein**:
-> Auch wenn § 126b BGB in der seit dem 13.06.2014 geltenden Fassung nicht mehr verlangt, dass der Abschluss der Erklärung durch Nachbildung der Namensunterschrift erkennbar gemacht wird, muss der Erklärende weiterhin auf geeignete Weise deutlich machen, **wo seine Erklärung endet**. Steht ein Provisionshinweis unterhalb der Grußformel und der Namensangabe, ohne dass der darüberstehende Text auf ihn Bezug nimmt, ist die Textform für diesen Hinweis nicht gewahrt.
-
-**Vierter Leitsatz — Bereicherungssperre**:
-> Bereicherungsrechtliche Ansprüche des Maklers gegen den Maklerkunden scheiden aus, wenn der Maklervertrag die nach § 656a BGB erforderliche Textform nicht wahrt. Der Schutzzweck des § 656a BGB — Verbraucherschutz vor unerwarteten Maklerprovisionen — würde sonst unterlaufen.
+- Steht der Provisionshinweis im eigentlichen Nachrichtentext oder nur in der Signatur?
+- Wird im Haupttext auf die Provision ausdrücklich Bezug genommen?
+- Sind Parteien, Objekt, Provisionshöhe und Anlass des Hauptvertrags bestimmbar?
+- Ist der Abschluss der Erklärung erkennbar?
+- Gibt es eine Annahmeerklärung des Kunden auf einem dauerhaften Datenträger?
+- Falls die Form fehlt: Welche Folgen ergeben sich aus § 125 BGB, § 812 BGB, § 818 BGB, § 242 BGB und dem Schutzzweck des § 656a BGB?
 
 ### Systematische Einordnung
 
@@ -47,11 +47,11 @@ Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach 
 
 **Verhältnis zu § 656c / § 656d BGB**: § 656a BGB regelt die Form; §§ 656c, 656d BGB regeln die Halbteilung der Maklerprovision zwischen Käufer und Verkäufer bei Doppeltätigkeit oder Käuferprovision.
 
-### Praktische Folgen aus I ZR 202/25
+### Praktische Folgen
 
-**Für den Makler (zentral)**: Wer als Makler die Provision rechtssicher haben will, muss den Provisionshinweis und das Provisionsverlangen **innerhalb der eigentlichen Erklärung** unterbringen — nicht in einer Signatur, nicht im Footer, nicht unter der Grußformel. Die Erklärung muss erkennbar dort enden, wo der Erklärende seinen Erklärungswillen abgeschlossen hat. Alles, was darunter steht, gehört nicht zur Erklärung.
+**Für den Makler (zentral)**: Wer als Makler die Provision rechtssicher haben will, sollte den Provisionshinweis und das Provisionsverlangen innerhalb der eigentlichen Erklärung unterbringen — nicht in einer Signatur, nicht im Footer, nicht unter der Grußformel. Die Erklärung muss erkennbar dort enden, wo der Erklärende seinen Erklärungswillen abgeschlossen hat.
 
-**Für den Kaufinteressenten (Verbraucher)**: Ist der Provisionshinweis nur in einem Footer, einer Signatur oder unterhalb der Grußformel platziert, fehlt es an der Textform. Der Maklervertrag ist nach § 125 BGB nichtig. Eine bereits gezahlte Provision kann der Käufer nach § 812 BGB zurückfordern. Umgekehrt steht dem Makler kein Bereicherungsanspruch zu (Leitsatz 4).
+**Für den Kaufinteressenten (Verbraucher)**: Ist der Provisionshinweis nur in einem Footer, einer Signatur oder unterhalb der Grußformel platziert, liegt ein starker Formeinwand nahe. Der Maklervertrag kann nach § 125 BGB nichtig sein. Eine bereits gezahlte Provision kann nach § 812 BGB zurückgefordert werden; Wertersatz- und Treuwidrigkeitseinwände sind gesondert und quellenbasiert zu prüfen.
 
 ## Workflow
 
@@ -68,7 +68,7 @@ Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach 
 □ Person des Erklaerenden erkennbar?
    → Absender-Adresse, Name, Briefkopf
 
-□ ABSCHLUSS DER ERKLAERUNG ERKENNBAR? (Leitsatz 3 — Kernpunkt)
+□ ABSCHLUSS DER ERKLAERUNG ERKENNBAR? (Kernpunkt)
    → Provisionshinweis VOR Grussformel und Namensangabe?
    → Oder: Bezugnahme auf Hinweis im Haupttext?
    → NICHT genuegend: Provisionshinweis im Footer / unter der Grussformel
@@ -82,15 +82,15 @@ Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach 
      wenn zureichender Anhaltspunkt in der Urkunde
 
 □ Angebot und Annahme:
-   → Koennen auf getrennten E-Mails stehen (Leitsatz 1)
-   → Konkludente Annahme moeglich (Leitsatz 2)
+   → Koennen auf getrennten E-Mails stehen, wenn beide Erklaerungen die Textform wahren
+   → Konkludente Annahme nur vorsichtig bejahen und mit verifizierter Rechtsprechung absichern
 
 □ Archivierung gesichert?
    → Beide Seiten sollten E-Mails und Anhaenge dauerhaft sichern
 
 □ Bei Formverstoss:
    → Maklervertrag nichtig (Paragraph 125 BGB)
-   → Bereicherungsanspruch des Maklers gesperrt (Leitsatz 4)
+   → Wertersatz-/Bereicherungsanspruch des Maklers am Schutzzweck des § 656a BGB pruefen
    → Bereits gezahlte Provision kann der Kaeufer zurueckfordern
 ```
 
@@ -117,7 +117,7 @@ Der Makler verklagte den Kaufinteressenten auf Zahlung der Maklerprovision nach 
 
 ## Templates
 
-### Textformwirksamer Maklerauftrag per E-Mail (Makler-Vorlage, BGH-konform)
+### Textformwirksamer Maklerauftrag per E-Mail (Makler-Vorlage, quellenfest)
 
 ```
 Betreff: Maklerauftrag Immobilie [Adresse] — Auftragsbestaetigung
@@ -145,7 +145,7 @@ Mit freundlichen Gruessen
 [Standardsignatur — gehoert nicht zur Erklaerung]
 ```
 
-**Wichtig zur BGH-Konformitaet**: Der Provisionshinweis steht **vor** der Grussformel im Haupttext. Die Signatur darunter enthaelt keine vertragsrelevanten Informationen. Damit ist der Abschluss der Erklaerung im Sinne von Leitsatz 3 erkennbar.
+**Wichtig zur Textform**: Der Provisionshinweis steht **vor** der Grussformel im Haupttext. Die Signatur darunter enthaelt keine vertragsrelevanten Informationen. Damit ist der Abschluss der Erklaerung erkennbar.
 
 ### Mandantenhinweis fuer Kaeufer
 

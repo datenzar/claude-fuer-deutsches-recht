@@ -1,4 +1,4 @@
-Faxeingang simuliert
+Faxeingang
 Amtsgericht Mitte
 Az. 12 C 88/26
 Datum Verfügung: 20.05.2026
@@ -13,4 +13,4 @@ Richterin am Amtsgericht Dr. Noll
 Hinweis:
 - Frist ist sehr kurz.
 - Samstag/Sonntag prüfen.
-- Frist in Testakte nur simuliert, aber fachlich ernst behandeln.
+- Frist aus dem Aktenstand fachlich ernst behandeln.

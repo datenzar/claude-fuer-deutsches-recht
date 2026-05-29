@@ -1,12 +1,12 @@
-# Testakte Vertragsausfueller - BSAG Kiosk Huckelriede
+# Akte Vertragsausfueller - BSAG Kiosk Huckelriede
 
 ## ⬇️ Direkt-Download
 
-| Testakte | Direkt-Download |
+| Akte | Direkt-Download |
 | --- | --- |
-| `testakte-vertragsausfueller-bsag-kiosk-huckelriede` (diese Akte) | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
+| `testakte-vertragsausfueller-bsag-kiosk-huckelriede` (Akte) | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
 
-Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
+Diese Akte wird separat als ZIP-Datei aus dem GitHub-Release bereitgestellt. Das ZIP enthält die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für die Bearbeitung.
 
 
 ## Sachverhalt
@@ -54,7 +54,7 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rueck
 5. Erstelle einen Clean-Entwurf nach Prüfliste (-> `04_clean_entwurf_checkliste.md`).
 6. Erst wenn ausdruecklich gewuenscht: Track-Changes- oder Redline-Fassung vorbereiten.
 
-## Lernziele
+## Prüffokuse
 
 - Feldinventar aus DOCX-Vorlage extrahieren und systematisch ablegen
 - Konfliktstellen zwischen Vorlage und Term Sheet identifizieren (Verlängerung, Konkurrenzschutz, Sortiment)
@@ -63,5 +63,3 @@ Sensible Sonderpunkte: Konkurrenzschutz, Fettabscheider, Abfallentsorgung, Rueck
 - Track-Changes-Fassung nur auf ausdrücklichen Wunsch erzeugen
 
 ## Disclaimer
-
-Diese Akte ist eine fiktive Schulungs- und Testakte. Personen, Adressen, Aktenzeichen und Zahlen sind frei erfunden. Sie ersetzt keine Rechtsberatung. Bei realen Mietverhältnissen mit der BSAG oder anderen Verkehrsbetrieben ist eine eigene Prüfung durch einen Rechtsanwalt erforderlich.

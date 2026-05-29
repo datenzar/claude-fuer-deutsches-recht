@@ -1,8 +1,8 @@
 # Insolvenzplan-Option vs. StaRUG-Stabilisierung — Vergleichsmemo
 
-**Aktenzeichen:** MA-2026-SF-001-R  
-**Erstellt:** 17.05.2026  
-**Verfasser:** Counsel D (Restrukturierung)  
+**Aktenzeichen:** MA-2026-SF-001-R
+**Erstellt:** 17.05.2026
+**Verfasser:** Counsel D (Restrukturierung)
 **Adressat:** Deal Team / Eagle Capital Partners — Intern
 
 ---
@@ -46,12 +46,12 @@ Das Deal Team hat angefragt, ob bei einer hypothetischen Verschlechterung der La
 
 Falls Szenario II eintritt, gelten für den Insolvenzplan:
 
-1. **Darstellender Teil** (§ 220 InsO): Wirtschaftliche Lage, Ursachen der Insolvenz  
-2. **Gestaltender Teil** (§ 221 InsO): Gläubigerbefriedigung, Quoten, Masseverwendung  
-3. **Gruppen** (§ 222 InsO): Absonderungsberechtigte, ungesicherte Gläubiger, nachrangige Gläubiger, ggf. Anteilsinhaber  
-4. **Abstimmung** (§§ 235–244 InsO): 50 % Kopfmehrheit + 50 % Summenmehrheit je Gruppe  
-5. **Planbestätigung** durch Insolvenzgericht (§ 248 InsO)  
-6. **Restschuldbefreiung** aller im Plan erfassten Verbindlichkeiten nach Vollzug  
+1. **Darstellender Teil** (§ 220 InsO): Wirtschaftliche Lage, Ursachen der Insolvenz
+2. **Gestaltender Teil** (§ 221 InsO): Gläubigerbefriedigung, Quoten, Masseverwendung
+3. **Gruppen** (§ 222 InsO): Absonderungsberechtigte, ungesicherte Gläubiger, nachrangige Gläubiger, ggf. Anteilsinhaber
+4. **Abstimmung** (§§ 235–244 InsO): 50 % Kopfmehrheit + 50 % Summenmehrheit je Gruppe
+5. **Planbestätigung** durch Insolvenzgericht (§ 248 InsO)
+6. **Restschuldbefreiung** aller im Plan erfassten Verbindlichkeiten nach Vollzug
 
 **Besonderheit:** Für einen Erwerb aus der Insolvenz ohne formellen Plan (freihändiger Verkauf durch Insolvenzverwalter) genügen die §§ 160, 163 InsO (Zustimmung des Gläubigerausschusses). Dies ist schneller, aber weniger planbar.
 
@@ -78,8 +78,8 @@ Falls Szenario II eintritt, gelten für den Insolvenzplan:
 
 ## Anlagen
 
-- Anlage A: Schutzschirmantrag-Muster § 270b InsO (fiktiv)  
-- Anlage B: StaRUG-Restrukturierungsplan Gliederung (Muster)  
+- Anlage A: Schutzschirmantrag-Muster § 270b InsO
+- Anlage B: StaRUG-Restrukturierungsplan Gliederung (Muster)
 
 ---
 

@@ -1,4 +1,4 @@
-# Verkehrswertgutachten - fiktive Kurzfassung
+# Verkehrswertgutachten - Kurzfassung
 
 **Aktenzeichen:** 71 K 18/26
 
@@ -32,7 +32,7 @@
 
 ## Miet- und Nutzungsangaben
 
-Nach Mitteilung des fiktiven Zwangsverwalters besteht ein Mietvertrag vom 26.08.2021 mit Mietbeginn am 01.11.2021. Die Wohnung ist zu Wohnzwecken vermietet.
+Nach Mitteilung des Zwangsverwalters besteht ein Mietvertrag vom 26.08.2021 mit Mietbeginn am 01.11.2021. Die Wohnung ist zu Wohnzwecken vermietet.
 
 | Zeitraum | Nettokaltmiete | Betrieb-/Heizkostenvorauszahlung | Gesamt |
 | --- | ---: | ---: | ---: |

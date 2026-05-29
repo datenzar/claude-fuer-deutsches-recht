@@ -110,6 +110,3 @@ Dr. Markus Haverkamp — Geschäftsführer (technisch)
 Sandra Vielhaber — Geschäftsführerin (kaufmännisch)
 
 Anlagen: 1. Lageplan — 2. Verfahrensfließbild — 3. Datenblatt CT-600 — 4. Ausbreitungsrechnung — 5. Schallprognose — 6. Abfallkonzept — 7. Wartungsprotokoll — 8. HR-Auszug — 9. Vollmacht
-
-
-Dieses Dokument ist ein fiktives Beispieldokument für Ausbildungszwecke. Alle Angaben zu Personen, Unternehmen und Behörden sind erfunden. Es ersetzt keine Rechtsberatung.

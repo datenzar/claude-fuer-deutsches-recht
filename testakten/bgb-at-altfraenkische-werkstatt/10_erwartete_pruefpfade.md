@@ -1,4 +1,4 @@
-# Erwartete Prüffelder ohne Musterlösung
+# Erwartete Prüffelder ohne abschließende Bewertung
 
 Diese Datei beschreibt nur, welche Themen ein guter Lauf des Plugins finden sollte. Sie legt kein Ergebnis fest.
 

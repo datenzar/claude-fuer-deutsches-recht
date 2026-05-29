@@ -1,10 +1,10 @@
 # Red Flag Findings — Projekt Silberfalke
 
-**Aktenzeichen:** MWK/2024/SIL-001  
-**Dokument-Nr.:** DD-RF-001/SIL  
-**Version:** 2.1 (Stand: 15. Dezember 2024)  
-**Verfasser:** Dr. Markus Weidemann, Katharina Pfeiffer, Dr. Sabine Roth, Dr. Hans-Peter Fuchs  
-**Adressat:** Eagle Capital Partners GmbH & Co. KG (Felix Brandl, Managing Director)  
+**Aktenzeichen:** MWK/2024/SIL-001
+**Dokument-Nr.:** DD-RF-001/SIL
+**Version:** 2.1 (Stand: 15. Dezember 2024)
+**Verfasser:** Dr. Markus Weidemann, Katharina Pfeiffer, Dr. Sabine Roth, Dr. Hans-Peter Fuchs
+**Adressat:** Eagle Capital Partners GmbH & Co. KG (Felix Brandl, Managing Director)
 **Klassifizierung:** Streng vertraulich
 
 ---
@@ -22,9 +22,9 @@ Dieser Vermerk enthält eine laufend aktualisierte Liste der im Rahmen der Legal
 
 ## Red Flag 1 — Change-of-Control Clause Kunde A
 
-**Schweregrad:** 🔴 HOCH  
-**Workstream:** Commercial  
-**Identifiziert am:** 29. November 2024  
+**Schweregrad:** 🔴 HOCH
+**Workstream:** Commercial
+**Identifiziert am:** 29. November 2024
 **Verantwortlich:** Katharina Pfeiffer
 
 ### Befund
@@ -49,9 +49,9 @@ Seller Counsel wurde mit Schreiben vom 1. Dezember 2024 aufgefordert, unverzügl
 
 ## Red Flag 2 — Exportkontrolle / Dual-Use
 
-**Schweregrad:** 🔴 HOCH  
-**Workstream:** Regulatory  
-**Identifiziert am:** 27. November 2024  
+**Schweregrad:** 🔴 HOCH
+**Workstream:** Regulatory
+**Identifiziert am:** 27. November 2024
 **Verantwortlich:** Dr. Hans-Peter Fuchs
 
 ### Befund
@@ -78,9 +78,9 @@ Dr. Fuchs hat Gespräch mit BAFA-Referat B1 initiiert (Selbstanzeige erwogen). I
 
 ## Red Flag 3 — IP-Abtretungsvertrag Gründer 2018
 
-**Schweregrad:** 🔴 HOCH  
-**Workstream:** IP  
-**Identifiziert am:** 28. November 2024  
+**Schweregrad:** 🔴 HOCH
+**Workstream:** IP
+**Identifiziert am:** 28. November 2024
 **Verantwortlich:** Dr. Lena Brandt
 
 ### Befund
@@ -107,9 +107,9 @@ Seller Counsel hat Nachweis bis 10. Dezember 2024 zugesagt. W&I-Underwriter (All
 
 ## Red Flag 4 — Liquiditätslage Solaris Distribution Italia S.r.l.
 
-**Schweregrad:** 🟡 MITTEL  
-**Workstream:** Financial / Litigation  
-**Identifiziert am:** 3. Dezember 2024  
+**Schweregrad:** 🟡 MITTEL
+**Workstream:** Financial / Litigation
+**Identifiziert am:** 3. Dezember 2024
 **Verantwortlich:** Tim Berger
 
 ### Befund
@@ -129,9 +129,9 @@ Local Counsel (Morano) wurde angewiesen, Kapitalstatus bis 15. Dezember 2024 zu 
 
 ## Red Flag 5 — Umwandlung 2024 / Verlustvorträge § 8c KStG
 
-**Schweregrad:** 🟡 MITTEL  
-**Workstream:** Tax  
-**Identifiziert am:** 2. Dezember 2024  
+**Schweregrad:** 🟡 MITTEL
+**Workstream:** Tax
+**Identifiziert am:** 2. Dezember 2024
 **Verantwortlich:** Dr. Sabine Roth
 
 ### Befund
@@ -162,9 +162,7 @@ Dr. Roth erstellt separates Tax-Due-Diligence-Memo. Vorläufige Einschätzung: F
 | RF-004 | Liquidität Italia S.r.l. | 🟡 MITTEL | In Klärung | Closing Condition / Perimeter-Option |
 | RF-005 | Umwandlung 2024 / § 8c KStG | 🟡 MITTEL | In Klärung | Freistellung + Tax Covenant |
 
-**Gesamtbewertung Transaktionsrisiko (Legal DD):** MITTEL–HOCH  
+**Gesamtbewertung Transaktionsrisiko (Legal DD):** MITTEL–HOCH
 Alle drei HOCH-Red-Flags müssen vor Signing durch vertragsrechtliche Maßnahmen adressiert werden. Kein isolierter Grund für Deal-Abbruch sichtbar, aber erheblicher Verhandlungsbedarf.
 
 ---
-
-*Alle in diesem Dokument genannten Personen, Unternehmen, Zahlen und Aktenzeichen sind frei erfunden und dienen ausschließlich Schulungszwecken.*

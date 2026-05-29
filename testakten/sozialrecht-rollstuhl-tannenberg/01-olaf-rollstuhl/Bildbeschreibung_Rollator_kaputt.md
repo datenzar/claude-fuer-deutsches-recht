@@ -39,6 +39,6 @@ Relevanz für den Widerspruch:
 
 Hinweis für Plugin sozialrecht-kanzlei:
   Im echten Mandatsverhältnis wäre hier das JPG-Foto eingebettet.
-  Diese Bildbeschreibung hält die Testakte auch ohne eingebettete Bilddatei auswertbar.
+  Diese Bildbeschreibung hält die Akte auch ohne eingebettete Bilddatei auswertbar.
   Bei Bedarf: Foto im Erstgespräch auf Smartphone anfordern und
   nachträglich in die Akte einpflegen.
