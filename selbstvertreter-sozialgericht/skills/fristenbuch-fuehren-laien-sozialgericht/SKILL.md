@@ -112,6 +112,7 @@ Wer mehrere Sachen hat:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `fristen-berechnen-sgg-laien` — Berechnen
 - `wiedereinsetzung-frist-67-sgg` — wenn Frist trotzdem versaeumt
 - `fristverlaengerung-sozialgericht-laien` — Verlaengerung

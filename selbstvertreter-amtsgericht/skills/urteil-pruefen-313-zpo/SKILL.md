@@ -108,13 +108,13 @@ Am Ende des Urteils:
 - Welche Frist?
 - An welches Gericht?
 
-Wenn fehlerhaft: Die "verlaengerte Rechtsmittel-Frist" greift — bis zu 1 Jahr (§ 58 II VwGO analog, im Zivilprozess § 233 ZPO Wiedereinsetzungs-Gruendung).
+Wenn fehlerhaft: Eine fehlende oder unrichtige Rechtsmittelbelehrung im Zivilprozess fuehrt nicht automatisch zu einer Jahresfrist wie im oeffentlichen Recht (§ 58 II VwGO). Im Zivilprozess kann die Rechtsmittelfrist trotz fehlerhafter Belehrung laufen — Sie sind dann auf **Wiedereinsetzung in den vorigen Stand** nach § 233 ZPO angewiesen, sofern Sie die Frist unverschuldet versaeumt haben (Antragsfrist 2 Wochen ab Wegfall des Hindernisses, Jahresfrist § 234 III ZPO). Skill `wiedereinsetzung-frist-233-zpo`.
 
 ### Schritt 7 — Entscheidung: Berufung?
 
 Pruefen Sie:
 
-- Streitwert ueber 600 EUR? (§ 511 II Nr. 1 ZPO) — sonst keine Berufung.
+- **Beschwer ueber 1.000 EUR**? (§ 511 II Nr. 1 ZPO, Stand 2026) — sonst keine Berufung ohne Zulassung. Massgeblich ist die Beschwer (Differenz zwischen Ihrem Antrag und Urteil), nicht der Streitwert. Achtung Altverfahren: Nach § 47 EGZPO gilt fuer Entscheidungen bis 31.12.2025 die alte Wertgrenze 600 EUR.
 - Berufung zugelassen? (§ 511 II Nr. 2 ZPO).
 - Fehler im Verfahren oder in der Sache?
 
@@ -139,12 +139,13 @@ In Fristen-Buch eintragen (Skill `fristen-buch-fuehren-laien`).
 - **Berufung 1 Monat**.
 - **Tatbestand-Fehler** kann fatal sein, weil Berufungsgericht meist Tatsachen aus dem Tatbestand uebernimmt.
 - **Rechtsmittelbelehrung lesen**.
+- **Beschwer-Grenze 1.000 EUR** (Stand 2026; Altverfahren ggf. 600 EUR nach § 47 EGZPO).
 
 ## Typische Fehler
 
 - "Tenor stimmt, alles andere egal." → Tatbestand pruefen.
 - "Berichtigung beantragen bei kleinen Fehlern." → Substanzfehler beantragen.
-- "Berufung kann immer eingelegt werden." → Streitwertgrenze beachten.
+- "Berufung kann immer eingelegt werden." → Beschwer-Grenze 1.000 EUR (Stand 2026; Altverfahren bis 31.12.2025: 600 EUR nach § 47 EGZPO) beachten.
 
 ## Querverweise
 

@@ -142,6 +142,7 @@ ERGEBNIS NACH STEUERN                           [X]
 - `stb-susa-erstellen-grundlagen` — Summen- und Saldenliste als Grundlage.
 - `stb-bwa-zeitlicher-vergleich-jahresvergleich` — Vorjahresvergleich.
 - `stb-bwa-kontenrahmen-skr03-skr04` — Kontenrahmenwahl und Mapping.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

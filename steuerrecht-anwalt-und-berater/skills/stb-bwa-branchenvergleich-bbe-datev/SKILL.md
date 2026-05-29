@@ -108,6 +108,7 @@ Die DATEV BBE-Datenbank (Betriebswirtschaftliche Beratung) liefert anonymisierte
 - `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaetskennzahlen.
 - `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
 - `stb-bwa-mandantenreport-monatlich` — Monatsreport.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

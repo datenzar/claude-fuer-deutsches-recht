@@ -139,6 +139,7 @@ Die Behoerde oder das Gericht entscheidet ueber den Antrag. Wenn sie ablehnen, k
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruchsfrist-84-sgg` — die Widerspruchsfrist selbst
 - `fristen-berechnen-sgg-laien` — alle Fristen
 - `widerspruchsbescheid-was-jetzt` — wenn Widerspruchsfrist gerade noch geht

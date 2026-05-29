@@ -137,6 +137,7 @@ IV. VERAENDERUNG FINANZMITTELFONDS                          [X]
 - `stb-bwa-cashflow-laienverstaendlich` — vereinfachte Darstellung.
 - `stb-jahresabschluss-vorbereitung-stichtag` — Jahresabschluss.
 - `stb-liquiditaetsvorschau-3-6-12-monate` — Plan-Cashflow.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

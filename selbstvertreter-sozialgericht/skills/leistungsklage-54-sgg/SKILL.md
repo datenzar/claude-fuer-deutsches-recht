@@ -109,6 +109,7 @@ Wenn die Behoerde auch nach Urteil nicht zahlt, koennen Sie vollstrecken (§ 199
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — Ueberblick
 - `untaetigkeitsklage-88-sgg` — bei voelliger Untaetigkeit
 - `widerspruchsbescheid-was-jetzt` — vor der Klage

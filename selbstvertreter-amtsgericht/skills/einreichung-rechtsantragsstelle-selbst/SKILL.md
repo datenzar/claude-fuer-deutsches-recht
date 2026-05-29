@@ -97,7 +97,7 @@ Detailliert beim separaten Substitutionsagenten.
 - `klageschrift-pflichtbestandteile-253-zpo` — Klage selbst formulieren.
 - `mahnverfahren-688-ff-zpo-vor-klage` — Mahnbescheid.
 - `prozesskostenhilfe-pkh-114-zpo` — PKH.
-- `beratungshilfe-aussergerichtliche-brh` — Beratungshilfe.
+- `beratungshilfe-aussergerichtlich-brh` — Beratungshilfe.
 - `wann-doch-anwalt-grenzfaelle` — Wann Anwalt.
 
 ## Quellen und Aktualitaet

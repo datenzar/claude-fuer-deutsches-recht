@@ -128,6 +128,7 @@ Vortragen Sie, wie viele Indizien zusammenpassen.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `amtsermittlungsgrundsatz-103-sgg` — das Gericht ermittelt mit
 - `arztberichte-vorlegen-laien-leitfaden` — Atteste konkret
 - `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen

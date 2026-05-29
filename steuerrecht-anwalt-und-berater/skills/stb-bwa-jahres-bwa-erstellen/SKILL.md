@@ -137,6 +137,7 @@ V. MEHRJAHRES-TREND (3-5 Jahre)
 - `stb-bwa-mandantenreport-monatlich` — Monatsreport.
 - `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` — Rentabilitaet.
 - `stb-jahresgespraech-mandant-bwa-basis` — Jahresgespraech.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

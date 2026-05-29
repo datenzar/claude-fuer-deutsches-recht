@@ -79,6 +79,7 @@ Oft im schriftlichen Verfahren. Bei muendlicher Verhandlung: Anwalt vertritt Sie
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `nichtzulassungsbeschwerde-bsg-160a-sgg` — wenn nicht zugelassen
 - `berufung-lsg-144-sgg-wertgrenze-750` — vorgelagert
 - `pkh-vor-sozialgericht-73a-sgg` — PKH

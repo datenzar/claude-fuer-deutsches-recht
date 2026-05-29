@@ -168,6 +168,7 @@ Faustregel: 3 bis 8 Seiten reichen meist. Lieber kurz und praezise als lang und 
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — Ueberblick
 - `verpflichtungsklage-54-sgg` — Verpflichtung
 - `anfechtungsklage-54-sgg` — Anfechtung

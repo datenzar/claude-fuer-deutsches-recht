@@ -105,6 +105,7 @@ Eine Vollabhilfe ist eine Entscheidung. Geld kommt aber nicht von selbst. Pruefe
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruchsbescheid-was-jetzt` — Ueberblick nach Bescheid
 - `klagearten-uebersicht-sgg` — welche Klage gegen welchen Teil
 - `untaetigkeitsklage-88-sgg` — wenn Behoerde nicht zahlt

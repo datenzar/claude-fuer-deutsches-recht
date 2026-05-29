@@ -125,6 +125,7 @@ Konto  Bezeichnung           Soll-Summe   Haben-Summe   Saldo Soll   Saldo Haben
 - `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
 - `stb-susa-formfehler-pruefen` — Pruefung.
 - `stb-bwa-aufbau-grundlagen` — BWA aus SuSa.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

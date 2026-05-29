@@ -56,9 +56,9 @@ Bei Eigenkuendigung "wichtiger Grund":
 
 - Mobbing
 - Gesundheitsgruende mit Attest
-- Schwerwiegende vertragsverletzungen des Arbeitgebers
-- Familiaere Gruende (Pflege)
-- Wegnahme ueber 90 min einfach (BSG-Linie)
+- Schwerwiegende Vertragsverletzungen des Arbeitgebers
+- Familiaere Gruende (Pflege von Angehoerigen)
+- Wegfall der Zumutbarkeit des Arbeitswegs (z.B. bei Umzug zu pflegebeduerftigem Angehoerigen) — BSG-Linie pruefen
 - Aufhebungsvertrag fuer Abfindung — meist KEIN wichtiger Grund, ausser drohende betriebliche Kuendigung
 
 ### Schritt 4 — Widerspruch
@@ -110,6 +110,7 @@ Bei abweisendem Widerspruchsbescheid.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — Widerspruch
 - `klagebegruendung-laienleitfaden` — Klage
 - `eilantrag-86b-sgg-grundlagen` — bei Existenznot

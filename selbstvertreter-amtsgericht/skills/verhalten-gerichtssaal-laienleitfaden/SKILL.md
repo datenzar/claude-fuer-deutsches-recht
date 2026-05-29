@@ -1,6 +1,6 @@
 ---
 name: verhalten-gerichtssaal-laienleitfaden
-description: "Verhalten im Gerichtssaal fuer Laien. Aufstehen Anrede Hoher Herr Vorsitzender Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin."
+description: "Verhalten im Gerichtssaal fuer Laien. Aufstehen Anrede Herr Vorsitzender Frau Vorsitzende Reihenfolge der Worterteilung Anrede Gegenseite Dokumenten-Vorlage Pausen Mobiltelefone. Praktischer Leitfaden vor und im Termin."
 ---
 
 # Verhalten im Gerichtssaal: Praktischer Leitfaden
@@ -19,7 +19,7 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 
 - **Sitzungssaal**: Verhandlungsraum.
 - **Vorsitzender**: Der Richter, der die Verhandlung leitet (am AG meist Einzelrichter).
-- **Anrede "Hoher Herr Vorsitzender" / "Hohe Frau Vorsitzende"**: Foermliche Anrede.
+- **Foermliche Anrede**: "Herr Vorsitzender" / "Frau Vorsitzende" oder "Herr Richter" / "Frau Richterin". Die manchmal gehoerte Form "Hoher Herr Vorsitzender" ist eine Hoeflichkeitsformel aus aelteren Zeiten und in der heutigen Amtsgerichts-Praxis unueblich — sachlich-knappes "Herr/Frau Vorsitzende(r)" ist Standard.
 - **Erkundigungs-Termine**: Voranfrage bei Geschaeftsstelle vor Termin.
 
 ## Rechtsgrundlagen
@@ -57,17 +57,18 @@ Ein Gerichtssaal hat Regeln, die nicht in Gesetzen stehen — Gewohnheiten und F
 
 ### Schritt 5 — Anrede
 
-- Vorsitzender: "Hoher Herr Vorsitzender" / "Hohe Frau Vorsitzende" / oder einfach "Herr Vorsitzender" / "Frau Vorsitzende".
-- Sehr foermlich, aber korrekt.
+- Standard: **"Herr Vorsitzender"** / **"Frau Vorsitzende"**.
+- Auch ueblich: **"Herr Richter"** / **"Frau Richterin"**.
+- Beim Amtsgericht meist Einzelrichter — die Anrede ist Vorsitzender bzw. Richter.
 
 Beispiel:
 
 ```
-"Hoher Herr Vorsitzender, ich moechte
+"Herr Vorsitzender, ich moechte
 auf folgendes hinweisen ..."
 ```
 
-Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
+Vermeiden Sie veraltete Hoeflichkeitsformeln wie "Hoher Herr Vorsitzender" — sie wirken in der heutigen Praxis befremdlich und sind nicht erforderlich. Sachlich-knappe Form ist Standard.
 
 ### Schritt 6 — Anrede Gegenseite
 
@@ -94,7 +95,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 ### Schritt 10 — Pausen
 
 - Wenn Sie Pause brauchen (z. B. fuer Beratung mit Familie): hoeflich beantragen.
-- "Hoher Herr Vorsitzender, darf ich um eine kurze Pause bitten?"
+- "Herr Vorsitzender, darf ich um eine kurze Pause bitten?"
 
 ### Schritt 11 — Bei eigenem Vortrag
 
@@ -116,7 +117,7 @@ Wenn das zu foermlich ist: "Herr Vorsitzender" ist auch ok.
 
 ### Schritt 14 — Verlassen
 
-- Sich verabschieden ("Vielen Dank, Hoher Herr Vorsitzender").
+- Sich verabschieden ("Vielen Dank, Herr Vorsitzender" oder "Vielen Dank, Frau Vorsitzende").
 - Den Saal verlassen.
 
 ## Worauf Sie besonders achten muessen

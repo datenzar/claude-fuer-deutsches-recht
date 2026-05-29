@@ -89,6 +89,7 @@ Manchmal greift mehr als ein SGB. Beispiel: Krank (SGB V) UND Schwerbehinderung 
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `sozialgericht-zustaendigkeit-51-sgg` — welche Streitigkeiten ans SG
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld-Spezial
 - `grundsicherung-sgb-xii` — Sozialhilfe-Spezial

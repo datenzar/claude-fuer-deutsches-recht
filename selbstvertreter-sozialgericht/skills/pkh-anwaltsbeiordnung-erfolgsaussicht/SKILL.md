@@ -65,7 +65,7 @@ Eine gute Klagebegruendung ueberzeugt das Gericht von der Erfolgsaussicht. Achte
 
 - Klare BSG-Linie gegen Sie.
 - Versicherungsrechtliche Voraussetzungen nicht erfuellt.
-- Frist deutlich verspasst.
+- Frist deutlich verpasst.
 
 ### Schritt 4 — Mutwilligkeit vermeiden
 
@@ -103,6 +103,7 @@ Niemals offen aggressiv schreiben — sachlich bleiben.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `pkh-vor-sozialgericht-73a-sgg` — Antrag
 - `klagebegruendung-laienleitfaden` — Begruendung
 - `kostenrisiko-vs-kostenfreiheit-laien` — Kostenrisiko

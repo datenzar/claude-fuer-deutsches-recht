@@ -150,6 +150,7 @@ Das SG hat einen Eilantragsdezernenten. Anruf ist erlaubt. Sagen Sie: "Mein Eila
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-86b-sgg-grundlagen` — Grundlagen
 - `eilantrag-erfolgsaussichten-checkliste` — Chancen pruefen
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld-Recht

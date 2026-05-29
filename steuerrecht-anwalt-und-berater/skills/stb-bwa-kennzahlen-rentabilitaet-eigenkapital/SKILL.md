@@ -125,6 +125,7 @@ Beispiel: ROI 8 Prozent kann sich aus Umsatzrentabilitaet 4 Prozent x Kapitalums
 - `stb-bwa-cashflow-laienverstaendlich` — Cashflow.
 - `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
 - `stb-bwa-mandantenreport-monatlich` — Monatsreport.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

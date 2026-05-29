@@ -31,16 +31,16 @@ Manche Fristen koennen Sie verlaengern lassen — andere nicht. **Notfristen** s
 
 ### Schritt 1 — Pruefen, ob Frist verlaengerbar
 
-#### Nicht verlaengerbar (Notfristen):
+#### Nicht verlaengerbar (Notfristen, § 224 I ZPO):
 
 - Verteidigungsanzeige nach § 276 I ZPO (2 Wochen).
 - Einspruchsfrist gegen VU (2 Wochen, § 339 ZPO).
 - Berufungsfrist (1 Monat, § 517 ZPO).
-- Berufungsbegruendungs-Frist (2 Monate, § 520 II ZPO — eigentlich Notfrist, aber Verlaengerungsmoeglichkeit nach § 520 II 3 ZPO).
 - Wiedereinsetzungs-Antragsfrist (2 Wochen, § 234 ZPO).
 
 #### Verlaengerbar:
 
+- **Berufungsbegruendungs-Frist** (2 Monate, § 520 II ZPO) — **keine** Notfrist; Verlaengerung durch den Vorsitzenden auf Antrag moeglich (§ 520 II 3 ZPO). Bei Einwilligung der Gegenseite bis zu einem Monat ohne weitere Pruefung; daraus hinausgehend nur, wenn erhebliche Gruende dargelegt sind.
 - Klageerwiderungs-Frist (richterliche Frist).
 - Replik-Frist.
 - Schriftsatz-Frist nach gerichtlichem Hinweis.

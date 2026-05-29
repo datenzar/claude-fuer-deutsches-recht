@@ -18,7 +18,7 @@ Manchmal will man wissen: Habe ich Recht oder nicht? Bin ich versichert? Es geht
 - Streit ueber Mitgliedschaft in einer Krankenkasse.
 - Streit ueber Versicherungspflicht (ja oder nein).
 - Streit ueber Anerkennung eines Arbeitsunfalls als solcher (BG).
-- Streit, ob eine bestimmte Tatigkeit selbststaendig oder abhaengig ist.
+- Streit, ob eine bestimmte Taetigkeit selbststaendig oder abhaengig ist.
 
 ## Fachbegriffe (kurz erklaert)
 
@@ -54,7 +54,7 @@ Sozialgericht [Ort]                                 [Ort, Datum]
 
 gegen
 
-[Behoerde / Trager]
+[Behoerde / Traeger]
 [Adresse]
 
 — Beklagte —
@@ -67,7 +67,7 @@ Ich erhebe Klage und beantrage:
 
 Es wird festgestellt, dass [konkrete Rechtsfrage].
 
-Beispiel: "...dass meine Tatigkeit als Pflegekraft im Haushalt der Familie X ab [Datum] keine abhaengige Beschaeftigung darstellt."
+Beispiel: "...dass meine Taetigkeit als Pflegekraft im Haushalt der Familie X ab [Datum] keine abhaengige Beschaeftigung darstellt."
 
 Oder: "...dass ich seit [Datum] pflichtversichertes Mitglied der [Krankenkasse] bin."
 
@@ -110,6 +110,7 @@ Sie muessen erklaeren, warum Sie die Feststellung brauchen. Beispiele:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — Ueberblick
 - `anfechtungsklage-54-sgg` — wenn ablehnender Bescheid
 - `verpflichtungsklage-54-sgg` — wenn positiver Bescheid gewollt

@@ -106,12 +106,13 @@ Bei Erfolg: Beklagte erstattet (Sie kriegen meist die volle Anwalts-Erstattung).
 ## Typische Fehler
 
 - "Kostenfrei" missverstanden → Gerichtskosten ja, Anwalt aber nein
-- § 109-Gutachten ohne ueberlegung → 3000 EUR-Risiko
+- § 109-Gutachten ohne Ueberlegung → 3000 EUR-Risiko
 - Mutwilligkeits-Warnung ignoriert → § 192 SGG kommt
 - Erstattung nach Erfolg vergessen → § 193-Antrag stellen
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `gerichtskostenfreiheit-183-sgg` — Grundlage
 - `kostenfrei-vs-aufwendungsersatz-193-sgg` — Erstattung
 - `anwaltskosten-bei-erfolg-erstattung` — Anwalt

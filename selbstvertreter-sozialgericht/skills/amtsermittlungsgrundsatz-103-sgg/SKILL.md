@@ -93,7 +93,7 @@ Wenn ein eingeholtes Gutachten falsch ist, koennen Sie:
 
 - Schriftlich widersprechen mit aerztlichem Gegen-Attest
 - Eigenes Gutachten nach § 109 SGG beantragen
-- Erlaeutung des Gutachters in der Verhandlung beantragen
+- Erlaeuterung des Gutachtens durch den Gutachter in der Verhandlung beantragen
 
 Siehe `widerspruch-gegen-gutachten-laien`.
 
@@ -117,6 +117,7 @@ Sie muessen mitmachen. Wenn das Gericht zu Untersuchungen bittet, gehen Sie hin.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `beweismittel-im-sozialgericht-uebersicht` — alle Beweise
 - `arztberichte-vorlegen-laien-leitfaden` — Atteste
 - `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen

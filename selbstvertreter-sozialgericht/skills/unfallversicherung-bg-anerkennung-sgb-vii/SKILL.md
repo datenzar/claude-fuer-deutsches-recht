@@ -91,7 +91,7 @@ Begruendung:
 1. Der Vorfall vom [Datum] erfuellt die Voraussetzungen des Arbeitsunfalls nach § 8 SGB VII:
    - Versicherte Taetigkeit als [Beruf] bei [Arbeitgeber].
    - Auf dem direkten Weg von [...] zu [...] (Wegeunfall).
-   - Stoss durch [...].
+   - Stoss / Sturz / Aufprall durch [...].
    - Koerperschaden: [konkrete Verletzung].
 
 2. Beweise:
@@ -138,6 +138,7 @@ Beklagte: BG am Sitz der BG (Sonderzustaendigkeit nach § 57 Abs. 2 SGG). Beispi
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — Widerspruch
 - `verpflichtungsklage-54-sgg` — Klage
 - `medizinische-gutachten-strategie-laien` — Gutachten

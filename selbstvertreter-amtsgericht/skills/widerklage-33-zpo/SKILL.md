@@ -40,7 +40,7 @@ In der Praxis sehr weit ausgelegt — fast immer konnex, wenn aus derselben Vert
 
 ### Schritt 2 — Zustaendigkeit
 
-- **Sachliche Zustaendigkeit**: Wenn beide Streitwerte addiert oberhalb der AG-Grenze (Stand 2026: 5.000 EUR, Reform laeuft) liegen, kann das AG **dennoch** zustaendig bleiben — § 33 II ZPO Widerklage faellt unter die Gerichtsbarkeit fuer die Klage.
+- **Sachliche Zustaendigkeit**: Wenn beide Streitwerte addiert oberhalb der AG-Grenze (Stand 2026: 10.000 EUR; vorher 5.000 EUR) liegen, kann das AG **dennoch** zustaendig bleiben — § 33 II ZPO Widerklage faellt unter die Gerichtsbarkeit fuer die Klage.
 - **Oertliche Zustaendigkeit**: Gericht der Hauptklage gilt auch fuer Widerklage.
 
 ### Schritt 3 — Widerklage statt Aufrechnung — wann?
@@ -104,7 +104,7 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 - Wenn Widerklage abgewiesen: Sie zahlen deren Kosten.
 - Praeklusion: Spaete Widerklage im Termin kann zurueckgewiesen werden.
-- Verfahren komplexer; bei hohen Streitwerten kann die Gesamtsumme die AG-Grenze ueberschreiten.
+- Verfahren komplexer; bei hohen Streitwerten kann die Gesamtsumme die AG-Grenze (10.000 EUR seit 01.01.2026) ueberschreiten.
 
 ### Schritt 8 — Wann eher Aufrechnung?
 
@@ -140,4 +140,4 @@ rechtlichem Zusammenhang mit dem Klage-Gegenstand
 
 ## Quellen und Aktualitaet
 
-Stand: 05/2026. § 33 ZPO unveraendert.
+Stand: 05/2026. § 33 ZPO unveraendert. AG-Wertgrenze § 23 Nr. 1 GVG seit 01.01.2026 bei 10.000 EUR (vorher 5.000 EUR; Justizstandort-Staerkungsgesetz).

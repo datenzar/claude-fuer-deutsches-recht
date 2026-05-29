@@ -114,6 +114,7 @@ Tabellen sind sachlich richtig, aber visuell muehsam. Fuer das Mandantengespraec
 - `stb-bwa-mandantenreport-monatlich` — Monatsreport.
 - `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
 - `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

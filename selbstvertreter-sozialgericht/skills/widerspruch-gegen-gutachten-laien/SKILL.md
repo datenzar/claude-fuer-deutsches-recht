@@ -124,6 +124,7 @@ Das Gericht prueft Stellungnahme und ggf. Erlaeuterung. Eine Entscheidung dauert
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `medizinische-gutachten-strategie-laien` — Strategie
 - `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Verhandlung

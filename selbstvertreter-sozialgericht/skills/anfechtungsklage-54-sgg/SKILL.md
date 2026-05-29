@@ -121,6 +121,7 @@ Sie koennen alle Teile angreifen, einen Teil, oder einen einzelnen Punkt. Klare 
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — Ueberblick
 - `verpflichtungsklage-54-sgg` — wenn auch Leistung gewollt
 - `klage-zur-niederschrift-90-sgg` — Einreichen

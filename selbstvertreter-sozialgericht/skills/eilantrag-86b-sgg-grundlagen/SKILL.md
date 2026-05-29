@@ -80,7 +80,7 @@ stelle ich folgende ANTRAEGE:
 
 1. Im Wege der einstweiligen Anordnung nach § 86b Abs. 2 SGG wird der Antragsgegner verpflichtet, mir vorlaeufig Buergergeld ab [Datum] in der Hoehe der Regelbedarfsstufe 1 zu gewaehren.
 
-2. Hilfsweise: Mir vorlaeufig einen Vorschuss in monatlich 502 EUR (oder geltender Regelsatz) zu gewaehren.
+2. Hilfsweise: Mir vorlaeufig einen Vorschuss in Hoehe des geltenden Regelbedarfs (Regelbedarfsstufe 1) zu gewaehren.
 
 3. Prozesskostenhilfe wird beantragt; eine Erklaerung ueber persoenliche und wirtschaftliche Verhaeltnisse liegt bei.
 
@@ -143,6 +143,7 @@ Das SG entscheidet meist innerhalb von 1 bis 4 Wochen. Bei akuten Faellen (Strom
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-buergergeld-jobcenter` — Spezialfall Buergergeld
 - `eilantrag-krankenkassen-leistung` — Spezialfall Krankenkasse
 - `eilantrag-pflegekassen-pflegehilfsmittel` — Spezialfall Pflege

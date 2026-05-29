@@ -95,6 +95,7 @@ Wenn Sie eine Wohngeld-Klage ans SG schicken: das SG verweist ans VG (§ 17a GVG
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `sozialgericht-zustaendigkeit-51-sgg` — SG-Zustaendigkeit
 - `buergergeld-jobcenter-sgb-ii` — Buergergeld
 - `grundsicherung-sgb-xii` — Grundsicherung

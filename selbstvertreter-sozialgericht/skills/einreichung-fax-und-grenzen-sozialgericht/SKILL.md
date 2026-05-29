@@ -85,6 +85,7 @@ Achtung: Einige SG haben das Fax abgeschafft oder umgestellt. Pruefen Sie immer 
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `einreichung-mein-justizpostfach-mjp-sozialgericht` — digitale Alternative
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Post
 - `klage-zusammenstellen-bundle-sozialgericht` — Komplett-Versand

@@ -43,7 +43,7 @@ Berufung ohne Zulassung moeglich, wenn:
 Beispiel:
 
 - Pflegegrad 2 statt 3, monatlich 200 EUR mehr ab 1.1.2025 → ueber Jahr ueber 750 EUR
-- Sanktion 100 EUR → unter Wertgrenze, aber prufbar wenn Sanktion ueber 12 Monate
+- Sanktion 100 EUR → unter Wertgrenze, aber pruefbar wenn Sanktion ueber 12 Monate
 
 Bei laufenden Leistungen reicht 1 Jahr Bezug — die Hoehe muss nicht ueber 750 EUR sein.
 
@@ -136,6 +136,7 @@ Verfahren am LSG ebenfalls kostenfrei (§ 183 SGG). Anwaltskosten zahlen Sie / P
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `urteil-sozialgericht-was-jetzt` — vorgelagert
 - `berufung-zulassung-besondere-bedeutung` — Zulassung
 - `nichtzulassungsbeschwerde-bsg-160a-sgg` — wenn Wertgrenze nicht erreicht

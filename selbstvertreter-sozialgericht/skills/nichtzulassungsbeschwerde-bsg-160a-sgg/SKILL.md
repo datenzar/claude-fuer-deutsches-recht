@@ -84,6 +84,7 @@ BSG lasst Revision zu. Verfahren wird als Revisions-Verfahren fortgesetzt.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `revision-bsg-160-sgg` — Revision
 - `berufung-lsg-144-sgg-wertgrenze-750` — vorgelagert
 - `pkh-vor-sozialgericht-73a-sgg` — PKH

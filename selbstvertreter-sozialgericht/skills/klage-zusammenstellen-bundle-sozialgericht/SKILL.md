@@ -105,6 +105,7 @@ Pruefen Sie das Limit Ihres Versandwegs (z.B. MJP).
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — welche Klage
 - `klagebegruendung-laienleitfaden` — Schriftsatz
 - `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen

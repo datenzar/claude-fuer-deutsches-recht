@@ -31,7 +31,7 @@ Sie haben einen Anwalt und Sie haben gewonnen. Die Beklagte muss die Anwaltskost
 - **§ 193 SGG** — Erstattung aussergerichtlicher Kosten.
 - **§ 197 SGG** — Kostenfestsetzung.
 - **§§ 1 ff. RVG** — Rechtsanwalts-Verguetung.
-- **VV RVG** — Vergutungs-Verzeichnis.
+- **VV RVG** — Verguetungs-Verzeichnis.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -98,6 +98,7 @@ Festsetzungsbeschluss ist Vollstreckungstitel. Beklagte zahlt meist binnen Woche
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `kostenfrei-vs-aufwendungsersatz-193-sgg` — Aufwendungs-Ersatz
 - `pkh-vor-sozialgericht-73a-sgg` — PKH
 - `fahrtkosten-zeugen-pkh-erstattung` — Fahrtkosten

@@ -119,7 +119,7 @@ Wenn der Termin als Video stattfindet, brauchen Sie:
 
 - **Vor dem Termin durchblaettern**: Die Akten den Tag vor dem Termin noch einmal durchgehen. So sind Sie sicher, wo was steht.
 - **Frueh erscheinen**: 30 Min. vor Termin im Gericht sein (Sicherheits-Kontrolle, Saal suchen, anmelden).
-- **Hoeflicher Auftritt**: Aufstehen wenn der Richter den Saal betritt, "Hohes Gericht" oder "Herr/Frau Richter/Vorsitzende(r)" als Anrede.
+- **Hoeflicher Auftritt**: Aufstehen wenn der Richter den Saal betritt; Anrede sachlich-knapp "Herr Vorsitzender" / "Frau Vorsitzende" oder "Herr Richter" / "Frau Richterin". Veraltete Formeln wie "Hohes Gericht" oder "Hoher Herr Vorsitzender" sind nicht erforderlich. Skill `verhalten-gerichtssaal-laienleitfaden`.
 - **Nichts unaufgefordert sagen**: Warten, bis der Richter Sie aufruft.
 - **Klar und kurz sprechen**: Punkte aus der Stichwort-Liste der Reihe nach abarbeiten.
 

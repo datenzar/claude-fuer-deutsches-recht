@@ -86,7 +86,7 @@ Vor dem BSG muessen Sie einen Anwalt nehmen, der beim BSG zugelassen ist. Liste 
 
 ## Querverweise
 
-- `orientierung-selbstvertreter-sozialgericht` — Einstieg
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `pkh-vor-sozialgericht-73a-sgg` — Prozesskostenhilfe
 - `beratungshilfe-vor-widerspruch-brh` — Beratungshilfe vor Klage
 - `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann doch Anwalt

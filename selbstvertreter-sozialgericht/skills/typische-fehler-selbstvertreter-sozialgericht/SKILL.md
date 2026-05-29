@@ -124,11 +124,19 @@ Generelle SGG- und SGB-Pruefung.
 - **Beweise sammeln**: jede Behauptung mit Beleg.
 - **Aktualitaet**: Atteste, Pflegeprotokolle aktuell halten.
 
-## Quellen und Aktualitaet
+## Typische Fehler
 
-Stand: 05/2026. Praxis-Erfahrung.
+Die gesamte Skill ist eine Aufzaehlung typischer Fehler — siehe oben Fehler 1 bis 15.
 
 ## Querverweise
 
 - `orientierung-selbstvertreter-sozialgericht` — Einstieg
+- `fristen-berechnen-sgg-laien` — Fristen genau
+- `wiedereinsetzung-frist-67-sgg` — wenn Frist verpasst
+- `widerspruchsfrist-84-sgg` — Widerspruchsfrist
+- `klagebegruendung-laienleitfaden` — Klage begruenden
 - Alle anderen Skills dieses Plugins.
+
+## Quellen und Aktualitaet
+
+Stand: 05/2026. Praxis-Erfahrung.

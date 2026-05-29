@@ -76,7 +76,7 @@ Vor Termin definieren (Skill `terminvorbereitung-checkliste`):
 Sie koennen Gegenvorschlag machen:
 
 ```
-"Hoher Herr Vorsitzender, ich kann dem
+"Herr Vorsitzender, ich kann dem
 Vorschlag nicht ganz folgen. Mir waere wichtig
 [Punkt]. Ich wuerde mich auf [Betrag] und
 Kosten [Aufteilung] einlassen."

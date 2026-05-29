@@ -42,10 +42,10 @@ Wer ans Gericht muss, hat Fahrtkosten. Auch Zeugen. Diese Kosten kann der Staat 
 
 ### Schritt 2 — Zeugen-Auslagen
 
-JVEG-Sae§Tze (aktuell pruefen):
+JVEG-Saetze (aktuell pruefen):
 
 - Fahrtkosten OePNV: tatsaechlich
-- PKW: 0,42 EUR / km (aktueller Stand pruefen)
+- PKW: 0,42 EUR / km nach § 5 JVEG (aktueller Stand pruefen)
 - Tagegeld bei langer Abwesenheit
 - Verdienstausfall (bis zu festgesetzte Hoehe)
 
@@ -77,15 +77,15 @@ Antrag auf Erstattung von Fahrtkosten
 
 Im Verfahren wegen [Stichwort] beantrage ich die Erstattung folgender Fahrtkosten:
 
-- Termin am [Datum]: PKW 100 km hin und zurueck = 100 km * 0,30 EUR = 30 EUR
-- Untersuchung am [Datum]: PKW 80 km = 24 EUR
-
-Gesamt: 54 EUR
+- Termin am [Datum]: PKW 100 km hin und zurueck zum km-Satz nach JVEG
+- Untersuchung am [Datum]: PKW 80 km zum km-Satz nach JVEG
 
 Anlagen: Tankquittung, Routenplaner
 
 [Unterschrift]
 ```
+
+Hinweis: Der km-Satz nach JVEG kann sich aendern; pruefen Sie den aktuellen Wert bei der Geschaeftsstelle des SG oder im JVEG.
 
 ### Schritt 6 — Bei langem Termin / weiter Anreise
 
@@ -106,6 +106,7 @@ Anlagen: Tankquittung, Routenplaner
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `kostenfrei-vs-aufwendungsersatz-193-sgg` — § 193 SGG
 - `zeugenbeweis-sozialgericht-373-zpo-analog` — Zeugen
 - `pkh-vor-sozialgericht-73a-sgg` — PKH

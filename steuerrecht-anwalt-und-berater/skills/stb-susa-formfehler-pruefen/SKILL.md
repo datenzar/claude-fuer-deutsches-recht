@@ -120,6 +120,7 @@ Datum: [Datum] Bearbeiter: [Name]
 - `stb-susa-haupt-und-personenkonten` — Hauptbuch-Nebenbuch.
 - `stb-susa-vorperiode-vergleich` — Periodenvergleich.
 - `stb-bwa-fehlerquellen-haeufig` — BWA-Fehler.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

@@ -84,6 +84,7 @@ Auch wenn Sie ans falsche Gericht schreiben, ist nichts verloren. Das Gericht ve
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `oertliche-zustaendigkeit-57-sgg` — welches SG in Ihrer Stadt
 - `sozialleistungen-uebersicht-sgb` — alle Sozialleistungen
 - `klagearten-uebersicht-sgg` — welche Klage passt

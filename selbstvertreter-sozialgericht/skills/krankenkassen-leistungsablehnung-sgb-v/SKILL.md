@@ -139,6 +139,7 @@ Wie bei jeder Klage: Verpflichtungs- und Anfechtungsklage kombiniert.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — Widerspruch allgemein
 - `eilantrag-krankenkassen-leistung` — Eilantrag
 - `arztberichte-vorlegen-laien-leitfaden` — Atteste

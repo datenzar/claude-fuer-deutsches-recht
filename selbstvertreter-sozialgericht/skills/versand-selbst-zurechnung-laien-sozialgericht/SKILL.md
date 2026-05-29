@@ -103,6 +103,7 @@ Bei Einschreiben:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-ohne-anwalt-einreichen` — Widerspruch verschicken
 - `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Post

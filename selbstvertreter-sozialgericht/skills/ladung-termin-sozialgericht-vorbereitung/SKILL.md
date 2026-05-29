@@ -28,10 +28,10 @@ Sie haben einen Brief vom Sozialgericht bekommen. Es gibt einen Termin. Wir zeig
 
 ## Rechtsgrundlagen
 
-- **§ 110 SGG** — Ladung.
+- **§ 110 SGG** — Ladung; auch Hinweis auf Verhandeln und Entscheiden in Abwesenheit (§ 110 Abs. 1 S. 2 SGG).
 - **§ 124 SGG** — Muendliche Verhandlung.
 - **§ 110a SGG** — Video-Verhandlung.
-- **§ 137 SGG** — Saeumnis-Folgen.
+- **§ 141 Abs. 3 ZPO i.V.m. § 202 SGG** — Ordnungsgeld bei nicht entschuldigtem Fernbleiben trotz angeordnetem persoenlichem Erscheinen.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -103,13 +103,14 @@ Wenn Sie nicht koennen (Krankheit, wichtiger Termin):
 
 ## Typische Fehler
 
-- Nicht erscheinen ohne Entschuldigung → § 137 SGG Saeumnis kann nachteilig sein
+- Nicht erscheinen ohne Entschuldigung → kann nachteilig sein (Verhandeln in Abwesenheit, ggf. Ordnungsgeld)
 - Unterlagen vergessen → Mappe vorbereiten
 - Zu spaet kommen → Anfahrt grosszuegig
 - Aufgeregt sein → tief atmen, ruhig bleiben
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Checkliste
 - `verhalten-im-saal-sozialgericht-laienleitfaden` — wie im Saal verhalten
 - `saeumnis-im-termin-sozialgericht` — wenn Sie nicht koennen

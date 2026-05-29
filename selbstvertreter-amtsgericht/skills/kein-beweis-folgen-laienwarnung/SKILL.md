@@ -24,8 +24,10 @@ Im Zivilprozess gilt: Wer beweispflichtig ist und nicht beweist, verliert in die
 
 ## Rechtsgrundlagen
 
-- **§ 286 ZPO** — Freie Beweiswuerdigung.
-- **§ 288 ZPO** — Wer beweispflichtig ist, verliert bei Non liquet.
+- **§ 286 ZPO** — Freie Beweiswuerdigung; das Gericht entscheidet nach seiner aus dem Inbegriff der Verhandlung gewonnenen Ueberzeugung.
+- Allgemeine Beweislast-Regel (gewohnheitsrechtlich; aus § 286 ZPO abgeleitet): Wer beweispflichtig ist, verliert bei "non liquet" (Nichterweislichkeit) die Tatsache.
+- **§ 138 III ZPO** — Nicht ausdruecklich bestrittene Tatsachen gelten als zugestanden (kein Beweis erforderlich).
+- **§ 288 ZPO** — Gestaendnis bindet das Gericht (nicht zu verwechseln mit der Non-liquet-Regel).
 
 ## Schritt-fuer-Schritt-Anleitung
 

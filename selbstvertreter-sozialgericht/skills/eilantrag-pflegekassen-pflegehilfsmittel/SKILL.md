@@ -126,7 +126,7 @@ Hier ist Eilantrag selten erfolgreich, weil Umbau Zeit braucht. Aber: bei akuter
 
 ### Schritt 6 — Verhinderungspflege
 
-Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist plOetzlich krank / verstorben, und sofort muss Ersatz organisiert werden.
+Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist ploetzlich krank / verstorben, und sofort muss Ersatz organisiert werden.
 
 ## Worauf Sie besonders achten muessen
 
@@ -144,6 +144,7 @@ Schnell, wenn ein konkreter Anlass besteht: Pflegeperson ist plOetzlich krank / 
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-86b-sgg-grundlagen` — Grundlagen
 - `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Hauptverfahren Pflege
 - `sachverstaendigen-wahlrecht-109-sgg` — eigener Gutachter

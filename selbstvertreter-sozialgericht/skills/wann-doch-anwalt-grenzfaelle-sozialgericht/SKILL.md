@@ -19,9 +19,17 @@ Manchmal ist es klueger, einen Anwalt zu nehmen. Wir sagen Ihnen, wann.
 - Ihr Fall wird komplexer.
 - Sie verlieren ein Verfahren und ueberlegen Berufung.
 
-## Fachbegriffe
+## Fachbegriffe (kurz erklaert)
 
-(In anderen Skills erklaert.)
+- **PKH**: Prozesskostenhilfe — Staatliche Uebernahme der Anwaltskosten.
+- **Beratungshilfe**: 15 EUR Eigenanteil fuer Anwalts-Beratung vor dem Verfahren.
+- **Fachanwalt fuer Sozialrecht**: Spezialisierter Anwalt mit Erfahrung im SGG.
+
+## Rechtsgrundlagen
+
+- **§ 73 SGG** — Anwaltszwang nur vor BSG.
+- **§ 73a SGG** — PKH.
+- **Beratungshilfegesetz (BerHG)** — Beratungshilfe.
 
 ## Schritt-fuer-Schritt-Anleitung
 
@@ -33,7 +41,7 @@ Warum Anwalt: kann sicher mit Atteste-Argumenten umgehen, § 109 SGG strategisch
 
 ### Konstellation 2 — Mehrere Bescheide zusammen
 
-Wann: Krankengeld + Bürgergeld + EM-Rente + Reha — alles gleichzeitig im Streit.
+Wann: Krankengeld + Buergergeld + EM-Rente + Reha — alles gleichzeitig im Streit.
 
 Warum Anwalt: Uebersicht ueber Wechselwirkungen, mehrere Verfahren parallel fuehren.
 
@@ -115,6 +123,7 @@ Bei Amtsgericht (siehe `beratungshilfe-vor-widerspruch-brh`).
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `anwaltszwang-pruefen-73-sgg` — Anwalt allgemein
 - `beratungshilfe-vor-widerspruch-brh` — Beratungshilfe
 - `pkh-vor-sozialgericht-73a-sgg` — PKH

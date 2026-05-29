@@ -151,6 +151,7 @@ Wie Anfechtungsklage: schriftlich, per Fax, MJP oder zur Niederschrift.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — Ueberblick
 - `anfechtungsklage-54-sgg` — als Teil der kombinierten Klage
 - `erwerbsminderungs-rente-streit-sgb-vi` — EM-Rente speziell

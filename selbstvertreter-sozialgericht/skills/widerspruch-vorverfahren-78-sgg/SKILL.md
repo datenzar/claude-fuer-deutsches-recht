@@ -108,6 +108,7 @@ Wenn die Behoerde nach 3 Monaten nicht entscheidet (§ 88 Abs. 2 SGG), koennen S
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruchsfrist-84-sgg` — Frist und Berechnung
 - `widerspruch-begruendung-laienleitfaden` — wie begruenden
 - `widerspruch-ohne-anwalt-einreichen` — Einreichungswege

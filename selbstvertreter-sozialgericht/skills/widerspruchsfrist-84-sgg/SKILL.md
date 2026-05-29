@@ -87,6 +87,7 @@ Auf der Geschaeftsstelle des SG koennen Sie nach dem genauen Fristende fragen. D
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — der Widerspruch selbst
 - `wiedereinsetzung-frist-67-sgg` — wenn Frist schon abgelaufen
 - `fristen-berechnen-sgg-laien` — alle Fristen im Sozialgerichts-Verfahren

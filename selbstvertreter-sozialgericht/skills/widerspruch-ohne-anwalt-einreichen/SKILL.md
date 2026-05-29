@@ -104,6 +104,7 @@ Egal welcher Weg: Sie brauchen einen Beweis fuer den Tag, an dem Ihr Widerspruch
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — das Verfahren
 - `widerspruchsfrist-84-sgg` — Frist
 - `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP fuer SG-Klage

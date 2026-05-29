@@ -128,6 +128,7 @@ Wenn ein Gutachter erscheint:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `ladung-termin-sozialgericht-vorbereitung` — Ladung verstehen
 - `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
 - `vergleich-vorschlag-101-sgg` — Vergleich

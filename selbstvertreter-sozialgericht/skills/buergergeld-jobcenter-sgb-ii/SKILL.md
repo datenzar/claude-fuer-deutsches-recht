@@ -127,10 +127,13 @@ Jobcenter rechnet alte Forderungen mit Buergergeld auf. Pruefen Sie:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-buergergeld-jobcenter` — Eilantrag
 - `widerspruch-vorverfahren-78-sgg` — Widerspruch
 - `anfechtungsklage-54-sgg` — gegen Sanktion
 - `verpflichtungsklage-54-sgg` — auf Mehrleistung
+- `grundsicherung-sgb-xii` — wenn nicht erwerbsfaehig
+- `wohngeld-und-sozialhilfe-grenzfaelle` — Abgrenzung
 
 ## Quellen und Aktualitaet
 

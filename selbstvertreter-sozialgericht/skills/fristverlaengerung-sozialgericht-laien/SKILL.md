@@ -103,6 +103,7 @@ Eine zweite oder dritte Verlaengerung wird strenger geprueft. Begruenden Sie gut
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `fristen-berechnen-sgg-laien` — Fristen
 - `fristenbuch-fuehren-laien-sozialgericht` — Fristen verwalten
 - `wiedereinsetzung-frist-67-sgg` — wenn verspaetet

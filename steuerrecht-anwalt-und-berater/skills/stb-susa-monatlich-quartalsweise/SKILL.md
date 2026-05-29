@@ -108,6 +108,7 @@ Tag 30:                   BWA Quartal versandt
 - `stb-bwa-monatsabschluss-routine` — Monatsabschluss.
 - `stb-routine-monatsabschluss-30-tage-zyklus` — 30-Tage-Zyklus.
 - `stb-routine-quartalsabschluss-prozess` — Quartalsabschluss-Prozess.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

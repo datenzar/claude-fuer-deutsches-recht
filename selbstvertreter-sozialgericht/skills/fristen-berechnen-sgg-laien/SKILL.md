@@ -116,6 +116,7 @@ Sozialgericht Geschaeftsstelle anrufen. Mitarbeiter helfen bei Fristberechnung.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruchsfrist-84-sgg` — Widerspruchsfrist
 - `wiedereinsetzung-frist-67-sgg` — Wiedereinsetzung
 - `fristenbuch-fuehren-laien-sozialgericht` — Fristen fuehren

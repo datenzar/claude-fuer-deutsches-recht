@@ -118,6 +118,7 @@ Im SG-Verfahren oft auch nur Einzelrichter, ohne ehrenamtliche.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `ladung-termin-sozialgericht-vorbereitung` — Ladung
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
 - `dolmetscher-beim-sozialgericht-laien` — Dolmetscher

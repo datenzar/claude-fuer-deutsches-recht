@@ -109,6 +109,7 @@ Wenn das Gericht ein Original braucht (z.B. Original-Vollmacht), wird es ausdrue
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagebegruendung-laienleitfaden` — Schriftsatz
 - `klage-zusammenstellen-bundle-sozialgericht` — komplett verschicken
 - `dokumenten-erzeugung-pdf-laien-sozialgericht` — PDF-Erstellung

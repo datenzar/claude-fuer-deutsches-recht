@@ -123,6 +123,7 @@ Speichern Sie alle Klage-PDFs in einem Ordner. Sortieren Sie alphabetisch:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `einreichung-mein-justizpostfach-mjp-sozialgericht` — MJP-Versand
 - `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen ordnen
 - `klage-zusammenstellen-bundle-sozialgericht` — Komplett-Paket

@@ -122,6 +122,7 @@ Per Einschreiben mit Rueckschein oder persoenlich gegen Empfangsbestaetigung.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — das Verfahren
 - `arztberichte-vorlegen-laien-leitfaden` — Arztbericht richtig nutzen
 - `pflegegrad-streit-mdk-pflegekasse-sgb-xi` — Pflegegrad

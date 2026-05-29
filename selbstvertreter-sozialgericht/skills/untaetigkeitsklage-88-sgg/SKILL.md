@@ -133,6 +133,7 @@ Wichtig: Das Gericht entscheidet nur, DASS die Behoerde entscheiden muss — nic
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagearten-uebersicht-sgg` — Ueberblick
 - `widerspruch-vorverfahren-78-sgg` — Widerspruch
 - `widerspruchsbescheid-was-jetzt` — wenn Bescheid dann doch kommt

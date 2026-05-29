@@ -118,6 +118,7 @@ Buero-Ausstattung 15.000      6.000          9.000            —       —     
 - `stb-jahresabschluss-anlagenverzeichnis-afa` — JA-AfA-Verzeichnis.
 - `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
 - `stb-bwa-aufbau-grundlagen` — BWA.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

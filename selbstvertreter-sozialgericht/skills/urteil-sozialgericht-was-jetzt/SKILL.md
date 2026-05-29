@@ -103,6 +103,7 @@ Siehe `berufung-lsg-144-sgg-wertgrenze-750`.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `berufung-lsg-144-sgg-wertgrenze-750` — Berufung
 - `berufung-zulassung-besondere-bedeutung` — Berufung zulassen
 - `nichtzulassungsbeschwerde-bsg-160a-sgg` — bei BSG-Frage

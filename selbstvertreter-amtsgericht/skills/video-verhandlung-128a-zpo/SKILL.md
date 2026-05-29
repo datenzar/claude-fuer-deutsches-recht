@@ -91,7 +91,7 @@ Bei Problemen: Gericht informieren.
 
 - Punktlich einwaehlen (5-10 Min vorab).
 - Kamera an, Mikrofon stumm (entstummen bei Wortmeldung).
-- Anrede wie im Saal: "Hoher Herr Vorsitzender".
+- Anrede wie im Saal: "Herr Vorsitzender" / "Frau Vorsitzende".
 - Identifizierung: Personalausweis hochhalten ggf.
 
 ### Schritt 6 — Dokumente

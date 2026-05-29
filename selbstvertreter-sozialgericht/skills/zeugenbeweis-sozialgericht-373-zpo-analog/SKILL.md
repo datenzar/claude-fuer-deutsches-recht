@@ -100,11 +100,12 @@ Auch bei Sozialgericht (§ 1 JVEG i.V.m. § 197a SGG analog). Sagen Sie das dem 
 
 - Beweisthema zu allgemein → konkret
 - Adresse fehlt → unwirksam
-- Zeuge ist Anhoerer (Hoeren-sagen) → wertlos
+- Zeuge hat nur vom Hoeren-sagen Kenntnis → wenig wertvoll
 - Zeuge unzuverlaessig → besser nicht benennen
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `beweismittel-im-sozialgericht-uebersicht` — Ueberblick
 - `amtsermittlungsgrundsatz-103-sgg` — Amtsermittlung
 - `medizinische-gutachten-strategie-laien` — bei medizinischen Fragen lieber Gutachten

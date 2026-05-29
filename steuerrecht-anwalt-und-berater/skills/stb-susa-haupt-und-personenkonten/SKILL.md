@@ -109,6 +109,7 @@ Differenzen muessen 0 sein. Bei Abweichung: Fehler im System (Buchung ohne Perso
 - `stb-susa-debitorenliste-osa-offene-posten` — Debitoren-OPOS.
 - `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
 - `stb-susa-formfehler-pruefen` — Pruefung.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

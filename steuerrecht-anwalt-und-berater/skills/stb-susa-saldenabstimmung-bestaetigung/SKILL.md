@@ -129,6 +129,7 @@ Mit freundlichen Gruessen
 - `stb-susa-kreditorenliste-ova` — Kreditoren-OPOS.
 - `stb-jahresabschluss-bestandskonten-abstimmung` — Bilanzvorbereitung.
 - `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

@@ -102,6 +102,7 @@ Beratungshilfe ist VOR dem Gerichtsverfahren. Im laufenden Verfahren brauchen Si
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `pkh-vor-sozialgericht-73a-sgg` — PKH im laufenden Verfahren
 - `anwaltszwang-pruefen-73-sgg` — Anwalt allgemein
 - `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann Anwalt

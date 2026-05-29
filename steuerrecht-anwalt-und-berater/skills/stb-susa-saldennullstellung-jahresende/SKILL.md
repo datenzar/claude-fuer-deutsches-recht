@@ -111,6 +111,7 @@ Saldo Konto 9999 (Gewinn/Verlust) → Konto 2000 (Bilanzgewinn) [GmbH]
 - `stb-jahresabschluss-vorbereitung-stichtag` — JA-Vorbereitung.
 - `stb-jahresabschluss-bestandskonten-abstimmung` — Bestandskonten-Abstimmung.
 - `stb-jahresabschluss-handels-vs-steuerbilanz` — Massgeblichkeit.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

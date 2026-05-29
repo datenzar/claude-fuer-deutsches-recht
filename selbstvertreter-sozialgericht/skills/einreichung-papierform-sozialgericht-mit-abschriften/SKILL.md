@@ -90,6 +90,7 @@ Aufheben min. 5 Jahre.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `einreichung-mein-justizpostfach-mjp-sozialgericht` — digitale Alternative
 - `einreichung-fax-und-grenzen-sozialgericht` — Fax
 - `anlagen-bezeichnen-und-sortieren-sozialgericht` — Anlagen

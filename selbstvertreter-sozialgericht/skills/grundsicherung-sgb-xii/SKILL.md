@@ -136,6 +136,7 @@ Wie bei anderen Sozialleistungen.
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `buergergeld-jobcenter-sgb-ii` — Abgrenzung
 - `wohngeld-und-sozialhilfe-grenzfaelle` — Wohngeld vs. Sozialhilfe
 - `widerspruch-vorverfahren-78-sgg` — Widerspruch

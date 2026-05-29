@@ -143,6 +143,7 @@ Nur bei Jahrgang vor 02.01.1961. Sonst irrelevant. Pruefen Sie genau die Definit
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `verpflichtungsklage-54-sgg` — Klageform
 - `arztberichte-vorlegen-laien-leitfaden` — Atteste
 - `medizinische-gutachten-strategie-laien` — Gutachten

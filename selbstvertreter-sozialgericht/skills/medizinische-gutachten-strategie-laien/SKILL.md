@@ -84,7 +84,7 @@ Wenn das Gutachten gegen Sie ist:
 
 - Eigenes aerztliches Attest, das widerspricht.
 - Konkrete Fehler im Gutachten benennen.
-- Erlaeutung des Gutachters in der Verhandlung beantragen.
+- Erlaeuterung des Gutachtens durch den Gutachter in der Verhandlung beantragen.
 
 **Option 2: § 109-Gutachten beantragen**
 
@@ -125,6 +125,7 @@ Wenn Sie kuerzlich eine Reha hatten:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `amtsermittlungsgrundsatz-103-sgg` — Amtsermittlung
 - `arztberichte-vorlegen-laien-leitfaden` — Atteste
 - `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten

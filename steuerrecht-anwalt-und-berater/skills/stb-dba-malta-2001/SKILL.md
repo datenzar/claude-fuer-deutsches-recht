@@ -7,7 +7,7 @@ description: "DBA Deutschland Malta 2001 mit Protokollen. Anwendungsfall Holding
 
 ## Kernsachverhalt
 
-Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom 17.06.2010 regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt fuer Holding-Konstruktionen (sechstel-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
+Das DBA-Malta vom 08.03.2001 (BGBl. 2001 II S. 1180) mit Aenderungsprotokoll vom 17.06.2010 regelt das Verhaeltnis zum EU-Mitglied Malta (Beitritt 2004, Euro 2008). Malta ist Schwerpunkt fuer Holding-Konstruktionen (6/7-Refund-System), REIT-aehnliche Strukturen, Schifffahrt (Maltesisches Schiffsregister) und Online-Glueckspiel-Lizenzen.
 
 ## Kaltstart-Rueckfragen
 

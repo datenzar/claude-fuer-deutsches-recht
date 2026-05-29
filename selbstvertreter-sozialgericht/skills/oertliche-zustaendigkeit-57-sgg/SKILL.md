@@ -75,6 +75,7 @@ Kein Problem: § 98 SGG i.V.m. § 17a GVG. Das angeschriebene Gericht verweist I
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `sozialgericht-zustaendigkeit-51-sgg` — sachliche Zustaendigkeit
 - `klage-zur-niederschrift-90-sgg` — Klage diktieren
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Klage per Post

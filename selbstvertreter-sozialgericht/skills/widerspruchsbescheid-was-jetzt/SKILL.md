@@ -108,6 +108,7 @@ Pruefen Sie, ob es sich lohnt. Bei klar abgeschlossener Sache: einfach akzeptier
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `widerspruch-vorverfahren-78-sgg` — das Vorverfahren
 - `teilstattgabe-vollstattgabe-verstehen` — Ergebnis verstehen
 - `klagearten-uebersicht-sgg` — welche Klage

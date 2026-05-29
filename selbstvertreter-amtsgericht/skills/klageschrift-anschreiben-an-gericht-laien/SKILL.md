@@ -165,18 +165,18 @@ Verteiler:
 
 ### Schritt 11 — Anrede zum Gericht selbst
 
-In manchen Saetzen schreiben Sie "Das Gericht" oder "Die Kammer". Das wirkt foermlich-korrekt.
+Beim Amtsgericht entscheidet i. d. R. ein Einzelrichter, **keine** Kammer (Kammer ist die Spruchkoerper-Bezeichnung am Landgericht). Verwenden Sie also am AG die Formulierungen "Das Gericht" oder "Der Einzelrichter" — nicht "die Kammer".
 
 Beispiel:
 
 ```
-Ich bitte die Kammer, den Beweisantrag zu beruecksichtigen.
+Ich bitte das Gericht, den Beweisantrag zu beruecksichtigen.
 ```
 
-oder einfacher:
+oder
 
 ```
-Ich bitte das Gericht, ...
+Ich bitte den Einzelrichter, ...
 ```
 
 ## Typische Fehler

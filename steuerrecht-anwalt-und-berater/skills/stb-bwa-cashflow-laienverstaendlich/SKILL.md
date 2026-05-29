@@ -125,6 +125,7 @@ BANK-/KASSE-BESTAND ENDE                      [X]
 - `stb-bwa-bewegungsbilanz-erstellen` — Bewegungsbilanz.
 - `stb-liquiditaetsvorschau-3-6-12-monate` — Liquiditaetsplanung.
 - `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

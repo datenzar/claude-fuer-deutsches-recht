@@ -129,6 +129,7 @@ SEITE 4: EMPFEHLUNGSBLOCK
 - `stb-routine-monatsabschluss-30-tage-zyklus` — Monatsabschluss-Routine.
 - `stb-bwa-mandantengespraech-uebergabe` — Quartalsgespraech.
 - `stb-mandantenkommunikation-bwa-uebergabe-quartal` — Quartalsbesprechung.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

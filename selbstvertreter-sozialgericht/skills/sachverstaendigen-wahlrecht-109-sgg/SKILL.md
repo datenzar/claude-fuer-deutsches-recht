@@ -23,7 +23,7 @@ Das Gericht hat einen Gutachter gewaehlt. Sie sind nicht einverstanden. Sie koen
 
 - **§ 109 SGG-Gutachten**: Gutachten eines vom Versicherten gewaehlten Arztes.
 - **Kostenvorschuss**: Sie zahlen vorab oder spaetestens nach Gutachten.
-- **Anhoerung-Recht**: Sie haben einen Anspruch (in engen Grenzen).
+- **Anhoerungsrecht**: Sie haben einen Anspruch auf Anhoerung (in engen Grenzen).
 
 ## Rechtsgrundlagen
 
@@ -132,6 +132,7 @@ Wenn auch die Beklagte verliert, koennen die Kosten ueber § 193 SGG erstattet w
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `medizinische-gutachten-strategie-laien` — Strategie
 - `widerspruch-gegen-gutachten-laien` — andere Wege
 - `kostenrisiko-vs-kostenfreiheit-laien` — Kostenrisiko

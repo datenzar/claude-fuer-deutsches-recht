@@ -107,6 +107,7 @@ Im Vergleich wird die Kostenregel geregelt:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `verhalten-im-saal-sozialgericht-laienleitfaden` — Verhalten
 - `terminvorbereitung-laien-checkliste-sozialgericht` — Vorbereitung
 - `kostenfrei-vs-aufwendungsersatz-193-sgg` — Kosten

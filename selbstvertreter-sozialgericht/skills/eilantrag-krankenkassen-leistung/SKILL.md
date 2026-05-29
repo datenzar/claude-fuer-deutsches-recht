@@ -150,6 +150,7 @@ Das Gericht ordnet die Leistung vorlaeufig an. Die KK muss bezahlen. Die Hauptsa
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `eilantrag-86b-sgg-grundlagen` — Grundlagen
 - `krankenkassen-leistungsablehnung-sgb-v` — Hauptverfahren KK
 - `arztberichte-vorlegen-laien-leitfaden` — Atteste richtig nutzen

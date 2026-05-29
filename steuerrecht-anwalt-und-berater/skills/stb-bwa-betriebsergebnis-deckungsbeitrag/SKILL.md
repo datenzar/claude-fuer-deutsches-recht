@@ -116,6 +116,7 @@ Umsatzerloese                          [Umsatz]
 - `stb-bwa-cashflow-laienverstaendlich` — Cashflow-Darstellung.
 - `stb-bwa-branchenvergleich-bbe-datev` — Branchenvergleich.
 - `stb-bwa-statische-liquiditaet-kennzahlen` — Liquiditaetskennzahlen ergaenzend zur DB-Rechnung.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

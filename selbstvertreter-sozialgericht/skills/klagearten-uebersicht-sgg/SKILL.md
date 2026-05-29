@@ -110,6 +110,7 @@ Sie koennen Anfechtungs- und Verpflichtungs- und Leistungsklage in einer Klage s
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `anfechtungsklage-54-sgg` — Detail
 - `verpflichtungsklage-54-sgg` — Detail
 - `leistungsklage-54-sgg` — Detail

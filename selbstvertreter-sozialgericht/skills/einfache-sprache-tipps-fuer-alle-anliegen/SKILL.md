@@ -121,6 +121,7 @@ Besser:
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `klagebegruendung-laienleitfaden` — Klage
 - `widerspruch-begruendung-laienleitfaden` — Widerspruch
 - `klage-zur-niederschrift-90-sgg` — Wenn Sie nicht schreiben moegen

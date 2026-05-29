@@ -29,7 +29,7 @@ Das Sozialgericht kostet Sie nichts. Auch wenn Sie verlieren. Sie zahlen keine G
 ## Rechtsgrundlagen
 
 - **§ 183 SGG** — Verfahrenskosten-Freiheit fuer Versicherte, Leistungsempfaenger, Schwerbehinderte.
-- **§ 184 SGG** — Pauschalgebuehren fuer Arbeitgeber, Krankenkassen und andere Unternehmen.
+- **§ 184 SGG** — Pauschalgebuehren fuer Klagen von Behoerden und juristischen Personen, die nicht unter § 183 SGG fallen.
 - **§ 193 SGG** — Wer zahlt die aussergerichtlichen Kosten?
 - **§ 109 SGG** — Eigenes Gutachten zahlen Sie selbst (Ausnahme!).
 
@@ -87,6 +87,7 @@ Wenn Sie gewinnen, muss die unterliegende Behoerde Ihnen die notwendigen ausserg
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `kostenfrei-vs-aufwendungsersatz-193-sgg` — Auslagen bei Erfolg
 - `anwaltskosten-bei-erfolg-erstattung` — Anwaltskosten zurueck
 - `pkh-vor-sozialgericht-73a-sgg` — PKH, falls Sie doch Anwalt brauchen

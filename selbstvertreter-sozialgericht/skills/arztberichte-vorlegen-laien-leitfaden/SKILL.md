@@ -128,6 +128,7 @@ Bitten Sie um Befundkopie (gratis oder geringe Kopiergebuehr).
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `amtsermittlungsgrundsatz-103-sgg` — Gericht ermittelt
 - `medizinische-gutachten-strategie-laien` — Strategie
 - `sachverstaendigen-wahlrecht-109-sgg` — eigenes Gutachten

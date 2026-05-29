@@ -137,6 +137,7 @@ Das SG entscheidet meist innerhalb von Wochen. Anwalt-Beiordnung wird oft bewill
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `beratungshilfe-vor-widerspruch-brh` — Vor der Klage
 - `pkh-anwaltsbeiordnung-erfolgsaussicht` — Erfolgsaussicht
 - `kostenrisiko-vs-kostenfreiheit-laien` — Kosten allgemein

@@ -93,6 +93,7 @@ DATEV bietet zwei Standardkontenrahmen an. SKR 03 ist prozessorientiert (Warenei
 - `stb-jahresabschluss-elektronische-uebermittlung-ebilanz` — E-Bilanz-Taxonomie.
 - `stb-susa-erstellen-grundlagen` — SuSa-Struktur abhaengig vom Kontenrahmen.
 - `stb-datev-bwa-modul-bedienen-tipps` — DATEV-spezifische Konfiguration.
+- `stb-bwa-sus-bilanz-pruefung` — Krisenfrueherkennung BWA/SuSa/Bilanz.
 
 ## Quellen und Updates
 

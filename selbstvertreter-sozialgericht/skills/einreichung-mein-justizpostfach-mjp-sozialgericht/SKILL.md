@@ -100,6 +100,7 @@ Das Gericht antwortet im MJP. Sie bekommen Email-Benachrichtigung. Loggen Sie si
 
 ## Querverweise
 
+- `orientierung-selbstvertreter-sozialgericht` — Einstieg in das SG-Verfahren
 - `einreichung-papierform-sozialgericht-mit-abschriften` — Papierform-Alternative
 - `einreichung-fax-und-grenzen-sozialgericht` — Fax-Alternative
 - `dokumenten-erzeugung-pdf-laien-sozialgericht` — wie PDFs machen
