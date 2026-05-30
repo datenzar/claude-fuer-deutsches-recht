@@ -28,7 +28,7 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | **Skills (SKILL.md)** | 2655 — [Gesamtübersicht](./SKILLS.md) |
 | **Testakten** | 63 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Letzter Release** | `v50.8.1` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Letzter Release** | `v50.9.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 ### Sammel-Downloads
@@ -281,6 +281,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`vertragsausfueller`](./vertragsausfueller) | Freistehendes Vertragsausfüller-Plugin: DOCX-Vorlagen und Altverträge strippen, Felder erkennen, Term Sheets mappen, Rückfragen führen, Clean-Verträge erzeugen und Track Changes nur nach ausdrücklicher Nachfrage vorbereiten. |
 | [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking. |
 | [`wandeldarlehen-lebenszyklus`](./wandeldarlehen-lebenszyklus) | Vollständiger Lebenszyklus eines Wandeldarlehens für GmbH und UG: Erstellung (bilingual/einsprachig), Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. |
+| [`word-legal-ai-plugin-and-skill-for-german-lawyers`](./word-legal-ai-plugin-and-skill-for-german-lawyers) | Word Legal AI for German Lawyers — Drafting-Werkstatt für deutsche Anwält:innen: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish und Layout, Verträge, Schriftsätze (Klage § 253 ZPO, Klageerwiderung), Memos und Partner-Update, Argumentationsarchitektur, Defensive Drafting, Term Sheet, Klauselbibliothek, DE-EN Bilingual, US/UK Legal Writing und englische Verträge nach deutschem Recht. |
 | [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) | Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
 | [`zwangsvollstreckung`](./zwangsvollstreckung) | Freistehendes Zwangsvollstreckungs-Cockpit: Titel, Klausel, Zustellung, Pfändung, Drittschuldner, Kontopfändung, Gerichtsvollzieherauftrag, Vollstreckungsbescheid, Schutzanträge, Kosten und Fristen. |
 | [`zwangsverwaltung-zvg`](./zwangsverwaltung-zvg) | Freistehendes ZVG-Cockpit für Zwangsverwaltung und Versteigerung: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Treuhandkonto, Berichte, § 155 ZVG-Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
@@ -412,6 +413,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Prozess- & Schriftsatz-Werkstatt** – `prozessrecht` (Mahnbescheid §§ 688 ff. ZPO, einstweilige Verfügung §§ 935/940 ZPO + Schutzschrift, Vollstreckung), `anlagen-zu-schriftsaetzen`, `memorandums-ersteller`, `tabellenreview-3d`
 - **Kanzleibetrieb** – `kanzlei-allgemein`, `kanzlei-builder-hub`, `rechtsberatungsstelle`, `verlagsredaktion`
 - **Methode & Lehre** – `jurastudium` (Methodenlehre ZR/StR/ÖR, Subsumtion, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Prüfungsgespräch nach AG-Tradition), `methodenlehre-buergerliches-recht`, `zitierweise-deutsches-recht`, `einfache-leichte-sprache-jura`
+- **Drafting & Word** – `word-legal-ai-plugin-and-skill-for-german-lawyers` (38 Skills: Kaltstart-Triage, deutscher Kanzleistil, makrofreies Word-Finish, Verträge, Schriftsätze, Memos, Klauselbibliothek, Defensive Drafting, Term Sheet, DE-EN Bilingual, US/UK Legal Writing, englische Verträge nach deutschem Recht)
 
 Eine vollständige Übersicht aller Plugins und Rechtsgebiete steht in [`references/rechtsgebiete-uebersicht.md`](./references/rechtsgebiete-uebersicht.md). Die kompakte Plugin-Liste mit Reifegrad findest du im Abschnitt ["Was ist drin?"](#was-ist-drin) weiter oben.
 

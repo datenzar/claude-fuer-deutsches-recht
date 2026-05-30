@@ -1,3 +1,14 @@
+# v50.9.0 — Sanity-Check, ASSET_INDEX-Sortierung und Plugin-Übersicht im README
+
+Nachlauf zu v50.8.0/8.1: User-Sanity-Check des Codex-Ausbaus und zwei Übersichts-Fixes.
+
+## Änderungen
+
+- Sanity-Check der zwölf neuen/umbenannten Skills von v50.8.0/8.1: alle Frontmatter konform zu den Hausregeln (keine verbotenen Felder, ASCII-Namen ≤ 64, Description ≤ 1024, kein `\d,\d`-Muster). Validatoren `validate-plugin-structure.mjs`, `validate-yaml-frontmatter.py` und `welle5_komma_check.py` alle grün.
+- ASSET_INDEX.md: `word-legal-ai-plugin-and-skill-for-german-lawyers` aus der falschen Position zwischen `jurastudium` und `jveg-kostenpruefer` verschoben. Steht jetzt korrekt unter W, zwischen `wandeldarlehen-lebenszyklus` und `zitierweise-deutsches-recht`.
+- README.md: Plugin-Tabelle im Abschnitt "Was ist drin?" um `word-legal-ai-plugin-and-skill-for-german-lawyers` ergänzt (bisher 107 von 108 Plugins in der Tabelle, jetzt vollständig). Neue Cluster-Zeile "Drafting & Word" im Abschnitt "Querschnittliche Werkzeuge".
+- Marketplace 50.8.1 → 50.9.0; Generator läuft sauber durch, SKILLS.md und `skills-index/` zeigen `Stand v50.9.0`. Plugin- und Skill-Zahlen unverändert (108 / 2655).
+
 # v50.8.1 — Word Legal AI ohne Makro-/VBA-Ballast
 
 User-Wunsch: Im Word-Writing-Plugin sollen Skills raus, die nach Makros, Office-Automatisierung oder unnötigem Word-Technikkram aussehen.
