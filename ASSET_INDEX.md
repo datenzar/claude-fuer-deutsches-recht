@@ -21,7 +21,7 @@
 | [`alle-testakten.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alle-testakten.zip) | Enthält alle Testaktenordner in Originalstruktur. **Kein Plugin-Archiv**; die Akten in den Chat bzw. Arbeitsordner ziehen. |
 | [`alles-komplettpaket.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/alles-komplettpaket.zip) | Enthält alle Plugin-ZIPs, alle Testakten-ZIPs, `marketplace.json` und die zentralen Übersichten. |
 
-## Plugin-Assets (107 Stück)
+## Plugin-Assets (108 Stück)
 
 In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<name>.zip`
@@ -88,6 +88,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `insolvenzrecht` | Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag. |
 | `insolvenzverwaltung` | Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung. |
 | `jurastudium` | Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. |
+| `juristisches-drafting` | Juristisches Drafting generisch in Word und Cowork: Vertragsklauseln Schriftsätze Anwaltsschreiben Definitionen Boilerplate Bedingungen Verweise Haftungsbegrenzung Vertragsstrafe NDA Force Majeure Lizenzen AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Querverweise Redlines Revisions-Workflow. |
 | `jveg-kostenpruefer` | Freistehender JVEG-Kostenprüfer für Zeugenentschädigung, Vorschuss, Fahrtkosten, Übernachtung, Verdienstausfall, Sachverständigen- und Dolmetscherkosten, Fristen, Festsetzung, Beschwerde und belegfeste Rechenprotokolle. |
 | `kanzlei-allgemein` | Kanzlei-Allgemein-Plugin (fusioniert mit Cowork): edles Kommandocenter Mandatsannahme/GwG Klage/Replik Vertrag Rechtsprechung Handelsregister beA-Journal Rechnung UStVA Fristenbuch Timesheet RVG Versand-Vor-Check Posteingang Mandantenakte Mahnwesen Tagesbrief Geburtstage Weihnachtskarten. |
 | `kanzlei-builder-hub` | Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung. |
@@ -218,11 +219,11 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
-| plugin | 107 | |
+| plugin | 108 | |
 | fallakte | 63 | |
 | manifest | 1 | |
 | sammelarchiv | 3 | |
-| **gesamt** | | **174** |
+| **gesamt** | | **175** |
 
 ## Verifikation eines Release
 
@@ -231,4 +232,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v50.5.0` und `latest`: 174 Assets, davon 107 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v50.5.2` und `latest`: 175 Assets, davon 108 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).

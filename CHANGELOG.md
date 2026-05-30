@@ -1,3 +1,14 @@
+# v50.5.2 — Skill-Übersichten für `juristisches-drafting` regeneriert
+
+Bugfix für ein Codex-P2-Finding zu v50.5.x: Das neue Plugin `juristisches-drafting` war zwar in der `marketplace.json` eingetragen, tauchte aber weder in `SKILLS.md` noch in `ASSET_INDEX.md` noch in `README.md` auf. Im ZIP-Download des Komplettpakets fehlten dadurch alle 25 neuen Skills aus der Übersicht.
+
+## Änderungen
+
+- `scripts/generate-skills-md.py` neu gelaufen: `SKILLS.md` zählt jetzt 2642 Skills in 108 Plugins (vorher 2617/107) und enthält eine eigene Detailseite `skills-index/juristisches-drafting.md`.
+- `ASSET_INDEX.md`: Plugin-Tabelle um `juristisches-drafting` ergänzt; Plugin-Zähler 107 → 108, Gesamtsumme 174 → 175.
+- `README.md`: Stats-Tabelle aktualisiert (Plugins 107 → 108, Skills 2617 → 2642, letzter Release `v50.5.2`).
+- Marketplace-Version `50.5.1` → `50.5.2`.
+
 # v50.5.1 — Komplettpaket-ZIP enthält jetzt `skills-index/`
 
 Bugfix für ein Codex-P2-Finding zu v50.4.0: Die `alles-komplettpaket.zip` aus dem Release-Workflow enthielt zwar die schlanke `SKILLS.md`, aber nicht den Ordner `skills-index/` mit den Detailseiten. Dadurch zeigten alle Plugin-Links der Übersichtstabelle im Offline-ZIP ins Leere.
