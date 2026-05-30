@@ -1,3 +1,17 @@
+# v51.3.0 — Repo-Glattzug nach v51.2.0
+
+Konsistenz-Pass nach dem v51.2.0-Merge: zwei neue Plugins aus v51.0.0/v51.1.0 (`dfg-foerderantrag`, `forschungszulage-antragstellung`) waren noch nicht im Marketplace-Manifest und in der Skill-Gesamtuebersicht eingetragen. Veraltete Zaehlerstaende in `README.md`, `SKILLS.md` und `ASSET_INDEX.md` korrigiert.
+
+## Aenderungen
+
+- `.claude-plugin/marketplace.json`: `dfg-foerderantrag` und `forschungszulage-antragstellung` ergaenzt; alphabetisch sortiert; `version` `51.2.0` -> `51.3.0`. Marketplace listet jetzt **110 Plugins** (vorher 108).
+- `SKILLS.md` regeneriert: **2682 Skills in 110 Plugins** (vorher 2661 in 108); veralteten Satz mit `63 Testakten` auf `127 Testakten` korrigiert.
+- `skills-index/`: 110 Plugin-Detailseiten plus Index regeneriert.
+- `README.md`: Kennzahlen-Tabelle aktualisiert (Testakten `63` -> `127`, Release `v51.1.0` -> `v51.3.0`).
+- `ASSET_INDEX.md`: Stand-Zeile auf `v51.3.0` aktualisiert.
+- Sanity-Check: kein `\d,\d` in `description` (plugin.json, marketplace.json, SKILL.md); alle Descriptions <=300 Zeichen in Plugin-Manifesten, <=1024 in SKILL.md.
+- Validatoren gruen: `validate-plugin-structure.mjs`, `validate-yaml-frontmatter.py`, `validate-testakten-gesamt-pdf.py` (127 Testakten).
+
 # v51.2.0 — Plugin-Testakten-Vollbestand (64 neue Testakten)
 
 User-Wunsch: Wirklich alle Luecken im Testakten-Bestand schliessen. Pro bisher untestrierter Plugin-Familie eine vollstaendige, individualisierte Demoakte auf dem Qualitaetsniveau der `Rosengarten`-Vorbildakte (ca. 15-25 Aktenstuecke, Beteiligte mit Namen, Aktenzeichen, Konfliktstraenge, deutsche Normen). Pro Akte ein Commit, alles auf einem Branch.
