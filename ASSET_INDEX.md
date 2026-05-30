@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v51.0.0 — Welle 1-4 Testakten (16 Fachanwalts-Akten + Erbrecht/IT/Migration/Sport)
+**Stand:** v51.0.0 — Welle 1-5 Testakten (22 Akten Fachanwaltschaften, BGB AT, Bereicherung, M&A, Strafakte, Datenschutz)
 
 ## Asset-Typen
 
@@ -145,6 +145,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 
 | Asset | Inhalt |
 | --- | --- |
+| `testakte-anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig.zip` | siehe `testakten/anfechtung-irrtum-restaurant-kette-pohlmann-erbenstrasse-leipzig/` |
 | `testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip` | siehe `testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/` |
 | `testakte-arbeitszeugnis-analyse-bluehendes-leben.zip` | siehe `testakten/arbeitszeugnis-analyse-bluehendes-leben/` |
 | `testakte-arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum.zip` | siehe `testakten/arzthaftung-geburtsschaden-meinhardt-evangelisches-klinikum/` |
@@ -153,17 +154,20 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-bebauungsplan-augsburg-bahnhofsareal.zip` | siehe `testakten/bebauungsplan-augsburg-bahnhofsareal/` |
 | `testakte-befristungskontrollklage-vogt-stadtwerke.zip` | siehe `testakten/befristungskontrollklage-vogt-stadtwerke/` |
 | `testakte-beispielakte-edelholz-berlin.zip` | siehe `testakten/beispielakte-edelholz-berlin/` |
+| `testakte-bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn.zip` | siehe `testakten/bereicherung-dreiecksverhaeltnis-doppelverkauf-oldtimer-bischof-bonn/` |
 | `testakte-betreuung-hildegard-sauer.zip` | siehe `testakten/betreuung-hildegard-sauer/` |
 | `testakte-betreuung-schmalfeld-kontodaten-vertraege.zip` | siehe `testakten/betreuung-schmalfeld-kontodaten-vertraege/` |
 | `testakte-bgb-at-altfraenkische-werkstatt.zip` | siehe `testakten/bgb-at-altfraenkische-werkstatt/` |
 | `testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip` | siehe `testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/` |
 | `testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip` | siehe `testakten/bvg-widerspruchsstelle-abschleppen-mobg/` |
+| `testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip` | siehe `testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/` |
 | `testakte-common-law-kompass-crossborder-contract.zip` | siehe `testakten/common-law-kompass-crossborder-contract/` |
 | `testakte-cyber-vorfall-ransomware-frischetrans-mainz.zip` | siehe `testakten/cyber-vorfall-ransomware-frischetrans-mainz/` |
 | `testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip` | siehe `testakten/cybertrading-anlagebetrug-wittfeldt-bremen/` |
 | `testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip` | siehe `testakten/datenschutz-us-transfer-cloudsuite-rheinmain/` |
 | `testakte-doping-uvalkanat-handballerin-cas-lausanne.zip` | siehe `testakten/doping-uvalkanat-handballerin-cas-lausanne/` |
 | `testakte-dsa-dma-bayrische-baustube-meissner.zip` | siehe `testakten/dsa-dma-bayrische-baustube-meissner/` |
+| `testakte-dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen.zip` | siehe `testakten/dsgvo-massenscanning-mietinteressenten-vermietercheck-app-essen/` |
 | `testakte-eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt.zip` | siehe `testakten/eigenbedarf-weg-konflikt-strassburger-koeln-suedstadt/` |
 | `testakte-einfache-leichte-sprache-jura-mandantenbrief.zip` | siehe `testakten/einfache-leichte-sprache-jura-mandantenbrief/` |
 | `testakte-energierecht-stadtwerke-quartier.zip` | siehe `testakten/energierecht-stadtwerke-quartier/` |
@@ -199,6 +203,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip` | siehe `testakten/lobbyregister-public-affairs-agentur-wasserstoff/` |
 | `testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip` | siehe `testakten/longcovid-erwerbsminderung-feldermann-leipzig/` |
 | `testakte-lumen-studios-insolvenz-strafverfahren.zip` | siehe `testakten/lumen-studios-insolvenz-strafverfahren/` |
+| `testakte-ma-asset-deal-medtech-volkenrath-darmstadt.zip` | siehe `testakten/ma-asset-deal-medtech-volkenrath-darmstadt/` |
 | `testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip` | siehe `testakten/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon/` |
 | `testakte-markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein.zip` | siehe `testakten/markenstreit-3d-marke-rosenbluete-gartendeko-leichtenstein/` |
 | `testakte-meinungspruefer-grenzfaelle-alltag.zip` | siehe `testakten/meinungspruefer-grenzfaelle-alltag/` |
@@ -206,6 +211,7 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip` | siehe `testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/` |
 | `testakte-phishing-vorfall-mayer-sparkasse-berlin.zip` | siehe `testakten/phishing-vorfall-mayer-sparkasse-berlin/` |
 | `testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip` | siehe `testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/` |
+| `testakte-sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub.zip` | siehe `testakten/sammelakte-bandentaeter-eg-juwel-stuttgart-koffer-raub/` |
 | `testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip` | siehe `testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/` |
 | `testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip` | siehe `testakten/schriftform-maklervertrag-muenchen-eheleute-haspelbeck/` |
 | `testakte-schriftform-mietkuendigung-bielefeld-online-pferdedrescher.zip` | siehe `testakten/schriftform-mietkuendigung-bielefeld-online-pferdedrescher/` |
@@ -254,4 +260,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet für `v51.0.0` und `latest`: 197 Assets, davon 108 Plugin-ZIPs, 85 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
+Erwartet für `v51.0.0` und `latest`: 203 Assets, davon 108 Plugin-ZIPs, 91 Fallakten-ZIPs mit `testakte-`-Prefix, eine `marketplace.json` und drei Sammelarchive (`alle-plugins-megazip.zip`, `alle-testakten.zip`, `alles-komplettpaket.zip`).
