@@ -1,3 +1,14 @@
+# v50.10.0 — Akten-ZIP-Download in jedem Testakten-README
+
+User-Wunsch: In jedem Testakten-README muss ganz oben sowohl ein Link zum Gesamt-PDF als auch ein Link zur Akten-ZIP mit allen Einzeldateien stehen. Bisher gab es nur das Gesamt-PDF.
+
+## Änderungen
+
+- `scripts/inject-gesamt-pdf-section.py`: Die autogen-Sektion ganz oben in jeder Testakten-README heißt jetzt "Akte komplett herunterladen" und enthält **zwei** Zeilen: Gesamt-PDF (lokaler Repo-Link auf `gesamt-pdf/<slug>_gesamt.pdf`) und Akten-ZIP (stabile URL auf `releases/latest/download/testakte-<slug>.zip`). Idempotent über bestehende HTML-Marker.
+- Alle 63 Testakten-READMEs neu generiert; jede hat jetzt beide Download-Links prominent oben.
+- CI-Workflow `.github/workflows/release-plugin-zips.yml` baut die `testakte-<slug>.zip` schon seit dem ersten Release. Diese ZIP-URLs werden ab v50.10.0 nun auch in den READMEs angezeigt.
+- Marketplace 50.9.1 → 50.10.0; Generator läuft, SKILLS.md und `skills-index/` zeigen `Stand v50.10.0`.
+
 # v50.9.1 — Download-Link im Word-Plugin-README
 
 User-Hinweis: Das Plugin-README von `word-legal-ai-plugin-and-skill-for-german-lawyers` hatte als einziges der 108 Plugins keinen ZIP-Direkt-Download-Link auf die Release-Asset-URL. Beim Rename in v50.7.0 ist die Installation-Section verloren gegangen.

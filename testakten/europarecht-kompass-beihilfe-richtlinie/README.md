@@ -2,15 +2,16 @@
 
 
 <!-- BEGIN gesamt-pdf-section (autogen) -->
-## Gesamt-PDF (alles in einer Datei)
+## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
+Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen.
 
-| Datei | Format | Größe |
+| Was | Format | Quelle |
 | --- | --- | --- |
-| [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | PDF | 59 KB |
+| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) |
+| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
 
-Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
+Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
 
 <!-- END gesamt-pdf-section (autogen) -->
 

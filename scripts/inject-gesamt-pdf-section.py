@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """Fuegt in jede testakten/<name>/README.md prominent ganz oben eine
-Gesamt-PDF-Sektion ein, die auf gesamt-pdf/<name>_gesamt.pdf verlinkt.
+Akte-komplett-Sektion ein mit zwei Downloads:
+
+1. Gesamt-PDF (im Repo unter gesamt-pdf/<slug>_gesamt.pdf eingecheckt)
+2. Akten-ZIP mit allen Einzeldateien (aus dem GitHub-Release,
+   stabile URL releases/latest/download/testakte-<slug>.zip).
 
 Idempotent ueber HTML-Marker. Position: direkt nach dem H1, vor allen
 weiteren Sektionen (insbesondere vor dem Direkt-Download-Block).
@@ -14,21 +18,44 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TESTAKTEN_DIR = REPO_ROOT / "testakten"
 
+# Hinweis: Die Marker heißen weiterhin "gesamt-pdf-section", damit bestehende
+# READMEs idempotent aktualisiert werden. Der Inhalt der Sektion umfasst aber
+# inzwischen sowohl das Gesamt-PDF als auch die Akten-ZIP.
 MARKER_BEGIN = "<!-- BEGIN gesamt-pdf-section (autogen) -->"
 MARKER_END = "<!-- END gesamt-pdf-section (autogen) -->"
 
+RELEASE_BASE = (
+    "https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download"
+)
 
-def section_block(slug: str, pdf_rel: str, size_kb: int) -> str:
+
+def section_block(slug: str, pdf_rel: str | None, size_kb: int | None) -> str:
+    zip_url = f"{RELEASE_BASE}/testakte-{slug}.zip"
+    if pdf_rel is not None and size_kb is not None:
+        rows = (
+            f"| Gesamt-PDF (alles in einer Datei, {size_kb} KB) | PDF | [`{pdf_rel}`]({pdf_rel}) |\n"
+            f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
+        )
+        intro = (
+            "Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF eignet sich zum Lesen, Ausdrucken und für schnelle Durchsichten. Das Akten-ZIP enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+        )
+        trailer = "Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten."
+    else:
+        rows = f"| Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-{slug}.zip]({zip_url}) |"
+        intro = (
+            "Diese Arbeitsakte gibt es als Akten-ZIP zum Direkt-Download. Es enthält sämtliche Originaldateien (Markdown-Aktenstücke, Tabellen, E-Mails, Fotos, PDFs, DOCX, XLSX) im Originalordnerlayout für eigene Auswertungen."
+        )
+        trailer = "Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version."
     return f"""{MARKER_BEGIN}
-## Gesamt-PDF (alles in einer Datei)
+## Akte komplett herunterladen
 
-Diese Arbeitsakte gibt es zusätzlich als ein einziges, durchsuchbares Gesamt-PDF mit allen Aktenstücken, Tabellen, Anhängen und Bildanlagen hintereinander. Das ist praktisch zum Lesen, Ausdrucken und für schnelle Durchsichten.
+{intro}
 
-| Datei | Format | Größe |
+| Was | Format | Quelle |
 | --- | --- | --- |
-| [`{pdf_rel}`]({pdf_rel}) | PDF | {size_kb} KB |
+{rows}
 
-Im separaten Akten-ZIP ist das Gesamt-PDF mit enthalten.
+{trailer}
 
 {MARKER_END}
 """
@@ -39,10 +66,12 @@ H1_RE = re.compile(r"^# .+$", re.MULTILINE)
 
 def inject(readme: Path, slug: str) -> str:
     pdf = readme.parent / "gesamt-pdf" / f"{slug}_gesamt.pdf"
-    if not pdf.exists():
-        return "skip (kein Gesamt-PDF)"
-    size_kb = max(1, round(pdf.stat().st_size / 1024))
-    pdf_rel = f"gesamt-pdf/{slug}_gesamt.pdf"
+    if pdf.exists():
+        size_kb = max(1, round(pdf.stat().st_size / 1024))
+        pdf_rel = f"gesamt-pdf/{slug}_gesamt.pdf"
+    else:
+        size_kb = None
+        pdf_rel = None
     new_section = section_block(slug, pdf_rel, size_kb)
     text = readme.read_text(encoding="utf-8")
 
