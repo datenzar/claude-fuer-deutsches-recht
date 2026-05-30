@@ -1,4 +1,6 @@
-# juristisches-drafting
+# Word Legal AI Plugin and Skill for German Lawyers
+
+(Technischer Plugin-Slug: `word-legal-ai-plugin-and-skill-for-german-lawyers`. Früherer Name bis v50.6.x: `juristisches-drafting`.)
 
 Generisches Drafting-Plugin für deutsche Anwältinnen, Anwälte und Wirtschaftsjuristen. Es trainiert die Erstellung juristischer Texte – Verträge, Klauseln, Schriftsätze, Anwaltsschreiben, Memos – mit Fokus auf **Struktur, Funktion und sprachliche Präzision**. Optimiert für die Arbeit in Microsoft Word und in Claude Cowork (Cloud).
 
@@ -91,7 +93,7 @@ Das Plugin gliedert sich in sieben Skill-Blöcke:
 
 ## Verwendung
 
-Aktivieren Sie das Plugin in Claude Code oder Cowork. Die Skills sind über ihre Namen direkt ansprechbar (zum Beispiel `definitionen-klauseln-stringent`). Beginnen Sie bei jedem neuen Drafting-Auftrag idealerweise mit `orientierung-drafting-triage`; der Skill leitet Sie an die passenden Spezial-Skills weiter.
+Aktivieren Sie das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` in Claude Code oder Cowork. Die Skills sind über ihre Namen direkt ansprechbar (zum Beispiel `definitionen-klauseln-stringent`). Beginnen Sie bei jedem neuen Drafting-Auftrag idealerweise mit `orientierung-drafting-triage`; der Skill leitet Sie an die passenden Spezial-Skills weiter.
 
 ## Lizenz
 

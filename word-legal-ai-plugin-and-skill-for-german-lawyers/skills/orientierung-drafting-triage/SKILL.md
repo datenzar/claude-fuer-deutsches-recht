@@ -1,13 +1,13 @@
 ---
 name: orientierung-drafting-triage
-description: "Einstiegs- und Triage-Skill fuer juristisches Drafting. Klaert in maximal zwei Rueckfragen Dokumenttyp (Vertrag, Klage, NDA, AGB, Memo, Anwaltsschreiben), Stadium (Term Sheet, Erstentwurf, Review, Markup, Unterzeichnungsreife) und Adressat (Mandant, Gegenseite, Gericht, Behoerde), erstellt eine Mandatsmatrix und verweist auf die einschlaegigen Spezial-Skills im Plugin juristisches-drafting."
+description: "Einstiegs- und Triage-Skill fuer juristisches Drafting. Klaert in maximal zwei Rueckfragen Dokumenttyp (Vertrag, Klage, NDA, AGB, Memo, Anwaltsschreiben), Stadium (Term Sheet, Erstentwurf, Review, Markup, Unterzeichnungsreife) und Adressat (Mandant, Gegenseite, Gericht, Behoerde), erstellt eine Mandatsmatrix und verweist auf die einschlaegigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers (Word Legal AI fuer deutsche Juristen)."
 ---
 
 # Orientierung und Drafting-Triage
 
 ## Zweck
 
-Jeder Drafting-Auftrag beginnt mit einer Triage. Bevor Sie eine Klausel schreiben, eine Klage entwerfen oder einen Schriftsatz strukturieren, muessen drei Dinge feststehen: welches Dokument, welches Stadium, welcher Adressat. Dieser Skill bringt Sie in zwei Rueckfragen dorthin und legt sofort die Mandatsmatrix offen. Er ist der Einstiegspunkt fuer das Plugin `juristisches-drafting`.
+Jeder Drafting-Auftrag beginnt mit einer Triage. Bevor Sie eine Klausel schreiben, eine Klage entwerfen oder einen Schriftsatz strukturieren, muessen drei Dinge feststehen: welches Dokument, welches Stadium, welcher Adressat. Dieser Skill bringt Sie in zwei Rueckfragen dorthin und legt sofort die Mandatsmatrix offen. Er ist der Einstiegspunkt fuer das Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` (Word Legal AI Plugin and Skill for German Lawyers, bis v50.6.x unter dem Slug `juristisches-drafting`).
 
 Er ersetzt nicht die spezialisierten Skills, sondern verweist auf sie. Wenn Sie schon wissen, was Sie brauchen, gehen Sie direkt zum Spezial-Skill. Wenn nicht, beginnen Sie hier.
 
@@ -102,4 +102,4 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er haelt kein
 
 - § 43a BRAO und § 203 StGB fuer Vertraulichkeit; gesetze-im-internet.de.
 - `references/methodik-buergerliches-recht.md` fuer Stilwahl Gutachtenstil und Urteilsstil.
-- Spezial-Skills im Plugin `juristisches-drafting` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.
+- Spezial-Skills im Plugin `word-legal-ai-plugin-and-skill-for-german-lawyers` als Folgeartefakt; vom Nutzer zu validieren, falls die genannten Skills im konkreten Setup nicht aktiviert sind.

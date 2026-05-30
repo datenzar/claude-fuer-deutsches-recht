@@ -1,3 +1,33 @@
+# v50.7.0 — Plugin-Rename: `juristisches-drafting` → `word-legal-ai-plugin-and-skill-for-german-lawyers`
+
+User-Wunsch: Der Plugin-Name soll explizit klarmachen, dass es um Word, Legal AI und deutsche Juristen geht — auch in der Betreffzeile und im Link. Der Anzeigename lautet jetzt "Word Legal AI Plugin and Skill for German Lawyers".
+
+## Rename
+
+- Plugin-Ordner umbenannt: `juristisches-drafting/` → `word-legal-ai-plugin-and-skill-for-german-lawyers/`.
+- `plugin.json` name-Feld umgestellt; description führt jetzt mit "Word Legal AI Plugin and Skill for German Lawyers".
+- `marketplace.json`: Plugin-name, source-Pfad und Beschreibung aktualisiert.
+- Plugin-`README.md`: Titel `Word Legal AI Plugin and Skill for German Lawyers`; Hinweis auf den früheren Slug bleibt erhalten.
+- `orientierung-drafting-triage`: Selbstreferenz auf den neuen Slug umgestellt.
+- `ASSET_INDEX.md`: Stand und Tabellenzeile aktualisiert.
+- Neue Keywords: `word-legal-ai`, `legal-ai-word`, `word-plugin-jura`, `german-lawyers`. Der alte Slug `juristisches-drafting` bleibt als Keyword erhalten für Aufwärtskompatibilität der Suche.
+
+## Achtung
+
+Die permanente Regel "Plugin-Renames verboten" wurde für diesen Fall ausdrücklich vom User überschrieben. Künftige Renames brauchen weiterhin eine explizite Freigabe.
+
+Auswirkungen für Nutzer:
+
+- Wer das Plugin aus dem Marketplace neu zieht, erhält den neuen Slug; keine Aktion nötig.
+- Wer das Plugin lokal entpackt hat: Ordner wird mit dem neuen Namen geliefert (`word-legal-ai-plugin-and-skill-for-german-lawyers.zip` im Release).
+- Skill-Namen sind unverändert (z. B. `definitionen-klauseln-stringent`, `klausel-bibliothek-katalog`).
+
+## Versionen
+
+- Marketplace-Version `50.6.1` → `50.7.0`.
+- Plugin-Version `50.6.0` → `50.7.0`.
+- Skills-Zahl bleibt 2646.
+
 # v50.6.1 — Schmalfeld-Betreuungsakte vertieft
 
 Nachlauf zum Testakten-Qualitätssprung: Die Schmalfeld-Akte zur Vermögenssorge/Kontodaten-/Vertragsverdachtsprüfung wurde deutlich lebensnäher ausgebaut und auf den bereits veröffentlichten `v50.6.0`-Stand mit dem erweiterten `juristisches-drafting`-Plugin rebased.

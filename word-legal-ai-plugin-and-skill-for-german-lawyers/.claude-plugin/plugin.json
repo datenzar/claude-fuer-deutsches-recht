@@ -1,13 +1,17 @@
 {
-  "name": "juristisches-drafting",
-  "version": "50.6.0",
-  "description": "Juristisches Drafting in Word und Cowork: Vertragsklauseln Schriftsaetze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB-Recht Klage Klageerwiderung Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek mit 60 Bausteinen.",
+  "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+  "version": "50.7.0",
+  "description": "Word Legal AI Plugin and Skill for German Lawyers: Drafting in Word und Cowork. Vertragsklauseln Schriftsaetze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB Klage Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek 60 Bausteine.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
   },
   "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
   "keywords": [
+    "word-legal-ai",
+    "legal-ai-word",
+    "word-plugin-jura",
+    "german-lawyers",
     "juristisches-drafting",
     "vertragsgestaltung",
     "klauseltechnik",

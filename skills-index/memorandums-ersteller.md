@@ -1,6 +1,6 @@
 # memorandums-ersteller
 
-**2 Skills** · Stand `v50.6.1`
+**2 Skills** · Stand `v50.7.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/memorandums-ersteller/README.md)

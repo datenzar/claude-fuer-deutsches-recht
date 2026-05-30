@@ -547,13 +547,13 @@
       "version": "50.0.0"
     },
     {
-      "name": "juristisches-drafting",
-      "source": "./juristisches-drafting",
-      "description": "Juristisches Drafting in Word und Cowork: Vertragsklauseln Schriftsätze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB Klage Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek 60 Bausteine.",
+      "name": "word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "source": "./word-legal-ai-plugin-and-skill-for-german-lawyers",
+      "description": "Word Legal AI Plugin and Skill for German Lawyers: Drafting in Word und Cowork. Vertragsklauseln Schriftsaetze Boilerplate Haftungsbegrenzung Vertragsstrafe NDA Force Majeure AGB Klage Memos Formatvorlagen Redlines Defensive Drafting Term Sheet Bilingual DE-EN Klauselbibliothek 60 Bausteine.",
       "author": {
         "name": "Klotzkette"
       },
-      "version": "50.6.0"
+      "version": "50.7.0"
     },
     {
       "name": "jveg-kostenpruefer",
@@ -990,5 +990,5 @@
       "version": "50.0.0"
     }
   ],
-  "version": "50.6.1"
+  "version": "50.7.0"
 }

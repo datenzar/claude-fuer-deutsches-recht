@@ -1,6 +1,6 @@
 # subsumtions-pruefer
 
-**31 Skills** · Stand `v50.6.1`
+**31 Skills** · Stand `v50.7.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/subsumtions-pruefer/README.md)
