@@ -2,7 +2,7 @@
 
 Automatisch gezählte Gesamtübersicht aller **2617 Skills** in **107 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
 
-Stand: `v49.0.0`.
+Stand: `v50.0.0`.
 
 ## Plugins
 

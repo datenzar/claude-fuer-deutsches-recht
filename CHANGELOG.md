@@ -1,3 +1,10 @@
+# v50.0.0 — Sanity-Check und Versionsbump
+
+- Sanity-Check nach `v49.2.0`: Plugin-Struktur, YAML-Frontmatter, Download-Abdeckung und Release-ZIP-Probelauf geprüft.
+- Alle Plugin-Manifeste, Marketplace-Top-Level und Marketplace-Einträge einheitlich auf `50.0.0` gesetzt.
+- README, SKILLS.md, Testakten-README und ASSET_INDEX auf 107 Plugins, 2617 Skills, 63 Testakten und 174 Release-Assets nachgezogen.
+- Keine fachlichen Inhalte geändert; der Release markiert den konsolidierten v49.2-Stand als nächste Hauptversion.
+
 # v49.2.0 — Skill-Uebersicht in allen 107 Plugin-READMEs vollstaendig
 
 Sanity-Check ergab: in 96 von 107 Plugin-READMEs fehlten Skills in der jeweiligen Uebersicht. In den meisten Faellen war es nur der `allgemein`-Triage-Skill; bei steuerrecht-anwalt-und-berater, selbstvertreter-amtsgericht, arbeitsrecht und 18 fachanwalt-Plugins fehlten erhebliche Bloecke.
