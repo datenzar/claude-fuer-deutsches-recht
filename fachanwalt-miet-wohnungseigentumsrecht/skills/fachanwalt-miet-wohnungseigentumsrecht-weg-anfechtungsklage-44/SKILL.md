@@ -41,7 +41,7 @@ Belegt ueber bundesgerichtshof.de bzw. dejure.org:
 - **BGH, Urt. v. 14.02.2025 – V ZR 236/23** — Erstmalige Belastung der bislang nicht beteiligten Wohnungseigentuemer mit Erhaltungskosten eines nur einem Teil der Eigentuemer dienenden Gebaeudeteils widerspricht idR ordnungsmaessiger Verwaltung; nur bei sachlichem Grund anders. Quelle: https://juris.bundesgerichtshof.de/cgi-bin/rechtsprechung/document.py?Gericht=bgh&Art=pm&Datum=2025&nr=140714&linked=urt&Blank=1&file=dokument.pdf
 - **BGH, Urt. v. 14.02.2025 – V ZR 128/23** — Beschlusskompetenz fuer Aenderung des Verteilungsschluessels umfasst auch die Verteilung fuer die Erhaltungsruecklage (§ 16 Abs. 2 Satz 2 WEG). Dejure: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=14.02.2025&Aktenzeichen=V+ZR+128/23
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Vorbefassungsobliegenheit bei Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG (Waermepumpe): es genuegt, in der Versammlung einen Beschluss erbeten zu haben; die Klagezulaessigkeit haengt nicht davon ab, ob Antragsteller weitere Informationen vorgelegt hat.
-- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderungen (Klimaanlage): Beurteilung der unbilligen Benachteiligung gem. § 20 Abs. 4 WEG; unmittelbare Auswirkungen sind massgeblich. Dejure: https://www.anwalt24.de/urteile/bgh/2025-03-28/v-zr-105_24
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderungen (Klimaanlage): Beurteilung der unbilligen Benachteiligung gem. § 20 Abs. 4 WEG; unmittelbare Auswirkungen sind massgeblich. Dejure: https://dejure.org/2025,9080
 
 ## Prüfschema
 
