@@ -53,7 +53,7 @@ description: "Beschlussfassung WEG zur Waermepumpen-Aufstellung gem. § 20 WEG n
 Belegt ueber bundesgerichtshof.de und dejure.org:
 
 - **BGH, Urt. v. 14.02.2025 – V ZR 86/24** — Beschlussersetzungsklage § 44 Abs. 1 Satz 2 WEG auf Genehmigung einer Waermepumpe (4 Lueftungsanlagen mit Fassadendurchbohrungen): die Zulaessigkeit setzt fuer die Vorbefassung nicht voraus, dass dem Versammlungsgremium bereits ein Privatgutachten/optimaler Entscheidungsgrundlage vorgelegt wurde. Es genuegt, dass der Klaeger in der Versammlung den entsprechenden Antrag gestellt hat. Volltext-Suche: https://www.bundesgerichtshof.de
-- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://www.anwalt24.de/urteile/bgh/2025-03-28/v-zr-105_24
+- **BGH, Urt. v. 28.03.2025 – V ZR 105/24** — Bauliche Veraenderung (Klimaanlage); Pruefung der unbilligen Benachteiligung nach § 20 Abs. 4 WEG anhand der unmittelbar mit der Veraenderung verbundenen Auswirkungen. URL: https://dejure.org/2025,9080
 - **BGH, Urt. v. 14.02.2025 – V ZR 236/23 / V ZR 128/23** — Kostenverteilung bei baulichen Maßnahmen / Aenderung des Verteilungsschluessels nach § 16 Abs. 2 Satz 2 WEG, einschliesslich Erhaltungsruecklage; PM: https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2025/2025033.html
 
 Schallschutzfragen werden ueberwiegend von Instanzgerichten entschieden; vor Zitierung Instanzgerichts-Urteile auf openjur.de / OLG-Datenbanken pruefen.
