@@ -25,7 +25,7 @@ Stand 2026 — alle Zahlen vom Antragsteller mit aktueller Gesetzesfassung und B
 | --- | --- | --- |
 | Eigene FuE-Personalkosten | Bruttolohn + Arbeitgeberanteil zur Sozialversicherung + Altersvorsorge | nur FuE-Anteil je Mitarbeiter |
 | Eigenleistung Einzelunternehmer/persönlich tätiger Gesellschafter | ab 2026 pauschal 100 Euro je Arbeitsstunde | max. 40 Stunden je Woche |
-| Auftragsforschung | 70 Prozent der Kosten | Auftragnehmer (Unternehmen oder Wissenschaftseinrichtung) muss in EU/EWR ansaessig sein; klare Leistungsbeschreibung |
+| Auftragsforschung | 70 Prozent der Kosten | Auftragnehmer muss seine Geschäftsleitung in EU/EWR haben; bei EWR-Staaten zusätzlich Amtshilfevoraussetzung nach § 2 Abs. 5 FZulG prüfen; klare Leistungsbeschreibung |
 | Wirtschaftsgüter | AfA, soweit dem FuE-Vorhaben zuordenbar | bewegliche abnutzbare Wirtschaftsgüter des Anlagevermögens |
 | Gemein- und Betriebskosten | pauschal 20 Prozent der übrigen förderfähigen Aufwendungen | nur für Vorhaben mit Beginn nach 31.12.2025 |
 
@@ -75,7 +75,7 @@ FuE-Anteil ist der dokumentierte Zeitanteil aus der Stundenaufzeichnung. Pauscha
 ### Auftragsforschung — die 70-Prozent-Regel
 
 - Förderfähig nur 70 Prozent der Kosten.
-- Auftragnehmer muss in EU/EWR ansässig sein — das gilt für Unternehmen und für Wissenschaftseinrichtungen gleichermaßen (eine außerhalb EU/EWR ansässige Forschungseinrichtung ist nicht förderfähig; vgl. `references/forschungszulage-quellen-und-zahlen.md` sowie die Ablehnungsgründe in `fz-ablehnung-nachbesserung-einspruch`).
+- Auftragnehmer muss seine Geschäftsleitung in einem EU-Mitgliedstaat oder in einem EWR-Staat mit ausreichender Amtshilfe nach § 2 Abs. 5 FZulG haben. Eine außerhalb dieses Rahmens ansässige Forschungseinrichtung ist für die Auftragsforschungsregel nicht förderfähig.
 - **Klare Leistungsabgrenzung im Vertrag.** Wer was wann mit welchem Ziel.
 - Subunternehmer des Auftragnehmers werden mitgeprüft.
 - Verbundene Unternehmen sind kritisch — die BSFZ und das Finanzamt prüfen genau, ob es sich nicht doch um eigene FuE im Konzern handelt.
@@ -114,6 +114,14 @@ FuE-Anteil ist der dokumentierte Zeitanteil aus der Stundenaufzeichnung. Pauscha
 9. BMG-Cap prüfen (12 Mio. Euro/Jahr).
 10. Fördersatz anwenden (25 Prozent oder 35 Prozent KMU).
 11. Drei Szenarien dokumentieren: konservativ / realistisch / maximal.
+
+## Datenqualitäts-Ampel
+
+| Ampel | Datenlage | Behandlung |
+| --- | --- | --- |
+| Grün | Lohnkonten, Stunden je AP, BSFZ-Bescheid, Verträge/Rechnungen liegen vor | belastbare Berechnung |
+| Gelb | Stunden plausibel, aber nacherfasst; Auftragsvertrag lückenhaft | Berechnung mit Risikoabschlag und Nachforderungsplan |
+| Rot | nur Managementschätzung, keine AP-Zuordnung, unklare Auftragnehmer | keine Betragszusage; erst Dokumentation reparieren |
 
 ## Mustertexte / Vorlagen
 

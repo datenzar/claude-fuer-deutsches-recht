@@ -33,7 +33,7 @@ Kaltstartfragen:
 
 **Heisenberg-Programm** ist die Brücke nach der Habilitation bis zur Lebenszeitprofessur, 5 Jahre eigene Stelle plus Forschungsmittel.
 
-**Reinhart-Koselleck-Projekt** ist die Risiko-Vision-Schiene: 500.000 bis 1.250.000 Euro, 5 Jahre, in Stufen von 250.000 Euro, nur für etablierte Forscher mit zwei erfolgreich abgeschlossenen DFG-Projekten.
+**Reinhart-Koselleck-Projekt** ist die Risiko-Vision-Schiene: 500.000 bis 1.250.000 Euro, 5 Jahre, in Stufen von 250.000 Euro, für herausragende Forschende mit besonders innovativen oder positiv risikobehafteten Vorhaben. Mehrere erfolgreich abgeschlossene DFG-Projekte sind ein starkes Praxisindiz für den nötigen Vertrauensvorschuss, aber nicht als starre formale Eingangsschwelle behaupten.
 
 **Schwerpunktprogramm (SPP)** und **Sonderforschungsbereich (SFB)** sind Verbundinstrumente mit langer Vorlaufzeit — eigenes Spielfeld, nicht durch diesen Skill abgedeckt.
 
@@ -64,6 +64,18 @@ Kaltstartfragen:
 | Solo vs. SPP-Andocken | Einzelantrag Sachbeihilfe | SPP-Einzelantrag (ENP) | Wenn passendes SPP läuft, Andocken — bessere Begutachtungs-Logik |
 | Erstantrag vs. Großvision | Erstantrag schlank | Vision-Antrag groß | Vor erstem DFG-Erfolg keinen Koselleck |
 | Großantrag jetzt vs. zwei kleine | Ein 800k-Antrag | Zwei aufeinanderfolgende 300k-Anträge | Bei methodischer Stufung zwei kleine — bessere Lernkurve und Resilienz |
+
+## Entscheidungsmotor
+
+Wenn die Nutzerseite mehrere Wege will, immer drei Varianten nebeneinanderlegen:
+
+| Variante | Frage | Typischer Nutzen |
+| --- | --- | --- |
+| **Minimal förderfähig** | Was ist die kleinste wissenschaftlich ehrliche Antwort? | schnell, kürzungsfest, gut für Erstantrag |
+| **Optimal wissenschaftlich** | Was wäre fachlich am stärksten, wenn Zeit und Profil reichen? | besserer Erkenntnisgewinn, mehr Risiko |
+| **Prestige / Vision** | Ist das Vorhaben wirklich jenseits normaler Planung? | Koselleck/SPP/SFB nur bei Profil und Vorlauf |
+
+Danach eine klare Empfehlung ausgeben, nicht alle Wege gleichwertig nebeneinander stehen lassen. Wenn ein Weg eitel, aber unklug ist, höflich klar sagen.
 
 ## Schritt für Schritt
 

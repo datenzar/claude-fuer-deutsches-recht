@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Schnelltriage zu Unternehmen, FuE-Vorhaben, Wirtschaftsjahren, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und passendem Spezialskill. Liefert in einem Schritt das Kurzbild plus den ersten Arbeitsentwurf."
+description: "Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Spezialskills und liefert sofort Kurzbild plus Arbeitsentwurf."
 ---
 
 <!-- konvers-stil-v1 -->
@@ -30,6 +30,20 @@ Sie greifen zu `allgemein`, wenn:
 - Mehrere Spezialfragen gleichzeitig auf dem Tisch liegen (BSFZ-Text, Personalkosten, Krise, Einspruch) und Sie eine Reihenfolge brauchen.
 - Ein bestehender Antrag stockt und Sie das richtige Anschluss-Skill suchen.
 
+## Adaptiver Modus
+
+Immer zuerst erkennen, wer vor Ihnen sitzt:
+
+| Modus | Erkennbar an | Arbeitsweise |
+| --- | --- | --- |
+| **Einsteiger / Geschäftsführung** | "Wir entwickeln etwas, keine Ahnung ob förderfähig" | Fachwörter übersetzen, maximal sechs Fragen, sofort grobe Förderchance und Unterlagenliste |
+| **Technikteam** | konkrete Entwicklungsprobleme, keine Steuerlogik | aus technischen Risiken BSFZ-Sprache bauen, keine Steuerparagrafen auswalzen |
+| **CFO / Steuerberatung** | Kosten, Jahre, Liquidität, Vorauszahlungen | Berechnung, Cashflow, Fristen, Belege, Finanzamt-Route |
+| **Krisenmodus** | Verlust, Insolvenz, Liquiditätsloch | § 10 FZulG, Vorauszahlungssenkung, Masse/Aufrechnung/Abtretung, schnelle Dokumentenliste |
+| **Ablehnung / Nachforderung** | BSFZ-Rückfrage, negativer Bescheid | Fehlerursache trennen: FuE-Inhalt, Form, Kosten, Belege, Einspruch/Nachbesserung |
+
+Das Plugin soll aus chaotischem Input eine arbeitsfähige Förderstory machen: Problem, Neuheit, Unsicherheit, planmäßiges Vorgehen, Kosten, Belege. Anfänger bekommen Führung; Profis bekommen eine knappe Ampel und Entscheidungsoptionen.
+
 ## 60-Sekunden-Intake
 
 | Punkt | Frage |
@@ -51,6 +65,7 @@ Sie greifen zu `allgemein`, wenn:
 - **Parallel statt seriell.** BSFZ-Antrag und Vorbereitung des Finanzamt-Antrags können parallel laufen. So vergeht nach Eingang der Bescheinigung kein weiteres Quartal.
 - **Antragstaktung Q1.** BSFZ-Antrag im 1. Quartal des Folgejahres einreichen. Das BSFZ-Aufkommen ist dort tendenziell geringer, Bearbeitungszeiten kürzer (Erfahrungswert, kein offizielles Versprechen).
 - **Software-Mittelstand, Maschinenbau, Biotech, Engineering** sind die Hauptklientel. Wer "ERP-Anpassung", "Customizing" oder "Migration" als FuE verkauft, wird abgelehnt — und brennt sich beim Prüfer ab.
+- **BSFZ-Sprache ist knapp.** Das Portal will keine 20-Seiten-Story, sondern eine präzise technische Erzählung mit harten Zeichenbudgets. Erst intern ausführlich denken, dann portaltauglich verdichten.
 
 ## Verweis-Weiche — der passende Skill
 
@@ -71,7 +86,7 @@ Sie greifen zu `allgemein`, wenn:
 
 | Entscheidung | Pfad A | Pfad B | Empfehlung |
 | --- | --- | --- | --- |
-| Antrag jetzt vs. Folgejahr | sofort beantragen, BMG steht | warten, mehr Stunden sammeln | sofort, wenn BMG mindestens 100k Euro |
+| Antrag jetzt vs. Folgejahr | sofort beantragen, BMG steht | warten, mehr Stunden sammeln | sofort bei klarer FuE und vorhandenen Belegen; kleine Vorhaben schlank abwickeln |
 | Ein BSFZ-Antrag vs. Bündel | mehrere Einzelanträge | ein Sammelantrag | Sammelantrag, wenn Vorhaben technisch verwandt |
 | Eigenforschung vs. Auftrag | 100 Prozent BMG | 70 Prozent BMG | Eigenforschung, wenn Personal vorhanden |
 | Sofortauszahlung vs. Verrechnung | jetzt Liquidität | mit künftiger Steuer verrechnen | Auszahlung in Verlustlagen |
@@ -87,7 +102,7 @@ Ohne BSFZ-Bescheinigung keine Festsetzung. Wer die BSFZ-Stufe unterschätzt, ver
 
 1. 60-Sekunden-Intake oben durchgehen.
 2. Förderchance grob beziffern: FuE-Personalkosten p.a. mal 25 Prozent (bzw. 35 Prozent KMU).
-3. Faustregel: Unter 100k Euro FuE-Personalkosten ist der Aufwand selten wirtschaftlich.
+3. Wirtschaftlichkeit prüfen: Auch kleine Vorhaben können sinnvoll sein, wenn Stunden ohnehin dokumentiert sind; bei sehr geringem Aufwand schlanken Antrag bauen statt Beraterprojekt aufblasen.
 4. Engpass identifizieren: fehlt BSFZ-Text, Stundenerfassung, KMU-Nachweis, Auftragsforschungs-Vertrag, AGVO-Kumulierung?
 5. Den passenden Skill aus der Verweis-Weiche aktivieren.
 6. Wenn Fakten klar genug sind: ersten Entwurf direkt produzieren, nicht nochmal nachfragen.
@@ -101,6 +116,14 @@ Ohne BSFZ-Bescheinigung keine Festsetzung. Wer die BSFZ-Stufe unterschätzt, ver
 - Verfahrensstand (BSFZ/FA):
 - Förderchance (grobe Bandbreite):
 - Hauptlücke:
+
+**Intelligenzschicht**
+
+- Einsteiger-Erklärung in drei Sätzen:
+- Technische FuE-Story in vier Bausteinen:
+- Cashflow-Effekt grob:
+- Schnellster sauberer Antragspfad:
+- Risiko, das vor Einreichung repariert werden muss:
 
 **Nächste Schritte**
 

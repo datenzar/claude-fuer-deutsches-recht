@@ -17,12 +17,12 @@ Sie brauchen diesen Skill, wenn ein etablierter Antragsteller einen risikoreiche
 
 Kaltstartfragen:
 
-1. **Profil:** Wie viele bewilligte und erfolgreich abgeschlossene DFG-Projekte hat der Antragsteller? Faustregel: mindestens zwei vollständige DFG-Projektzyklen.
+1. **Profil:** Welche sichtbaren Belege gibt es für außergewöhnliche wissenschaftliche Eigenständigkeit? DFG-Projektzyklen, Spitzenpublikationen, Preise, Berufungen und internationale Resonanz sind Indizien, keine starre Checkliste.
 2. **Sichtbarkeit:** Spitzenpublikationen, Berufungen, Editorships, internationale Preise, Keynote-Einladungen?
 3. **Vorhaben:** Was ist das **eine** visionäre Ziel? Welches Paradigma soll verschoben werden?
 4. **Risiko-Logik:** Ist das Risiko **wissenschaftlich produktiv** (auch ein Scheitern bringt Erkenntnis) oder nur **Management-Risiko** (Personal könnte fehlen, Gerät könnte ausfallen)?
 5. **Warum nicht Sachbeihilfe?** Wenn die Antwort lautet "weil ich mehr Geld will" — dann doch Sachbeihilfe.
-6. **Vorprojekte:** Welche zwei bis drei DFG-Projekte mit klarem Abschlussbericht und sichtbarem Output gibt es?
+6. **Vorprojekte:** Welche DFG- oder vergleichbaren Projekte mit klarem Abschlussbericht und sichtbarem Output gibt es?
 
 ## Programm- bzw. Sachrahmen
 
@@ -36,7 +36,7 @@ Kaltstartfragen:
 
 - Berufene oder berufbare herausragende Wissenschaftlerin / Wissenschaftler.
 - Außergewöhnliche bisherige Leistung — sichtbar in Publikationsprofil, internationaler Resonanz, Preisen.
-- Mindestens zwei erfolgreich abgeschlossene DFG-Projekte (Faustregel, vom Antragsteller in der DFG-Verfahrensordnung zu verifizieren).
+- Sichtbarer Track Record, der den besonderen Vertrauensvorschuss trägt. Mehrere erfolgreich abgeschlossene DFG-Projekte sind ein starkes Praxisindiz, aber nicht als formales Muss behaupten, solange die aktuelle DFG-Quelle das nicht verlangt.
 - Projekt soll innovativ und positiv risikobehaftet sein und gerade nicht gut in das normale DFG-Verfahren passen.
 
 **Vertrauensvorschuss.** Im Unterschied zur Sachbeihilfe wird kein detailliertes Arbeitsprogramm mit harten Meilensteinen verlangt. Die Begutachterinnen sollen aufgrund des Profils und der Vision **Vertrauen** entwickeln — daher ist die Antragstellerseite (Profil, Vorarbeiten, Track Record) viel wichtiger als bei Sachbeihilfe.
@@ -55,7 +55,7 @@ Kaltstartfragen:
 
 - **"Passt eher in Sachbeihilfe"** — der häufigste Ablehnungsgrund. Entsteht, wenn die Vision fehlt und nur ein größerer Standardantrag dasteht.
 - **"Risiko ist Management-Risiko, nicht wissenschaftliches Risiko"** — wenn das Risikokapitel von "Personal könnte abspringen" handelt.
-- **"Profil reicht nicht"** — wenn Antragsteller noch nicht zwei DFG-Projekte komplett durchgezogen hat.
+- **"Profil reicht nicht"** — wenn die Begutachter aus Publikationen, Drittmitteln, Preisen, Berufungen und internationaler Resonanz keinen Grund für den besonderen Vertrauensvorschuss sehen.
 - **"Vision unkonkret"** — wenn die "Paradigmenverschiebung" nach drei Lesungen noch immer schwammig ist.
 - **"Keine Innovation, nur Skalierung"** — wenn das Projekt dasselbe wie die letzten drei Sachbeihilfen ist, nur mit mehr Personal.
 - **"Antragsteller könnte Heisenberg machen"** — wenn die Karriere noch in Habilitations-Übergangsphase ist.
@@ -76,7 +76,7 @@ Kaltstartfragen:
 | Trade-off | Pfad A: Koselleck | Pfad B: Große Sachbeihilfe | Empfehlung |
 | --- | --- | --- | --- |
 | Detailgrad | Vision, Phasen | Arbeitsprogramm mit Meilensteinen | Nur Koselleck wenn Vision nicht in Standard passt |
-| Antragsstellerprofil | etabliert, mind. 2 DFG-Projekte | Promotion + Vorarbeiten | Koselleck nur bei klar etablierter Position |
+| Antragsstellerprofil | außergewöhnlich sichtbar, mit starkem Drittmittel-/Publikationsprofil | Promotion + Vorarbeiten | Koselleck nur bei klar etablierter Position |
 | Risiko-Begründung | wissenschaftlich produktiv | methodisches Risiko mit Plan B | Koselleck verlangt Vision-Risiko |
 | Laufzeit | 5 Jahre fix | 1-3 Jahre flexibel | Koselleck nur bei langem Atem nötig |
 | Geld | 500k-1.25m | typisch 200k-500k | Geldhunger allein rechtfertigt kein Koselleck |
@@ -86,7 +86,7 @@ Kaltstartfragen:
 ## Schritt für Schritt
 
 1. **Profil-Audit.** GEPRIS-Suche aller eigenen Projekte. Publikationsprofil mit Impactfaktor und internationaler Resonanz. Berufungen, Preise, Editorships sammeln.
-2. **Vorprojekte sammeln** — sind mindestens zwei erfolgreich abgeschlossen?
+2. **Vorprojekte sammeln** — welche DFG-/EU-/Stiftungsprojekte sind abgeschlossen, und was ist daraus sichtbar entstanden?
 3. **Visions-Test.** Lassen Sie Antragsteller die Vision in einem Satz mündlich erklären. Wenn nach drei Versuchen unklar — kein Koselleck.
 4. **Risiko-Begründung schreiben** als eigenständiges Kapitel — produktives Risiko, nicht Managementrisiko.
 5. **Drei mögliche Gutachter** identifizieren — deren Arbeit kennen und zitieren.
@@ -120,7 +120,7 @@ Kaltstartfragen:
 - Detailliertes Arbeitsprogramm mit 12 Meilensteinen — entwertet die Vertrauensvorschuss-Logik.
 - Risiko-Kapitel als Liste von Personalrisiken — kein wissenschaftliches Risiko.
 - Mehrere Co-Antragsteller — Koselleck ist Einzelantrag.
-- Antragsteller hat noch keine zwei DFG-Projekte abgeschlossen — Programm formal verfehlt.
+- Fehlender Vertrauensvorschuss wird als formales Muss verkleidet. Besser: offen prüfen, ob Track Record und Vision den besonderen Koselleck-Maßstab tragen.
 - Vorprojekte nicht erwähnt — wirkt, als hätte Antragsteller den eigenen Track Record nicht im Kopf.
 - "Kann auch in 3 Jahren laufen, falls Sie das wollen" — Laufzeit ist fix 5 Jahre.
 - Vision als Modewort: "disruptiv", "transformativ" ohne Substanz.
@@ -131,7 +131,7 @@ Kaltstartfragen:
 
 | Aspekt | Grün | Gelb | Rot |
 | --- | --- | --- | --- |
-| Profil | mind. 2 abgeschl. DFG-Projekte + Spitzenpublikationen | 1 Projekt | unter 1 abgeschl. Projekt |
+| Profil | außergewöhnliche Linie, Spitzenpublikationen, sichtbare Drittmittel | starke Linie, aber noch wenig Vertrauen | Profil trägt Vertrauensvorschuss nicht |
 | Vision-Klarheit | in 1 Satz formulierbar | in 3 Sätzen | unklar |
 | Risiko-Logik | wissenschaftlich produktiv | gemischt | nur Management-Risiko |
 | Abgrenzung zur SB | klar begründet | weich | nicht erkennbar |

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im DFG-Förderantrag-Plugin. Klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Begutachtungsrisiko, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und gewünschten Output. Schlägt passende DFG-Spezialskills vor und startet sofort mit einem arbeitsfähigen Antragspfad."
+description: "Adaptiver Einstieg, Schnelltriage und Workflow-Routing im DFG-Förderantrag-Plugin. Führt Anfänger mit maximal sechs Fragen, fordert Profis mit Go/No-Go und Reviewer-Risiken, klärt Forschungsfrage, Programmroute, Antragssumme, Tempo, Vorarbeiten, Finanzbedarf, Ethik/Forschungsdaten und Spezialskills."
 ---
 
 <!-- konvers-stil-v1 -->
@@ -16,6 +16,19 @@ Faustregel der alten Hasen: **Ein DFG-Antrag steht und fällt mit drei Dingen �
 ## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
 Sie brauchen diesen Skill, wenn Sie nicht sicher sind, welche Programmschiene passt, wenn ein Exposé, CV, Budget oder Gutachten lose im Raum steht, oder wenn das Mandat frisch ist und der Antragsteller eine Empfehlung über Tempo und Größe braucht.
+
+## Adaptiver Modus
+
+Zu Beginn still einschätzen, wie erfahren die Nutzerseite ist, und den Ton danach wählen:
+
+| Modus | Erkennbar an | Arbeitsweise |
+| --- | --- | --- |
+| **Geführter Modus** | "Ich habe noch nie DFG beantragt", lose Idee, keine Summe | maximal sechs Fragen, Fachwörter kurz erklären, sofort eine machbare Mini-Roadmap liefern |
+| **Normalmodus** | Exposé/CV/Budget liegt vor | Triage, Programmrouting, Lückenliste, nächste Skills |
+| **Profi-Modus** | fertiger Entwurf, alte Gutachten, GEPRIS-Historie | nicht erklären, sondern schonungslos priorisieren: Go/No-Go, Kürzungsrisiko, Reviewer-Angriffe |
+| **Rettungsmodus** | Ablehnung, Fristdruck, unklare Rückmeldung | Kritik extrahieren, Reparaturplan, Wiedereinreichungsstrategie |
+
+Wenn der Nutzer unsicher oder fachfremd ist, nicht belehren. Aus chaotischen Stichpunkten eine erste Forschungsfrage, ein Minimalvorhaben und eine Unterlagenliste bauen. Wenn der Nutzer sehr gut ist, keine Grundlagen wiederholen, sondern direkt die strategischen Schwächen und die bessere Route nennen.
 
 | Punkt | Frage |
 | --- | --- |
@@ -83,6 +96,16 @@ Erste grobe Zuordnung nach Karrierestand (Faustregel, nicht Dogma):
 6. **Zeitplan grob aufsetzen:** Einreichtermin, Vorlauf, Reviewer-Red-Team-Slot.
 7. **Geschäftsstelle anrufen** (durch Antragsteller, nicht durch Sie).
 
+## Sofort-Hilfe bei schwachem Input
+
+Wenn nur eine Idee vorliegt, trotzdem arbeiten. Nicht sagen "Bitte reichen Sie ein vollständiges Exposé ein", sondern eine erste Struktur erzeugen:
+
+1. **Idee in Forschungsfrage übersetzen:** aus "Wir wollen X erforschen" wird eine prüfbare Frage.
+2. **Minimalprojekt bauen:** Welche kleinste Förderung beantwortet die Frage publikationsfähig?
+3. **Idealprojekt bauen:** Welche Ausbauvariante wäre wissenschaftlich stärker, aber riskanter?
+4. **Lücken benennen:** Vorarbeiten, Datenzugang, Ethik, Methodenkompetenz, Finanzpositionen.
+5. **Nächste 10 Arbeitstage planen:** nicht abstrakt, sondern mit konkreten Text- und Datenlieferungen.
+
 ## Mustertexte / Vorlagen
 
 **Erste Antwort an Antragsteller** (Vorlage):
@@ -109,6 +132,13 @@ Erste grobe Zuordnung nach Karrierestand (Faustregel, nicht Dogma):
 - Stärken:
 - Risiko:
 - Fehlende Unterlagen:
+
+**Intelligenzschicht**
+- Anfänger-Erklärung in drei Sätzen:
+- Profi-Befund in drei harten Punkten:
+- Schnellster förderfähiger Pfad:
+- Wissenschaftlich beste, aber langsamere Alternative:
+- Eine Sache, die vor Einreichung zwingend besser werden muss:
 
 **Nächster Workflow**
 1. Programmroute und Schwellen prüfen.

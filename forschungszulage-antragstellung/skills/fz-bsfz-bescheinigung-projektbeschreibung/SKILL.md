@@ -1,6 +1,6 @@
 ---
 name: fz-bsfz-bescheinigung-projektbeschreibung
-description: "BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich erstellen: Ausgangsproblem, Stand der Technik, Neuheit, technisches Risiko, systematisches Vorgehen, Arbeitspakete und verständliche Prüferlogik. Mit Mustertexten, Anti-Floskel-Regeln und Strategie Einzelantrag vs. Projektbündel."
+description: "BSFZ-Antrag und FuE-Projektbeschreibung praxistauglich erstellen: Portaltexte mit Zeichenbudgets, Ausgangsproblem, Stand der Technik, Neuheit, technisches Risiko, systematisches Vorgehen, Arbeitspakete, Prüferlogik, Anti-Floskel-Regeln und Strategie Einzelantrag vs. Projektbündel."
 ---
 
 # BSFZ-Bescheinigung und Projektbeschreibung
@@ -29,15 +29,21 @@ Bearbeitungszeit erfahrungsgemäß einige Monate; Q1-Einreichung beschleunigt er
 
 ## Gliederung der Projektbeschreibung
 
-Erfahrungsgemäß bewährte Struktur, jede Seitenangabe als Richtwert:
+Nicht mit einem Kanzlei-Memo verwechseln: Der BSFZ-Leitfaden 2026 arbeitet im Portal mit engen Zeichenbudgets. Intern darf die Analyse ausführlich sein; die Einreichungsfassung muss hart verdichtet werden.
 
-1. **Ausgangsproblem (ca. 1 Seite).** Konkretes technisches Problem. Keine Marketing-Sprache. Welcher Zielwert wird nicht erreicht?
-2. **Stand der Technik (1 bis 2 Seiten).** Mindestens 2 bis 3 konkrete Quellen: Norm, Patent, Publikation, Wettbewerbsprodukt. Messgrößen und Werte nennen.
-3. **Entwicklungsziel und Neuheit (ca. 1 Seite).** Welche Funktion, Eigenschaft, Messgröße ist neu? Worin liegt die schöpferische Eigenleistung?
-4. **Technische/wissenschaftliche Unsicherheit (ca. 0.5 Seite).** Was kann scheitern? Welcher Lösungsansatz ist offen?
-5. **Systematischer Lösungsweg (1 bis 2 Seiten).** Iterationen, Hypothesen, Versuchsdesign, Decision-Gates.
-6. **Arbeitspakete (1 bis 2 Seiten).** Tabelle mit AP-Nummer, Inhalt, Erfolgskriterium, Personenaufwand, Meilenstein.
-7. **Abgrenzung Routine (ca. 0.5 Seite).** Welche Arbeiten gehören nicht zum FuE-Vorhaben?
+| Portalbaustein | Zeichenbudget laut BSFZ-Leitfaden 2026 | Inhalt |
+| --- | --- | --- |
+| Ziel / Herausforderung / Wissenslücke | ca. 1.500 Zeichen | konkretes technisches oder wissenschaftliches Problem, Zielwert, Neuheit für das Unternehmen |
+| Abgrenzung zum Stand der Technik | ca. 500 Zeichen | bisherige Lösung, messbare Grenze, warum das Neue nicht bloße Routine ist |
+| Arbeiten / Lösungsweg | ca. 1.000 Zeichen | Methoden, Versuche, Iterationen, Decision-Gates, kein Marketing |
+| Unsicherheiten / Scheitern | ca. 1.000 Zeichen | konkrete technische, wissenschaftliche oder methodische Risiken; keine Markt- oder Verwertungsrisiken |
+| Auftragnehmer | ca. 500 Zeichen je Auftragnehmer | was der Auftragnehmer FuE-mäßig tut, nicht nur Bestellung oder Werkstückfertigung |
+| Arbeitsplan | separates Portal-/PDF-Element | Arbeitspakete mit Zeitraum, Inhalt, Meilenstein, Aufwand |
+
+Arbeite daher immer zweistufig:
+
+1. **Interne Langfassung** zur Denk- und Belegarbeit: Quellen, Messwerte, AP-Details, Risiken, Routineabgrenzung.
+2. **Portaltext** mit Zeichenlogik: kurz, technisch, konkret, ohne Unternehmenswerbung.
 
 ## Praxisleitfaden — was die Prüferin sehen will
 
@@ -46,6 +52,7 @@ Erfahrungsgemäß bewährte Struktur, jede Seitenangabe als Richtwert:
 - **Dokumentierter Lösungsweg.** Welche Hypothesen testen Sie? Welche Iterationen sind eingeplant?
 - **Arbeitspakete in Tabellenform.** AP-1 Konzept, AP-2 Versuchsreihe, AP-3 Prototyp, AP-4 Charakterisierung. Mit Meilensteinen und Personenstunden.
 - **Stand der Technik mit Quellen.** Die Prüferin ist Fachexpertin. Wer den Stand der Technik nicht zitiert, signalisiert, dass die Hausaufgaben fehlen.
+- **Deutsch einreichen.** Fremdsprachige Beschreibungen und allgemeine Business-Roadmaps sind für die BSFZ-Prüfung ungeeignet.
 
 ### Anti-Floskel-Regeln (was bei der BSFZ sofort fliegt)
 
@@ -69,7 +76,7 @@ Erfahrungsgemäß bewährte Struktur, jede Seitenangabe als Richtwert:
 | Trade-off | Pfad A | Pfad B | Empfehlung |
 | --- | --- | --- | --- |
 | Ein großes Vorhaben vs. mehrere | hohe Aufmerksamkeit der Prüfer | weniger Risiko je Antrag | Bündel bei technischer Verwandtschaft |
-| Detailtief vs. übersichtlich | maximale Tiefe | knapper Antrag | mittlere Tiefe; entscheidend Klarheit |
+| Detailtief vs. übersichtlich | interne Langfassung | Portaltext | erst tief denken, dann brutal verdichten |
 | Frühe Einreichung vs. Stabilität | Q1 minimal beschrieben | Q3 reif | Q1 reif, früh in der Bearbeitungsschlange |
 | Eigene Schreibarbeit vs. Berater | inhouse, geringere Kosten | Beraterprofile mit Track Record | Berater bei Erstantrag, intern bei Folgeanträgen |
 
@@ -83,7 +90,8 @@ Erfahrungsgemäß bewährte Struktur, jede Seitenangabe als Richtwert:
 6. Technische Unsicherheit konkret nennen.
 7. Arbeitspakete als Tabelle.
 8. Abgrenzung zur Routine als eigener Abschnitt.
-9. Antrag im BSFZ-Portal eingeben, PDF-Anhänge prüfen, Plausibilitäts-Check.
+9. Portaltexte gegen Zeichenbudgets kürzen, ohne Neuheit/Risiko zu verlieren.
+10. Antrag im BSFZ-Portal eingeben, PDF-Arbeitsplan prüfen, Plausibilitäts-Check.
 
 ## Mustertexte
 
@@ -111,6 +119,15 @@ Erfahrungsgemäß bewährte Struktur, jede Seitenangabe als Richtwert:
 
 **Mehrere Projekte:** Wenn technisch verwandt, als Vorhabenbündel mit gemeinsamer Klammer einreichen. Wenn unverbunden, je eigener Antrag.
 
+**Portal-Kompression (Vorlage):**
+
+| Baustein | Arbeitsanweisung |
+| --- | --- |
+| 1.500 Zeichen Ziel | ein Problem, ein Zielwert, ein Neuheitskern |
+| 500 Zeichen Stand der Technik | zwei harte Vergleichspunkte, keine Literaturwüste |
+| 1.000 Zeichen Arbeiten | AP-Logik in Prosa, keine bloße Liste |
+| 1.000 Zeichen Unsicherheit | warum kann es technisch scheitern, warum ist das gerade FuE? |
+
 ## Typische Fehler
 
 - Produktbeschreibung statt FuE-Beschreibung.
@@ -122,7 +139,8 @@ Erfahrungsgemäß bewährte Struktur, jede Seitenangabe als Richtwert:
 
 ## Output
 
-- BSFZ-taugliche Projektbeschreibung (ca. 6 bis 10 Seiten je Vorhaben).
+- BSFZ-taugliche Portaltexte mit Zeichenbudget.
+- Interne Langfassung als Beleg- und Kürzungsgrundlage, wenn Material vorhanden ist.
 - Arbeitspaket-Matrix.
 - Quellenverzeichnis Stand der Technik.
 - Nachforderungsvorsorge: Liste der vorbereiteten Antworten auf typische Rückfragen.

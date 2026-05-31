@@ -43,6 +43,67 @@ Aus PR #160 in der vorigen Session (auf v51 zurückgemerged; hier in Kontext geh
 - Validator (`scripts/validate-plugin-structure.mjs`, `scripts/validate-testakten-gesamt-pdf.py`) durchgehend grün.
 - Plugin-Versionen unverändert — diese Release-Linie ist eine Testakten-Veredelung, keine Skill-Reform.
 
+# v51.4.0 — Sofort-Download-Box in jedem Plugin-README
+
+User-Beschwerde: "beim Word-Plugin ist im README nicht direkt der Link zum Download des Plugins. Es soll bei jedem Plugin-README sofort das Plugin als ZIP-File und dann auch immer die Testakte als ZIP und als PDF herunterladbar sein." Bisher gab es zwar in jedem Plugin-README einen Plugin-ZIP-Link, beim Word-Plugin aber erst weit unten in der Installation-Sektion. Das ist jetzt fuer alle 110 Plugins einheitlich oben.
+
+## Aenderungen
+
+- Neues Skript `scripts/inject-plugin-sofort-download-section.py`: fuegt in jede `<plugin>/README.md` direkt nach dem H1 (ganz oben) eine `## ⬇️ Sofort-Downloads`-Sektion ein mit (a) Plugin-ZIP-Direktdownload, (b) je zugeordneter Testakte ein Gesamt-PDF-Link und ein Akten-ZIP-Link. Idempotent ueber HTML-Marker `plugin-sofort-download-section`. Akten-Zuordnung wird wie schon bei `inject-plugin-testakten-section.py` aus den Backtick-Referenzen in `testakten/<slug>/README.md` abgeleitet.
+- Skript ausgefuehrt: 110 von 110 Plugin-READMEs aktualisiert. Plugin-ZIP-Link steht jetzt in **jedem** Plugin-README sofort sichtbar unter dem Titel, vor allem anderen Inhalt.
+- `marketplace.json` Version `51.3.0` -> `51.4.0`.
+- `SKILLS.md` und `skills-index/` regeneriert (Versionsstring v51.4.0; Skill-Zahl 2682/110 unveraendert).
+- `README.md`: Release-Zeile auf `v51.4.0`.
+- Validatoren gruen (Plugin-Struktur, YAML-Frontmatter, Gesamt-PDFs mit 127 Testakten).
+
+# v51.3.0 — Repo-Glattzug nach v51.2.0
+
+Konsistenz-Pass nach dem v51.2.0-Merge: zwei neue Plugins aus v51.0.0/v51.1.0 (`dfg-foerderantrag`, `forschungszulage-antragstellung`) waren noch nicht im Marketplace-Manifest und in der Skill-Gesamtuebersicht eingetragen. Veraltete Zaehlerstaende in `README.md`, `SKILLS.md` und `ASSET_INDEX.md` korrigiert.
+
+## Aenderungen
+
+- `.claude-plugin/marketplace.json`: `dfg-foerderantrag` und `forschungszulage-antragstellung` ergaenzt; alphabetisch sortiert; `version` `51.2.0` -> `51.3.0`. Marketplace listet jetzt **110 Plugins** (vorher 108).
+- `SKILLS.md` regeneriert: **2682 Skills in 110 Plugins** (vorher 2661 in 108); veralteten Satz mit `63 Testakten` auf `127 Testakten` korrigiert.
+- `skills-index/`: 110 Plugin-Detailseiten plus Index regeneriert.
+- `README.md`: Kennzahlen-Tabelle aktualisiert (Testakten `63` -> `127`, Release `v51.1.0` -> `v51.3.0`).
+- `ASSET_INDEX.md`: Stand-Zeile auf `v51.3.0` aktualisiert.
+- Sanity-Check: kein `\d,\d` in `description` (plugin.json, marketplace.json, SKILL.md); alle Descriptions <=300 Zeichen in Plugin-Manifesten, <=1024 in SKILL.md.
+- Validatoren gruen: `validate-plugin-structure.mjs`, `validate-yaml-frontmatter.py`, `validate-testakten-gesamt-pdf.py` (127 Testakten).
+
+# v51.2.0 — Plugin-Testakten-Vollbestand (64 neue Testakten)
+
+User-Wunsch: Wirklich alle Luecken im Testakten-Bestand schliessen. Pro bisher untestrierter Plugin-Familie eine vollstaendige, individualisierte Demoakte auf dem Qualitaetsniveau der `Rosengarten`-Vorbildakte (ca. 15-25 Aktenstuecke, Beteiligte mit Namen, Aktenzeichen, Konfliktstraenge, deutsche Normen). Pro Akte ein Commit, alles auf einem Branch.
+
+## Aenderungen
+
+- **64 neue Testakten** in 11 Wellen angelegt, je 38 Aktenstuecke (22 nummerierte MD plus 3 DOCX plus 2 XLSX plus 4 EML plus 2 PDF plus 3 JPG plus Gesamt-PDF) plus README. Quellen ausschliesslich aus dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de und amtlichen Behoerden-URLs; keine BeckRS-Modellzitate, kein anwalt24.de.
+- **Testakten-Bestand 63 -> 127** (siehe `testakten/README.md`).
+- **ASSET_INDEX.md** aktualisiert: 108 Plugin-ZIPs plus 127 Fallakten-ZIPs plus 4 Standalone-Assets = **239 Release-Assets** fuer `v51.2.0` und `latest`.
+- Welle-Themen: Welle 1-7 (Arbeitsrecht, Familie, Erbe, Insolvenz, Bau, IT-Recht, Strafrecht); Welle 8 (KI-Governance, KI-VO, Mandantenanfragen, MundA, Methodenlehre, Mietrecht); Welle 9 (Share-Deal, NDA, Normenkontrolle, FTO-Recherche, Produkthaftung, Zivilprozess BGH-Revision); Welle 10 (Rechtsberatungsstelle, BaFin-Regulatorik, Steuerrecht/Selbstanzeige, Strafzumessung, Subsumtions-Pruefer, Tabellenreview); Welle 11 (Richter-Urteilsbau, Verfassungsrecht, VerkehrsOWi, Drafting-Werkstatt, Zitierweise, Zwangsvollstreckung).
+- **Validatoren gruen:** `validate-plugin-structure.mjs`, `validate-yaml-frontmatter.py`, `validate-testakten-gesamt-pdf.py` (127 Testakten).
+- **Plugin-READMEs:** `inject-plugin-testakten-section.py` automatisiert die Demonstrationsakten-Tabelle in jedem Plugin-README; 75 Plugins haben jetzt eine eigene Demonstrationsakte.
+- **Gesamt-PDFs:** Pro Akte ein automatisch gebautes Gesamt-PDF (Skript `build-testakte-gesamt-pdf.py`, breite Tabellen >12 Spalten fallen sequentiell zurueck), oben im Akten-README verlinkt.
+- Pattern fuer Testakten festgehalten: kein YAML-Frontmatter; 38 Dateien plus README; Plot mit 5-8 individualisierten Konfliktstraengen; konsistente Beteiligten- und Aktenzeichen-Liste; ASCII in Commit-Messages und in `description` (Dezimalkommas nur im Body, nicht in der Description).
+- Marketplace-Version `51.1.0` -> `51.2.0`; Generator regeneriert SKILLS.md und skills-index/; Plugins/Skills unveraendert (110/2682).
+
+# v51.1.0 — DFG/Forschungszulage Workflow-Boost
+
+Nachlauf zu den neuen Förderplugins: Claude-Code-Ausbau übernommen und mit einem weiteren Codex-Audit veredelt.
+
+## DFG-Förderantrag
+
+- `allgemein` arbeitet jetzt adaptiv: geführter Modus für Erstantragsteller, Normalmodus, Profi-Red-Team und Rettungsmodus nach Ablehnung.
+- DFG-Kaltstart erzeugt auch aus losen Ideen eine Mini-Roadmap mit Minimalprojekt, Idealprojekt, Lückenliste und 10-Arbeitstage-Plan.
+- Koselleck-Logik korrigiert: mehrere abgeschlossene DFG-Projekte sind starkes Praxisindiz, aber kein behauptetes starres formales Muss.
+- Strategie-Skill ergänzt einen Entscheidungsmotor: minimal förderfähig, optimal wissenschaftlich, Prestige/Vision.
+
+## Forschungszulage
+
+- `allgemein` unterscheidet jetzt Einsteiger, Technikteam, CFO/Steuerberatung, Krisenmodus und Ablehnung/Nachforderung.
+- BSFZ-Projektbeschreibung auf Portalrealität umgestellt: interne Langfassung plus Portaltexte mit Zeichenbudgets nach BSFZ-Leitfaden 2026.
+- Fördercheck behandelt kleine Vorhaben nicht mehr pauschal als unwirtschaftlich; er baut bei Bedarf schlanke Anträge.
+- Bemessungsgrundlagen-Skill präzisiert § 2 Abs. 5 FZulG bei Auftragsforschung und ergänzt eine Datenqualitäts-Ampel.
+
 # v51.0.0 — DFG, Forschungszulage und weltweite DBA-Matrix
 
 User-Wunsch: Zwei neue Förderplugins für DFG-Anträge und Forschungszulage sowie ein deutlich tieferer Ausbau der DBA-Skills im Steuerrechtsplugin.

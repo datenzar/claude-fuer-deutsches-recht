@@ -32,8 +32,8 @@ Sie nutzen `fz-foerdercheck-kaltstart`:
 
 ### Faustregel Wirtschaftlichkeit
 
-- FuE-Personalkosten unter 100k Euro/Jahr: Aufwand selten wirtschaftlich, prüfen ob Sammelantrag mit anderen Vorhaben sinnvoll.
-- 100k bis 500k Euro/Jahr: regulärer Antrag, BSFZ-Antrag und Stundenerfassung lohnen.
+- FuE-Personalkosten gering: nicht automatisch verwerfen. Schlank prüfen, ob Stunden ohnehin vorhanden sind und ob mehrere verwandte Vorhaben zusammen eine saubere Förderstory ergeben.
+- Mittlerer Jahresaufwand: regulären BSFZ-Antrag mit sauberer Stundenerfassung aufsetzen; Aufwand und Honorarmodell aber immer gegen die erwartete Förderung spiegeln.
 - Über 500k Euro/Jahr: Mehrjahresstrategie, Roadmap aufsetzen (`fz-roadmap-mehrjahresantrag`).
 
 ### BSFZ-Trigger als rote Flaggen im Vorhaben
@@ -81,7 +81,7 @@ Wenn der Mandant nur folgendes liefert, ist das Vorhaben aus BSFZ-Sicht nicht f�
 | Kriterium | Status | Begründung |
 | --- | --- | --- |
 | FuE-Eigenschaft | grün/gelb/rot | konkretes technisches Problem? |
-| Personalkosten | grün/gelb/rot | über/unter 100k Euro? |
+| Personalkosten | grün/gelb/rot | wirtschaftlich genug oder schlanker Antrag? |
 | KMU | grün/gelb/rot | unter/über 250 Mitarbeiter, 50 Mio. Euro Umsatz? |
 | Kumulierung | grün/gelb/rot | andere Förderungen? AGVO-Reserve? |
 | Dokumentation | grün/gelb/rot | Stundenerfassung vorhanden? |

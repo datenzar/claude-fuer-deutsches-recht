@@ -18,7 +18,7 @@ Stand: 30.05.2026. Alle Links vor einer finalen Antragsempfehlung erneut live pr
 - Fortsetzungsanträge: nach DFG-Hinweis spätestens 6 Monate vor Verbrauch der bewilligten Mittel.
 - Begutachtung: grundsätzlich zwei unabhängige externe Gutachten. Bei Anträgen mit Gesamtsumme bis 200.000 Euro kann ausnahmsweise ein aussagekräftiges externes Gutachten genügen. Früher genannte 100.000-Euro-Werte nicht ungeprüft verwenden.
 - Große/interdisziplinäre Anträge und Koselleck-Projekte: regelmäßig mit stärkerer Begutachtungsdichte rechnen.
-- Koselleck: 500.000 bis 1,25 Mio. Euro für 5 Jahre, nur in Stufen von 250.000 Euro. Das Projekt muss besonders innovativ oder positiv risikobehaftet sein und gerade nicht gut in normale DFG-Verfahren passen.
+- Koselleck: 500.000 bis 1,25 Mio. Euro für 5 Jahre, nur in Stufen von 250.000 Euro. Das Projekt muss besonders innovativ oder positiv risikobehaftet sein und gerade nicht gut in normale DFG-Verfahren passen. Nicht als starre "zwei abgeschlossene DFG-Projekte"-Pflicht darstellen; mehrere erfolgreiche DFG-Projektzyklen sind nur ein starkes Praxisindiz für den nötigen Vertrauensvorschuss.
 
 ## Strategieanker
 
@@ -27,3 +27,4 @@ Stand: 30.05.2026. Alle Links vor einer finalen Antragsempfehlung erneut live pr
 - Koselleck erst empfehlen, wenn Profil, Vorarbeiten und Risikologik den Vertrauensvorschuss tragen. Nicht als "größere Sachbeihilfe" verkaufen.
 - Finanzplan nie als Wunschliste. Jede Position muss eine Arbeitspaket-Funktion haben.
 - Reviewer sind keine Projektmanager der Antragstellerin. Der Antrag muss Ziel, Originalität, Methode, Machbarkeit, Datenlage, Risiken und Ressourcen ohne Nachtelefonat verständlich machen.
+- Arbeitsmodus adaptiv wählen: Anfänger bekommen maximal sechs Einstiegsfragen und eine Mini-Roadmap; Profis bekommen sofort Go/No-Go, Kürzungsrisiko und Reviewer-Angriffe.
