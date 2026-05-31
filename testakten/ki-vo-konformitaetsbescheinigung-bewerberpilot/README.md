@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 36 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 83 KB) | PDF | [`gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf`](gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -45,6 +45,11 @@ Die Anbieterin hat das System als Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang
 | `08_konformitaetsbescheinigung_entwurf.md` | Interne Bescheinigung als Entwurf |
 | `09_eu_konformitaetserklaerung_anhang_v_entwurf.md` | EU-Konformitätserklärung als Entwurf |
 | `10_lueckenliste_massnahmenplan.md` | Maßnahmenplan bis Pilotfreigabe |
+| `11_eu_konformitaetserklaerung_unterzeichnungsentwurf.md` | Praezisierter Unterzeichnungsentwurf der EU-Konformitaetserklaerung mit Begleitnotiz |
+| `12_datenschutzfolgenabschaetzung.md` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO |
+| `13_bias_audit_bericht.md` | Bias-Auditbericht der FairnessLab GmbH mit Massnahmen |
+| `14_konfigurations_logfile_auszug.md` | Konfigurations- und Logfile-Auszug fuer Pilotzeitraum |
+| `15_bewerber_beschwerde.md` | Bewerber-Beschwerde COMP-2026-0411 mit Pruefung |
 
 ## Vorführziele
 

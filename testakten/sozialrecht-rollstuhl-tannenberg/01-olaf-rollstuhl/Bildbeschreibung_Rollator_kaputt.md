@@ -37,7 +37,7 @@ Relevanz für den Widerspruch:
   Handkraftmessung (7,2 kg links, Norm ~38 kg) dokumentiert es die
   Notwendigkeit eines leichteren Aktivrollstuhls.
 
-Hinweis für Plugin sozialrecht-kanzlei:
+Hinweis für Plugin fachanwalt-sozialrecht:
   Im echten Mandatsverhältnis wäre hier das JPG-Foto eingebettet.
   Diese Bildbeschreibung hält die Akte auch ohne eingebettete Bilddatei auswertbar.
   Bei Bedarf: Foto im Erstgespräch auf Smartphone anfordern und

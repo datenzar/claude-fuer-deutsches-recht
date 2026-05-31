@@ -52,7 +52,7 @@ Vorläufig EUR 5.847,00.
 
 Der Antragsteller leidet seit 1998 an schubförmig-progredienter Multipler Sklerose und benötigt mit zunehmender Krankheitsverschlechterung einen Aktivrollstuhl zur Wahrung der elementaren sozialen Teilhabe. Wegen ausgeprägter Hemiparese links (Handkraft 7,2 kg, MRC 3/5) ist er nicht in der Lage, einen Standard-Rollstuhl zu nutzen.
 
-Am 11.02.2026 wurde von der Antragsgegnerin der Antrag auf einen Aktivrollstuhl gestellt. Mit Bescheid vom 18.04.2026 wurde der Antrag abgelehnt; der hiergegen am 20.05.2026 erhobene Widerspruch wurde mit Widerspruchs-Bescheid vom 18.08.2026, zugestellt am 21.08.2026, zurückgewiesen. **Klage gegen den Widerspruchs-Bescheid wird parallel mit gleichem Datum erhoben (Az. SG Kiel S 9 KR 187/26).**
+Am 11.02.2026 hat der Antragsteller bei der Antragsgegnerin den Antrag auf Versorgung mit einem Aktivrollstuhl gestellt. Mit Bescheid vom 18.04.2026 wurde der Antrag abgelehnt; der hiergegen am 20.05.2026 erhobene Widerspruch wurde mit Widerspruchs-Bescheid vom 18.08.2026, zugestellt am 21.08.2026, zurückgewiesen. **Klage gegen den Widerspruchs-Bescheid wird parallel mit gleichem Datum erhoben (Az. SG Kiel S 9 KR 187/26).**
 
 ### 2. Anordnungsgrund — Eilbedürftigkeit
 

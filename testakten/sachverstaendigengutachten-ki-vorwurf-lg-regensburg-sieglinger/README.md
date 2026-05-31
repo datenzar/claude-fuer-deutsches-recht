@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 31 KB) | PDF | [`gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf`](gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 76 KB) | PDF | [`gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf`](gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -63,23 +63,32 @@ Die Akte ist absichtlich **fragmentarisch** aufgebaut. Manche Dokumente sind nur
 8. Quality Review durch Senior-Kollegen (20.11.2025)
 9. Schriftsatzentwurf — Anhoerung und Aktenherausgabe
 10. Nachfrage der Kammer beim Sachverstaendigen (E-Mail-Auszug vom 24.11.2025)
+11. Gerichtliche Verfuegung vom 09.12.2025 — Anhoerungstermin 22.01.2026 und Aktenherausgabe nach § 407a Abs. 5 ZPO
+12. Schriftliche Stellungnahme des SV vom 08.01.2026 — eingeraeumter Einsatz eines KI-Schreibassistenten und VDE-Norm-Korrektur
+13. Muendliche Anhoerung am 22.01.2026 — SV raeumt fehlende Messungen ein
+14. Entwurf Befangenheitsantrag (§ 406 ZPO) und Wallner-II-Privatgutachten in Vorbereitung; Frist § 406 Abs. 2 ZPO bis 05.02.2026
 
 ## Aktenverzeichnis
 
 - 00_aktenuebersicht.md — Aktenuebersicht und Verfahrenslage
 - 01_klage_schriftsatz.md — Klageschrift
-- 02_klageerwiderung_burgwald.md — Klageerwiderung (FRAGMENT)
+- 02_klageerwiderung_burgwald.md — Klageerwiderung (FRAGMENT) mit Anlagenverzeichnis B 1 bis B 7
 - 03_beweisbeschluss_15_01_2025.md — Beweisbeschluss
 - 04_gutachten_pfaffenberger_auszug.txt — Gutachtenauszuege (auffaellige Stellen)
 - 05_indizien_ki_einsatz.csv — Tabelle der Auffaelligkeiten
 - 06_mandantenbesprechung_18_11_2025.md — Aktenvermerk Besprechung
 - 07_strategieskizze_anwalt.md — Interne Strategie
 - 08_schriftsatzentwurf_anhoerungsantrag.md — Schriftsatzentwurf
-- 09_vergleich_andere_gutachten_pfaffenberger.json — Vergleichsrecherche (FRAGMENT)
+- 09_vergleich_andere_gutachten_pfaffenberger.json — Vergleichsrecherche (FRAGMENT, mit vier Vergleichsverfahren)
 - 10_protokoll_internes_quality_review.md — Senior-Review
-- 11_kostenkalkulation_privatgutachten.csv — Kostenkalkulation (FRAGMENT)
-- 12_email_sachverstaendiger_an_kammer.eml — E-Mail-Auszug
-- 13_anlagenverzeichnis.md — Anlagenverzeichnis (FRAGMENT)
+- 11_kostenkalkulation_privatgutachten.csv — Kostenkalkulation Wallner II
+- 12_email_sachverstaendiger_an_kammer.eml — E-Mail-Auszug mit Folge-Anmerkung Kanzlei
+- 13_anlagenverzeichnis.md — Anlagenverzeichnis (FRAGMENT) erweitert um Klaeger-Anlagen K 10 bis K 13 und Verfahrensakte G 1 bis G 7
+- 14_gerichtsverfuegung_anhoerung_und_aktenherausgabe.md — Verfuegung der Kammer vom 09.12.2025
+- 15_stellungnahme_sv_pfaffenberger_aktenherausgabe.md — Schriftliche Stellungnahme des SV mit eingeraeumtem KI-Einsatz
+- 16_befangenheitsantrag_entwurf.md — Entwurf Befangenheitsantrag nach Anhoerung 22.01.2026
+- 17_gegen_gutachten_wallner_notiz.md — Inhaltliche Skizze des Wallner-II-Privatgutachtens
+- 18_mandanten_email_sieglinger_nach_anhoerung.md — Mandanten-E-Mail mit Folgekosten- und Strategiefragen
 
 ## Disclaimer
 

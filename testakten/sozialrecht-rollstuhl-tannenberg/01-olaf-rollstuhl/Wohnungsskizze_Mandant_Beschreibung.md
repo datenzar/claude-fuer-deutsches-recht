@@ -51,6 +51,6 @@ Relevanz für den Widerspruch:
   Sie zeigt jedoch NICHT, dass der Standard-Rollstuhl selbstständig angetrieben werden kann –
   das ist eine Frage der Handkraft, nicht der Türbreite.
 
-Hinweis für Plugin sozialrecht-kanzlei:
+Hinweis für Plugin fachanwalt-sozialrecht:
   Im echten Mandatsverhältnis würde hier ein Foto oder Scan der handgezeichneten Skizze
   eingescannt und als PNG/JPG beigefügt. Diese Beschreibung hält die Akte auch ohne eingebettete Bilddatei auswertbar.

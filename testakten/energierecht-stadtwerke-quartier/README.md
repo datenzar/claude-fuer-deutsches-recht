@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 227 KB) | PDF | [`gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf`](gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 226 KB) | PDF | [`gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf`](gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

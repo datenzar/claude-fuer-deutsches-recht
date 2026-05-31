@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf`](gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 129 KB) | PDF | [`gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf`](gesamt-pdf/lobbyregister-public-affairs-agentur-wasserstoff_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-public-affairs-agentur-wasserstoff.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -61,6 +61,11 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 | [24_api_monitoringplan_h2.md](24_api_monitoringplan_h2.md) | API-Monitoringplan fuer Auftraggeber, Unterauftrag und Wasserstoffvorhaben |
 | [25_api_mock_search_hansah2_spreebogen.json](25_api_mock_search_hansah2_spreebogen.json) | API-Suchergebnisliste HansaH2/Spreebogen |
 | [26_registerexport_diff_quartalsupload.md](26_registerexport_diff_quartalsupload.md) | Diff nach Q2-Upload und Korrektur Auftraggebertext |
+| [27_kunde_vertrags_auszug_nordsee.md](27_kunde_vertrags_auszug_nordsee.md) | Auszug aus dem Mandatsvertrag mit dem Nordsee Elektrolyse Konsortium GbR inkl. Konsortialbeschluss |
+| [28_kontakte_crm_auszug.csv](28_kontakte_crm_auszug.csv) | CRM-Auszug mit Bewertung Kontaktwert, H2-Affinitaet und Mandatsbezug |
+| [29_termin_briefing_bmwk_30_05.md](29_termin_briefing_bmwk_30_05.md) | Termin-Briefing fuer Staatssekretariatsgespraech im BMWK |
+| [30_honorarrechnung_mit_aufwand.md](30_honorarrechnung_mit_aufwand.md) | Honorarrechnung Mai 2026 HansaH2 mit Aufwandsstunden |
+| [31_compliance_memo_doppelmandat.md](31_compliance_memo_doppelmandat.md) | Compliance-Memo zum Doppelmandat im selben Regelungsvorhaben |
 
 ## Prüffokus
 

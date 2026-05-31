@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 20 KB) | PDF | [`gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf`](gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 105 KB) | PDF | [`gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf`](gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -25,13 +25,18 @@ Die Rosenwinkel Hausverwaltung GmbH verwaltet ein denkmalgeschütztes Wohn- und 
 
 | Datei | Inhalt |
 |---|---|
-| `01-mandantenmail-hausverwaltung.md` | Erstkontakt, Sorgen der Hausverwaltung, Zahlungsdruck |
-| `02-bescheidkette-abschrift.md` | Auszüge aus Grundsteuerwert-, Mess- und Gemeindebescheid |
-| `03-flaechen-und-nutzungsaufstellung.csv` | Flächenvergleich Erklärung / Bescheid / Verwaltung |
-| `04-objektvermerk-denkmalschutz-leerstand.md` | Tatsächliche Besonderheiten des Objekts |
-| `05-kurznotiz-gemeiner-wert.md` | Belegstrategie zum niedrigeren gemeinen Wert |
-| `06-einspruch-adV-entwurf.md` | Entwurf Einspruch und AdV-Antrag |
-| `07-zahlungsplan-gemeinde.md` | Fälligkeiten, Liquidität und Gemeindekommunikation |
+| `01-mandantenmail-hausverwaltung.md` | Erstkontakt, Sorgen der Hausverwaltung, Zahlungsdruck, Verfassungswidrigkeits-Frage |
+| `02-bescheidkette-abschrift.md` | Auszüge aus Grundsteuerwert-, Mess- und Gemeindebescheid mit verfahrensrechtlichem Knackpunkt |
+| `03-flaechen-und-nutzungsaufstellung.csv` | Flächenvergleich Erklärung / Bescheid / Verwaltung mit Belegen und Differenzen |
+| `04-objektvermerk-denkmalschutz-leerstand.md` | Objektrealität, Eigentümerstruktur, Mietsituation, Denkmalschutz |
+| `05-kurznotiz-gemeiner-wert.md` | Belegstrategie zum niedrigeren gemeinen Wert, Belegtreppe, rechnerische Plausibilisierung |
+| `06-einspruch-adV-entwurf.md` | Entwurf Änderungsantrag / Einspruch / AdV mit Anlagenliste und 4-Augen-Hinweisen |
+| `07-zahlungsplan-gemeinde.md` | Fälligkeiten, Stundungsantrag, Bürgschaft, Mailmuster, Gemeindekommunikation |
+| `08-einspruch-grundsteuer-A-stadt.md` | Separater Einspruch gegen die fehlerhafte Grundsteuer-A-Festsetzung im Bescheidanhang |
+| `09-eigentuemerbrief-eigentuemerversammlung.md` | Eigentümerbrief, Tagesordnung, Beschlussvorlagen, eigentümerspezifische Hinweise |
+| `10-lageplan-notiz.md` | Lagebewertung, BGF/Wohnfläche-Aufmaß, Bodenrichtwert-Argumentation für Schriftsatz |
+| `11-erinnerung-mahnung-tabelle.csv` | Chronologie aller Bescheide, Fristen, Mahnstufen, Säumniszuschläge |
+| `12-bescheide-konvolut-grundsteuer-a-vs-b.md` | Detailprüfung Grundsteuer A vs. B, nachträglich aufgetauchter Bescheid 2025, Kataster-Auszug |
 
 ## Besonders passende Skills
 

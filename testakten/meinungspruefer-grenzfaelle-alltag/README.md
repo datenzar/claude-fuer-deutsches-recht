@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 29 KB) | PDF | [`gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf`](gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 87 KB) | PDF | [`gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf`](gesamt-pdf/meinungspruefer-grenzfaelle-alltag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-meinungspruefer-grenzfaelle-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-meinungspruefer-grenzfaelle-alltag.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -36,18 +36,23 @@ Die Akte verlangt nacheinander Wortlautsicherung, Kontextklärung, Trennung von 
 | Datei | Inhalt |
 |---|---|
 | `01_mandantenmail_erstkontakt.md` | Erstmail der Mandantin mit durcheinandergeworfenen Fällen |
-| `02_x_post_bauprojekt_stadtgruen.md` | X-Thread zum kommunalen Bauprojekt |
-| `03_linkedin_pinocchio_projektleitung.md` | LinkedIn-Kommentar über Projektleitung und Lieferzusagen |
-| `04_kantine_gespraechsnotiz_betrieb.md` | Gesprächsnotiz zu Kantinenäußerung im Unternehmen |
-| `05_elternchat_schule_auszug.md` | Elternchat mit Schulleitungs- und Lehrkraftkritik |
-| `06_buergermeister_lackaffe_buergerversammlung.md` | Protokollnotiz Bürgerveranstaltung und lokaler Blog |
-| `07_belegmappe_tatsachenkern.md` | Belege, Gegenbelege und offene Lücken |
-| `08_abmahnung_und_aufforderung.md` | Abmahnung, Löschungsverlangen und strafrechtliche Drohung |
-| `09_polizeiliche_anhoerung_notiz.md` | Notiz zur Anhörung wegen Beleidigung |
-| `10_pruefauftrag_kanzlei.md` | Arbeitsauftrag an das Plugin |
-| `11_reaktionsentwurf_roh.md` | Rohentwurf einer zu scharfen Antwort |
-| `12_zeitachse_aeusserungen.csv` | Chronologie der Äußerungen und Reaktionen |
+| `02_x_post_bauprojekt_stadtgruen.md` | X-Thread zum kommunalen Bauprojekt mit Repost-Welle und Whistleblower-DM |
+| `03_linkedin_pinocchio_projektleitung.md` | LinkedIn-Kommentar über Projektleitung und Lieferzusagen, mit Folge-DMs |
+| `04_kantine_gespraechsnotiz_betrieb.md` | Gesprächsnotiz zu Kantinenäußerung im Unternehmen, mit HR-Korrespondenz |
+| `05_elternchat_schule_auszug.md` | Elternchat mit Schulleitungs- und Lehrkraftkritik, Hausverbots-Andeutung |
+| `06_buergermeister_lackaffe_buergerversammlung.md` | Protokollnotiz Bürgerveranstaltung, Lokal-TV und Augenzeugen |
+| `07_belegmappe_tatsachenkern.md` | Belege, Gegenbelege, Whistleblower-Hinweis und offene Lücken |
+| `08_abmahnung_und_aufforderung.md` | Abmahnung, vorformulierte Unterlassungserklärung, Strafanzeige-Vorbehalt |
+| `09_polizeiliche_anhoerung_notiz.md` | Notiz zur Anhörung wegen Beleidigung, Stellungnahmeentwurf |
+| `10_pruefauftrag_kanzlei.md` | Arbeitsauftrag an das Plugin mit erweitertem Fragenkatalog |
+| `11_reaktionsentwurf_roh.md` | Rohentwurf einer zu scharfen Antwort mit Kanzleinotiz |
+| `12_zeitachse_aeusserungen.csv` | Chronologie der Äußerungen mit Charakter-Tags und Risikoeinstufung |
 | `13_rechtsvergleich_usa_notiz.md` | Interne Nachfrage zum USA-Vergleich und zu First-Amendment-Risiken |
+| `14_social_media_zweitwelle_reaktionen.md` | Repost-Welle, LinkedIn-Reaktionen und Lokalpresse-Echo |
+| `15_anwaltsmahnung_novawerk_rupprecht.md` | Anwaltsschreiben Hagen, Pries & Limmert für Frau Rupprecht |
+| `16_polizei_anzeige_konvolut.md` | Strafanzeige, polizeilicher Vermerk, StA-Telefonat, Verletztenvertretung |
+| `17_whistleblower_statement_okb_insider.md` | Whistleblower-Statement, Quellenschutzfragen und HinSchG-Implikationen |
+| `18_gegendarstellung_und_klarstellung_entwurf.md` | Entwürfe für Klarstellungen, modifizierte Unterlassungserklärungen und Folge-Kommentare |
 
 ## Vorführpfad
 

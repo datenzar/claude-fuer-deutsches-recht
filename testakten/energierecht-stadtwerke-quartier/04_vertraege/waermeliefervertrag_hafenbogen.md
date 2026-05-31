@@ -336,7 +336,7 @@ Vertrags-Eckpunkte:
 
 Bei Prüfung dieses Vertrags-Musters für die Stadtwerke Klotzkette AG wurden folgende kritische Punkte identifiziert:
 
-1. **Preisanpassungs-Klausel § 3 Abs. 3**: Formel ist transparent (50 % EX, 50 % CPI) und entspricht den Anforderungen der **BGH-Linie VIII ZR 263/22** (Urteil vom 06.03.2024) zur Wirksamkeit AVBFernwärmeV-Preisanpassungs-Klauseln. Insbesondere ist
+1. **Preisanpassungs-Klausel § 3 Abs. 3**: Formel ist transparent (50 % EX, 50 % CPI) und entspricht den Anforderungen der **BGH-Linie VIII ZR 263/22** (Urteil vom 27.09.2023) zur Wirksamkeit AVBFernwärmeV-Preisanpassungs-Klauseln. Insbesondere ist
    - Bezugnahme auf nachvollziehbare statistische Indizes ✓
    - Cost-Reflektion gegeben ✓
    - Transparenzmitteilung 6 Wochen vor Wirksamkeit ✓

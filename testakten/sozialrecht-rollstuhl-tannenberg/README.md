@@ -106,7 +106,7 @@ Details: `Fallkonferenz_Tannenberg_Workflow.md`.
 ## Empfohlener Einstieg
 
 1. `Fallkonferenz_Tannenberg_Workflow.md` lesen, um den Aufbau zu verstehen
-2. Im Plugin `sozialrecht-kanzlei` mit Skill `sozialrecht-fallaufnahme-routing` starten
+2. Im Plugin `fachanwalt-sozialrecht` mit Skill `sozialrecht-fallaufnahme-routing` starten
 3. Bei jedem Fall den Bescheid lesen, dann das Gutachten, dann den Widerspruchsentwurf
 4. Fristen-XLSX dazulegen, um die Termin-Logik zu verstehen
 5. Den Mandantenbrief von Lena lesen und überlegen, wie er für Bodo aussehen würde

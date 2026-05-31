@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 26 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 98 KB) | PDF | [`gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf`](gesamt-pdf/lobbyregister-buergerinitiative-waldmoor_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-buergerinitiative-waldmoor.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-buergerinitiative-waldmoor.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -58,6 +58,11 @@ Die Bürgerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [21_api_monitoring_notiz_waldmoor.md](21_api_monitoring_notiz_waldmoor.md) | API-Monitoringnotiz vor und nach freiwilliger Registrierung |
 | [22_api_mock_search_waldmoor_pre_registration.json](22_api_mock_search_waldmoor_pre_registration.json) | API-Suche ohne Treffer vor Registrierung |
 | [23_registerexport_diff_freiwillig.md](23_registerexport_diff_freiwillig.md) | Geplanter Registerexport-Diff fuer freiwillige Registrierung |
+| [24_mandantennotiz_erstberatung.md](24_mandantennotiz_erstberatung.md) | Mandantennotiz der Erstberatung mit Hinweisen, Honorarvereinbarung und Aufgabenverteilung |
+| [25_spendenkonflikt_protokoll_personenliste.md](25_spendenkonflikt_protokoll_personenliste.md) | Detailliertes Spendenkonflikt-Protokoll mit Personenliste, Zeitlauf und Plenum-vs-Kernteam-Frage |
+| [26_vorstandssitzung_mitschrift_24_05_2026.md](26_vorstandssitzung_mitschrift_24_05_2026.md) | Mitschrift der Sondersitzung Kernteam vom 24.05.2026 mit Beschluesssen |
+| [27_schriftverkehr_bundestagsverwaltung.md](27_schriftverkehr_bundestagsverwaltung.md) | Anwaeltliche Anfrage an die Lobbyregisterstelle und Antwortschreiben |
+| [28_pressetext_eigenes_statement.md](28_pressetext_eigenes_statement.md) | Pressetext der Initiative zur Eintragung und Finanzierung |
 
 ## Prüffokus
 

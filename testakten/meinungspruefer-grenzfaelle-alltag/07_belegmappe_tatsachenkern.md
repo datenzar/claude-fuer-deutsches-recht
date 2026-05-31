@@ -60,4 +60,33 @@
 
 - Elternbrief vom 10.05.2026: Mathearbeit enthält "Transferaufgaben".
 - Heft des Kindes: ähnliche Aufgaben nur einmal kurz im Unterricht.
+- Klassenarbeit (Original, gescannt): Aufgabe 4 mit Bruchrechnung mit Variablen, dazu keine Übungsblätter erkennbar.
+- Notenstatistik: Durchschnitt 4,3 (Auskunft Klassenlehrerin), zur Vergleichbarkeit fehlen Daten aus Parallelklasse 7a.
 - Keine Belege für Absicht der Lehrkraft.
+
+## G. Whistleblower-Hinweis (X-Direktnachricht)
+
+- DM vom 07.05.2026, 09:11 Uhr, Profil "@OkbInsider" (Profil seit 11/2025, 4 Follower, keine eigenen öffentlichen Posts):
+  > "Die Risikoeinstufung in der Vorlage stammt nicht von der Bauverwaltung, sondern wurde nach einer politischen Vorbesprechung 'geglättet'. Bitte zitieren Sie mich nicht."
+- Aus Sicht der Mandantin glaubwürdig (verwendet Insider-Begriff "geglättet", den nur Bauverwaltung verwendet).
+- Aus anwaltlicher Sicht: nicht zur Verwendung im Schriftsatz tauglich; Quellenschutz und Identifizierungsrisiko.
+
+## H. Korrespondenz HanseLicht
+
+- Teams-Nachricht HR (Frau Brösel) an Clara Herbst vom 13.05.2026, 16:45 Uhr: Aufforderung zum HR-Gespräch am 14.05.2026, 10:30 Uhr.
+- Antwort Mandantin 17:02 Uhr: Bitte um Themenbestätigung, Hinweis Betriebsratsinformation.
+- Antwort Brösel 17:14 Uhr: "Termin bleibt. Betriebsrat ist nicht erforderlich."
+- Anlage Excel-Vergleich: zwei Versionen mit Differenz in Sammelposition.
+
+## I. Polizeischreiben Oberkrainbach
+
+- Aktenzeichen "506 Js OWK 1187/26" — Form auffällig: "OWK" ungewöhnlich, möglicherweise Wahrscheinlichkeit für interne Vorgangsnummer der PI; im Schriftsatzentwurf gegenüber StA als "Js"-Nummer und mit Hinweis auf den richtigen Aktenzeichenstandard formulieren.
+- Anhörungsfrist 31.05.2026.
+
+## J. Lücken / offene Punkte
+
+- Kein vollständiger Bodenbericht in der Belegmappe — nur die zitierten Seiten 27 und 41.
+- Keine durchsuchbare Version der Ratsvorlage 42/2025 (nur PDF mit Bildebene).
+- Keine Tonaufnahme der Bürgerversammlung — auf OK1-Mitschnitt warten (Anfrage gestellt 17.05.2026).
+- Keine schriftliche Vermerkung der Telefon-Aussage "ganz sicher im April" eines NovaWerk-Mitarbeiters.
+- Identität "@KopfFrei_72" (Korruptionsvorwurf in Claras Thread) ungeklärt — abgrenzungsrelevant.
