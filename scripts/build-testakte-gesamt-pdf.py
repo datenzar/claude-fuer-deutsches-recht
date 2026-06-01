@@ -1026,16 +1026,50 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
                 y -= 0.45 * cm
         # Eingangsstempel-Box, falls eingehend
         if typ == "original_eingehend" and meta.get("eingangsstempel"):
+            # Wort-genaues Wrapping per stringWidth statt Index-Slicing
+            stamp_text = meta["eingangsstempel"]
+            font_name = FONT_REG
+            font_size = 8
+            max_width = 5.6 * cm  # Box 6 cm minus 2x 0.2 cm Padding
+            words = stamp_text.split()
+            lines: list = []
+            cur = ""
+            for w in words:
+                candidate = (cur + " " + w).strip()
+                if pdfmetrics.stringWidth(candidate, font_name, font_size) <= max_width:
+                    cur = candidate
+                else:
+                    if cur:
+                        lines.append(cur)
+                    # Wort selbst zu lang? Hartes Bruchstueck als Fallback
+                    if pdfmetrics.stringWidth(w, font_name, font_size) > max_width:
+                        chunk = ""
+                        for ch in w:
+                            if pdfmetrics.stringWidth(chunk + ch, font_name, font_size) <= max_width:
+                                chunk += ch
+                            else:
+                                lines.append(chunk)
+                                chunk = ch
+                        cur = chunk
+                    else:
+                        cur = w
+            if cur:
+                lines.append(cur)
+            # Box-Hoehe dynamisch: 1 Header-Zeile (0.55 cm) + n Stempel-Zeilen (0.4 cm)
+            line_h = 0.4 * cm
+            box_h = 0.7 * cm + len(lines) * line_h + 0.2 * cm
+            box_y = 21.3 * cm - box_h  # Oberkante bei 21.3 cm fix
             c.setStrokeColor(HexColor("#8A1C1C"))
             c.setLineWidth(1.0)
-            c.rect(13 * cm, 19.5 * cm, 6 * cm, 1.8 * cm, fill=0, stroke=1)
+            c.rect(13 * cm, box_y, 6 * cm, box_h, fill=0, stroke=1)
             c.setFillColor(HexColor("#8A1C1C"))
             c.setFont(FONT_BOLD, 9)
-            c.drawString(13.2 * cm, 20.85 * cm, "EINGEGANGEN")
-            c.setFont(FONT_REG, 8)
-            c.drawString(13.2 * cm, 20.3 * cm, meta["eingangsstempel"][:38])
-            if len(meta["eingangsstempel"]) > 38:
-                c.drawString(13.2 * cm, 19.8 * cm, meta["eingangsstempel"][38:75])
+            c.drawString(13.2 * cm, box_y + box_h - 0.55 * cm, "EINGEGANGEN")
+            c.setFont(font_name, font_size)
+            ty = box_y + box_h - 0.55 * cm - 0.5 * cm
+            for ln in lines:
+                c.drawString(13.2 * cm, ty, ln)
+                ty -= line_h
 
     c.setStrokeColor(BORDER)
     c.setLineWidth(0.3)
