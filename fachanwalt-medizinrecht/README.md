@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -83,10 +83,14 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid` | Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-... |
 | `fachanwalt-medizinrecht-orientierung` | Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufs... |
 | `mandat-triage-medizinrecht` | Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbatio... |
+| `medr-arzthaftung-checkliste` | Checkliste Arzthaftung: Behandlungsfehler, grober Behandlungsfehler, Beweislastumkehr § 630h BGB, Befunderhebungsfehler, voll beherrschbares Risiko. Pruefraster Arzt und Patientenanwalt. |
+| `medr-aufklaerung-einwilligung-leitfaden` | Leitfaden Aufklaerung und Einwilligung §§ 630d, 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster fuer Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen. |
 | `medr-aufklaerung-und-einwilligung-praxis` | Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme. Pruefraster fuer Klage des Patienten wegen Aufklaerungsmangel. Mustertexte fuer Dokumenta... |
 | `medr-einfuehrung-themen` | Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen. Entscheidungstabelle und Verweis auf Detail-Skills. |
 | `medr-grundpfeiler-igel-und-aerztewerbung-spezial` | Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht. |
+| `medr-igel-leistung-spezial` | Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung. Pruefraster fuer KV-Pruefverfahren und Patientenklage. |
 | `medr-mvz-strukturierung-spezial` | Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft. Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsausschuss. Steuerliche Implikationen. Pruefraster. |
+| `medr-mvz-strukturwandel-spezial` | Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot. Pruefraster Antrag bei KV und Zulassungsausschuss. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertra... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§... |
 

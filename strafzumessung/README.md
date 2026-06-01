@@ -130,7 +130,7 @@ Apache-2.0 OR MIT (siehe Plugin-Root).
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 29 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -155,6 +155,10 @@ Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschrei
 | `strafbefehl-strafzumessung-407-stpo` | Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schae... |
 | `strafmilderung-49-stgb-zwingend-fakultativ` | Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfael... |
 | `strafrahmen-und-strafzumessungsstufen` | Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 A... |
+| `strafz-aufklaerungshilfe-kronzeuge-spezial` | Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB: Voraussetzungen, BGH-Rechtsprechung, Verteidigung. Pruefraster fuer Verteidiger und Staatsanwalt. |
+| `strafz-sicherungsverwahrung-spezial` | Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Pruefraster fuer Verteidiger. |
+| `strafz-strafrahmenmilderung-leitfaden` | Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster fuer Verteidiger. |
+| `strafz-strafzumessungstatsachen-bauleiter` | Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster fuer Plaedoyer und Urteil. |
 | `strafzumessungs-tatsachen-46-ii-stgb` | Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirt... |
 | `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung` | Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2... |
 | `tagessatzhoehe-40-ii-stgb-nettotagesverdienst` | Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studieren... |

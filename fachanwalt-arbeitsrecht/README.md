@@ -84,13 +84,17 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Arbeitsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeits... |
+| `ar-abfindungs-rechner-modular` | Abfindungsrechner modular: Faustformel 0.5 Monatsgehaelter pro Beschaeftigungsjahr, BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG, steuerliche Fuenftelregelung. Beispielrechnung und Mustertext fuer Aufhebungsvertrag. |
 | `ar-aufhebungsvertrag-praxis` | Aufhebungsvertrag in der Praxis: Sperrzeit beim ALG I, steuerliche Behandlung (Fuenftelregelung § 34 EStG), Verzicht auf Kuendigungsschutzklage, Klauselrisiken. Pruefraster fuer Verhandlung und Mandantenleitfaden. |
+| `ar-betriebsuebergang-spezial` | Spezialfall Betriebsuebergang § 613a BGB im M-and-A-Kontext: Asset-Deal gegen Share-Deal, Identitaet wahrender Uebergang, Unterrichtungsschreiben Inhalt, Widerspruchsrecht 1 Monat. Pruefraster und Mustertext. |
 | `ar-einfuehrung-mandantenanliegen` | Arbeitsrecht einfuehrend: typische Mandantenanliegen Kuendigung, Abfindung, Zeugnis, Befristung, Massregelungsverbot, Diskriminierung, Lohn, Urlaub, BR-Mitbestimmung. Routing in Detail-Skills. Erstgespraechs-Checkliste. |
+| `ar-konkurrenzklausel-spezial` | Spezialfall nachvertragliches Wettbewerbsverbot §§ 74 ff. HGB: Schriftform, Karenzentschaedigung mindestens 50 Prozent letzte Bezuege, Dauer max. 2 Jahre, Nichtigkeit bei Mangel, Verzicht des Arbeitgebers. Pruefraster und Mustertexte. |
+| `ar-kuendigungspruefung-workflow` | Workflow fuer Kuendigungspruefung in 4 Schritten: Formelles (Schriftform § 623 BGB, Vollmacht, Zugang), Frist (3-Wochen-Frist § 4 KSchG), Gruende (verhaltensbedingt, personenbedingt, betriebsbedingt), Sozialauswahl. Pruefliste mit Befund. |
 | `ar-leiharbeit-equal-pay-spezial` | Spezialfall Leiharbeit Equal Pay: § 8 AUEG, Tarif-Abweichung bis 9 Monate, danach gleiches Entgelt. EuGH-Linie und BAG-Rechtsprechung zu Tarif-Verhaeltnis. Pruefraster und Schriftsatzbausteine. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Individual- und kollektives Arbeitsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit` | Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 S... |

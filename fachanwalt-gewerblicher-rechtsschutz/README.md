@@ -72,7 +72,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -89,7 +89,11 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaf... |
 | `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich V... |
 | `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art... |
+| `gr-abmahnung-workflow` | Workflow Abmahnung im gewerblichen Rechtsschutz: Formelles (Berechtigung, Vollmacht), Inhalt (konkrete Verletzungsform, Anspruch, Frist), Unterlassungserklaerung modifiziert annehmen. Pruefraster und Mustertexte. |
 | `gr-einfuehrung-saeulen` | Einfuehrung Saeulen gewerblicher Rechtsschutz: Markenrecht, Wettbewerbsrecht UWG, Designrecht, Patent- und Gebrauchsmusterrecht, Sortenschutz, Urheberrecht-Schnittstellen. Pro Saeule: Schutzgegenstand, Erwerb, Verteidigung, Wirkungsberei... |
+| `gr-mitbewerberabmahnung-aktivlegitimation-spezial` | Spezialfall Aktivlegitimation Mitbewerber-Abmahnung nach UWG: konkretes Wettbewerbsverhaeltnis, Substituierbarkeit, BGH-Linie zu Online-Plattformen. Pruefraster fuer Abmahner und Abgemahnten. |
+| `gr-portfolio-pflege-workflow` | Workflow IP-Portfolio-Pflege fuer Mandanten: jaehrlicher Bestandscheck, Verlaengerungsfristen, Loeschungspflicht ungebrauchter Marken, Defensivanmeldungen, internationaler Schutz. Mustertext fuer Jahresbericht. |
+| `gr-uebersetzung-marke-osterreich-schweiz-spezial` | Spezialfall identische Marke in DACH-Raum: nationale Marken in DE / AT / CH oder Unionsmarke plus Schweiz, Madrider Markenabkommen. Pruefraster fuer Konfliktloesung und Koexistenzvereinbarung. |
 | `influencer-marketing-uwg-spezial` | Influencer-Marketing UWG-Spezial: Trennungsgebot Werbung und redaktioneller Inhalt, Kennzeichnungspflicht (Werbung, Anzeige), BGH-Cathy-Hummels-Linie 2021, kein Influencer-Privileg fuer eigene Produkte. Pruefraster und Abwehrlinie gegen... |
 | `ki-trainingsdaten-und-urheberrecht-spezial` | Spezialfall KI-Trainingsdaten und Urheberrecht: § 44b UrhG Text- and Data-Mining-Schranke, Vorbehalt durch Rechteinhaber maschinenlesbar, EU-KI-VO Art. 53 Trainingsdaten-Zusammenfassung, GEMA und Wort-Forderungen gegen LLM-Anbieter. Prue... |
 | `schriftsatzkern-substantiierung` | Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder... |

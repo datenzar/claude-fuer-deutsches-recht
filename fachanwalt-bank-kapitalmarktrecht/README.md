@@ -65,16 +65,20 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Bank Kapitalmarktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klar... |
 | `anlageberatungsfehler-pruefen` | Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
+| `bk-bafin-beschwerdeverfahren-workflow` | BaFin-Beschwerdeverfahren Workflow: Schritte einfache Beschwerde, Anhoerung, Beanstandung, Massnahme. Inhalt und Beweismittel. Mustertext fuer Mandanten und Anwalt. Schnittstelle zu Klage und Schiedsverfahren. |
 | `bk-bankenfehlberatung-grundzuege` | Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster fuer Mandant. |
+| `bk-cum-ex-mandant-strafrecht-spezial` | Spezialfall Cum-Ex und Cum-Cum Mandate: Steuerstrafrecht § 370 AO, Verjaehrung, Selbstanzeige, Anrechnung KapErtSt. Verhaeltnis zu Schadensersatz und Rueckforderung. Aktuelle BGH-Linie 1 StR 519 / 20 ff. Pruefraster fuer Mandant. |
 | `bk-einfuehrung-aufsichtsstruktur` | Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behoerde ist wofuer zustaendig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte fuer das Erstgespraech. |
 | `bk-emissionsprospekt-haftung-spezial` | Spezialfall Emissionsprospekthaftung: WpPG, ProspektG, Verantwortliche, Gewaehrleistungserklaerung, fehlerhafte Angaben, Schaden, Kausalitaet. Klagewege, Kapitalanleger-Musterverfahrensgesetz KapMuG, Insolvenz des Emittenten. Pruefraster. |
+| `bk-mandantenrouting-anlegeranspruch` | Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto. Pro Produktart typische Anspruchsgrundlage, Verjaehrung, Beweislast. Entscheidungstabelle. |
 | `bk-mifid-suitability-spezial` | Spezialfall MiFID II Geeignetheits- und Angemessenheitspruefung: Anlegerprofil, Ziele, Risikobereitschaft, Verlusttragfaehigkeit. Pflichten bei Robo-Advisor, ESG-Praeferenzen seit August 2022. Dokumentation, Reklamation, Aufsichtsanfrage. |
+| `bk-prip-kid-fehlerhaft-spezial` | Spezialfall PRIIPs-KID fehlerhaft: PRIIPs-VO, Inhalt Basisinformationsblatt, Haftung Hersteller und Vertrieb bei irrefuehrenden Angaben, Pruefung Kosten- und Risikoangabe. Pruefraster und Klagestrategie. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Bank-, Kapitalmarkt- und Wertpapierrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Si... |

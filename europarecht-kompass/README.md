@@ -115,12 +115,16 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Europarecht Kompass-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan... |
 | `er-kompass-spezial-vorlageverfahren` | Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Pruefraster und Mustertext fuer Vorlagebeschluss. |
+| `eur-anrufung-eu-petitionsausschuss` | Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen. |
+| `eur-kommissionsverfahren-art-258-spezial` | Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster fuer Beschwerdefuehrer und Mitgliedstaat. Mustertexte. |
+| `eur-mandant-uebersicht-zustaendigkeiten` | Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen. |
+| `eur-state-aid-notifikation-spezial` | Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster fuer Foerderung und Industrieprojekt. Mustertext fuer Pre-N... |
 | `europarecht-beihilfen-vergaben` | Beihilfenrecht und Vergaberecht prüfen wenn staatliche Foerderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Vero... |
 | `europarecht-delegierte-durchfuehrungsakte` | Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output:... |
 | `europarecht-deutscher-denkfehler-scanner` | Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlini... |

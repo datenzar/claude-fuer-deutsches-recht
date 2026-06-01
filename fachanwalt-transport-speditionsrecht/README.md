@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,6 +84,10 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `mandat-triage-transport-speditionsrecht` | Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Prüfraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport... |
 | `reklamationsschreiben-cmr-hgb` | Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB... |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern... |
+| `trans-cmr-frachtbrief-checkliste` | Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger. |
+| `trans-hgb-spedition-leitfaden` | Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber. |
+| `trans-kabotage-marktzugang-spezial` | Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht. Pruefraster Frachtfuehrer aus Drittstaat. |
+| `trans-multimodaler-transport-spezial` | Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading. Pruefraster Schadensregulierung. |
 | `transr-cmr-grenzueberschreitend-spezial` | Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden. Pruefraster. |
 | `transr-einfuehrung-rechtsquellen` | Transport- und Speditionsrecht einfuehrend: HGB §§ 407 ff. (Fracht), §§ 453 ff. (Spedition), §§ 467 ff. (Lager), CMR (Strasse international), CIM (Schiene), MUe (Luft), Rotterdam Rules. Entscheidungstabelle. |
 | `transr-haftungssystem-grundzuege` | Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff. HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Pruefraster Schadensermittlung und Anspruchsberechnung. |

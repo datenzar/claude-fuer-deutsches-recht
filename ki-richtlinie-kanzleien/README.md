@@ -126,7 +126,7 @@ Transfer (USA) und der § 43e-BRAO-Vertragsdokumentation.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -148,6 +148,10 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `ki-kompetenz-erwerb-plan` | KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompe... |
 | `ki-vo-betreiber-pflichten` | KI-VO Betreiber-Pflichten für Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO... |
 | `ki-vo-hochrisiko-personalwesen` | KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bew... |
+| `kirk-fortbildung-pflicht-spezial` | Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster fuer Kanzleimanagement. |
+| `kirk-ki-richtlinie-bauleiter` | Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT. |
+| `kirk-mandantenkommunikation-leitfaden` | Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Pruefraster fuer Mandatsverhaeltnis. |
+| `kirk-prompts-templates-versionierung-spezial` | Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster fuer Knowledge-Management. |
 | `literatur-und-quellen` | Pflicht-Literatur und Aktualisierungsliste für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will Richtlinie auf dem neuesten Stand halten und benoetigt strukturierte Quellenübersicht. BRAK-Hinweise, DAV-Stellungnahmen, EU-... |
 | `musterklauseln-it-vertrag` | Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenhe... |
 | `prompting-leitfaden` | Prompting-Leitfaden für juristische KI-Nutzung in Kanzleien: Anwendungsfall Anwalt oder Mitarbeitende wollen KI effektiver nutzen und benoetigen praxiserprobte Prompt-Methoden. Mandantenkommunikation mit KI, Anwaltsgeheimnis beim Prompte... |

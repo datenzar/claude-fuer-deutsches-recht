@@ -65,13 +65,17 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Erbrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan... |
 | `erb-einfuehrung-erbfolge-system` | Erbfolge-System einfuehrend: gesetzliche Erbfolge §§ 1924 ff. BGB, Verwandtenerbrecht in Ordnungen, Ehegattenerbrecht § 1931 BGB mit Zugewinngemeinschaft § 1371 BGB, Pflichtteil §§ 2303 ff. BGB. Beispielsfall mit Stammbaum und Quoten. |
+| `erb-erbschaftsteuer-progressionsoptimierung-spezial` | Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG. Pruefraster fuer Steuer- und Erbrechtspraxis. |
+| `erb-erstgespraech-checkliste` | Erstgespraechs-Checkliste Erbrecht: Familienverhaeltnisse, vorhandene Testamente, Nachlassbestand, Schulden, internationaler Bezug, Pflichtteilsberechtigte, Streitlage. Mustervorlage und Erfordernisse fuer Folgekorrespondenz. |
 | `erb-internationales-erbrecht-spezial` | Spezialfall internationales Erbrecht: EuErbVO 650/2012, gewoehnlicher Aufenthalt als Anknuepfungspunkt, Rechtswahl, Europaeisches Nachlasszeugnis ENZ. Spezialfaelle Schweiz / USA / Tuerkei. Pruefraster und Verfahrensweg. |
+| `erb-nachlassinventar-erstellung` | Nachlassinventar erstellen: Aktiva (Konten, Immobilien, Beteiligungen, Hausrat), Passiva (Schulden, Pflichtteile, Vermaechtnisse), Stichtagsbewertung, Sicherung des Nachlasses. Excel-Vorlage und Pruefliste fuer Erbengemeinschaft. |
+| `erb-pflichtteilsanspruch-berechnung-spezial` | Spezialfall Pflichtteilsberechnung detailliert: § 2303 BGB, Hoehe Pflichtteil = halbe gesetzliche Erbquote, Pflichtteilsergaenzungsanspruch § 2325 BGB fuer Schenkungen 10-Jahres-Frist mit Abschmelzung. Beispielrechnung. |
 | `erb-testamentsformen-grundzuege` | Testamentsformen Grundzuege: eigenhaendiges Testament § 2247 BGB, oeffentliches Testament § 2232 BGB, Nottestament § 2249 BGB, Berliner Testament § 2269 BGB. Form, Aufbewahrung, Aenderung, Widerruf. Beispieltexte und typische Fehler. |
 | `erb-unternehmensnachfolge-spezial` | Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist. Pruefraster. |
 | `erstgespraech-mandatsannahme` | Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-S... |

@@ -256,7 +256,7 @@ Eine Arbeit, die die Lehrkraft beeindruckt, **gerade weil Du gegen sie argumenti
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -269,6 +269,10 @@ Automatisch generierte Komplett-Liste aller 23 Skills in diesem Plugin. Beschrei
 | `gliederung-mit-tiefenstruktur` | Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 B... |
 | `gutachtenstil-vs-urteilsstil` | Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. P... |
 | `haeufige-fehler-vermeiden` | Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbst... |
+| `haus-fussnotenstil-spezial` | Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster fuer einheitliche Zitierweise. |
+| `haus-literaturrecherche-leitfaden` | Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster fuer Querschnitts- und Spezialthemen. |
+| `haus-plagiatscheck-eigenstaendigkeit-spezial` | Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Pruefungsrecht, Tools. Pruefraster fuer Pruefungsamt und Studierende. |
+| `haus-themaeingrenzung-bauleiter` | Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Pruefraster fuer Erstsemester und Examenskandidaten. |
 | `hausarbeit-workflow-start` | Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Workflow-Skill: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB... |
 | `meinungsstreit-darstellen` | Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Ste... |
 | `methodenlehre-auslegung` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Ar... |

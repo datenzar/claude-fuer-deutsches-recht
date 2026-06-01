@@ -107,7 +107,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -129,6 +129,10 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `mandat-triage-verwaltungsrecht` | Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untätigkeitsklage 3 Monate).... |
 | `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Prüfraster: Tatsa... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), B... |
+| `verwr-folgenbeseitigung-spezial` | Spezialfall Folgenbeseitigungsanspruch: Grundlage Art. 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Pruefraster fuer Klage. |
+| `verwr-planfeststellung-grossvorhaben-spezial` | Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff. VwVfG, oeffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Pruefraster fuer Einwender. |
+| `verwr-verwaltungsverfahren-checkliste` | Checkliste Verwaltungsverfahren VwVfG: Anhoerung § 28, Begruendung § 39, Bekanntgabe § 41, Anhoerung bei Ermessensentscheidungen. Pruefraster Bescheid auf formelle Fehler. |
+| `verwr-vorlaeufiger-rechtsschutz-leitfaden` | Leitfaden vorlaeufiger Rechtsschutz VwGO: § 80 Abs. 5 Antrag, § 123 einstweilige Anordnung. Pruefraster Eilbeduerftigkeit und Anordnungsanspruch. Mustertext Eilantrag. |
 | `vwr-spezial-eilrechtsschutz` | Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte fuer Eilantrag. |
 | `widerspruch-oder-klage-erstpruefung` | Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist)... |
 

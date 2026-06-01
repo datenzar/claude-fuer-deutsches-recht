@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -82,7 +82,11 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `fachanwalt-it-recht-software-mangel` | Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufre... |
 | `fachanwalt-it-recht-vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe... |
 | `itr-einfuehrung-rechtsmaterien` | IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills. |
+| `itr-incident-response-runbook-spezial` | Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation. Pruefraster fuer KRITIS-Betreiber und besondere Bedeutung. |
+| `itr-ki-systeme-vertragsklausel-leitfaden` | Leitfaden Vertragsklauseln fuer KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster fuer Customer und Vendor. |
 | `itr-nis2-konkrete-pflichten-spezial` | Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung. Pruefraster und Umsetzungsplan. |
+| `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
+| `itr-saas-vertrag-bauleiter` | Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus. Standardklauseln und Verhandlungstipps. |
 | `itr-saas-vertragstypen-praxis` | SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B. |
 | `itr-source-code-escrow-spezial` | Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte. |
 | `mandat-triage-it-recht` | Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Fri... |

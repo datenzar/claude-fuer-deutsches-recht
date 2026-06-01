@@ -70,7 +70,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -91,6 +91,10 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `hgesr-grenzueberschreitende-formwechsel` | Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap fuer typischen Wechsel DE nach AT oder NL... |
 | `hgesr-handelsvertreterausgleich-detail` | Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit. Berechnung in mehreren Schritten: Rohausgleich, Billigkeitskorrektur, Ho... |
 | `hgesr-mbg-modernisierungsgesetz-praxis` | MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen. Pruefraster fuer Altvertra... |
+| `hgr-aktionsbindungsvertrag-spezial` | Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung. Mustertexte und Pruefraster fuer Hauptaktionaer und Minderheitsgesellschafter. |
+| `hgr-due-diligence-cheker-light` | Due-Diligence-Checker light fuer kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten. Mustertext fuer Findings-Memo. |
+| `hgr-gesellschaftervertrag-tour` | Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along. Klausel-fuer-Klausel Erklaerung und Klauselrisiken. |
+| `hgr-kollektivverteidigung-direktorenhaftung-spezial` | Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster fuer einheitliche Strategie und Pflichtenkollision. |
 | `registerrecht-handelsregister-praxis` | Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubigt), zustaendiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG. Typische Beanstandungen, Zwischenverfuegung, Beschwerde gegen Eintragungs... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Anfechtungs-/Nichtigkeitsklage GV-Beschluss, Auskunftsklage, Squeeze-out: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Handels- und Gesellschaftsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |

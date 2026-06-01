@@ -1,6 +1,6 @@
 # kanzlei-allgemein
 
-**49 Skills** · Stand `v52.7.0`
+**49 Skills** · Stand `v52.8.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/kanzlei-allgemein/README.md)

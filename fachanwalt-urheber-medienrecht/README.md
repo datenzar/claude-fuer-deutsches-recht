@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,9 +84,13 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `mandat-triage-urheber-medienrecht` | Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnah... |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag... |
 | `urheber-abmahnung-pruefen` | Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenweh... |
+| `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster fuer Betroffene und Plattform. |
 | `urhmr-einfuehrung-rechtsfelder` | Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle. |
 | `urhmr-ki-generierter-content-spezial` | Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster. |
+| `urhmr-leistungsschutzrecht-presse-spezial` | Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Pruefraster Verlag und Plattform. |
 | `urhmr-presserecht-gegendarstellung-spezial` | Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext. |
+| `urhmr-presserechtsbrief-leitfaden` | Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Pruefraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung. Mustertext Abmahnung Presse. |
+| `urhmr-urhebervertrag-bauleiter` | Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer. |
 | `urhmr-verwertungsgesellschaften-praxis` | Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation. Pruefraster und Mustertexte fuer Mandanten als Berechtigte und Nutzer. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungs... |
 
