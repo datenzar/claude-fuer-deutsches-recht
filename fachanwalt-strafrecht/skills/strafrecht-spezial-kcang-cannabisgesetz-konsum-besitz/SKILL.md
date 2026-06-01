@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz
-description: "Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau 3 Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach §§ 34, 35 KCanG."
+description: "Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach § 34 sowie § 35 KCanG."
 ---
 
 # KCanG: Konsum und Eigenbesitz seit 01.04.2024
