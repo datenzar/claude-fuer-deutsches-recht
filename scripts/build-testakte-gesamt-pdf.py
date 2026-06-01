@@ -102,6 +102,11 @@ s_body = ParagraphStyle(
     fontName=FONT_REG, fontSize=10, leading=14, textColor=black,
     spaceAfter=6,
 )
+s_table_compact = ParagraphStyle(
+    "TableCompact", parent=styles["BodyText"],
+    fontName=FONT_REG, fontSize=7.5, leading=9, textColor=black,
+    spaceAfter=0,
+)
 s_meta = ParagraphStyle(
     "Meta", parent=styles["BodyText"],
     fontName=FONT_REG, fontSize=9, leading=12, textColor=MUTED,
@@ -432,10 +437,12 @@ def md_to_flowables(md_text: str) -> list:
                 rest = (avail_width - col_widths[0]) / (col_count - 1)
                 for k in range(1, col_count):
                     col_widths[k] = rest
+            # Bei breiten Tabellen (6+ Spalten) kompakten Style nutzen, sonst sprengt der Zellinhalt die Seite
+            cell_style = s_table_compact if col_count >= 6 else s_body
             tbl_data = []
             for r in rows:
-                tbl_data.append([Paragraph(escape(c), s_body) for c in r])
-            tbl = Table(tbl_data, colWidths=col_widths, repeatRows=1)
+                tbl_data.append([Paragraph(escape(c), cell_style) for c in r])
+            tbl = Table(tbl_data, colWidths=col_widths, repeatRows=1, splitByRow=1)
             tbl.setStyle(
                 TableStyle(
                     [
