@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Legistische Fristen und Risiken (Ampelraster)
+
+- **Rot — Kabinettstermine, Ressortabstimmung:** Frist regelmäßig durch GGO (§§ 44 ff.) gesteuert: 4 Wochen Ressortbeteiligung (§ 45), 6 Wochen Länder-/Verbändeanhörung (§ 47), 1 Woche Kabinettsvorlage.
+- **Rot — Bundesrat-Erstdurchgang (Art. 76 Abs. 2 GG):** 6 Wochen Stellungnahme; bei besonderer Eilbedürftigkeit 3 Wochen.
+- **Rot — Verkündung (Art. 82 GG):** Erst Verkündung im BGBl, dann Inkrafttreten; Inkrafttreten "am Tag nach Verkündung" bei fehlendem Datum (§ 4 G über die Verkündung von Rechtsverordnungen).
+- **Gelb — Umsetzungsfristen Richtlinien:** Versäumnis löst Vertragsverletzungsverfahren Art. 258 AEUV aus; direkte Wirkung der Richtlinie zugunsten des Bürgers ab Fristablauf möglich (EuGH).
+- **Gelb — HdR-Konformität:** Verfassungs- und unionsrechtliche Konformität als Pflichtprüfung (Art. 76 GG, Kompetenztitel; AEUV; Unionsrechtsvorrang).
+- **Gelb — Bestimmtheitsgebot:** Bei Eingriffsverwaltung Art. 20 Abs. 3 GG; bei strafrechtlich-administrativen Normen Art. 103 Abs. 2 GG.
+- **Praxis-Tipp:** Wesentlichkeitstheorie beachten (Parlamentsvorbehalt): grundrechtsrelevante Materien gehören in Gesetz, nicht in Rechtsverordnung; "wesentlich" ist regelmäßig prüfungsschwerpunkt für GG-Verträglichkeit.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

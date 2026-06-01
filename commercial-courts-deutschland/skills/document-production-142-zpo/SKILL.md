@@ -22,10 +22,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+2. **Vorlageanker im deutschen Prozessrecht:** § 142 ZPO Anordnung der Urkundenvorlage durch Partei (Ermessen des Gerichts, Substantiierungspflicht); § 144 ZPO Vorlage von Augenscheinsobjekten und Sachverständigengutachten; §§ 421-432 ZPO Vorlageantrag gegen Gegner und Dritte mit materiellrechtlichem Anspruch (§ 810 BGB Einsichtsrecht); § 422 ZPO bei Vorlagepflicht aus materiellem Recht; § 423 ZPO bei Bezugnahme der Gegenseite auf die Urkunde.
+3. **Substantiierung Antrag § 142 ZPO:** Konkrete Bezeichnung der Urkunde (Datum, Ersteller, Inhalt, Empfänger); Tatsachen, für die die Urkunde Beweis sein soll; Hinweis auf Besitz oder erleichternde Besitzvermutung; konkrete Relevanz für die anstehende Beweisaufnahme. Bloße "fishing expedition" ist unzulässig — deutscher Zivilprozess kennt keine US-Discovery (§ 138 ZPO Wahrheitspflicht und § 282 ZPO Zurückweisung verspäteten Vorbringens).
+4. **Geheimnisschutz und Verhältnismäßigkeit:** § 174 Abs. 3 GVG Ausschluss der Öffentlichkeit, § 16 GeschGehG Schutz von Geschäftsgeheimnissen im Prozess (sog. "Hamburger Verfahren" mit Geheimhaltungsverpflichtung der Verfahrensbeteiligten); bei DSGVO-relevanten Daten zusätzliche Abwägung Art. 6 Abs. 1 lit. f DSGVO. Trade-off: weite Vorlageanordnung erleichtert Beweis, gefährdet aber Vertraulichkeit.
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: konkreter § 142-Antrag mit Anlage K-Nummer, Geheimnisschutzantrag § 16 GeschGehG, Frist für Vorlage durch Gegenseite festlegen.
 
 ## Output-Standard
 

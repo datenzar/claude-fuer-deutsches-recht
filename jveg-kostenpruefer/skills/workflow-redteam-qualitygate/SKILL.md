@@ -6,7 +6,17 @@ description: "Red-Team Qualitygate im Plugin jveg-kostenpruefer: prüft das Erge
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `jveg-kostenpruefer` Red-Team Qualitygate im Plugin jveg-kostenpruefer: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill prüft die fertige JVEG-Kostenfestsetzung gegen typische Fehlerquellen: Honorargruppen-Fehlzuordnung, Stundenzahl-Inplausibilität, Wegegeld-Doppelung, fehlende Belege, Umsatzsteuer-Klippe (§ 12 JVEG).
+
+## JVEG-spezifische Prüfpunkte
+- **Honorargruppe nachvollziehbar?** Anlage 1 JVEG: Gruppen 1 bis 12. Begründung im Beschluss vorhanden? (BVerwG, Beschl. v. 31.05.2022 - 9 KSt 1.22 zur Bindung an Heranziehung.)
+- **Stundensatz korrekt?** § 9 Abs. 1 JVEG: aktuelle Sätze laut KostRÄG-Stand prüfen unter `gesetze-im-internet.de/jveg`.
+- **Zeitaufwand erforderlich?** § 8 Abs. 2 JVEG: nur notwendiger Zeitaufwand vergütungsfähig. Reine Wartezeit nur unter § 19 JVEG.
+- **Auslagen belegt?** § 5 JVEG (Fahrt: 0,42 EUR/km Pkw oder BC100), § 6 JVEG (Tage-/Übernachtungsgeld), § 7 JVEG (Schreibauslagen).
+- **Umsatzsteuer:** § 12 JVEG (Ust nur bei Steuerpflicht des SV; nicht bei Kleinunternehmer § 19 UStG).
+- **Pauschalvereinbarung:** § 13 JVEG nur mit Zustimmung des Sachverständigen und schriftlich.
+- **Frist Erinnerung:** § 4 Abs. 1 JVEG -- sechs Monate ab Bekanntgabe der Festsetzung; ohne Aufschub.
+- Falle: Vergleich von Stundensätzen aus alten Beschlüssen (vor KostRÄG 2021/2022) ohne Hinweis auf aktuelle Fassung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

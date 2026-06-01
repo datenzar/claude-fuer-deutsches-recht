@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Diagnose Berufsrecht-KI
+- **"Rechtsanwalt prüft KI-Tool"** → § 43e BRAO (Schweigepflicht / Mandantengeheimnis), § 203 StGB strafrechtliche Schweigepflicht, AVV Art. 28 DSGVO.
+- **"Steuerberater prüft KI-Tool"** → § 62a StBerG (entspricht § 43e BRAO), § 203 StGB.
+- **"Wirtschaftsprüfer prüft KI-Tool"** → § 50a WPO, § 203 StGB.
+- **"Notar prüft KI-Tool"** → § 26a BNotO (Verschwiegenheit), § 203 StGB; Vorsicht bei Urkundeninhalten.
+- **"Patentanwalt"** → § 39a PAO, § 203 StGB.
+- **"KI-System verarbeitet Mandantendaten"** → kumulativ: § 203 StGB (strafrechtlich), § 43a Abs. 2 BRAO (berufsrechtlich), Art. 28 DSGVO (AVV), ggf. KI-VO.
+- **"Externer KI-Anbieter (US-Cloud)"** → § 203 Abs. 3 StGB "Mitwirkende" (seit 2017) plus DSGVO-Drittlandstransfer.
+
+## Praxis-Tipp
+Die Erweiterung des § 203 Abs. 3 StGB von 2017 ("sonstige mitwirkende Personen") legitimiert die Einbindung externer Dienstleister — aber nur mit angemessener Verpflichtung zur Verschwiegenheit. Bei US-Cloud-Anbietern reicht Standard-AVV nicht: zusätzlich US-Cloud-Act-Risiko (Lawful Access) im TIA dokumentieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

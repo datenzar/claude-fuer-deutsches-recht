@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Arbeitszeugnisse** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Anspruch und Form:** § 109 GewO Anspruch auf schriftliches Zeugnis bei Beendigung; § 109 Abs. 2 Satz 1 GewO Schriftform (eigenhändige Unterschrift); elektronische Form ausdrücklich ausgeschlossen § 109 Abs. 3 GewO. Anspruch auf einfaches oder qualifiziertes Zeugnis (Wahlrecht des Arbeitnehmers).
+3. **Fristen prüfen:** Zeugnisanspruch verjährt regelmäßig nach 3 Jahren (§§ 195, 199 BGB). Vorsicht: tarifliche oder einzelvertragliche Ausschlussfristen (häufig 2- bis 6-monatig, zweistufig) verkürzen Anspruch erheblich; Mindestlohnverwirkungsklauseln BAG ständige Rechtsprechung unwirksam. Bei Zwischenzeugnis: Anspruch bei berechtigtem Interesse (Vorgesetztenwechsel, Bewerbung, Beförderung).
+4. **Zuständigkeit:** ArbG erstinstanzlich (§ 2 Abs. 1 Nr. 3a ArbGG); Streitwert ein Bruttomonatsgehalt analog § 42 Abs. 2 GKG; keine Anwaltspflicht erste Instanz (§ 11 ArbGG); Klagegegner ist Arbeitgeber, bei Betriebsübergang nach § 613a BGB der Erwerber.
+5. **Anschluss:** Aufforderungsschreiben mit Fristsetzung (2-4 Wochen üblich), bei Untätigkeit Klage; Antrag konkretisieren ("verurteilt, ein qualifiziertes Arbeitszeugnis mit folgendem Inhalt zu erteilen ..." oder unbestimmter Antrag mit Notenangabe).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

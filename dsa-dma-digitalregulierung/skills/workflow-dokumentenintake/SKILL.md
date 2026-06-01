@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten DSA/DMA
+- **AGB / Nutzungsbedingungen** – Art. 14 DSA Anforderungen: klare Sprache, Beschreibung der Moderationsmaßnahmen, Beschwerdewege.
+- **Transparenzberichte** Art. 15/24 DSA: Anzahl Anordnungen, Notice-and-Action-Meldungen, Streitbeilegungsfälle.
+- **Risikobewertung** Art. 34 DSA (VLOP/VLOSE) inkl. Risikominderung Art. 35.
+- **Statement of Reasons** Art. 17 DSA pro Moderationsentscheidung; Veröffentlichung in der DSA-Transparenzdatenbank der EU-Kommission.
+- **Compliance-Audit-Bericht** Art. 37 DSA (VLOP) — externe, unabhängige Prüfung.
+- **Gatekeeper-Compliance-Bericht** Art. 11 DMA — jährlich an Kommission.
+- **Behördenanordnungen** Art. 9/10 DSA — Inhalt entfernen / Auskunft erteilen.
+
+## Praxis-Tipp
+Beim Ersteingang einer Anordnung nach Art. 9 DSA prüfen, ob sie den Mindestinhalt aus Art. 9 Abs. 2 erfüllt (Rechtsgrundlage, Identifikation der Inhalte, territorialer Umfang). Fehlt Wesentliches, kann die Anordnung zurückgewiesen werden — formale Mängel verschieben die Frist nicht automatisch.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

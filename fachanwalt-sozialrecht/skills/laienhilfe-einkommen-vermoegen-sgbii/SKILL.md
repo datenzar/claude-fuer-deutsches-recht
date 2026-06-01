@@ -51,3 +51,14 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Einkommen / Vermoegen SGB II - Themenspezifika
+- **Rechtsgrundlagen:** §§ 11-12 SGB II (Einkommen, Vermoegen); § 11a SGB II (Nicht-Einkommen); § 11b SGB II (Absetzbetraege); § 12 SGB II (Vermoegen); §§ 1, 3-5 SGB II (Karenzzeit, Bedarfsgemeinschaft).
+- **Karenzzeit § 12 III SGB II (seit 2023):** in den ersten 12 Monaten Buergergeldbezug Vermoegen bis 40.000 EUR (Antragsteller) plus 15.000 EUR je weiteres Mitglied geschuetzt; Wohnung selbstgenutzt unbeachtlich.
+- **Vermoegen nach Karenz:** Schonbetraege Grundfreibetrag 15.000 EUR pro Person; Altersvorsorge geschuetzt; Hausrat angemessen; KFZ angemessen (regelmaessig 15.000 EUR).
+- **Einkommen-Definition § 11 SGB II:** alle Einkuenfte in Geld; Zuflussprinzip; Brutto-Netto-Berechnung. Nicht-Einkommen § 11a (z. B. Pflegegeld, Bafoeg-Teile, Schmerzensgeld, Entschaedigung Ehrenamt bis 250 EUR/Monat).
+- **Absetzbetraege § 11b SGB II:** Werbungskosten (Pauschale 100 EUR/Monat), Versicherungspauschale 30 EUR, Riester, Fahrtkosten 0,21 EUR/km einfach, Erwerbstaetigenfreibetrag (100 EUR Grundfreibetrag, dann 20 % bis 1000 EUR, 10 % bis 1200/1500 EUR).
+- **Bedarfsgemeinschaft § 7 III SGB II:** Ehegatte, Lebenspartner, eheaehnliche Gemeinschaft (3 Monate Vermutungsschwelle); minderjaehrige Kinder; Eltern bei unter 25-Jaehrigen im Haushalt.
+- **Beweislast:** Antragsteller traegt fuer leistungsbegruendende Tatsachen; Behoerde traegt fuer Vermoegen, das einer Anrechnung entgegensteht (Negativbeweis nicht zumutbar).
+- **Sanktion / Minderung:** bei Pflichtverletzungen § 31 ff. SGB II (1. Minderung 10 %, 2. 20 %, 3. 30 %); Anhoerung § 24 SGB X zwingend.
+- **Praxis-Tipp:** Kontoauszuege ab 3 Monate vor Antrag bereithalten; Selbstauskunft genau pruefen - falsche Angaben sind ordnungswidrig § 63 SGB II / strafbar § 263 StGB.

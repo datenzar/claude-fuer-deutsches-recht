@@ -33,3 +33,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafverteidigung-Fristen-Speziallage
+- **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
+- **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung freiwillig, aber empfohlen.
+- **Revision §§ 341, 345 StPO: 1 Woche Einlegung, 1 Monat Begruendung** ab Zustellung der schriftlichen Urteilsausfertigung.
+- **Beschwerde § 311 StPO: 1 Woche** ab Zustellung (sofortige Beschwerde) bzw. unbefristet (einfache Beschwerde § 304 StPO).
+- **Haftbeschwerde § 117 StPO** jederzeit; Haftpruefung § 118 StPO; OLG-automatische Haftpruefung nach 6 Monaten § 121 StPO.
+- **Klageerzwingungsverfahren § 172 StPO:** Beschwerde 2 Wochen, Antrag OLG 1 Monat ab Bescheid GenStA.
+- **Akteneinsicht § 147 StPO** im Ermittlungsverfahren regelmaessig erst nach Abschluss; nach Anklageerhebung Anspruch.
+- **Notwendige Verteidigung §§ 140-141 StPO:** sofort bei U-Haft, Verbrechen, Hauptverhandlung Schwurgericht; Pflichtverteidigerbestellung.
+- **Wiedereinsetzung § 44 StPO:** 1 Woche ab Wegfall, Bewilligung unanfechtbar.
+- **Risikoampel:** Rot bei Frist Rechtsmittel, U-Haft, drohendem Bewaehrungswiderruf § 56f StGB; Gelb bei unklarer Beweislage; Gruen bei dokumentierter Strategie.

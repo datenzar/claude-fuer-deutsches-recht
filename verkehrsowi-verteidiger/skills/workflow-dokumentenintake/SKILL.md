@@ -33,3 +33,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## OWi-Intake-Bausteine
+- **Dokumente sortieren:**
+  - Anhoerungsbogen / Zeugenfragebogen (kein Bescheid! Schweigerecht § 55 OWiG; Halterauskunft § 31a StVZO).
+  - Bussgeldbescheid § 65 OWiG (Frist § 67 OWiG 2 Wochen!).
+  - Verwarnung mit Verwarnungsgeld § 56 OWiG (nur bei Einverstaendnis, max. 55 EUR).
+  - Messprotokoll / Messfoto / Eichschein (Bedienerschein / Schulungsnachweis).
+  - Tatortskizze, Lichtbilder, Videosequenz.
+  - Polizeibericht / Zeugenvernehmungsprotokoll.
+  - Akteneinsichtsanforderung an Behoerde (§ 49 OWiG i.V.m. § 147 StPO).
+- **Frist rot markieren:** Einspruch § 67 OWiG 2 Wochen ab Zustellung; Wiedereinsetzung § 52 OWiG.
+- **Messdaten- / Rohdaten-Bestand:** Rohdaten der Messung (.case / .esa / .traf / .pdf), Statistik-Datei, Bedienerprotokoll, Lebensakte Geraet, Eichschein gueltig im Tatzeitraum, Geraete-Software-Version.
+- **Tatvorwurfsspezifika identifizieren:** Geschwindigkeit (Toleranz, Messverfahren); Abstand (BAB / Landstrasse, Strecke); Rotlicht (qualifiziert ab 1 Sekunde, Fahrverbot); Handy (§ 23 Ia StVO Tatbestandsausweitung 2017: alle elektronischen Geraete); Alkohol/Drogen (BAK-Messung, Atemalkohol).
+- **Konsequenzeneinschaetzung:** Geldbusse + Punkte FAER (1-3 Punkte) + Fahrverbot 1-3 Monate? Wiederholungstaeter § 4 II StVG (innerhalb 1 Jahres weitere Verstoesse hoeher bewertet)? 8-Punkte-Grenze § 4 V StVG?
+- **Anschluss:** Akteneinsicht beantragen / Messverfahren-Pruefung / Einspruchsentscheidung.

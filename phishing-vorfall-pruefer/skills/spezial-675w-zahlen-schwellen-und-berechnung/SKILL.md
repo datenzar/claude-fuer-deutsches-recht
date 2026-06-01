@@ -21,10 +21,22 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **675W** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **§ 675w BGB** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Zahlen, Schwellen und Berechnung Phishing-Vorfall
+- **§ 675u BGB:** Erstattungsanspruch — unverzüglich, spätestens am nächsten Geschäftstag nach Anzeige.
+- **§ 675v Abs. 3 BGB:** bei grober Fahrlässigkeit Kunde haftet voll (vorher Begrenzung auf 50 EUR nach altem Recht abgeschafft seit 2018).
+- **§ 675v Abs. 4 BGB:** Haftung Kunde **0 EUR**, wenn starke Kundenauthentifizierung nach § 1 Abs. 24 ZAG nicht durchgesetzt wurde (Ausnahme: arglistig oder grob fahrlässig).
+- **§ 675w BGB Beweislast:** **Bank** muss Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung beweisen.
+- **§ 676b Abs. 2 BGB:** Anzeigefrist **13 Monate** nach Belastung (Ausschlussfrist).
+- **Schlichtungswert Verbraucherschlichtungsstelle Bank**: bis 10.000 EUR (Bankenschlichter), höher zivilrechtlich.
+- **Verjährung Schadensersatz**: Regelfrist 3 Jahre § 195 BGB.
+
+## Praxis-Tipp
+Der häufigste Fehler bei Beratung: die Bank pauschal des "groben Verschuldens" zu bezichtigen. Die Beweislast für **starke Kundenauthentifizierung** (§ 1 Abs. 24 ZAG: Wissen + Besitz + Inhärenz) trägt die Bank — wenn diese den Authentifizierungsnachweis nicht klar führen kann, gewinnt der Kunde § 675u BGB.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

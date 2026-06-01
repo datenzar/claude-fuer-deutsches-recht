@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Mindestunterlagen Fortbestehensprognose (IDW S 11 / IDW EPS 11 – Stand prüfen)
+- **Bilanz und GuV:** Letzter testierter Jahresabschluss, aktuelle Saldenliste/BWA, Anlagespiegel mit stillen Reserven.
+- **Liquiditätsplan:** Min. 13 Wochen rollierend, idealerweise 12–24 Monate; Annahmen zu Umsatz, Kosten, Investitionen, Tilgungen.
+- **Verträge & Engagements:** Kreditverträge mit Kovenanten, Sicherheitenübersicht, Großkundenverträge, Lieferantenverträge mit Eigentumsvorbehalt.
+- **Stützungszusagen:** Patronatserklärungen (hart/weich), Rangrücktritte (§ 19 Abs. 2 Satz 2 InsO), Bürgschaften, Gesellschafterdarlehen.
+- **Steuerlich:** Steuerbescheide letzte zwei Jahre, Stundungsanträge, Vollstreckungsbescheide; § 266a StGB-Rückstände sind toxisch.
+- **Sanierungspläne:** Liquiditäts- und Ertragsplanung in zwei Szenarien (Base/Stress), Maßnahmenplan mit Wirkdatum.
+- **Trade-off:** Lange Lückenliste kostet Mandantenzeit, kurze Liste kostet Gutachtensqualität. Pareto: Konzentriere auf Belege, die die kritischen Annahmen tragen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

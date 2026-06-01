@@ -6,7 +6,20 @@ description: "Anschluss-Skills Router im Plugin memorandums-ersteller: schlägt 
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `memorandums-ersteller` Anschluss-Skills Router im Plugin memorandums-ersteller: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet die Memo-Aufgabe an die passenden Spezial-Skills weiter: Strukturentwurf, Subsumtionsabschnitt, Quellenarbeit, Risiko-Matrix, Executive-Summary-Generator, Vertraulichkeits-/Privilege-Check.
+
+## Routing nach Memo-Phase
+- **Strukturentwurf:** Skills für Memo-Skelett und Gliederung; Standardstruktur nach CLAUDE.md.
+- **Sachverhaltsdarstellung:** Faktenmatrix, Belegmatrix, Chronologie -- verweise auf `workflow-chronologie-und-belegmatrix`.
+- **Subsumtion / rechtliche Bewertung:** Gutachtenstil-Skill, Streitstand bei tragenden Merkmalen.
+- **Quellen:** Verweis auf `workflow-rechtsquellen-livecheck` und `references/zitierweise.md` (Pflicht).
+- **Kurzantwort / Executive Summary:** komprimierende Skills; eine Aussage je Frage.
+- **Risiko-Matrix:** Bewertung der Restrisiken (rechtlich, faktisch, prozessual, reputativ).
+- **Vertraulichkeit:** Privileged & confidential, Reichweite des Anwaltsprivilegs (EU vs. US, Konzernreichweite).
+
+## Anti-Muster
+- Memo ohne Kurzantwort am Anfang -- Adressat findet das Ergebnis nicht.
+- Fußnoten ohne Verifizierung (Halluzinationsrisiko bei Aufsatz- und Kommentarfundstellen).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

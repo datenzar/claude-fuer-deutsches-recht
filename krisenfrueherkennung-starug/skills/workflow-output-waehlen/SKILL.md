@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Output-Routing § 1 StaRUG
+- **Memo (intern):** Standard-Geschäftsleiterpflicht-Memo nach § 1 StaRUG mit Kennzahlenset, Erkennungs- und Reaktionsschwellen, Eskalations- und Berichtspflichten.
+- **Beschluss/Protokoll:** Wenn Maßnahmen beschlossen oder verworfen werden — Dokumentation gegen späteren § 43 GmbHG-Vorwurf.
+- **Bericht an Aufsichtsorgan:** Pflicht zur Anzeige bei Anhaltspunkten für drohende Zahlungsunfähigkeit § 1 Abs. 1 Satz 3 StaRUG (Stand prüfen) — schriftlich, datiert.
+- **Sanierungsfahrplan:** Wenn Maßnahmen einer Strukturierung bedürfen — Vorlage für Bankenrunde, StaRUG-Plan oder Insolvenzplan.
+- **Trade-off:** Engmaschiges Reporting bindet Ressourcen, dokumentiert aber Erfüllung. Loses Reporting spart Aufwand, gefährdet aber im Streit (§ 43 GmbHG) die Haftungsverteidigung.
+- **Praxis:** Quartalsweise Kennzahlenpflege mit Ampel-Reporting; bei "Gelb" sofortiges Verstärkungsprotokoll, bei "Rot" Anzeige an Aufsichtsorgan und Eintritt in formelle Maßnahmen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

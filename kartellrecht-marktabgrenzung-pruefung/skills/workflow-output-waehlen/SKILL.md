@@ -6,7 +6,19 @@ description: "Output wählen im Plugin kartellrecht-marktabgrenzung-pruefung: en
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `kartellrecht-marktabgrenzung-pruefung` Output wählen im Plugin kartellrecht-marktabgrenzung-pruefung: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das kartellrechtliche Outputformat: internes Memo, Marktabgrenzungsgutachten, Anmeldeentwurf (BKartA/Kommission), Anhörungsantwort, Beschwerdeentwurf, Redline-Vergleich gegen Bekanntmachung.
+
+## Outputtypen
+- **Marktabgrenzungs-Memo:** Sektion 1 Sachverhalt (Akteure, Produkte, Region, Zeit), Sektion 2 sachlicher Markt (Bedarfsmarkt + SSNIP), Sektion 3 räumlicher Markt, Sektion 4 Marktanteile mit Bezugsgröße, Sektion 5 Ergebnis und Sensitivitäten.
+- **Fusionsanmeldung Bundeskartellamt (Form Anhang B GWB-RVO):** Pflichtangaben § 39 GWB; Vollständigkeitsprüfung vor Einreichung; ggf. Pre-Notification mit BKartA.
+- **EU-Form CO (Fusion):** Volle Form CO oder vereinfachte (Annex II der Durchführungsverordnung 2023/914); Pre-Notification mit DG COMP.
+- **Anhörungsantwort § 56 GWB:** Frist beachten, Verfahrensbeteiligten-Status.
+- **Beschwerde OLG Düsseldorf:** § 73 GWB; Begründung, Sachverhalt, Rechtsausführungen.
+- **Sektoruntersuchungs-Stellungnahme:** § 32e GWB; oft mit Wirtschaftsgutachten flankiert.
+
+## Methodik im Output
+- Hypothetischer-Monopolist-Test (SSNIP) immer mit Annahmen, Daten und Sensitivitäten.
+- Marktanteile immer mit Bezugsgröße (Umsatz/Menge/Kapazität), Stichtag, Quelle.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## vbuH-Forderungen — Vorsätzlich begangene unerlaubte Handlung
+- **Bedeutung:** Forderungen aus vorsätzlich begangener unerlaubter Handlung (§§ 823, 826 BGB) sind nach § 302 Nr. 1 InsO von der Restschuldbefreiung des Schuldners ausgenommen — sie überleben das Verfahren.
+- **Anmeldung § 174 Abs. 2 InsO:** Bei der Anmeldung muss der Tatbestand der vorsätzlich begangenen unerlaubten Handlung ausdrücklich behauptet und tatsächlich substantiiert dargelegt werden — sonst nimmt die Tabelleneintragung diese Qualifikation nicht auf.
+- **Tabellenklage § 184 InsO:** Wird die vbuH-Eigenschaft im Prüfungstermin bestritten, ist Feststellungsklage zu erheben (Bestreiten kann sich auf die rechtliche Qualifikation als vbuH beziehen, nicht notwendig auf den Forderungsbetrag).
+- **Beweisanforderung:** Vorsatz (nicht Fahrlässigkeit), Schädigung, Kausalität, Schaden — strenger Maßstab; reine Vertragsverletzung genügt nicht (Abgrenzung zu § 280 BGB).
+- **Typische Konstellationen:** Betrug (§ 263 StGB), Untreue (§ 266 StGB), unerlaubte Handlung gegen Lebensgüter, Steuerhinterziehung als Schädigung des Fiskus (mit Streitstand).
+- **Trade-off:** vbuH-Anmeldung macht im Restschuldbefreiungsverfahren wirtschaftlich Sinn — Mehrkosten der Beweisführung gegen die Aussicht auf vollständige Forderung nach dem Verfahren abwägen.
+- **Praxis:** Bei Strafurteil als Beweismittel früh ankündigen; bei laufendem Strafverfahren ggf. Tabellenfeststellung aussetzen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

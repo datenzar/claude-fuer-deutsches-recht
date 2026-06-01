@@ -6,7 +6,19 @@ description: "Anschluss-Skills Router im Plugin jveg-kostenpruefer: schlägt nac
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `jveg-kostenpruefer` Anschluss-Skills Router im Plugin jveg-kostenpruefer: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet die JVEG-Kostenprüfung zu den passenden Spezialskills weiter. Er unterscheidet die Aufgabentypen: Sachverständigenhonorar, Dolmetscher/Übersetzer, Sachverständigenauslagen, Erinnerung gegen Festsetzung.
+
+## Routing nach Aufgabentyp
+- **Honorargruppen-Prüfung (§ 9 JVEG i. V. m. Anlage 1):** -> Sachverständigen-Skill mit Honorargruppen-Check.
+- **Stundenzahl/Zeitaufwand-Plausibilität:** Erforderlichkeit nach § 8 Abs. 2 JVEG.
+- **Auslagen (§§ 5-8 JVEG):** Fahrtkosten (§ 5 JVEG: 0.42 EUR/km Pkw, Bahnkarte), Übernachtung, Tage-/Abwesenheitsgeld, Schreibauslagen (§ 7 JVEG).
+- **Dolmetscher (§ 9 Abs. 3 JVEG):** simultan 85 EUR/h, konsekutiv 75 EUR/h (Stand: prüfen unter `gesetze-im-internet.de`).
+- **Übersetzung (§ 11 JVEG):** Grundbetrag pro 55-Zeichen-Zeile, ggf. höher bei Schwierigkeit oder Eile.
+- **Erinnerung / Beschwerde (§ 4 JVEG):** Frist sechs Monate ab Bekanntgabe; ohne Aufschiebende Wirkung.
+
+## Anti-Muster
+- Pauschale Anwendung "alter" Sätze, ohne aktuelle Fassung des JVEG zu prüfen (laufende Anpassungen, zuletzt KostRÄG).
+- Vermengung von JVEG-Vergütung und RVG-Anwaltsvergütung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

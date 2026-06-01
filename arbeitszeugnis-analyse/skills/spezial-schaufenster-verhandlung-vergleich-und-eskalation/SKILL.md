@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Schaufenster** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Schaufenster-Drift erkennen:** Auftaktphrase verspricht positive Bewertung ("hat unsere Erwartungen voll erfüllt"), die folgenden Sätze bleiben inhaltsleer, vermeiden Steigerung und enden ohne Schlussformel. Klassischer Verhandlungshebel: zeigen, dass der Text formal positiv klingt, aber im Codeworte-Vergleich nur Note 3-4 trägt.
+3. **Verhandlungsstrategie:** Drei-Stufen-Forderung Notenkompromiss, Standard-Schlussformel (Dank/Bedauern/Zukunftswünsche), konkrete Tätigkeitsbeschreibung. Hebel Arbeitgeber: schnelle Erledigung ohne Klage spart Prozesskosten und Reputationsrisiko.
+4. **Vergleich vor Klage (Trade-off):** Notenkompromiss "gut" statt umkämpftem "sehr gut" oft besser als ungewisser Prozess; BAG ständige Rechtsprechung: Vergleichsfähig auch hinsichtlich Schlussformel und Tätigkeitsbeschreibung. Gleichzeitig: bei Klagedrohung Verhandlungsspielraum oft maximal in den ersten 2 Wochen.
+5. **Eskalation:** Bei Verweigerung Klage Arbeitsgericht (§§ 46 ff. ArbGG); Klageantrag formuliert auf Erteilung mit konkretem Text oder mit Notenangabe und Schlussformel ("ein qualifiziertes Arbeitszeugnis mit einer Leistungsbeurteilung nicht schlechter als 'gut' und einer Schlussformel mit Dank, Bedauern und Zukunftswünschen").
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

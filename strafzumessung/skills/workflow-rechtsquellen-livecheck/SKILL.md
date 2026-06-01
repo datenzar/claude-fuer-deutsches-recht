@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafzumessungs-Livecheck-Kernquellen
+- **StGB:** §§ 38-43a (Strafarten), § 46 (Strafzumessung), § 46a (TOA), §§ 47-49 (Milderungen), §§ 52-55 (Konkurrenzen, Gesamtstrafe), §§ 56-58 (Bewaehrung), §§ 60-66c (Massregeln).
+- **JGG** §§ 17, 18 (Jugendstrafe), § 105 (Heranwachsende) - kritisch bei 18-21-jaehrigen.
+- **StPO:** §§ 257c (Verstaendigung), §§ 261, 267 (Beweiswuerdigung, Urteilsgruende), § 354 II StPO (Selbstentscheidung Revisionsgericht).
+- **BZRG:** Verwertungsverbot § 51 BZRG bei Tilgungsreife; Tilgungsfristen § 46 BZRG.
+- **Regionale Strafzumessungstabellen:** OLG-/GenStA-Bezirke veroeffentlichen Richtwerte (Drogen, Betrug, Diebstahl) - **regional unterschiedlich**, niemals als bundesweit zitieren.
+- **BGH-Linie zur Strafzumessung:** Sachruege gegen Strafzumessung selten erfolgreich; Aufhebung idR nur bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB. Keine konkreten Az aus Modellwissen.
+- **EMRK Art. 6:** Verstaendigung-/Verfahrenslaenge-Kompensation moeglich.

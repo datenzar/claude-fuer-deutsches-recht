@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Internationaler Bezug — Schnittstellen
+- **EuInsVO 2015/848 (für EU-Mitgliedstaaten ohne Dänemark):** Hauptverfahren am Mittelpunkt der hauptsächlichen Interessen (COMI; Vermutung Sitz juristische Person, Art. 3 Abs. 1 Unterabs. 2); Nebenverfahren am Niederlassungsort.
+- **COMI-Verschiebung:** Bei Verlagerung des COMI in den letzten 3 Monaten vor Antragstellung greift Vermutung nicht (Art. 3 Abs. 1 Unterabs. 3, 4 EuInsVO).
+- **Konzerninsolvenzen:** Art. 56 ff. EuInsVO Kooperationsmechanismen; deutsches Recht §§ 269a ff. InsO Gruppen-Gerichtsstand (Stand prüfen).
+- **Drittstaaten:** UNCITRAL-Modellgesetz nicht in Deutschland umgesetzt; § 343 InsO Anerkennung ausländischer Verfahren grds. möglich, sofern ordentliches Verfahren und kein ordre-public-Verstoß.
+- **Schnittstellen Steuerrecht:** Insolvenzgeld § 165 SGB III (Vorfinanzierung über Bank); USt-Behandlung von Forderungsverzichten (§ 17 UStG Berichtigung); Sanierungsertrag § 3a EStG.
+- **Schnittstellen Strafrecht:** §§ 283 ff. StGB Bankrott und Insolvenzdelikte; § 266a StGB Vorenthalten SV-Beiträge; § 263 StGB Eingehungsbetrug bei späterer Insolvenz.
+- **Praxis:** Bei grenzüberschreitenden Sachverhalten immer EuInsVO-Anwendbarkeit prüfen; bei Holdingstrukturen Reihenfolge der Anträge planen (regelmäßig zuerst Top-Holding, dann Töchter).
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

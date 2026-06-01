@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Handelsvertreterausgleich** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **§ 89b HGB Anspruchsvoraussetzungen:** Vertragsende ohne wichtigen Grund seitens Unternehmer (oder Eigenkündigung Handelsvertreter aus berechtigten Gründen § 89b Abs. 3 Nr. 1 HGB); erhebliche Vorteile für Unternehmer durch geworbene Kunden, die nach Ende fortwirken (Stammkundenneuumsatz nach BGH ständige Rechtsprechung); Billigkeitskontrolle; Anspruchsanmeldung binnen 1 Jahr nach Vertragsende § 89b Abs. 4 Satz 2 HGB (Ausschlussfrist).
+3. **Berechnung:** Höchstbetrag § 89b Abs. 2 HGB eine durchschnittliche Jahresprovision der letzten 5 Jahre (oder kürzere Vertragsdauer); BGH-Drei-Stufen-Methode: Rohausgleich = Provisionsumsatz mit Neukunden × Mehrjahresfaktor (Abschmelzung über Prognosezeitraum, meist 3-5 Jahre) × Abzug Beitragsleistung; Billigkeitskorrektur; Cap der Höchstbetrag.
+4. **Internationaler Bezug:** Handelsvertreterrichtlinie 86/653/EWG zwingender Schutz für Handelsvertreter mit Tätigkeitsschwerpunkt in EU; EuGH (Ingmar 2000): Ausschluss in Rechtswahlklauseln drittstaatlicher Unternehmer unwirksam, wenn Tätigkeit im EU-Markt erfolgt; bei Schiedsklauseln: zwingende Vorschrift, Schiedsgericht kann § 89b HGB nicht ausschließen (Eingriffsnorm Art. 9 Rom I).
+5. **Schnittstellen:** Vertragsbeendigung Aufhebungsvertrag mit Pauschalausgleich oft günstiger als Streit; Verträgliche Ausgleichsregelung im Voraus unwirksam § 89b Abs. 4 Satz 1 HGB; Kfz-Handelsvertretung Sonderfall BGH ständige Rechtsprechung (Restwertberechnung, Kundenstamm bei Vertragsende); Vertragshändler/Franchisenehmer analoge Anwendung bei vergleichbarem Eingliederungsgrad.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

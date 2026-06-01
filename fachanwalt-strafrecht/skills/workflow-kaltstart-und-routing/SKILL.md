@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafrecht-Kaltstart-Triage Fachanwalt
+- **Stufe 1 - Mandantenrolle:** Beschuldigter / Angeklagter / Verurteilter / Verletzter (Nebenklage § 395 StPO) / Zeuge / Privatklaeger (§ 374 StPO). Verteidigerbestellung § 137 StPO; Mehrere Verteidiger § 137 I 2 StPO (max. 3).
+- **Stufe 2 - Verfahrensstand:** Ermittlungsverfahren (StA) - Zwischenverfahren - Hauptverfahren - Rechtsmittelverfahren - Vollstreckung - Wiederaufnahme § 359 StPO.
+- **Stufe 3 - Tatvorwurf:** Vergehen (Geldstrafe oder Freiheitsstrafe unter 1 Jahr Mindeststrafe, § 12 II StGB) vs. Verbrechen (Mindestens 1 Jahr Freiheitsstrafe, § 12 I StGB - notwendige Verteidigung § 140 I Nr. 2 StPO).
+- **Stufe 4 - Haftlage:** U-Haft (§§ 112 ff. StPO), Haftbefehl-Pruefung, Aussetzungsmoeglichkeit § 116 StPO; § 121 StPO 6-Monatsgrenze.
+- **Stufe 5 - Sofortmassnahmen:** Akteneinsicht § 147 StPO, Beistand bei Vernehmung § 168c StPO, Schweigerecht § 136 I 2 StPO erklaeren.
+- **Stufe 6 - Strategieentscheidung:** Einstellung §§ 153, 153a StPO / Strafbefehl § 407 StPO / Hauptverhandlung / Verstaendigung § 257c StPO / TOA § 46a StGB / Adhaesionsverfahren §§ 403 ff. StPO.
+- **Sondermateriae:** WiStrafR (Steuer/Korruption/Insolvenz § 15a InsO), Jugendstrafrecht (JGG, § 105 JGG bei Heranwachsenden), Verkehrsstrafrecht (§§ 315c, 316 StGB, § 21 StVG), Drogenstrafrecht (KCanG, BtMG).

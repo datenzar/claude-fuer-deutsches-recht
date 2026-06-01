@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Barrierefreiheit-typische Fristen
+- **BFSG**: Geltung seit **28.06.2025** für neue Produkte/Dienstleistungen; Selbstbedienungsterminals **Übergang bis 27.06.2040** (§ 38 BFSG).
+- **BFSGV** (Verordnung): konkretisiert technische Anforderungen.
+- **Marktüberwachung** § 19 BFSG: Behörde kann Mängelbeseitigung anordnen, Vertrieb untersagen.
+- **Bußgeld § 37 BFSG**: bis **100.000 EUR**.
+- **Schlichtung § 21 BFSG**: Verbraucherschlichtungsstelle bei der Schlichtungsstelle des Bundes; vor Klage zumeist obligatorische Schlichtung.
+
+## Ampelkriterien
+- **Rot**: BFSG-Pflicht erkannt, aber Produkt/Dienst seit 28.06.2025 ohne Konformität; behördliche Anordnung; Klage/Schlichtung anhängig.
+- **Gelb**: WCAG-2.1-AA-Konformität nicht systematisch geprüft, kein Accessibility Statement, fehlende Konformitätserklärung (§ 6 BFSG, Art. 12 EU-Richtlinie 2019/882).
+- **Grün**: Konformitätserklärung vorliegt, regelmäßige Tests (automatisch + manuell), AS (Accessibility Statement) öffentlich, Kontakt nach § 14 BFSG benannt.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

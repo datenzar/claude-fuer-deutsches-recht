@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin meinungspruefer: liest Uploads, sortier
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `meinungspruefer` Dokumentenintake im Plugin meinungspruefer: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest streitige Äußerungen, Posts, Artikel, Posts in sozialen Medien, Pressemitteilungen, Videos und beanstandete Passagen ein und sortiert sie zur äußerungsrechtlichen Prüfung (Art. 5 GG; §§ 823, 1004 BGB analog; §§ 185 ff. StGB).
+
+## Dokumentenarten
+- **Streitige Äußerung selbst:** ganzer Originaltext mit Kontext (Vor-/Nachsätze, Plattform, Datum, Verfasser).
+- **Anspruchsschreiben / Abmahnung:** geltend gemachter Anspruch (Unterlassung, Widerruf, Gegendarstellung, Geldentschädigung, Löschung).
+- **Beleg-Material:** Screenshots, Backups (Archive.org / Wayback), URLs, Plattform-Hinweise (Community Standards).
+- **Hintergrundberichte:** zur Belegbarkeit der Tatsachenbehauptung.
+
+## Erste Triage
+- **Äußerungstyp** unterscheiden: Tatsachenbehauptung vs. Meinungsäußerung vs. Werturteil mit Tatsachenkern vs. Schmähkritik.
+- **Stolpe-Doktrin** (BVerfG, Beschl. v. 25.10.2005, 1 BvR 1696/98): bei mehrdeutigen Äußerungen ist im Unterlassungsanspruch die nicht fernliegende, anspruchsbegründende Auslegung zugrundezulegen.
+- **Person**: Privatperson, Person des öffentlichen Lebens, juristische Person, Staatsorgan? Schutzniveau unterscheidet sich.
+- **Plattform**: Presseerzeugnis (PressG), Rundfunk (RStV), Telemedien (DSA / TMG / DDG), soziale Netze (DSA, NetzDG).
+- **Verbreitungsgrad**: Reichweite kann Schweregrad beeinflussen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

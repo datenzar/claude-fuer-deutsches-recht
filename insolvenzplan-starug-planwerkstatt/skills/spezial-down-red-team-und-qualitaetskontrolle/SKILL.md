@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Red-Team Cross-Class Cram-Down
+- **InsO § 245 Obstruktionsverbot:** Voraussetzungen: (1) Mehrheit der Gruppen hat zugestimmt, (2) ablehnende Gruppe wird nicht schlechter gestellt als ohne Plan (Best-Interest-Test § 245 Abs. 1 Nr. 1), (3) angemessene Beteiligung an wirtschaftlichem Wert (§ 245 Abs. 1 Nr. 2).
+- **StaRUG §§ 26–28 gruppenübergreifender Cram-Down:** Voraussetzungen ähnlich; (1) Mehrheit der Gruppen, (2) absolute oder relative Priorität nach § 27 StaRUG (Wahlrecht zwischen Vorrangregeln), (3) Schutz nachrangiger Gruppen.
+- **Absolute Priority Rule:** Eine Gruppe, die geringere Quote erhält als eine vorrangige Gruppe ihre volle Befriedigung, hat Vorrang vor nachrangigen Gruppen.
+- **Relative Priority Rule (RPR):** Nachrangige Gruppen müssen weniger erhalten als vorrangige — Maßstab "angemessen". § 27 Abs. 2 StaRUG eröffnet RPR als deutsches Alternativmodell.
+- **Best-Interest-Test:** Vergleich mit der besten Alternative (regelmäßig Zerschlagungsquote bei InsO bzw. Regelinsolvenz bei StaRUG) — jeder einzelne Planbetroffene muss bessergestellt sein.
+- **Typische Fallen:** Vergleichsrechnung mit zu optimistischer Liquidationsquote → Cram-Down fällt; Gruppenbildung zu fein → § 222 InsO/§ 9 StaRUG-Verstoß; nachrangige Gruppen nicht angemessen beteiligt → § 245 Abs. 1 Nr. 2 InsO/§ 26 StaRUG.
+- **Praxis:** Cram-Down ist Letzter-Ausweg — Verhandlungslösung mit allen Gruppen ist robuster.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

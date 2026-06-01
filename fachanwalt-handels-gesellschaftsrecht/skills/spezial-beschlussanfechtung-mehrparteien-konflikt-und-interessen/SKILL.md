@@ -20,11 +20,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Beschlussanfechtung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen; Lager der Gesellschafter (Kläger, Beklagte, Streithelfer, neutral) markieren.
+2. **Anfechtungs- vs. Nichtigkeitsgründe:** § 243 AktG Anfechtungsgründe (Verfahrensmangel, Inhaltsmangel) versus § 241 AktG Nichtigkeitsgründe (z.B. Verstoß gegen Gläubigerschutz, Sittenwidrigkeit); GmbH-Recht analog BGH ständige Rechtsprechung. Trade-off: Anfechtungsklage fristgebunden (analog § 246 AktG 1 Monat), aber häufiger Erfolg; Nichtigkeitsklage zeitlich ungebunden, aber engere Tatbestände.
+3. **Aktivlegitimation Mehrparteienkonflikt:** Jeder Gesellschafter klagebefugt (BGH ständige Rechtsprechung GmbH analog); Streithilfe § 66 ZPO; passive Streitgenossenschaft Gesellschaft (nicht andere Gesellschafter); Klage gegen Gesellschaft.
+4. **Interessenmatrix erstellen:** Pro Gesellschafter Spalte zu: Stimmverhalten, Anfechtungsinteresse, Schadensbild, Möglichkeit Ausschluss/Einziehung (§ 34 GmbHG), Vergleichsbereitschaft. Bei Familiengesellschaft zusätzlich: Generationenkonflikt, Erbfolge, Pflichtteilsrisiken.
+5. **Anschluss:** Klage zuständig LG Kammer für Handelssachen (§ 95 GVG); Streitwert nach § 247 AktG/§ 247 AktG analog (Bedeutung für Gesellschaft + Anfechter, max. 500.000 EUR ohne Sondergründe); parallel einstweiliger Rechtsschutz zur Registersperre (§ 16 Abs. 1 HGB).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

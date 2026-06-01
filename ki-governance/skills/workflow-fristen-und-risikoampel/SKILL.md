@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## KI-Governance-typische Fristen
+- **Datenpanne**: Art. 33 Abs. 1 DSGVO – Meldung an die Aufsichtsbehörde binnen **72 Stunden** ab Kenntnis.
+- **Betroffenenbenachrichtigung**: Art. 34 DSGVO – unverzüglich bei hohem Risiko.
+- **KI-VO-Vorfall (Hochrisiko)**: Art. 73 KI-VO – Meldung an Marktüberwachungsbehörde innerhalb von 15 Tagen, bei schwerwiegenden Vorfällen oder breit angelegten Verstößen innerhalb von 2 Tagen, bei Tod sofort.
+- **Geltungsbeginn KI-VO**: Art. 5 (Verbote) seit 02.02.2025, Art. 51 ff. (GPAI) seit 02.08.2025, Art. 6 ff. (Hochrisiko) ab 02.08.2026.
+
+## Ampelkriterien
+- **Rot**: laufende Frist < 72h, Aufsichtsbehörde involviert, mögliche Verbotene-Praktik-Lage (Art. 5 KI-VO), § 203 StGB-Berührung.
+- **Gelb**: Klassifizierung offen (Hochrisiko vs. Begrenzt), AVV/Drittlandstransfer ungeklärt, Dokumentationslücken.
+- **Grün**: gesicherte Klassifizierung, Doku vollständig, Schulung erfolgt, AVV/SCC vorhanden.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

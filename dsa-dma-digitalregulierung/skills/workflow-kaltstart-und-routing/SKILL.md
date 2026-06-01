@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Diagnose DSA/DMA
+- **"Wir betreiben einen Online-Marktplatz / Plattform"** → DSA-Regelfall, Art. 6 ff. Vermittlungsdienste, Art. 16 Notice-and-Action; bei sehr großer Plattform Art. 33 ff. VLOP-Pflichten.
+- **"Hosting-Dienst / Suchmaschine"** → Art. 6 DSA Hosting, Art. 9 DSA Anordnungen gegen rechtswidrige Inhalte; Art. 14 AGB-Pflichten.
+- **"Kernplattform-Diensteanbieter (Gatekeeper)"** → DMA (VO (EU) 2022/1925), Art. 3 Benennung, Art. 5-7 Pflichten.
+- **"Inhalt entfernt / Account gesperrt"** → Art. 17 DSA Begründungspflicht, Art. 20 internes Beschwerdesystem, Art. 21 außergerichtliche Streitbeilegung.
+- **"Behördenanordnung gegen Inhalte"** → Art. 9 DSA; **gegen Auskünfte** → Art. 10 DSA.
+- **"NetzDG / digitale Dienste"** → DDG (Digitale-Dienste-Gesetz) als deutsche Durchführung des DSA, BNetzA als Digital Services Coordinator.
+
+## Praxis-Tipp
+DSA gilt seit 17.02.2024 für alle Anbieter; für VLOP/VLOSE (über 45 Mio. EU-Nutzer/Monat) bereits seit 25.08.2023. Wer auf die Größenschwelle zugeht, sollte die Risikobewertung Art. 34 DSA proaktiv vorbereiten — die Benennung durch die Kommission ist deklaratorisch.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

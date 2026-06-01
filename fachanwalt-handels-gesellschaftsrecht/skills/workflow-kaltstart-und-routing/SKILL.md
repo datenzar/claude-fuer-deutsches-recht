@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Cheatsheet Handels- und Gesellschaftsrecht
+
+| Stichwort Mandant | Anschluss-Skill | Erste Norm/Frage |
+| --- | --- | --- |
+| "Gesellschafterversammlung Beschluss anfechten" | `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen` | analog § 246 AktG 1 Monat Anfechtungsfrist (BGH ständige Rechtsprechung) |
+| "GmbH-Anteilsübertragung" | `spezial-gmbhg-schriftsatz-brief-und-memo-bausteine` | § 15 Abs. 3 GmbHG notariell zwingend |
+| "Geschäftsführer haftet" | `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | § 43 GmbHG / § 93 AktG, 5 J. Verjährung, BJR |
+| "Handelsvertreter Vertragsende" | `spezial-handelsvertreterausgleich-international-schnittstellen` | § 89b HGB, 1-Jahres-Anmeldefrist |
+| "Verschmelzung / Spaltung" | `spezial-umwg-livequellen-und-rechtsprechungscheck` | UmwG, 3/4-Mehrheit, Spruchverfahren |
+| "MoPeG / GbR-Eintragung" | `spezial-mopeg-formular-portal-und-einreichung` | §§ 705 ff. BGB n.F., eGbR § 707 BGB n.F. |
+| "AG-Hauptversammlung" | `spezial-aktg-behoerden-gericht-und-registerweg` | § 123 AktG Frist, § 130 AktG notariell |
+| "FAO-Anwartschaft" | `spezial-fao-dokumentenmatrix-und-lueckenliste` | § 14i FAO Mindestfälle
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

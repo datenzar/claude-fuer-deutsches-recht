@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Legistisches Routing (Weichen für die nächste Stufe)
+
+- **Gesetzentwurf vs. Rechtsverordnung vs. Verwaltungsvorschrift:**
+  - Gesetz: wesentliche Materie (Parlamentsvorbehalt, Art. 20 Abs. 3 GG); Grundrechtsintensivität.
+  - Verordnung: nur auf Grundlage einer gesetzlichen Ermächtigung (Art. 80 GG: Inhalt, Zweck, Ausmaß bestimmt).
+  - VwV: Binnenrecht der Verwaltung; keine Außenwirkung gegenüber Bürger (Ausnahme: Selbstbindung über Art. 3 GG).
+- **Initiativrecht:** Bundesregierung (Mehrheit erforderlich), Bundesrat, BT-Fraktion oder 5 % der MdB (Art. 76 GG); Eilverfahren bei der Bundesregierung möglich.
+- **Bundeskompetenz prüfen:** Art. 70 ff. GG (ausschließlich/konkurrierend/Rahmen); bei konkurrierender Gesetzgebung Art. 72 GG-Schranke (Erforderlichkeit/Wahrungsklausel).
+- **Verfassungs- und unionsrechtskonform:** Bundesregierung muss Vereinbarkeit mit GG, EU-Recht und EMRK prüfen (§ 43 Abs. 1 GGO).
+- **Begründung Pflicht:** Allgemeiner Teil (Ziel, Notwendigkeit, Alternativen, Erfüllungsaufwand) und Besonderer Teil (Norm-für-Norm); HdR-konforme Sprache.
+- **Folgenabschätzung:** Erfüllungsaufwand für Bürger, Wirtschaft und Verwaltung (NKR-Prüfung); Gleichstellungsfolgenabschätzung; Demografiefolgen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

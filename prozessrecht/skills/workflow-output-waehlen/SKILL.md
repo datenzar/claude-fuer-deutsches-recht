@@ -6,7 +6,21 @@ description: "Output wählen im Plugin prozessrecht: entscheidet zwischen Memo, 
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `prozessrecht` Output wählen im Plugin prozessrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das prozessrechtliche Outputformat: Klage, Klageerwiderung, Replik/Duplik, Antrag auf einstweiligen Rechtsschutz, Berufung, Berufungsbegründung, Beschwerdebegründung, Streitwertfestsetzungsantrag.
+
+## Output-Typen mit ZPO-Anker
+- **Klageschrift (§ 253 ZPO):** Parteien, Gericht, bestimmter Antrag (Nr. 2), Klagegrund, Beweisangebote, ggf. Streitwert; bei Geldforderung exakt beziffert.
+- **Klageerwiderung (§ 277 ZPO):** Erklärung zur Klage, Bestreiten mit Substanz (§ 138 ZPO), Beweisangebote, Gegenangriffe (Aufrechnung, Widerklage).
+- **Replik:** Reaktion auf Klageerwiderung -- konzentriert, nicht Wiederholung.
+- **Einstweiliger Rechtsschutz (§§ 935, 940 ZPO):** Verfügungsanspruch und Verfügungsgrund (Eilbedürftigkeit) glaubhaft machen (§ 294 ZPO: alle Beweismittel + eidesstattliche Versicherung).
+- **Berufung (§§ 511 ff. ZPO):** Berufungsschrift binnen 1 Monat; Berufungsbegründung binnen 2 Monaten ab Zustellung des Urteils; konkrete Berufungsgründe nach § 520 Abs. 3 ZPO.
+- **Beschwerdeschrift (§ 567 ZPO):** sofortige Beschwerde innerhalb von 2 Wochen, einfache Beschwerde unbefristet.
+- **Schutzschrift:** vorbeugend gegen eV; Hinterlegung Zentrales Schutzschriftenregister (`schutzschriftenregister.de`).
+
+## Methodik
+- **Urteilsstil** (Indikativ) für Schriftsätze, nicht Gutachtenstil.
+- **Beweismaß:** § 286 (volle Überzeugung) und § 287 ZPO (überwiegende Wahrscheinlichkeit) klar unterscheiden.
+- **Verspätung:** § 296 ZPO -- neue Angriffs- und Verteidigungsmittel können präkludiert werden.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

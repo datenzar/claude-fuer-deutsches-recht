@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Output-Routing Liquiditätsplanung
+- **13-Wochen-Plan (rollierend):** Standardformat für Sanierungs- und Restrukturierungsfälle. Wöchentliche Granularität auf Cashflow-Ebene; trennt operativen, finanziellen und außerordentlichen Bereich.
+- **24-Monats-Plan (drohende Zahlungsunfähigkeit § 18 Abs. 2 InsO):** Monatsgranularität, für StaRUG-Zugang und Fortbestehensprognose nach § 19 Abs. 2 InsO erforderlich.
+- **Liquiditätsstatus (Stichtag):** Aktiva I + II vs. Passiva I + II, Drei-Wochen-Logik nach BGH-Rechtsprechung zur Abgrenzung Zahlungsstockung/-unfähigkeit.
+- **Ampel-Übersicht:** Banktauglich, knapp; mit Annahmen-Aufriss und Stresstest-Übersicht (Base/Stress/Worst).
+- **Memo für Geschäftsführung:** Wenn § 1 StaRUG Krisenfrüherkennungspflicht erfüllt werden soll — Pflicht zur Dokumentation der Maßnahmen.
+- **Trade-off:** Hohe Granularität (Tag/Woche) ist informativ, aber pflegeintensiv; Monatsgranularität ist sanierungsfähig, aber für § 17-Frage zu grob.
+- **Praxis:** 13-Wochen-Plan als operatives Werkzeug, 24-Monatsplan als rechtliches Dokument für die Prognose. Beide synchronisieren, sonst entstehen Widersprüche im Anfechtungsstreit.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

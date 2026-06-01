@@ -6,7 +6,19 @@ description: "Dokumentenintake im Plugin kanzlei-builder-hub: liest Uploads, sor
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `kanzlei-builder-hub` Dokumentenintake im Plugin kanzlei-builder-hub: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Skill-Spezifikationen, Plugin-Manifeste (`plugin.json`), SKILL.md-Vorlagen, Frontmatter-Beispiele und Mandantenanforderungen in den Builder-Hub ein. Er trennt die fachliche Anforderung vom technischen Skill-Gerüst.
+
+## Dokumentenarten
+- **Skill-Spezifikation (Fachseite):** beschreibt Anwendungsfall, Eingaben, Ablauf, Output.
+- **`plugin.json`** mit `name`, `version`, `description` -- keine Komma-Zahlen.
+- **SKILL.md-Vorlage:** Frontmatter mit `name` und `description` (max. 1024 Zeichen); Inhalt strukturiert nach Repo-Konvention (Zweck, Eingaben, Ablauf, Quellen, Output, Beispiele).
+- **References:** zitierweise.md, methodik-*.md, ggf. weitere Querverweise unter `references/`.
+
+## Erste Triage
+- Ist die fachliche Aufgabenstellung klar oder noch Mandanteninterview erforderlich?
+- Welches Plugin? Existiert es schon (Pluralfehler vermeiden) oder ist es neu anzulegen?
+- Welcher Skill-Name (ASCII, Kebab-Case, max. 64 Zeichen)?
+- Welche Querverweise zu vorhandenen Skills und References werden benötigt?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

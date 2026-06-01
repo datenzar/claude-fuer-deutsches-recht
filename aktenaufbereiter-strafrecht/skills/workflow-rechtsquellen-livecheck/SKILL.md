@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafakte-Livecheck-Kernquellen
+- **StPO** Verfahrensgrundlage: §§ 136-148 (Vernehmung, Verteidigung), § 147 (Akteneinsicht), § 161 (StA-Befugnisse), §§ 200-202 (Anklageschrift, Eroeffnungsbeschluss), §§ 244 (Beweisaufnahme), 249-256 (Urkunden, Selbstleseverfahren), 261 (Beweiswuerdigung), 267 (Urteilsgruende).
+- **StGB Besonderer Teil** zum jeweiligen Tatkomplex; Verjaehrung §§ 78-79b StGB.
+- **EMRK Art. 6** (fair trial) - relevant fuer Akteneinsicht und Wartezeiten; Art. 5 EMRK (Freiheit); RL 2012/13/EU (Akteneinsichtsanspruch Beschuldigter); RL 2013/48/EU (Anwaltszugang).
+- **BVerfG-Linie zur Akteneinsicht im Ermittlungsverfahren** (insb. bei U-Haft) - ohne Az aus Modellwissen.
+- **Bundeszentralregistergesetz (BZRG):** § 30 (Auskunftspflicht), § 46 (Tilgungsfristen), § 51 (Verwertungsverbot).
+- **Fahrzeugregister-Daten (KBA):** Halterauskunft § 29 StVG; Fahreignungsregister (FAER) § 30 StVG.
+- **EU-Akteneinsicht / EUStA:** bei grenzueberschreitenden Verfahren VO 2017/1939; Europaeische Ermittlungsanordnung RL 2014/41/EU.
+- **DSGVO** bei Aktenverarbeitung Beschuldigter / Dritter (Art. 5, 6, 9, 32, 33).

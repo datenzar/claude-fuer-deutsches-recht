@@ -6,7 +6,19 @@ description: "Dokumentenintake im Plugin jveg-kostenpruefer: liest Uploads, sort
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `jveg-kostenpruefer` Dokumentenintake im Plugin jveg-kostenpruefer: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Sachverständigen- und Dolmetscher-Rechnungen, Stundenaufstellungen, Heranziehungsbeschlüsse und Festsetzungsbescheide nach JVEG ein. Er ordnet die Posten nach §§ JVEG zu und markiert kritische Stellen für die Kostenprüfung.
+
+## Dokumentenarten
+- **Heranziehungsbeschluss** (§ 404 ZPO / § 73 StPO): definiert Auftragsumfang, ggf. Vorgabe der Honorargruppe (§ 9 JVEG).
+- **Rechnung Sachverständige:** Stundenanzahl, Honorargruppe (§ 9 Abs. 1 JVEG, Anlage 1), Auslagen (§§ 5-8 JVEG), Umsatzsteuer (§ 12 JVEG).
+- **Rechnung Dolmetscher/Übersetzer:** § 9 Abs. 3 JVEG (Stundensätze), § 11 JVEG (Übersetzung pro Zeile), Wartezeit (§ 19 JVEG).
+- **Festsetzungsbeschluss / Anweisung:** § 4 JVEG; daran misst sich die Erinnerung (§ 4 Abs. 3 JVEG).
+
+## Erste Triage
+- Welche Honorargruppe wurde herangezogen, welche begehrt? Anlage 1 JVEG vergleichen.
+- Wurde Pauschalvergütung (§ 13 JVEG) vereinbart?
+- Auslagen (Fahrtkosten § 5 JVEG, Übernachtung § 6 JVEG, Tagegelder § 6 Abs. 1 Nr. 2 JVEG) plausibel und belegt?
+- Vorschuss/Anzahlung (§ 3 JVEG) berücksichtigt?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

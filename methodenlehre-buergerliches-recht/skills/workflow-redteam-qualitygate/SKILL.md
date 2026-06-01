@@ -6,7 +6,17 @@ description: "Red-Team Qualitygate im Plugin methodenlehre-buergerliches-recht: 
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `methodenlehre-buergerliches-recht` Red-Team Qualitygate im Plugin methodenlehre-buergerliches-recht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill prüft methodische Argumentation vor Auslieferung. Er stresst Wortlautgrenzen, Analogie/teleologische Reduktion, Streitstandsdarstellung, Quellenfähigkeit und das Verhältnis BGB-Methodik zu unionsrechtlichen Auslegungspflichten.
+
+## Methodisches Red-Team
+- **Wortlautgrenze respektiert?** Auslegung darf den möglichen Wortsinn nicht überschreiten -- darüber hinaus liegt Rechtsfortbildung.
+- **Alle vier Methoden geprüft?** Wortlaut, Systematik, Historie, Telos. Nicht jede ist gleich gewichtig, aber keine darf einfach übersprungen werden.
+- **Verfassungs-/Unionsrechtskonforme Auslegung?** Bei einschlägiger Grundrechtskollision oder Berührung mit Sekundärrecht (Verbrauchsgüterkaufrichtlinie 2019/771, Zahlungsdienste, DS-GVO, Pauschalreiserichtlinie) zwingend prüfen; ggf. Vorlageverpflichtung Art. 100 GG / Art. 267 AEUV.
+- **Analogievoraussetzungen?** Planwidrige Regelungslücke positiv begründet, vergleichbare Interessenlage substantiiert, keine bewusste Negativentscheidung des Gesetzgebers.
+- **Streitstand:** hM und Mindermeinung mit Argumenten und Quellen abgebildet (keine "in der Lit. wird vertreten" ohne Beleg).
+- **Quellen:** Keine erfundenen BGH-Az. Bei "ständige Rspr." mit echtem Az. belegen; sonst markieren.
+- **Sprache:** Gutachtenstil im Konjunktiv, nicht Indikativ ("könnte sich ergeben aus", nicht "ergibt sich aus").
+- Falle: BGH-Linie aus Praxis schon im Obersatz vorwegnehmen (zirkuläre Subsumtion).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

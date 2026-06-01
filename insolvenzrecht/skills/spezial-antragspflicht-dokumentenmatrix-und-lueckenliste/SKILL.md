@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Antragspflicht § 15a InsO — Dokumentenmatrix
+- **Adressat:** Geschäftsleiter haftungsbeschränkter Gesellschaften (§ 15a Abs. 1 Satz 1 InsO); bei führungsloser Gesellschaft jeder Gesellschafter (§ 15a Abs. 3 InsO).
+- **Eröffnungsgrund:** § 17 InsO Zahlungsunfähigkeit (Höchstfrist 3 Wochen) und § 19 InsO Überschuldung (Höchstfrist 6 Wochen, Stand prüfen). § 18 InsO drohende Zahlungsunfähigkeit löst KEINE Antragspflicht aus, sondern eröffnet das StaRUG-Verfahren.
+- **Belege Zahlungsunfähigkeit:** Liquiditätsstatus, OPOS-Listen, Bankauszüge, fällige Verbindlichkeiten (insb. Lohn, Steuern, SV), Mahnung Bank, gekündigte Linien.
+- **Belege Überschuldung:** Bilanz zu Liquidationswerten, Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO (positiv: keine Überschuldung), Sanierungsbausteine (Rangrücktritt § 19 Abs. 2 Satz 2 InsO, Patronatserklärung).
+- **Lückenliste typisch:** Sozialversicherungsrückstände (§ 266a StGB!), Steuerrückstände (§§ 34, 69 AO), letzte Bilanz, BWA aktuell, Liquiditätsplan 13 Wochen, Verträge mit Kovenantenbruch.
+- **Trade-off:** Frühe Antragstellung schützt vor § 15a Abs. 4/5 InsO und § 15b InsO Zahlungsverbot, opfert aber Eigenverwaltungsoptionen, die nur freiwillig eröffnet werden.
+- **Praxis:** Bei Unklarheit erst Liquiditätsstatus erstellen, dann Fortbestehensprognose; § 15a Abs. 4 InsO Strafbarkeit beginnt mit positiver Kenntnis des Eröffnungsgrunds.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

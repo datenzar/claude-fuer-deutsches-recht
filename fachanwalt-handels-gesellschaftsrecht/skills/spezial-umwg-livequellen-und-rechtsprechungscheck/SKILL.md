@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **UmwG** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Umwandlungsarten UmwG:** Verschmelzung §§ 2 ff. UmwG (auf bestehende, neue Gesellschaft), Spaltung §§ 123 ff. UmwG (Aufspaltung, Abspaltung, Ausgliederung), Formwechsel §§ 190 ff. UmwG (z.B. GmbH→AG), Vermögensübertragung §§ 174 ff. UmwG. Steuerneutralität bei Buchwertfortführung möglich (UmwStG, achten auf 7-jährige Sperrfrist für Beteiligungsverkäufe).
+3. **Livequellen-Check:** UmwG-Volltext beim Bundesanzeiger; Handelsregisteranmeldung Amtsgericht (Verschmelzungsvertrag, Beschluss, Verschmelzungsbericht, Prüferbericht); Bilanzstichtag § 17 Abs. 2 UmwG (Schlussbilanz nicht älter als 8 Monate vor Anmeldung).
+4. **Pflicht-Berichte und Prüfung:** Verschmelzungsbericht § 8 UmwG (Vorstand/Geschäftsführer, rechtliche und wirtschaftliche Begründung); Verschmelzungsprüfung § 9 UmwG durch unabhängigen Prüfer (Bestellung Gericht § 10 UmwG); Verzicht bei 100 %-Beteiligung möglich § 9 Abs. 2 UmwG. Beschlussmehrheit 3/4 § 13 UmwG; bei Form- oder Beschlussmängeln Anfechtungsfrist 1 Monat § 14 Abs. 1 UmwG (zwingend in der Hauptversammlung erhobener Widerspruch erforderlich § 14 Abs. 2 UmwG).
+5. **Rechtsprechungscheck und Anschluss:** BGH ständige Rechtsprechung Verschmelzungswirkung gemäß § 20 UmwG (Vermögensübergang mit Eintragung, Erlöschen übertragender Gesellschaft). Steuer und Arbeitsrecht (§ 613a BGB bei Betriebsübergang) parallel prüfen. Mandantenmemo Risikoampel zu Anfechtungsrisiken (Spruchverfahren §§ 1 ff. SpruchG bei Abfindungsangebot) und Zeitplan (Beschluss, Eintragung, Wirksamkeit).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

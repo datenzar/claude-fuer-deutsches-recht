@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin tabellenreview-3d: liest Uploads, sorti
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `tabellenreview-3d` Dokumentenintake im Plugin tabellenreview-3d: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest tabellenartige Werke (Excel, CSV, Word-Tabellen, PDF-Tabellen) in das Plugin `tabellenreview-3d` ein. Er bereitet sie für die dreidimensionale Prüfung vor: (1) Spaltenstimmigkeit, (2) Zeilenkohärenz, (3) Cross-Bezüge (Querverweise, Verlinkungen, Summen).
+
+## Dokumentenarten
+- **Excel / XLSX:** Tabellenblätter (Sheets), benannte Bereiche, Formeln, bedingte Formatierungen, Pivot-Tabellen, Datenmodelle.
+- **CSV:** Trennzeichen identifizieren (Komma, Semikolon, Tab); Encoding (UTF-8 vs. CP1252); Spaltenheader.
+- **Word-/PDF-Tabellen:** Layout-Tabellen vs. Datentabellen; verbundene Zellen, Mehrzeiler in Zellen.
+- **Cap Table:** Anteilseigner, Anteilsklassen, Vesting-Status, Verwässerung -- Querverweise zu Gesellschaftsvertrag.
+- **Forderungstabelle Insolvenz:** Insolvenzforderung, Sicherungsrechte, Rang, Anmeldung, Prüfung; Querverweis zu InsO und Insolvenzplan.
+
+## Erste Triage
+- Welche Datentypen je Spalte (Zahl, Text, Datum, Boolean, Verweis)?
+- Welche Spaltennamen sind verbindlich definiert (Datenmodell, Vorgabe Mandant/Aufsicht)?
+- Welche Cross-Bezüge existieren (Summen in Footer, Verweise auf andere Sheets, externe Verlinkungen)?
+- Welche Validierungsregeln (Datenprüfung in Excel, Pflichtfelder, Wertelisten)?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

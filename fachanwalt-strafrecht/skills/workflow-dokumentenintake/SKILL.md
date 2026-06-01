@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafrecht-Intake-Bausteine
+- **Dokumentarten identifizieren:** Beschluss (Haftbefehl § 114 StPO, Durchsuchungsbeschluss § 105 StPO, Eroeffnungsbeschluss § 207 StPO, Strafbefehl § 408 StPO), Anklageschrift § 200 StPO, Bussgeldbescheid, Urteil, Strafvollstreckungsentscheidung, Vernehmungsprotokoll, Gutachten, Asservatenverzeichnis.
+- **Fristen extrahieren - rot markieren:** Berufung § 314 StPO 1 Woche, Revision §§ 341, 345 StPO 1 Woche / 1 Monat, Strafbefehl-Einspruch § 410 StPO 2 Wochen, Beschwerde § 311 StPO 1 Woche (sofortige) bzw. unbefristet (einfache), Wiedereinsetzung § 44 StPO 1 Woche.
+- **Vollmachten** § 138 StPO / § 137 StPO checken: Form Schriftform, Datum, Mandantenunterschrift; Vertretungsvollmacht fuer Hauptverhandlung § 411 II StPO bei Strafbefehl, § 232 StPO bei Verurteilung in Abwesenheit.
+- **Bei U-Haft Sofortpruefung:** Haftbefehl-Bestandsaufnahme; Haftpruefung § 117 StPO; Aussetzungsantrag § 116 StPO; Haftbeschwerde.
+- **Zustellungspruefung** § 37 StPO / §§ 166 ff. ZPO: Postzustellungsurkunde, Ersatzzustellung, ggf. Heilung § 189 ZPO.
+- **Beweismittelverzeichnis** § 200 II StPO bei Anklage sichten; vermisste Beweismittel reklamieren.
+- **Anschluss:** chronologie / belegmatrix / akteneinsicht beantragen § 147 StPO.

@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Beraterhaftung und Warnpflichten § 102 StaRUG
+- **§ 102 StaRUG:** Wirtschaftsprüfer, Steuerberater, Rechtsanwälte und vereidigte Buchprüfer sind verpflichtet, ihre Mandantin auf das Vorliegen eines möglichen Insolvenzgrunds und auf die Pflichten der Geschäftsleiter hinzuweisen, wenn ihnen entsprechende Anhaltspunkte erkennbar werden (Stand prüfen).
+- **Adressat der Warnung:** Geschäftsführung; bei führungsloser Gesellschaft Gesellschafter.
+- **Inhalt der Warnung:** Hinweis auf möglichen Eröffnungsgrund (§§ 17, 18, 19 InsO), Antragspflicht § 15a InsO, Zahlungsverbot § 15b InsO und § 1 StaRUG-Pflichten.
+- **Dokumentation:** Schriftlich, zeitnah, mit Empfangsbestätigung; Warnung erst nach erkennbaren Anhaltspunkten, nicht vorsorglich (Mandatsverlust-Risiko).
+- **Haftung bei Unterlassen:** Schadensersatz wegen Verletzung der Beraterpflicht — Anspruchsgrundlage § 280 BGB, § 311 BGB iVm Beratervertrag; bei Steuerberater/WP auch § 826 BGB möglich.
+- **Verhandlung Vergleich:** Bei drohendem Insolvenzantrag oft Stillhalteabkommen mit Banken und Großgläubigern (Standstill); StaRUG-Plan oder Sanierungsmoderator §§ 94 ff. StaRUG als Vermittlungsform.
+- **Praxis:** Berater-Warnung gehört zu den ersten Dokumenten in der Mandatsakte, sobald Anhaltspunkte erkennbar sind; ohne Warnung droht Mit-Haftung bei späteren Schäden.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

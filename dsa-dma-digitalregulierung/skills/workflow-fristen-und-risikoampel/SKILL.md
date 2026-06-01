@@ -22,6 +22,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## DSA/DMA-typische Fristen
+- **DSA Art. 16** – Notice-and-Action: Bearbeitung ohne schuldhaftes Zögern, Begründung gegenüber Hinweisgebenden.
+- **DSA Art. 17** – Begründungspflicht (Statement of Reasons) bei Inhaltsmoderation: unverzüglich gegenüber dem Nutzer; Veröffentlichung anonymisiert in DSA-Transparenzdatenbank.
+- **DSA Art. 20** – internes Beschwerdesystem: 6 Monate ab Entscheidung.
+- **DSA Art. 24 Abs. 2** – Transparenzberichte: mindestens jährlich.
+- **DSA Art. 34/35** – Risikobewertung und -minderung VLOP: jährlich.
+- **DMA Art. 3** – Gatekeeper-Benennung: Mitteilung der Schwellenwerte binnen 2 Monaten.
+- **Bußgeldrahmen DSA Art. 74**: bis **6 %** weltweiter Jahresumsatz. **DMA Art. 30**: bis **10 %**, bei wiederholtem Verstoß bis **20 %**.
+
+## Ampelkriterien
+- **Rot**: behördliche Anordnung Art. 9/10 DSA mit Frist, VLOP-Kennzeichnung übersehen, Gatekeeper-Verstoß ohne Mitigation.
+- **Gelb**: AGB nicht Art. 14 DSA-konform, kein Notice-and-Action-Prozess implementiert, fehlende oder veraltete Transparenzberichte.
+- **Grün**: Compliance-Programm vorhanden, Single Point of Contact (Art. 11 DSA) benannt, gegebenenfalls Compliance-Officer (Art. 41 DSA bei VLOP).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -6,7 +6,19 @@ description: "Anschluss-Skills Router im Plugin produktrecht: schlägt nach der 
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `produktrecht` Anschluss-Skills Router im Plugin produktrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach Sichtung in passende Produktrechts-Spezialskills weiter: CE-Konformität, Marktüberwachung, Rückruf, Produkthaftungsklage, Lieferketten-Audit.
+
+## Routing nach Fragestellung
+- **CE-Markierung / Konformitätsbewertung:** anwendbare Richtlinien/VO bestimmen, harmonisierte Normen finden (`single-market-economy.ec.europa.eu/single-market/european-standards/harmonised-standards_en`), Modul (A, B+C, H usw.) nach jeweiliger Richtlinie.
+- **Marktüberwachung / Anhörung Behörde:** Verteidigung, ggf. Anfechtung Widerspruchsbescheid (VwGO).
+- **Rückruf / Korrekturmaßnahme:** Meldepflicht GPSR Art. 19 (24 h bei ernster Gefahr ans Safety Gate); Maßnahmen-Plan (Stopp, Sperre, Information, Rückruf, Vernichtung).
+- **Produkthaftungsklage (§ 1 ProdHaftG):** verschuldensunabhängige Haftung; Haftungshöchstbetrag § 10 ProdHaftG; Erstattungsausschluss § 1 Abs. 2 (Entwicklungsrisiko).
+- **Vertragliche Mängelhaftung B2B / Regress:** §§ 437, 478 BGB.
+- **Lieferketten-Audit / Compliance:** LkSG (Lieferkettensorgfaltspflichtengesetz), CSDDD (RL (EU) 2024/1760).
+
+## Anti-Muster
+- Reine ProdHaftG-Argumentation ohne Prüfung deliktischer Anspruchsgrundlagen (§ 823 Abs. 1, 2 BGB; § 826 BGB; ProdSG-Verkehrspflichten).
+- CE als "Qualitätssiegel" missverstehen -- CE ist Konformitätsbestätigung des Herstellers, kein Gütesiegel.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -6,7 +6,14 @@ description: "Output wählen im Plugin jurastudium: entscheidet zwischen Memo, S
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `jurastudium` Output wählen im Plugin jurastudium: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill entscheidet im Plugin `jurastudium`, welche Outputform der Studierende oder Referendar braucht: Klausurgutachten, Hausarbeit, Lernzettel, AG-Vortrag, Falllösung, Lerntagebuch oder Examensprognose. Er unterscheidet didaktische von echten Anwaltsprodukten.
+
+## Outputarten im Studium
+- **Klausurgutachten** (Anfänger/Fortgeschrittene/Examen): voller Gutachtenstil, Obersatz im Konjunktiv ("Anspruch könnte sich aus § … BGB ergeben").
+- **Hausarbeit:** Gutachtenstil mit Fußnoten, Streitstandsdarstellung, Methodenarbeit. Zitiernachweis nach `references/zitierweise.md`.
+- **Karteikarte:** Vorderseite Schlagwort, Rückseite Definition + Norm + Streitstand-Faustformel.
+- **AG-Vortrag / mündliche Prüfung:** freie Rede, klare Struktur (1) Anspruch, 2) Tatbestandsmerkmale, 3) Subsumtion, 4) Ergebnis).
+- **Lerntagebuch / Lernreflexion:** persönliche Auseinandersetzung mit Stoff, kein Gutachten.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

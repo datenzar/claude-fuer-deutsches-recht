@@ -24,6 +24,17 @@ Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste We
 5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
 6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
 
+## Frist-Knockout-Tabelle Migration
+
+- **1 Woche — § 36 Abs. 3 AsylG:** Klage und Eilantrag § 80 Abs. 5 VwGO bei offensichtlich unbegründetem Asylantrag (§ 30 AsylG).
+- **1 Woche — § 34a Abs. 2 AsylG:** Eilantrag gegen Dublin-Bescheid (Drittstaaten-/Wiederaufnahmebescheid).
+- **2 Wochen — § 74 AsylG:** Klage gegen sonstige BAMF-Ablehnungsbescheide.
+- **1 Monat — § 74 VwGO:** Klage gegen Ausländerbehördenbescheide (Versagung/Widerruf Aufenthaltstitel, Ausweisung); Widerspruch wo landesrechtlich vorgesehen.
+- **6 Monate Dublin-Übernahme (Art. 29 VO 604/2013):** Bei Versäumnis Zuständigkeit DE; bei Untertauchen 18 Monate.
+- **Fiktionsbescheinigung (§ 81 Abs. 4 AufenthG):** Rechtzeitig vor Ablauf des Titels Verlängerungsantrag stellen — Fiktion erlischt sonst.
+- **Wiedereinsetzung (§ 60 VwGO; § 32 VwVfG):** 2 Wochen ab Wegfall des Hindernisses, max. 1 Jahr.
+- **Praxis-Tipp:** Bei Postanstaltszustellung gilt der Tag der Postaushändigung, nicht der Bescheiddatum — Briefumschlag mit Eingangsstempel aufbewahren. Bei Bevollmächtigtem: Zustellung an Anwalt mit Vollmacht maßgeblich.
+
 ## Spanisch bei Bedarf
 Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
 

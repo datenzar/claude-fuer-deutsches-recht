@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin kartellrecht-marktabgrenzung-pruefung: 
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `kartellrecht-marktabgrenzung-pruefung` Dokumentenintake im Plugin kartellrecht-marktabgrenzung-pruefung: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Marktstudien, Umsatzdaten, Wettbewerbsdaten, Preislisten und Kartellverfahrensakten ein, um sachliche und räumliche Marktabgrenzung (§§ 18 ff. GWB; Art. 102 AEUV) vorzubereiten.
+
+## Dokumentenarten
+- **Umsatz-/Marktanteilstabelle:** je Anbieter, je Produkt, je Region; Stichtag, Bezugsperiode.
+- **Marktstudie / Branchenreport** (z. B. Statista, BMWK, Kantar, Mintel) mit Quellenangabe.
+- **Anhörung / Auskunftsersuchen Bundeskartellamt** nach § 59 GWB; Antwortpflichten beachten.
+- **Bekanntmachung der Kommission zur Marktabgrenzung** (zuletzt 2024 aktualisiert; alte Bekanntmachung 97/C 372/03 ggf. ablösen).
+- **SSNIP-Daten** (Small but Significant Non-transitory Increase in Price): Preisexperimente, Nachfrageelastizitäten.
+
+## Erste Triage
+- **Sachlicher Markt:** Bedarfsmarktkonzept (Sicht der Marktgegenseite) + Hypothetischer Monopolist (SSNIP-Test).
+- **Räumlicher Markt:** lokal, regional, national, EU-weit, weltweit -- Transportkosten, Sprachbarrieren, regulatorische Hürden prüfen.
+- **Zeitlicher Markt:** Saisonalität, Innovationszyklen.
+- **Marktanteilsberechnung:** Bezugsgröße (Umsatz vs. Absatzmenge vs. Kapazität)?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

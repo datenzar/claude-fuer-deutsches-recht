@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin produktrecht: liest Uploads, sortiert D
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `produktrecht` Dokumentenintake im Plugin produktrecht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Konformitätserklärungen, technische Dokumentationen, CE-Unterlagen, Marktüberwachungsbescheide, Rückrufmitteilungen, Schadensmeldungen und Lieferverträge in das Plugin `produktrecht` ein und ordnet sie ProdSG/ProdHaftG und einschlägigen EU-Verordnungen zu.
+
+## Dokumentenarten
+- **EU-Konformitätserklärung (DoC):** Hersteller, Produkt, anwendbare Richtlinien/VO, harmonisierte Normen, benannte Stelle.
+- **Technische Dokumentation:** Risikoanalyse, Konstruktionsunterlagen, Prüfberichte, Betriebsanleitung, Beipackzettel.
+- **Marktüberwachungsbescheid (§ 26 ProdSG):** Anordnung, Frist, Begründung; ggf. Rückrufanordnung (§ 26 Abs. 4 ProdSG).
+- **Schadensmeldung Mandant / Endkunde:** Verletzte, Sachschaden, Produktidentifikation, Chronologie.
+- **Lieferverträge / B2B-AGB:** Haftungsregeln, Freistellung, Versicherung, Audit.
+
+## Erste Triage
+- **Produktkategorie und Regulatorik:** Maschinenverordnung (EU) 2023/1230, Niederspannungs-RL 2014/35/EU, EMV-RL 2014/30/EU, Spielzeug-RL 2009/48/EG, MedizinprodukteVO (EU) 2017/745 (MDR), GPSR (EU) 2023/988, Bauprodukten-VO (EU) 305/2011, BatterieVO (EU) 2023/1542.
+- **Rolle:** Hersteller, Bevollmächtigter, Importeur, Händler, Fulfillment-Dienstleister (Art. 4 (EU) 2019/1020).
+- **Verschuldensunabhängige Haftung:** § 1 ProdHaftG (i. V. m. Produkthaftungs-RL 85/374/EWG; ab 2026 abgelöst durch RL (EU) 2024/2853).
+- **Fristen:** Meldepflicht bei ernster Gefahr nach Art. 19 GPSR (24h); RAPEX/Safety Gate.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen Barrierefreiheit
+- **Audit-Bericht** (kombiniert manuell + automatisch) mit WCAG-2.1-AA-Bezug pro Seitentyp.
+- **Konformitätserklärung** nach § 6 BFSG / Art. 12 RL (EU) 2019/882 mit Norm-Bezug EN 301 549.
+- **Erklärung zur Barrierefreiheit (Accessibility Statement)** nach § 14 BFSG mit Stand, Anwendungsbereich, Feedback-Mechanismus, Schlichtungs-Hinweis.
+- **Mängelkatalog mit Roadmap**: konkrete Items mit Priorität (Critical/Major/Minor), Verantwortlicher, Termin.
+- **Testprotokoll** (Screenreader, Tastatur, Mobile, Kontrast) als gerichtsfeste Beweisgrundlage.
+- **Schlichtungsantrag § 21 BFSG** an die Schlichtungsstelle des Bundes.
+- **Klageschrift** zum VG (öffentl. Stellen) oder ZG (Privatwirtschaft AGG/UWG/BGB).
+
+## Praxis-Tipp
+Die Erklärung zur Barrierefreiheit (Accessibility Statement) ist nicht nur Pflicht (§ 14 BFSG), sondern auch der erste Anhaltspunkt für Klägeranwälte: enthält sie keine Datierung, kein Feedback-Postfach, keinen Schlichtungshinweis, ist sie selbst angreifbar — vor dem Audit-Inhalt.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

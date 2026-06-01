@@ -21,10 +21,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
-1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen. Sprache rechtlich nach §§ 184 ff. GVG i.V.m. Landesverordnung gesichert (mit Inkrafttreten Justizstandort-Stärkungsgesetz von 2024 erweitert).
+2. **Struktur deutsche ZPO-Schriftsatz auf Englisch:** Anträge ("Requests for relief"), Sachverhalt ("Statement of facts" / "factual background"), rechtliche Würdigung ("legal assessment" / "legal grounds"), Beweisangebote ("offer of evidence" mit Anlagenbezeichnung K1, K2, ...). Vermeiden: "Counts" oder "Causes of action" (US-Stil), "Prayer for relief" (zu Common-Law), "Plaintiff hereby moves for..." (verkürzt).
+3. **Substantiierungsstandard wahren:** Jeder Tatsachenvortrag konkret, mit Datum, Ort, Beteiligten und Bezug zu Anlage; keine "notice pleading" wie unter FRCP. Beweisangebote: Zeugen mit Name und ladungsfähiger Anschrift, Urkunden mit konkreter Bezeichnung (Anlage K-Nummer), Sachverständige mit Themenbereich, Parteivernehmung als Hilfsbeweis.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Tonalität: nüchtern, professionell, ohne Verstärker ("clearly", "obviously"), ohne emotional aufgeladene Sprache ("egregious", "outrageous").
 5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
 
 ## Output-Standard

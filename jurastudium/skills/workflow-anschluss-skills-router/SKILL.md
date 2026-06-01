@@ -6,7 +6,20 @@ description: "Anschluss-Skills Router im Plugin jurastudium: schlägt nach der e
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `jurastudium` Anschluss-Skills Router im Plugin jurastudium: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach der ersten Prüfung in die passenden Spezialskills des Plugins `jurastudium`. Er entlastet Studierende und Referendare, indem er Sachverhalt, Klausurformat und Vorbereitungsphase einsortiert.
+
+## Routing-Heuristik
+- **Zivilrechtsklausur, Sachverhalt mit Anspruch:** -> `loesungsschemata`, `subsumtionslehre`, `gutachten-uebung`, `methodenlehre-zivilrecht`.
+- **Öffentliches Recht (Verfassung/Verwaltung):** -> `methodenlehre-oeffentliches-recht`, `loesungsschemata` (Verfahren: Zulässigkeit, Begründetheit).
+- **Strafrecht (Klausur oder AG):** -> `methodenlehre-strafrecht` (Aufbau: TB, RW, Schuld, ggf. Strafe).
+- **Lernplanung/Karteikarten:** -> `lernplan`, `karteikarten`, `lernstrategien`, `examens-prognose`.
+- **Hausarbeit:** -> `juristisches-schreiben`, Verweis auf Plugin `hausarbeitenmacher`.
+- **Mündliche Prüfung / AG-Vortrag:** -> `pruefungsgespraech-ag`, `ag-vorbereitung`.
+- **Referendariat (Aktenvortrag, Relation):** -> `jus-referendariat-stationen-spezial`, Plugin `urteilsbauer-relationsmacher`.
+
+## Anti-Muster
+- Schemata ohne Subsumtion. Schema ist Gerüst, nicht Ergebnis.
+- Anspruchsgrundlagenreihenfolge ignorieren: stets Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

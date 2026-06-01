@@ -22,6 +22,16 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Bewerberzustimmung — Pflicht-Bausteine
+
+- **Wählbarkeit (passives Wahlrecht):** § 15 BWahlG — Deutsche Staatsangehörigkeit nach Art. 116 GG, Wohnsitz/Mindestaufenthalt, Mindestalter; bei Europawahl § 6b EuWG; Landesregelungen prüfen.
+- **Zustimmungserklärung:** § 20 Abs. 2, § 21 Abs. 2 BWahlG — schriftliche, persönliche, unwiderrufliche Zustimmung des Bewerbers; Original mit Unterschrift; unwiderruflich nach Vorliegen beim Wahlleiter.
+- **Parteimitgliedschaft:** Vorprüfung — manche Wahlgesetze verlangen Mitgliedschaft in der vorschlagenden Partei (z. B. § 21 Abs. 1 BWahlG: Mitglieder oder vorgeschlagene Personen nach Satzung).
+- **Mehrfachkandidaturen:** Direkt- und Listenkandidatur regelmäßig möglich; Mehrfach-Listenkandidatur nur, wenn keine Wahlgesetzregelung dagegen.
+- **Strafrechtliche/öffentlich-rechtliche Hindernisse:** Aberkennung passive Wahlrecht (§ 45 StGB), Vormundschaft, Insolvenzverwaltung; "schwebende" Verfahren nicht ausreichend.
+- **Versicherung an Eides Statt:** Bei einigen Wahlgesetzen erforderlich für Parteienzugehörigkeit/Wahlausschluss-Erklärung.
+- **Praxis-Tipp:** Original-Zustimmungserklärung sofort an den zuständigen Wahlleiter; Vor-Ort-Aufstellungsversammlungs-Protokoll wegen § 21 BWahlG-Vertrauensschutz nicht erst nachträglich erstellen.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

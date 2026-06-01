@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten Barrierefreiheit
+- **Konformitätserklärung** nach § 6 BFSG / Art. 12 RL (EU) 2019/882 mit Bezug auf EN 301 549.
+- **Accessibility Statement / Erklärung zur Barrierefreiheit** nach § 14 BFSG.
+- **Audit-Bericht** (manuell + automatisch, WCAG 2.1 AA Level, vier Prinzipien wahrnehmbar/bedienbar/verständlich/robust).
+- **Testprotokoll** mit Screenreader (NVDA, JAWS, VoiceOver), Tastaturnavigation, Kontrastmessung.
+- **Behördlicher Mängelbescheid** Marktüberwachung § 19 BFSG.
+- **Schlichtungsantrag** § 21 BFSG / Klageschrift bei VG (öffentl. Stellen) bzw. ZG (Privatwirtschaft AGG, UWG, BGB).
+
+## Praxis-Tipp
+Eine Konformitätserklärung ohne Audit-Bericht ist verdächtig. Bei einer Prüfung der Konformität immer das Audit-Datum, die geprüften Seiten/Funktionen und die verwendete Methodik (z. B. WCAG-EM Methodology) verifizieren. Ein Audit, das nur 5 Seiten einer 5.000-Seiten-Plattform geprüft hat, trägt keine Generalaussage.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

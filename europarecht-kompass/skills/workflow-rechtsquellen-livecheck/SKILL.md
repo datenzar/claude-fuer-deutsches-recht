@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Unionsrechtliche Live-Quellen (Pflichtprüfung)
+
+- **eur-lex.europa.eu** — Konsolidierte Fassungen AEUV/EUV/GRCh, Verordnungen, Richtlinien; Suche nach CELEX-Nummer; Datum letzter Konsolidierung beachten.
+- **curia.europa.eu** — EuGH/EuG: Volltexte mit Az. (z. B. C-…/22 für EuGH, T-…/22 für EuG), InfoCuria mit Schlussanträgen.
+- **ec.europa.eu** — Kommission: Mitteilungen, Leitlinien, Beihilfenregister (State Aid Register), DG-Seiten.
+- **consilium.europa.eu / europarl.europa.eu** — Ratsdokumente, EP-Berichte.
+- **operations.ec.europa.eu/wifi-public/.../tenders** sowie **TED ted.europa.eu** für Beschaffungen.
+- **EUR-Lex Document N-Lex** — Nationales Umsetzungsrecht; teils Umsetzungsfristrist-Übersicht.
+- **DSGVO/EDSA edpb.europa.eu** — Leitlinien, Stellungnahmen.
+- **EuGH-Aktenzeichen niemals halluzinieren** — Format C-Nummer/Jahr (Gerichtshof) bzw. T-Nummer/Jahr (Gericht) und Datum vor jedem Zitat verifizieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

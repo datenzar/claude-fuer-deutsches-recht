@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Geschaeftsfuehrerhaftung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Haftungsanker und Berechnung:** § 43 Abs. 2 GmbHG (Sorgfalt eines ordentlichen Geschäftsmanns, Verschuldensmaßstab, Beweislastumkehr nach BGH ständige Rechtsprechung); § 93 Abs. 2 AktG analog für Vorstände; § 15a InsO Insolvenzantragspflicht 3 Wochen bei Zahlungsunfähigkeit, 6 Wochen bei Überschuldung; § 15b InsO Zahlungsverbote nach Eintritt Insolvenzreife.
+3. **Schadensberechnung:** Differenzhypothese (Schaden = Vermögenslage ohne Pflichtverletzung minus aktuelle Vermögenslage); bei Insolvenzverschleppung Quotenschaden für Altgläubiger, Vertrauensschaden für Neugläubiger (BGH ständige Rechtsprechung). Cap durch D&O-Versicherung (in der Praxis: Selbstbehalt § 93 Abs. 2 Satz 3 AktG mindestens 10 % bis 1,5fache Jahresfestvergütung).
+4. **Verjährung:** § 43 Abs. 4 GmbHG 5 Jahre ab Entstehung; § 93 Abs. 6 AktG 5 Jahre, börsennotierte AG 10 Jahre. Kenntnisunabhängig.
+5. **Business Judgment Rule (§ 93 Abs. 1 Satz 2 AktG analog für GmbH-Geschäftsführer):** unternehmerische Entscheidung, freier Pflichtenkonflikt, hinreichende Information, Handeln zum Wohl der Gesellschaft, Gutgläubigkeit. Anschluss: Beschluss zur Geltendmachung (§ 46 Nr. 8 GmbHG bzw. § 147 AktG), Klage zuständig LG Kammer für Handelssachen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

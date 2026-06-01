@@ -6,7 +6,19 @@ description: "Dokumentenintake im Plugin memorandums-ersteller: liest Uploads, s
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `memorandums-ersteller` Dokumentenintake im Plugin memorandums-ersteller: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest die Memo-Anfrage des Mandanten, die zugrundeliegenden Verträge, Bescheide, Korrespondenzen und Vorgutachten ein und bereitet die Struktur des Memos (Sachverhalt, Frage, Kurzantwort, Bewertung, Risiken, Quellen) vor.
+
+## Dokumentenarten erkennen
+- **Mandatsauftrag / Memo-Anfrage:** Was wird gefragt? (Ja/Nein, Risikoanalyse, Strategieoption, Stellungnahme zu Vorgutachten?)
+- **Faktenmaterial:** Verträge, AGB, Korrespondenz, Bescheide, Term Sheet, Letter of Intent.
+- **Vorgutachten / Stellungnahmen Dritter:** mit Kennzeichnung wessen Sicht; Memo-Verfasser muss eigene Bewertung machen.
+- **Begleitende Anlagen:** Bilanzen, Datenraum-Exporte, Behördenakten, Polizei-/Staatsanwaltschaftsakten.
+
+## Erste Triage
+- **Adressat:** Mandant (operativ), Geschäftsführung, Aufsichtsrat, externe Investoren, Behörde? Memo-Tonalität und -Tiefe richten sich danach.
+- **Rechtsgebiete:** mono-thematisch oder Schnittstellenmemo (z. B. Steuer + Gesellschaftsrecht + Arbeit)?
+- **Standardstruktur Memo (vgl. CLAUDE.md):** Sachverhalt, Frage(n), Kurzantwort (1 Satz), rechtliche Bewertung im Gutachtenstil, Gesamtergebnis, Risiken/offene Punkte, Quellenverzeichnis.
+- **Vertraulichkeit:** Privileged & confidential? Legal-privilege-Reichweite EU-grenzüberschreitend prüfen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

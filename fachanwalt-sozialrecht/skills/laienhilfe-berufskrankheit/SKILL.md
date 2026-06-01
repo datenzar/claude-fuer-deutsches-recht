@@ -51,3 +51,16 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Berufskrankheit - Themenspezifika
+- **Rechtsgrundlage:** § 9 SGB VII (Berufskrankheit), Berufskrankheitenverordnung (BKV) mit Anlage 1 (BK-Liste); §§ 26 ff. SGB VII (Leistungen); §§ 56 ff. SGB VII (Renten bei Minderung der Erwerbsfaehigkeit, MdE).
+- **Zustaendigkeit:** zustaendige Berufsgenossenschaft (gewerblich) bzw. Unfallkasse (oeffentlicher Dienst, Schule, Studium); BG-Liste DGUV.
+- **Drei Anerkennungsstufen** § 9 SGB VII:
+  - (a) Listen-Berufskrankheit (Anlage 1 BKV, z. B. BK 2108 Lendenwirbelsaeule, BK 4101 Asbestose, BK 5101 Hauterkrankungen).
+  - (b) Quasi-Listen-Berufskrankheit nach § 9 II SGB VII bei neuen Erkenntnissen.
+  - (c) Schon-erkrankungs-Anerkennung extrem selten.
+- **Beweis Doppelkausalitaet:** (i) berufliche Exposition / Belastung in haftungsbegruendender Kausalitaet; (ii) Krankheitsbild typisch durch Beruf - Wahrscheinlichkeit reicht (nicht Vollbeweis), BSG-staendige Rspr.
+- **Anzeige BK:** Arbeitgeber (§ 193 SGB VII) und Arzt (§ 202 SGB VII) sind verpflichtet; Patient kann selbst Anzeige machen.
+- **Leistungen:** Heilbehandlung (§ 27 SGB VII), Krankengeld, Verletztenrente bei MdE ab 20 % (§ 56 SGB VII), Pflege, Reha, ggf. Sterbegeld.
+- **MdE-Tabellen** der UV-Traeger / Schoenberger-Mehrtens-Valentin als Referenz; nicht mit GdB (SGB IX) verwechseln.
+- **Praxis-Tipp:** Berufsverlauf detailliert dokumentieren (Arbeitgeberliste, Belastungsexpositionen, Daten); Stellungnahmen ehemaliger Kollegen; Versicherungsbeitraege pruefen.

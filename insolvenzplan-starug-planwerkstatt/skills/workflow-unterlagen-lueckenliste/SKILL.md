@@ -28,6 +28,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Mindestunterlagen Plan-Werkstatt (InsO und StaRUG)
+- **Bilanz und Plan-GuV:** Letzter Jahresabschluss, aktuelle BWA, Plan-GuV über Planungszeitraum (idR 3–5 Jahre), Plan-Bilanz und Plan-Liquidität.
+- **Gläubigerstruktur:** Gläubigerliste mit Beträgen, Sicherheiten, Forderungsgrund — getrennt nach gesicherten/ungesicherten/nachrangigen Forderungen und Gruppen.
+- **Vergleichsrechnung:** Plan-Quote vs. Liquidationsquote (Zerschlagungswerte!), getrennt je Gruppe — § 220 Abs. 2 InsO bzw. § 7 StaRUG.
+- **Sanierungskonzept:** Maßnahmenkatalog mit Wirkungsdatum, Wirkung auf GuV/Bilanz/Liquidität, Verantwortliche, Meilensteinen — IDW S 6 als Maßstab.
+- **Drittsicherheiten:** Bürgschaften, Patronatserklärungen, Gesellschafterzusagen, Sicherheiten an Konzerngesellschaften — Plan kann unter Voraussetzungen Drittsicherheiten einbeziehen (§ 217 Abs. 2 InsO).
+- **Steuerliche Modellierung:** Sanierungsertrag § 3a EStG, Verlustvortrag § 8c KStG, USt-Behandlung von Forderungsverzichten — Steuerberater zwingend einbinden.
+- **Stakeholder-Mapping:** Wer hat Stimmrecht in welcher Gruppe? Wer hat Veto-Macht? Wer ist Treiber/Bremser?
+- **Trade-off:** Vollständige Datenraum-Vorbereitung kostet 6–10 Wochen; Quick-and-dirty-Plan scheitert regelmäßig im Abstimmungstermin.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

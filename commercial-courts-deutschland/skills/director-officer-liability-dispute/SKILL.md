@@ -22,10 +22,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+2. **Anspruchsgrundlagen:** § 43 Abs. 2 GmbHG / § 93 Abs. 2 AktG Schadensersatzanspruch der Gesellschaft gegen Organmitglieder bei Pflichtverletzung; Beweislastumkehr nach BGH ständige Rechtsprechung (Geschäftsführer trägt Beweis für sorgfältiges Handeln); Business Judgment Rule § 93 Abs. 1 Satz 2 AktG analog (Privilegiierung bei unternehmerischer Entscheidung auf Basis angemessener Information, ohne Sonderinteressen, gutgläubig zum Wohl der Gesellschaft).
+3. **Schaden, Versicherung, Geltendmachung:** Differenzhypothese (Vermögenslage ohne Pflichtverletzung minus aktuelle Vermögenslage); D&O-Versicherung als Versicherung der Gesellschaft, Selbstbehalt § 93 Abs. 2 Satz 3 AktG (mindestens 10 %, bis 1,5fache der Jahresfestvergütung); für GmbH-GF analoge Anwendung üblich. Geltendmachung bei GmbH durch Beschluss der Gesellschafter § 46 Nr. 8 GmbHG, bei AG durch Aktionärsklage § 147 AktG (10 %-Quorum, sondergeschäftsführender Vertreter) oder Klagezulassungsverfahren § 148 AktG (1 %-Quorum, Klagezulassung durch LG).
+4. **Verjährung und Beweisfragen:** § 43 Abs. 4 GmbHG / § 93 Abs. 6 AktG 5 Jahre ab Anspruchsentstehung (kenntnisunabhängig); börsennotierte AG 10 Jahre. Evidence Map: Geschäftsführungsmaßnahmen, Beschlussprotokolle, Beraterhonorare, externe Gutachten (Beleg für hinreichende Information).
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: Geltendmachungsbeschluss, Klage LG Kammer für Handelssachen, parallele Anzeige D&O-Versicherer (Deckungszusage).
 
 ## Output-Standard
 

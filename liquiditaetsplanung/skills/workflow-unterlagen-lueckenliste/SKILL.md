@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Lückenliste 13-Wochen-Plan (Mindestumfang)
+- **Anfangsbestand:** Banksalden je Konto (auch Verwahrkonto/Notarkonto), Kontokorrentlinien, Avalrahmen, Disposchutz.
+- **Einzahlungen wöchentlich:** Kundeneingänge nach OPOS mit Zahlungsmoral-Annahme; Sondereinnahmen (Förderbescheide, Vorsteuererstattungen, Verkaufserlöse) gesondert.
+- **Auszahlungen wöchentlich:** Personal (mit Lohnsteuer-/SV-Fälligkeiten), Lieferanten nach OPOS-Kreditoren, Mieten, Versicherungen, Tilgung und Zinsen, Steuern, sonstige Fixkosten.
+- **Sondersachverhalte:** Skontoabzug, Zessionen (Globalzession Bank!), Eigentumsvorbehalt-Forderungen, Leasingraten, Factoring-Vorauszahlungen vs. Endabrechnungen.
+- **Annahmen mit Sensitivität:** Umsatzrückgang −20 %, Forderungslaufzeit +10 Tage, Lieferantenkredit −7 Tage; jeweils dokumentiert mit Begründung.
+- **Linien & Sicherheiten:** Aktueller Inanspruchnahme-Stand, freie Linie, Kovenanten-Tests (mindestens monatlich), Sicherheitenbewertung.
+- **Trade-off:** Eine zu großzügige Lückenliste lähmt das Mandat; eine zu enge führt zu Schein-Genauigkeit. Pareto: 80 % der Liquiditätsbewegung läuft idR über 20 % der Positionen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

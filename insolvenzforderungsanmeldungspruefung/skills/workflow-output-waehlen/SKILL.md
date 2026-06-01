@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Output-Routing Forderungsanmeldung
+- **Anmeldeschrift § 174 InsO:** Standard für jede Insolvenzforderung; Grund, Betrag, Rang, Belege. Mängel führen zu Bestreiten und Verzögerung.
+- **Tabellenklage § 180 InsO:** Bei Bestreiten der Forderung im Prüfungstermin durch Verwalter oder Gläubiger — innerhalb der vom Verwalter gesetzten Frist erheben.
+- **Aussonderungsklage § 47 InsO:** Bei Eigentum, Eigentumsvorbehalt, Treuhandgut — getrennt vom Anmeldeverfahren.
+- **Absonderungsanmeldung §§ 49–52 InsO:** Bei Pfandrecht, Sicherungseigentum, Sicherungszession — Wertangabe und ungedeckter Ausfallbetrag anzugeben.
+- **Masseverbindlichkeit §§ 53 ff. InsO:** Bei Verwalterhandeln nach Eröffnung; direkte Zahlungsklage gegen den Verwalter, keine Tabellenanmeldung.
+- **Trade-off:** Pauschale Anmeldung deckt formal ab, lässt aber Rang offen. Differenzierte Anmeldung mit Rangtrennung (§ 38 vs. § 39 InsO) ist mehr Aufwand, verhindert aber Streit im Prüfungstermin.
+- **Praxis:** Forderung anmelden → Prüfungstermin abwarten → bei Bestreiten Tabellenklage prüfen; Frist für Tabellenklage nach § 179 InsO einzuhalten.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

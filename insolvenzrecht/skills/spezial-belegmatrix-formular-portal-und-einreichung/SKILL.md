@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Belegmatrix Insolvenzantrag § 13 InsO
+- **Pflichtangaben § 13 Abs. 1 Satz 3 InsO:** Verzeichnis Gläubiger, Forderungen, Vermögen (Aktiva), Verbindlichkeiten (Passiva) — bei Eigenantrag mit Eigenverwaltung zusätzlich § 270a-Antrag.
+- **Belege für § 17 Zahlungsunfähigkeit:** Liquiditätsstatus (Stichtag und 3-Wochen-Plan), OPOS Kreditoren mit Fälligkeit, Kontoauszüge, Mahnungen, Stundungsanträge.
+- **Belege für § 19 Überschuldung:** Bilanz zu Fortführungs- und Liquidationswerten, Stille Reserven/Lasten, Fortbestehensprognose nach § 19 Abs. 2 Satz 1 InsO mit Annahmen und Liquiditätsbasis.
+- **Pflichten Eigenverwaltungsantrag § 270a InsO:** Eigenverwaltungsplanung (Liquidität, Umsetzungsmaßnahmen, Sanierungskonzept), Bestätigung Geeignetheit.
+- **Schutzschirmantrag § 270d InsO:** Bei drohender Zahlungsunfähigkeit oder Überschuldung (nicht bei Zahlungsunfähigkeit); Bescheinigung qualifiziert sachverständige Person (StB, RA, WP) über positive Sanierungsaussichten.
+- **Formularportal/eRegister:** Einreichung in elektronischer Form möglich; bei manueller Einreichung Beglaubigungen und Unterschriften prüfen (§ 174 ZPO, § 130 ZPO bei elektronischer Übermittlung).
+- **Praxis:** Eröffnungsverfahren ist Vorbereitungs- und Sicherungsphase; je vollständiger die Belege bei Antragstellung, desto wahrscheinlicher die zügige Eröffnung und Verfahrensgestaltung nach Wunsch.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

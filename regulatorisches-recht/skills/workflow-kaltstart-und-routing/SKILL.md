@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Regulatorisches Routing (Sektor-Weichen)
+
+- **Daten/Plattformen:** DSGVO, ePrivacy, DSA/DMA (Plattformen ab 45 Mio Nutzer EU = VLOP), Data Act, Data Governance Act.
+- **KI:** AI Act (Risikoklassen: unannehmbar/hoch/begrenzt/minimal); Hochrisiko-Pflichten Anhang III; Verbindung zu Produkt- und Haftungsrecht (AI Liability Directive in Verhandlung).
+- **Cybersicherheit:** NIS-2 (Wesentliche/Wichtige Einrichtungen), CRA (Cyber Resilience Act), KRITIS (BSI-Gesetz), DORA für Finanzsektor.
+- **Finanzdienstleistungen:** KWG, WpHG, KAGB, ZAG; MiFID II, EMIR, MiCA für Krypto, DORA für Ausfallresilienz, AML-Pakete.
+- **Telekommunikation/Medien:** TKG, TMG/DDG, Medienstaatsvertrag, Rundfunkstaatsvertrag.
+- **Umwelt/ESG:** CSRD-Berichterstattung, EU-Taxonomie, CBAM, LkSG/CSDDD, Greenwashing-Richtlinien.
+- **Produkt/Verbraucher:** GPSR-VO, ProdSG, MaschinenVO, Medizinprodukte-VO, In-vitro-Diagnostik-VO, Pflanzenschutz.
+- **Energie/Klima:** EEG, EnWG, BImSchG, KSpG; EU-ETS.
+- **Wesentlich:** Bei jedem Mandat zuerst Sektor und Zuständigkeit klären (BaFin, BNetzA, BSI, BfDI/LfDI, EU-Kommission, Mitgliedstaaten); Sanktionsrisiko und Veröffentlichungspflicht separat bewerten.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

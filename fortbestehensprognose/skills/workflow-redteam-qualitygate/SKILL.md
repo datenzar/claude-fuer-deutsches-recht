@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Red-Team-Fragen Fortbestehensprognose
+- **Prognosezeitraum:** Sind die nach Rechtsprechung und IDW S 11 üblichen Zeiträume eingehalten? Üblich: das laufende und das folgende Geschäftsjahr (mind. 12 Monate ab Stichtag), bei drohender Zahlungsunfähigkeit nach § 18 Abs. 2 InsO idR 24 Monate (Stand prüfen).
+- **Annahmen identifizieren:** Sind die kritischen Annahmen (Großkunden, Bankfinanzierung, Steuerstundung) als solche gekennzeichnet, und ist klar, was passiert, wenn sie nicht eintreten?
+- **Stresstest:** Was passiert bei Wegfall der Top-3-Annahmen? Bricht die Prognose dann? Wenn ja, ist die Prognose nicht "überwiegend wahrscheinlich" (BGH ständige Rspr.).
+- **Liquiditätsplausibilität:** Stimmt die 13-Wochen-Planung mit den OPOS-Listen, dem Tilgungsplan und der Lohnzahlungsfrist? Sind Steuern, Sozialversicherung (§ 266a StGB) und Umsatzsteuer-Voranmeldungen enthalten?
+- **Klärung Eröffnungsgrund:** Ist trennscharf, ob die Prognose § 19 InsO (Überschuldung) oder § 18 InsO (drohende Zahlungsunfähigkeit) adressiert? Beides hat unterschiedliche Folgen für § 15a InsO.
+- **Quellenfußabdruck:** Sind alle nicht-trivialen rechtlichen Aussagen normbelegt? Keine BGH-Az aus Modellwissen, sondern "BGH ständige Rspr." oder verlinkter Live-Check.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

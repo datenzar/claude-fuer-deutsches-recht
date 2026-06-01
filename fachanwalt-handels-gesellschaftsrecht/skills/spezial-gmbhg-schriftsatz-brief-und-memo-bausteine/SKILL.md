@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gmbhg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **GmbHG-Anker setzen:** § 5 GmbHG Mindeststammkapital 25.000 EUR; § 7 Abs. 2 GmbHG mindestens ein Viertel je Einlage und insgesamt mindestens 12.500 EUR vor Anmeldung erbracht; § 8 GmbHG Anmeldungsinhalt; § 15 Abs. 3 GmbHG notarielle Beurkundung jeder Anteilsübertragung; § 53 GmbHG Satzungsänderung notariell mit 3/4-Mehrheit.
+3. **Bausteinwahl:** Schriftsatz an Registergericht (Anmeldungstext mit § 8 GmbHG-Inhalten), Aufforderungsbrief Gesellschafter (§ 26 GmbHG Nachschuss/§ 27 GmbHG Kaduzierung), Memo Geschäftsführerhaftung (§ 43 GmbHG Verschuldensmaßstab, § 43a GmbHG Kreditverbot), Beschlussvorschlag Gesellschafterversammlung (§ 47 GmbHG Stimmrecht je 1 EUR Geschäftsanteil eine Stimme).
+4. **Form- und Fristenkontrolle:** Notarielle Beurkundung bei Gründung (§ 2 GmbHG), Anteilsübertragung (§ 15 Abs. 3 GmbHG), Kapitalmaßnahmen (§§ 55 ff. GmbHG); MoPeG-Reform betrifft GbR/PartG, nicht GmbH unmittelbar. Anfechtungsfrist Gesellschafterbeschluss analog § 246 AktG: einen Monat, BGH ständige Rechtsprechung.
+5. **Anschluss:** Konkreten Textbaustein mit Platzhaltern liefern; spezial-Skills im Plugin verlinken (Beschlussanfechtung, Geschäftsführerhaftung, Gesellschafterstreit).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

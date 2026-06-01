@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **AktG** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Aktienrechtlicher Rechtsrahmen:** §§ 23 ff. AktG Gründung (Mindestgrundkapital 50.000 EUR, § 7 AktG), §§ 76 ff. AktG Vorstand, §§ 95 ff. AktG Aufsichtsrat, §§ 118 ff. AktG Hauptversammlung. Beschlussanfechtung § 246 AktG (Frist ein Monat ab Beschlussfassung, § 246 Abs. 1 AktG).
+3. **Behörden- und Registerweg:** Anmeldung Handelsregister (Abteilung B) § 36 AktG bei zuständigem Amtsgericht; öffentliche Beurkundung § 23 AktG; bei börsennotierten AG zusätzlich BaFin-Mitteilungspflichten (Art. 17 MAR Ad-hoc, §§ 33 ff. WpHG Stimmrechtsmeldungen, §§ 19 ff. WpHG Directors' Dealings).
+4. **Frist- und Formregeln:** Einberufung Hauptversammlung mindestens 30 Tage vor Termin (§ 123 Abs. 1 AktG), bei börsennotierter AG 36 Tage (§ 123 Abs. 2 AktG). Notarielle Beurkundung der HV-Beschlüsse zwingend § 130 AktG.
+5. **Anschluss:** Anfechtungsklage zuständig Landgericht Kammer für Handelssachen (§ 246 Abs. 3 AktG i.V.m. § 95 GVG); bei kapitalmarktrelevanten Themen parallel BaFin-Anzeige; Beweissicherung notarielles HV-Protokoll als zentrales Beweismittel.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

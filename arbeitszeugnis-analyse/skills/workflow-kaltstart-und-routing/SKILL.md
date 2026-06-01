@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Cheatsheet Arbeitszeugnis-Analyse
+
+| Stichwort | Anschluss-Skill | Norm/Standardregel |
+| --- | --- | --- |
+| "Welche Note hat mein Zeugnis?" | `zeugnisart-erkennung` + `spezial-codeworte-compliance-dokumentation-und-akte` | BAG-Standardformeln: 1 "stets vollst./", 2 "stets voll", 3 "voll", 4 "Zufried.", 5 "im Großen/Ganzen" |
+| "Korrektur fordern" | `spezial-arbeitszeugnisse-fristen-form-und-zustaendigkeit` + `spezial-schaufenster-verhandlung-vergleich-und-eskalation` | § 109 GewO; BAG ständige Rspr. Wahrheit + Wohlwollen |
+| "Beweislast für bessere Note" | `spezial-deutscher-tatbestand-beweis-und-belege` | BAG: Note 3 ist Standard, AN beweist 1-2, AG beweist 4-6 |
+| "Geheimcodes / Schaufenster-Drift" | `spezial-codeworte-compliance-dokumentation-und-akte` + `spezial-orange-risikoampel-und-gegenargumente` | Auslassungen, fehlende Schlussformel, "bemüht" als Negativ-Code |
+| "Klage einreichen" | `spezial-arbeitszeugnisse-fristen-form-und-zustaendigkeit` | ArbG, § 11 ArbGG kein Anwaltszwang, Streitwert ein Bruttomonatsgehalt |
+| "Aufforderungsschreiben" | `spezial-codeworte-compliance-dokumentation-und-akte` | Fristsetzung 2-4 Wochen, Beleg-Anhang |
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

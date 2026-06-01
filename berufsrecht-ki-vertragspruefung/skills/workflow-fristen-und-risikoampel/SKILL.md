@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Berufsrecht-KI-typische Risiken
+- **§ 203 StGB**: Strafrechtliche Schweigepflichtverletzung — Freiheitsstrafe bis 1 Jahr oder Geldstrafe; Antragsdelikt § 205 StGB.
+- **§ 43a Abs. 2 BRAO / § 43e BRAO**: Berufsrechtliche Verschwiegenheit, anwaltsgerichtliche Maßnahmen § 113 BRAO bis Ausschluss aus der Anwaltschaft.
+- **DSGVO**: Art. 33 Datenpannenmeldung 72h, Bußgelder bis 20 Mio. EUR / 4 %.
+- **KI-VO**: Schulungspflicht Art. 4 KI-VO seit 02.02.2025; Verbotene Praktiken Art. 5 (z. B. Social Scoring) — bis 35 Mio. EUR / 7 %.
+- **Haftung**: zivilrechtliche Haftung gegenüber Mandantschaft (§§ 280, 611, 675 BGB), Anwaltshaftpflicht § 51 BRAO.
+
+## Ampelkriterien
+- **Rot**: Mandantendaten in nicht AVV-bewehrtes KI-Tool eingeführt; US-Cloud ohne TIA; Verstoß § 203 StGB sichtbar; aktuelle Beschwerde Rechtsanwaltskammer.
+- **Gelb**: AVV vorhanden, aber TOM-Anlage fehlt; KI-Tool ohne dokumentierte Klassifizierung; Schulungsnachweis Art. 4 KI-VO offen.
+- **Grün**: AVV + TOM + ggf. SCC + TIA; dokumentierte KI-Klassifizierung; Schulung; intern verabschiedete KI-Richtlinie.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

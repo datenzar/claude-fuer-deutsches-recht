@@ -6,7 +6,17 @@ description: "Rechtsquellen-Livecheck im Plugin schriftform-und-textform-bgb: zw
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `schriftform-und-textform-bgb` Rechtsquellen-Livecheck im Plugin schriftform-und-textform-bgb: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill erzwingt vor jeder formrechtlichen Aussage einen Live-Check der einschlägigen Vorschriften (BGB AT, eIDAS-VO, Sondergesetze) und der relevanten BAG-/BGH-Linien.
+
+## Pflichtquellen
+- **BGB:** § 125 (Nichtigkeit), § 126 (Schriftform), § 126a (elektronische Form), § 126b (Textform), § 127 (vereinbarte Form), §§ 128, 129 (notarielle Beurkundung, Beglaubigung), § 130 (Zugang); § 311b (Grundstück), § 766 (Bürgschaft), § 484 (Verbraucherdarlehen Teilzeit-Wohnrechte), § 550 (Mietvertrag > 1 Jahr), § 623 (Kündigung Arbeitsverhältnis), § 1410 (Ehevertrag), § 2247 (Testament), § 167 Abs. 2 (Vollmacht-Formfreiheit).
+- **eIDAS-VO (EU) 910/2014** (ggf. eIDAS 2.0 Änderungs-VO 2024/1183 mit European Digital Identity Wallet): Art. 3 Nr. 10-12, Art. 25-26 (Rechtswirkungen).
+- **Sondergesetze:** § 4 NachwG, § 14 BetrVG, § 22 KSchG, § 13 VerbrKrG/§ 492 BGB, § 17 GBO, § 13 WEG.
+- **BAG / BGH-Linien:** stets aktuell auf bundesarbeitsgericht.de bzw. bundesgerichtshof.de prüfen; insbesondere zu doppelten Schriftformklauseln in Arbeitsverträgen (BAG, vgl. ständige Rspr. zu § 305c, § 307 BGB).
+
+## Anti-Halluzinations-Regeln
+- Keine BAG-/BGH-Az. erfinden. Bei Hinweis auf "ständige Rspr." Az. der Leitentscheidung live verifizieren.
+- eIDAS-VO 2.0 (Änderungs-VO 2024/1183): Inkrafttreten und Anwendbarkeit live prüfen, bevor zitiert wird -- Übergangsfristen beachten.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Kommunikation Forderungsanmeldung — was die Mandantin wissen muss
+- **Anmeldefrist § 28 InsO:** Frist vom Insolvenzgericht im Eröffnungsbeschluss bestimmt. Bei verspäteter Anmeldung (§ 177 InsO): Sonderprüfungstermin auf Kosten des Anmelders.
+- **Erwartete Quote realistisch einschätzen:** Bei Unternehmensinsolvenzen sind Quoten von 5–10 % auf einfache Insolvenzforderungen (§ 38 InsO) typisch; nachrangige Forderungen (§ 39 InsO) erhalten meist 0 %.
+- **Sicherheiten getrennt behandeln:** Wer Aussonderungsrecht (§ 47 InsO) hat, ist nicht Insolvenzgläubiger; bei Absonderungsrecht (§§ 49–51 InsO) wird Ausfallbetrag (§ 52 InsO) angemeldet.
+- **Vorsicht bei Massegläubigern:** Wer nach Eröffnung Leistungen erbringt, hat Anspruch gegen die Masse (§ 55 InsO) — direkte Zahlungsklage, keine Anmeldung.
+- **Anfechtungsrisiko nicht unterschätzen:** Zahlungen, die in der Krise oder im Anfechtungszeitraum geleistet wurden (§§ 130, 131, 133 InsO), können vom Verwalter zurückgefordert werden — Mandantin frühzeitig informieren.
+- **Kostenrisiko:** Tabellenklage löst Gerichtskosten und Anwaltskosten aus. Bei kleinen Forderungen oft wirtschaftlich nicht sinnvoll — Mandantin auf Quote/Kosten-Verhältnis hinweisen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

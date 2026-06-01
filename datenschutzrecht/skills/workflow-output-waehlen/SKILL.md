@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen Datenschutz
+- **Auskunftsentwurf nach Art. 15 DSGVO** mit Datenkopie, Empfängerliste, Speicherdauer, Widerspruchsrechten.
+- **DSFA-Bericht** nach Art. 35 DSGVO mit Bewertungsmethodik, Risiken, Schutzmaßnahmen, Restrisikobewertung.
+- **AVV-Redline** nach Art. 28 Abs. 3 DSGVO mit Markierungen für TOM-Anlage, Subunternehmer, Audit-Rechte.
+- **Meldung nach Art. 33 DSGVO** (Datenpanne) — Standardformular der zuständigen Aufsichtsbehörde verwenden (BfDI / LfD-Portal).
+- **Benachrichtigung der Betroffenen** nach Art. 34 DSGVO mit klarer Sprache, Beschreibung, Kontakt DSB.
+- **Datenschutzhinweise** nach Art. 13/14 DSGVO mit allen Pflichtangaben.
+- **Drittlandstransfer-Doku**: SCC-Modul-Auswahl + TIA + ggf. supplementary measures.
+
+## Praxis-Tipp
+Bei einer Datenpannenmeldung nach Art. 33 stets das Online-Meldeformular der zuständigen Behörde (z. B. BfDI-Meldeportal, LDI NRW-Formular) verwenden und parallel intern eine Aktennotiz mit Zeitlinie führen — die 72-Stunden-Frist verläuft schnell, eine spätere Rekonstruktion ist mühsam.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

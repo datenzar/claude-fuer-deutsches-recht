@@ -37,3 +37,22 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Rechtsmittel / Bewaehrung / Gesamtstrafe - Bausteine
+- **Rechtsmittelpruefung nach Verkuendung:**
+  - Beschwer pruefen (Strafmass-Differenz zum Antrag StA/Verteidigung).
+  - Erfolgsaussicht Sachruege (Strafzumessungsruege selten erfolgreich; Aufhebung idR bei Lueckenhaftigkeit, Wertungsfehler, falschem Strafrahmen, Doppelverwertung § 46 III StGB) - staendige Rspr.
+  - Verfahrensruege fuer Verstaendigungsmaengel § 257c StPO (Belehrung § 257c V StPO!).
+  - Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche, § 345 StPO Begruendung 1 Monat.
+- **Bewaehrungsentscheidung § 56 StGB:**
+  - Bis 6 Mon. = Sollvorschrift; 6-12 Mon. = Kannvorschrift; 12-24 Mon. = "besondere Umstaende" § 56 II StGB.
+  - Sozialprognose § 56 I 1 StGB; Verteidigungsverhalten in Hauptverhandlung relevant.
+  - Bewaehrungsauflagen § 56b StGB (Wiedergutmachung, Geldbusse, gemeinnuetzige Arbeit), -weisungen § 56c StGB (Therapie, Bewaehrungshilfe, Kontaktverbote).
+  - Bewaehrungsdauer 2-5 Jahre § 56a StGB.
+- **Gesamtstrafe § 55 StGB (nachtraegliche):**
+  - Voraussetzung: weitere Verurteilung vor Vollstreckung erster Tat erfolgt.
+  - Bildung: Einsatzstrafe + Erhoehung; § 54 II StGB Hoechstmass.
+  - Antrag auf nachtraegliche Gesamtstrafenbildung gegen Vollstreckungsbehoerde / Gericht § 460 StPO.
+- **Bewaehrungswiderruf § 56f StGB:** bei neuer Straftat in Bewaehrungszeit; § 56g Erlass nach Bewaehrungsende.
+- **Anrechnung U-Haft § 51 StGB:** zwingend; Ausnahme bei Doppelvollstreckung.
+- **Hinweispflicht Verteidiger:** Rechtsmittelverzicht und -Ruecknahme schriftliche Mandantenfreigabe.

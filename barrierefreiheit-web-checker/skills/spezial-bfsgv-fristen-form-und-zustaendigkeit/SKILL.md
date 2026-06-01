@@ -21,10 +21,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bfsgv** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BFSGV** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## BFSG/BFSGV-typische Fristen und Zuständigkeit
+- **§ 1 BFSG:** Geltung ab **28.06.2025** für Produkte/Dienstleistungen nach abschließendem Katalog (E-Commerce, Banking, Personenverkehr, e-Books, Bankautomaten u. a.).
+- **§ 38 BFSG (Übergang):** Selbstbedienungsterminals dürfen bis 27.06.2040 weiter eingesetzt werden, wenn vor 28.06.2025 in Verkehr gebracht.
+- **§ 19 BFSG (Marktüberwachung):** zuständige Landesbehörden; Anordnung Mängelbeseitigung, Untersagung Vertrieb.
+- **§ 21 BFSG (Schlichtung):** Schlichtungsstelle des Bundes (BfdiM) für Verbraucherbeschwerden — Schlichtungsverfahren regelmäßig kostenfrei.
+- **§ 37 BFSG (Bußgeld):** bis 100.000 EUR.
+- **Rechtsweg:** Verwaltungsgericht bei behördlicher Anordnung (§ 19 BFSG); Zivilgericht bei Verbraucher-Streit, ggf. AGG (§ 19 BGB-Diskriminierung) oder UWG-Mitbewerberklage.
+
+## Praxis-Tipp
+Vor Klageweg zuerst Schlichtung nach § 21 BFSG anbieten — sie ist niedrigschwellig, dokumentiert den Konflikt und ist oft Zugangsvoraussetzung für später folgende Schadensersatzforderungen oder behördliche Maßnahmen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

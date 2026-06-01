@@ -22,6 +22,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verwaltungsrechtliche Live-Quellen (Pflichtprüfung)
+
+- **gesetze-im-internet.de** — VwGO, VwVfG (Bund und Länder), VwZG, jeweilige Fachgesetze; Landes-VwVfG haben teils abweichende Regelungen (Berlin, NRW, BW etc.).
+- **bverwg.de** — Bundesverwaltungsgericht: Pressemitteilungen, Volltexte; jedes Az. (z. B. 1 C 4.22) vor Zitat verifizieren.
+- **Landesrechtsportale** — Z. B. landesrecht-nrw.de, landesrecht-bw.de, landesrecht-bayern.de: Landes-Bauordnungen, Polizeigesetze, KommunalverfG, Studiengesetze.
+- **dejure.org / openjur.de** — Volltexte VG/OVG; Kommunalgerichte teils nur über jeweiliges Landesrechtsportal.
+- **Behördenseiten** — Für Praxiserlasse, Verwaltungsvorschriften, Formulare; Kommunalsatzungen über Amtsblätter der Gemeinden.
+- **curia.europa.eu** — EuGH bei unionsrechtlich determiniertem Verwaltungsrecht (Asyl-, Umwelt-, Beihilfe-, Datenschutzrecht).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

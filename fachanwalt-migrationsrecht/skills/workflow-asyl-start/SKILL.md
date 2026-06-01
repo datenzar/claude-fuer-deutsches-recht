@@ -24,6 +24,15 @@ Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste We
 5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
 6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
 
+## Asylrechtliche Kernweichen
+
+- **Schutzgrundpyramide:** Art. 16a GG (politische Verfolgung, eingeschränkt durch sichere Drittstaaten § 26a AsylG) — Flüchtlingsschutz § 3 AsylG (GFK) — subsidiärer Schutz § 4 AsylG (ernsthafter Schaden) — nationales Abschiebungsverbot § 60 Abs. 5 AufenthG (EMRK, insbes. Art. 3) / Abs. 7 (konkrete Gefahr).
+- **Verfolgungsakteure:** Staatlich, quasi-staatlich, nicht-staatlich; letztere nur, wenn Staat keinen Schutz bieten kann/will (§ 3c, 3d AsylG).
+- **Innerstaatliche Fluchtalternative (§ 3e AsylG):** Zumutbarkeit und tatsächliche Erreichbarkeit.
+- **Frist-Knockout:** Klage 2 Wochen (§ 74 AsylG); bei offensichtlich unbegründet 1 Woche mit Eilantrag (§ 36 AsylG); Dublin-Bescheid 1 Woche (§ 34a Abs. 2 AsylG).
+- **Dublin-III (VO 604/2013) Fristen:** Übernahme-/Wiederaufnahmeersuchen i. d. R. 2–3 Monate; Überstellung 6 Monate (Art. 29), bei Untertauchen 18 Monate.
+- **GEAS-Reform 2024:** Grenzverfahren-VO, Asylverfahrens-VO, AMM-VO — Anwendungsstand kontinuierlich prüfen (BAMF, BMI, eur-lex).
+
 ## Spanisch bei Bedarf
 Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
 

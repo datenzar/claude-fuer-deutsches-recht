@@ -37,3 +37,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## OWi-Einspruch / Dokumentenmatrix - Bausteine
+- **Pflichtdokumente bei Einspruch § 67 OWiG:** Bussgeldbescheid mit Datum Zustellung; Einspruchsschreiben unterschrieben; Vollmacht Verteidiger.
+- **Messverfahren-Pruefung Lueckenliste:**
+  - **Eichschein** Geraet im Tatzeitraum gueltig? (Eichordnung; regelmaessig 1 Jahr).
+  - **Bedienerschein / Schulungsnachweis** Messbeamter? (gemaess PTB-Anforderungen).
+  - **Lebensakte Geraet** komplett? (Reparaturen, Software-Updates).
+  - **Messprotokoll** ordnungsgemaess gefuehrt? (Datum, Zeit, Aufstellort, Witterung).
+  - **Rohdaten** (.case / .esa / Statistik): Anspruch auf Herausgabe nach BVerfG-Linie zur fair-trial-Garantie - vom OLG zunehmend bejaht; ggf. Verfassungsbeschwerde bei Verweigerung.
+  - **Messort** Hinweisschilder? Tempolimit unauffaellig? Geraet zugelassen fuer die Messstelle?
+- **Standardisierte Messverfahren BGH-Linie:** Vermutung Richtigkeit bei Einhaltung der PTB-Bauartzulassung; Verteidigung muss konkreten Anhaltspunkt fuer Messfehler liefern (Anomalien, Toleranzunterschreitung).
+- **Spezifische Geraete-Schwaechen:**
+  - **Poliscan F1HP / FM1**: bekannte Diskussionen zu Photopositionierung, Rohdaten-Verfuegbarkeit.
+  - **Leivtec XV3**: Verfahren bei AG/OLG bei systematischen Messfehlern.
+  - **ES 8.0 / 3.0**: Smear-Effekt bei schnellen Fahrzeugen, Photolinien-Pruefung.
+  - **TraffiStar S330**: stationaerer Blitzer, Rohdaten kontrovers.
+  - **VKS 3.0 / VPS 3.0**: Video-Nachverfolgung.
+- **Fahrerermittlung** § 25 StVG: Lichtbildqualitaet (Aehnlichkeitsabgleich); Fahrtenbuchauflage § 31a StVZO nach Verfahrenseinstellung moeglich.
+- **Beschraenkungsmoeglichkeiten:** Einspruch auf Rechtsfolgenausspruch (analog § 410 II StPO; gilt auch im OWi-Verfahren).
+- **Nachforderungs-Schreiben** mit konkreter Liste und Frist; ggf. Beweisantrag § 244 StPO i.V.m. § 71 OWiG.

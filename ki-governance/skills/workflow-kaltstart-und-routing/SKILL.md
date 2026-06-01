@@ -22,6 +22,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Diagnose KI-Governance
+- **"Wir wollen KI im Unternehmen einsetzen"** → Inventar, Klassifizierung nach KI-VO (VO (EU) 2024/1689) und DSGVO-Schnittstelle (Art. 6, 22, 35 DSGVO).
+- **"Wir entwickeln eigene KI-Lösungen"** → Anbieterrolle Art. 3 Nr. 3 KI-VO, ki-vo-ai-act-pruefer-Plugin verlinken.
+- **"Wir schreiben eine KI-Richtlinie"** → ki-richtlinie-kanzleien-Plugin oder eigene Vorlage; DAV-Stellungnahme zur KI-Nutzung in Kanzleien als Orientierung.
+- **"Wir haben einen KI-Vorfall"** → Vorfallmeldung Art. 73 KI-VO (Hochrisiko) plus Art. 33/34 DSGVO bei personenbezogenen Daten.
+
+## Praxis-Tipp
+Eine Kanzlei-KI-Richtlinie ohne Inventar und Klassifizierung ist Symbolpolitik. Empfehlung: zuerst inventarisieren (welches Tool, welche Daten, welche Rolle), dann klassifizieren (KI-VO-Risikoklasse, DSGVO-Datenkategorie), dann Richtlinie. Geltungsbeginn Art. 5 KI-VO seit 02.02.2025, Art. 6 ff. Hochrisiko ab 02.08.2026.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

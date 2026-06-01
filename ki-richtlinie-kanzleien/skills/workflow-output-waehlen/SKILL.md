@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen Kanzlei-KI-Richtlinie
+- **Vollständiger Richtlinientext** (PDF/Word) mit Gliederung Zweck, Geltungsbereich, Tool-Whitelist, Datenkategorien, Pflichten, Sanktionen, Inkrafttreten.
+- **Tool-Whitelist als Tabelle**: Tool, Anbieter, Zweck, Hosting, AVV-Status, DPF/SCC, kategorisierte Daten ("Mandantendaten ja/nein"), Freigabedatum.
+- **One-Pager für Mitarbeitende**: Die 5 wichtigsten Regeln, Wer-darf-was, Notfall-Hotline.
+- **Schulungsfolien Art. 4 KI-VO** mit Quiz und Teilnahmebestätigung.
+- **Aufklärungstextbaustein für Mandatsvereinbarung** mit Hinweis auf KI-Einsatz und Datenfluss.
+- **Memo an Geschäftsleitung / Partner** zur Genehmigung der Richtlinie mit Risikoampel.
+- **Betriebsratsvorlage** § 87 Abs. 1 Nr. 6 BetrVG für Mitbestimmung.
+
+## Praxis-Tipp
+Die wirksamste Form ist oft der **One-Pager als Aushang im Büro plus Wallpaper auf jedem Arbeitsrechner**. Lange Richtlinien werden nicht gelesen — die zentrale Regel ("keine Mandantendaten in nicht freigegebene Tools") muss in 2 Zeilen reproduzierbar sein.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

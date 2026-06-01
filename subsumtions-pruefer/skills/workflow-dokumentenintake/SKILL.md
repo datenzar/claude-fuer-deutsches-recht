@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin subsumtions-pruefer: liest Uploads, sor
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `subsumtions-pruefer` Dokumentenintake im Plugin subsumtions-pruefer: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Sachverhalte, Gutachten, Schriftsätze, Urteile und Vermerke ein und sortiert sie nach Subsumtions-Bausteinen: Obersatz (Norm), Definition des Tatbestandsmerkmals, Subsumtion (konkrete Tatsachen unter Definition), Schlussfolgerung.
+
+## Dokumentenarten
+- **Sachverhalt:** Tatsachenmaterial mit Subsumtionsbedarf.
+- **Vorgutachten / Memo:** Ist die Subsumtion sauber? Ist die Definition mit Quelle belegt?
+- **Klausurlösung:** Subsumtion vs. bloße Wiederholung der Definition prüfen.
+- **Urteil:** Tatbestand (§ 313 ZPO) liefert Tatsachen, Entscheidungsgründe liefern juristische Würdigung mit Subsumtion.
+
+## Erste Triage
+- Welche Norm ist Obersatz? Ist sie geltendes Recht (Fassungsstand)?
+- Welche Tatbestandsmerkmale sind streitig?
+- Liegt eine **vollständige Subsumtion** vor (Obersatz → Definition → Tatsachen → Schluss)?
+- Anti-Muster: "Definition wiederholen statt subsumieren"; "Tatsachen umformulieren statt unter Definition zu prüfen"; "Schluss ohne Definition" (sog. Sprung-Subsumtion).
+- Sprache: Gutachtenstil (Konjunktiv im Obersatz, Indikativ in Subsumtion und Schluss).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

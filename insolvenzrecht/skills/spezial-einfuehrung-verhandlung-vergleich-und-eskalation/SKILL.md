@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Verhandlungs- und Eskalationspfade im Insolvenzrecht
+- **Vorinsolvenzlich:** Stillhalteabkommen (Standstill) — gesondert Schriftform, Laufzeit max. 90 Tage typisch; Sanierungsmoderator §§ 94 ff. StaRUG für strukturierte Vermittlung; StaRUG-Restrukturierungsplan § 4 ff. StaRUG bei drohender Zahlungsunfähigkeit (§ 18 InsO).
+- **Eigenverwaltung § 270 InsO:** Mit § 270a-Antrag oder Schutzschirm § 270d InsO. Vorteil: Geschäftsführung bleibt. Voraussetzung: Eigenverwaltungsplanung und keine Anhaltspunkte, dass Gläubiger durch Eigenverwaltung schlechter stehen.
+- **Regelverfahren:** Insolvenzverwalter führt das Verfahren; Eigenverwaltung wird abgelehnt oder nicht beantragt.
+- **Insolvenzplan §§ 217 ff. InsO:** Sanierung im eröffneten Verfahren; auch durch Verwalter (§ 218 Abs. 1 InsO).
+- **Verhandlungslinie Gläubiger:** Vor Antrag Stundung/Vergleich; nach Antrag Forderungsanmeldung und ggf. Plan-Mitwirkung; bei Anfechtung Verteidigungslinien (§ 142 Bargeschäft, fehlende Kenntnis bei § 130, fehlende Inkongruenz bei § 131).
+- **Eskalation Schuldnerin:** Bei Gläubigerantrag § 14 InsO: Forderung erfüllen oder bestreiten, Eröffnungsgrund bestreiten, ggf. Eigenantrag mit Eigenverwaltung; bei Vollstreckungsdruck StaRUG-Stabilisierungsanordnung § 49 StaRUG erwägen.
+- **Praxis:** Verhandlungsspielraum endet mit Eintritt der Antragspflicht (§ 15a InsO) — danach ist Antrag zwingend, Verhandlung allenfalls intra-verfahrensrechtlich möglich.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

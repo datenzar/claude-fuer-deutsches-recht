@@ -6,7 +6,20 @@ description: "Anschluss-Skills Router im Plugin tabellenreview-3d: schlägt nach
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `tabellenreview-3d` Anschluss-Skills Router im Plugin tabellenreview-3d: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach Sichtung in den passenden Tabellen-Review-Spezialskill: Spaltenintegrität, Zeilenkohärenz, Querbezüge, Insolvenztabellenanalyse, Cap-Table-Audit, Anlagenmatrix.
+
+## Routing nach Tabellentyp
+- **Insolvenztabelle (§ 174 ff. InsO):** Anmeldung, Bestreiten, Feststellung, Rang; Verweis auf Insolvenzplan-Skill (`insolvenzplan-starug-planwerkstatt`).
+- **Cap Table:** Anteilsklassen, Vesting, Pre-Money/Post-Money, Verwässerung, Liquidation Preferences; Verweis auf `wandeldarlehen-lebenszyklus`, `gesellschaftsrecht`.
+- **Forderungsaufstellung / Mahnbescheidsantrag:** Hauptforderung, Zinsen (§ 288 BGB), Verzugsschaden, Kosten (RVG).
+- **Schadens-/Bilanztabelle:** Schadensposten, Beleg, Beweismittel; Querverweis auf Schadensberechnungs-Skill.
+- **Anlagentabelle Schriftsatz (K1, K2 / B1, B2):** Reihenfolge wie zitiert; Anlagen-Konvolut nummerieren.
+- **JVEG-Stundenaufstellung:** Spalten Tag, Tätigkeit, Stundenzahl, Honorargruppe, Betrag, USt; Verweis auf `jveg-kostenpruefer`.
+
+## Anti-Muster
+- Tabellen ohne Spalte "Quelle/Beleg" -- nicht auditfähig.
+- Summen ohne Cross-Check; Rundungsfehler.
+- Mehrere Versionen ohne Versionsspalte / Stand.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

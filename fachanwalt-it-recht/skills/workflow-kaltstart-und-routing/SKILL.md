@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Diagnose IT-Recht
+- **"Software-Erstellung individuell / Werkvertrag"** → §§ 631 ff. BGB, Pflichtenheft, Abnahme § 640 BGB, Gefahrtragung, ggf. Erfüllungsanspruch + Nacherfüllung §§ 634 ff.
+- **"Kauf von Standardsoftware (dauerhaft)"** → §§ 433 ff. BGB analog, BGH NJW 2007, 2394.
+- **"SaaS / Cloud (laufend)"** → Mietrechtsähnliche Pflichten (§§ 535 ff. BGB), SLA, AVV nach Art. 28 DSGVO, Datentransfer Art. 44 ff. DSGVO; bei US-Cloud DPF/SCC/TIA.
+- **"Open Source / Lizenzfragen"** → GPL/MIT/Apache, Copyleft-Effekt; UrhG, EuGH C-666/18 (IT-Development Software).
+- **"Domain / Markenkonflikt"** → MarkenG, DENIC-Bedingungen, UDRP/.eu-ADR.
+- **"NIS2 / DDG / DSA"** → DSA-Plugin verlinken; bei NIS2: KRITIS-Schwelle (Anhang I/II BSI-KritisV) prüfen.
+- **"Datenschutzrechtlicher IT-Sachverhalt"** → datenschutzrecht-Plugin verlinken.
+
+## Praxis-Tipp
+IT-Verträge werden oft als "Mischvertrag" angeboten — die Rechtsnatur (Werkvertrag, Dienstvertrag, Kauf, Miete, Lizenz) folgt aber dem Schwerpunkt. Bei Streit Nacherfüllung vs. Nachbesserung von SLA-Verstößen: prüfen, ob laufende SaaS-Leistung mietrechtlich oder werkvertraglich qualifiziert wurde.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

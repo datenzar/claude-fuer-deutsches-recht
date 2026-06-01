@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Haftungstatbestände Geschäftsführer in Krise und Insolvenz
+- **§ 43 GmbHG / § 93 AktG:** Sorgfaltspflichtverletzung, Innenhaftung; in der Krise: Verletzung der Krisenfrüherkennungspflicht aus § 1 StaRUG (Stand prüfen).
+- **§ 15a InsO:** Antragspflicht binnen Höchstfrist drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung; vorsätzliche Verletzung strafbar nach § 15a Abs. 4 InsO, fahrlässige nach § 15a Abs. 5 InsO.
+- **§ 15b InsO:** Zahlungsverbot nach Insolvenzreife — verbotene Zahlungen sind dem Geschäftsführer persönlich zu erstatten (Innenhaftung gegenüber Gesellschaft/Masse).
+- **§ 64 GmbHG a. F.:** Für Altfälle vor SanInsFoG (vor 1. Januar 2021) noch relevant — Haftung für masseschmälernde Zahlungen.
+- **§ 266a StGB:** Vorenthalten von Arbeitnehmer-Sozialversicherungsbeiträgen — persönliche Strafbarkeit; bei Zahlungsunfähigkeit kein Rechtfertigungsgrund (BGH ständige Rspr.).
+- **Steuerhaftung §§ 34, 69 AO:** Haftung für nicht abgeführte Steuern, insbesondere Lohnsteuer und Umsatzsteuer.
+- **Trade-off:** Frühe Antragstellung schützt vor § 15a/15b InsO, opfert aber Sanierungschancen. Spätere Antragstellung erhöht das Insolvenzgeld-Risiko und vor allem die Strafbarkeit.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

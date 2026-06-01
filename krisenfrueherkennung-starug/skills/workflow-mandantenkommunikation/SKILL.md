@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Kommunikation Krisenfrüherkennung § 1 StaRUG — Pflichtinhalte
+- **§ 1 Abs. 1 Satz 1 StaRUG (Stand prüfen):** Geschäftsleiter haftungsbeschränkter Gesellschaften müssen Entwicklungen, die den Fortbestand der juristischen Person gefährden können, fortlaufend überwachen.
+- **§ 1 Abs. 1 Satz 2 StaRUG:** Bei Erkennen einer bestandsgefährdenden Entwicklung sind geeignete Gegenmaßnahmen zu ergreifen.
+- **§ 1 Abs. 1 Satz 3 StaRUG:** Den zur Überwachung berufenen Organen ist unverzüglich Bericht zu erstatten — schriftliche Form empfohlen.
+- **Konsequenzen bei Pflichtverletzung:** § 43 GmbHG (Innenhaftung), § 826 BGB (Außenhaftung in Ausnahmefällen), strafrechtlich § 15a Abs. 4, 5 InsO bei verspätetem Antrag.
+- **Was an die Mandantin gehört (Pflichtbausteine):** Welche Kennzahlen werden überwacht? Welche Schwellen lösen Alarm aus? Wer berichtet wem in welcher Frequenz? Welche Maßnahmen sind bereits beschlossen?
+- **Honorar:** Bei laufender Begleitung empfiehlt sich Mandatsvereinbarung mit Stunden- oder Monatspauschalhonorar — RVG-Tabelle deckt diese Beratung nicht ab.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

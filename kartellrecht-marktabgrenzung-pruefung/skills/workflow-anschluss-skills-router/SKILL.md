@@ -6,7 +6,21 @@ description: "Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pru
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `kartellrecht-marktabgrenzung-pruefung` Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pruefung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach erster Sichtung in den passenden kartellrechtlichen Spezialskill: Marktabgrenzung sachlich/räumlich, Marktbeherrschung, Missbrauchsprüfung, Fusionskontrolle, vertikale Beschränkungen.
+
+## Routing nach Kartell-Fragestellung
+- **Sachliche Marktabgrenzung:** Bedarfsmarktkonzept (Sicht der Marktgegenseite), SSNIP-Test, Substitutionsanalyse.
+- **Räumliche Marktabgrenzung:** Lieferströme, Transportkosten, Preisparität, sprachliche/regulatorische Barrieren.
+- **Marktbeherrschung (§ 18 GWB / Art. 102 AEUV):** Vermutung ab 40 % Marktanteil (§ 18 Abs. 4 GWB); Indizien § 18 Abs. 3 (Finanzkraft, Marktzutritt, Verflechtungen).
+- **Marktmacht-Faktoren bei digitalen Plattformen:** § 18 Abs. 3a GWB (Netzwerkeffekte, Datenzugang, Multi-Homing).
+- **Missbrauchsprüfung (§§ 19, 20 GWB; Art. 102 AEUV):** Ausbeutungs- vs. Behinderungsmissbrauch.
+- **Fusionskontrolle (§§ 35 ff. GWB):** Schwellenwerte § 35 Abs. 1 GWB; Anmeldepflicht Bundeskartellamt; EU-Schwelle nach FKVO (EG) 139/2004.
+- **§ 19a GWB (überragende marktübergreifende Bedeutung):** Adressatenfeststellung durch BKartA.
+
+## Anti-Muster
+- Marktabgrenzung ohne empirische Stütze (reine Behauptung).
+- Marktanteilszahlen ohne Bezugsgröße und Stichtag.
+- Verwechslung GWB-Schwellen (Vermutung 40 %) mit EU-Praxis (kein starrer Schwellenwert, aber Dominanz typischerweise ab 50 %).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

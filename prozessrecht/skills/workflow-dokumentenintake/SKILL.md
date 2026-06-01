@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin prozessrecht: liest Uploads, sortiert D
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `prozessrecht` Dokumentenintake im Plugin prozessrecht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Klagen, Klageerwiderungen, Repliken, Beschlüsse, Urteile und Anlagenkonvolute in das Plugin `prozessrecht` ein, sortiert sie nach ZPO-Struktur und markiert prozessrechtliche Klippen (Fristen, Zustellungen, Säumnis, Beweismittel).
+
+## Dokumentenarten
+- **Klage / Antrag:** Anträge (§ 253 Abs. 2 Nr. 2 ZPO), Klagegrund, Beweisangebote; Streitwert.
+- **Klageerwiderung / Replik:** Erklärung nach § 138 ZPO, Bestreiten mit Nichtwissen (§ 138 Abs. 4 ZPO), Beweisangebote.
+- **Verfügung Gericht / Hinweis (§ 139 ZPO):** Eingangsbestätigung, Aufklärungshinweise, Auflagen, Frist.
+- **Beschluss / Urteil:** Rubrum, Tenor, Tatbestand (§ 313 Abs. 1 Nr. 4 ZPO), Entscheidungsgründe (Nr. 5), Rechtsmittelbelehrung.
+- **Sitzungsprotokoll (§ 159 ZPO):** wesentliche Erklärungen, Beweisaufnahme, ggf. § 162 ZPO Vorhalt.
+
+## Erste Triage
+- **Fristen:** Klageerwiderungsfrist (§ 277 ZPO), Berufungsfrist (§ 517 ZPO: einen Monat), Berufungsbegründung (§ 520 ZPO: zwei Monate), Revision (§ 548 ZPO).
+- **Zuständigkeit:** sachlich (GVG), örtlich (§§ 12-37 ZPO), funktionell (Einzelrichter/Kammer).
+- **Beweismaß:** § 286 ZPO (volle Überzeugung) vs. § 287 ZPO (überwiegende Wahrscheinlichkeit bei Schadenshöhe / Kausalität bei Folgeschäden).
+- **Beweisangebote zulässig?** Strengbeweis (§§ 355-484 ZPO), Freibeweis nur bei prozessualen Tatsachen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -6,7 +6,19 @@ description: "Dokumentenintake im Plugin jurastudium: liest Uploads, sortiert Do
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `jurastudium` Dokumentenintake im Plugin jurastudium: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest hochgeladene Klausuren, Falllösungen, Lernmaterial und Lehrbuchscans in das Plugin `jurastudium` ein. Er trennt Sachverhalt, Klausurfrage, Bearbeitervermerk, Lösungsskizze und Begleitmaterial sauber voneinander.
+
+## Dokumentenarten erkennen
+- **Klausursachverhalt:** typisch Endsatz "Wie ist die Rechtslage?" oder konkrete Anspruchsfrage. Bearbeitervermerk meist am Ende.
+- **Lösungsskizze/Gutachten:** Obersatz-Untersatz-Schlussfolgerung, Anspruchsgrundlagen in Fettdruck.
+- **Lehrbuchauszug:** Randnummern (Rn.), Fußnoten, Paragrafenüberschriften.
+- **Schemaauszug:** stichpunktartige Aufzählung der Prüfungspunkte.
+
+## Erste Triage
+- Welche Rechtsgebiete (Zivil, Straf, Öffentlich)?
+- Welche Klausurphase: Anfänger, Fortgeschrittene, Examen?
+- Welche Anspruchsgrundlagen / Tatbestände / Grundrechte sind im Sachverhalt angelegt?
+- Vermerke: Probleme, die der Aufgabensteller bewusst anlegt (sog. "Falleinkleidung").
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

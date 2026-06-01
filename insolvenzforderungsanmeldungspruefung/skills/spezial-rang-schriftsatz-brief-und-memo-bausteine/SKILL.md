@@ -32,6 +32,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Rangsystematik nach §§ 38, 39 InsO und Sonderränge
+- **§ 38 InsO einfache Insolvenzforderung:** Standardfall; Befriedigung nach § 187 ff. InsO im Quotenverhältnis.
+- **§ 39 Abs. 1 InsO nachrangig:**
+  - Nr. 1: Zinsen und Säumniszuschläge seit Eröffnung;
+  - Nr. 2: Verfahrenskosten des Insolvenzgläubigers;
+  - Nr. 3: Geldstrafen, Geldbußen und Zwangsmittel;
+  - Nr. 4: Schenkungen seit Eröffnung;
+  - Nr. 5: Rückzahlung von Gesellschafterdarlehen und gleichgestellte Forderungen (Sanierungsprivileg § 39 Abs. 4 InsO beachten).
+- **Aussonderung § 47 InsO:** Eigentumsrechte, Treuhand, einfacher Eigentumsvorbehalt — keine Insolvenzforderung; gesonderte Verfolgung.
+- **Absonderung §§ 49–52 InsO:** Pfandrechte, Sicherungseigentum, Sicherungszession, Vermieterpfandrecht — Befriedigung aus dem belasteten Gegenstand; Ausfallbetrag (§ 52 InsO) wird als § 38-Forderung angemeldet.
+- **Massegläubiger §§ 53–55 InsO:** Verfahrens- und Verwalterhandlungen nach Eröffnung — vorrangig zu befriedigen; bei Masseunzulänglichkeit § 209 InsO Reihenfolge zu beachten.
+- **Trade-off:** Höher gestaffelte Rangangabe in der Anmeldung erhöht den Anteil der Quote — wirtschaftlich aber meist marginal, weil nachrangige Forderungen idR ohne Quote bleiben.
+- **Praxis:** Bei Gesellschafterdarlehen unbedingt die Sanierungsprivilegien (§ 39 Abs. 4, Abs. 5 InsO) prüfen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

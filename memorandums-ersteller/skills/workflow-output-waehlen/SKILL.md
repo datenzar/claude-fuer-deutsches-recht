@@ -6,7 +6,20 @@ description: "Output wählen im Plugin memorandums-ersteller: entscheidet zwisch
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `memorandums-ersteller` Output wählen im Plugin memorandums-ersteller: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt den Memo-Typ und die Tiefe der rechtlichen Bewertung. Die Standardstruktur (Sachverhalt, Frage(n), Kurzantwort, Bewertung im Gutachtenstil, Gesamtergebnis, Risiken, Quellen) gilt, kann aber stilistisch und in der Tiefe variieren.
+
+## Memo-Typen
+- **Internes Memo (Anwaltskollege/-in, Mandantenakte):** Gutachtenstil voll, mit Streitstand und Quellen; Tiefe entspricht Schadensrisiko und Streitwert.
+- **Mandanten-Memo (Geschäftsführung / Vorstand):** Sachverhalt komprimiert, Kurzantwort prominent, Bewertung mit Klarheit, kein Theorienstreit ohne Notwendigkeit; Empfehlung explizit.
+- **Memo Investorenkommunikation / Datenraum:** Adressatenwechsel beachten (US-Adressaten erwarten "executive summary"); Privileged & confidential prüfen.
+- **Behörden-/Aufsichtsmemo:** stringent argumentiert, Vorgaben der jeweiligen Behörde beachten (z. B. BaFin-Stellungnahme nach § 7 KWG).
+- **Krisenmemo:** sehr kurze Kurzantwort, eskalierende Maßnahmen mit Fristen.
+- **Memo Compliance (intern):** Sachverhalt, Risiko, Empfehlung, Verantwortlichkeit, Fristen, Eskalationspfad.
+
+## Methodik-Anker
+- Anspruchsgrundlagen in Reihenfolge: Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung.
+- Auslegung nach den vier klassischen Methoden zzgl. verfassungs-/unionsrechtskonformer Auslegung.
+- Streitstand nur dort, wo entscheidungserheblich.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

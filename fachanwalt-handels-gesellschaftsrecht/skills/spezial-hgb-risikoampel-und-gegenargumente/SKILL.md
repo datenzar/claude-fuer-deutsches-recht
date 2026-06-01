@@ -21,10 +21,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **HGB** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **HGB-Rahmen setzen:** Kaufmannseigenschaft §§ 1-7 HGB (Ist-Kaufmann, Kann-Kaufmann, Form-Kaufmann); Handelsregister-Eintragungspflicht § 29 HGB (deklaratorisch für OHG/KG außer Kommanditist konstitutiv § 162 HGB); Prokura §§ 48 ff. HGB (umfassende Vertretungsmacht, nicht Verfügung über Grundstücke ohne Sondervollmacht); Handlungsvollmacht § 54 HGB (engerer Umfang).
+3. **Risikoampel HGB-Streitfragen:**
+   - **Rot:** Bilanzfehler (§§ 264 ff. HGB) mit Vorsatzverdacht (§ 331 HGB Strafbarkeit Bilanzdelikte), Insolvenzantragspflichtverletzung § 15a InsO (3 Wochen Zahlungsunfähigkeit, 6 Wochen Überschuldung), § 89b HGB Ausgleichsanspruch mit Fristverlust nach 1 Jahr.
+   - **Gelb:** Schwellenwerte Größenklassen §§ 267 ff. HGB (Kleinst-, kleine, mittelgroße, große Gesellschaft, mit Pflichten Prüfung, Offenlegung); Handelsbrauch § 346 HGB als Auslegungshilfe.
+   - **Grün:** klare AG/GmbH-Rechtsform, vollständige Handelsregisterlage, Bilanzprüfung erfolgt, Verträge dokumentiert.
+4. **Gegenargumente entwickeln:** § 25 HGB Firmenfortführung (Erwerberhaftung bei Unternehmenskauf, Ausschluss nur mit Veröffentlichung); § 28 HGB Eintritt in bestehendes Geschäft; § 130 HGB Haftung Eintretender in OHG/KG für Altverbindlichkeiten; § 161 Abs. 2 HGB Kommanditistenhaftung bis Hafteinlage.
+5. **Anschluss:** Verteidigungslinien je nach Lager (Schuldner: Haftungsbegrenzung; Gläubiger: Durchgriff); Mandantenbrief mit Risikoampel und konkretem Handlungsbedarf.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Deutscher** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Tatbestand § 109 GewO:** Anspruchsvoraussetzungen Arbeitsverhältnis, Beendigung oder berechtigtes Interesse (Zwischenzeugnis), Wahlrecht einfach/qualifiziert. Pflichtinhalt qualifiziertes Zeugnis: Art und Dauer der Tätigkeit, Leistungsbeurteilung, Verhaltensbeurteilung.
+3. **Beweislastverteilung (BAG ständige Rechtsprechung):** Note "befriedigend" (3) ist Mittelmaß; bessere Note muss Arbeitnehmer darlegen und beweisen, schlechtere Note der Arbeitgeber. Beweislastregel ändert sich nicht durch Branchen-Durchschnittsnote oberhalb von 3.
+4. **Belege sammeln:** Mitarbeitergespräche, Zielvereinbarungen, Bonusabrechnungen, schriftliches Lob (E-Mail, Karte), Beförderungen, Auszeichnungen, Kundenstimmen, Beurteilungen Dritter (Vorgesetzte, Projektleiter). Negativbelege: Abmahnungen, Krankenstand, Versetzungen, Konfliktdokumentation.
+5. **Anschluss:** Aufforderungsschreiben mit Beleg-Anhang, dann Klage; alternativ Vergleich mit Notenkompromiss und Standard-Schlussformel.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

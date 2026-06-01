@@ -6,7 +6,19 @@ description: "Anschluss-Skills Router im Plugin kanzlei-builder-hub: schlägt na
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `kanzlei-builder-hub` Anschluss-Skills Router im Plugin kanzlei-builder-hub: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet im Plugin `kanzlei-builder-hub` nach Klärung der Aufgabe in den richtigen Builder-Skill weiter: Neues Plugin anlegen, Skill erweitern, Frontmatter reparieren, Bibliothek erweitern, Tests schreiben.
+
+## Routing nach Bauaufgabe
+- **Neues Plugin:** Skeleton mit `plugin.json` (`name`, `version`, `description`), `README.md`, `skills/`-Verzeichnis. Kein Komma in Zahlen in `description`.
+- **Neuer Skill:** Frontmatter genau `name` (ASCII, Kebab-Case, max. 64 Zeichen) und `description` (max. 1024 Zeichen).
+- **Skill-Refactor:** Inhalt nach Struktur (Zweck, Eingaben, Ablauf, Quellen, Output, Beispiele); Querverweise auf andere Skills im Plugin via Markdown-Link.
+- **Frontmatter-Fix:** verbotene Felder entfernen (`triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
+- **Validator-Lauf:** `python3 scripts/validate-yaml-frontmatter.py`, `node scripts/validate-plugin-structure.mjs`.
+- **Skill-Index aktualisieren:** `scripts/generate-skills-md.py`, `scripts/generate-skills-overview.py`.
+
+## Anti-Muster
+- Englische Frontmatter-Werte oder erfundene Felder. Repo erwartet **nur** `name` und `description`.
+- Beschreibungen mit `1,5` o. ä. (Komma-Zahlen verboten; nutze `1.5` oder `eineinhalb`).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

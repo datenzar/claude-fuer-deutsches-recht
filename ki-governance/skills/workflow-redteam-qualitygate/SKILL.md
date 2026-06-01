@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Red-Team-Prüfpunkte KI-Governance
+1. **Klassifizierung:** Wurde die KI-VO-Risikoklasse begründet (Anhang III geprüft, nicht nur abgelehnt)?
+2. **Rolle:** Anbieter (Art. 3 Nr. 3) vs. Betreiber (Art. 3 Nr. 4) vs. Importeur (Art. 3 Nr. 6) — wurde der unterschiedliche Pflichtenkanon adressiert?
+3. **DSGVO-Schnittstelle:** Rechtsgrundlage Art. 6 / Art. 9 DSGVO benannt? Bei automatisierten Entscheidungen Art. 22 DSGVO geprüft?
+4. **AVV:** Vollständig nach Art. 28 Abs. 3 DSGVO, mit TOM (Art. 32) und Unterauftragsverarbeiterliste?
+5. **Drittlandstransfer:** DPF-Status (aktuell?), SCC-Modul richtig, TIA dokumentiert?
+6. **Halluzinations-Check:** Wurden Erwägungsgründe / Aktenzeichen / Behördenseiten ohne Live-Quelle zitiert?
+7. **Geltungsbeginn:** Wurden die gestaffelten Geltungstermine (Art. 113 KI-VO) berücksichtigt?
+
+## Praxis-Tipp
+Häufiger Fehler: Pauschalsubsumtion "kein Hochrisiko" ohne Anhang-III-Prüfung. Im Output stets sichtbar machen: welche Anhang-III-Ziffer geprüft, mit welcher Begründung ausgeschlossen — sonst trägt die Klassifizierung im Audit nicht.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

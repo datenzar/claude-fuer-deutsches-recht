@@ -6,7 +6,22 @@ description: "Fristen- und Risikoampel im Plugin subsumtions-pruefer: macht eine
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `subsumtions-pruefer` Fristen- und Risikoampel im Plugin subsumtions-pruefer: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill markiert in einer Subsumtion typische Risiken (Sprung-Subsumtion, fehlende Definition, Zirkelschluss, übersehener Streitstand) und ordnet sie nach Schweregrad.
+
+## Risikoampel Subsumtion
+- **Rot:** Sprung-Subsumtion (Tatsache wird direkt unter die Norm gesetzt, ohne Definition). Heilung: Definition mit Quelle einsetzen, dann unter Definition subsumieren.
+- **Rot:** Definition ohne Quelle (BGH, hM Kommentar). Heilung: Quelle ergänzen oder als "noch zu belegen" markieren.
+- **Rot:** Zirkelschluss (Subsumtion wiederholt die Definition oder die Norm). Heilung: Tatsachen aus dem Sachverhalt zitieren, dann erst werten.
+- **Gelb:** Streitstand übersehen, obwohl tragend. Heilung: hM, Mindermeinung, Argumente, Stellungnahme.
+- **Gelb:** Konjunktiv im Schluss ("könnte vorliegen") -- Schluss soll Indikativ ("liegt vor").
+- **Gelb:** Zwischenergebnis je Tatbestandsmerkmal fehlt -- Leserlichkeit leidet.
+- **Grün:** Vollständige Subsumtion mit Quelle, klarer Sprache, Zwischenergebnis.
+
+## Diagnose-Schritte
+1. Jeden Satz markieren als "Norm", "Definition", "Tatsache", "Subsumtion" oder "Schluss".
+2. Reihenfolge prüfen: Norm → Definition → Tatsache → Subsumtion → Schluss.
+3. Lücken anzeigen.
+4. Quellen zur Definition verlangen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

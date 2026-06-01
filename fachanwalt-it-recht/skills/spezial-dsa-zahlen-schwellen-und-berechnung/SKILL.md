@@ -26,6 +26,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## DSA-Schwellen und Zahlen (VO (EU) 2022/2065)
+- **VLOP/VLOSE-Schwelle**: ≥ 45 Mio. aktive Nutzer/Monat in der EU (Art. 33 Abs. 1 DSA) — Halbjahresdurchschnitt.
+- **Geltungsbeginn VLOP** seit 25.08.2023 (4 Monate nach Benennung); alle anderen Anbieter seit **17.02.2024**.
+- **Art. 19 Abs. 1 DSA Kleinst-/Kleinunternehmen-Ausnahme**: < 50 Beschäftigte und < 10 Mio. EUR Jahresumsatz — befreit von einigen Pflichten (z. B. Art. 20 internes Beschwerdesystem).
+- **Bußgeld Art. 74**: bis 6 % weltweiter Jahresumsatz Vorjahr; Zwangsgeld Art. 76: täglich bis 5 % weltweiter Jahresumsatz.
+- **Aufsicht**: BNetzA als Digital Services Coordinator (DSC) in Deutschland (§ 12 DDG).
+- **DDG (Digitale-Dienste-Gesetz)** seit Mai 2024 — Durchführungsgesetz zum DSA.
+
+## Praxis-Tipp
+Die "45-Mio-Schwelle" wird halbjährlich nach Methodik der EU-Kommission gemessen — Veröffentlichung der eigenen Nutzerzahlen ist Pflicht (Art. 24 Abs. 2 DSA). Wer wachsende Plattform ist, sollte die Schwelle aktiv monitoren, da Benennung als VLOP ein eigenes Compliance-Programm (Risikobewertung Art. 34, externer Audit Art. 37, Compliance-Officer Art. 41) auslöst.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

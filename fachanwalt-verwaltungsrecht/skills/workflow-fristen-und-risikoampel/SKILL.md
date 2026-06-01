@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verwaltungsrechtliche Fristen (Ampelraster)
+
+- **Rot — 1 Monat ab Bekanntgabe:** Widerspruch (§ 70 Abs. 1 VwGO) bzw. Anfechtungs-/Verpflichtungsklage (§ 74 Abs. 1, 2 VwGO) — sofern der VA mit ordnungsgemäßer Rechtsbehelfsbelehrung versehen ist.
+- **Rot — 1 Jahr:** Bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung (§ 58 Abs. 2 VwGO).
+- **Rot — sofortige Antragstellung:** § 80 Abs. 5 VwGO (Wiederherstellung/Anordnung aufschiebende Wirkung) wenn Sofortvollzug nach § 80 Abs. 2 Nr. 4 VwGO angeordnet; bei Drittanfechtung § 80a VwGO.
+- **Rot — vor Vollendung der Maßnahme:** § 123 VwGO einstweilige Anordnung (Sicherungs-/Regelungsanordnung).
+- **Gelb — Rücknahme/Widerruf:** §§ 48, 49 VwVfG; Jahresfrist für die Behörde ab Kenntnis (§ 48 Abs. 4 S. 1, § 49 Abs. 2 S. 2 VwVfG); Vertrauensschutz prüfen.
+- **Gelb — Wiedereinsetzung:** § 60 VwGO (2 Wochen ab Wegfall des Hindernisses, max. 1 Jahr).
+- **Praxis-Tipp:** Bei Massengeschäften und Sammel-Bescheiden immer Zustellungsnachweis und Datum exakt protokollieren — Fristlauf hängt vom Bekanntgabetag, nicht vom Bescheiddatum, ab (§ 41 VwVfG).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

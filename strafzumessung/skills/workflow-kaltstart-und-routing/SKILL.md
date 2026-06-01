@@ -33,3 +33,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafzumessungs-Kaltstart-Triage
+- **Stufe 1 - Verfahrensstand:** Antrag StA Strafbefehl § 407 StPO / Anklage § 199 StPO / Verstaendigungsentwurf § 257c StPO / Pladoyer / nachtraegliche Gesamtstrafe § 460 StPO / Rechtsmittelpruefung.
+- **Stufe 2 - Strafrahmen festlegen:** Tatbestand pruefen (Grunddelikt / Qualifikation / Privilegierung); Strafrahmen abstrakt aus StGB; Pruefen Strafrahmen-Verschiebung § 49 StGB (§ 21, § 23 II, § 27 II 2, § 13 II); Pruefen Regelbeispiel/besonders schwerer Fall (§§ 243, 263 III StGB etc.); Pruefen minderschwerer Fall (z. B. § 213 StGB).
+- **Stufe 3 - Strafzumessungstatsachen § 46 II StGB** sammeln:
+  - Belastend: Tatfolgen, Beweggruende, Pflichtwidrigkeit, einschlaegige Vorstrafen.
+  - Entlastend: Gestaendnis, Schadenswiedergutmachung, TOA § 46a, persoenliche Verhaeltnisse, lange Verfahrensdauer.
+- **Stufe 4 - Strafmass abschaetzen:**
+  - Geldstrafe: Anzahl Tagessaetze (Schuld) x Hoehe (Einkommen § 40 II StGB; 1/30 Netto).
+  - Freiheitsstrafe: § 47 StGB nur ausnahmsweise unter 6 Monaten; § 56 StGB Strafaussetzung bis 2 Jahre.
+- **Stufe 5 - Nebenfolgen:** Massregeln §§ 61-66c StGB (Unterbringung, Fahrverbot § 44 StGB, Berufsverbot § 70 StGB, Entziehung Fahrerlaubnis § 69 StGB mit Sperre § 69a StGB), Einziehung §§ 73 ff. StGB, BZRG-Eintragspflicht.
+- **Stufe 6 - Verstaendigungspotenzial § 257c StPO:** Strafmass-Korridor, Geschaeftsgrundlage (Gestaendnis), Belehrung § 257c V StPO; Wegfall der Bindung bei neuen erheblichen Umstaenden.
+- **Anschluss:** Tatbestand-Belege / Strafmilderung / Bewaehrung / Rechtsmittel-Skills.

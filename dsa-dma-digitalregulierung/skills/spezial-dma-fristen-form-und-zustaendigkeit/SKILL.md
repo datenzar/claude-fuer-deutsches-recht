@@ -26,6 +26,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## DMA-typische Fristen und Zuständigkeit
+- **Art. 3 DMA Gatekeeper-Benennung:** Mitteilung an Kommission binnen 2 Monaten nach Schwellenerreichung; Benennungsbeschluss der Kommission binnen 45 Arbeitstagen.
+- **Art. 5-7 DMA Pflichten:** 6 Monate nach Benennung wirksam.
+- **Art. 11 DMA Compliance-Bericht:** jährlich an Kommission.
+- **Art. 14 DMA Zusammenschlüsse:** Informationspflicht an Kommission.
+- **Art. 30 DMA Bußgeld:** bis 10 % Jahresumsatz, bei Wiederholung bis 20 %, Zwangsgeld täglich bis 5 %.
+- **Zuständig**: ausschließlich EU-Kommission (Art. 39 DMA), keine nationalen Doppelverfahren — anders als bei DSA (dort nationale DSC nach Art. 49 DSA).
+- **Rechtsweg:** Klage zum Gericht der Europäischen Union (EuG) gemäß Art. 263 AEUV gegen Kommissionsbeschlüsse; Revision zum EuGH.
+
+## Praxis-Tipp
+DMA-Verfahren laufen ausschließlich europäisch — nationale Wettbewerbsbehörden bleiben außen vor (Art. 1 Abs. 6 DMA). Wer als Gatekeeper-Adressat parallel ein nationales Kartellverfahren (z. B. § 19a GWB) führt, sollte das Verhältnis ne bis in idem prüfen. § 19a GWB ergänzt DMA punktuell — keine Verdrängung.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

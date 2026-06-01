@@ -22,6 +22,17 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Datenschutz im Verein — Eckpunkte
+
+- **Rechtsgrundlagen DSGVO Art. 6 Abs. 1:** lit. b (Vertragsabwicklung — Mitgliedschaftsvertrag); lit. c (rechtliche Verpflichtung — z. B. Steuer); lit. f (berechtigtes Interesse — Vereinsorganisation, Werbung Mitglieder); lit. a (Einwilligung — z. B. Fotoveröffentlichung). § 26 BDSG nur für Beschäftigte, nicht für reine Mitglieder.
+- **Mitgliederliste — Auskunftsanspruch:** Mitglied gegen Verein nur, wenn Satzung das vorsieht; ansonsten regelmäßig nicht aus DSGVO/BGB direkt ableitbar. Auskunft an Behörden nur bei Rechtsgrundlage.
+- **Versendung per E-Mail-Verteiler:** BCC verwenden (kein CC mit offenen Adressen); WhatsApp/Telegram in Mitgliederkommunikation nur, wenn Mitglieder explizit zugestimmt haben (Drittstaatentransfer beachten).
+- **Foto- und Videoveröffentlichung:** Bei erkennbaren Personen Einwilligung gemäß § 22 KUG bzw. DSGVO Art. 6 Abs. 1 lit. a; Sonderregelungen bei Veranstaltungen (§ 23 KUG) sind eng auszulegen.
+- **Cloud-Dienste:** DSGVO Art. 28 Auftragsverarbeitungsvertrag mit dem Anbieter; bei US-Anbietern Standardvertragsklauseln (SCC) und Transfer Impact Assessment nach EuGH "Schrems II" (C-311/18).
+- **Löschung Art. 17 DSGVO:** Nach Beendigung der Mitgliedschaft Daten unverzüglich löschen oder anonymisieren; Ausnahme: handels- und steuerrechtliche Aufbewahrungspflichten (10 Jahre, § 257 HGB, § 147 AO für Beleg-/Buchführungsunterlagen).
+- **Verzeichnis Verarbeitungstätigkeiten (Art. 30 DSGVO):** Pflicht ab 250 Mitarbeitern oder bei sensiblen Daten — bei Vereinen häufig wegen Mitgliederdaten und Beitragszahlungen trotzdem zu empfehlen.
+- **Praxis-Tipp:** Datenschutzerklärung auf Vereinshomepage Pflicht (Art. 13/14 DSGVO); bei sensiblen Daten (Gesundheit, Religion) gesonderte Einwilligung (Art. 9 DSGVO).
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

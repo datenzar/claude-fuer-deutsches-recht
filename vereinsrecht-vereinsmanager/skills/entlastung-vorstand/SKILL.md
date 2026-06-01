@@ -22,6 +22,16 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Entlastung — Wirkung und Grenzen
+
+- **Rechtsnatur:** Keine Quittung im Sinne § 368 BGB, sondern Vertrauensbeschluss der Mitgliederversammlung — Wirkung: Verzicht auf erkennbare Schadensersatzansprüche gegen den entlasteten Vorstand (BGH).
+- **Reichweite:** Verzicht reicht nur auf das, was bei sorgfältiger Prüfung der vorgelegten Unterlagen erkennbar war ("Wissensstand-Begrenzung"). Nicht erkennbare Pflichtverletzungen — z. B. verheimlichte Geschäfte — bleiben verfolgbar.
+- **Beschluss:** Einfache Mehrheit (§ 32 BGB), wenn Satzung nichts abweichend; Stimmrechtsausschluss des betroffenen Vorstandsmitglieds (§ 34 BGB analog § 47 Abs. 4 GmbHG).
+- **Voraussetzungen:** Vorlage von Tätigkeitsbericht, Jahresabschluss/Einnahmen-Ausgaben-Rechnung, Kassenbericht; Kassenprüfungsbericht; Rechenschaft über wesentliche Geschäftsvorfälle.
+- **Folge der Verweigerung:** Kein Rechtsverlust für den Vorstand; aber politisches Signal, ggf. Vorbereitung Abberufung (§ 27 Abs. 2 BGB i. V. m. Satzung).
+- **Praxis-Tipp:** Bei Geschäftsführerbestellung neben dem Ehrenamtsvorstand sollte die Mitgliederversammlung getrennte Entlastungsbeschlüsse fassen.
+- **Steuerlich:** Bei Vereinen mit Gemeinnützigkeit (§§ 51 ff. AO) Vorstand ggf. mit Geschäftsführungs-Vergütung — § 55 Abs. 1 Nr. 3 AO Verbot unverhältnismäßiger Vergütung beachten.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

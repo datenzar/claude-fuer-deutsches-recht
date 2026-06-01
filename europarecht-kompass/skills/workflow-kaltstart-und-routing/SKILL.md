@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Unionsrechtliches Routing (typische Weichen)
+
+- **Grundfreiheiten (AEUV):** Warenverkehr Art. 34, 36; Niederlassung Art. 49; Dienstleistung Art. 56; Kapital Art. 63; Arbeitnehmer Art. 45; steuerliche Diskriminierung Art. 110 AEUV.
+- **Diskriminierungsverbot Art. 18 AEUV** (subsidiär, wenn keine Grundfreiheit greift).
+- **Vorabentscheidung Art. 267 AEUV:** Vorlagebefugnis für jedes nationale Gericht; Vorlagepflicht für letztinstanzliche (CILFIT-Kriterien: acte clair/acte éclairé, EuGH-Urteil C-561/19 Consorzio Italian Management).
+- **Direktklage zum EuG/EuGH:**
+  - Nichtigkeitsklage Art. 263 AEUV (Frist 2 Monate, individuelle/unmittelbare Betroffenheit für Private).
+  - Untätigkeitsklage Art. 265 AEUV.
+  - Schadensersatzklage Art. 268 i. V. m. Art. 340 AEUV (5 Jahre Verjährung).
+- **Vertragsverletzungsverfahren Art. 258, 259 AEUV** (Klagebefugnis bei Kommission/Mitgliedstaat).
+- **Beihilfen Art. 107–109 AEUV:** Anmeldepflicht, Stand-Still, Rückforderung; AGVO 651/2014 prüfen.
+- **Charta der Grundrechte (GRCh)** anwendbar nur "bei der Durchführung des Rechts der Union" (Art. 51 GRCh; EuGH C-617/10 Åkerberg Fransson).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

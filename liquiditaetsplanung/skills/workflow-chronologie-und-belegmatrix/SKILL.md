@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Belegmatrix Liquiditätsplanung — Mindestquellen
+- **Bankkonten:** Kontoauszüge letzte 6–12 Monate, Kreditrahmen, Sicherheiten, Kovenanten, Tilgungspläne, Standardisierte Kreditverträge (mit BGB-Schuldverhältnissen abgleichen).
+- **Buchhaltung:** OPOS-Listen Debitoren/Kreditoren (mit Fälligkeit, nicht nur mit Datum), Saldenlisten, Steuerkonto FA, Beitragskonto Sozialversicherung.
+- **Verträge mit Liquiditätswirkung:** Miet- und Leasingverträge, Lieferantenrahmenverträge, Wartungsverträge, Versicherungen.
+- **Personal:** Lohnauszahlungstermin, Lohnsteuer- und SV-Fälligkeiten (drittletzter Bankarbeitstag des Folgemonats), Tarifvereinbarungen mit Sonderzahlungen.
+- **Steuern:** Umsatzsteuer-Voranmeldungen, Steuervorauszahlungen, offene Bescheide, Stundungs-/Vollstreckungsmaßnahmen.
+- **Trade-off:** Excel-Mengenkalkulation ohne Quellenverknüpfung ist schnell, aber im Anfechtungsprozess (§§ 129 ff. InsO) wertlos. Idealfall: Cellbacks zu Buchungs-IDs, mindestens aber zu Bank-Reportingdaten.
+- **Praxis:** Widersprüche zwischen Planungssicht und Buchhaltung (z. B. Skontoabzug, Lieferantenkredit) sofort markieren — sie kosten im Streit die Plausibilität.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

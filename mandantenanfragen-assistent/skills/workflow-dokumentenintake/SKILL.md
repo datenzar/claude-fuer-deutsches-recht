@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin mandantenanfragen-assistent: liest Uplo
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `mandantenanfragen-assistent` Dokumentenintake im Plugin mandantenanfragen-assistent: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest eingehende Mandantenanfragen (E-Mail, Kontaktformular, Telefonat-Notiz, hochgeladene Anlagen) und bereitet Erstberatungs-Triage vor. Mandantengeheimnis (§ 43a Abs. 2 BRAO, § 203 StGB) ist Grundlage; AVV nach Art. 28 DSGVO Pflicht für jeden externen Verarbeiter.
+
+## Dokumentenarten erkennen
+- **Mandantenmail mit Frist:** typisch "Bis zum ...", "Vorladung am ..."; sofort Fristenkontrolle und vorläufige Mandatsannahme.
+- **Bescheid / Klage / Schriftsatz Gegenseite:** Eingangsdatum, Zustellungsnachweis, Rechtsmittelfrist eintragen.
+- **Vertrag / AGB / Korrespondenz:** Sachverhaltsbasis für Mandantengespräch.
+- **Anlagenkonvolut ohne Erklärung:** Mandant strukturiert oft chronologisch -- Belegmatrix vor inhaltlicher Bewertung erstellen.
+
+## Erste Triage
+- Rolle: Bestandsmandat oder Neumandat? Konflikt mit anderem Mandat (§ 3 BORA)?
+- Zuständigkeit der Kanzlei (Rechtsgebiet, Fachanwalt)?
+- Frist binnen 7 Tagen, 14 Tagen, länger? -- Eilstufe markieren.
+- Mandant Verbraucher oder Unternehmer? Pflichtbelehrung bei Fernabsatz und Beratungsvertrag (§§ 312 ff. BGB).
+- Vergütung: gesetzliches RVG, Honorarvereinbarung (Textform genügt nach § 3a RVG), Beratungshilfe (BerHG)?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

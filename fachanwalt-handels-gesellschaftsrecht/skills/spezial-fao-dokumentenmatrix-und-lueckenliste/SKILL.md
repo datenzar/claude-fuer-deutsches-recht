@@ -19,12 +19,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
+## FAO-Mindestanforderungen Fachanwalt Handels- und Gesellschaftsrecht (§ 14i FAO)
+
+| Bereich | Mindestanzahl Fälle | Typische Falldokumentation |
+| --- | --- | --- |
+| Recht der OHG, KG, GbR | (siehe § 14i FAO) | Gesellschaftsvertrag, Anteilsübertragung, Auseinandersetzung |
+| GmbH-Recht | (siehe § 14i FAO) | Gründung, Anteilsübertragung, Beschluss, Geschäftsführerhaftung |
+| AktG | (siehe § 14i FAO) | Hauptversammlung, Beschlussanfechtung, Vorstandshaftung |
+| UmwG | (siehe § 14i FAO) | Verschmelzung, Spaltung, Formwechsel |
+| Handelsvertreter §§ 84 ff. HGB | (siehe § 14i FAO) | Vertretervertrag, Ausgleich § 89b HGB |
+| Internationales Gesellschafts- und Wirtschaftsrecht | (siehe § 14i FAO) | Cross-Border-Sachverhalt mit Rechtswahl |
+
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **FAO** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **FAO-Bezug prüfen:** § 14i FAO Mindestfallzahl und Theorieausbildung für Fachanwaltsbezeichnung Handels- und Gesellschaftsrecht; Falldarstellung nach § 5 Abs. 4 FAO mit Sachverhalt, eigener anwaltlicher Leistung, juristischer Bewertung.
+3. **Dokumentenmatrix erstellen:** Pro Fall: Mandatsgegenstand, Bereich (siehe Tabelle), eigene Tätigkeit (nicht nur Mitwirkung), Aktenzeichen Kanzlei, Verfahrensstand, Erfolg/Vergleich/Klageabweisung. Anonymisierung beachten § 43a Abs. 2 BRAO Verschwiegenheit.
+4. **Lückenliste:** Welche Bereiche sind unterrepräsentiert? Welche Theoriestunden fehlen noch (§ 4 FAO 120 Stunden, davon mindestens 30 als Lehrgang)?
+5. **Anschluss:** Nachforderungen organisieren (Eigenmandate akquirieren, Beck-Lehrgang oder DAA buchen), Falldarstellungen vor Antragstellung Anwaltskammer prüfen lassen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

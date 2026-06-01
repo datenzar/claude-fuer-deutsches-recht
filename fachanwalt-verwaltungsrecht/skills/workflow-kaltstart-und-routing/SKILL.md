@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verwaltungsrechtliches Routing (typische Weichen)
+
+- **Belastender VA (§ 35 VwVfG) an Mandantschaft:** Anfechtungsklage (§ 42 Abs. 1 Alt. 1, § 113 Abs. 1 S. 1 VwGO) — vorher i.d.R. Widerspruch (§§ 68 ff. VwGO), soweit landesrechtlich nicht abgeschafft.
+- **Beanspruchter VA wird verweigert:** Verpflichtungsklage (§ 42 Abs. 1 Alt. 2, § 113 Abs. 5 VwGO) — Untätigkeitsklage erst nach 3 Monaten (§ 75 VwGO).
+- **Sofortvollzug nach § 80 Abs. 2 Nr. 4 VwGO:** Antrag auf Wiederherstellung der aufschiebenden Wirkung (§ 80 Abs. 5 VwGO); Begründung am Aussetzungsinteresse und Erfolgsaussicht der Hauptsache.
+- **Drittbetroffenheit (Nachbar, Konkurrent):** § 80a VwGO; bei Baurecht plus Aussetzungsantrag.
+- **Vorbeugend/sichernd:** Einstweilige Anordnung § 123 VwGO (kein VA in Streit).
+- **Normverwerfung Landes-/kommunalebene:** Normenkontrolle § 47 VwGO (1 Jahr ab Bekanntmachung).
+- **Verwaltungsakt-Rücknahme/Widerruf:** §§ 48, 49 VwVfG mit Vertrauensschutz und Jahresfrist; ggf. Wiederaufgreifen § 51 VwVfG.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

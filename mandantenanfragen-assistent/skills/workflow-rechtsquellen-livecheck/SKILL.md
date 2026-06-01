@@ -6,7 +6,19 @@ description: "Rechtsquellen-Livecheck im Plugin mandantenanfragen-assistent: zwi
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `mandantenanfragen-assistent` Rechtsquellen-Livecheck im Plugin mandantenanfragen-assistent: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill erzwingt, dass jede gegenüber dem Mandanten ausgesprochene Rechtsauskunft mit aktuellen, frei prüfbaren Quellen belegt ist. Mandantengeheimnis bleibt gewahrt; bei externer Recherche keine personenbezogenen Mandantendaten in nicht-AVV-fähige Tools.
+
+## Pflichtquellen Mandantenkommunikation
+- **Berufsrecht:** BRAO, BORA, RVG, FAO -- `brak.de`, `gesetze-im-internet.de`.
+- **Materielles Recht:** `gesetze-im-internet.de`, `dejure.org` (mit Verlinkung zu Rspr.).
+- **Rechtsprechung:** `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, Landesarbeitsgerichte über `lareda.hessenrecht.hessen.de` u. ä.; OLG-Datenbanken länderspezifisch.
+- **EU-Recht und EuGH:** `eur-lex.europa.eu`, `curia.europa.eu`.
+- **Formulare und Behördenseiten:** `service.bund.de`, Online-Justiz der Länder, FormularServer.
+
+## Anti-Halluzinations-Regeln
+- Niemals BGH-Az. erfinden. Bei Unsicherheit "ständige Rspr. des BGH (vgl. z. B. ...)" und Az. live nachprüfen.
+- Keine Kommentar-, Aufsatz-, BeckRS-Fundstellen aus Modellwissen. Nur, wenn Mandant oder externe Recherche die Stelle bestätigt.
+- Norm-Stand markieren: Bei ständig geänderten Gesetzen (StGB nach Reformen, ZPO nach Beschleunigungsnovellen, EnWG, GwG, GEG) Fassungsdatum nennen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

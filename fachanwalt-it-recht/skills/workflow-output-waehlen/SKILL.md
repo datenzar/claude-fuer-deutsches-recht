@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen IT-Recht
+- **Vertragsentwurf / Redline** (SaaS, Cloud, Software-Erstellung, Lizenz, Open-Source-Compliance).
+- **AGB-Redline** mit Kennzeichnung §§ 305 ff. BGB-Verstößen (Inhaltskontrolle, Klauselverbote § 308/309 BGB).
+- **SLA-Klausel-Bausteine** (Verfügbarkeit, Messpunkte, Wartungsfenster, Pönalen, Eskalation).
+- **AVV nach Art. 28 DSGVO** mit TOM-Anlage und Unterauftragsverarbeiterliste.
+- **Mängelmahnung / Nachfristsetzung** nach §§ 281, 323 BGB.
+- **Abmahnung** (UWG, MarkenG, UrhG) mit Unterlassungserklärung.
+- **Klage / Klagerwiderung** für ZG (Streitwert <= 5.000 EUR AG / > 5.000 EUR LG; bei Verbrauchersachen Wohnsitz Verbraucher § 29c ZPO).
+- **Anzeige bei Aufsichtsbehörde** (BfDI für DSGVO, BNetzA für TKG/DDG, BSI für NIS2/KritisV).
+
+## Praxis-Tipp
+SLA-Klauseln zur Verfügbarkeit (z. B. "99,9 % Verfügbarkeit") sind nur dann durchsetzbar, wenn Messpunkt, Messzeitraum und Wartungsfenster klar definiert sind. Standardklauseln ohne Messmethodik sind regelmäßig zu pauschal und führen zu Beweisproblemen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

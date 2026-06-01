@@ -32,6 +32,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Kennzahlenset Krisenfrüherkennung — Pflicht-Set für § 1 StaRUG
+- **Liquidität:** Cash-Burn-Rate, Liquide Mittel Tage, freie Kreditlinie, Kontokorrent-Auslastung.
+- **Rentabilität:** EBITDA-Marge, EBIT-Marge, Verzinsung Working Capital, Deckungsbeitrag pro Geschäftsfeld.
+- **Bilanzstruktur:** Eigenkapitalquote, Anlagendeckung 1./2. Grades, Verschuldungsgrad, Working-Capital-Quote.
+- **Operativ:** Auftragsbestand in Wochen, Auslastung, Forderungslaufzeit (DSO), Lieferantenlaufzeit (DPO), Lagerumschlag.
+- **Frühwarnindikatoren:** Verlust Großkunden, Kovenantenbruch-Approximation, Steuer-/SV-Rückstände, Kontoabbuchungs-Stornierungen, Lieferantenmahnungen.
+- **Schwellenwerte (Gelb/Rot):** Beispielhaft Eigenkapitalquote < 25 %/15 %, Cash-Burn-Rate Liquide Mittel < 60 / 30 Tage, EBITDA-Marge < 3 %/0 %. Branche-spezifisch anpassen.
+- **Trade-off:** Engmaschiges Set (15+ Kennzahlen) ist informativ, aber pflegeintensiv; minimalistisches Set (3–5) ist effizient, aber blind für Branchen-Spezifika.
+- **Praxis:** Kennzahlen werden im Reporting an die Geschäftsleitung mindestens monatlich präsentiert; bei Eintritt eines Roten Schwellenwerts wird Anzeige an Aufsichtsorgan (§ 1 Abs. 1 Satz 3 StaRUG, Stand prüfen) ausgelöst.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

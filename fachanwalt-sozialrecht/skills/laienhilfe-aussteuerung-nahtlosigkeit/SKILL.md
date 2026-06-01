@@ -51,3 +51,16 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Aussteuerung / Nahtlosigkeit - Themenspezifika
+- **Rechtsgrundlage:** § 48 SGB V (Krankengeld-Hoechstdauer 78 Wochen) i.V.m. § 145 SGB III (Nahtlosigkeit ALG bei Erwerbsminderung); auch SGB VI (EM-Rente) ist Anschlussleistung.
+- **Aussteuerung:** Krankengeld endet nach 78 Wochen wegen derselben Krankheit (Bezugsrahmen 3 Jahre); Krankenkasse muss rechtzeitig Reha- oder Rentenantrag-Aufforderung machen (§ 51 SGB V) - sonst Aussteuerung verschoben.
+- **Nahtlosigkeitsregelung § 145 SGB III:** ALG-Anspruch auch bei festgestellter Erwerbsminderung unter 15 h pro Woche bis zur Entscheidung der DRV ueber EM-Rente; Vermeidung "Niemand-Zustand" zwischen Krankengeld-Ende und Rentenbescheid.
+- **Voraussetzung Nahtlosigkeit:**
+  - Letzter Tag Krankengeldbezug oder vergleichbare Leistung,
+  - **Verfuegbarkeit reduziert** auf weniger als 15 h/Woche,
+  - Anwartschaftszeit ALG erfuellt (§ 142 SGB III: 12 Monate Beitragszeit in den letzten 30 Monaten).
+- **Antragspflicht** Versicherter bei Krankenkasse / Bundesagentur fuer Arbeit; § 60 SGB I Mitwirkungspflicht.
+- **Rente vs. ALG-Nahtlosigkeit:** ALG ist subsidiaer; sobald EM-Rente bewilligt, Verrechnung; bei Ablehnung EM bleibt ALG.
+- **Eilrechtsschutz § 86b SGG** bei Verweigerung Nahtlosigkeits-ALG (Existenzminimum); ggf. Hilfe Jobcenter/Sozialamt parallel beantragen.
+- **Praxis-Tipp:** Beratungstermin bei DRV vor Aussteuerung; medizinische Stellungnahme behandelnde Aerzte zur Leistungsfaehigkeit fuer Reha- bzw. Rentenantrag; Anwartschafts-Aufrechterhaltung pruefen, weiterhin Krankenversicherung sichern (KV-Pflicht ALG-Bezieher § 5 I Nr. 2 SGB V).

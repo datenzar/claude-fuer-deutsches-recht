@@ -22,10 +22,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+2. **Titel und Klausel:** Vollstreckbares Urteil (§ 704 ZPO) oder gerichtlicher Vergleich (§ 794 Abs. 1 Nr. 1 ZPO); Vollstreckungsklausel § 724 ZPO durch Urkundsbeamten; bei Auslandsvollstreckung Bescheinigung Art. 53 Brüssel Ia auf Formular Anhang I VO 1215/2012; Zustellung gegnerischer Partei nach VO 2020/1784 (EU-Zustellungsverordnung) oder HZÜ.
+3. **Übersetzungspflichten:** Vollstreckung in EU-Mitgliedstaat: Art. 42 Brüssel Ia keine Übersetzung des Urteils, aber Bescheinigung in Sprache des Zielstaats oder eine vom Zielstaat akzeptierte Sprache; bei Drittstaaten zwingend beglaubigte Übersetzung in Amtssprache. Beim englischsprachigen Commercial-Court-Urteil: deutsche Fassung für Vollstreckung in Deutschland selbstverständlich gegeben, für Auslandsvollstreckung beglaubigte Übersetzung in Zielstaat-Sprache.
+4. **Asset-Tracing und Vollstreckungsmaßnahmen:** Mobiliarvollstreckung Gerichtsvollzieher (§§ 808 ff. ZPO); Forderungspfändung § 829 ZPO (z.B. Kontopfändung); Immobiliarvollstreckung Grundbuch (§ 866 ZPO Zwangsversteigerung, Zwangsverwaltung). Bei Auslandsvermögen Vollstreckungsantrag im Zielstaat nach Brüssel Ia (für EU) oder HGÜ 2005 oder bilaterales Abkommen oder autonomes Recht (z.B. UK Foreign Judgments Act 1933 nach Brexit, USA Uniform Foreign-Country Money Judgments Recognition Act).
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: Vollstreckungsklauselerteilung beantragen, Bescheinigung Art. 53 Brüssel Ia einholen, Asset-Tracing parallel beginnen.
 
 ## Output-Standard
 

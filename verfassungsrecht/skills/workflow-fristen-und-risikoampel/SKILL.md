@@ -22,6 +22,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verfassungsrechtliche Fristen (Ampelraster)
+
+- **Rot — 1 Monat ab Zustellung:** Verfassungsbeschwerde gegen Einzelakte (§ 93 Abs. 1 BVerfGG); Frist beginnt mit Zustellung/Bekanntgabe der letztinstanzlichen Entscheidung.
+- **Rot — 1 Jahr ab Inkrafttreten:** Rechtssatzverfassungsbeschwerde gegen Gesetze (§ 93 Abs. 3 BVerfGG).
+- **Rot — sofortige Einreichung:** Einstweilige Anordnung nach § 32 BVerfGG bei drohender Vollziehung; Doppelhypothese (Folgenabwägung) ist zu skizzieren.
+- **Gelb:** Rechtswegerschöpfung (§ 90 Abs. 2 BVerfGG) — vorher Fachgerichtsrechtsweg ausschöpfen; Subsidiaritätsgrundsatz beachten.
+- **Gelb:** Substantiierungspflicht (§§ 23 Abs. 1 S. 2, 92 BVerfGG) — Beschwerdeführer muss Grundrechtsverletzung und Beschwer schlüssig darlegen.
+- **Praxis-Tipp:** Bei Eilbedarf parallel § 32-Antrag und Hauptsachebeschwerde; Aktenzeichen nur nach Live-Check der BVerfG-Seite.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

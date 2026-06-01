@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Common-Law-Live-Quellen (frei und kostenpflichtig)
+
+- **UK — legislation.gov.uk** — Konsolidierter Statute-Text, Limitation Act 1980, Sale of Goods Act 1979, Companies Act 2006.
+- **UK — bailii.org** — Frei zugängliche Volltexte UK/EU/CW (Supreme Court UK [UKSC], Court of Appeal [EWCA], High Court [EWHC]); Neutral Citation als Standard.
+- **US — supremecourt.gov** — Volltexte ab 1991; davor uscourts.gov / archive.org.
+- **US — law.cornell.edu (Cornell LII)** — USC, CFR, Restatements (frei). Westlaw/Lexis nur bei vorhandener Lizenz.
+- **US — courtlistener.com / pacer.uscourts.gov** — Federal Court Filings (PACER kostenpflichtig).
+- **US — courtlistener.com Free Law Project / Justia** — Frei zugängliche state cases.
+- **HKLII, AustLII, CanLII** — Frei zugängliche Datenbanken für HK, AU, CA (vergleichbare Common-Law-Jurisdiktionen).
+- **Restatements (ALI), UCC offizielle Ausgabe** — Bei Online-Zugriff aus Modellwissen niemals Paragraphen oder Sections halluzinieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

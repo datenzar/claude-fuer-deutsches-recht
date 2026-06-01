@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafakte-Chronologie-Bausteine
+- **Tatzeit / Tatort** zuerst fixieren (Anklageschrift § 200 StPO Tenor).
+- **Ermittlungsstationen** mit Datum: Strafanzeige, Beschuldigtenvernehmung (§ 136 StPO Belehrung pruefen), Durchsuchung (§§ 102, 105 StPO), Festnahme / U-Haft (§ 112 StPO Haftbefehl, § 115 StPO Vorfuehrung), Abschlussverfuegung StA.
+- **Beweiskette pro Tatkomplex:** Spur, sichernde Stelle, Auswertung, Gutachten, Aussagen (Tatzeuge, Geschaedigter, Beschuldigter).
+- **Verwertbarkeitspruefung:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Zeugnisverweigerung; Belehrungsmaengel und qualifizierte Belehrung nach staendiger Rspr.
+- **Belegmatrix-Spalten:** Datum, Aktenseite, Inhalt, Beweismittel-Typ (Urkunde § 249 StPO / Zeuge § 48 StPO / Sachverstaendiger § 73 StPO / Augenschein § 86 StPO), Verwendung, Bewertung.
+- Wahrunterstellung und Selbstleseverfahren § 249 II StPO sauber trennen.

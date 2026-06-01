@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Internationales-Wirtschaftsrecht-Fristen (Ampelraster)
+
+- **Rot — CISG (UN-Kaufrecht):** Untersuchungs- und Rügepflicht binnen "angemessener Frist nach Entdeckung" (Art. 38, 39 CISG); Ausschlussfrist 2 Jahre (Art. 39 Abs. 2); deutsches HGB § 377 daneben nicht anwendbar, wenn CISG greift (Art. 4 CISG).
+- **Rot — New York Convention (NYC 1958):** Antrag auf Vollstreckbarerklärung Schiedsspruch — keine universelle Frist, aber lokale Verjährung (Deutschland §§ 1061 ff. ZPO, keine Frist; USA 3 Jahre nach 9 USC § 207).
+- **Rot — Brüssel Ia (VO 1215/2012):** Zustellung des Antrags auf Vollstreckbarerklärung gegen Erkenntnis aus EU-Mitgliedstaat formlos; Rechtsbehelfsfrist 30 Tage (60 Tage Ausland) ab Zustellung (Art. 50, 51).
+- **Rot — Außenwirtschaftsrecht:** AWG/AWV-Genehmigungspflicht VOR Lieferung; Ausfuhrsanktionen (z. B. VO 833/2014 Russland) ohne Vorabprüfung = Strafbarkeit (§ 17 ff. AWG).
+- **Rot — Lieferkettensorgfaltspflichtengesetz (LkSG):** Berichtspflicht jährlich, Risikoanalyse mindestens jährlich; Bußgeldrahmen bis 8 Mio. Euro bzw. 2 % Jahresumsatz (§ 24 LkSG); ab 2024 auch Unternehmen mit 1.000 Mitarbeitern.
+- **Gelb — Rom I/Rom II:** Rechtswahl prüfen; bei B2C Art. 6 Rom I (Verbraucherschutz) zwingend; bei Arbeitsvertrag Art. 8 Rom I.
+- **Praxis-Tipp:** Verträge mit Auslandsbezug auf Gerichtsstand und Schiedsklausel prüfen; bei New-York-Schiedsklausel deutsche Klage wegen Schiedseinrede (§ 1032 ZPO) unzulässig.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

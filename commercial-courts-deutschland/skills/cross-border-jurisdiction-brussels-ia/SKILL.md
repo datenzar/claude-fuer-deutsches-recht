@@ -22,10 +22,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+2. **Anwendungsbereich prüfen:** Brüssel Ia (VO Nr. 1215/2012) für EU-Beklagte mit Sitz in Mitgliedstaat (Art. 4 Brüssel Ia); Haager Übereinkommen über Gerichtsstandsvereinbarungen (HGÜ 2005) im Verhältnis zu UK seit 1.1.2021 sowie Singapur und Mexiko; Lugano-Übereinkommen (2007) im Verhältnis Schweiz, Norwegen, Island; in allen übrigen Fällen autonomes deutsches Recht (§§ 12 ff. ZPO i.V.m. §§ 38, 40 ZPO Gerichtsstandsvereinbarung).
+3. **Gerichtsstandsvereinbarung Art. 25 Brüssel Ia:** Schriftform oder elektronische Aufzeichnung, eindeutige Bezeichnung des Gerichts; bei Verbrauchern, Versicherten oder Arbeitnehmern sind Vereinbarungen nur eingeschränkt möglich (Art. 15, 19, 23 Brüssel Ia). Bei nicht-ausschließlichen Klauseln aufpassen: Erstanrufung sichert Forum, sonst lis pendens-Regel Art. 29 Brüssel Ia (Italian Torpedo).
+4. **Lis pendens und Anti-suit:** Art. 29 Brüssel Ia Erstanrufungsprinzip; bei ausschließlicher Gerichtsstandsvereinbarung Art. 31 Abs. 2 Brüssel Ia Vorrang des vereinbarten Gerichts. EuGH: Anti-suit-Injunctions gegen EU-Gerichte unzulässig (West Tankers-Doktrin); im Verhältnis zu Drittstaaten möglich, aber von deutschen Gerichten nicht anerkannt.
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt: Zuständigkeitsrüge § 39 ZPO oder positive Anrufung Commercial Court mit Forum-Klausel als Anlage; Vollstreckbarerklärung-Frage frühzeitig mitdenken (§§ 1110 ff. ZPO, Verordnungen).
 
 ## Output-Standard
 

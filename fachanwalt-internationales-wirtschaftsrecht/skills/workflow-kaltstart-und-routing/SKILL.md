@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Karte für Auslandsbezug
+
+- **Vertragsstatut:** Rom I-VO 593/2008 (vertragliche Schuldverhältnisse); Art. 3 Rechtswahl; Art. 4 ohne Wahl; Art. 5–8 Sonderkollisionsregeln (Beförderung, Verbraucher, Versicherung, Arbeit).
+- **Außervertragliches:** Rom II-VO 864/2007 (Delikt, Bereicherung, GoA, c.i.c.).
+- **Gerichtsstand:** Brüssel Ia-VO 1215/2012 (EU); Lugano-Übereinkommen (EFTA — CH/NO/IS); Haager Gerichtsstandsübereinkommen 2005 (UK seit 2021 wieder Vertragspartei nach Brexit); ansonsten nationales IZPR (§§ 12 ff. ZPO).
+- **Anerkennung & Vollstreckung:** EU intern Brüssel Ia automatisch; Drittstaat über §§ 328, 722, 723 ZPO; Schiedssprüche New Yorker Übereinkommen + §§ 1061 ff. ZPO.
+- **CISG / UN-Kaufrecht:** Anwendbar bei B2B-Warenkauf zwischen Vertragsstaaten (Art. 1 CISG), wenn nicht abbedungen.
+- **Außenwirtschaft & Sanktionen:** AWG/AWV; EU-Sanktionsregelungen (z. B. VO 833/2014 Russland, VO 359/2011 Iran); US-Sekundärsanktionen via OFAC.
+- **Lieferkettensorgfalt:** LkSG (DE), CSDDD (EU-Richtlinie 2024/1760, Umsetzung bis 2027), CSRD-Nachhaltigkeitsberichterstattung.
+- **Schiedsverfahren:** UNCITRAL Model Law-orientierte ZPO §§ 1025 ff.; ICC, DIS, LCIA, SCC; institutionelle Verfahrensordnung anwendbar.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

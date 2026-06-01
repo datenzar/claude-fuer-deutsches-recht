@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin patentrecht: liest Uploads, sortiert Do
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `patentrecht` Dokumentenintake im Plugin patentrecht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Patentanmeldungen, Bescheide DPMA/EPA, Recherche-Reports, Verletzungsabmahnungen, Lizenzverträge und FTO-Analysen (Freedom to Operate) ein und ordnet sie für die patentrechtliche Bewertung nach PatG (§§ 1, 3, 4, 9, 14, 16 PatG) und EPÜ.
+
+## Dokumentenarten
+- **Patentanmeldung / Patent:** Anspruchssatz (Hauptanspruch + Unteransprüche), Beschreibung, Zeichnungen, Zusammenfassung. Schutzbereich ergibt sich aus den Ansprüchen, Beschreibung erläutert (§ 14 PatG, Art. 69 EPÜ).
+- **Recherchen-/Prüfungsbescheid DPMA bzw. EPA:** Stand der Technik (D1, D2, ...), Einwände Neuheit (§ 3 PatG / Art. 54 EPÜ) und erfinderische Tätigkeit (§ 4 PatG / Art. 56 EPÜ).
+- **Verletzungsanalyse / Abmahnung:** geltend gemachte Ansprüche (Unterlassung § 139, Auskunft § 140b, Vernichtung § 140a, Schadensersatz § 139 PatG); behauptete Patentverletzung.
+- **FTO-Bericht:** Drittpatente, ggf. Lizenzbedarf, Inhibierung von Produktrollouts.
+- **Lizenzvertrag:** Lizenzart (einfach/ausschließlich), Gebiete, Felder, Sublizenzen, Lizenzgebühren, Best-Mode-Pflichten.
+
+## Erste Triage
+- **Status:** Anmeldung, Prüfung, erteilt, Einspruch (EPA: 9-Monats-Frist), Beschwerde, Nichtigkeitsklage (BPatG)?
+- **Schutzbereich:** Hauptanspruch lesen, Merkmale gliedern.
+- **Fristen:** Prioritätsfrist 12 Monate (§ 41 PatG, Art. 87 EPÜ), Einspruch EPA 9 Monate, Beschwerdefristen.
+- **Beneficial owner:** Erfinderbenennung (§ 37 PatG); Diensterfindung (§ 6 ArbnErfG)?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

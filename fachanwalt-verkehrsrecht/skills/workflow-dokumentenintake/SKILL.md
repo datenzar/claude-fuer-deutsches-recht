@@ -33,3 +33,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Verkehrsrechts-Intake nach Saeule
+- **Unfall-Zivilrecht:** Polizeiprotokoll (Aktenzeichen, Skizze, Schuldverteilung), Unfallschadenanzeige beider Versicherer, Schadenmeldungen (Fahrzeug, Insassen), SV-Gutachten (Wertminderung, Reparaturkosten, Wiederbeschaffungswert/-aufwand), Mietwagenrechnungen, Behandlungsunterlagen Personenschaden, Lohnnachweis Verdienstausfall, Pflegegrad. Verjaehrung § 195 BGB rot markieren.
+- **OWi-Bescheid:** Bussgeldbescheid + Anhoerungsbogen, Messprotokoll, Messfoto, Eichschein, Rohdaten - Frist § 67 OWiG 2 Wochen markieren.
+- **Verkehrsstrafrecht:** Anklageschrift / Strafbefehl § 408 StPO, Vernehmungsprotokoll, Blutalkoholgutachten, Drogengutachten, vorlaeufige Entziehung Fuehrerschein § 111a StPO mit Beschwerdefrist.
+- **Verwaltungsrecht / FeV:** Anhoerung zur Entziehung Fahrerlaubnis, MPU-Anordnung (§§ 11, 13, 14 FeV), Punktestand FAER (§ 30 StVG Abfrage moeglich), Wiedererteilungsantrag.
+- **Versicherungsrecht:** Versicherungspolice, Schadenmeldung, Beweissicherungsgutachten, Korrespondenz mit Versicherer, Ablehnungsbescheid.
+- **Frist-Triage:**
+  - Verjaehrung Schadenersatz § 195 BGB i.V.m. § 199 BGB.
+  - Anzeigepflicht Versicherer § 30 VVG unverzueglich.
+  - Einspruch Bussgeld § 67 OWiG 2 Wochen.
+  - Einspruch Strafbefehl § 410 StPO 2 Wochen.
+  - Berufung / Revision Strafverfahren.
+  - Anhoerung FeV-Behoerde regelmaessig 1-2 Wochen.
+  - MPU-Vorlage 2-3 Monate.
+- **Beweissicherung sofort:** Unfallzeugen, Fotos, Polizeiprotokoll-Bezug, SV-Gutachten beauftragen (Anspruch auf eigenen SV bei klarer Haftung).

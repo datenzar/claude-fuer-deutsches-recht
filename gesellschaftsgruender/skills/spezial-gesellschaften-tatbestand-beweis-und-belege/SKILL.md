@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gesellschaften** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Tatbestand Gesellschaftsform fixieren:** GbR § 705 BGB n.F. (Mindestens 2 Personen, gemeinsamer Zweck, Beiträge); OHG § 105 HGB (Handelsgewerbe + Vollhaftung); KG § 161 HGB (Komplementär + Kommanditist mit Haftsumme); GmbH § 1 GmbHG (Stammkapital 25.000 EUR, notariell). Konkludente GbR/OHG bei Praxisgemeinschaften möglich.
+3. **Beweisfragen:** Wer trägt was vor? Bei GbR-Streit: Gesellschaftsvertrag (schriftlich oder konkludent), Beitragsleistung, gemeinsamer Zweck, Gewinnverteilung, Auftreten nach außen. Bei Personenhandelsgesellschaft zusätzlich Handelsregister-Eintragung (deklaratorisch außer KG-Kommanditist konstitutiv § 162 HGB).
+4. **Belegmatrix erstellen:** Gesellschaftsvertrag, Anmeldung Register, Notarurkunde, Bankunterlagen Kapitalkonto, Geschäftsführerbestellung, wirtschaftlich Berechtigte Transparenzregister, IHK/HwK-Mitteilungen, Finanzamt-Anmeldung, Mietverträge Geschäftsräume, Versicherungsnachweise.
+5. **Anschluss:** Bei Lücken Aufforderung zur Nachreichung; bei Streit über konkludente Gesellschaft Stufenklage § 254 ZPO (Auskunft + Rechnungslegung + Zahlung).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Internationale Live-Quellen (Pflichtprüfung)
+
+- **uncitral.un.org** — CISG-Text, Status der Vertragsstaaten, CLOUT-Datenbank (Case Law on UNCITRAL Texts).
+- **eur-lex.europa.eu** — Rom I/II, Brüssel Ia, Sanktionsverordnungen, Beihilfen-VO; Konsolidierungsdatum prüfen.
+- **finanzen-fuer-alle.bundesregierung.de / bafa.de** — BAFA für Ausfuhrgenehmigungen, Embargoinformation; Bundesbank für Zahlungsverkehrsmeldungen.
+- **eeas.europa.eu / sanctionsmap.eu** — EU-Sanktionskarte (offiziell EEAS).
+- **treasury.gov / ofac.treasury.gov** — US-OFAC Listen (SDN, NS-MBS, SSI); Recherche extraterritorialer Wirkung erforderlich.
+- **bgbl.de / gesetze-im-internet.de** — AWG, AWV, LkSG, HGB §§ 343 ff., ZPO §§ 1025 ff. (Schiedsrecht).
+- **kluwerarbitration.com / iccwbo.org / disarb.org** — Schiedsrechtsrechtsprechung (teils paywall); Awards öffentlich nur mit Parteizustimmung.
+- **hcch.net** — Haager Konferenz für IPR; Haager Übereinkommen (Beweis-, Zustellungs-, Apostille-Übereinkommen 1961/1965/1970, Gerichtsstand 2005, Anerkennung 2019).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -16,6 +16,14 @@ Regierungs- und Ministerialkontakte nach eigenen Ausnahmevorschriften einordnen.
 3. Die folgenden Leitfragen nacheinander stellen und fehlende Angaben als offene Punkte markieren.
 4. Ergebnis nicht als Rechtsrat ausgeben, sondern als prueffaehige Arbeitsunterlage mit Annahmen, Belegen und naechster Portalaktion.
 
+## Ausnahmenkanon § 2 LobbyRG (Stand prüfen)
+
+- **§ 2 Abs. 2 LobbyRG — Tätigkeitsbezogene Ausnahmen:** u. a. Stellungnahmen aufgrund Beteiligung in Gesetzgebung (z. B. § 47 Abs. 3 GGO), Auskunft auf Verlangen von Bundestag/Bundesregierung, anwaltliche oder anwaltsähnliche Mandate in konkreten Verfahren, Sozialpartnerdialog, Petitionen.
+- **§ 2 Abs. 3 LobbyRG — Persönliche/strukturelle Ausnahmen:** Hauptkommunal/-länderebenen, Religionsgemeinschaften des öffentlichen Rechts, politische Parteien, einzelne Bürgeranfragen, Wissenschaftsbetrieb auf Forschungsbasis.
+- **§ 2 Abs. 4 LobbyRG — Geringfügigkeitsschwelle:** Eintragungspflicht für regelmäßige oder auf Dauer angelegte Interessenvertretung oder mehr als 30 Kontakte in 3 Monaten oder Vergütung über 100.000 Euro pro Jahr — Schwellen vor Aussage live prüfen (BT-Drs. zur Reform 2023/2024 hat Schwellen verschoben).
+- **Wichtig:** Auch Ausnahmegestützte können freiwillig registrieren (§ 1 Abs. 4 LobbyRG); freiwillige Registrierung hat denselben Pflichtkanon wie Pflichtregistrierung.
+- **Strafe/Bußgeld:** Bei vorsätzlich falschen Angaben § 7 LobbyRG (bis 50.000 Euro); zusätzlich Verlust der Anhörungsmöglichkeit und Veröffentlichung im Register.
+
 ## Leitfragen
 
 1. Welche Regierungsebene ist adressiert?

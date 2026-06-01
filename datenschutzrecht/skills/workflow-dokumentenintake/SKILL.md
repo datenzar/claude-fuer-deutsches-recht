@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten Datenschutz
+- **Verzeichnis von Verarbeitungstätigkeiten** (Art. 30 DSGVO) – Verantwortlicher und Auftragsverarbeiter je eigenes Verzeichnis.
+- **AVV nach Art. 28 DSGVO** mit TOM-Anlage nach Art. 32 DSGVO.
+- **DSFA / DPIA** (Art. 35 DSGVO) mit Risikoampel, Schutzmaßnahmen und ggf. Konsultation nach Art. 36.
+- **Datenschutzinformationen / Hinweise** nach Art. 13 (Direkterhebung) und Art. 14 DSGVO (Drittquelle).
+- **Einwilligungen** Art. 6 Abs. 1 lit. a / Art. 7 DSGVO – Nachweis Art. 7 Abs. 1, Widerrufbarkeit Art. 7 Abs. 3.
+- **Drittlandstransfer-Doku**: SCC-Modul, TIA, ggf. Zusatzmaßnahmen ("supplementary measures" nach EDSA-Empfehlungen 01/2020).
+- **Behördenbescheide / Bußgeldbescheide** mit Frist nach § 41 BDSG i.V.m. OWiG.
+
+## Praxis-Tipp
+Bei Eingang eines Auskunftsbescheids nach Art. 58 Abs. 1 lit. a DSGVO: zuerst Frist (i.d.R. 14 Tage bis 1 Monat) und Umfang prüfen, dann Verzeichnis Art. 30 als Antwortgrundlage heranziehen — fehlt das, ist die Antwort zwangsläufig unvollständig.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

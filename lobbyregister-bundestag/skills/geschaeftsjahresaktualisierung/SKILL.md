@@ -22,6 +22,16 @@ Den jaehrlichen Registercheck planbar und belegbar machen.
 2. Welche Finanzdaten, Mitgliederzahlen und Abschluesse sind neu?
 3. Wer bestaetigt Richtigkeit und Vollstaendigkeit?
 
+## Aktualisierungsmechanik § 4 LobbyRG
+
+- **Unverzüglich (§ 4 Abs. 1 LobbyRG):** Stammdatenänderungen — neue Auftraggeber, geänderte Schwerpunkte, Personalwechsel in der Interessenvertretung; Praxisrichtwert: binnen 4 Wochen.
+- **Jährlich (§ 4 Abs. 3 LobbyRG):** Vollständige Bestätigung des Eintrags zum Stichtag des Geschäftsjahresendes; ohne Bestätigung wird Eintrag als "nicht bestätigt" markiert.
+- **Finanzangaben (§ 3 Abs. 1 Nr. 5–7 LobbyRG):** Innerhalb von 6 Monaten nach Geschäftsjahresende — Jahresabschluss, Spenden- und Zuwendungen, Honorareinnahmen mit Schwellenbeträgen (10.000-Euro-Schritte).
+- **Tätigkeitsbericht:** Schwerpunkte der Interessenvertretung im abgelaufenen Geschäftsjahr; konkrete Anliegen oder Themen.
+- **Verantwortlichkeit:** Vertretungsberechtigte Person nach Handelsregister/Vereinsregister; in Kanzleien Partner; bei juristischen Personen Geschäftsführung — Unterschrift bzw. qualifiziertes Login.
+- **Sanktion:** Bußgeld bis 50.000 Euro (§ 7 LobbyRG) bei vorsätzlich/leichtfertig falschen oder unterlassenen Angaben; Vermerk im Register; Reputationsschaden.
+- **Praxis-Tipp:** Compliance-Kalender mit zwei festen Daten — Stichtag GJ-Ende und +6 Monate für Finanzangaben; Vorab-Review durch Compliance/Externe vor Portal-Submission.
+
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html

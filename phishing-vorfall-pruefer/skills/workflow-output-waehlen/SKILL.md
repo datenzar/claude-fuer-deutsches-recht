@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen Phishing-Vorfall
+- **Anzeige bei der Bank** unter Bezugnahme auf §§ 675u, 675w BGB mit konkreten Forderungen (Rückerstattung, Verzinsung).
+- **Strafanzeige bei der Polizei** wegen §§ 263a, 269, 202c StGB; ggf. Antrag auf Strafverfolgungs-Akteneinsicht § 406e StPO.
+- **Schlichtungsantrag** bei der Verbraucherschlichtungsstelle Bank (für Streitwert bis 10.000 EUR niedrigschwellig).
+- **Klage** zum AG (Streitwert <= 5.000 EUR) bzw. LG (> 5.000 EUR); allgemeiner Gerichtsstand § 12 ZPO, ggf. § 29c ZPO Verbraucher.
+- **Datenpannenmeldung Art. 33 DSGVO** bei der zuständigen Aufsichtsbehörde, falls Daten Dritter betroffen.
+- **Cyberversicherungs-Schadenmeldung** mit Beweisdokumentation.
+- **Mandantenbrief mit Sofortmaßnahmen**: Passwort ändern, Konto sperren lassen, Strafanzeige, Bankmitteilung.
+
+## Praxis-Tipp
+Bei der Anzeige gegenüber der Bank stets nach § 675w BGB ausdrücklich die Beweislast der Bank für ordnungsgemäße starke Kundenauthentifizierung anfordern. Ohne diese Anforderung wird die Bank den eigenen Beweis nicht systematisch antreten — und ohne dokumentierte Beweisbarkeit gewinnt der Kunde § 675u BGB.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

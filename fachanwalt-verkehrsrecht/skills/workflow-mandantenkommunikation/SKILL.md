@@ -33,3 +33,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Verkehrsrechts-Mandantenkommunikation Speziallage
+- **Entscheidungsfragen pro Saeule:**
+  - **Unfallregulierung:** fiktive vs. konkrete Abrechnung; SV-Gutachten in Auftrag geben; Mietwagen vs. Nutzungsausfall; Vorschuss/Klage gegen Versicherer § 115 VVG.
+  - **OWi:** Einspruch gegen Bussgeld trotz Kostenrisiko? Ziel: Punkte vermeiden, Fahrverbot abwenden, Geldbusse senken.
+  - **Strafrecht:** Schweigerecht § 136 StPO; bei Trunkenheitsfahrt § 316 StGB nach Akteneinsicht; vorlaeufige Entziehung Fuehrerschein § 111a StPO.
+  - **FeV:** MPU - Beratung Vorbereitungskurs, Abstinenznachweis (Haaranalyse, Urinkontrollen); Wiedererteilungsantrag rechtzeitig vor Ablauf Sperre § 20 FeV.
+  - **Versicherung:** Anzeigeobliegenheit § 30 VVG; Schadensmeldung vollstaendig; Quotenregelung bei Eigenverschulden.
+- **Berufliche Auswirkungen** stets explizit ansprechen: Berufskraftfahrer, Aussendienst, Pendler, Aerzte/Anwaelte (BZRG-Eintrag bei Verurteilung); Kammerpflicht-Meldungen pruefen.
+- **Versicherungsrechtliche Beratung:** ggf. Erhoehung KH-Beitrag (Schadenfreiheitsrabatt), Insassenversicherung, Rechtsschutz pruefen (Selbstbeteiligung, Vorvertrag, Wartezeit).
+- **Kostenhinweis RVG:** Verkehrsstrafsachen / Bussgeld: VV 4100 ff. RVG; Hauptverhandlungstermin auch Sonderkosten; Rechtsschutzversicherung Deckungszusage einholen.
+- **Mandantenfreigabe schriftlich** fuer: Einspruchsruecknahme, Vergleich mit Versicherer, Strafrechtliche Deals § 257c StPO, MPU-Antritt.
+- **Pflicht-Hinweise:** kein Schweigen gegenueber Polizei am Unfallort verpflichtend ueber Pflichtangaben (Name, Adresse, Kfz-Daten); aber keine Aussage zur Schuldfrage; Schweigerecht im Strafverfahren.

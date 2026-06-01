@@ -33,3 +33,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafakte-Kaltstart-Triage
+- **Stufe 1 - Aktenart bestimmen:** Sachakte StA, Beiakte Polizei, Spurenakte, Vernehmungsprotokolle, Gutachten, Untersuchungsberichte, Asservatenverzeichnis, Telefonueberwachungsprotokolle.
+- **Stufe 2 - Verfahrensstand markieren:** Ermittlungsverfahren (vor §§ 169a, 170 StPO Abschluss) - Zwischenverfahren (§§ 199-211 StPO) - Hauptverfahren - Rechtsmittel - Vollstreckung.
+- **Stufe 3 - Beschuldigtenrolle:** Beschuldigter / Angeklagter / Mitbeschuldigter (Aussagebegrenzung § 60 Nr. 2 StPO als Zeuge); Mehrere Verfahren?
+- **Stufe 4 - Tatkomplexe gliedern:** Pro Tatkomplex Datum/Ort, Beweismittelliste, Belastungs-/Entlastungstatsachen, prozessuale Verwertbarkeit.
+- **Stufe 5 - Kritische Sofortpunkte:**
+  - **U-Haft?** Sofortige Pruefung Haftbeschwerde § 117 StPO; Akteneinsicht zwingend (BVerfG zur fair trial garantie).
+  - **Aussage Beschuldigter ohne Belehrung?** Verwertbarkeitsruege; § 136 i.V.m. § 163a StPO.
+  - **Durchsuchungsmangel** § 105 StPO? Folgewirkung Beweisverwertungsverbot - ggf. Widerspruchsruege § 257 StPO.
+  - **Verstoss gegen § 136a StPO** (Tauschung, Drohung, Versprechen)?
+- **Stufe 6 - Anschlussskills:** chronologie-strafverfahren, beweismittel-katalog, beweisverwertungsverbote-pruefen.

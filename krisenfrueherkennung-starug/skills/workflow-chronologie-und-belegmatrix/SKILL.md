@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Chronologie Krisenfrüherkennung — Pflichtbelege
+- **Vergangenheit:** Monatliches Reporting (BWA, OPOS, Liquidität, Auftragsbestand), Beschlüsse der Geschäftsführung, Protokolle Beirat/Aufsichtsrat, Banken-Reporting.
+- **Auslöseereignisse (Krisenindikatoren):** Kontokündigung, Kovenantenbruch, Großkundenausfall, Lieferantenmahnung, Steuer-/SV-Rückstand, negativer Eigenkapital-Trend, anhaltender Liquiditätsabbau.
+- **Reaktionen (zwingend zu dokumentieren):** Beschluss der Geschäftsführung, externe Berater-Mandatierung, Sanierungsfahrplan, Kommunikation mit Aufsichtsorganen und Gläubigern.
+- **Datumsspalten:** Erkennung, Meldung intern, Beschluss, Umsetzung, Erfolgskontrolle.
+- **Beweismittel:** E-Mails, Sitzungsprotokolle, Bankunterlagen, Steuerbescheide — möglichst mit Eingangsstempel / Zeitstempel.
+- **Trade-off:** Eine vollständige Chronologie kostet Zeit, ist aber im Haftungsprozess (§ 43 GmbHG) Voraussetzung für eine wirksame Verteidigung.
+- **Praxis:** Belege chronologisch sortiert in einem Datenraum mit Audit-Log halten; Versionierung von Sanierungsplänen ist Pflicht.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

@@ -24,6 +24,19 @@ Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste We
 5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
 6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
 
+## Sofort-Maßnahmen Abschiebungsabwehr
+
+- **Abschiebungshindernisse identifizieren:** § 60 Abs. 5 AufenthG (EMRK, insbes. Art. 3 — Folterverbot) und § 60 Abs. 7 AufenthG (erhebliche konkrete Gefahr, insbes. PTBS, schwere Erkrankung).
+- **Familieneinheit Art. 6 GG / Art. 8 EMRK:** Ehe/Partnerschaft, minderjährige Kinder, intensives Familienleben — Substantiierung mit Urkunden, Aufenthaltsdauer, Integrationsleistungen.
+- **Inlandsbezogene Vollstreckungshindernisse:** Reiseunfähigkeit (§ 60a Abs. 2 AufenthG); fachärztliches Attest mit qualifiziertem Inhalt nach § 60a Abs. 2c AufenthG (Diagnose, Schwere, voraussichtlicher Verlauf, konkrete Behandlung).
+- **Eilrechtsschutz parallel:**
+  - § 80 Abs. 5 VwGO gegen Abschiebungsandrohung (i. V. m. § 34a Abs. 2 AsylG bei Dublin).
+  - § 123 VwGO bei Duldungsversagung (Anordnungsanspruch und Anordnungsgrund glaubhaft machen).
+  - Petitionsausschuss / Härtefallkommission als politischer Sekundärweg (§ 23a AufenthG).
+- **Kirchenasyl:** Keine Rechtsfigur, aber faktische Praxis — BAMF erkennt Härtefälle bei "Dossier-Verfahren" an; mit Pfarramt koordinieren.
+- **Fluggesellschaft/Bundespolizei:** Bei akuter Abschiebung Fax an Bundespolizei mit Eilantrag-Eingangsstempel; ggf. Eilbeschwerde § 146 VwGO an OVG.
+- **Anwaltsfax/Beschluss in der Hand:** Vollziehbarkeit eines stattgebenden Eilbeschlusses sofort sichern.
+
 ## Spanisch bei Bedarf
 Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
 

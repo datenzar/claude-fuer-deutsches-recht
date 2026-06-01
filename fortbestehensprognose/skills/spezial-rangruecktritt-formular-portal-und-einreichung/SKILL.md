@@ -32,6 +32,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Rangrücktritt — Pflichtbausteine nach § 19 Abs. 2 Satz 2 InsO
+- **Qualifizierter Rangrücktritt:** Vereinbarung muss Tilgung und Zinsen bis zur Beseitigung der Krise ausschließen, vorinsolvenzlichen und insolvenzlichen Rang nach § 39 Abs. 1 Nr. 5 InsO unterordnen und durchsetzbar sein (BGH ständige Rspr.).
+- **Mindestformulierung:** "Die Forderung tritt im Rang hinter sämtliche gegenwärtigen und zukünftigen Forderungen anderer Gläubiger im Sinne des § 39 Abs. 1 Nr. 1–5 InsO zurück. Befriedigung darf nur aus künftigen Gewinnen, einem Liquidationsüberschuss oder freiem Vermögen erfolgen, soweit dies nicht zur Zahlungsunfähigkeit der Gesellschaft führt."
+- **Folgen:** Passivierung in Überschuldungsbilanz nach § 19 Abs. 2 Satz 2 InsO entfällt; bilanzielle Passivierung nach HGB bleibt grds. bestehen — handelsbilanziell zwingend zwischen den beiden zu unterscheiden.
+- **Anfechtungsrisiko:** Rangrücktritt selbst löst keine Anfechtung aus, aber Zahlungen vor Rangrücktritt sind potenziell anfechtbar (§ 135 InsO Gesellschafterdarlehen, einjährige Frist).
+- **Trade-off vs. Forderungsverzicht:** Verzicht ist endgültig und löst u. U. Sanierungsertrag mit Steuerfolgen aus (§ 3a EStG-Sanierungsertragsteuerbefreiung — Voraussetzungen prüfen); Rangrücktritt ist reversibel, aber bilanziell schwächer.
+- **Praxis:** Stets schriftlich, datiert vor dem Bilanzstichtag/Prognosestichtag; Beweissicherung durch Zustellung per Bote oder Anwaltspost.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

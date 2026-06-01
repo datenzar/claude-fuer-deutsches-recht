@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen Datenschutz
+- **DSGVO (VO (EU) 2016/679)** und **BDSG**: eur-lex.europa.eu, gesetze-im-internet.de.
+- **TDDDG** (vormals TTDSG): gesetze-im-internet.de — Cookie- und Endgerätezugriff (§ 25 TDDDG).
+- **EDSA-Leitlinien**: edpb.europa.eu — bindender Auslegungsleitfaden.
+- **BfDI**: bfdi.bund.de; **DSK** (Datenschutzkonferenz): datenschutzkonferenz-online.de — Beschlüsse und Kurzpapiere.
+- **EuGH-Rechtsprechung** zu DSGVO: curia.europa.eu (z. B. Schrems II Urteil vom 16.07.2020, Rs. C-311/18; Meta Platforms Urteil vom 04.07.2023, Rs. C-252/21).
+- **Data Privacy Framework (DPF)**: dataprivacyframework.gov; Angemessenheitsbeschluss EU 2023/1795.
+
+## Praxis-Tipp
+Bei US-Transfer prüfen, ob das US-Unternehmen am DPF teilnimmt (dataprivacyframework.gov Liste). Wenn ja: Angemessenheitsbeschluss 2023/1795 trägt — sonst SCC + TIA. Listenmitgliedschaft kann widerrufen werden, daher Stand der Liste dokumentieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

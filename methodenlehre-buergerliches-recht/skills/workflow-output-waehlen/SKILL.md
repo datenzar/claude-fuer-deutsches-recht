@@ -6,7 +6,22 @@ description: "Output wählen im Plugin methodenlehre-buergerliches-recht: entsch
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `methodenlehre-buergerliches-recht` Output wählen im Plugin methodenlehre-buergerliches-recht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das Output-Format für methodische Arbeit: Auslegungsmemo, Subsumtionsaufbau, Analogieprüfung, Schemata, Lehrbeispielsammlung.
+
+## Outputtypen
+- **Auslegungsmemo nach Savigny + Verfassungs-/Unionsrechtskonformität:**
+  1. Wortlautauslegung (allgemeiner Sprachgebrauch vs. juristischer Sprachgebrauch, Wortlautgrenze).
+  2. Systematische Auslegung (Stellung im Gesetz, Verweisungszusammenhang, einheitlicher Begriffsgebrauch).
+  3. Historische Auslegung (Materialien: BT-Drs., RegE-Begründung, Ausschussbericht).
+  4. Teleologische Auslegung (Normzweck; Schutzrichtung).
+  5. Verfassungs-/Unionsrechtskonforme Auslegung (Art. 1-19 GG; primäres und sekundäres Unionsrecht; ggf. Vorlage Art. 100 GG/Art. 267 AEUV).
+- **Subsumtionsaufbau:** Obersatz (Norm) - Definition des TBM - Subsumtion (konkrete Tatsachen unter Definition) - Schlussfolgerung (Tatbestand +/-).
+- **Analogieprüfung:** (1) planwidrige Regelungslücke, (2) vergleichbare Interessenlage, (3) keine Sperrnorm; bei Strafrecht Analogieverbot (Art. 103 II GG) beachten -- im BGB aber zulässig.
+- **Teleologische Reduktion:** Norm wird gegen den Wortlaut auf den vom Gesetzgeber gewollten Anwendungsbereich beschränkt -- mit starker Begründung.
+- **Schemata:** auf eine Seite begrenzt; Verweis auf Norm und Definition obligat.
+
+## Methodengrenzen
+- Wortlaut als Auslegungsgrenze; jenseits davon Rechtsfortbildung (Analogie, teleologische Reduktion) mit Begründungsanspruch.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

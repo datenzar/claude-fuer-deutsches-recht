@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Chronologie für Fortbestehensprognose — typische Belegstrukturen
+- **T-0:** Stichtag der Prognose. Bezugsbilanz, BWA, Saldenlisten, Kontoauszüge, OPOS-Listen, Auftragsbestand.
+- **T-12M Rückblick:** Monatliche EBITDA-Entwicklung, Liquiditätsverlauf, Großkundenfluktuation, Lieferantenmahnungen, Kontokorrentinanspruchnahme.
+- **T+12M / T+24M Prognose:** Geplante Umsätze (mit Auftragsbestand vs. Pipeline trennen), Personalkosten, Investitionen, Tilgungsplan, Kovenanten.
+- **Kritische Ereignisse markieren:** Kontokündigung, Großauftragsverlust, Steuerbescheid, Sozialversicherungs-Rückstand (§ 266a StGB beachten), Lieferstopp, Bankauflage.
+- **Belegmatrix-Spalten:** Datum, Vorgang, Quelle (Dokument/System), Höhe, Wirkung auf Liquidität, Wirkung auf Bilanz, Annahme falls geschätzt.
+- **Trade-off:** Eine Chronologie aus E-Mails und Notizen ist schnell, aber im Anfechtungsprozess (§§ 129 ff. InsO) schwer; idealerweise mit Buchungsbelegen verknüpfen.
+- **Praxis:** Widersprüche zwischen Liquiditätsplan und Buchhaltung früh markieren — sie kosten im Streit die Prognose.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

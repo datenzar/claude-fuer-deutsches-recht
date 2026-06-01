@@ -28,6 +28,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Mindestunterlagen Forderungsanmeldung § 174 InsO
+- **Anspruchsbegründende Dokumente:** Vertrag(e), AGB, Rechnungen, Lieferscheine, Abnahmeprotokolle, Korrespondenz.
+- **Mahnung/Verzug:** Erste Mahnung (für Verzugsbeginn, § 286 BGB), Mahnbescheid/Vollstreckungsbescheid, Vollstreckungstitel.
+- **Saldenberechnung:** Hauptforderung, Zinsen aufgegliedert nach Zeitraum und Zinssatz, Kosten (vorgerichtliche Anwaltskosten, Mahnkosten, Inkassokosten, Gerichtskosten).
+- **Sicherheiten:** Sicherungsvertrag, Sicherungsschein, Bürgschaftsurkunde, Eigentumsvorbehalts-Klausel mit Annahmebestätigung des Schuldners.
+- **Insolvenzdaten:** Eröffnungsbeschluss, Anmeldeformular des Insolvenzverwalters, Anmeldefrist, Prüfungstermin.
+- **Vollmacht:** Falls Vertreter handelt — Original- oder beglaubigte Kopie für die Anmeldung.
+- **Rang § 39 InsO prüfen:** Insbesondere bei Gesellschafterdarlehen (§ 39 Abs. 1 Nr. 5 InsO), Zinsen ab Eröffnung (§ 39 Abs. 1 Nr. 1 InsO), Geldstrafen/Bußgelder (§ 39 Abs. 1 Nr. 3 InsO).
+- **Trade-off:** Eine zu schmale Beleglage führt zum Bestreiten im Prüfungstermin; eine zu breite Beleglage verzögert die Anmeldung. Pareto: Vertrag + Rechnung + Verzugsschreiben deckt 80 % der Standardfälle.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

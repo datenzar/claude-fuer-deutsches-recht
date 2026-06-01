@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen KI-Governance
+- **KI-Inventar** als Tabelle (Tool, Hersteller, Hosting, Datenarten, KI-VO-Klasse, AVV-Status, DPF/SCC, Verantwortlicher).
+- **KI-Risikoklassifizierung** je System: Verbotene Praktik (Art. 5), Hochrisiko (Art. 6 ff. + Anhang III), Begrenzt (Art. 50), Minimal.
+- **DSFA** (Art. 35 DSGVO) bei voraussichtlich hohem Risiko durch KI-Einsatz.
+- **AVV-Review-Tabelle** mit Spalten Anforderung Art. 28, Klausel-Fundstelle, Bewertung, To-do.
+- **Kanzlei-/Unternehmens-Richtlinie KI** mit Whitelist/Blacklist.
+- **Schulungsmaterialien Art. 4 KI-VO** mit dokumentierter Teilnahme.
+- **Memo an Geschäftsleitung / Mandanten** mit Lage, Risiken, Empfehlung.
+
+## Praxis-Tipp
+Bei Erstprüfung eines KI-Falles immer als ersten Output ein **kurzes Inventar-Fragment + Klassifizierung** liefern, bevor man in Detail-Subsumtion einsteigt. Das vermeidet, dass ein nicht klassifiziertes Tool versehentlich mit Mandantendaten gefüttert wird, während die rechtliche Bewertung noch läuft.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

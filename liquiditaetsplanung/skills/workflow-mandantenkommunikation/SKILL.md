@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Kommunikation Liquiditätsplanung — wesentliche Pflichten
+- **§ 1 StaRUG ist Geschäftsführungspflicht:** Die Krisenfrüherkennung ist nicht "schön zu haben", sondern Pflicht jedes Geschäftsleiters einer haftungsbeschränkten Gesellschaft. Verstoß kann § 43 GmbHG-Haftung auslösen.
+- **§ 15a InsO Antragsfristen:** Bei Zahlungsunfähigkeit Höchstfrist drei Wochen, bei Überschuldung sechs Wochen (Stand prüfen) — nicht zur freien Verfügung; jeder Tag zählt für § 15b InsO Zahlungsverbot.
+- **§ 15b InsO Zahlungsverbot:** Nach Eintritt der Insolvenzreife sind nur noch privilegierte Zahlungen erlaubt; Verstoß führt zu persönlicher Haftung des Geschäftsführers gegenüber der späteren Masse.
+- **§ 266a StGB Sozialversicherung:** Arbeitnehmer-SV-Beiträge sind unverzüglich abzuführen; Stundungsantrag rechtzeitig stellen, sonst Strafbarkeit.
+- **Klare Sprache:** "Sie haben am [Datum] eine Deckungslücke von X EUR. Nach BGH-Rechtsprechung liegt dann Zahlungsunfähigkeit vor, sofern keine Schließung binnen drei Wochen absehbar ist."
+- **Honorar:** Beratungsvereinbarung mit Pauschal- oder Stundenhonorar; reine RVG-Abrechnung deckt Sanierungsberatung nicht.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

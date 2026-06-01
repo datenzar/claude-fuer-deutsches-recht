@@ -6,7 +6,19 @@ description: "Anschluss-Skills Router im Plugin mandantenanfragen-assistent: sch
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `mandantenanfragen-assistent` Anschluss-Skills Router im Plugin mandantenanfragen-assistent: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach der Erstsichtung in die passende Folgeroute der Kanzlei: Erstauskunft, Auftragsbestätigung, Honorarvereinbarung, Verweisung an Fachanwalt, Beratungshilfe, Rechtsschutz-Klärung.
+
+## Routing nach Mandantensituation
+- **Eilige Frist (Vorladung, Bescheid, Klage):** Sofort-Bestätigung des Eingangs, Fristnotierung, Mandatsbestätigung in Textform (§ 3a RVG), parallel Mandantenfragen zur Sache.
+- **Erstberatungsanfrage Verbraucher:** Hinweis auf max. 190 EUR netto (§ 34 Abs. 1 RVG); ggf. Beratungshilfeschein (BerHG); Aufklärung über Schwerpunkt und Folgekosten.
+- **Mandant Unternehmer (Bestand):** sofort Mandatsverfügung mit Abrechnungssystematik (RVG vs. Honorar), Sachbearbeiter, Abstimmung mit Rechtsabteilung.
+- **Rechtsschutzversicherung:** Deckungsanfrage parallel zur Mandatsannahme; Hinweis Mandant auf Selbstbeteiligung; ggf. Auswahlhinweis nach § 127 VVG.
+- **Mandant außerhalb der Kanzleischwerpunkte:** Höfliche Verweisung mit benannten Kollegen; Achtung § 49 BRAO (Hinweispflicht auf Rechtsanwaltskammern).
+- **Geheimhaltung:** Vor jeder Bearbeitung sicherstellen, dass kein Konflikt nach § 43a Abs. 4 BRAO besteht (Interessenkollisionscheck).
+
+## Anti-Muster
+- Mandatsannahme ohne Vergütungsklärung -- birgt Honorarstreit.
+- Rechtsberatung per E-Mail ohne Mandatsverhältnis -- bei Fehlinformation Haftung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

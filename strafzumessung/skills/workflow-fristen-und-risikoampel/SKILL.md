@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafzumessungs-Speziallage
+- **§ 46 StGB Strafzumessungstatsachen:** Tatschuld (Anker), Beweggruende, Mass der Pflichtwidrigkeit, Vorleben, persoenliche Verhaeltnisse, Nachtatverhalten - keinen Punkt ueberspringen.
+- **Tagessatzgeldstrafe § 40 StGB:** Anzahl (5-360) zeigt Schuld, Hoehe (1-30000 EUR) zeigt Einkommen. Hoehe regelmaessig 1/30 des monatlichen Nettoeinkommens; bei Selbststaendigen Schaetzung nach § 40 III StGB.
+- **Strafaussetzung § 56 StGB:** Bis 6 Monate Sollvorschrift, 6-12 Monate Kannvorschrift, 12-24 Monate nur bei besonderen Umstaenden (§ 56 II StGB).
+- **Gesamtstrafe § 55 StGB:** Wenn weitere Verurteilung vor Vollstreckung; Einsatzstrafe + Erhoehung, niemals reine Addition.
+- **Verstaendigung § 257c StPO:** Strafmass-Korridor verbindlich, aber Beweisaufnahme nicht ersparbar; Belehrung § 257c V StPO als Wirksamkeitsvoraussetzung pflichtgemaess.
+- **TOA § 46a StGB:** Strafmilderung oder Absehen von Strafe; Voraussetzungen: Wiedergutmachung, Aussoehnungsbemuehen, ernsthaftes Anerkennen.
+- **§ 49 StGB Strafrahmenmilderung:** § 23 II, § 21 StGB, § 13 II StGB, § 27 II 2 StGB - Pruefreihenfolge beachten.
+- **Risikoampel:** Rot bei drohender Untergrenze ueberschritten, falscher Strafrahmen, fehlender Bewaehrungseinwilligung; Gelb bei unklarer Vorstrafenlage; Gruen bei dokumentierter Strafmasserwartung.

@@ -51,3 +51,14 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## KdU (Kosten der Unterkunft) - Themenspezifika
+- **Rechtsgrundlagen:** § 22 SGB II (Buergergeld) bzw. § 35 SGB XII (Sozialhilfe / Grundsicherung im Alter); Heizung in beiden Faellen mitumfasst.
+- **Angemessenheitspruefung** (BSG-Linie staendige Rspr.): Schluessiges Konzept der Kommune zu (a) Wohnflaeche (1 Person regelmaessig 50 qm, plus 15 qm je weitere Person), (b) Bruttokaltmiete (Kommunal-Mietspiegel; Vergleichswohnungen) und (c) Heizung (Heizspiegel der jeweiligen Kommune).
+- **Kosten-Senkungs-Aufforderung § 22 I 3 SGB II:** Behoerde muss konkret und schriftlich auffordern; Frist regelmaessig 6 Monate; Senkungsbemuehungen dokumentieren.
+- **Bedarf bei unangemessen hoher Miete:** zunaechst tatsaechliche Miete uebernommen, dann nur noch angemessene; "Schluessiges Konzept" der Behoerde ist Voraussetzung - fehlt es, gilt Wohngeldgesetz-Tabelle plus 10 % als Hilfsmassstab (BSG).
+- **Heizkosten:** tatsaechliche bis Grenze "extreme Atypik"; bei sehr hohem Verbrauch Pruefung Energiesparpotenzial.
+- **Strom:** im Regelbedarf enthalten - keine separate Uebernahme (Ausnahme Warmwasser durch Heizung).
+- **Nebenkostenabrechnung:** Erstattung Nachzahlung als KdU im Monat des Zuflusses; Guthaben mindert KdU im Folgemonat.
+- **Eilrechtsschutz § 86b II SGG:** bei drohender Wohnungsloskeit zwingend; Anordnungsanspruch (KdU-Anspruch) und Anordnungsgrund (Raeumungsklage / Kuendigung) glaubhaft machen.
+- **Praxis-Tipp:** Bei Umzug aus Kostengruenden vorherige Zusicherung § 22 IV SGB II einholen; sonst keine Uebernahme erhoehter Kosten.

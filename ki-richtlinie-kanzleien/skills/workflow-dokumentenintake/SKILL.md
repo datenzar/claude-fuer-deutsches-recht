@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten Kanzlei-KI-Richtlinie
+- **Entwurfs- oder Bestandsfassung der Kanzlei-KI-Richtlinie** mit Gliederung Zweck/Geltungsbereich/Tools/Daten/Verantwortliche/Sanktionen.
+- **Tool-Inventar / Whitelist** mit Spalten: Tool, Anbieter, Hosting (EU/US), AVV-Status, DPF-Status, SCC-Modul, kategorisierte Datenarten.
+- **AVV (Art. 28 DSGVO)** mit jedem KI-Anbieter, TOM-Anlage, Unterauftragsverarbeiter-Liste.
+- **Schulungsnachweise**: Teilnehmer, Datum, Inhalt — als Erfüllung Art. 4 KI-VO (KI-Kompetenz).
+- **Mandatsvereinbarung / AGB der Kanzlei** mit Hinweis auf KI-Einsatz, ggf. Einwilligung Mandant.
+- **Betriebsratsvereinbarung / Beteiligungsdokumentation** § 87 Abs. 1 Nr. 6 BetrVG.
+- **DAV-Stellungnahme / Hinweise BRAK** als externe Orientierung (nicht bindend).
+
+## Praxis-Tipp
+Der zentrale Pflichtbaustein einer Kanzlei-KI-Richtlinie ist die Regel: "Keine identifizierbaren Mandantendaten in nicht freigegebene Tools." Diese eine Regel verhindert die meisten Schweigepflichts- und DSGVO-Verstöße. Alles andere ist Ausgestaltung.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

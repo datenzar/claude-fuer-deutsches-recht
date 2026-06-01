@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Routing Liquiditätsplanung
+- **Zahlungsunfähigkeit § 17 InsO im Verdacht:** Liquiditätsstatus nach BGH-Schwellen erstellen (Deckungslücke < 10 % Zahlungsstockung; ≥ 10 % grds. Zahlungsunfähigkeit).
+- **§ 18 InsO drohende Zahlungsunfähigkeit (StaRUG-Zugang):** 24-Monatsplan mit Annahmenkatalog und Sensitivitäten. Anschluss: Plugin `krisenfrueherkennung-starug`.
+- **§ 19 InsO Überschuldung:** 12-Monats-Fortbestehensprognose. Anschluss: Plugin `fortbestehensprognose`.
+- **Sanierungsfahrplan/Sanierungskonzept IDW S 6:** Bei Bankenverhandlung oder externer Begutachtung. Datenfundament: rollierender 13-Wochen-Plan plus 24-Monatsplan.
+- **Steuer- und SV-Rückstände:** Sonderfall! § 266a StGB bei nicht abgeführten Arbeitnehmer-SV-Beiträgen ist persönliche Strafbarkeit; Stundungsanträge dokumentieren.
+- **Trade-off:** Kurzfristige Maßnahmen (Factoring, Sale-and-lease-back) entlasten Liquidität, aber belasten Bilanz und Anfechtungsrisiko (§§ 130 ff. InsO).
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

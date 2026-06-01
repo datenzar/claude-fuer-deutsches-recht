@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Vergaberechtliche Fristen (Ampelraster)
+
+- **Rot — unverzüglich:** Rüge bei nach Bekanntmachung/Vergabeunterlagen erkennbarem Verstoß (§ 160 Abs. 3 Nr. 1 GWB) — Praxis: 1–2 Werktage, Komplexes bis 5 Werktage.
+- **Rot — vor Angebotsabgabe:** Rügen erkannter Verstöße in der Bekanntmachung (§ 160 Abs. 3 Nr. 2 GWB) bzw. in den Vergabeunterlagen (§ 160 Abs. 3 Nr. 3 GWB).
+- **Rot — 15 Kalendertage:** Nachprüfungsantrag nach Nichtabhilfemitteilung (§ 160 Abs. 3 Nr. 4 GWB).
+- **Rot — 15 Tage Stillhaltefrist:** Informationspflicht vor Zuschlag § 134 Abs. 2 GWB (10 Tage bei elektronischer Übermittlung).
+- **Rot — Schwellenwerte 2024/25:** Bauleistungen 5.538.000 Euro; Liefer-/Dienstleistungen 221.000 Euro (Sektorenauftraggeber 443.000 Euro); Konzessionen 5.538.000 Euro; Werte regelmäßig aktualisiert — vor Aussage gegen aktuelle VO checken.
+- **Gelb — § 135 GWB (De-facto-Vergabe):** 30 Kalendertage ab Kenntnis, max. 6 Monate nach Vertragsschluss.
+- **Praxis-Tipp:** Rüge per qualifiziert signierter E-Mail oder Fax mit Sendebericht; reine E-Mail ohne QES nur, wenn Auftraggeber Empfang bestätigt. Bei mehreren Verstößen jeden Verstoß separat rügen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

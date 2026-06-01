@@ -6,7 +6,20 @@ description: "Dokumentenintake im Plugin urteilsbauer-relationsmacher: liest Upl
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `urteilsbauer-relationsmacher` Dokumentenintake im Plugin urteilsbauer-relationsmacher: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest die vollständige Akte (Klage, Klageerwiderung, Schriftsätze, Beweisangebote, Sitzungsprotokolle) ein und bereitet sie für die Relationstechnik vor: Klägerstation -> Schlüssigkeit -> Beklagtenstation -> Erheblichkeit -> Beweisstation.
+
+## Dokumentenarten
+- **Klageschrift (§ 253 ZPO):** bestimmter Antrag, Klagegrund, Beweisangebote.
+- **Klageerwiderung / Schriftsätze Beklagtenseite:** Bestreiten (§ 138 Abs. 2-4 ZPO), Einreden, Gegenangriffe.
+- **Replik / Duplik:** Vertiefung; auch hier auf Substantiierung achten.
+- **Beweisangebote:** Zeuge, Urkunde, Augenschein, Sachverständige, Parteivernehmung.
+- **Protokolle:** Erklärungen zu Protokoll, Beweisaufnahme, Geständnisse (§ 288 ZPO).
+
+## Erste Triage Relationstechnik
+- **Klägerstation (Schlüssigkeit):** Ergibt sich aus dem Klägervortrag, alle Tatsachen als wahr unterstellt, der Klageantrag?
+- **Beklagtenstation (Erheblichkeit):** Stehen dem Klägervortrag erhebliche Einwendungen entgegen? Substanziierung (§ 138 ZPO)?
+- **Beweisstation:** Welche streitigen Tatsachen sind beweisbedürftig? Welche Beweismittel sind angeboten? Verteilung der Beweislast?
+- **Subsumtion und Tenor:** Begründetheit prüfen; konkrete Tenor-Formulierung (Hauptsache, Zinsen, Kosten, Vollstreckbarkeit).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

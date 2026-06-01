@@ -51,3 +51,17 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Eingliederungshilfe Erwachsene - Themenspezifika
+- **Rechtsgrundlage:** SGB IX Teil 2 (§§ 90-150 SGB IX); seit BTHG-Reform 2020 nicht mehr im SGB XII. Zustaendig regelmaessig **Traeger der Eingliederungshilfe** (Bezirk in Bayern, Landschaftsverband in NRW, Land in anderen Bundeslaendern).
+- **Personenkreis § 99 SGB IX:** Menschen mit (drohender) wesentlicher Behinderung; "wesentlich" = erhebliche Beeintraechtigung der Teilhabe in mindestens 5 von 9 Lebensbereichen (ICF-Bereiche).
+- **Leistungsformen:**
+  - **Soziale Teilhabe § 113 SGB IX** (Assistenz § 78 SGB IX, Hilfsmittel, Mobilitaet, betreutes Wohnen).
+  - **Teilhabe Bildung § 112 SGB IX** (Studienassistenz, Schulbegleitung).
+  - **Teilhabe Arbeitsleben § 111 SGB IX** (WfbM, BBE, Andere Anbieter, Budget fuer Arbeit § 61 SGB IX).
+  - **Medizinische Reha** wenn kein vorrangiger Traeger (§ 109 SGB IX).
+- **Persoenliches Budget § 29 SGB IX:** Wahlrecht; Kostenobergrenze gleich Sachleistung; Zielvereinbarung verpflichtend.
+- **Einkommens- und Vermoegensanrechnung § 135 ff. SGB IX:** seit BTHG erheblich entschaerft - Arbeitseinkommen Werkstattbeschaeftigter frei; Vermoegen bis 65.880 EUR (Stand 2024, jaehrlich Anpassung) geschuetzt; ggf. Beitrag aus Einkommen oberhalb Grenzen.
+- **Gesamtplanverfahren § 117 SGB IX:** Bedarfsermittlung mit ICF; Beteiligung des Leistungsberechtigten verpflichtend; Verfahrensfehler ist Bescheidmangel.
+- **Eil-Rechtsschutz** bei Versorgungsluecke z. B. Assistenz, drohendem Heimwechsel; § 86b II SGG.
+- **Praxis-Tipp:** Genau dokumentierter Bedarf in den Lebensbereichen (ADL-Beobachtungen, Pflegetagebuch, Aussagen Bezugspersonen); ggf. Antrag auf Persoenliches Budget zur Steigerung Selbstbestimmung.

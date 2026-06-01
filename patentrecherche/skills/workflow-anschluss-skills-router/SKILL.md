@@ -6,7 +6,20 @@ description: "Anschluss-Skills Router im Plugin patentrecherche: schlägt nach d
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `patentrecherche` Anschluss-Skills Router im Plugin patentrecherche: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach Sichtung in die passenden Patentrecherche-Spezialskills weiter: Suchstrategie, Klassifikationsanalyse, Volltextrecherche, Family-Watch, Wettbewerber-Monitoring, Validity-Suche.
+
+## Routing nach Rechercheart
+- **Stand der Technik (Patentability):** Anspruchsmerkmale -> Keywords, IPC/CPC-Klassen, Synonym-Hierarchie; Datenbanken Espacenet, DEPATISnet, Google Patents, Patentscope.
+- **Freedom-to-Operate (FTO):** Anspruchssatz fremder Patente -> merkmalsweise Verletzungsmatrix; Schutzregionen klären; Validity-Reserve hinterlegen.
+- **Validity-Search (Nichtigkeitsangriff):** harte Suche auf Vorveröffentlichungen vor Prioritätstag des Angriffsziels; Non-Patent-Literature (Konferenzbeiträge, Master-/Doktorarbeiten) explizit prüfen.
+- **Family-Watch / Wettbewerber-Monitoring:** Patentfamilien laufend monitoren (INPADOC, Espacenet family); Statusupdates RSS/Alert.
+- **Standard / SEP:** ETSI/3GPP/IEEE-Datenbanken; SEP-Datenbanken (DARTS-IP, IPlytics) beachten.
+
+## Anti-Muster
+- Nur Englisch suchen, deutsche/asiatische Patente übersehen.
+- IPC/CPC ignorieren -- erheblicher Recall-Verlust.
+- Stichtag falsch wählen (Anmeldetag vs. Prioritätstag).
+- "Erschöpfende" Suche ohne dokumentierte Suchstrategie -- nicht prüfbar.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

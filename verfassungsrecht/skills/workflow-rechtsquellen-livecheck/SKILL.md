@@ -22,6 +22,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verfassungsrechtliche Live-Quellen (Pflichtprüfung)
+
+- **bundesverfassungsgericht.de** — Pressemitteilungen, Entscheidungsdatenbank, Senatsbesetzung; jedes BVerfG-Aktenzeichen vor Zitat verifizieren (kein Modellwissen).
+- **gesetze-im-internet.de** — Tagesaktueller Wortlaut GG, BVerfGG, einschlägiger Fachgesetze; ändert sich häufiger als gedacht (z. B. Art. 73, 74 GG durch Föderalismusreformen).
+- **dejure.org / openjur.de** — Frei zugängliche Volltexte zu Fach- und Verfassungsgerichten.
+- **curia.europa.eu / hudoc.echr.coe.int** — Bei unionsrechts- oder EMRK-konformer Auslegung (Art. 1 Abs. 2, Art. 25 GG; § 31 BVerfGG-Wirkung beachten).
+- **bgbl.de, BT-Drs. auf dip.bundestag.de** — Materialien für historisch-genetische Auslegung.
+- **Verboten:** BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen — nur bei lizenziertem Zugriff oder Bereitstellung durch die Nutzerin.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

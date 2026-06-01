@@ -28,6 +28,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Mindestunterlagen § 1 StaRUG (Krisenfrüherkennungssystem)
+- **Kennzahlenset:** Mindestens Liquidität (rollierend 13 Wochen), Eigenkapitalquote, EBITDA-Marge, Auftragsbestand, Forderungslaufzeit (DSO), Lieferantenlaufzeit (DPO), Lagerumschlag, Bankenlinien-Auslastung.
+- **Schwellenwerte:** Schriftlich fixiert, mit Eskalations-Stufen (Gelb/Rot) und Auslöse-Maßnahmen.
+- **Reportingfrequenz:** Mindestens monatlich, in der Krise wöchentlich; Verantwortliche und Empfänger benannt.
+- **Maßnahmenkatalog:** Sofortmaßnahmen (Cash-Pooling, Lieferantenverhandlung, Bankgespräch), mittelfristige Maßnahmen (Sanierungskonzept, Eigenverwaltung, StaRUG-Plan), worst case (Insolvenzantrag § 15a InsO).
+- **Governance:** Geschäftsverteilung, Vertretung, Berichtspflichten an Aufsichtsorgane (§ 1 Abs. 1 Satz 3 StaRUG, Stand prüfen).
+- **Beweispflichten:** Dokumentation der erkannten Risiken, Datum der Erkennung, ergriffene Maßnahmen — Pflicht-Dokumentation für Haftungsverteidigung nach § 43 GmbHG.
+- **Trade-off:** Zu umfangreiches System bindet Ressourcen, zu schlankes System scheitert im Streit. Pareto: Wenige, harte Kennzahlen mit klaren Schwellen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

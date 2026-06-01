@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Diagnose Datenschutz
+- **"Betroffenenanfrage / Auskunftsersuchen"** → Art. 15 DSGVO, Antwort binnen Monatsfrist (Art. 12 Abs. 3); Identitätsprüfung.
+- **"Datenpanne"** → Art. 33 DSGVO (Meldung 72 Std.), Art. 34 DSGVO (Benachrichtigung Betroffener bei hohem Risiko).
+- **"DSFA / DPIA"** → Art. 35 DSGVO; bei Hochrisiko Konsultation Aufsichtsbehörde Art. 36 DSGVO.
+- **"AVV-Prüfung"** → Art. 28 DSGVO, TOM-Anlage nach Art. 32 DSGVO mitprüfen.
+- **"US-Transfer / Drittlandstransfer"** → Art. 44 ff. DSGVO; DPF (Data Privacy Framework), SCC (Standardvertragsklauseln) Beschluss 2021/914, TIA (Transfer Impact Assessment) nach Schrems II.
+- **"Beschäftigtendaten"** → § 26 BDSG, Mitbestimmung § 87 Abs. 1 Nr. 6 BetrVG.
+
+## Praxis-Tipp
+Erste Weiche stets: personenbezogene Daten ja/nein und wer ist Verantwortlicher (Art. 4 Nr. 7 DSGVO) vs. Auftragsverarbeiter (Art. 4 Nr. 8). Falsche Rollenzuweisung führt zum falschen Pflichtenkanon.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

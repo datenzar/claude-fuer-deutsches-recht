@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Red-Team-Prüfpunkte DSA/DMA
+1. **Rollenklarheit:** Vermittlungsdienst (Art. 6 DSA), Hosting (Art. 6 DSA), Online-Plattform (Art. 19 ff. DSA) oder VLOP/VLOSE (Art. 33 ff. DSA)? Pflichtenkanon variiert erheblich.
+2. **Anwendungsbereich:** Anbieter mit Sitz in EU (Art. 2 DSA) oder Drittlandsanbieter mit EU-Nutzern (dann Art. 13 DSA Rechtsvertreter Pflicht)?
+3. **Notice-and-Action:** Wurde der Mechanismus nach Art. 16 DSA implementiert? Mit den Pflichtinformationen?
+4. **Statement of Reasons (SoR):** Art. 17 DSA — wird vollständig gegenüber Nutzer und Transparenzdatenbank erfüllt?
+5. **AGB:** Erfüllen die Nutzungsbedingungen Art. 14 DSA-Anforderungen?
+6. **DMA-Gatekeeper-Verwechslung:** Kein DMA-Argument bei einem Anbieter, der nicht als Gatekeeper benannt ist; und umgekehrt — DMA-Pflichten gelten erst nach Benennung.
+7. **Nationaler vs. EU-Rahmen:** DSA-Aufsicht national bei DSC (BNetzA für DE), DMA-Aufsicht ausschließlich EU-Kommission.
+8. **Halluzinations-Check:** Keine erfundenen Erwägungsgründe; keine Vermischung Erwägung — Norm — Leitlinie.
+
+## Praxis-Tipp
+Häufiger Fehler: DSA und DMA werden vermischt. Die Pflichtenwirkung ist eine andere — DSA gilt für alle Vermittlungsdienste mit gestuftem Pflichtenkanon, DMA nur für ausdrücklich benannte Gatekeeper. Bei Beratung stets zuerst klären: "Ist Ihr Mandant von der EU-Kommission als Gatekeeper benannt?" Wenn nein: kein DMA-Argument.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

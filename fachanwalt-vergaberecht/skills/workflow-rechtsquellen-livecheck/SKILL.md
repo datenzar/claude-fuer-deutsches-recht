@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Vergaberechtliche Live-Quellen (Pflichtprüfung)
+
+- **gesetze-im-internet.de** — GWB (4. Teil: §§ 97 ff.), VgV, SektVO, KonzVgV, VSVgV, UVgO.
+- **ec.europa.eu / eur-lex.europa.eu** — RL 2014/24/EU (klassisch), RL 2014/25/EU (Sektoren), RL 2014/23/EU (Konzessionen), RL 2009/81/EG (Verteidigung); aktuelle Schwellenwert-VO (regelmäßig ungeradezahlige Jahre).
+- **ted.europa.eu** — TED (Tenders Electronic Daily) für EU-Bekanntmachungen.
+- **bundeskartellamt.de/Vergabe** — Vergabekammer des Bundes: Entscheidungsdatenbank, Veröffentlichungen.
+- **Länderkammern** — Z. B. VK Südbayern, VK Berlin, VK Rheinland; eigene Veröffentlichungspraxis über Justizportale.
+- **OLG-Vergabesenate** — Düsseldorf, München, Karlsruhe, Frankfurt etc.; freier Zugang über jeweilige Justizportale (z. B. olg-duesseldorf.nrw.de).
+- **dtvp.de / vergabe24.de / etwa.evergabe-online.de** — Bekanntmachungsplattformen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

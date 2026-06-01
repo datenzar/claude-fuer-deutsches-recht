@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Mopeg** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **MoPeG-Reform 1.1.2024:** Personengesellschaftsrechtsmodernisierungsgesetz; GbR §§ 705 ff. BGB n.F.; eGbR-Eintragung in Gesellschaftsregister § 707 ff. BGB n.F. (freiwillig, aber konstitutiv für GbR-Erwerb von Grundstücken § 707a Abs. 2 BGB n.F. und GmbH-Anteilen § 40 GmbHG); OHG/KG/PartG bleiben separat, aber teils Anpassungen (z.B. § 105 HGB n.F.).
+3. **Portal- und Einreichungswege:** Gesellschaftsregister: bundesweit über Notar (§ 707b BGB n.F. i.V.m. § 12 HGB Beglaubigung); Handelsregister: über Notar nach § 12 HGB; Transparenzregister: Eintragung online über transparenzregister.de (Bundesanzeiger), Eingabemaske mit wirtschaftlich Berechtigten, kein Notar-Zwang aber Identitätsnachweis.
+4. **Pflichtangaben Gesellschaftsregister § 707a Abs. 1 BGB n.F.:** Name eGbR (mit Zusatz "eGbR"), Sitz, Gegenstand, Gesellschafter mit Namen, Geburtsdatum, Wohnort, Vertretungsbefugnis. Bei Änderungen Folgeanmeldung.
+5. **Trade-off und Anschluss:** Eintragung in eGbR sichert Aktivlegitimation für bestimmte Rechtsgeschäfte, kostet aber Notargebühren und schafft Publizität (positive und negative Publizität § 707a Abs. 3 BGB n.F. analog § 15 HGB). Anschluss-Skill `gesellschaftsgruender-transparenzregister`.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

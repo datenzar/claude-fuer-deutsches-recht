@@ -22,10 +22,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+2. **Widerklage-Voraussetzungen (§ 33 ZPO):** Konnexität (rechtlicher Zusammenhang mit Klagegegenstand oder Verteidigungsmitteln); sachliche Zuständigkeit muss gegeben sein (bei Commercial Court Streitwert mindestens 500.000 EUR nach Justizstandort-Stärkungsgesetz, bei Anrufung Commercial Chamber regelmäßig herabgesetzte Schwellen je Landesrecht). Englische Sprache der Widerklage folgt der Hauptklage, wenn § 184 GVG i.V.m. Landesverordnung greift.
+3. **Aufrechnung (§ 388 BGB / § 145 Abs. 3 ZPO):** Materielle Aufrechnungserklärung Gegenseitigkeit, Gleichartigkeit, Wirksamkeit, Fälligkeit der aktiven Forderung. Prozessual Hilfsaufrechnung als hilfsweise vorgetragene Verteidigung; Trennung in vorrangige Hauptverteidigung und Eventualaufrechnung dokumentieren.
+4. **Klageänderung (§ 263 ZPO):** Zustimmung des Beklagten oder Sachdienlichkeit; Sachdienlichkeit liegt vor, wenn der bisherige Prozessstoff verwertet werden kann und kein neues Sachverhaltsfundament aufzubauen ist. Bei Klageerweiterung um Streitwert: erneute Prüfung Zuständigkeit, ggf. Verweisung.
+5. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären. Nächsten Schritt mit Frist, Owner, Anlagen festlegen.
 
 ## Output-Standard
 

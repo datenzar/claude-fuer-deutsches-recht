@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafbefehl-Livecheck-Kernquellen
+- **StPO §§ 407-412** (Strafbefehlsverfahren), § 410 (Einspruch, Frist), § 44 (Wiedereinsetzung), § 47 (Versaeumnisfristen).
+- **StGB:** § 47 (kurze Freiheitsstrafe nur ausnahmsweise), § 40 (Tagessatzsystem), § 56 (Strafaussetzung Bewaehrung), § 46 (Strafzumessungstatsachen).
+- **BZRG** (Bundeszentralregistergesetz): Eintragspflicht bei Geldstrafe ueber 90 Tagessaetzen / Freiheitsstrafe; Loeschfristen § 46 BZRG.
+- **FAER-/Punktekatalog** bei Verkehrsordnungswidrigkeiten in Strafbefehlsform (§ 21 StVG, § 24a StVG, § 315c StGB).
+- **Aktuelle Strafzumessungstabellen** der zustaendigen Generalstaatsanwaltschaften / OLG-Bezirke; Achtung: regional sehr unterschiedlich.
+- **§ 153 StPO, § 153a StPO** Einstellung gegen Auflagen pruefen, oft strategisch besser als Einspruch.
+- Bei Verkehrsdelikten zusaetzlich StVO, StVZO, BussgeldkatalogV, FeV §§ 11, 14 (MPU).

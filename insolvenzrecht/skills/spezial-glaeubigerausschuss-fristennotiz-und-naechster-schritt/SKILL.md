@@ -32,6 +32,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Gläubigerausschuss §§ 67–73 InsO — Funktion und Fristen
+- **Vorläufiger Gläubigerausschuss § 22a InsO:** Pflichtbestellung bei Erreichen von zwei der drei Größenschwellen (Bilanzsumme > 6 Mio. EUR, Umsatz > 12 Mio. EUR, im Jahresdurchschnitt mehr als 50 AN, Stand prüfen); fakultativ darunter.
+- **Aufgaben § 69 InsO:** Unterstützung und Überwachung des Verwalters/Sachwalters; Zustimmungserfordernis bei Geschäften nach § 160 InsO (besondere Bedeutung).
+- **Haftung § 71 InsO:** Mitglieder haften gegenüber den absonderungsberechtigten Gläubigern und den Insolvenzgläubigern bei schuldhafter Pflichtverletzung; Maßstab eines gewissenhaften Geschäftsmanns.
+- **Beschlussfassung § 72 InsO:** Mehrheit der Mitglieder; Niederschrift Pflicht.
+- **Vergütung § 73 InsO:** Vergütungsanspruch (auch ehrenamtliche Mitglieder können angemessene Auslagenerstattung verlangen, Stand prüfen).
+- **Mitglieder-Auswahl:** Sicherungsgläubiger (Bank), Großgläubiger (Lieferanten), Kleingläubiger (Mitarbeitervertreter), Fiskus/Steuer, ggf. Pensionssicherungsverein.
+- **Praxis:** Frühzeitige Konstituierung (idealerweise im Eröffnungsverfahren) erleichtert Eigenverwaltung; Strategiethema "M&A im Verfahren" gehört in den Gläubigerausschuss.
+- **Trade-off:** Großer Ausschuss = breite Akzeptanz, aber langsame Beschlussfassung; kleiner Ausschuss = effizient, aber Vorwurf der Unterrepräsentanz droht.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Vergaberechtliches Routing (Schwellenwerte & Rechtswege)
+
+- **Oberhalb EU-Schwellenwert** (§ 106 GWB i. V. m. VO (EU) 2024/…) **— GWB-Vergaberecht:** Rüge (§ 160 Abs. 3 GWB) → Nachprüfungsantrag Vergabekammer (§ 161 GWB) → sofortige Beschwerde OLG-Vergabesenat (§ 171 GWB).
+- **Unterhalb EU-Schwellenwert — Haushaltsvergaberecht:** UVgO/VOB/A 1. Abschnitt; primärer Rechtsschutz vor Zivilgericht (UWG, § 826 BGB analog); kein GWB-Nachprüfungsverfahren.
+- **Sektoren (Energie, Wasser, Verkehr):** SektVO; eigene Schwellenwerte (443.000 Euro).
+- **Konzessionen:** KonzVgV; Schwellenwert 5.538.000 Euro.
+- **Verteidigung/Sicherheit:** VSVgV.
+- **Verfahrensarten (§ 119 GWB):** offen, nicht-offen, Verhandlung, wettbewerblicher Dialog, Innovationspartnerschaft.
+- **De-facto-Vergabe (ohne Bekanntmachung):** § 135 GWB — 30 Tage ab Kenntnis, max. 6 Monate nach Vertragsschluss.
+- **Schadensersatz nach Zuschlag:** § 181 GWB für entgangenen Aufwand; § 280 BGB nicht ausreichend bei eigenständigem Vergaberegime.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Verwalter-Sicht — Standard-Tatbestände im Anfechtungs- und Haftungsstreit
+- **§ 130 InsO Kongruente Deckung:** Letzte 3 Monate vor Antrag; Anfechtbar bei Zahlungsunfähigkeit zum Zeitpunkt der Handlung + Kenntnis oder Kenntnis der Umstände, aus denen die Zahlungsunfähigkeit folgt.
+- **§ 131 InsO Inkongruente Deckung:** Letzter Monat ohne weitere Voraussetzungen; 2.–3. Monat nur bei Zahlungsunfähigkeit oder Kenntnis benachteiligter Gläubiger.
+- **§ 133 InsO Vorsatzanfechtung:** Zentralbestimmung; Frist 10 Jahre vor Antrag (Stand prüfen — SanInsFoG hat bei kongruenten Leistungen auf 4 Jahre verkürzt); Vorsatz des Schuldners und Kenntnis des Anfechtungsgegners von Gläubigerbenachteiligungsabsicht (§ 133 Abs. 1 Satz 2 InsO Vermutung).
+- **§ 135 InsO Gesellschafterdarlehen:** Rückzahlung im letzten Jahr vor Antrag anfechtbar; Sicherung in den letzten 10 Jahren — strikt verschuldensunabhängig.
+- **§ 134 InsO Unentgeltliche Leistung:** Letzte 4 Jahre vor Antrag anfechtbar; objektiver Tatbestand reicht.
+- **§ 15b InsO Zahlungsverbot:** Geschäftsführerhaftung für Zahlungen nach Insolvenzreife; Privilegierung für Zahlungen "im ordnungsgemäßen Geschäftsgang" (§ 15b Abs. 2 InsO, Stand prüfen).
+- **Beleglage Verwalter:** Kontoauszüge, Buchhaltung, Korrespondenz Schuldner-Gläubiger, Liquiditätsstatus zum Zahlungszeitpunkt, Mahnungen, Stundungsverhandlungen — Verwalter trägt grds. Darlegungslast für Kenntnis.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

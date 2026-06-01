@@ -28,6 +28,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Red-Team Krisenfrüherkennung
+- **Wer ist Adressat von § 1 StaRUG?** Geschäftsleiter haftungsbeschränkter Gesellschaften (GmbH, AG, KGaA, GmbH & Co. KG bei nicht natürlicher Komplementärin) — Einzelunternehmer und OHG ohne Kapitalgesellschaftsbeteiligung sind nicht erfasst.
+- **Welche Maßstäbe?** "Geeignete Maßnahmen" sind ungeschriebener Sorgfaltsmaßstab — angemessen ist, was eine sorgfältige Geschäftsleitung in der konkreten Lage zur Krisenabwehr ergreifen würde (BGH ständige Rspr. zu § 43 GmbHG).
+- **Schwelle zu § 18 InsO/StaRUG-Zugang:** Drohende Zahlungsunfähigkeit (24 Monate, § 18 Abs. 2 InsO) öffnet das Restrukturierungsverfahren nach § 29 StaRUG.
+- **Trennung zu § 15a InsO:** § 1 StaRUG ist Pflicht im Vorfeld; § 15a InsO ist Antragspflicht nach Eintritt von Zahlungsunfähigkeit (§ 17) oder Überschuldung (§ 19). Höchstfristen: 3 Wochen / 6 Wochen.
+- **Halluzinationsprüfung:** Keine BGH-Az aus Modellwissen; bei Unklarheit zu IDW S 11 oder IDW S 6 Verifikation gegen die Originaltexte (Live-Check).
+- **Praxis:** Niemals "in der Krise" ohne § 18-Test sagen — der Eröffnungsgrund ist Tatbestand, nicht Lebensgefühl.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

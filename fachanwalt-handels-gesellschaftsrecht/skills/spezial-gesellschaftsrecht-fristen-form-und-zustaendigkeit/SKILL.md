@@ -20,11 +20,11 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
 ## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gesellschaftsrecht** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen; Gesellschaftsform identifizieren (HGB-Kaufmann, OHG §§ 105 ff. HGB, KG §§ 161 ff. HGB, GmbH&Co.KG §§ 161 ff. HGB i.V.m. § 19 GmbHG, GmbH, AG, GbR §§ 705 ff. BGB n.F. seit MoPeG 1.1.2024, PartG/PartGmbB).
+2. **Form- und Beurkundungsanker:** GmbH-Gründung notariell § 2 GmbHG; Anteilsübertragung notariell § 15 Abs. 3 GmbHG; AG-Gründung notariell § 23 AktG; Personengesellschaften formfrei, aber Handelsregisteranmeldung notariell beglaubigt § 12 HGB; GbR-Eintragung in eGbR-Gesellschaftsregister §§ 707 ff. BGB n.F. seit MoPeG.
+3. **Fristen prüfen:** Anfechtung Hauptversammlungs- und Gesellschafterbeschlüsse § 246 AktG 1 Monat / GmbH analog BGH ständige Rechtsprechung; Insolvenzantragspflicht § 15a InsO 3 Wochen Zahlungsunfähigkeit, 6 Wochen Überschuldung; Handelsvertreterausgleich § 89b HGB 1 Jahr Geltendmachung ab Vertragsende; Anmeldung GmbH-Gründung § 7 GmbHG unverzüglich nach Mindesteinzahlung.
+4. **Zuständigkeit klären:** Erstinstanzlich für gesellschaftsrechtliche Streitigkeiten Landgericht Kammer für Handelssachen (§§ 93 ff. GVG); Registergericht Amtsgericht (§ 8 HGB); Insolvenzgericht Amtsgericht am Sitz (§ 3 InsO); MoPeG GbR-Streitigkeiten ohne Handelsregisterbezug ggf. nur Streitwert-zuständig (§ 23 GVG ab 10.000 EUR Landgericht seit Justizstandort-Stärkungsgesetz).
+5. **Anschluss:** Bei Eilbedarf Antrag auf Registersperre § 16 Abs. 1 HGB / einstweilige Verfügung; bei Vertragsstreit Mahn- oder Stufenklage (§ 254 ZPO) für Auskunfts- und Zahlungsanspruch.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Outputformen DSA/DMA
+- **AGB-Redline** nach Art. 14 DSA mit Hinweis auf Moderationsmaßnahmen, Beschwerdewege, internen Beschwerdemechanismus.
+- **Statement of Reasons (SoR)** nach Art. 17 DSA als strukturiertes Begründungsschreiben — auch Datensatz für Transparenzdatenbank der EU-Kommission.
+- **Risikobewertungsbericht** Art. 34 DSA (VLOP) mit identifizierten Risiken, Schutzmaßnahmen, Audit-Aufgaben.
+- **Transparenzbericht** Art. 15/24 DSA mit Zahlen zu Anordnungen, Beschwerden, Streitbeilegung.
+- **Schriftsatz / Antrag bei BNetzA (DSC)** zur Notice nach Art. 22 DSA (vertrauenswürdige Hinweisgeber).
+- **Klage zum EuG** Art. 263 AEUV gegen Kommissionsbeschluss (DMA).
+- **Memo zur VLOP-Klassifizierung** mit Nutzerzahl-Berechnung nach EU-Kommissions-Methodik.
+
+## Praxis-Tipp
+Bei jedem Statement of Reasons sicherstellen, dass der strukturierte Datensatz für die Transparenzdatenbank parallel erzeugt wird — manuelles Nacharbeiten ist erheblich aufwendiger als automatisierte Befüllung im Moderationsprozess.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

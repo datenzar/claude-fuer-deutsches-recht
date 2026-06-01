@@ -22,10 +22,10 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
-2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
-4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
-5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+2. **Rom I-VO (vertragliche Schuldverhältnisse, VO Nr. 593/2008):** Rechtswahl Art. 3 (jedes Recht, auch ohne Bezug zur Sache, "depeçage" zulässig); ohne Rechtswahl Art. 4 (objektive Anknüpfung, charakteristische Leistung); Verbraucherverträge Art. 6 (Schutz des Verbrauchers am gewöhnlichen Aufenthalt); Arbeitsverträge Art. 8 (Schutz des Arbeitnehmers, Mindeststandard); Eingriffsnormen Art. 9 (zwingendes lokales Recht trotz Rechtswahl).
+3. **Rom II-VO (außervertragliche Schuldverhältnisse, VO Nr. 864/2007):** Hauptanknüpfung Art. 4 (Erfolgsort); Rechtswahl Art. 14 (begrenzt, in der Regel nur nachträglich); spezielle Anknüpfungen: Produkthaftung Art. 5, unlauterer Wettbewerb Art. 6, Geistiges Eigentum Art. 8, Persönlichkeitsrechte ausgenommen Art. 1 Abs. 2 lit. g.
+4. **UN-Kaufrecht (CISG):** Anwendbar bei B2B-Warenkauf mit Sitz beider Parteien in Vertragsstaaten (Art. 1 CISG); Ausschluss durch Rechtswahl möglich, aber muss eindeutig sein ("Es gilt deutsches Recht unter Ausschluss des UN-Kaufrechts"); Kollisionsrechtlich greift CISG vor Rom I über Art. 25 Rom I.
+5. **Beweis fremden Rechts (§ 293 ZPO):** Gericht ermittelt von Amts wegen; üblich: Rechtsgutachten (Max-Planck-Institut, IPR-Gutachten, Sachverständige). Bei Commercial Court: englische Sprache des Gutachtens möglich, Übersetzung der Normbegriffe (z.B. "consideration", "trust", "estoppel") für deutsche Richter zwingend mit deutscher Erläuterung. Nächsten Schritt: Klauselauslegung, Eingriffsnormen-Liste, Beweisantrag § 293 ZPO.
 
 ## Output-Standard
 

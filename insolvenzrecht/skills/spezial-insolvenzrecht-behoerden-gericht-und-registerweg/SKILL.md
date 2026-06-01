@@ -32,6 +32,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Insolvenzwege — Zuständigkeit und Register
+- **Insolvenzgericht:** Amtsgericht am Sitz der Schuldnerin (§ 3 InsO bei natürlichen Personen Wohnsitz; bei juristischen Personen Sitz, idR HRB-Sitz).
+- **Restrukturierungsgericht für StaRUG-Verfahren:** § 34 StaRUG OLG-Bezirke bestimmen örtliche Zuständigkeit; nicht jedes Insolvenzgericht ist auch Restrukturierungsgericht (Stand prüfen).
+- **Veröffentlichungen:** Bundesweites Register www.insolvenzbekanntmachungen.de — Pflichtprüfung vor jeder Forderungsanmeldung und vor jedem Vollstreckungsversuch nach Eröffnung.
+- **Handelsregister:** Eintrag der Verfahrenseröffnung von Amts wegen (§ 32 InsO Hinweise, § 27a HGB analog); bei Auflösung von Amts wegen einzutragen.
+- **Grundbuch:** § 32 InsO Eintragung des Eröffnungsvermerks; Verfügung der Schuldnerin nach Eröffnung unwirksam (§ 81 InsO).
+- **Sozialversicherung/Steuer:** Trotz Insolvenz fortbestehende Beitrags-/Steuerpflichten für laufenden Betrieb (Masseverbindlichkeit nach § 55 InsO).
+- **Eu-Verfahren:** EuInsVO 2015/848 — Hauptverfahren am Mittelpunkt der hauptsächlichen Interessen (COMI); Nebenverfahren in Mitgliedstaaten mit Niederlassung.
+- **Praxis:** Eröffnungsbeschluss enthält Aktenzeichen, Verwalter, Anmeldefristen und Termine — immer vollständig auswerten und in Akte ablegen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

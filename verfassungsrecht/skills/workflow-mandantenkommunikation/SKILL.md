@@ -22,6 +22,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verfassungsbeschwerde — Erwartungsmanagement an die Mandantschaft
+
+- **Annahmequote ist niedrig:** Über 95 Prozent der Verfassungsbeschwerden werden nicht zur Entscheidung angenommen (§ 93a BVerfGG). Mandantschaft offen darauf hinweisen — keine Erfolgsgarantie suggerieren.
+- **Subsidiarität (§ 90 Abs. 2 BVerfGG):** Vor der Verfassungsbeschwerde muss der Fachgerichtsrechtsweg ausgeschöpft sein; klären, ob ein zulässiges Fachgerichtsverfahren übergangen wurde.
+- **Substantiierung:** Bereits der Schriftsatz muss die Grundrechtsverletzung schlüssig darlegen; Beweis im engeren Sinne wird nicht erhoben (Aktenverfahren).
+- **Kostenrisiko:** Keine Kostenerstattung im Erfolgsfall regelmäßig (§ 34a BVerfGG nur ausnahmsweise). RVG-Hinweis und Honorarvereinbarung sind Pflicht (§ 49b BRAO).
+- **Sie-Form, nüchterner Ton:** Keine Kampagnenrhetorik. Verfassungsgerichtliche Sprache ist sachlich, dogmatisch begründet, ohne Polemik.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

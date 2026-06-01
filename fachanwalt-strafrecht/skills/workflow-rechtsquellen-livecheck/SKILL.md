@@ -33,3 +33,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafrecht-Livecheck-Kernquellen
+- **StPO:** §§ 136 (Vernehmung), 137-148 (Verteidigung), 158 ff. (Anzeige), 163a (Beschuldigtenvernehmung), 199 ff. (Eroeffnungsverfahren), 230 ff. (Hauptverhandlung), 257c (Verstaendigung), 261, 267 (Beweiswuerdigung, Urteilsgruende), 333 ff. (Revision), 359 ff. (Wiederaufnahme), 374 ff. (Privatklage), 395 ff. (Nebenklage), 403 ff. (Adhaesion), 407 ff. (Strafbefehl).
+- **StGB:** Allgemeiner Teil (§§ 1-79b, Verjaehrung), Besonderer Teil zum jeweiligen Tatbestand; § 46 StGB Strafzumessung.
+- **GVG:** Geschaeftsverteilung, sachliche Zustaendigkeit (Strafrichter § 25, Schoeffengericht § 28, Schwurgericht §§ 74, 76 GVG).
+- **JGG:** §§ 1-32 Jugendstrafverfahren, § 105 Heranwachsende.
+- **Nebenstrafrecht:** BtMG/KCanG, AO (Steuerstrafrecht), GwG, WaffG, AufenthG, StVG, IfSG.
+- **EMRK / Grundrechte:** Art. 6 (faires Verfahren), Art. 8 (Privatsphaere), Art. 5 (Freiheit), Art. 7 (nulla poena), Art. 103 II GG, Art. 2 II GG.
+- **BVerfG-Linie zu nemo tenetur, fair-trial, Beweisverwertungsverboten** ohne erfundene Az.
+- **EuGH-Rsp. zu RL 2012/13/EU** (Recht auf Belehrung), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung) - direkt anwendbar bei Defizit der StPO.
+- **BGH-Senatsrechtsprechung:** Senatszustaendigkeit nach Tatbestand; Veroeffentlichung in Entscheidungssammlung BGHSt/BGHR; keine Az aus Modellwissen.

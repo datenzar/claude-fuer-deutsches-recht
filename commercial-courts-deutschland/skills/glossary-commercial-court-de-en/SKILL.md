@@ -19,11 +19,31 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 4. Welche Frist oder Verfahrenshandlung steht als nächstes an?
 5. Welche Unterlagen sind schon da: contract, correspondence, notices, expert report, exhibits, prior pleadings?
 
+## Glossar (Kernbegriffe DE/EN, mit falschen Freunden)
+
+| Deutsch | Englisch | Hinweis / Falscher Freund |
+| --- | --- | --- |
+| Klageschrift | statement of claim | nicht "complaint" (US), nicht "pleading" allgemein |
+| Klageerwiderung | statement of defence | nicht "answer" (US-Stil) |
+| Antrag (im Schriftsatz) | request / motion | "motion" eher US; in DE: Antrag im Sinne von § 308 ZPO Bindung |
+| Tenor | operative part of the judgment | "Tenor" nicht wörtlich übernehmen |
+| Tatbestand | summary of facts / statement of facts | nicht "tatbestand" (clipping unverständlich) |
+| Entscheidungsgründe | reasons / grounds of the decision | "decision" nicht ausreichend |
+| Beweisangebot | offer of evidence / evidence proffered | nicht "discovery"; deutscher Prozess kennt keine Discovery |
+| Substantiierungspflicht | duty of substantiation / specificity requirement | enge Anforderung, nicht "notice pleading" |
+| Streitwert | amount in dispute / value of the claim | wichtig für Zuständigkeit und Gebühren |
+| Vergleich (gerichtlich) | court settlement | nicht "comparison" |
+| Aufrechnung | set-off | spezifisch § 388 BGB, nicht "offset" |
+| Widerklage | counterclaim | § 33 ZPO, mit Konnexität |
+| Mündliche Verhandlung | oral hearing | nicht "trial" (Common-Law-Begriff impliziert Jury) |
+| Sachverständigengutachten | expert opinion / court-appointed expert | Gericht bestellt, keine Parteigutachter im Sinne der CPR |
+| Vollstreckungstitel | enforceable title | Art. 53 Brüssel Ia bei Auslandsvollstreckung |
+
 ## Arbeitsworkflow
 
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
-3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+3. **Glossar einsetzen:** Begriff im Kontext belegen, falsche Freunde vermeiden (besonders "complaint", "motion", "discovery", "trial"), bei Erstnennung eines Begriffs deutschen Originalbegriff in Klammern führen.
 4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
 5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
 

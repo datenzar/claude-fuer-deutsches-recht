@@ -6,7 +6,19 @@ description: "Output wählen im Plugin markenrecht-fashion-luxus: entscheidet zw
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `markenrecht-fashion-luxus` Output wählen im Plugin markenrecht-fashion-luxus: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das markenrechtliche Outputformat im Fashion-/Luxussegment: Abmahnung, Schutzschrift, Anmeldeentwurf DPMA/EUIPO, Widerspruch, Verfallsantrag, Lizenzanalyse-Memo, Redline gegen Distributionsvertrag.
+
+## Outputtypen mit Anker-Normen
+- **Abmahnung § 14 MarkenG:** Anspruch (Unterlassung, Auskunft § 19 MarkenG, Schadensersatz § 14 Abs. 6 MarkenG), Streitwert, Verteidigungsfrist 1-2 Wochen üblich; strafbewehrte Unterlassungserklärung (Hamburger Brauch).
+- **Anmeldeentwurf:** Markenform (§ 3 MarkenG), Klassen (Nizza), Waren-/Dienstleistungsverzeichnis (Vorsicht: zu breit -> Nichtbenutzung; zu eng -> kein Schutzumfang).
+- **Widerspruch § 42 MarkenG / UMV Art. 46:** Frist drei Monate ab Veröffentlichung; ältere Marke prüfen (Identität/Ähnlichkeit, Verwechslungsgefahr).
+- **Verfallsantrag § 49 MarkenG / UMV Art. 58:** wegen Nichtbenutzung (5-Jahres-Frist), Anti-Markenpiraterie.
+- **Bekanntheitsschutz § 14 Abs. 2 Nr. 3 MarkenG:** für Luxusmarken zentral; auch ohne Verwechslungsgefahr bei Ausnutzung oder Beeinträchtigung.
+- **Selektives Vertriebssystem:** Coty-Doktrin (EuGH, Urt. v. 06.12.2017, C-230/16) -- Plattformverbote im Luxus-Segment zulässig, wenn diskriminierungsfrei und verhältnismäßig.
+
+## Anti-Muster
+- Erfundene EuG/EuGH-Az. -- Aktenzeichen immer mit curia.europa.eu verifizieren.
+- "Bekannte Marke" ohne empirischen Beleg (demoskopisches Gutachten, Marktanteil, Werbeaufwand).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Red-Team-Checks für Verwaltungsrechtsfälle
+
+- **Klagebefugnis (§ 42 Abs. 2 VwGO):** Möglichkeit der Rechtsverletzung dargelegt? Nicht jede Beeinträchtigung genügt; Schutznorm-Theorie prüfen.
+- **Statthaftigkeit:** Richtige Klageart (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Fortsetzungsfeststellung § 113 Abs. 1 S. 4 VwGO)?
+- **Vorverfahren:** Widerspruch erforderlich (§ 68 VwGO) — in einigen Ländern für bestimmte Materien abgeschafft (z. B. NRW, Niedersachsen) — landesspezifisch prüfen.
+- **Frist (§ 74 VwGO):** Ab Zustellung Widerspruchsbescheid bzw. — wo Vorverfahren entfällt — ab Bekanntgabe des VA; Rechtsbehelfsbelehrung fehlerhaft? Dann 1 Jahr (§ 58 Abs. 2 VwGO).
+- **Sofortvollzug:** Bei § 80 Abs. 2 Nr. 4 VwGO Begründungspflicht der Anordnung (§ 80 Abs. 3 VwGO); fehlende Begründung führt regelmäßig zur Aussetzung.
+- **Verhältnismäßigkeit/Ermessen:** Bei Ermessensverwaltungsakten Ermessensfehlerlehre (Nicht-, Unter-, Überschreitung, Fehlgebrauch) durchprüfen (§ 114 VwGO).
+- **Keine erfundenen BVerwG-/OVG-Aktenzeichen** — jedes Az. live verifizieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

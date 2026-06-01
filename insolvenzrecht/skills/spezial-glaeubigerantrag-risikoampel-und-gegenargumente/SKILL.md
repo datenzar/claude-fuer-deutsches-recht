@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Gläubigerantrag § 14 InsO — Risikoampel
+- **Antragsrecht § 14 Abs. 1 InsO:** Jeder Gläubiger; rechtliches Interesse und glaubhaft gemachte Forderung sowie Eröffnungsgrund (BGH ständige Rspr.).
+- **Glaubhaftmachung der Forderung:** Vertrag, Rechnung, Mahnung, Vollstreckungstitel; bei titulierter Forderung mit erfolglosem Vollstreckungsversuch ist Glaubhaftmachung regelmäßig erfüllt.
+- **Glaubhaftmachung Eröffnungsgrund:** Zahlungsunfähigkeit (§ 17 InsO) am Beispiel des Antragstellers (Stundungsbitte, Zahlungseinstellung, Vergeblichkeit Vollstreckung) — § 17 Abs. 2 Satz 2 InsO: Zahlungseinstellung als Indiz.
+- **Verteidigung Schuldner:** Forderung tatsächlich erfüllt, gestundet, nicht fällig, bestritten mit Substanz; Zahlungsunfähigkeit fehlt (Liquiditätsbilanz); Antrag ist rechtsmissbräuchlich (z. B. Druckantrag im Streit um konkrete Forderung).
+- **Rechtsmissbrauch:** Antrag zur Erzwingung der Zahlung einer streitigen Forderung kann nach § 14 Abs. 1 Satz 2 InsO bzw. § 226 BGB als rechtsmissbräuchlich abgewiesen werden — Forderung nicht ernsthaft bestritten muss aber zwingend dargetan sein.
+- **Sicherheit § 14 Abs. 2 InsO:** Bei zurückgewiesenem Antrag haftet Antragsteller bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung — Schadensersatzrisiko.
+- **Praxis:** Drei-Säulen-Verteidigung: (1) Forderung erschüttern, (2) Eröffnungsgrund bestreiten, (3) Eigenantrag mit Eigenverwaltung als Gegenstrategie (verhindert Fremdverwalter).
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

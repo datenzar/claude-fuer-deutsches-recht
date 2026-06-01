@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Liquiditätskennzahlen — Schwellen aus § 17 InsO und BGH-Rechtsprechung
+- **Zahlungsunfähigkeit § 17 Abs. 2 InsO:** "nicht in der Lage, fällige Zahlungspflichten zu erfüllen" — durch Liquiditätsbilanz nachzuweisen.
+- **BGH-Schwellen (ständige Rspr.):** Deckungslücke < 10 % der fälligen Verbindlichkeiten regelmäßig nur Zahlungsstockung (innerhalb 3 Wochen behebbar); Deckungslücke ≥ 10 % begründet Zahlungsunfähigkeit, sofern nicht ausnahmsweise binnen sehr kurzer Zeit Schließung absehbar ist.
+- **Drohende Zahlungsunfähigkeit § 18 Abs. 2 InsO:** Prognosezeitraum idR 24 Monate; betrifft die Wahrscheinlichkeit der zukünftigen Zahlungsunfähigkeit.
+- **Liquiditätsstatus (Stichtagsbilanz):** Aktiva I (verfügbare Mittel) + Aktiva II (innerhalb 3 Wochen) vs. Passiva I (fällige Verbindlichkeiten) + Passiva II (innerhalb 3 Wochen fällig werdend).
+- **13-Wochen-Planung (rollierend):** Operativer Standard für Sanierungsfälle; Anfangsbestand + Einzahlungen − Auszahlungen = Endbestand je Woche, Salden ≥ 0.
+- **Stresstest-Vorgaben:** Mindestens Base und Stress (z. B. −20 % Umsatz, −10 Tage Forderungslaufzeit, −10 % Zahlungsmoral); zusätzlich Worst Case bei abhängigen Großkunden.
+- **Trade-off:** Reine Stichtagsbetrachtung übersieht zeitliche Lücken; reine Rollplanung übersieht stille Reserven und Mobilisierungspotential — daher beide nebeneinander.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

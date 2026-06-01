@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten KI-Governance
+- **Modellkarte / System-Card**: Modellbeschreibung, Trainingsdaten, Limitierungen — Pflicht bei GPAI Art. 53 KI-VO.
+- **AVV nach Art. 28 DSGVO** mit dem KI-Anbieter (insb. wenn Eingaben personenbezogene Daten enthalten).
+- **DSFA nach Art. 35 DSGVO** bei voraussichtlich hohem Risiko (insb. automatisierte Entscheidungen Art. 22 DSGVO).
+- **Konformitätsbewertung / EU-Konformitätserklärung** (Anhang VI/VII KI-VO) bei Hochrisiko-Anbietern.
+- **Technische Dokumentation** Anhang IV KI-VO bei Hochrisiko-Systemen.
+- **Schulungs- und Sensibilisierungsnachweise** Art. 4 KI-VO (KI-Kompetenz seit 02.02.2025).
+
+## Praxis-Tipp
+Beim Eingang von Anbieterunterlagen ist oft die "EU-Konformitätserklärung" ohne zugehörige technische Doku unbrauchbar — den Anhang IV stets mitanfordern. Dasselbe gilt für AVV ohne TOM-Anlage (Art. 32 DSGVO).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

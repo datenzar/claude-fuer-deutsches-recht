@@ -6,7 +6,19 @@ description: "Dokumentenintake im Plugin methodenlehre-buergerliches-recht: lies
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `methodenlehre-buergerliches-recht` Dokumentenintake im Plugin methodenlehre-buergerliches-recht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Auslegungs- und Anspruchsfälle des Bürgerlichen Rechts (BGB AT, SchuldR, SachenR, FamR, ErbR) ein und sortiert die methodisch relevanten Bausteine: Anspruchsgrundlagen, Tatbestände, Definitionen, Streitstände, einschlägige Auslegungsmethoden.
+
+## Dokumentenarten
+- **Fallsachverhalt / Klausur:** Anspruchsfrage erkennen; Personenkonstellation, Reihenfolge der Ansprüche (Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung).
+- **BGH-/OLG-Entscheidung:** Leitsatz, Sachverhalt, Gründe, Randnummer der Subsumtion und der methodischen Begründung.
+- **Lehrbuch-/Kommentarauszug:** Norm, Definition, Streitstand, Argumente.
+- **EuGH-Entscheidung:** wenn unionsrechtskonforme Auslegung in Rede steht (Verbrauchsgüterkauf, Pauschalreise, Verbraucher-Widerruf).
+
+## Erste Triage
+- Welche Norm ist Anker? Welches Tatbestandsmerkmal ist auslegungsbedürftig?
+- Welche der vier Auslegungsmethoden (Wortlaut, Systematik, Historie, Telos) ist tragend? Zusätzlich: verfassungs- und unionsrechtskonforme Auslegung?
+- Liegt ein Streitstand vor? Wer vertritt welche Position mit welchem Argument?
+- Methodische Sonderlage: Analogie (planwidrige Regelungslücke + vergleichbare Interessenlage), teleologische Reduktion?
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

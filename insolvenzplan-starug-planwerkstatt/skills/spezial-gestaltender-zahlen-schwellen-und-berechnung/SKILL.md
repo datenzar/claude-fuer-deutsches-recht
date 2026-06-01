@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Schwellenwerte und Mehrheiten — Plan-Abstimmung
+- **Insolvenzplan § 244 InsO:** In jeder Gruppe Kopfmehrheit (Mehrzahl der abstimmenden Gläubiger) UND Summenmehrheit (mehr als 50 % der Forderungssummen) — beide Voraussetzungen kumulativ.
+- **StaRUG § 25 Abs. 1 StaRUG:** Mindestens 75 % der Summen je Klasse; keine Kopfmehrheit erforderlich (Stand prüfen, Klassenmehrheit Summen-only ist Kernunterschied zur InsO).
+- **Vergleichsrechnung-Schwellen:** Plan-Quote muss in jeder Gruppe mindestens dem entsprechen, was im Regelinsolvenzverfahren (InsO § 220 Abs. 2) bzw. ohne Plan (StaRUG § 7) zu erwarten wäre.
+- **Best-Interest-Test bei Cram-Down:** Jede ablehnende Gruppe bzw. jeder ablehnende Beteiligte hat Anspruch auf mindestens die Vergleichsquote (§ 245 Abs. 1 Nr. 1 InsO; § 26 Abs. 1 Nr. 1 StaRUG).
+- **Klassenbildungsregel:** Wirtschaftlich vergleichbare Forderungen in eine Klasse (§ 222 Abs. 2 InsO; § 9 StaRUG); Aufspaltung muss sachlich gerechtfertigt sein und darf keinen reinen Mehrheits-Engineering bezwecken.
+- **Stimmrecht bestrittener Forderungen:** Im Termin entscheidet das Gericht über das Stimmrecht (§ 77 InsO sinngemäß; § 24 StaRUG); Vorbereitung mit Stimmrechtsantrag empfohlen.
+- **Praxis:** Mindestens zwei Mehrheitsszenarien (best/worst) durchrechnen; bei Mindestschwellen sollte der Plan idR 10–15 % Sicherheitspuffer über der Schwelle liegen.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

@@ -6,7 +6,20 @@ description: "Kaltstart und Routing im Plugin patentrecht: führt vom ersten Sat
 # Kaltstart und Routing
 
 ## Aufgabe
-Dieser Workflow-Skill für `patentrecht` Kaltstart und Routing im Plugin patentrecht: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet im Plugin `patentrecht` vom ersten Mandantenkontakt in den passenden Arbeitsweg: Erfindungsmeldung, Anmeldestrategie, Bescheidsantwort DPMA/EPA, Verletzungsverteidigung, Lizenzverhandlung, Einspruch oder Nichtigkeitsklage.
+
+## Routing nach Mandanten-Situation
+- **Mandant hat Erfindungsidee:** Erfindungsmeldung aufnehmen, Schutzfähigkeit (§§ 1, 3, 4 PatG / Art. 52-57 EPÜ), Offenbarungsrisiken klären (jede Vorveröffentlichung neuheitsschädlich, kein "grace period" im EPÜ).
+- **Bescheid DPMA/EPA:** Frist für Erwiderung (DPMA: idR 4 Monate; EPA: idR 4 Monate, Art. 94 EPÜ); Argumentation zu D1/D2 mit Aufgabe-Lösungs-Ansatz (Problem-Solution-Approach).
+- **Patentverletzung in Sicht / Abmahnung erhalten:** FTO-Analyse, Verteidigungslinien (Nichtverletzung, Nichtigkeit, Erschöpfung, Lizenz, eigene Vorbenutzung § 12 PatG).
+- **Einspruch beim EPA:** Frist 9 Monate (Art. 99 EPÜ); zulässige Einspruchsgründe Art. 100 EPÜ.
+- **Nichtigkeitsklage BPatG:** § 81 PatG; Nichtigkeitsgründe § 22 PatG i. V. m. § 21 PatG.
+- **UPC (Unified Patent Court):** Zuständigkeit für EPÜ-Patente und Einheitspatente; Opt-out-Frist beachten (sunrise + Übergangsregime).
+- **Lizenzverhandlung / FRAND-Stage:** SEP-Fragen Huawei/ZTE-Linie (EuGH C-170/13, Urt. v. 16.07.2015).
+
+## Anti-Muster
+- Pauschale "Patent verletzt" ohne Anspruchsauslegung und merkmalsweise Subsumtion.
+- Verwechslung PatG mit GebrMG (Gebrauchsmuster: ungeprüftes Schutzrecht).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

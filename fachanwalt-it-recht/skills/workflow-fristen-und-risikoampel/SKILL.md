@@ -22,6 +22,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## IT-Recht-typische Fristen
+- **Mängelrüge Handelsverkehr** § 377 HGB: unverzüglich nach Ablieferung; bei verdeckten Mängeln unverzüglich nach Entdeckung.
+- **Verjährung Werkvertrag** § 634a BGB: 2 Jahre für Werke (Software), 5 Jahre bei Bauwerken — bei Software regelmäßig 2 Jahre ab Abnahme.
+- **Verjährung Kaufrecht** § 438 BGB: 2 Jahre ab Übergabe.
+- **DSGVO-Datenpanne** Art. 33: 72 Stunden.
+- **NIS2-Meldung** § 32 BSIG (Umsetzung NIS2-RL): erhebliche Sicherheitsvorfälle binnen 24 Stunden Frühwarnung, 72 Stunden Initialbewertung, 1 Monat Abschlussbericht.
+- **DSA Art. 16 Notice-and-Action**: ohne schuldhaftes Zögern.
+- **Bußgeldrahmen DSGVO**: bis 20 Mio. EUR oder 4 %; **NIS2**: bis 10 Mio. EUR oder 2 % (wesentliche Einrichtungen), 7 Mio. EUR oder 1,4 % (wichtige Einrichtungen).
+
+## Ampelkriterien
+- **Rot**: Frist Art. 33 DSGVO läuft, NIS2-Vorfallmeldepflicht ausgelöst, AGB nicht UWG-konform und Abmahnung eingegangen, Mahnbescheid zugestellt.
+- **Gelb**: SLA-Vereinbarung fehlt oder unklar, Vertragsstrafenklausel intransparent, fehlende AVV bei Auftragsverarbeitung.
+- **Grün**: Vertrag SaaS-tauglich, AVV + TOM dokumentiert, SLA mit Service-Levels und Pönalen, Notfallprozesse vorhanden.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

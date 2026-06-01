@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten Phishing-Vorfall
+- **Original-Phishing-Mail / SMS** als .eml-Datei (Header sichern!) bzw. Smishing-Screenshot mit Absenderkennung.
+- **Kontoauszug / Umsatzaufstellung** mit konkretem Belastungsdatum und Betrag.
+- **Online-Banking-Logging-Protokoll** (Login-IP, Device, Uhrzeit) — bei Bank anfordern.
+- **Schriftverkehr mit Bank**: Rückbuchungsantrag, Bankantwort, AGB-Bezug.
+- **Strafanzeige / Akteneinsicht-Aufnahmebestätigung** mit Aktenzeichen.
+- **Versicherungsmeldung** (Cyber-Police, falls vorhanden).
+- **DSGVO-Datenpanne-Meldung** bei BfDI / Landesbehörde, falls Daten Dritter betroffen.
+- **TAN-Verfahrens-Doku** (push-TAN, smsTAN, App): bei Diskussion Sorgfaltsmaßstab § 675v BGB.
+
+## Praxis-Tipp
+Beim Eingang einer Phishing-Mail unbedingt die Originaldatei mit vollständigem Header sichern (in Outlook: Datei "speichern unter .msg" oder als .eml-Datei) — gerichtsfest nur mit Header. PDF-Druck der Mail genügt nicht: IP-Spur, DKIM-Signatur und Return-Path sind nur im Header lesbar.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

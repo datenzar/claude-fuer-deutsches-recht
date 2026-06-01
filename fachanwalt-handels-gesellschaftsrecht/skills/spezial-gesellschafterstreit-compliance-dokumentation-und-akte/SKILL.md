@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Gesellschafterstreit** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Typische Streitachsen:** Beschlussanfechtung (Anfechtungs-/Nichtigkeitsklage analog § 246 AktG für GmbH BGH ständige Rechtsprechung, Frist 1 Monat); Auskunfts- und Einsichtsrecht § 51a GmbHG (jeder Gesellschafter, Verweigerung nur bei drohendem nicht unerheblichem Nachteil); Einberufungsverlangen § 50 GmbHG (Minderheit von 10 %); Ausschluss aus wichtigem Grund § 34 GmbHG (Einziehung Geschäftsanteil) bzw. § 140 HGB analog für Personengesellschaften.
+3. **Compliance-Dokumentation:** Trennen zwischen Mandantenkommunikation (privilegiert § 43a BRAO, § 53 StPO) und gesellschaftsinterner Dokumentation. Bei Gesellschafterversammlung: notarielles Protokoll bei Beurkundungspflicht (§ 53 GmbHG Satzungsänderung), sonst eigenhändiges Protokoll mit Unterschrift Versammlungsleiter. Aktenvermerke konkretisieren Datum, Anwesende, Beschlussvorschläge, Stimmen, Ergebnis, Widersprüche.
+4. **Beweislast und Belege:** Bei Beschlussanfechtung Anfechtender muss Mangel darlegen, Gesellschaft trägt Beweislast für ordnungsgemäße Beschlussfassung (BGH ständige Rechtsprechung). Bei Auskunftsverlangen § 51a GmbHG: Verweigerungsbeschluss notwendig, sonst Anspruch verbindlich. Bei Einziehung gewichtige Pflichtverletzung + Abmahnung erforderlich.
+5. **Anschluss:** Anwendbar gleichzeitig `spezial-beschlussanfechtung-mehrparteien-konflikt-und-interessen`; einstweiliger Rechtsschutz Registersperre § 16 Abs. 1 HGB; ADR-Optionen (Mediation, Schiedsklauseln) als Trade-off zur Klagewelle.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

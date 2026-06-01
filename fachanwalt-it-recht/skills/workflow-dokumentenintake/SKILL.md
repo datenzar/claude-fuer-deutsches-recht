@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Dokumentenarten IT-Recht
+- **Hauptvertrag (SaaS-, Software-, Cloud-, EVB-IT-Vertrag)** mit Leistungsbeschreibung.
+- **Service Level Agreement (SLA)** mit Verfügbarkeitswerten, Messmethode, Wartungsfenstern, Pönalen.
+- **AVV** Art. 28 DSGVO mit TOM-Anlage Art. 32 DSGVO; ggf. Liste Unterauftragsverarbeiter Art. 28 Abs. 2/4.
+- **Pflichtenheft / Lasten-/Pflichtenheft** mit Abnahmeprotokoll § 640 BGB.
+- **Lizenzbedingungen** (proprietär, OSS — GPL, MIT, Apache, BSD).
+- **Mahnschreiben / Abmahnungen** (UWG, MarkenG, UrhG, AGB-Recht).
+- **Behördenbescheide**: BfDI/LDI (DSGVO), BNetzA (TKG/DDG), BSI (NIS2/KritisV).
+
+## Praxis-Tipp
+Bei Vertragsprüfung zuerst die Rechtsnatur des Hauptvertrags bestimmen (Kauf, Miete, Werk, Dienst, Lizenz). Davon hängt der gesetzliche Rückfallrahmen ab — viele AGB enthalten Klauseln, die zwar formal "vereinbart" sind, aber von §§ 305 ff. BGB überlagert werden (Inhaltskontrolle, Klauselverbote).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

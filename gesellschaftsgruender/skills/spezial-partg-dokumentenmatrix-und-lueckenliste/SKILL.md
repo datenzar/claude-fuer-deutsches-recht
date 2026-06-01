@@ -19,12 +19,22 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
+## Pflichtdokumente PartG / PartG mbB
+
+| Dokument | Norm | Inhalt |
+| --- | --- | --- |
+| Partnerschaftsvertrag | § 3 PartGG | Name (mit Zusatz "und Partner" oder "Partnerschaft"), Sitz, Gegenstand, Partner |
+| Anmeldung Partnerschaftsregister | § 4 PartGG i.V.m. § 12 HGB | beglaubigt durch Notar |
+| Berufshaftpflichtversicherung (mbB) | § 8 Abs. 4 PartGG, berufsrechtliche Vorgaben | Mindestdeckung: Anwalt 2,5 Mio. EUR (§ 51a Abs. 2 BRAO i.V.m. § 8 Abs. 4 PartGG), bei mbB regelmäßig erhöht; je Berufsstand prüfen |
+| Berufszulassung jeder Partner | Berufsrecht (BRAO, StBerG, WPO, BÄO) | nur freie Berufe i.S.d. § 1 Abs. 2 PartGG |
+| Transparenzregister | § 19 GwG | wirtschaftlich Berechtigte |
+
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **PartG** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **PartG-Spezifika prüfen:** Nur freie Berufe nach § 1 Abs. 2 PartGG (insbesondere Anwälte, Steuerberater, Wirtschaftsprüfer, Ärzte, Architekten, Ingenieure, Notare); berufsfremde Personen ausgeschlossen.
+3. **mbB-Voraussetzungen:** § 8 Abs. 4 PartGG Haftungsbeschränkung nur bei Berufshaftpflichtversicherung mit ausreichender Deckung; Versicherung muss laufend bestehen, bei Wegfall Wiederaufleben der unbeschränkten Haftung. Vorteil gegenüber GmbH: keine Bilanzpublizität, transparente Besteuerung; Nachteil: Haftungsbegrenzung greift nur für Berufsfehler, nicht für sonstige Verbindlichkeiten.
+4. **MoPeG-Hinweis:** PartG nicht von Auflösung GbR-Reform betroffen, aber Anwendung HGB-Grundsätze über § 1 Abs. 4 PartGG i.V.m. §§ 105 ff. HGB n.F. (Personenhandelsgesellschaftsrecht).
+5. **Anschluss:** Lückenliste mit Versicherungsnachweis, Berufszulassungen, Notartermin Partnerschaftsregister, Anmeldung Transparenzregister. Folge-Skill `gesellschaftsgruender-transparenzregister`.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

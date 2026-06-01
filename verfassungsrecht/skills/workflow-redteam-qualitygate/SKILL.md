@@ -22,6 +22,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Red-Team-Checks speziell für Verfassungsrecht
+
+- **Zulässigkeit zuerst:** Beschwerdeberechtigung (eigene, unmittelbare, gegenwärtige Betroffenheit), Beschwerdegegenstand (Akt öffentlicher Gewalt), Rechtswegerschöpfung, Subsidiarität, Frist (§§ 90, 93 BVerfGG).
+- **Substantiierung-Test:** Wird der einschlägige Grundrechtsschutzbereich, der Eingriff und seine fehlende Rechtfertigung konkret subsumiert (§§ 23, 92 BVerfGG)?
+- **Halluzinations-Check:** Jedes BVerfG-Az. (1 BvR/1 BvL/2 BvE …) auf bundesverfassungsgericht.de verifizieren; keine erfundenen Randnummern.
+- **Keine Präjudizienbindung:** Argumentationsfigur "BVerfG hat entschieden, also …" nur, soweit § 31 BVerfGG greift (Tenor + tragende Gründe).
+- **Verhältnismäßigkeit dreistufig:** Geeignetheit, Erforderlichkeit, Angemessenheit jeweils gesondert prüfen; bei Schranken-Schranken auch Wesensgehaltsgarantie (Art. 19 Abs. 2 GG) ansprechen.
+- **EMRK-/Unionsrechtsbezug:** Wenn Mandant auf Art. 6 EMRK oder GRCh stützt, völkerrechts- und unionsrechtskonforme Auslegung anführen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
