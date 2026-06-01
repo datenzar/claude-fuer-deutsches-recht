@@ -36,3 +36,14 @@ Gib ein §-188-Prüfblatt aus:
 - Basisdelikt:
 - Art.-5-Abwägung:
 - Ergebnis:
+
+## Norm-Stand und Praxisprobleme
+
+- **§ 188 StGB Fassung 22.09.2021:** Strafrahmen Freiheitsstrafe bis 5 Jahre oder Geldstrafe; bei § 188 II StGB qualifiziert.
+- **Anwendungsbereich erweitert:** seit 22.09.2021 nicht nur "Personen des politischen Lebens des Volkes", sondern auch des Landes oder einer Kommune einschließlich Ratsmitgliedern und kommunalen Mandatsträgern.
+- **Basisdelikt:** Beleidigung § 185 StGB, üble Nachrede § 186 StGB, Verleumdung § 187 StGB. § 188 setzt eines dieser Grunddelikte voraus.
+- **Eignung zur Erschwerung öffentlichen Wirkens:** objektiver Maßstab; persönliche Verletztheit des Mandatsträgers reicht nicht.
+- **Strafantragserfordernis § 194 III StGB:** auch Vorgesetzte / Behörde können Strafantrag stellen; Privatklage möglich (§ 374 I Nr. 2 StPO).
+- **Verhältnis Art. 5 GG:** BVerfG ständige Rspr. — Machtkritik im politischen Diskurs hat erhöhten Schutz; pauschale Anwendung § 188 StGB ohne Abwägung verstößt regelmäßig gegen Art. 5 I GG.
+- **Strafverteidigung:** Sachbezug herausarbeiten; bei kommunaler Politik Auseinandersetzung mit der Amtsführung dokumentieren; bei Soziale-Medien-Posts Kontext (Thread, Kommentarstrang) sichern.
+- Falle: Frühe Annahme § 188 ohne Subsumtion der Eignungs-Voraussetzung führt regelmäßig zu Aufhebung. Sorgfältig prüfen: Wäre der Mandatsträger ohne diese Äußerung weiterhin in seinem Wirken nennenswert beeinträchtigt?

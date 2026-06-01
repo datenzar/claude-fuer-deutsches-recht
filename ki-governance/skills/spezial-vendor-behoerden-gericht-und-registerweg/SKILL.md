@@ -26,6 +26,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Behördenweg KI-VO
+- **Marktüberwachung Art. 70 KI-VO**: jeder Mitgliedstaat benennt eine oder mehrere Behörden; in Deutschland Bundesnetzagentur als zentrale Marktüberwachung vorgesehen, plus sektorale Stellen.
+- **Anzeige Art. 73 KI-VO**: Anbieter Hochrisiko-KI muss schwerwiegende Vorfälle an die Marktüberwachungsbehörde melden **innerhalb von 15 Tagen** nach Kenntnis; bei Tod oder schwerer Gesundheitsschädigung **2 Tage**; bei breit angelegten Verletzungen Sicherheit Personen **10 Tage**.
+- **Untersagungsverfügung Art. 79-80**: Marktüberwachung kann Inverkehrbringen untersagen, Rückruf anordnen.
+- **EU-Datenbank Art. 71**: öffentliche Datenbank für Hochrisiko-Systeme; Eintrag durch Anbieter (Anhang VIII) und Betreiber (öffentliche Stellen, Art. 49 Abs. 1a) erforderlich.
+
+## DSGVO-Behördenweg parallel
+- **Auskunftsersuchen Aufsicht Art. 58 Abs. 1 lit. a DSGVO**: Vorlagepflicht der DSFA, Auftragsverarbeitungsverträge, technisch-organisatorischen Maßnahmen.
+- **Vorherige Konsultation Art. 36**: bei verbleibendem hohem Risiko trotz Schutzmaßnahmen; Reaktionsfrist 8 Wochen, verlängerbar 6 Wochen.
+- **Bußgeldverfahren Art. 83**: parallele Zuständigkeit zu KI-VO bei personenbezogenen Daten.
+
+## Gerichtsweg
+- **Drittklage**: Betroffene können nach Art. 79 DSGVO klagen; nach KI-VO Art. 85 hat eine Person, die der Auffassung ist, dass ihre Rechte verletzt wurden, **Beschwerderecht bei der Marktüberwachungsbehörde**.
+- **Klage gegen Untersagung**: Verwaltungsgerichtsweg gegen Behördenmaßnahmen; bei Bußgeld OWi-Verfahren.
+- **Streit zwischen Anbieter und Betreiber**: Zivilrechtsweg, Vertragsrecht.
+
+## Registerweg
+- **EU AI Database** (Art. 71 / Anhang VIII KI-VO): Pflicht zur Eintragung für Anbieter Hochrisiko-KI vor Inverkehrbringen; Datenpunkte (Name, Trust-Mark, Konformitätsverfahren, Ergänzungen).
+- **Betreiber-Eintrag**: öffentliche Stellen tragen sich nach Art. 49 Abs. 1a für eingesetzte Hochrisiko-KI ein.
+- **Bevollmächtigte** (Art. 22): in der Datenbank verzeichnet.
+
+## Vendor-spezifische Pflichtenkette
+- **Vendor-Onboarding**: Self-Assessment Anbieter, Konformitätserklärung Anhang V, technische Doku Auszüge.
+- **Laufende Überwachung**: jährlicher Vendor-Review, Aktualität Konformitätsdokumente, Vorfallhistorie.
+- **Off-Boarding**: Datenlöschung beim Anbieter, Bestätigung der Löschung, ggf. Rückführung an Verantwortlichen.
+
+## Trade-off
+Eigene Konformitätsbewertung des Betreibers ist begrenzt, da der Anbieter die Last trägt. Sorgfältige Vendor-Auswahl mit dokumentierten Selbstauskünften und Verträgen ist regelmäßig der wirksamste Schutz; eigene erneute Bewertung ist nicht zwingend, wenn der Anbieter Anhang IV / Anhang V vollständig liefert.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

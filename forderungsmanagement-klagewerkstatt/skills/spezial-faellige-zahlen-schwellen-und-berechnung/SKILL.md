@@ -26,6 +26,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Fälligkeit
+- **Fälligkeit (§ 271 BGB):** Im Zweifel sofort fällig (§ 271 Abs. 1 BGB). Konkret bestimmte Leistungszeit durch Vertrag, Verkehrssitte, gesetzliche Regelung. Bei Rechnung: typischerweise Fälligkeit gemäß Zahlungsbedingungen (z. B. "binnen 14 Tagen").
+- **B2B-Zahlungsfristen (§ 271a BGB):** Vereinbarte Zahlungsfrist darf grundsätzlich 60 Tage nicht überschreiten (§ 271a Abs. 1 S. 1 BGB); bei Verbraucher als Schuldner sogar 30 Tage (§ 271a Abs. 1 S. 2 BGB). Überschreitung führt zur Reduktion auf das gesetzliche Maß.
+- **Verzug ohne Mahnung (§ 286 Abs. 2 BGB):** Wenn (1) Leistungszeit kalendermäßig bestimmt, (2) Mahnung ist entbehrlich, (3) Schuldner ernsthaft verweigert, (4) 30 Tage nach Fälligkeit und Zugang Rechnung bei Verbrauchern bzw. ab Rechnungsdatum bei B2B (§ 286 Abs. 3 BGB).
+- **Verzugszinsen:**
+  - B2C: 5 Prozentpunkte über Basiszinssatz (§ 288 Abs. 1 BGB).
+  - B2B: 9 Prozentpunkte über Basiszinssatz (§ 288 Abs. 2 BGB).
+  - Aktuelle Werte halbjährlich (1. Januar / 1. Juli) auf bundesbank.de prüfen.
+- **40-Euro-Pauschale (§ 288 Abs. 5 BGB):** Bei B2B-Geldforderungen ohne Verbraucher als Gläubiger: 40 Euro je Forderung pauschal als Verzugsschaden, anrechenbar auf weitergehende Schadensersatzkosten (z. B. Inkasso/Anwalt). Greift bei jeder verzögerten Zahlung neu.
+- **Rechnungs-Anforderungen (§ 14 UStG bei B2B):** Vollständige Rechnung mit Pflichtangaben (Anschriften, Steuernummer/USt-IdNr., Datum, Leistungsbeschreibung, Entgelt, Steuersatz, Steuerbetrag). Bei Mängeln häufig Berufung auf fehlende Fälligkeit; gerichtlich aber strikt zu trennen: Mängel der Rechnung berühren in der Regel nicht die Fälligkeit der zugrundeliegenden Forderung.
+- **Verjährung (§ 195 BGB):** Regelmäßig 3 Jahre, Beginn mit Schluss des Jahres, in dem Anspruch entstanden und Kenntnis besteht (§ 199 BGB). Bei Mietzinsen: 3 Jahre. Bei Werklohn: 3 Jahre ab Abnahme.
+- **Praktiker-Tipp:** Klare Zahlungsbedingungen vereinbaren ("netto Kasse innerhalb von 14 Tagen ohne Abzug ab Rechnungsdatum"); damit ist Fälligkeit kalendermäßig bestimmt und Verzug tritt ohne Mahnung ein. Verspätete Rechnungsstellung verzögert nur den B2C-Verzug (§ 286 Abs. 3 BGB), nicht den B2B-Verzug (zwischen Unternehmern stets ab kalendarisch bestimmtem Termin).
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

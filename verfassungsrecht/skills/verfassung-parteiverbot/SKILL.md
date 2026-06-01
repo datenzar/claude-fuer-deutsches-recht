@@ -6,7 +6,7 @@ description: "Parteiverbot Art. 21 Abs. 2 GG, § 13 Nr. 2 BVerfGG: Voraussetzung
 # Parteiverbot
 
 ## Aufgabe
-Parteiverbot Art.
+Parteiverbot Art. 21 II GG iVm § 13 Nr. 2, §§ 43-47 BVerfGG; Finanzierungsausschluss Art. 21 III GG iVm § 13 Nr. 2a BVerfGG. Pruefraster, hohe Schwelle (Potentialitaet); Antragsbefugnis, Verfahren, Rechtsfolgen.
 
 
 ## Fachlicher Arbeitskern
@@ -32,14 +32,61 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Pruefraster Parteiverbot Art. 21 II GG
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### 1. Zulaessigkeit
+- **Zustaendigkeit BVerfG** Art. 21 IV GG iVm § 13 Nr. 2, §§ 43 ff. BVerfGG.
+- **Antragsberechtigte** § 43 I BVerfGG: Bundestag, Bundesrat, Bundesregierung. Nicht Landesregierungen (anders bei Vereinen § 3 VereinsG).
+- **Antragsgegner**: die betroffene Partei (Art. 21 GG, § 2 PartG).
+- **Form** § 23 BVerfGG: schriftlich mit Begruendung; Beweismittel.
 
-1. **Sachverhalt fixieren** – streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - nur einschlaegige Normen, verifizierte Rechtsprechung und frei pruefbare amtliche Quellen; keine Literatur- oder Datenbankfundstellen erfinden.
-3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+### 2. Begruendetheit — materielle Voraussetzungen
+- Partei muss
+  - **nach ihren Zielen** (Programm, Satzung, Wahlprogramm) oder
+  - **dem Verhalten ihrer Anhaenger** (organisierte Aktionen, nicht Einzelfaelle)
+- darauf **ausgehen**, dass sie
+  - die **freiheitliche demokratische Grundordnung beeintraechtigt oder beseitigt** oder
+  - den **Bestand der BRD gefaehrdet**.
+
+### 3. Potentialitaet (BVerfG, Urteil v. 17.01.2017, 2 BvB 1/13 — NPD II)
+- "Darauf ausgehen" verlangt **aktives, planvolles Handeln** mit dem **Potenzial, das Ziel zu erreichen**.
+- **Erfolgsmoeglichkeit** muss konkret bestehen; rein theoretisches Potenzial reicht nicht.
+- Ist Partei chancenlos, fehlt Potentialitaet — kein Verbot moeglich; statt dessen evtl. Finanzierungsausschluss Art. 21 III GG.
+
+### 4. Freiheitliche demokratische Grundordnung (BVerfGE 2, 1 — SRP; aktualisiert NPD II)
+- Menschenwuerde Art. 1 GG.
+- Demokratie- und Volkssouveraenitaetsprinzip.
+- Rechtsstaatlichkeit.
+
+### 5. Rechtsfolgen § 46 BVerfGG iVm § 33 PartG
+- **Verbot** und **Aufloesung** der Partei.
+- **Verbot Ersatzorganisation** § 33 II PartG.
+- **Einziehung Vermoegen** zugunsten der oeffentlichen Hand.
+- **Verlust Mandate** § 46 III BVerfGG (Abgeordnete verlieren Mandat).
+- **Strafbarkeit** Fortfuehrung § 84 StGB.
+
+### 6. Bindungswirkung § 31 BVerfGG
+- BVerfG-Entscheidung bindet Bundes- und Landesverfassungsorgane, Gerichte, Behoerden.
+
+## Pruefraster Finanzierungsausschluss Art. 21 III GG iVm § 46a BVerfGG
+
+- Eingefuehrt 2017 nach NPD II als "Mildere-Variante" — kein Verbot, aber Ausschluss von staatlicher Finanzierung.
+- Voraussetzungen: wie Verbot, aber **ohne Potentialitaet** (Erfolgsaussicht fehlt).
+- Rechtsfolge: Ausschluss von staatlicher Parteienfinanzierung fuer **sechs Jahre** (§ 18 VII PartG); Wegfall Steuerbeguenstigung.
+- BVerfG, Urteil v. 23.01.2024, 2 BvB 1/19 — "Die Heimat" (vormals NPD): erste erfolgreiche Anwendung Art. 21 III GG.
+
+## Abgrenzung
+
+- **Verfassungsschutz-Beobachtung** (§ 3 BVerfSchG): geringere Schwelle; Bundesamt fuer Verfassungsschutz.
+- **Vereinsverbot** Art. 9 II GG, § 3 VereinsG: fuer Nicht-Parteien; durch BMI / Landesinnenministerien; Klage vor BVerwG (§ 4 VereinsG).
+- **Parteienprivileg**: solange BVerfG nicht entschieden hat, geniesst Partei vollen Status (kein Vereinsverbot moeglich, keine Wahlteilnahme-Beschraenkung).
+
+## Praxisfallen
+
+- **V-Maenner-Problematik**: BVerfG, Beschluss v. 18.03.2003, 2 BvB 1/01 — NPD I (Einstellung). Nachrichtendienstliche Quellen muessen offengelegt sein; Abschaltverpflichtung.
+- **Einstweilige Anordnung** § 32 BVerfGG bei Parteiverboten grds. ausgeschlossen.
+- **Beweislast** beim Antragsteller; "in dubio pro reo" gilt entsprechend.
+- **Anhaltspunkte aus Modellwissen** zu konkreten BVerfG-Az. immer live auf bundesverfassungsgericht.de verifizieren.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

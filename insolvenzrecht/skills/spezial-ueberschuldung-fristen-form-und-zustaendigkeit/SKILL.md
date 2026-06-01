@@ -37,3 +37,36 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Überschuldung § 19 InsO — zweistufige Prüfung
+- **Tatbestand § 19 Abs. 2 InsO:** Überschuldung liegt vor, wenn das Vermögen des Schuldners die bestehenden Verbindlichkeiten nicht mehr deckt, **es sei denn**, die Fortführung des Unternehmens ist nach den Umständen überwiegend wahrscheinlich.
+- **Stufe 1 — rechnerische Überschuldung:** Vermögen zu Liquidationswerten < Verbindlichkeiten.
+- **Stufe 2 — Fortbestehensprognose:** Prognosezeitraum **12 Monate** (§ 19 Abs. 2 S. 1 InsO seit SanInsFoG 2021).
+
+## Frist § 15a InsO
+- **6 Wochen** ab Eintritt der Überschuldung (§ 15a Abs. 1 S. 2 InsO seit SanInsFoG 2021 — vorher 3 Wochen).
+- Kürzer, wenn Sanierung aussichtslos.
+- Strafbewehrt § 15a Abs. 4 InsO: vorsätzliche Verletzung bis 3 Jahre Freiheitsstrafe oder Geldstrafe; Fahrlässigkeit bis 1 Jahr.
+- Zusätzlich Zahlungsverbot § 15b InsO ab Eintritt der materiellen Insolvenz.
+
+## Form Antrag
+- **§ 13 InsO Eigenantrag:** schriftlich beim Insolvenzgericht (Amtsgericht), Vermögensverzeichnis, Gläubigerverzeichnis, Lohnliste, Bilanz.
+- Bei juristischen Personen: durch Vertretungsberechtigte (Geschäftsführer/Vorstand); bei Gesamtvertretung Antrag durch alle.
+- Bei Eigenverwaltung § 270a InsO: Eigenverwaltungsplanung beifügen.
+- Bei Schutzschirm § 270d InsO: Bescheinigung Sachverständiger über drohende ZU oder Überschuldung und Sanierungsaussicht.
+
+## Zuständigkeit
+- **Insolvenzgericht** = Amtsgericht am Sitz des Schuldners (§ 2 InsO).
+- Bei Sitzverlegung in letzten 6 Monaten: vorheriger Sitz § 3 Abs. 1 InsO.
+- **EuInsVO 2015/848 Art. 3 COMI:** bei grenzüberschreitendem Fall Hauptinsolvenzverfahren am Ort des „Centre of Main Interests".
+
+## Verteidigungslinien gegen Überschuldungsvorwurf
+- **Rangrücktritt § 39 Abs. 2 InsO** für Gesellschafterforderungen (qualifiziert).
+- **Harte Patronatserklärung** des Gesellschafters.
+- **Stille Reserven** in der Liquidationsbilanz (Sacheinlagen, Beteiligungen, Goodwill bei going-concern-Wertung).
+- **Positive Fortbestehensprognose** mit Sanierungskonzept IDW S6.
+
+## Anti-Halluzinations-Hinweise
+- Frist **6 Wochen** (nicht 3!) bei Überschuldung seit SanInsFoG.
+- Prognosezeitraum **12 Monate** (nicht 24 — das ist § 18 InsO drohende ZU).
+- Pandemie-Sonderregelungen sind ausgelaufen.

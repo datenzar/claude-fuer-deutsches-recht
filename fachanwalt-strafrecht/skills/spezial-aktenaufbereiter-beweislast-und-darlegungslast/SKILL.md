@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgan
 
 Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Aktenaufbereiter**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- "In dubio pro reo": Grundsatz aus Art. 6 Abs. 2 EMRK / Unschuldsvermutung; positivrechtlich aus § 261 StPO (freie Beweiswürdigung) abgeleitet. Bei Tatzweifeln zugunsten des Angeklagten.
+- Aufklärungspflicht: § 244 Abs. 2 StPO – Tatgericht muss zur Erforschung der Wahrheit von Amts wegen alle Beweismittel ausschöpfen; Anwalt nutzt Beweisanträge zur Ergänzung.
+- Beweisantrag: § 244 Abs. 3-6 StPO – Ablehnungsgründe: Unzulässigkeit, Bedeutungslosigkeit, Wahrunterstellung, Bewiesensein, Unerreichbarkeit, Prozessverschleppung (§ 244 Abs. 6 StPO).
+- Indizienbeweis: BGH ständige Rspr. – Indizien können Vollbeweis liefern, wenn alle vernünftigen Zweifel ausgeschlossen sind; Gesamtschau erforderlich.
+- Belastungs- vs. Entlastungstatsachen: § 160 Abs. 2 StPO verpflichtet StA bereits im Ermittlungsverfahren zu beidem; Verteidigung kann durch Beweisanregungen § 163a StPO aktiv mitwirken.
+- Verteidigerstrategien bei Beweislücken: (1) Schweigen, (2) Bestreiten mit Substantiierung, (3) Alternativhypothese präsentieren, (4) Beweisverwertungsverbot prüfen (§§ 136a, 252 StPO).
+- Praxis-Tipp: Aktenmatrix Beweislage: Spalten Tatbestandsmerkmal, Belastungs­indiz/-beweis, Bewertung Beweiskraft (klar/streitig/lückenhaft), Entlastungs­hypothese, Beweisantrag. Bei lückenhafter Beweislage gezielt Beweisantrag stellen, weil Aufklärungs­pflicht­verletzung § 244 Abs. 2 StPO Revisionsrelevanz hat (BGH ständige Rspr.).
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

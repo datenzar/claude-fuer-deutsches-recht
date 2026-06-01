@@ -21,6 +21,34 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Klauselgestaltung Commercial Court / Sprache (Musterbausteine)
+
+#### Mustervariante A — Commercial Chamber LG mit Englisch (B2B-Vertrag)
+
+> **Gerichtsstand und Verfahrenssprache.** Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist das Landgericht [Stadt], Commercial Chamber (§§ 95, 184a GVG i.V.m. [Landesverordnung]). Die Parteien vereinbaren Englisch als Verfahrenssprache nach § 184a Abs. 1 GVG. Beide Parteien beantragen einvernehmlich, dass das Verfahren einschließlich der mündlichen Verhandlung, des Protokolls und des Urteils in englischer Sprache geführt wird.
+>
+> Jurisdiction and Language of Proceedings. The exclusive place of jurisdiction for all disputes arising out of or in connection with this contract shall be the Regional Court (Landgericht) of [city], Commercial Chamber (sections 95, 184a German Courts Constitution Act in conjunction with the relevant State Ordinance). The parties agree on English as the language of proceedings pursuant to section 184a paragraph 1 German Courts Constitution Act. Both parties jointly request that the proceedings, including the oral hearing, the record and the judgment, shall be conducted in English.
+
+#### Mustervariante B — Commercial Court OLG mit Englisch (Mid-/Big-Cap-SPA)
+
+> **Forum und Verfahrenssprache.** Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist der Commercial Court beim Oberlandesgericht [Stadt] (§ 119b GVG i.V.m. [Landesverordnung]). Verfahrenssprache ist Englisch (§ 184a GVG). Im Falle einer Revision durch den Bundesgerichtshof gilt die Englisch-Vereinbarung auch dort (§ 184b GVG).
+>
+> Forum and Language. The exclusive place of jurisdiction for all disputes arising out of or in connection with this contract shall be the Commercial Court at the Higher Regional Court (Oberlandesgericht) of [city] (section 119b German Courts Constitution Act in conjunction with the relevant State Ordinance). The language of proceedings shall be English (section 184a German Courts Constitution Act). In the event of an appeal on points of law (revision) to the Federal Court of Justice, the English-language agreement shall extend to those proceedings (section 184b German Courts Constitution Act).
+
+#### Mustervariante C — Hybrid mit Schiedsklausel-Fall-Back
+
+> **Streitbeilegung.** Die Parteien werden zunächst nach Treu und Glauben verhandeln. Können sie sich nicht innerhalb von 30 Tagen einigen, wird die Streitigkeit ausschließlich vor dem Commercial Court beim OLG [Stadt] in englischer Sprache (§§ 119b, 184a GVG) entschieden. Bei Streitigkeiten über vertrauliche Geschäftsgeheimnisse i.S.d. GeschGehG können die Parteien gemeinsam ein Schiedsverfahren nach DIS-Regeln (Sitz: [Stadt], Sprache: Englisch) wählen.
+
+### Drei klassische Drafting-Fallen
+
+| Falle | Folge | Empfehlung |
+| --- | --- | --- |
+| Verbraucherbeteiligung | § 38 ZPO Gerichtsstandsvereinbarung mit Verbrauchern grundsätzlich unwirksam | nur in echten B2B-Verträgen wählen; AGB-Kontrolle § 307 BGB beachten |
+| Asymmetrische Gerichtsstandsklausel (eine Partei wählt, andere nicht) | Diskussion in BGH-Rechtsprechung zur Wirksamkeit | symmetrisch formulieren |
+| Wahl eines nicht zuständigen LG/OLG | Anrufung wird wegen örtlicher Unzuständigkeit verwiesen § 281 ZPO | Liste der zuständigen Standorte live prüfen |
+| Sprachwahl ohne Spruchkörper-Kapazität | gerichtliche Ablehnung möglich | vorab beim Gerichtspräsidium klären |
+| Schiedsklausel im Gesellschaftsvertrag GmbH | "Schiedsfähigkeit II"-Anforderungen BGH ständige Rechtsprechung | besondere Klauseln nötig für Beschlussmängelklagen |
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

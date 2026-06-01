@@ -22,6 +22,41 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Pflicht-Quellenregister Handels-/Gesellschaftsrecht
+
+| Quellenart | Wo prüfen | Hinweis |
+| --- | --- | --- |
+| HGB, GmbHG, AktG, UmwG, PartGG, MoPeG | gesetze-im-internet.de | aktuelle Fassung mit Änderungsstand |
+| BGB | gesetze-im-internet.de | inkl. § 705 ff. nach MoPeG (seit 01.01.2024) |
+| Handelsregister | handelsregister.de (Bundeszentralregister) | Auszug, Gesellschafterliste, Satzung, Jahresabschluss |
+| Unternehmensregister | unternehmensregister.de | Konzernabschlüsse, Verschmelzungsdaten |
+| Transparenzregister | transparenzregister.de | wirtschaftlich Berechtigte |
+| Rechtsprechung BGH | bundesgerichtshof.de Datenbank | Volltextzugriff |
+| Rechtsprechung OLG/LG | freie Sammlungen openjur.de, dejure.org | nur frei verifizierbare Aktenzeichen |
+| EU-Recht | eur-lex.europa.eu | EuGH-Urteile, Richtlinien (UmwandlungsRL 2019/2121, Gesellschaftsrechts-RL 2017/1132) |
+| BaFin-Verlautbarungen | bafin.de | Mar, MaRisk, Sanktionen |
+| FinanzAmt-Erlasse | bundesfinanzministerium.de | BMF-Schreiben (UmwStG, KStG) |
+| GWB / Bundeskartellamt | bundeskartellamt.de | Fusionskontrolle |
+| AWV / BMWK | bmwk.de | Investitionsprüfung Sektorale/Sektorenübergreifende Anzeige |
+
+## Workflow-Schritte für Live-Quellencheck
+
+1. **Norm identifizieren:** Welche Vorschrift ist tragend für die Aussage?
+2. **Gesetzesstand prüfen:** Aktuelle Fassung mit Inkrafttretensdatum (gesetze-im-internet.de zeigt Stand).
+3. **Verordnungen / Begleitrecht:** zusätzliche Rechtsverordnungen, Anlagen (z.B. KV bei GKG).
+4. **Rechtsprechung verifizieren:** mindestens einen verifizierten Volltext oder offizielle Pressemitteilung mit Aktenzeichen, Datum, Gericht.
+5. **EU-Bezug prüfen:** Welche EuGH-Urteile zur unionsrechtskonformen Auslegung?
+6. **Datum dokumentieren:** Stand der Recherche im Output ("Stand: TT.MM.JJJJ").
+7. **Unsicherheiten markieren:** Wenn live nicht prüfbar, klar als "(noch zu verifizieren)" markieren.
+
+## Typische Aktualitäts-Fallen
+
+- **MoPeG (Modernisierung Personengesellschaftsrecht):** seit 01.01.2024 völlig neue GbR-Regelungen, eGbR im Gesellschaftsregister; alte Kommentar-Stellen veraltet.
+- **DiRUG (Digitalisierungsrichtlinie):** seit 01.08.2022 Online-Gründung GmbH § 2 Abs. 3 GmbHG; Schritt-für-Schritt-Anleitung BNotK.
+- **UmwG-Novelle 2023:** Umsetzung Richtlinie 2019/2121, Grenzüberschreitende Umwandlung neu in §§ 305 ff. UmwG.
+- **Transparenzregister:** seit 01.08.2021 Vollregister statt Auffangregister; jährliche Meldepflichten.
+- **Justizstandort-Stärkungsgesetz:** Schwellen § 23 GVG (2026 bis 10.000 EUR), § 511 ZPO (1.000 EUR), § 495a ZPO (1.000 EUR), § 119b GVG Commercial Court.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Kartellrechtlicher Livecheck — Quellen
+- **GWB / BKartA:** `gesetze-im-internet.de/gwb`, BKartA-Website `bundeskartellamt.de` für Fallpraxis, Tätigkeitsberichte, Sektoruntersuchungen.
+- **AEUV und EU-Sekundärrecht:** `eur-lex.europa.eu` für AEUV (Art. 101, 102), FKVO (EU 139/2004), VertikalGVO (EU 2022/720), TT-GVO (EU 316/2014), DMA (EU 2022/1925).
+- **EU-Kommission:** `competition-policy.ec.europa.eu` für Entscheidungspraxis, Leitlinien (z. B. Marktabgrenzungs-Bekanntmachung 2024).
+- **EuG / EuGH:** `curia.europa.eu` — ECLI-Linkpermalink. Wichtige Linien: AKZO (C-62/86), Hoffmann-La Roche (85/76), Continental Can (C-6/72), Coty (C-230/16), Google Shopping (C-13/19 P).
+- **OLG Düsseldorf:** Spezialzuständigkeit Kartellsenat — wichtige nationale Linie.
+- **DMA Designierung:** Kommissions-Beschlüsse zu Gatekeepers (Apple, Meta, Alphabet, Amazon, Microsoft, ByteDance) live im Kommissions-Register.
+- **Marktabgrenzungs-Bekanntmachung 2024:** ABl. C/2024/1645 (EU-Kommission); ersetzt die alte Bekanntmachung von 1997.
+- Falle: Schwellenwerte § 35 GWB werden regelmäßig erhöht — live verifizieren. Auch FKVO-Schwellen können sich ändern. § 35 Abs. 1 GWB nur greift bei Kontrollerwerb iSd § 37 GWB.

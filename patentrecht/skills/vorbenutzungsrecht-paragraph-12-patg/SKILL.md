@@ -32,3 +32,15 @@ Baue eine Chronologie:
 ## Vorsicht
 
 Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch spätere Weiterentwicklungen, andere Konzernunternehmen oder neue Produktgenerationen.
+
+## Pflicht-Normen und Praxisprobleme
+
+- **§ 12 Abs. 1 PatG:** Wer die Erfindung im Inland vor dem Anmeldetag/Prioritätstag in Benutzung genommen oder die dazu erforderlichen Veranstaltungen getroffen hat, hat ein persönliches Recht zur Weiterbenutzung. Persönliches Recht — nicht übertragbar (§ 12 Abs. 2 PatG).
+- **§ 12 Abs. 2 S. 2 PatG Ausnahme:** Im Falle der Veräußerung oder Verpachtung des Geschäftsbetriebs geht das Vorbenutzungsrecht auf den Erwerber/Pächter über.
+- **"Im Inland":** § 12 PatG erfordert Inlandsbenutzung. Bei EP-Bundle: Vorbenutzung im jeweiligen Validierungsland; Einheitspatent UP: Vorbenutzung im jeweiligen UPC-Land Art. 28 UPCA.
+- **"Ernsthafte Veranstaltungen":** mehr als bloße interne Vorbereitung; konkrete Produktentwicklung, Bestellungen, Werkzeugbau. BGH "Wundverband" GRUR 2010, 47 als Leitlinie (Az. live verifizieren).
+- **Umfang § 12 Abs. 1 S. 2 PatG:** Nur im Umfang der bestehenden oder angelegten Benutzung. Erweiterungen ohne Erweiterung der Veranstaltungen sind nicht gedeckt.
+- **Beweislast:** Vorbenutzer trägt sie. Schwierigkeitsgrad steigt mit zeitlichem Abstand.
+- **Vorbenutzungsrecht als Einrede im Verletzungsprozess:** in § 12 PatG verankert; Vorbenutzungsrecht ist KEIN Nichtigkeitsgrund.
+- **Internationale Strategie:** Im Schutzrechtsprozess das Vorbenutzungsrecht als prozessuale Einrede ausspielen; parallel die Nichtigkeitsklage erwägen (§ 22 PatG Nichtigkeit / EPÜ Einspruch).
+- Falle: Konzern-internes Joint Venture als "ein Geschäftsbetrieb" einstufen — § 12 Abs. 2 PatG eng auslegen; Auseinanderfallen rechtlicher und wirtschaftlicher Zuordnung gefährdet Vorbenutzungsrecht.

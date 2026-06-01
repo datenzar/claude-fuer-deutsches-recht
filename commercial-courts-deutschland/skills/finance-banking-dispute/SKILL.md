@@ -21,6 +21,44 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Finance-/Banking-Streit — Anspruchstypen und Verteidigungsfelder
+
+| Streittyp | Norm | Klassische Streitfragen |
+| --- | --- | --- |
+| Darlehensvertrag (Schuldnerseite klagt) | §§ 488 ff. BGB | Wirksamkeit, Schriftform, Aufklärung über Risiken, Sittenwidrigkeit § 138 BGB |
+| Kreditkündigung | § 490 BGB | wichtiger Grund, Verhältnismäßigkeit, Vertragstreue § 242 BGB |
+| Sicherheitenverwertung | §§ 1233 ff. BGB (Pfandrecht), §§ 1257, 854 ZPO; § 14 InsO | Werthaltigkeit, Übersicherung, Anfechtung §§ 129 ff. InsO |
+| Covenants / Loan Documentation | LMA/MUSTER; im DE: §§ 305 ff. BGB AGB-Kontrolle | financial covenants Verletzung; Material Adverse Effect |
+| Cash Sweeps / Equity Cure | Vertragsrecht | Berechnungsstreit, Reporting-Verstoß |
+| Events of Default | Vertragsbedingungen | Trigger-Bestimmung, Heilungsfrist, Cross-Default |
+| Acceleration | Vertragsbedingungen | Verhältnismäßigkeit, Treu und Glauben |
+| Schadensersatz wegen Falschberatung | §§ 280, 311 Abs. 2 BGB (c.i.c.) | Aufklärungspflicht, Kausalität, Mitverschulden § 254 BGB |
+| Beraterhaftung (Investor) | § 280 BGB i.V.m. § 31 WpHG | Geeignetheit, Risikoaufklärung |
+| Anfechtung Schenkung an Geschäftsführer | § 134 InsO | Insolvenzanfechtungsanspruch |
+
+### Spezialthemen Banking
+
+| Thema | Norm/Praxis |
+| --- | --- |
+| KWG-Erlaubnis | §§ 32, 54 KWG; BaFin-Praxis |
+| MiCAR (Krypto) | EU-VO 2023/1114, geltend seit 30.12.2024 |
+| MaRisk | BaFin-Rundschreiben; relevant für Klagen wegen Aufsichtsverstößen |
+| Bankgeheimnis | Vertragliche Schweigepflicht; § 383 ZPO Zeugnisverweigerung |
+| § 675u BGB (Phishing) | Haftung Bank bei nicht autorisierter Zahlung; Grenzen § 675v BGB (grobe Fahrlässigkeit Kunde) |
+
+### Beweissicherung
+
+- **Documents of Title:** Wechsel, Schuldscheine, Hypothekenbriefe — physische Sicherung kritisch.
+- **Loan File:** alle Auszahlungs-Notices, Statements, Reporting-Reports.
+- **Communication Trail:** E-Mails über Verhandlungen, Renegotiations, Standstills.
+- **Beratungsprotokolle § 34 WpHG** (für Anlageberatung) — bei Beraterhaftungsklage entscheidend.
+
+### Trade-off und Praktiker-Tipp
+
+- **Bank-Auflage:** Bei Klage durch Kunde gegen Bank: Auflage zur Vorlage des Beratungsprotokolls § 142 ZPO; bei Verweigerung Beweisvereitelung § 286 ZPO.
+- **Großforderungen mit ESM/EFSF-Bezug:** spezielle Immunitätsregeln beachten.
+- **Forum mit Sachkenntnis:** Commercial Court bei OLG Frankfurt mit hoher Finanz-Expertise; Mannheim für IP/Patent.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

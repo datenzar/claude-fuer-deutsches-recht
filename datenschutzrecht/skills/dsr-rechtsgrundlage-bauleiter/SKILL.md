@@ -6,7 +6,33 @@ description: "Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pfl
 # DSR: Rechtsgrundlage Bauleiter
 
 ## Aufgabe
-Bauleiter Rechtsgrundlage Art.
+Führt Schritt für Schritt durch die Auswahl der DSGVO-Rechtsgrundlage (Art. 6, ggf. Art. 9) für eine konkrete Verarbeitungstätigkeit. Liefert ein belastbares Ergebnis mit Begründung, Folgeaufgaben und Belegen.
+
+## Rechtsgrundlagen-Bauleiter (Art. 6 Abs. 1 DSGVO)
+- **Lit. a Einwilligung**: freiwillig, informiert, granular, jederzeit widerruflich (Art. 7); Nachweisführung beim Verantwortlichen (Art. 7 Abs. 1). Bei Kindern Art. 8.
+- **Lit. b Vertragserfüllung**: nur, wenn der Vertrag objektiv die Verarbeitung erfordert; EDSA-Leitlinien 2/2019 streng. Vorvertragliche Maßnahmen erfasst.
+- **Lit. c Rechtliche Verpflichtung**: konkrete Pflicht aus EU- oder mitgliedstaatlichem Recht (§ 147 AO, § 257 HGB, GwG-Pflichten).
+- **Lit. d Lebenswichtige Interessen**: ausnahmsweise und subsidiär.
+- **Lit. e Öffentliche Aufgabe**: für hoheitliche Stellen; rechtliche Grundlage muss konkret sein.
+- **Lit. f Berechtigtes Interesse**: Drei-Stufen-Test (Interesse, Erforderlichkeit, Abwägung); kein berechtigtes Interesse für Behörden in Erfüllung ihrer Aufgaben.
+
+## Besondere Datenkategorien (Art. 9 DSGVO)
+Verarbeitung **grundsätzlich verboten**, Ausnahmen Abs. 2:
+- Lit. a ausdrückliche Einwilligung
+- Lit. b Arbeitsrecht / Sozialschutz (in DE § 26 BDSG)
+- Lit. f Geltendmachung / Verteidigung von Rechtsansprüchen
+- Lit. h Gesundheitsversorgung mit ärztlichem Berufsgeheimnis
+- Lit. j wissenschaftliche Forschung mit Garantien
+
+## Praxisroutine je Verarbeitungstätigkeit
+1. **Daten erfassen**: Welche Kategorie? Art. 9-relevant?
+2. **Zweck präzise formulieren**: keine Sammelzwecke.
+3. **Geeignete Rechtsgrundlage wählen**: pro Zweck **eine** Grundlage; Kumulation in der Praxis fehleranfällig.
+4. **Begründung dokumentieren**: insb. für lit. f Drei-Stufen-Test schriftlich.
+5. **Beleg führen**: Einwilligungsnachweis, Vertrag, gesetzliche Norm, Abwägungsmemo.
+
+## Trade-off
+Einwilligung wirkt geräumig, ist aber widerruflich (Art. 7 Abs. 3) und schafft Dokumentationslast. Berechtigtes Interesse vermeidet das, erfordert aber belastbare Abwägung und akzeptiert das Widerspruchsrecht (Art. 21).
 
 ## Kaltstart
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

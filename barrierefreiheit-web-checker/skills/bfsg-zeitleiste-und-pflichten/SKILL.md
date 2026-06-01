@@ -6,7 +6,37 @@ description: "Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten ei
 # BFSG: Zeitleiste und Pflichten
 
 ## Aufgabe
-Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung).
+Führt einführend durch das Barrierefreiheitsstärkungsgesetz (BFSG): Inkrafttreten 28.06.2025, betroffene Produkte und Dienstleistungen, Pflichten je Marktrolle, Übergangsfristen und Schnittstelle zur BITV 2.0.
+
+## Zeitleiste BFSG
+- **28.06.2022**: Verkündung BFSG (BGBl. I S. 970).
+- **15.06.2022**: Inkrafttreten der Verordnungsermächtigungen.
+- **28.06.2025**: **Anwendungstag** — ab diesem Datum müssen neu in Verkehr gebrachte Produkte und neu erbrachte Dienstleistungen die Anforderungen der Anlage 1 BFSGV erfüllen (§ 38 BFSG).
+- **27.06.2030**: Übergangsfrist für vor 28.06.2025 geschlossene Dienstleistungsverträge endet (§ 38 Abs. 3 Nr. 2 BFSG).
+- **27.06.2040**: Übergangsende für bestehende Selbstbedienungsterminals (§ 38 Abs. 4 BFSG).
+
+## Pflichten je Marktrolle
+- **Hersteller** (§§ 5-9 BFSG): Konformität gewährleisten, technische Doku (Anhang 2 BFSGV), CE-Kennzeichnung (bei Produkten), 5 Jahre Dokumentationspflicht, Verzeichnis nicht konformer Produkte führen, Behörde informieren.
+- **Bevollmächtigter** (§ 10 BFSG): Hersteller außerhalb EU schriftlich beauftragen.
+- **Einführer** (§§ 11-13 BFSG): Konformitätsprüfung vor Inverkehrbringen, CE prüfen, Doku-Verfügbarkeit sicherstellen.
+- **Händler** (§§ 14-15 BFSG): Sorgfaltsprüfung, Kennzeichnung, Mitwirkung bei Marktüberwachungsmaßnahmen.
+- **Dienstleistungserbringer** (§§ 18-21 BFSG): Anforderungen Anlage 1 erfüllen, Informationspflichten gegenüber Verbrauchern (§ 19), Verfahren zur Reaktion auf Mängel.
+
+## Aufgaben der Behörden
+- **Marktüberwachung** § 19 BFSG: Bundesländer für Produkte; Bundesbehörden je nach Sektor (z. B. Eisenbahn-Bundesamt für Personenbeförderung).
+- **Anlaufstelle** § 22 BFSG: zentrale Beratungsstelle für Verbraucher, Verbände.
+- **Verbandsklagerecht** § 32 BFSG: Klage anerkannter Verbände auf Unterlassung von Verstößen.
+
+## Schnittstelle BITV 2.0
+- **BITV 2.0** für öffentliche Stellen des Bundes umgesetzt Richtlinie (EU) 2016/2102; Maßstab für Webseiten und Apps öffentlicher Träger.
+- **BFSG** zielt auf Wirtschaftsakteure für B2C-Produkte und -Dienstleistungen; Schnittmenge bei Telekommunikation, Bankservices.
+- Wer beides bedient (z. B. eine öffentliche Sparkasse mit BFSG-Bankdienstleistung), prüft beide Regime parallel; in der Praxis sind die technischen Anforderungen (EN 301 549 / WCAG 2.1 AA) deckungsgleich.
+
+## Sanktionen
+**§ 37 BFSG**: Bußgeld bis **100.000 EUR** bei vorsätzlichem Verstoß; bei Kennzeichnungspflichten bis 10.000 EUR. Zudem aufsichtsrechtliche Anordnungen, Rücknahmeanordnungen, Verkaufsverbot.
+
+## Trade-off
+Pragmatische Compliance-Roadmap: Inventar je Marktrolle und Produkt-/Dienstleistungslinie, Lückenanalyse gegen Anhang 1 BFSGV, Priorisierung nach Inverkehrbringen vs. Bestand. "Unverhältnismäßige Belastung" nach § 17 BFSG nur mit dokumentierter Begründung — Marktüberwachung verlangt regelmäßig Nachprüfung.
 
 
 ## Fachlicher Arbeitskern

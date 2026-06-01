@@ -26,6 +26,37 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Red-Team-Test der KI-Nutzungsrichtlinie
+- **Lücken-Test**: Welche Tool-Klassen werden nicht erfasst? (Browser-Plugins, Free-Tier-Online-Tools, Coding-Assistenten, mobile Anwendungen, Voice-Assistenten)
+- **Schatten-IT-Test**: Wie würde ein Mitarbeiter eine ChatGPT-Free-Variante einsetzen, ohne dass die Richtlinie greift? Empfehlung: Richtlinie auf Datenklassen statt Tool-Listen ankern, mit überprüfbarer Tool-Liste als Konkretisierung.
+- **Mandatsbezug-Test**: Was passiert bei Mandanten, die selbst KI-Tools nutzen und Daten weitergeben? Aufklärungspflicht des Anwalts gegenüber Mandant nach BORA/DAV-Stellungnahme.
+- **Auditierbarkeits-Test**: Lassen sich die Pflichten der Richtlinie nachvollziehbar prüfen? Ohne Logs/Inventar nur Behauptungen.
+- **§ 203-StGB-Test**: Greift jede dokumentierte Verpflichtung wirklich nach Abs. 4 Satz 2 Nr. 1 (förmliche Verpflichtung) oder nur informelle Bestätigung?
+
+## Qualitätskontrolle Inhalte
+- **Norm-Aktualität**: Verweise auf BRAO/BORA/DSGVO/KI-VO mit Datum und ggf. Fassungsstand.
+- **Geltungsdaten KI-VO**: Art. 5 Verbote ab 02.02.2025; Art. 6 Hochrisiko ab 02.08.2026 — Richtlinie muss vorausschauend formuliert sein.
+- **DAV-/BRAK-Stellungnahmen**: aktueller Stand, ohne aus Modellwissen zu zitieren; Live-Verweis auf brak.de / anwaltverein.de.
+- **Datentransfer**: DPF, SCC, BCR korrekt unterschieden; bei US-Tools Aktualität DPF-Selbstzertifizierung.
+- **Berufshaftpflicht**: Hinweis auf Anpassung der Versicherung (§ 51 BRAO, § 19 VVG-Anzeigepflichten).
+
+## Häufige Schwachstellen
+- **"Mandantendaten dürfen nicht in Cloud-KI"** ohne Definition was "Mandantendaten" sind.
+- **Fehlende Tool-Liste** oder Liste ohne Pflege-Verantwortung.
+- **Keine Schulungspflicht** mit Auffrischungszyklus.
+- **Mandanteneinwilligung nicht geregelt** (wann, wie, dokumentiert?).
+- **Verstoßfolge unklar** (arbeitsrechtlich, berufsrechtlich, intern).
+
+## Audit-Checkliste
+- Wann zuletzt aktualisiert? Spätestens jährlich.
+- Schulungsnachweise der letzten 12 Monate vorhanden?
+- Tool-Inventar mit Freigabe-Zustand aktuell?
+- Vorfälle der letzten 12 Monate dokumentiert?
+- Mandantenkommunikation enthält KI-Hinweise (wo erforderlich)?
+
+## Trade-off
+Eine extrem strikte Richtlinie ("Kein KI-Tool ohne Sozietäts-Freigabe") schafft Disziplin, vermehrt aber Schatten-IT. Eine permissive Richtlinie schafft Akzeptanz, riskiert aber Compliance-Erosion. Praxis-Empfehlung: gestuftes Modell mit klaren Datenklassen + Tool-Klassen, regelmäßige Reviews und Konsequenzbereitschaft (anlassbezogene Untersagung).
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

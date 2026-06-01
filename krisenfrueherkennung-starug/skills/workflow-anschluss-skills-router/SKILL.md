@@ -33,3 +33,34 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing Krisenfrüherkennung — Spezialskills
+- **Erstprüfung und Mandatsziel:**
+  - `spezial-krisenfrueherkennung-erstpruefung-und-mandatsziel` (§ 1 StaRUG Pflicht).
+  - `spezial-krisenmanagement-tatbestand-beweis-und-belege` (Indikatoren).
+  - `spezial-pflicht-dokumentenmatrix-und-lueckenliste` (Frühwarnsystem-Bestandsaufnahme).
+- **Frühwarn-Architektur:**
+  - `spezial-fruehwarnsystem-behoerden-gericht-und-registerweg` (System-Bausteine).
+  - `spezial-ampelsystem-beweislast-und-darlegungslast` (Grün/Gelb/Rot, Substantiierung).
+  - `spezial-kennzahlenset-mandantenentscheidung` (KPIs: Liquidität, Kovenanten).
+  - `spezial-monats-risikoampel-und-gegenargumente` (Reporting-Frequenz).
+- **Drohende ZU und StaRUG:**
+  - `spezial-drohende-zahlen-schwellen-und-berechnung` (§ 18 InsO, 24 Monate).
+  - `spezial-starug-fristen-form-und-zustaendigkeit` (StaRUG-Anzeige § 31, Restrukturierungsgericht).
+  - `spezial-restrukturierungsplan-formular-portal-und-einreichung` (Plan-Einreichung).
+  - `spezial-stabilisierungsanordnung-redteam-qualitygate` (§ 49 ff. StaRUG).
+- **Haftung Geschäftsleitung:**
+  - `spezial-geschaeftsfuehrerhaftung-livequellen-check` (§ 43 GmbHG / § 93 AktG).
+  - `spezial-zahlungsunfaehigkeit-compliance-dokumentation-und-akte` (§ 15a InsO).
+  - `spezial-krisenstadien-fristennotiz-und-naechster-schritt`.
+- **Berater und Stakeholder:**
+  - `spezial-warnpflicht-schriftsatz-brief-und-memo-bausteine` (§ 102 StaRUG Beraterwarnpflicht).
+  - `spezial-berater-verhandlung-vergleich-und-eskalation`.
+  - `spezial-stakeholder-abschlussprodukt-und-uebergabe`.
+  - `spezial-integrierte-mehrparteien-konflikt-und-interessen` (Gesellschafter, Aufsichtsrat, Banken).
+- **Querschnitt:**
+  - `spezial-planung-internationaler-bezug-und-schnittstellen` (EU-Richtlinie 2019/1023).
+  - `spezial-konform-sonderfall-und-edge-case`.
+
+## Faustregel
+- Sobald drohende ZU erkennbar (§ 18 InsO, 24 Monate): StaRUG-Tor offen — sofort Sanierungsschritte vorbereiten, sonst rückt § 15a InsO näher.

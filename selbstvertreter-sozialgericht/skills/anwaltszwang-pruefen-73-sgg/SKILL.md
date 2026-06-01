@@ -92,6 +92,10 @@ Vor dem BSG muessen Sie einen Anwalt nehmen, der beim BSG zugelassen ist. Liste 
 - `wann-doch-anwalt-grenzfaelle-sozialgericht` — wann doch Anwalt
 - `revision-bsg-160-sgg` — vor dem BSG
 
+## Praxis-Tipp
+
+Auch wenn vor SG und LSG kein Anwaltszwang besteht, ist die Vertretungs-Frage eine Strategie-Frage: (1) **Sozialverband (VdK, SoVD)** ist meist die guenstigste Loesung – Mitgliedsbeitrag rund 70-120 EUR/Jahr, vollstaendiger Rechtsschutz inkl. Klage, oft inklusive § 109 SGG-Gutachtenkosten. (2) **PKH nach § 73a SGG** parallel zur Klage stellen – Erfolgsaussichten sind im Sozialrecht haeufig zu bejahen, weil Amtsermittlung § 103 SGG zugunsten Klaeger wirkt. (3) **Beratungshilfe nach BerHG** vor Widerspruch – nur 15 EUR Schutzgebuehr beim Anwalt. Anwaltskosten werden bei Erfolg ueber § 193 SGG erstattet, daher kein finanzielles Risiko. Erst beim BSG ist Anwaltszwang absolut (§ 73 Abs. 4 SGG) – BSG-Anwaltsliste auf bsg.bund.de.
+
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen Anwaelte auf www.bsg.bund.de.

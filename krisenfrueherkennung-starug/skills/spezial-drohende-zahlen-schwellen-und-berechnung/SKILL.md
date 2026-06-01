@@ -37,3 +37,43 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Drohende Zahlungsunfähigkeit § 18 InsO — Tatbestand
+
+- **§ 18 Abs. 2 InsO:** Schuldner droht zahlungsunfähig zu werden, wenn er voraussichtlich nicht in der Lage sein wird, die bestehenden Zahlungspflichten im Zeitpunkt der Fälligkeit zu erfüllen. **Prognosezeitraum 24 Monate** (seit SanInsFoG 2021 als Regelfall in der Norm).
+- **Maßstab:** „**überwiegend wahrscheinlich**" — Quote tendenziell > 50 Prozent.
+- **Schwelle zur Antragsmöglichkeit:** Schuldner darf antragen (§ 18 Abs. 1 InsO), muss aber nicht; bei eingetretener ZU (§ 17) oder Überschuldung (§ 19) muss er.
+
+## Liquiditätsplan 24 Monate — Methodik
+
+- Monatliche Granularität, integriert mit GuV und Bilanz.
+- Cash-Inflows: Umsatzprognose mit Auftragsbestand, Working Capital Annahmen (DSO, DPO, DIO).
+- Cash-Outflows: Personalkosten, Steuern, SV-Abgaben, Miete, Tilgung/Zinsen, Investitionen, sonstige Betriebsausgaben.
+- Finanzierung: Kreditlinien, Kovenanten (Inanspruchnahme realistisch; Kündigungsrisiko in Sensitivität).
+- Sensitivität: Best / Base / Worst.
+
+## Schwellenwerte und Ampel
+
+- **GRÜN — keine drohende ZU:**
+  - Im 24-Monats-Horizont in keiner Periode Liquiditätsdeckung < 100 Prozent.
+  - Worst-Case zeigt mindestens 100 Prozent.
+  - Kovenanten mit Spielraum.
+- **GELB — Vorstufe drohende ZU:**
+  - Base-Case zeigt 100 Prozent, Worst-Case < 100 Prozent.
+  - Maßnahmenplan mit Sanierungsschritten in Vorbereitung.
+- **ROT — drohende ZU § 18 InsO:**
+  - In einzelnen Perioden des 24-Monats-Horizonts Liquiditätsdeckung < 100 Prozent — auch im Base-Case.
+  - Rechtsfolge: StaRUG-Tor offen, StaRUG-Anzeige § 31 StaRUG erwägen.
+  - Achtung: Eintritt § 17 InsO ZU oder § 19 InsO Überschuldung blockt StaRUG; dann § 15a InsO Antragspflicht.
+
+## Verteidigungslinien gegen drohende ZU
+
+- **Rangrücktritt § 39 Abs. 2 InsO** (qualifiziert) für Gesellschafterforderungen.
+- **Stundungsvereinbarungen** mit Lieferanten und Finanzgläubigern (schriftlich, verbindlich).
+- **Patronatserklärung** (harte Erklärung) des Gesellschafters.
+- **Kapitalmaßnahmen** (Kapitalerhöhung, Gesellschafterzuschuss).
+- **Bankenstandstill** mit verbindlichem Term Sheet.
+
+## Anti-Halluzinations-Hinweis
+- **24 Monate** für § 18 InsO drohende ZU — nicht zu verwechseln mit 12 Monaten für § 19 InsO Überschuldungs-Fortbestehensprognose.
+- Pandemie-Sonderregelungen sind ausgelaufen — kein Bezug mehr auf 4 Monate.

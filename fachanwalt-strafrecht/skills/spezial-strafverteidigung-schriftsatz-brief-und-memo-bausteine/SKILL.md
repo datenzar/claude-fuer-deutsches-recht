@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgan
 
 Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Strafverteidigung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Verteidigerbestellung Anzeige: § 137 StPO – Wahl jederzeit anzeigbar; bei Pflichtverteidigung §§ 140, 141 StPO Antrag auf Beiordnung formal stellen.
+- Akteneinsichtsantrag: § 147 StPO – schriftlich an StA bzw. nach Anklageerhebung an Gericht; Antragsbegründung kurz.
+- Schweigen-Anzeige (Beschuldigteneinlassung): § 136 StPO – frühe schriftliche Anzeige "Mandant macht von Schweigerecht Gebrauch" empfehlenswert, weil weitere Vernehmungen dann nicht erzwungen werden können.
+- Einlassung schriftlich: § 163a StPO – schriftliche Einlassung möglich; sorgfältig formulieren wegen späterem Beweisrelevanz.
+- Beweisantrag: § 244 Abs. 3-6 StPO – Form: Beweismittel, Beweistatsache, Konnex zu Tatbestandsmerkmal. Strukturierter Beweisantrag erhöht Ablehnungswiderstand.
+- Plädoyer-Aufbau: § 258 StPO – (1) Tatsachen, (2) Beweiswürdigung, (3) Subsumtion, (4) Strafzumessung § 46 StGB, (5) Antrag (Freispruch, Strafmaß).
+- Praxis-Tipp: Schriftsatz-Kanon: (1) Bestellungsanzeige + Vollmacht, (2) Akteneinsichts­antrag, (3) Schweigen-Anzeige (wenn Strategie), (4) Stellungnahme zur Anklage / Eröffnungsbeschluss, (5) Beweisanträge, (6) Plädoyer-Skript. Tonalität: präzise, höflich, mit konkretem Antrag; keine Polemik. Bei der StA-Korrespondenz freundlich, weil Einstellungsmöglichkeit nach §§ 153, 153a StPO bleibt.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

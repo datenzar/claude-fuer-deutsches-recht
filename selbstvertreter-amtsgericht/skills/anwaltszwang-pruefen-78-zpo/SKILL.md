@@ -85,6 +85,10 @@ Vor dem AG koennen Sie sich auch durch eine andere Person vertreten lassen, wenn
 - `wann-doch-anwalt-grenzfaelle` — Wann ist Selbstvertretung kein gutes Ergebnis?
 - `prozesskostenhilfe-pkh-114-zpo` — PKH bei finanzieller Notlage.
 
+## Praxis-Tipp
+
+Selbst wenn am Amtsgericht kein Anwaltszwang besteht, gibt es zwei Schwellen, ab denen Anwaltskontakt regelmaessig sinnvoll ist: (1) **Streitwert ueber 5.000 EUR** – Risiko und Komplexitaet steigen; im Unterliegen drohen erhebliche Kostenfolgen nach §§ 91 ff. ZPO. (2) **Berufungswuerdiger Sachverhalt** – wenn der Fall mit ueber 1.000 EUR Beschwer endet, droht Anwaltszwang vor dem LG (§ 78 I ZPO). Frueh PKH (§§ 114 ff. ZPO) oder Beratungshilfe nach BerHG pruefen, weil Antraege rechtzeitig vor Klage gestellt werden muessen. Notanwalt § 78b ZPO nur als letzter Ausweg, wenn Sie partout keinen Anwalt finden.
+
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsgericht — dort gilt § 11 ArbGG, der dieses Plugin nicht abdeckt.

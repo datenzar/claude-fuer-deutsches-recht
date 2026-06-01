@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgan
 
 Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Opfervertretung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Verletztenrechte: §§ 406d-406l StPO. Information § 406d (Verfahrensstand, Termine); Akteneinsicht § 406e (durch Anwalt regelmäßig; durch Verletzten selbst bei zwingenden Versagungsgründen); Schutz § 406f (Begleitperson § 406f Abs. 2 StPO, Schutz vor Schadensersatzpflicht).
+- Anwaltlicher Beistand: § 406h StPO (Beistand des Verletzten). Beiordnung Pflichtbeistand bei besonders schweren Delikten § 397a Abs. 1 StPO (z.B. § 177 StGB, schwere Körperverletzung mit erheblichen Folgen); PKH § 397a Abs. 2 StPO.
+- Nebenklage: §§ 395 ff. StPO. Befugnisse Frage-, Beweisantragsrecht, Plädoyer (§ 397 StPO).
+- Zeugen-Schutz: § 68a StPO Schutz Identität bei Vernehmung; § 247a StPO Videovernehmung bei schwerer Belastung; § 58a StPO Videoaufzeichnung bei kindlichen Opfern.
+- Adhäsion: §§ 403 ff. StPO – zivilrechtliche Ansprüche, Vollstreckungstitel.
+- Praxis-Tipp: Frühe Interessensicherung: (1) Strafanzeige mit Beweisangeboten, (2) Nebenklageanschluss § 396 StPO falls statthaft, (3) Beistandsbeiordnung § 397a StPO prüfen, (4) Akteneinsicht § 406e StPO, (5) Adhäsion früh ankündigen. Bei Mehropfer-Konflikt (z.B. häusliche Gewalt) Interessenkollision § 146 StPO beachten – ein Anwalt pro Opfer. Schutzanordnungen GewSchG parallel im Auge behalten.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

@@ -22,6 +22,60 @@ Sicherstellen, dass der erste Kontakt transparent und nicht irrefuehrend erfolgt
 2. Wird im eigenen Namen oder fuer Auftraggeber gehandelt?
 3. Welcher Satz passt fuer E-Mail, Telefon, Termin oder Veranstaltung?
 
+## Offenlegungspflichten beim Erstkontakt (§ 5 LobbyRG + Verhaltenskodex)
+
+Der **Verhaltenskodex** (Anlage zu § 5 LobbyRG) verlangt bei Erstkontakt mit Mandatsträgern oder Verwaltungsangehörigen folgende Informationen:
+
+1. **Identität** der vertretenden Person und der Organisation.
+2. **Auftraggeber** (falls im fremden Namen tätig).
+3. **Anliegen** in Grundzügen (welches Vorhaben, welche Regelung).
+4. **Lobbyregister-Eintrag**: Hinweis und ggf. Registernummer.
+5. **Keine Identitätsverschleierung** (Verbot der Tarnung als Bürgerinitiative o. Ä.).
+
+## Bausteine für verschiedene Kommunikationskanäle
+
+### E-Mail (Erstkontakt)
+
+> Sehr geehrte/r [Name],
+>
+> mein Name ist [Vor- und Nachname], ich bin [Funktion] bei [Organisationsname]. Wir sind im Lobbyregister des Deutschen Bundestages mit der Registernummer [R...] eingetragen.
+>
+> Ich vertrete die Interessen [unseres Unternehmens / Auftraggebers Name] im Hinblick auf [Vorhaben / Regelung]. Ich würde mich freuen, mit Ihnen [Anliegen konkret] zu erörtern.
+>
+> Über einen kurzen Gesprächstermin freuen wir uns.
+>
+> Mit freundlichen Grüßen
+> [Unterschrift]
+
+### Telefonnotiz / Vorstellung
+
+> "[Vorname Name] von [Organisation]; wir sind im Lobbyregister Nr. [R...] eingetragen. Ich rufe wegen [Vorhaben] an und vertrete [Auftraggeber / eigene Interessen]."
+
+### Meeting-Eröffnung (Live)
+
+> "Bevor wir inhaltlich beginnen: Mein Name ist [..], ich vertrete [..]. Wir sind im Lobbyregister eingetragen, Nummer [R..]. Heute geht es uns um [Vorhaben]."
+
+### Veranstaltung / Empfang
+
+> Stehauftritt mit kurzer Selbstvorstellung; Visitenkarte mit Registernummer; bei längeren Gesprächen Anliegen offenlegen.
+
+## Verhaltenskodex-Pflichten im Erstkontakt
+
+- **Wahrheitsgemäße Identitätsangabe** (keine Strohmänner / Fake-Initiativen).
+- **Keine unzulässige Einflussnahme** (Geschenke, Versprechen von Vorteilen).
+- **Keine Anwendung von Druck** oder Drohungen.
+- **Vertraulichkeit** über Inhalte aus internen Beratungen.
+- **Keine Pflicht zur Offenlegung** des Detailauftrags, aber Pflicht zur Identifikation des Auftraggebers.
+
+## Praxisfallen
+
+- **Identitätsverschleierung** (Verein der Bürger gegen X, der tatsächlich Industrie-finanziert ist) — verstößt klar gegen Verhaltenskodex und kann OWi sein (§ 7 I Nr. 3 LobbyRG).
+- **Keine Registereintragung trotz Pflicht** = Erstkontakt rechtswidrig, möglicher Bußgeldgrund.
+- **Adressaten verlangen Belegt** der Registereintragung: stets Nummer parat haben.
+- **Anwaltliche Mandatsangelegenheit** (§ 2 II Nr. 9 LobbyRG): bei reiner Rechtsangelegenheit Ausnahme, aber nicht bei politischer Lobby für den Mandanten.
+- **Dolmetscher / Mitarbeitende** bei Vertretung: zur Identifikation und Funktion benennen.
+- **Schriftliche Nachfassung**: Inhalt der Kontaktaufnahme dokumentieren — bei Anfrage durch Aufsicht Beweis möglich.
+
 ## Quellenanker
 
 - LobbyRG: https://www.gesetze-im-internet.de/lobbyrg/BJNR081800021.html

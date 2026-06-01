@@ -26,6 +26,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Inkasso
+- **Registrierungspflicht (§ 10 Abs. 1 Nr. 1 RDG):** Inkassodienstleister benötigen Registrierung beim zuständigen Oberlandesgericht für Rechtsdienstleistung. Verstoß: Nichtigkeit der Forderungseinziehung; eingezogene Forderungen ggf. zurückzuerstatten.
+- **Inkassokostenerstattung (§ 13e RDGEG):** Geltend gemacht werden können Inkassokosten als Verzugsschaden (§§ 280, 286, 288 BGB i.V.m. § 13e RDGEG), aber nur in Höhe der gesetzlichen Anwaltsgebühren (RVG). Verbraucher- und Kleinforderungsschutz seit 01.10.2021: deutlich reduzierte Sätze in Verbrauchersachen.
+- **Höchstgrenzen RVG-Inkasso:**
+  - Forderungen bis 50 Euro: Geschäftsgebühr (Nr. 2300 VV RVG) gedeckelt auf 0,9 (statt 1,3), Erstinkasso bis 18 Euro.
+  - Forderungen bis 500 Euro: Erstinkassosatz auf 50 Euro begrenzt; Mindestgebühren reduziert.
+  - Detailliert nach RVG-VV Nrn. 2300 ff. und § 13b-d RDGEG.
+- **Informationspflichten Inkasso (§ 11a RDG):** Inkassodienstleister muss bei erstem Kontakt mitteilen: Auftraggeber, Forderungsgrund mit Bezug auf konkrete Vereinbarung (Datum, Aktenzeichen), Zinsen und Kostenrechnung detailliert.
+- **Anwaltskosten als Verzugsschaden:** Mahn- und außergerichtliche Vertretungskosten eines Rechtsanwalts sind nach Verzug erstattbar (§§ 280, 286 BGB), wenn Beauftragung erforderlich war (BGH ständige Rspr. zur Erforderlichkeit der Anwaltsbeauftragung im Inkasso).
+- **Doppelbeauftragung Inkasso + Anwalt:** Geht regelmäßig zu Lasten des Gläubigers - er bekommt nur einmal Erstattung (BGH ständige Rspr. seit Beschluss IX ZR 280/14).
+- **Anspruchsgrundlagenkette:** § 288 Abs. 4 BGB stellt klar, dass Verzugszinsen den Schadensersatzanspruch nicht ausschließen; Inkasso- und Anwaltskosten sind konkurrierender Schadensersatz nach §§ 280, 286 BGB.
+- **Konsequenzen bei unzulässigen Forderungen:** Wenn Inkasso-Kostenanteil materiell zu hoch oder nicht erstattbar, kann Schuldner Verrechnung nach § 366 BGB verlangen - Tilgung dann zuerst auf die nicht streitige Hauptforderung.
+- **Praktiker-Tipp:** Vor Klagewerkstatt prüfen: Ist Inkasso-Kostenanteil korrekt nach RVG/RDGEG ermittelt? Falsche Berechnung gefährdet Klagewinnchance; Schuldnerseite kann das Inkasso-Konstrukt komplett ausschalten.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

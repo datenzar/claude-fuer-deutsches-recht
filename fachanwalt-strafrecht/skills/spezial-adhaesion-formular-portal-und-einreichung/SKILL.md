@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgan
 
 Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Adhaesion**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Adhäsionsverfahren: §§ 403-406c StPO – zivilrechtliche Ansprüche im Strafverfahren geltend machen.
+- Antragsbefugnis: § 403 StPO – Verletzter; Antrag spätestens bis Schluss der Beweisaufnahme erster Instanz (§ 404 Abs. 1 StPO).
+- Inhalt des Antrags: § 404 Abs. 1 S. 2 StPO – konkretes Begehren, bestimmter Streitgegenstand; Begründung; Beweisangebote.
+- Entscheidung des Gerichts: § 406 StPO – Verurteilung, Teilverurteilung, Abweisung; bei Nichteignung Absehen § 406 Abs. 1 S. 3 StPO (Verweisung Zivilrechtsweg) – sehr häufig im strafrechtlichen Alltag.
+- Vorteil Adhäsion: Verbindung von strafrechtlicher Verurteilung und Schadensersatz in einem Verfahren; verbessert Aussichten auf Vollstreckung (vollstreckbarer Titel).
+- Risiko: Bei Komplexität (z.B. Schmerzensgeldhöhe, Sachverständigenstreit) hohe Wahrscheinlichkeit der Verweisung auf Zivilrechtsweg.
+- Praxis-Tipp: Adhäsionsantrag früh ankündigen, Belege zur Schadenshöhe (Rechnungen, Atteste, Lohnausfall) strukturiert vorlegen. Bei einfachen, bezifferbaren Ansprüchen (Diebstahl Sache mit bekanntem Wert, einfache Körperverletzungs-Schmerzensgeld nach Tabelle) Adhäsion sinnvoll. Bei umstrittenen Schmerzensgeld-Höhen oder Mitverschulden besser parallele Zivilklage oder Verzicht auf Adhäsion. Anwalts­zuziehung für Verletzte über Opferanwaltschaft § 397a StPO oder PKH § 397a Abs. 2 StPO prüfen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

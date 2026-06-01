@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausg
 
 Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Anhoerung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Anhörung im OWi-Verfahren: § 55 OWiG – vor Erlass des Bußgeldbescheids muss Betroffenem rechtliches Gehör gewährt werden.
+- Anhörungsbogen oder Zeugen­fragebogen: Praxisform der § 55 OWiG-Anhörung; üblich 1 Woche bis 2 Wochen Frist (keine Ausschlussfrist – Versäumnis führt nicht zum Verfahrens­ende).
+- Schweigerecht: § 55 OWiG iVm § 136 StPO analog – Betroffener muss sich nicht selbst belasten; Schweigen darf nicht zu Lasten gewertet werden.
+- Zeugen­pflichten: § 46 OWiG iVm StPO – wenn als Zeuge angeschrieben, grundsätzlich Aussage­pflicht; Zeugnisverweigerungsrechte §§ 52, 53, 55 StPO greifen.
+- Form Anhörung: Schriftlich, telefonisch (Achtung Mitschnitt), oder vor der Polizei zu Protokoll.
+- Folge unterlassener Anhörung: § 79 Abs. 3 OWiG – Verfahrensmangel mit Rechtsbeschwerde rügebar; aber: Heilung durch Anhörung im AG-Verfahren möglich (§§ 71-72 OWiG).
+- Praxis-Tipp: Strategiemuster nach Anhörungsschreiben: (1) Halterermittlung statt Fahrerermittlung? Bei Halter­anhörung Schweigerecht/Schutz Angehöriger nach § 52 StPO bewusst nutzen, (2) Bei Fahrer­anhörung mit eigener Fahrereigenschaft erst Akteneinsicht beantragen § 49 OWiG, dann gezielt zu Tatumständen Stellung nehmen, (3) Bei Beweisproblemen schweigen; § 252 StPO analog (verbotene Verwertung Zeugenaussage Angehöriger) prüfen. Bei Fahrtenbuch­auflage drohend ggf. Halter­offenlegung strategisch (§ 31a StVZO).
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

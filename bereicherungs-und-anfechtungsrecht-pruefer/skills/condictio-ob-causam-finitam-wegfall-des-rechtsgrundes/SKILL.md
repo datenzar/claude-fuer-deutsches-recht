@@ -39,6 +39,36 @@ Nutze diesen Skill, wenn ein zunächst bestehender Rechtsgrund später entfallen
 - Rechtsgrundmangel nur behaupten.
 - Behaltensgrund nicht gesondert prüfen.
 
+## Condictio ob causam finitam (§ 812 Abs. 1 S. 2 Alt. 1 BGB)
+
+- **Tatbestand:** Leistung zur Erfüllung einer bestehenden Verbindlichkeit; der Rechtsgrund **entfällt nachträglich** mit Wirkung ex nunc oder ex tunc.
+- **Abgrenzung condictio indebiti § 812 Abs. 1 S. 1 Alt. 1 BGB:** Rechtsgrund fehlt von Anfang an (z. B. nichtiger Vertrag § 134, § 138 BGB).
+- **Abgrenzung condictio ob rem § 812 Abs. 1 S. 2 Alt. 2 BGB:** ein gar nicht bezweckter Erfolg tritt nicht ein; condictio ob causam finitam dagegen bezieht sich auf einen bestehenden, später wegfallenden Rechtsgrund.
+
+## Typische Wegfallsereignisse
+
+- **§ 142 BGB Anfechtung:** ex tunc-Nichtigkeit — Rückabwicklung nach §§ 812 ff. BGB; **Hinweis:** beim Streit um Subsumtion ggf. condictio indebiti (Rechtsgrund von Anfang an fehlend, weil ex tunc) — h.M. ordnet aber unter § 812 Abs. 1 S. 2 Alt. 1 BGB ein.
+- **Auflösende Bedingung § 158 Abs. 2 BGB:** mit Bedingungseintritt entfällt der Rechtsgrund ex nunc.
+- **Auflösender Endtermin § 163 BGB:** Vertrag endet zum Termin, danach Rückabwicklung der nach Termin erfolgten Leistungen.
+- **Wegfall der Geschäftsgrundlage § 313 BGB:** Vorrang Anpassung; bei Unmöglichkeit der Anpassung Rücktrittsrecht und Rückabwicklung nach §§ 346 ff. BGB (kein direkter Bereicherungsanspruch).
+- **Erlöschen eines Erbteils** durch Anfechtung der Erbschaftsannahme § 1957 BGB.
+
+## Saldotheorie und § 818 Abs. 3 BGB
+
+- Bei gegenseitigem Vertrag mit Wegfall des Rechtsgrunds: Saldotheorie wie bei Rückabwicklung nichtiger Verträge.
+- Entreicherungseinrede § 818 Abs. 3 BGB für gutgläubigen Empfänger; § 819 BGB Verschärfung ab Kenntnis vom Wegfallsereignis.
+
+## Konkurrenz und Vorrang
+
+- **Rücktritt §§ 346 ff. BGB:** Bei wirksamem Rücktritt **kein** Bereicherungsanspruch — § 346 BGB ist abschließendes Spezialregime.
+- **Widerruf §§ 355, 357 BGB:** ebenfalls Spezialregime mit eigenen Rückabwicklungsregeln.
+- **Anfechtung § 142 BGB:** Rechtsgrund ex tunc nichtig, dann §§ 812 ff. BGB.
+
+## Beweis
+
+- Anspruchsteller: Bestehen des ursprünglichen Rechtsgrunds + Wegfallsereignis mit Datum.
+- Anspruchsgegner: Entreicherung, Bösgläubigkeitsausschluss.
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

@@ -21,6 +21,45 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Sachverständigenbeweis-Pfade
+
+| Pfad | Norm | Wirkung | Praxis |
+| --- | --- | --- | --- |
+| Privatgutachten | § 286 ZPO i.V.m. § 138 ZPO | qualifizierter Parteivortrag, kein Beweismittel | als Anlage einreichen; gut für Substantiierung |
+| Gerichtlich bestellter Sachverständiger | §§ 402 ff. ZPO | echtes Beweismittel | Standard im deutschen Verfahren |
+| Sachverständigenanhörung | § 411 Abs. 3 ZPO | mündliche Erläuterung | Möglichkeit kritischer Befragung |
+| Selbständiges Beweisverfahren | §§ 485 ff. ZPO | Beweissicherung vor Klage | bei drohendem Beweismittelverlust |
+| Schiedsgutachter | § 317 BGB | bindende Drittentscheidung (z.B. Earn-Out-Bewertung) | außerprozessual |
+
+### Antrag auf gerichtlichen Sachverständigen
+
+1. **Beweisangebot:** "Beweis: Einholung eines Sachverständigengutachtens (§ 402 ZPO)" mit konkretem Beweisthema.
+2. **Beweisbeschluss:** Das Gericht erlässt Beweisbeschluss § 358 ZPO mit Fragenkatalog.
+3. **Auswahl Sachverständiger:** öffentlich bestellter und vereidigter Sachverständiger (öbuv), § 404 ZPO; Parteien können Vorschläge machen.
+4. **Vorschuss:** § 17 GKG Vorschuss durch beweispflichtige Partei.
+5. **Gutachten:** Sachverständiger fertigt schriftliches Gutachten an, übersendet an Gericht.
+6. **Stellungnahmen:** Parteien können schriftlich Stellung nehmen, Ergänzungsfragen stellen.
+7. **Mündliche Anhörung:** Antrag auf Anhörung § 411 Abs. 3 ZPO.
+
+### Klassische Streitfelder
+
+| Streitpunkt | Empfehlung |
+| --- | --- |
+| Sachverständiger zu nahe an einer Partei | Ablehnung § 406 ZPO mit Begründung Befangenheit |
+| Gutachten unzureichend | Antrag auf Ergänzung oder neuen Sachverständigen § 412 ZPO |
+| Parteigutachten widerspricht Gerichtsgutachten | Antrag auf Gegenüberstellung in der mündlichen Verhandlung |
+| Sachverhalt unklar im Gutachten | Klärung in Anhörung; Hinweis nach § 139 ZPO erbitten |
+
+### Trade-off Privatgutachten versus Gerichtsgutachten
+
+- **Privatgutachten:** schnell, kostenkontrolliert, eigene Auswahl. Aber: kein vollwertiges Beweismittel; meist nur Substantiierungswert.
+- **Gerichtsgutachten:** langsam (oft 6-18 Monate), Kosten unkontrolliert, aber bindendes Beweismittel.
+- **Praxis:** häufig BEIDE — Privatgutachten zur Substantiierung der Klage, anschließend Antrag auf gerichtlichen Sachverständigen.
+
+### Praktiker-Tipp Commercial Courts
+
+In englischsprachigen Commercial-Court-Verfahren ist Sachverständigen-Sprache oft ein Problem. § 185 GVG ermöglicht Dolmetscher; aber: nicht alle technischen Sachverständigen sprechen Englisch. Lieber: Suche nach öbuv-Sachverständigen mit Englisch-Erfahrung; alternativ schriftliches Gutachten Deutsch mit anschließender Übersetzung.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

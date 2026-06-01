@@ -31,3 +31,15 @@ description: "Red-Team- und Qualitätsgate für patentrechtliche Outputs: prüft
 - FTO-Ergebnis ohne Registerstand.
 - Claim Draft ohne Offenbarungsstütze.
 - Rechtsprechung ohne Datum, Aktenzeichen und verifizierbare Quelle.
+
+## Patent-spezifische Falle-Checks
+
+- **§ 34 PatG / Art. 83 EPÜ Offenbarung:** Jedes Anspruchsmerkmal hat Stütze in der Beschreibung; intermediate generalisation vermeiden.
+- **§ 38 PatG / Art. 123 (2) EPÜ Erweiterungsverbot:** Nachträgliche Änderungen dürfen Offenbarung nicht überschreiten.
+- **§ 14 PatG / Art. 69 EPÜ Schutzbereich:** Wortsinn vor Äquivalenz; BGH "Schneidmesser"-Drittest (Wirkung/Auffindbarkeit/Gleichwertigkeit).
+- **Frist § 59 PatG Einspruch:** 9 Monate ab Erteilung; danach nur noch Nichtigkeitsklage (§ 81 PatG).
+- **§ 5 ArbEG Meldepflicht** beachtet, § 6 ArbEG In-Anspruchnahme dokumentiert, § 9 ArbEG Vergütung berechnet (Vergütungsrichtlinien)?
+- **UPC vs. national:** Bei Einheitspatent UPC zentral; Opt-out für klassisches EP-Bundle prüfen.
+- **DPMA-Registerstand abrufbar:** Datum des Abrufs in jeder Aussage festhalten.
+- **Erfinderbenennung § 37 PatG:** richtig benannt? Sonst Vindikationsanspruch § 8 PatG.
+- **Strategische Falle:** "Hat man auch an Vorbenutzungsrecht § 12 PatG gedacht?" — oft Schlüssel bei Verletzung gegen langjährig benutzte Lehre.

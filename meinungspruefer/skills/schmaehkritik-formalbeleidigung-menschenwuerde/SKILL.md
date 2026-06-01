@@ -36,3 +36,13 @@ Das ist die engste und schwerste Kategorie: Der Person wird der Würdekern abges
 - Ergebnis:
 - Begründung:
 - Falls keine Ausnahme: Rückkehr zur Normalabwägung mit `abwaegung-art-5-gg`.
+
+## BVerfG-Linie und Trade-offs
+
+- **BVerfG ständige Rspr.:** Schmähkritik ist eng auszulegen — nur bei reiner Diffamierung ohne Sachbezug. Sachbezug (auch über Ecken) verdrängt regelmäßig den Schmähvorwurf. Vgl. BVerfG, Beschl. v. 19.05.2020 — 1 BvR 2397/19 ("Sterbehilfeverein"), BVerfG, Beschl. v. 19.12.2021 — 1 BvR 1073/20 — Az. live verifizieren.
+- **Formalbeleidigung (§ 192 StGB Schranke):** Hier hat BVerfG die Kategorie geschärft — Bezug zur Person, Form, gesellschaftliche Tabuisierung. Auch hier keine pauschale Sperre für Abwägung.
+- **Menschenwürdeangriff (Art. 1 I GG):** Absolute Grenze. Beispiele: NS-Vergleiche mit Vernichtungsbezug, Entmenschlichung. Bei Menschenwürdeangriff entfällt jede Abwägung.
+- **Stolpe-Linie (BVerfGE 114, 339):** Bei Mehrdeutigkeit gilt für Unterlassungsklage: jede vertretbare Variante muss bei Unterlassung verboten werden können — engerer Maßstab als bei Schadensersatz.
+- **Echo (Persönlichkeit, Recht am eigenen Bild, allgemeines Persönlichkeitsrecht):** Art. 2 I iVm Art. 1 I GG; abzuwägen gegen Art. 5 I GG.
+- **§ 188 StGB (Personen des politischen Lebens):** ab 22.09.2021 verschärft; Strafrahmen bis 5 Jahre Freiheitsstrafe.
+- Falle: "Schmähkritik" wird vorgerichtlich oder im Schriftsatz als Kürzel verwendet, BVerfG fordert aber detaillierte Subsumtion. Bei Verstoß: Aufhebung durch BVerfG (Verfassungsbeschwerde lohnt regelmäßig).

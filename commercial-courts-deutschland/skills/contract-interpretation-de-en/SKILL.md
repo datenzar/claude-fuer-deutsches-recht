@@ -21,6 +21,37 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Englische Vertragsbegriffe unter deutschem Recht
+
+| Englischer Begriff | Common-Law-Bedeutung | Anwendung unter §§ 133, 157 BGB |
+| --- | --- | --- |
+| **best endeavours** | höchste Anstrengung | typische Auslegung: wirtschaftlich zumutbare Anstrengung; nicht: alles unter Verschleiß eigener Existenz |
+| **reasonable efforts / reasonable endeavours** | zumutbare Anstrengung | ähnlich § 242 BGB Verkehrssitte; objektivierte Bemühenspflicht |
+| **commercially reasonable efforts** | kaufmännisch zumutbar | kaufmännischer Maßstab § 347 HGB; orientiert sich an Geschäftsbranche |
+| **indemnity (Freistellung)** | Schadlosstellung | Garantievertrag oder selbständige Schuldübernahme; § 257 BGB Freistellungsanspruch |
+| **warranty** | Garantie | § 443 BGB selbständige Garantie; verschuldensunabhängige Haftung |
+| **representation** | Zusicherung | unter altem Schuldrecht relevant; unter neuem Schuldrecht meist als Garantie zu lesen oder § 311 Abs. 2 BGB c.i.c. |
+| **covenant** | (Unter-)Verpflichtung | meist Tun/Unterlassen § 241 Abs. 1 BGB |
+| **material adverse change (MAC)** | wesentlich nachteilige Veränderung | strikt zu definieren; ohne Definition Auslegung über § 313 BGB Wegfall der Geschäftsgrundlage |
+| **liquidated damages** | pauschalierter Schadensersatz | bei Verbraucherbeteiligung § 309 Nr. 5 BGB AGB-Kontrolle; bei B2B § 307 BGB |
+| **time is of the essence** | Termin als Hauptpflicht | bei Verletzung Rücktritt ohne Nachfrist § 323 Abs. 2 Nr. 2 BGB |
+| **entire agreement clause** | abschließende Vereinbarung | wirksam, aber Auslegung § 133 BGB bleibt anwendbar; vorvertragliche Verhandlungen können relevant sein |
+| **good faith** | Treu und Glauben | direkt § 242 BGB |
+| **termination for cause** | außerordentliche Kündigung | § 314 BGB Dauerschuldverhältnis, wichtiger Grund |
+| **termination for convenience** | ordentliche Kündigung ohne Grund | abhängig vom Vertragstyp; bei Werk-/Dienstvertrag in Schranken (§§ 627, 649 BGB) |
+| **force majeure** | höhere Gewalt | § 275 Abs. 1 BGB Unmöglichkeit; sehr restriktive deutsche Praxis (Pandemie meist nicht) |
+| **gross negligence** | grobe Fahrlässigkeit | § 277 BGB diligentia quam in suis; in AGB Haftungsbeschränkung unwirksam § 309 Nr. 7 BGB |
+| **wilful misconduct** | Vorsatz | § 276 Abs. 3 BGB Haftung kann nicht ausgeschlossen werden |
+| **specific performance** | tatsächliche Erfüllung | gesetzlicher Regelfall in Deutschland § 241 Abs. 1 BGB; Käufer kann auf Nacherfüllung bestehen § 439 BGB |
+| **consequential damages** | Folgeschäden | unter BGB ohne Ausschluss erstattbar § 252 BGB; vertragliche Beschränkung üblich |
+
+### Trade-off und Praktiker-Tipp
+
+- **Doppeldeutige englische Klauseln:** Bei Streit immer auf § 133 BGB ("wirklicher Wille") und § 157 BGB ("Verkehrssitte") abstellen. Bei englischen Vertragsgewohnheiten Sachverständigengutachten möglich.
+- **Deutsche Übersetzung als Hilfsmittel:** Bei Zweideutigkeit oft hilfreich. Aber: bei "governing law: German law" gilt deutsche Auslegung der englischen Begriffe.
+- **AGB-Kontrolle:** englische Vertragsklauseln in B2B-AGB unterliegen §§ 305 ff. BGB. Asymmetrische Klauseln (z.B. "best endeavours" nur einer Partei) werden über § 307 BGB überprüft.
+- **Vorvertragliche Verhandlungen:** entire-agreement-Klauseln schließen Schriftverkehr nicht als Auslegungshilfe aus (BGH ständige Rechtsprechung zur Auslegung).
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

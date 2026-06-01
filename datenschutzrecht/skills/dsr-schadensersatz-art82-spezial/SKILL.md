@@ -6,7 +6,36 @@ description: "Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriel
 # DSR: Art-82-Schadensersatz
 
 ## Aufgabe
-Spezialfall Schadensersatz Art.
+Spezialfall Schadensersatz nach Art. 82 DSGVO — materielle und immaterielle Schäden bei DSGVO-Verstößen; aktuelle EuGH-Rechtsprechung; Beweislast und Substantiierung.
+
+## Tatbestandsstruktur Art. 82 Abs. 1 DSGVO
+- **Verstoß gegen die DSGVO** (jede materielle oder verfahrensrechtliche Verletzung).
+- **Materieller oder immaterieller Schaden** der betroffenen Person.
+- **Ursächlichkeit** zwischen Verstoß und Schaden.
+- **Verschulden** wird nach Art. 82 Abs. 3 vermutet (Exkulpationspflicht des Verantwortlichen/Auftragsverarbeiters).
+
+## Schlüsselentscheidungen EuGH
+- **EuGH C-300/21 "Österreichische Post"** (Urteil vom 04.05.2023): Kein Erfordernis einer "Erheblichkeitsschwelle" für immateriellen Schaden; bloßer DSGVO-Verstoß reicht aber nicht — Schaden muss positiv festgestellt werden.
+- **EuGH C-340/21 "Bulgarische Nationale Agentur für Einnahmen"** (Urteil vom 14.12.2023): Befürchtung eines Datenmissbrauchs kann immateriellen Schaden begründen.
+- **EuGH C-456/22 "Gemeinde Ummendorf"** (Urteil vom 14.12.2023): kurze Online-Veröffentlichung mit geringer Tragweite kann gleichwohl Schaden begründen.
+- Verifizierung aktueller EuGH-Rechtsprechung über curia.europa.eu.
+
+## Beweisthemen Klägerseite
+- **Konkreter Sachverhalt**: Welcher DSGVO-Verstoß, wann, durch wen?
+- **Schadenscharakter**: emotionale Belastung, Kontrollverlust, Ärger, konkrete Folgen.
+- **Kausalität**: subjektive Befürchtung muss konkret und nicht hypothetisch sein.
+
+## Höhe immaterieller Schadensersatz
+Deutsche Gerichte verhängen in der Regel Beträge von 100 EUR bis 5.000 EUR für immaterielle Schäden. Aktuelle Beträge und Linien live über Rechtsprechungsdatenbanken prüfen — keine Einzelbeträge aus Modellwissen zitieren.
+
+## Verteidigung Beklagtenseite
+- **Bestreiten des Verstoßes**: jede DSGVO-Norm konkret.
+- **Bestreiten des Schadens**: kein Schaden, lediglich Verstoß; Beweismaßstab § 286 ZPO.
+- **Exkulpation** nach Art. 82 Abs. 3: Nachweis, dass der Schaden in keiner Weise zu vertreten ist (z. B. höhere Gewalt, technische Pannen nach Stand der Technik abgesichert).
+- **Mitverschulden** § 254 BGB analog (str.).
+
+## Trade-off Klägerseite
+Massenklagen mit Standardschaden bringen Skalierung, aber individuelle Substantiierung wird zunehmend von Gerichten verlangt. Einzelklage mit konkreter emotionaler Schilderung erzielt oft höhere Beträge je Fall.
 
 ## Kaltstart
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.

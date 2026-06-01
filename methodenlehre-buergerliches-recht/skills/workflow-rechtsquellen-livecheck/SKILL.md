@@ -33,3 +33,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Methodenlehre — Quellen und Materialien
+- **Gesetzgebungsmaterialien:** `dipbt.bundestag.de` (BT-Drs., Ausschussberichte, Stellungnahmen) für historische Auslegung.
+- **Wissenschaftlicher Dienst Bundestag:** `bundestag.de/analysen` — Sachstands- und Hintergrundberichte, frei zugänglich.
+- **BVerfG-Sammlung BVerfGE:** Bd. 1 bis aktuell ca. 165 (Stand 2024/25), online über `bundesverfassungsgericht.de`.
+- **BGH-Datenbank:** `bundesgerichtshof.de` — Pressemitteilungen, Entscheidungen seit 2000 frei abrufbar.
+- **dejure.org:** verlinkt Normen mit Rechtsprechung; gut für Querverweis-Suche.
+- **EUR-Lex:** `eur-lex.europa.eu` für Sekundärrecht und Materialien (Erwägungsgründe wichtig für teleologische Auslegung).
+- **EuGH:** `curia.europa.eu` mit ECLI als Permalink.
+- **Klassiker der Methodenlehre:** Savigny, System des heutigen Römischen Rechts (1840); Larenz, Methodenlehre (6. Aufl. 1991); Bydlinski, Juristische Methodenlehre und Rechtsbegriff (2. Aufl. 1991) — bei Bedarf physisch nachschlagen.
+- **Aktuelle Methodenlehre:** Möllers, Juristische Methodenlehre (6. Aufl. 2024) — Auflage live verifizieren; Reimer, Juristische Methodenlehre.
+- Falle: BGH oder BVerfG aus dem Gedächtnis zitieren — bei Methodenlehre-Diskussion ist Az. besonders wichtig. Immer Live-Verifikation.

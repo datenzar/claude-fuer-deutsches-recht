@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausg
 
 Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Abstand**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Abstandsverstoß: § 4 Abs. 1 StVO – ausreichender Sicherheitsabstand. Faustregel "halber Tacho" (in Metern); spätestens bei Unterschreiten 1/2 Tacho problematisch.
+- Tatbestand und Bußgeldhöhe: BußgKatV – ab 30 % Unterschreitung Punkte; ab 50 % Fahrverbot regelmäßig.
+- Messverfahren Abstand: ViDistA, VAMA, ProViDa, Brückenabstandsmessverfahren – jeweils mit eigenen Toleranzen und Bedienanleitungen.
+- Mindest­messstrecke: BGH/OLG ständige Rspr. zum BMM (Brückenabstands­messverfahren) – mindestens 100 m bis 300 m Messstrecke erforderlich, um kurze Abstandsunterschreitungen (Bremsen, Ausweichen) auszuschließen.
+- Standardisierte Messverfahren: BGH ständige Rspr. – Eichung, Schulungs­nachweis, Bedienungs­anleitung sind Voraussetzung; bei Verfahrensfehler Toleranzen zugunsten Betroffener.
+- Subjektiver Tatbestand: Fahrlässigkeit (§ 49 StVO i.V.m. § 24 StVG) oder Vorsatz; gewöhnlich Fahrlässigkeit.
+- Praxis-Tipp: Messakte vollständig anfordern (Eichschein Messgerät und Tacho, Schulungs­nachweis Messbeamter, Videoaufzeichnung der Messung, Bedienungs­anleitung). Bei Brücken­messung Messstrecke und Auswertung der einzelnen Frames kritisch prüfen. Beispielargumente Verteidigung: Spurwechsel des Drängers, plötzliches Abbremsen des Vordermanns, kurze Abstandsunterschreitung (unter 3 Sek-Regel). Bei Berufskraftfahrern Härtefall-Argument für Fahrverbot vorbereiten.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 
