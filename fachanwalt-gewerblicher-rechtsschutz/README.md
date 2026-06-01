@@ -72,11 +72,12 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen k... |
+| `designrecht-praxis-grundlagen` | Designrecht in der Praxis: GeschmMG nun DesignG, Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung beim DPMA, Gemeinschaftsgeschmacksmuster EUIPO. Verletzungsfolgen, einstweilige Verfuegung, Schadensersatz-Berechnung. Pruefraster fue... |
 | `erstgespraech-mandatsannahme` | Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistellung Eilbedürfnis Fristen. Output: Mandat-Steckbrief Sachver... |
 | `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` | UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: A... |
 | `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo` | Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit... |
@@ -88,7 +89,12 @@ Automatisch generierte Komplett-Liste aller 14 Skills in diesem Plugin. Beschrei
 | `fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung` | Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaf... |
 | `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich V... |
 | `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art... |
+| `gr-einfuehrung-saeulen` | Einfuehrung Saeulen gewerblicher Rechtsschutz: Markenrecht, Wettbewerbsrecht UWG, Designrecht, Patent- und Gebrauchsmusterrecht, Sortenschutz, Urheberrecht-Schnittstellen. Pro Saeule: Schutzgegenstand, Erwerb, Verteidigung, Wirkungsberei... |
+| `influencer-marketing-uwg-spezial` | Influencer-Marketing UWG-Spezial: Trennungsgebot Werbung und redaktioneller Inhalt, Kennzeichnungspflicht (Werbung, Anzeige), BGH-Cathy-Hummels-Linie 2021, kein Influencer-Privileg fuer eigene Produkte. Pruefraster und Abwehrlinie gegen... |
+| `ki-trainingsdaten-und-urheberrecht-spezial` | Spezialfall KI-Trainingsdaten und Urheberrecht: § 44b UrhG Text- and Data-Mining-Schranke, Vorbehalt durch Rechteinhaber maschinenlesbar, EU-KI-VO Art. 53 Trainingsdaten-Zusammenfassung, GEMA und Wort-Forderungen gegen LLM-Anbieter. Prue... |
 | `schriftsatzkern-substantiierung` | Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder... |
+| `uwg-systematik-und-anwendung` | UWG-Systematik: § 3 (unlautere geschaeftliche Handlungen), § 5 (Irrefuehrung), § 5a (Vorenthaltungstatbestaende), §§ 4 ff. (Mitbewerber), §§ 8 ff. (Anspruchsberechtigung, Verband, Mitbewerber). Aktive Mitbewerber, eingetragene Verbaende.... |
+| `vergleich-statt-streit-strategie` | Vergleichsstrategie statt Streit im gewerblichen Rechtsschutz: Standstill-Vereinbarung, Lizenzvereinbarung mit Stillhalte-Klausel, Cease-and-Settle. Pruefraster nach Faktoren wie Anspruchslage, Beweislast, Kosten, Image. Mustertexte. Rou... |
 | `vergleichsverhandlung-strategie` | Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Ou... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

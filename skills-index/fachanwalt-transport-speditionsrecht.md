@@ -1,6 +1,6 @@
 # fachanwalt-transport-speditionsrecht
 
-**16 Skills** · Stand `v52.5.0`
+**16 Skills** · Stand `v52.6.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/fachanwalt-transport-speditionsrecht/README.md)

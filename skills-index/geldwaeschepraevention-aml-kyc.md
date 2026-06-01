@@ -1,6 +1,6 @@
 # geldwaeschepraevention-aml-kyc
 
-**22 Skills** · Stand `v52.5.0`
+**22 Skills** · Stand `v52.6.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/geldwaeschepraevention-aml-kyc/README.md)
