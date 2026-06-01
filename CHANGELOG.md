@@ -1,3 +1,24 @@
+# v53.1.0 — Anthropic-Tiefe-Boost Batch A01 M&A-Kern
+
+Erster produktiver Skill-Tiefe-Boost aus dem Branch `anthropic-patterns-experimente`, sauber auf den aktuellen `main`-Stand integriert. Der alte Experiment-Branch wurde nicht stumpf gemerged, damit der v53.0.0-Release-Stand erhalten bleibt.
+
+## Schwerpunkt
+
+- `grosskanzlei-corporate-ma`: 46 kurze/mittlere Skills auf mandatsbegleitende Tiefe gebracht.
+- `mittelstand-corporate-ma`: 47 kurze/mittlere Skills auf Mittelstands-M&A-Tiefe gebracht.
+- `corporate-kanzlei`: 38 kurze/mittlere Skills auf Corporate-/Inhouse-Governance-Tiefe gebracht.
+- `anthropic-lessons/` mit Analyse, Selektionslogik und Boost-Instruktion in `main` übernommen.
+- Matter-Workspace-Hinweise, Quellen-Tags, Hand-Offs, Negativ-Abgrenzungen und berufsrechtliche Hinweise in den geboosteten Skills ergänzt.
+
+## Checks
+
+- YAML-Frontmatter: 0 Fehler, 0 Warnungen.
+- Plugin-Struktur: OK.
+- Gesamt-PDF-Regel der Testakten: OK (128 Testakten).
+- Release-ZIP-Validierung lokal: OK (116 Plugin-ZIPs).
+
+---
+
 # v53.0.0 — Neue Grundplugins, Commercial Courts, Patentrecht und Skill-Mindeststandard
 
 Großer Integrationsrelease nach den parallelen Ergänzungen: neue Plugins für Bürokratieverstehen, Vereinsrecht und Parteienorganisation; Integration des Commercial-Courts-Plugins; Patentrecht international/prozessual erweitert; Perplexity-Skillpakete integriert; anschließend alle Plugins auf mindestens 50 Skills gebracht.

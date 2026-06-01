@@ -1,6 +1,6 @@
 # vereinsrecht-vereinsmanager
 
-**58 Skills** · Stand `v53.0.0`
+**58 Skills** · Stand `v53.1.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/vereinsrecht-vereinsmanager/README.md)
