@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 05. April 2026
+az: SR-2026-FIN-0612 / Memo 09
+betreff: PEP-Screening - Befund Lueckenanalyse 24 Monate
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 09 — PEP-Screening-Fehler
 
 **Rechtsgrundlage:** § 10 Abs. 1 Nr. 4, § 15 Abs. 3 Nr. 1, Abs. 5 GwG; BaFin-Auslegungshinweise GwG (Oktober 2021)

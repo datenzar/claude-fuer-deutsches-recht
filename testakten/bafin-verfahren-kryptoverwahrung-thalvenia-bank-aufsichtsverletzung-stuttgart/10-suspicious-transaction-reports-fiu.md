@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 08. April 2026
+az: SR-2026-FIN-0612 / Memo 10
+betreff: STR-Meldungen FIU - Auswertung der nicht gemeldeten Verdachtsfaelle Token TN
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 10 — Suspicious Transaction Reports und FIU-Verfahren
 
 **Rechtsgrundlage:** § 43 GwG (Verdachtsmeldepflicht); § 44 GwG (Verbot der Informationsweitergabe)

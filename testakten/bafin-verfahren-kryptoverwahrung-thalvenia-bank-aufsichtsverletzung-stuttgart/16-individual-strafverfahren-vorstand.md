@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612 - Sonderakte Strafverteidigung
+datum: 22. April 2026
+az: SR-2026-FIN-0612 / Strafverfahren 13 Js 4481/26
+betreff: Strafverfahren Dr. Tannenfels - Paragraph 261 StGB; Verteidigungsstrategie und Interessenkonflikt
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 16 — Individual-Strafverfahren gegen den Vorstand
 
 **Beschuldigter:** Dr. Lasse Tannenfels (CCO der Thalvenia Bank AG)

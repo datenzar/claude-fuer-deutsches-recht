@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 02. April 2026
+az: SR-2026-FIN-0612 / Memo 08
+betreff: KYC-Mangelpruefung - Befund Stichprobe Hochrisikokunden
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 08 — Kundenidentifikation und KYC-Mängel
 
 **Prüfungsgegenstand:** Kundensorgfaltspflichten gem. §§ 10-15 GwG

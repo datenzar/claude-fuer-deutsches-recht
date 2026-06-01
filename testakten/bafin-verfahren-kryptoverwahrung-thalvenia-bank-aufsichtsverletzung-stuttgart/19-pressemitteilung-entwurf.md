@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: entwurf
+absender: Thalvenia Bank AG; Vorstand; Koenigstrasse 87; 70173 Stuttgart
+adressat: Oeffentlichkeit / Finanzpresse
+datum: Entwurf - geplante Freigabe nach BaFin-Abstimmung
+az: Thalvenia/Kommunikation/2026-PRE-019
+betreff: Pressemitteilung - Entwurf; abstimmungspflichtig mit BaFin und Kanzlei
+vertraulichkeit: VERTRAULICH - ENTWURFSSTUFE
+-->
+
 # 19 — Pressemitteilung (Entwurf)
 
 **Status:** Entwurf — nicht veröffentlicht

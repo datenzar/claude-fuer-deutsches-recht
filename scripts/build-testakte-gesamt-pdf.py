@@ -113,6 +113,44 @@ s_partlabel = ParagraphStyle(
     spaceAfter=2,
 )
 
+# Briefkopf-/Vermerks-Styles (authentischere Darstellung)
+BANNER_BEHOERDE = HexColor("#0E3A5B")     # dunkles Behoerden-Blau (BaFin-naher Ton)
+BANNER_KANZLEI = HexColor("#1F3F2E")      # tiefes Kanzlei-Gruen
+BANNER_INTERN = HexColor("#8A1C1C")       # warnfarbenes Rot fuer interne Vermerke
+BANNER_BANK = HexColor("#23344F")         # gedaempftes Bank-Blau
+BANNER_ENTWURF = HexColor("#7A6A1E")      # Ocker fuer Entwuerfe / Presse
+
+s_letterhead_org = ParagraphStyle(
+    "LetterheadOrg",
+    fontName=FONT_BOLD, fontSize=13, leading=16, textColor=black,
+    spaceAfter=2,
+)
+s_letterhead_unit = ParagraphStyle(
+    "LetterheadUnit",
+    fontName=FONT_REG, fontSize=9, leading=12, textColor=MUTED,
+    spaceAfter=2,
+)
+s_letterhead_addr = ParagraphStyle(
+    "LetterheadAddr",
+    fontName=FONT_REG, fontSize=9, leading=12, textColor=black,
+    spaceAfter=2,
+)
+s_banner_text = ParagraphStyle(
+    "BannerText",
+    fontName=FONT_BOLD, fontSize=9, leading=11, textColor=HexColor("#FFFFFF"),
+    spaceAfter=0,
+)
+s_stamp = ParagraphStyle(
+    "Stamp",
+    fontName=FONT_BOLD, fontSize=9, leading=11, textColor=HexColor("#8A1C1C"),
+    spaceAfter=2,
+)
+s_betreff = ParagraphStyle(
+    "Betreff",
+    fontName=FONT_BOLD, fontSize=11, leading=14, textColor=black,
+    spaceBefore=6, spaceAfter=4,
+)
+
 # Reihenfolge der Datei-Typen im Gesamt-PDF
 TYPE_ORDER = ["md", "txt", "eml", "csv", "xlsx", "docx", "image", "pdf"]
 IMAGE_EXTS = {"jpg", "jpeg", "png"}
@@ -132,8 +170,189 @@ def escape(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 
+# ---------------------------------------------------------------------------
+# AKTE-META: Briefkopf-/Stuecktyp-Block am Anfang einer Markdown-Datei
+# ---------------------------------------------------------------------------
+# Format (HTML-Kommentar, kein YAML-Frontmatter):
+#
+#   <!-- AKTE-META
+#   typ: original_eingehend | original_ausgehend | interner_vermerk | mandantenkorrespondenz | entwurf
+#   absender: Name; Einheit; Strasse; PLZ Ort
+#   adressat: Name; Einheit; Strasse; PLZ Ort
+#   datum: 18. Maerz 2026
+#   az: VBS 4 1 7-K-22-188/2026
+#   ihr_zeichen: SR-2026-FIN-0612
+#   betreff: Anordnung Sonderpruefung gem. Paragraph 44 KWG
+#   eingangsstempel: 18.03.2026 09:47 Uhr (Einschreiben Rueckschein)  # nur original_eingehend
+#   vertraulichkeit: VERTRAULICH | ANWALTLICH PRIVILEGIERT | INTERN  # optional
+#   -->
+#
+# Jede Zeile innerhalb des Kommentars hat 'schluessel: wert'.
+# Mehrzeilige Werte sind erlaubt durch Einrueckung der Folgezeilen.
+
+AKTE_META_RE = re.compile(r"<!--\s*AKTE-META\s*\n(.*?)\n\s*-->\s*\n?", re.DOTALL)
+
+TYP_LABEL = {
+    "original_eingehend": "ORIGINAL-SCHREIBEN (eingegangen)",
+    "original_ausgehend": "ORIGINAL-SCHREIBEN (versandt)",
+    "interner_vermerk": "INTERNER VERMERK",
+    "mandantenkorrespondenz": "MANDANTENKORRESPONDENZ",
+    "entwurf": "ENTWURF",
+}
+
+TYP_BANNER = {
+    "original_eingehend": BANNER_BEHOERDE,
+    "original_ausgehend": BANNER_KANZLEI,
+    "interner_vermerk": BANNER_INTERN,
+    "mandantenkorrespondenz": BANNER_BANK,
+    "entwurf": BANNER_ENTWURF,
+}
+
+
+def parse_akte_meta(md_text: str) -> tuple[dict, str]:
+    m = AKTE_META_RE.search(md_text)
+    if not m:
+        return {}, md_text
+    block = m.group(1)
+    meta: dict = {}
+    current_key = None
+    for raw in block.splitlines():
+        if not raw.strip():
+            continue
+        if raw.startswith(" ") or raw.startswith("\t"):
+            if current_key:
+                meta[current_key] = (meta.get(current_key, "") + " " + raw.strip()).strip()
+            continue
+        if ":" in raw:
+            k, _, v = raw.partition(":")
+            current_key = k.strip().lower()
+            meta[current_key] = v.strip()
+    body = md_text[: m.start()] + md_text[m.end() :]
+    return meta, body
+
+
+def _addr_block(value: str, label: str) -> list:
+    """Adressblock aus 'Name; Einheit; Strasse; PLZ Ort' -> Flowables."""
+    out = [Paragraph(f"<b>{escape(label)}</b>", s_letterhead_unit)]
+    parts = [p.strip() for p in value.split(";") if p.strip()]
+    if not parts:
+        return out
+    out.append(Paragraph(escape(parts[0]), s_letterhead_org))
+    for p in parts[1:]:
+        out.append(Paragraph(escape(p), s_letterhead_addr))
+    return out
+
+
+def render_briefkopf(meta: dict) -> list:
+    """Erzeugt eine getypte Briefkopf-/Vermerk-Box vor dem Stueck-Body."""
+    typ = (meta.get("typ") or "").strip().lower()
+    if typ not in TYP_LABEL:
+        return []
+
+    label = TYP_LABEL[typ]
+    banner_color = TYP_BANNER[typ]
+    vertraulichkeit = (meta.get("vertraulichkeit") or "").strip()
+
+    out: list = []
+
+    # Banner-Zeile (farbig, weisser Text) - signalisiert Stuecktyp sofort
+    banner_text = label
+    if vertraulichkeit:
+        banner_text = label + "   |   " + vertraulichkeit
+    banner_tbl = Table(
+        [[Paragraph(escape(banner_text), s_banner_text)]],
+        colWidths=[16 * cm],
+    )
+    banner_tbl.setStyle(TableStyle([
+        ("BACKGROUND", (0, 0), (-1, -1), banner_color),
+        ("LEFTPADDING", (0, 0), (-1, -1), 8),
+        ("RIGHTPADDING", (0, 0), (-1, -1), 8),
+        ("TOPPADDING", (0, 0), (-1, -1), 5),
+        ("BOTTOMPADDING", (0, 0), (-1, -1), 5),
+    ]))
+    out.append(banner_tbl)
+    out.append(Spacer(1, 4))
+
+    # Adressblock-Tabelle (links Absender, rechts Adressat)
+    absender = meta.get("absender", "")
+    adressat = meta.get("adressat", "")
+    if absender or adressat:
+        left_cell = _addr_block(absender, "Absender") if absender else [Paragraph("", s_letterhead_addr)]
+        right_cell = _addr_block(adressat, "Adressat") if adressat else [Paragraph("", s_letterhead_addr)]
+        addr_tbl = Table(
+            [[left_cell, right_cell]],
+            colWidths=[8 * cm, 8 * cm],
+        )
+        addr_tbl.setStyle(TableStyle([
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("LEFTPADDING", (0, 0), (-1, -1), 6),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+            ("TOPPADDING", (0, 0), (-1, -1), 6),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 6),
+            ("BOX", (0, 0), (-1, -1), 0.4, BORDER),
+            ("LINEAFTER", (0, 0), (0, -1), 0.3, BORDER),
+            ("BACKGROUND", (0, 0), (-1, -1), HexColor("#FBFAF6")),
+        ]))
+        out.append(addr_tbl)
+        out.append(Spacer(1, 4))
+
+    # Metadaten-Tabelle: Datum, Az., Ihr Zeichen
+    meta_rows = []
+    if meta.get("datum"):
+        meta_rows.append(["Datum", meta["datum"]])
+    if meta.get("az"):
+        meta_rows.append(["Aktenzeichen", meta["az"]])
+    if meta.get("ihr_zeichen"):
+        meta_rows.append(["Ihr Zeichen", meta["ihr_zeichen"]])
+    if meta_rows:
+        mtbl = Table(
+            [[Paragraph(f"<b>{escape(k)}</b>", s_letterhead_addr),
+              Paragraph(escape(v), s_letterhead_addr)] for k, v in meta_rows],
+            colWidths=[3.5 * cm, 12.5 * cm],
+        )
+        mtbl.setStyle(TableStyle([
+            ("VALIGN", (0, 0), (-1, -1), "TOP"),
+            ("LEFTPADDING", (0, 0), (-1, -1), 6),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+            ("TOPPADDING", (0, 0), (-1, -1), 2),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 2),
+        ]))
+        out.append(mtbl)
+
+    # Eingangsstempel nur bei eingegangenen Originalen
+    if typ == "original_eingehend" and meta.get("eingangsstempel"):
+        stamp_tbl = Table(
+            [[Paragraph(
+                "EINGEGANGEN<br/>" + escape(meta["eingangsstempel"]),
+                s_stamp,
+            )]],
+            colWidths=[6 * cm],
+            hAlign="RIGHT",
+        )
+        stamp_tbl.setStyle(TableStyle([
+            ("BOX", (0, 0), (-1, -1), 1.0, HexColor("#8A1C1C")),
+            ("LEFTPADDING", (0, 0), (-1, -1), 6),
+            ("RIGHTPADDING", (0, 0), (-1, -1), 6),
+            ("TOPPADDING", (0, 0), (-1, -1), 4),
+            ("BOTTOMPADDING", (0, 0), (-1, -1), 4),
+        ]))
+        out.append(Spacer(1, 2))
+        out.append(stamp_tbl)
+
+    # Betreff
+    if meta.get("betreff"):
+        out.append(Paragraph("Betreff: " + escape(meta["betreff"]), s_betreff))
+
+    out.append(Spacer(1, 8))
+    return out
+
+
 def md_to_flowables(md_text: str) -> list:
     out: list = []
+    # Briefkopf-/Vermerk-Block aus AKTE-META vor dem eigentlichen Body
+    meta, md_text = parse_akte_meta(md_text)
+    if meta:
+        out.extend(render_briefkopf(meta))
     lines = md_text.splitlines()
     i = 0
     while i < len(lines):

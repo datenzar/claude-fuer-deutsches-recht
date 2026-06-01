@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 25. April 2026
+az: SR-2026-FIN-0612 / Memo 17
+betreff: Sanktionsrahmen BaFin - Paragraph 56 GwG; Paragraph 60b GwG; Paragraph 6 KWG; Untersagungsrisiko
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 17 — Sanktionsrahmen: Bußgeld und Untersagung
 
 **Dokument:** Rechtliche Analyse Sanktionsrisiken

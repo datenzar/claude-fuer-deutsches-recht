@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 24. Maerz 2026
+az: SR-2026-FIN-0612 / Memo 03
+betreff: MiCAR-Uebergangsregime Art. 143 VO (EU) 2023/1114 - Rechtsanalyse
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 03 — MiCAR-Übergangslizenz und Übergangsregime
 
 **Rechtsgrundlage:** Verordnung (EU) 2023/1114 über Märkte für Kryptowerte (MiCAR), insb. Art. 59, Art. 63, Art. 143

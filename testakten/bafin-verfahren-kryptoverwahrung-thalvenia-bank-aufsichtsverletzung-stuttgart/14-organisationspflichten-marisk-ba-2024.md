@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 15. April 2026
+az: SR-2026-FIN-0612 / Memo 14
+betreff: MaRisk BA 2024 AT 4.3 / BTO 1.1 - Pruefung der Organisationspflichten
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 14 — Organisationspflichten MaRisk BA 2024
 
 **Rechtsgrundlage:** MaRisk BA (BaFin-Rundschreiben 05/2024 (BA) vom 29. Oktober 2024)

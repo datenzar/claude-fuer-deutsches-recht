@@ -1,3 +1,14 @@
+<!-- AKTE-META
+typ: original_eingehend
+absender: Bundesanstalt fuer Finanzdienstleistungsaufsicht (BaFin); Referat VBS 4 - Bankenaufsicht Spezialinstitute; Marie-Curie-Str. 24-28; 60439 Frankfurt am Main
+adressat: Thalvenia Bank AG; Vorstand; Koenigstrasse 87; 70173 Stuttgart
+datum: 18. Maerz 2026
+az: VBS 4 1 7-K-22-188/2026
+betreff: Anordnung einer Sonderpruefung gem. Paragraph 44 Abs. 1 KWG i.V.m. Paragraph 44c KWG - Az. 188-K-22-2026
+eingangsstempel: 18.03.2026 09:47 Uhr (Einschreiben mit Rueckschein)
+vertraulichkeit: VERTRAULICH
+-->
+
 # 04 — BaFin-Prüfungsmitteilung 2026
 
 **Aktenzeichen BaFin:** VBS 4 1 7-K-22-188/2026

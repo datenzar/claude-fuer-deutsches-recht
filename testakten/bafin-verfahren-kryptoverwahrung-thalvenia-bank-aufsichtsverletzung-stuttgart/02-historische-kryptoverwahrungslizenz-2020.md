@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 22. Maerz 2026
+az: SR-2026-FIN-0612 / Memo 02
+betreff: Historische Kryptoverwahrungslizenz 2020 - Sachverhalt und Reichweite
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 02 — Historische Kryptoverwahrungslizenz 2020
 
 **Datum Zulassung:** 15. Oktober 2020

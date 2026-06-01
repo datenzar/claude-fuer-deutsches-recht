@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612 - Vertraulich Vorstandsebene
+datum: 02. Mai 2026
+az: SR-2026-FIN-0612 / Strategie 18
+betreff: Vergleichs- und Settlement-Strategie BaFin - Undertakings und Meldepflichten
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 18 — Vergleichsstrategie und Settlement-Angebot an die BaFin
 
 **Dokument:** Strategiepapier für Settlement-Verhandlung

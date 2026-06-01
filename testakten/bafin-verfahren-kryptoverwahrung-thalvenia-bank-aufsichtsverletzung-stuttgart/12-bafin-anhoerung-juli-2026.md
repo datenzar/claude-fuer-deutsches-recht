@@ -1,3 +1,14 @@
+<!-- AKTE-META
+typ: original_eingehend
+absender: Bundesanstalt fuer Finanzdienstleistungsaufsicht (BaFin); Referat VBS 4 - Bankenaufsicht Spezialinstitute; Marie-Curie-Str. 24-28; 60439 Frankfurt am Main
+adressat: Thalvenia Bank AG; Vorstand; Koenigstrasse 87; 70173 Stuttgart
+datum: 14. Juli 2026
+az: VBS 4 1 7-K-22-188/2026
+betreff: Anhoerung gem. Paragraph 28 VwVfG zum vorlaeufigen Pruefbericht; Frist 28. Juli 2026
+eingangsstempel: 14.07.2026 11:12 Uhr (Einschreiben mit Rueckschein)
+vertraulichkeit: VERTRAULICH
+-->
+
 # 12 — BaFin-Anhörung Juli 2026
 
 **Aktenzeichen:** BaFin VBS 4 1 7-K-22-188/2026

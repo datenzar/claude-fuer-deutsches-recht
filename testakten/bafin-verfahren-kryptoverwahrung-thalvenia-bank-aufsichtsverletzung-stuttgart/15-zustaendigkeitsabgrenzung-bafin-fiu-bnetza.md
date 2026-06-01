@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 18. April 2026
+az: SR-2026-FIN-0612 / Memo 15
+betreff: Behoerdliche Zustaendigkeitsabgrenzung BaFin / FIU / BNetzA - Parallelverfahrenslandkarte
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 15 — Zuständigkeitsabgrenzung BaFin / FIU / BNetzA
 
 **Dokument:** Interne Kanzleinotiz zur Behördenkoordination

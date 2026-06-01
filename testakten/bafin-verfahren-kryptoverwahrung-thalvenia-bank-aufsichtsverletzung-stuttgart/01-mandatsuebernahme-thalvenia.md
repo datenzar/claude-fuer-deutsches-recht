@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Aktenleitung intern; Az. SR-2026-FIN-0612; Mandat Thalvenia Bank AG
+datum: 20. Maerz 2026
+az: SR-2026-FIN-0612
+betreff: Mandatsuebernahme - Thalvenia Bank AG; BaFin-Sonderpruefung; Konfliktpruefung
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 01 — Mandatsübernahme Thalvenia Bank AG
 
 **Kanzlei:** Schwertbeck Roosendaal mbB, Frankfurt am Main

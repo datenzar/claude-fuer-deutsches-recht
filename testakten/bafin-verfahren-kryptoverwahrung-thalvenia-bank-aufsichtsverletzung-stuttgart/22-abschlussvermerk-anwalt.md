@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612 - Vorstand und Aufsichtsrat
+datum: 10. August 2026
+az: SR-2026-FIN-0612 / Abschlussvermerk
+betreff: Anwaltlicher Abschlussvermerk - Zwischenstand vor BaFin-Entscheid
+vertraulichkeit: ANWALTLICH PRIVILEGIERT - HOECHSTVERTRAULICH
+-->
+
 # 22 — Anwaltlicher Abschlussvermerk
 
 **Kanzlei:** Schwertbeck Roosendaal mbB, Frankfurt am Main

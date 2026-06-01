@@ -1,3 +1,14 @@
+<!-- AKTE-META
+typ: original_ausgehend
+absender: Thalvenia Bank AG; Vorstand; Koenigstrasse 87; 70173 Stuttgart
+adressat: Bundesanstalt fuer Finanzdienstleistungsaufsicht (BaFin); Referat VBS 4 - Bankenaufsicht Spezialinstitute; Marie-Curie-Str. 24-28; 60439 Frankfurt am Main
+datum: 13. Januar 2026
+az: Thalvenia/BAIT-Vorfall-2026-001
+ihr_zeichen: BAIT Tz. 55 Meldung
+betreff: Meldung eines wesentlichen IT-Sicherheitsvorfalls gem. BAIT Tz. 55 - Cybervorfall vom 09.01.2026
+vertraulichkeit: VERTRAULICH
+-->
+
 # 06 — Cybervorfall Januar 2026 und BAIT-Meldung
 
 **Vorfallsdatum:** 9. Januar 2026, 02:17 Uhr (Erstalarm im SIEM-System)

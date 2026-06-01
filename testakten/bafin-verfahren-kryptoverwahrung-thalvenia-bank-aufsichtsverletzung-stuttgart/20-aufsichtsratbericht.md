@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: original_ausgehend
+absender: Thalvenia Bank AG; Vorstand; Koenigstrasse 87; 70173 Stuttgart
+adressat: Thalvenia Bank AG; Aufsichtsrat; z.Hd. Dr. Friedwart Loehndorff (Vorsitz); Koenigstrasse 87; 70173 Stuttgart
+datum: 15. Mai 2026
+az: Thalvenia/AR-Bericht/2026-Q2-04
+betreff: Bericht des Vorstands an den Aufsichtsrat gem. Paragraph 90 AktG - BaFin-Sonderpruefung
+vertraulichkeit: VERTRAULICH - AUFSICHTSRAT
+-->
+
 # 20 — Bericht an den Aufsichtsrat
 
 **Adressat:** Aufsichtsrat der Thalvenia Bank AG

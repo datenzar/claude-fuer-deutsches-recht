@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 12. April 2026
+az: SR-2026-FIN-0612 / Memo 11
+betreff: MAR-Marktmissbrauchsverdacht Eigenhandel Token TN - Rechtliche Bewertung Art. 15 MAR
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 11 — MAR-Marktmissbrauchsvorwurf Token TN
 
 **Rechtsgrundlage:** Verordnung (EU) 596/2014 (MAR), insb. Art. 15 (Marktmanipulationsverbot); MiCAR Art. 89-92 (Marktmissbrauchsregeln für Kryptowerte)

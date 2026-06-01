@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Schwertbeck Roosendaal mbB Rechtsanwaelte; Prof. Dr. Heinrich Schwertbeck; Mainzer Landstrasse 172; 60327 Frankfurt am Main
+adressat: Mandatsakte SR-2026-FIN-0612
+datum: 26. Maerz 2026
+az: SR-2026-FIN-0612 / Memo 05
+betreff: BaFin-Pruefungsschwerpunkte - Auswertung und Risikomatrix AML/Cybersecurity
+vertraulichkeit: ANWALTLICH PRIVILEGIERT
+-->
+
 # 05 — Prüfungsschwerpunkte AML und Cybersicherheit
 
 **Bezug:** BaFin-Prüfung VBS 4 1 7-K-22-188/2026
