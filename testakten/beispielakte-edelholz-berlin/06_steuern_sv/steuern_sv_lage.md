@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Falkenrieth & Partner StB-Gesellschaft mbB; StB Dipl.-Kffr. Andrea Falkenrieth; Friedrichstrasse 142; 10117 Berlin-Mitte
+adressat: Mandantenakte intern (Falkenrieth & Partner StB)
+datum: Stand: 30. April 2026
+az: Edelholz/2026/Steuern-SV-Lage
+betreff: Steuern und Sozialversicherung - Statusbericht 30. April 2026
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE / STEUERGEHEIMNIS
+-->
+
 # Steuern und Sozialversicherung – Lage 30.04.2026
 
 ## Finanzamt Berlin-Friedrichshain-Kreuzberg

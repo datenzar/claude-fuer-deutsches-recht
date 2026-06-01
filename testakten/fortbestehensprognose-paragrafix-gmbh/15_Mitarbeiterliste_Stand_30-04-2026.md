@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Paragrafix GmbH; People & Operations; Heidestrasse 78; 10557 Berlin
+adressat: Paragrafix GmbH; Mandantenakte intern (HRB 247841 B AG Charlottenburg); Heidestrasse 78; 10557 Berlin
+datum: Stand: 30. April 2026
+az: Paragrafix-Personal-30042026
+betreff: Mitarbeiterliste Paragrafix GmbH - Stand 30. April 2026 (anonymisiert)
+vertraulichkeit: VERTRAULICH - PERSONALDATEN / DSGVO
+-->
+
 # Vorschau: 15_Mitarbeiterliste_Stand_30-04-2026
 
 > Markdown-Vorschau der gleichnamigen XLSX-Datei. Berechnungen, Formeln und Formatierung nur im Original.

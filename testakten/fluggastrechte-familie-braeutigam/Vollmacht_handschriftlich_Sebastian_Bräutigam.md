@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: mandantenkorrespondenz
+absender: Dr. Sebastian Braeutigam; Privatperson; Hamburg
+adressat: Kanzlei Mandantenakte intern; Sachgebiet Reise- und Fluggastrechte; Hamburg
+datum: 20. Mai 2026
+az: Vollmacht-Braeutigam-20052026
+betreff: Handschriftliche Vollmacht zur Geltendmachung Fluggastrechte EG 261
+vertraulichkeit: VERTRAULICH - MANDATSGRUNDLAGE
+-->
+
 # Vorschau: Vollmacht_handschriftlich_Sebastian_Bräutigam
 
 > Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.

@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: bild_dokumentation
+absender: Yasmin Zaytuna-Braeutigam; Privatperson; Hamburg
+adressat: Mandantenakte intern (Kanzlei)
+datum: 12. April 2026, 03:22 Uhr Ortszeit Bangkok
+az: Braeutigam/Chat-Yasmin-Leila
+betreff: WhatsApp-Screenshot Yasmin/Leila Bangkok - Beweismittel Stresssituation
+vertraulichkeit: VERTRAULICH
+-->
+
 # Chatverlauf Yasmin/Leila — Screenshotbeschreibung
 
 Originaldatei: whatsapp-screenshot.png

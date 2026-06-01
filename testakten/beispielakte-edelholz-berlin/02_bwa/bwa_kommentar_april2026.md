@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: mandantenkorrespondenz
+absender: Falkenrieth & Partner StB-Gesellschaft mbB; StB Dipl.-Kffr. Andrea Falkenrieth; Friedrichstrasse 142; 10117 Berlin-Mitte
+adressat: Edelholz Manufaktur Berlin GmbH; Geschaeftsfuehrung Friedrich Korbach / Anouk Liesen; Koepenicker Strasse 187; 10997 Berlin
+datum: 12. Mai 2026
+az: Edelholz/2026/BWA-Kommentar-04
+betreff: Kommentar zur BWA Januar bis April 2026 - Mandanteninformation
+vertraulichkeit: VERTRAULICH - MANDANTENINFORMATION
+-->
+
 # BWA-Kommentar – Edelholz Manufaktur Berlin GmbH
 
 **Berichtszeitraum:** Januar – April 2026 (kumuliert)

@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Falkenrieth & Partner StB-Gesellschaft mbB; StB Dipl.-Kffr. Andrea Falkenrieth; Friedrichstrasse 142; 10117 Berlin-Mitte
+adressat: Mandantenakte intern (Falkenrieth & Partner StB)
+datum: Stand: 30. April 2026
+az: Edelholz/2026/Stammdaten
+betreff: Firmenstammblatt - Edelholz Manufaktur Berlin GmbH
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE
+-->
+
 # Firmenstammblatt – Edelholz Manufaktur Berlin GmbH
 
 | Feld | Wert |

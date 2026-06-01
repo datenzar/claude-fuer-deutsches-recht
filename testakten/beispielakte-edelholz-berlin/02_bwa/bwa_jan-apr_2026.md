@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Falkenrieth & Partner StB-Gesellschaft mbB; StB Dipl.-Kffr. Andrea Falkenrieth; Friedrichstrasse 142; 10117 Berlin-Mitte
+adressat: Mandantenakte intern (Falkenrieth & Partner StB)
+datum: 12. Mai 2026
+az: Edelholz/2026/BWA-04
+betreff: Betriebswirtschaftliche Auswertung Januar bis April 2026 - Vorschau
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE
+-->
+
 # Vorschau: bwa_jan-apr_2026
 
 > Markdown-Vorschau der gleichnamigen XLSX-Datei. Berechnungen, Formeln und Formatierung nur im Original.

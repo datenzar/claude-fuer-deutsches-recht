@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Falkenrieth & Partner StB-Gesellschaft mbB; StB Dipl.-Kffr. Andrea Falkenrieth; Friedrichstrasse 142; 10117 Berlin-Mitte
+adressat: Edelholz Manufaktur Berlin GmbH; Geschaeftsfuehrung Friedrich Korbach / Anouk Liesen; Koepenicker Strasse 187; 10997 Berlin
+datum: 18. Mai 2026
+az: Edelholz/2026/LiqPlan-13W
+betreff: Liquiditaetsplan 13 Wochen (Vorschau) - Stand 18. Mai 2026
+vertraulichkeit: VERTRAULICH - MANDANTENINFORMATION
+-->
+
 # Vorschau: liquiditaetsplan_edelholz
 
 > Markdown-Vorschau der gleichnamigen XLSX-Datei. Berechnungen, Formeln und Formatierung nur im Original.

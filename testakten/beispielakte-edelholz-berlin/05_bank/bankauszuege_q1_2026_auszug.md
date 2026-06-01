@@ -1,3 +1,14 @@
+<!-- AKTE-META
+typ: original_eingehend
+absender: Berliner Sparkasse; Niederlassung Mitte; Alexanderplatz 2; 10178 Berlin // Commerzbank AG; Filiale Berlin-Friedrichshain; Frankfurter Allee 32; 10247 Berlin
+adressat: Edelholz Manufaktur Berlin GmbH; Geschaeftsfuehrung Friedrich Korbach / Anouk Liesen; Koepenicker Strasse 187; 10997 Berlin
+datum: Auszuege Februar bis April 2026
+az: Edelholz/2026/Bank-Q1
+betreff: Bankauszuege - Auszug Februar bis April 2026 (beide Konten)
+eingangsstempel: Eingang StB Falkenrieth: laufend Q1/Q2 2026
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE
+-->
+
 # Bankauszüge – Auszug Februar bis April 2026
 
 > Beide Konten, jeweils Auszug der Kernbewegungen. Salden gerundet, Kennzeichen

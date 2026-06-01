@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: entwurf
+absender: Earlybird Venture Capital GmbH & Co. KG; General Partner Frederik Schoening; Ritterstrasse 12; 10969 Berlin-Kreuzberg
+adressat: Paragrafix GmbH; Geschaeftsfuehrung Dr. Carolin Vogt-Hesselbach; Heidestrasse 78; 10557 Berlin
+datum: Stand: April 2026 (non-binding)
+az: Earlybird-Paragrafix Series-A T2
+betreff: Non-Binding Term Sheet - Series A Financing Tranche 2 Disbursement Conditions
+vertraulichkeit: VERTRAULICH - VERHANDLUNGSGRUNDLAGE
+-->
+
 # Vorschau: 05_Term_Sheet_Series_A_Tranche_2
 
 > Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.

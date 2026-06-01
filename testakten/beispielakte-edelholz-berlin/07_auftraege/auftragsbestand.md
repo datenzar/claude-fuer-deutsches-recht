@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Falkenrieth & Partner StB-Gesellschaft mbB; StB Dipl.-Kffr. Andrea Falkenrieth; Friedrichstrasse 142; 10117 Berlin-Mitte
+adressat: Mandantenakte intern (Falkenrieth & Partner StB)
+datum: Stand: 30. April 2026
+az: Edelholz/2026/Auftragsbestand
+betreff: Auftragsbestand und offene Rechnungen - Stand 30. April 2026
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE
+-->
+
 # Auftragsbestand – Stand 30.04.2026
 
 | Auftrag | Kunde | Volumen netto | Status | Lieferung KW | Zahlungsziel | Bemerkung |

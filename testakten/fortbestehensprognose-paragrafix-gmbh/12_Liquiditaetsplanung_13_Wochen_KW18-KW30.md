@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: KMK Steuerberatungsgesellschaft mbH; StBin Dipl.-Bw. Claudia Steiglitz - zertifizierte Restrukturierungsberaterin (DGRV); Kurfuerstendamm 217; 10719 Berlin-Wilmersdorf
+adressat: Paragrafix GmbH; Mandantenakte intern (HRB 247841 B AG Charlottenburg); Heidestrasse 78; 10557 Berlin
+datum: 02. Mai 2026
+az: Paragrafix/12847/LiqPlan-13W
+betreff: Liquiditaetsplanung 13 Wochen KW 18-30/2026 (§ 17 InsO 3-Wochen-Test)
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE
+-->
+
 # Vorschau: 12_Liquiditaetsplanung_13_Wochen_KW18-KW30
 
 > Markdown-Vorschau der gleichnamigen XLSX-Datei. Berechnungen, Formeln und Formatierung nur im Original.

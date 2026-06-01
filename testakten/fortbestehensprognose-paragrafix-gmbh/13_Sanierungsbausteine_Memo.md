@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Paragrafix GmbH; Geschaeftsfuehrung Dr. Carolin Vogt-Hesselbach; Heidestrasse 78; 10557 Berlin
+adressat: Paragrafix GmbH; Beirat / Investor Earlybird VC (intern); Heidestrasse 78; 10557 Berlin
+datum: Q2 2026
+az: Paragrafix-Sanierungsbausteine-Q2-2026
+betreff: Internes Memorandum Sanierungsbausteine Q2 2026 - Vorbereitung Fortbestehensprognose § 19 Abs. 2 InsO
+vertraulichkeit: STRENG VERTRAULICH - INTERN
+-->
+
 # Vorschau: 13_Sanierungsbausteine_Memo
 
 > Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.

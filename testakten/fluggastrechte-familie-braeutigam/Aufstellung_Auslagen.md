@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Mandantenakte intern; Sachgebiet Reise- und Fluggastrechte; Hamburg
+adressat: Mandantenakte intern
+datum: 20. Mai 2026
+az: Braeutigam-Zaytuna/EG261/Auslagen
+betreff: Auslagenaufstellung Bangkok 11.-13.04.2026 - Vorschau
+vertraulichkeit: VERTRAULICH - MANDANTENAKTE
+-->
+
 # Vorschau: Aufstellung_Auslagen
 
 > Markdown-Vorschau der gleichnamigen XLSX-Datei. Berechnungen, Formeln und Formatierung nur im Original.

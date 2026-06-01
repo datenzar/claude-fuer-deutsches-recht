@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: bild_dokumentation
+absender: Dr. Sebastian Braeutigam; Privatperson; Hamburg
+adressat: Mandantenakte intern (Kanzlei)
+datum: 11. April 2026, 22:47 Uhr Ortszeit Bangkok
+az: Braeutigam/IMG-2451
+betreff: Bildbeschreibung handschriftlicher Notizzettel Bangkok Suvarnabhumi Airport Gate D5
+vertraulichkeit: VERTRAULICH
+-->
+
 # Bildbeschreibung IMG_2451 — handschriftliche Notiz Bangkok
 
 Originaldatei: IMG_2451.jpeg
