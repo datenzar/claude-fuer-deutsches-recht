@@ -1,3 +1,36 @@
+# v52.4.0 — Vergaberecht-Vertiefung + IDW-S-6-Korrektur
+
+Vertiefende Erweiterung des `fachanwalt-vergaberecht`-Plugins um 12 neue Spezial-Skills sowie inhaltliche Korrektur einer fehlerhaften Zuschreibung der IDW-S-6-Krisenstadien.
+
+## fachanwalt-vergaberecht: 12 neue Skills (16 -> 28)
+
+- `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` — Wertungsmatrix nach § 127 GWB / § 58 VgV, Auftragsbezug, Lebenszykluskosten, Wertungsrüge.
+- `fachanwalt-vergaberecht-olg-sofortige-beschwerde` — §§ 171-184 GWB, 2-Wochen-Frist, aufschiebende Wirkung § 173 GWB.
+- `fachanwalt-vergaberecht-schadensersatz-181-gwb` — § 181 GWB + BGB-Vorvertragsrecht, Echte-Chance-Doktrin BGH X ZR 100/04.
+- `fachanwalt-vergaberecht-sektorenvergabe-sektvo` — §§ 100-104 GWB + SektVO, Wasser/Energie/Verkehr/Post.
+- `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv` — Konzessionsbegriff Betriebsrisiko, KonzVgV-Verfahren.
+- `fachanwalt-vergaberecht-inhouse-interkommunal` — § 108 GWB, Teckal-Doktrin, Hamburg-Stadtreinigung.
+- `fachanwalt-vergaberecht-verhandlungsverfahren-dialog` — §§ 17-19 VgV, BAFO, Gleichbehandlung in Verhandlung.
+- `fachanwalt-vergaberecht-freiberufliche-leistungen-hoai` — § 50 VgV, HOAI nach EuGH C-377/17, Planungswettbewerb RPW 2013.
+- `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung` — § 97 Abs. 4 GWB, Fach- und Teillose, Eignungsleihe § 47 VgV.
+- `fachanwalt-vergaberecht-vergabesperre-korruption-selbstreinigung` — §§ 123-126 GWB, § 125 Selbstreinigung, Wettbewerbsregister § 8 WRegG.
+- `fachanwalt-vergaberecht-uvgo-unterschwellenvergabe` — UVgO Bund/Land, Primärrechtsschutz VG, Sekundärschutz LG.
+- `fachanwalt-vergaberecht-vob-a-bauvergabe` — VOB-A Abschnitte 1+2, Leistungsbeschreibung § 7, Nebenangebote § 8.
+
+## Inhaltliche Korrekturen
+
+- **IDW S 6 Stadienlehre**: Die fünf/sechs Krisenstadien (Stakeholder-, Strategie-, Produkt-/Absatz-, Erfolgs-, Liquiditätskrise, Insolvenzreife) korrekt als IDW-S-6-eigene Stadienlehre (in Anlehnung an Müller 1986) zugeordnet, nicht mehr als "Hauschka-Krisenmodell" bezeichnet.
+  - `steuerrecht-anwalt-und-berater/skills/stb-liquiditaetsvorschau-3-6-12-monate/references/idw-s6-kernelemente.md`
+  - `testakten/beispielakte-edelholz-berlin/liquiditaetsplan_edelholz.md`
+
+## Zahlen
+
+- 112 Plugins (unverändert)
+- 2903 Skills (vorher 2891)
+- alle plugin.json + marketplace.json auf 52.4.0
+
+---
+
 # v52.3.0 — Außenwirtschaft, Sozialrecht-Laienhilfe und bessere Einstiege
 
 Sammelrelease mit neuen und vertieften Skills fuer Aussenwirtschaft, Sozialrecht, juristische Sprachhilfe und juristische Arbeitsmethodik.

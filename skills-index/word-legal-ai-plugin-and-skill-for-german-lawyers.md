@@ -1,6 +1,6 @@
 # word-legal-ai-plugin-and-skill-for-german-lawyers
 
-**39 Skills** · Stand `v52.3.0`
+**39 Skills** · Stand `v52.4.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/word-legal-ai-plugin-and-skill-for-german-lawyers/README.md)

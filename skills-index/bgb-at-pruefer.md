@@ -1,6 +1,6 @@
 # bgb-at-pruefer
 
-**53 Skills** · Stand `v52.3.0`
+**53 Skills** · Stand `v52.4.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/bgb-at-pruefer/README.md)
