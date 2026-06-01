@@ -21,10 +21,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Checkout** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Checkout-Prozess Barrierefreiheit** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Beweislast und Darlegungslast Checkout-Barrierefreiheit
+- **Anwendungsbereich BFSG:** § 1 Abs. 3 Nr. 5 BFSG erfasst elektronischen Geschäftsverkehr — Checkout-Prozesse von Webshops sind in der Regel betroffen.
+- **Beweislast Wirtschaftsakteur (§§ 5, 6 BFSG):** Konformitätsvermutung bei Anwendung EN 301 549. Bei behördlicher Beanstandung muss er nachweisen, dass Audit erfolgte und Norm angewandt wurde.
+- **Beweislast Verbraucher:** muss konkrete Barriere darlegen (z. B. "Tastatur-Bedienung des Checkout-Buttons nicht möglich", "Screenreader liest Preis nicht vor", "Captcha ohne Audio-Alternative").
+- **Substantiierung:** Screenshots, Video-Aufnahme der Hilfsmittel-Bedienung, Konformitätserklärung, Audit-Bericht.
+- **Typische Mängel im Checkout:** Tastatur-Falle (Fokus springt nicht zurück), fehlende ARIA-Labels für Eingabefelder, Captcha ohne Audio, dynamische Fehlermeldungen ohne Screenreader-Ansage, Modal-Dialog-Fokus-Management.
+
+## Praxis-Tipp
+Für Klägerseite: Konkrete Barriere mit Hilfsmittel demonstrieren (z. B. NVDA-Aufnahme), nicht abstrakt "Seite ist nicht barrierefrei" behaupten. Für Beklagtenseite: Audit-Bericht mit Datum, Methodik, Geltungsbereich vorlegen. Häufig ist der Audit veraltet oder die Versionsbestätigung fehlt — das ist angreifbar.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

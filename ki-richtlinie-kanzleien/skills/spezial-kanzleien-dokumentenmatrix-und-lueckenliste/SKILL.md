@@ -21,10 +21,34 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kanzleien** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kanzlei-KI-Dokumente** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Kanzlei-KI-Dokumentenmatrix
+| Dokument | Pflicht aus | Mindestinhalt | Verantwortlich |
+|---|---|---|---|
+| KI-Richtlinie | Art. 4 KI-VO, § 43e BRAO | Zweck, Geltungsbereich, Tools, Daten, Verantwortliche, Sanktionen | Geschäftsleitung/Partnerschaft |
+| Tool-Whitelist | KI-Richtlinie | Tool, Anbieter, Hosting, AVV-Status, DPF/SCC, Datenkategorien | IT/DSB |
+| AVV je Tool | Art. 28 DSGVO | Weisung, Vertraulichkeit, TOM-Anlage, Subunternehmer | Vertragsmanagement |
+| TIA bei US-Cloud | Schrems II / EDSA 01/2020 | Behördenzugriff, Verschlüsselung, Lawful Access | DSB + IT-Sicherheit |
+| Schulungsnachweise | Art. 4 KI-VO | Datum, Inhalte, Teilnehmer | HR/IT |
+| Verzeichnis Art. 30 DSGVO | Art. 30 DSGVO | Verarbeitungstätigkeiten | DSB |
+| DSFA bei Hochrisiko | Art. 35 DSGVO | Risiken, Maßnahmen, Restrisiko | DSB |
+| Aufklärung Mandant | § 49b BRAO ggf. | Tool-Hinweis im Mandatsvertrag | Anwalt |
+| Betriebsvereinbarung | § 87 Abs. 1 Nr. 6 BetrVG | Beteiligung Betriebsrat | Personalleitung |
+
+## Lückenliste typischer Versäumnisse
+1. KI-Richtlinie ohne Tool-Whitelist (operativ leer).
+2. AVV ohne Mitwirkenden-Verpflichtung § 203 Abs. 4 StGB.
+3. TIA fehlt bei US-Cloud-Tools.
+4. Kein Schulungsnachweis trotz Art. 4 KI-VO seit 02.02.2025.
+5. Verzeichnis Art. 30 DSGVO veraltet (kein neues Tool eingetragen).
+6. Mandatsvertrag ohne KI-Hinweis bei Tools, die mit Mandantendaten arbeiten.
+
+## Praxis-Tipp
+Bei Erstprüfung einer Kanzlei zuerst diese Matrix tabellarisch erstellen — meistens fehlen 3-5 zentrale Dokumente. Die Behebung ist auch operativ relativ schnell möglich, sobald die Lücke benannt ist.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

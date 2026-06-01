@@ -51,3 +51,22 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Pflegegrad-Widerspruch / Module - Themenspezifika
+- **Rechtsgrundlage:** §§ 14, 15 SGB XI (Pflegebeduerftigkeit, Module); § 18 SGB XI (Begutachtung MD); § 84 SGG (Widerspruchsfrist 1 Monat); Begutachtungsrichtlinien (BRi) des GKV-Spitzenverbands.
+- **Modul-Detailpruefung beim Widerspruch:**
+  - **Modul 1 Mobilitaet (10 %):** Positionswechsel im Bett, Halten stabiler Sitzposition, Umsetzen, Fortbewegen, Treppensteigen.
+  - **Modul 2 kognitive und kommunikative Faehigkeiten (15 % gemeinsam mit M3):** Erkennen Personen / Orientierung, Steuerung mehrschrittiger Alltagshandlungen, Entscheidungen treffen, Verstehen Aufforderungen.
+  - **Modul 3 Verhaltensweisen / psychische Problemlagen (15 % gemeinsam mit M2):** motorische Verhaltensweisen, Naechtliche Unruhe, Aengste, Wahnvorstellungen, Aggression.
+  - **Modul 4 Selbstversorgung (40 % - hoechstes Gewicht!):** Waschen, Koerperpflege, Kleiden, Ernaehrung, Toilette.
+  - **Modul 5 Bewaeltigung krankheits-/therapiebedingter Anforderungen (20 %):** Medikamentengabe, Injektionen, Wundpflege, Arztbesuche, Therapien.
+  - **Modul 6 Gestaltung Alltagsleben und sozialer Kontakte (15 %):** Tagesablauf, freie Zeit, ausgewaehlte Kontakte, Ausflug.
+- **Pflegegrade-Punkteschwellen § 15 SGB XI:** PG 1 (12,5-26,99), PG 2 (27-47,49), PG 3 (47,5-69,99), PG 4 (70-89,99), PG 5 (90-100).
+- **Widerspruchsstrategie:**
+  - **MD-Gutachten anfordern (Akteneinsicht § 25 SGB X)** und Modul fuer Modul kritisch lesen.
+  - **Pflegetagebuch** ueber 14 Tage detailliert (Zeitangaben fuer jede Hilfeleistung).
+  - **Stellungnahmen** Bezugspersonen / Pflegekraefte / Hausarzt; Schweigepflichtentbindung.
+  - **Konkrete Beispiele** aus Alltag - Diagnosen allein reichen nicht; Funktionsbeeintraechtigung beschreiben.
+  - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.
+- **Klage SG** nach erfolglosem Widerspruch (1 Monat § 87 SGG); **§ 109 SGG** Wahl-Sachverstaendiger.
+- **Praxis-Tipp:** Bei demenzkranken Personen Module 2, 3, 5, 6 detailliert dokumentieren; bei orthopaedischen / neurologischen Erkrankungen Module 1 und 4; objektivierende Hilfsmittel zur Beweisstaerkung (Bewegungsmessungen, Verbrauchsdokumentation Inkontinenz).

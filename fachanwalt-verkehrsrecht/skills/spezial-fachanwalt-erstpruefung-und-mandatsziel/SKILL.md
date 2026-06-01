@@ -37,3 +37,26 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Fachanwalt-Verkehr Erstpruefung Mandatsziel Bausteine
+- **Saeule-Identifikation in der Triage:**
+  - (a) Verkehrszivilrecht (Unfall, Schadenersatz, Versicherer-Streit).
+  - (b) Verkehrs-OWi (Bussgeldbescheid, Punkte, Fahrverbot).
+  - (c) Verkehrsstrafrecht (§§ 142, 222, 229, 315 ff., 316 StGB).
+  - (d) Verkehrsverwaltungsrecht (FeV-Entziehung, MPU, Wiedererteilung).
+  - (e) Versicherungsrecht (Kasko-Ablehnung, Insassenversicherung).
+- **Rolle-Klaerung:** Geschaedigter, Schaediger, Halter, Fahrer, Versicherungsnehmer, Beschuldigter, Antragsteller FE-Wiedererteilung; ggf. mehrere Rollen parallel.
+- **Mandatsziel-Hierarchie nach Saeule:**
+  - **Zivil:** Schaden vollumfaenglich; Mietwagen / Nutzungsausfall; Wertminderung; Personenschaden Schmerzensgeld § 253 BGB.
+  - **OWi:** Fahrverbot abwenden, Punkte vermeiden, Geldbusse reduzieren.
+  - **Strafrecht:** Schuldspruch vermeiden, Strafmilderung, Fahrerlaubnis erhalten / wiedererlangen.
+  - **Verwaltungsrecht:** MPU-Vorbereitung, Sperrenkürzung, Wiedererteilung.
+  - **Versicherung:** Kostenerstattung, Leistungserschwerden, Schadenfreiheitsrabatt.
+- **Sofort-Massnahmen:**
+  - Unfallregulierung: Schadenanzeige, SV-Gutachten beauftragen (eigener SV bei klarer Haftung), Werkstatt einleiten.
+  - OWi: Akteneinsicht § 49 OWiG; Schweigerecht § 55 OWiG.
+  - Strafrecht: Verteidigerbestellung § 137 StPO; Schweigerecht § 136 StPO; bei vorlaeufiger Entziehung Fuehrerschein § 111a StPO Beschwerde.
+  - FeV: Anhoerungstermin wahrnehmen; ggf. Stellungnahme einreichen.
+- **Frist-Re-Check:** § 195 BGB / § 199 BGB Schaden; § 67 OWiG 2 Wochen; § 410 StPO 2 Wochen; § 314 StPO 1 Woche; § 30 VVG unverzueglich; § 25 IIa StVG 4-Monatsfrist Fahrverbot.
+- **Rechtsschutzversicherungs-Deckungsanfrage** sofort (RS-Versicherer informieren; Wartezeit pruefen).
+- **Mandatsmatrix erstellen:** mit Mandantenfreigabe schriftlich fuer alle weiteren Schritte (Strategie, Vergleich, Klage, Einspruch, Verzicht).

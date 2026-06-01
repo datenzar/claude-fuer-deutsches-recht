@@ -6,7 +6,24 @@ description: "Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: m
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `markenrecht-fashion-luxus` Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill ordnet alle markenrechtlich relevanten Daten (Anmeldetage, Benutzungsdokumente, Registerstand, Kampagnen, Abmahnungen, Lieferketten-Vertragsdaten) in eine Timeline mit Belegmatrix.
+
+## Pflichtdaten Markenrecht (Timeline)
+- **Prioritätsdatum / Anmeldetag** der eigenen und der Gegenmarke (für Verwechslungsgefahrs-Prüfung und älteres Recht).
+- **Veröffentlichung der Anmeldung** (Beginn Widerspruchsfrist § 42 MarkenG: 3 Monate).
+- **Eintragungsdatum** (Beginn der 10-Jahres-Schutzdauer, Verlängerung § 47 MarkenG vor Ablauf).
+- **Benutzungsbeginn** (für 5-Jahres-Frist nach §§ 25, 26 MarkenG -- Verfallsschutz).
+- **Kampagnenstart, Look-Book-Datum, Pressetermin** (für Bekanntheitserwerb § 14 Abs. 2 Nr. 3 MarkenG).
+- **Distributions-/Lizenz-Vertragsdaten** (selektives System Coty C-230/16, vom 06.12.2017).
+- **Abmahnungseingang** (Beginn Reaktionsfrist; 1-2 Wochen üblich) und ggf. Schutzschriftendatum.
+- **Eilrechtsschutz-Schwelle:** je nach OLG ca. 4 Wochen ab Kenntnis (siehe Selbstwiderlegungsdoktrin; OLG-Praxis prüfen).
+
+## Belegmatrix-Spalten
+- Datum | Ereignis | Quelle (Registerauszug, Vertrag, Foto, E-Mail) | Norm-Anker | Relevanz / Folge | offene Frage.
+
+## Anti-Muster
+- Bekanntheitsbehauptung ohne empirischen Beleg (Marktanteil, Werbeaufwand, Verkehrsbefragung).
+- Datum ohne Quelle in der Belegmatrix.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

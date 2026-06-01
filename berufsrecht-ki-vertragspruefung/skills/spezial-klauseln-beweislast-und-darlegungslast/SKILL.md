@@ -21,10 +21,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Klauseln** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Vertragsklauseln Berufsrecht-KI** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Pflichtklauseln in AVV mit KI-Anbieter (Berufsrechtsperspektive)
+1. **Weisungsbindung Art. 28 Abs. 3 lit. a DSGVO:** Verarbeitung nur auf dokumentierte Weisung des Verantwortlichen.
+2. **Verschwiegenheit Art. 28 Abs. 3 lit. b DSGVO:** Mitarbeitende des Auftragsverarbeiters auf Verschwiegenheit verpflichtet.
+3. **§ 203 Abs. 4 StGB Mitwirkende-Verpflichtung:** Ausdrückliche Verpflichtung des Anbieter-Personals i.S.d. § 203 Abs. 4 — zwingend für Berufsträger mit Schweigepflicht.
+4. **TOM Art. 32 DSGVO** als Anlage mit konkreten Maßnahmen, nicht pauschal "Stand der Technik".
+5. **Unterauftragsverarbeiter Art. 28 Abs. 2 und Abs. 4 DSGVO:** Liste + Genehmigungsmechanismus.
+6. **Audit-Recht Art. 28 Abs. 3 lit. h DSGVO:** mind. einmal jährlich, ggf. durch Dritte.
+7. **Löschung/Rückgabe Art. 28 Abs. 3 lit. g DSGVO:** bei Vertragsende; Lösch-/Rückgabe-Nachweis.
+8. **Drittlandstransfer:** Modul-SCC + ggf. TIA + DPF-Erklärung bei US-Anbietern.
+
+## Beweislast und Darlegungslast
+- **Auf Anbieterseite:** Pflicht zur Vorlage von TOM, Subunternehmerlisten, ISO/SOC-Zertifikaten, Audit-Berichten.
+- **Auf Berufsträgerseite:** Pflicht zur Dokumentation der eigenen Auswahlentscheidung (sorgfältige Anbieter-Auswahl § 28 Abs. 1 DSGVO).
+- **Bei Streit:** Vorlagepflichten nach § 142 ZPO und Auskunftsanspruch Art. 15 DSGVO ergänzen klassische Beweislast.
+
+## Praxis-Tipp
+Eine AVV-Klausel "Mitarbeitende sind auf Verschwiegenheit i.S.d. § 203 StGB verpflichtet" ist Mindeststandard, nicht optional. Fehlt sie, bleibt das berufsrechtliche Risiko trotz Art. 28 DSGVO bestehen — § 203 StGB ist eigenständig neben DSGVO.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

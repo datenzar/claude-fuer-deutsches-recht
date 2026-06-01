@@ -37,3 +37,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Fahrtkosten konkret nach JVEG
+- **§ 5 Abs. 1 JVEG:** PKW: 0,42 EUR je gefahrenem Kilometer. Bei mehreren Personen in einem PKW: keine Mehrung pro Person.
+- **§ 5 Abs. 2 JVEG:** öffentliche Verkehrsmittel: Erstattung der notwendigen Kosten (Bahn 2. Klasse, in Sonderfällen 1. Klasse mit Begründung); BahnCard (BC50/100) anteilig.
+- **§ 5 Abs. 3 JVEG:** Taxi nur, wenn andere Verkehrsmittel nicht zumutbar (Zeit, Witterung, Gepäck).
+- **§ 6 JVEG:** Tagegeld und Übernachtungsgeld nach BRKG (Bundesreisekostengesetz) -- Tagegeld z. B. 14 EUR (8-24 h), 28 EUR (volle Tage); Stand BRKG live prüfen.
+- **Sammelreise:** mehrere Termine an einem Tag werden in einer Reise zusammengefasst; Anteil pro Verfahren.
+
+## Häufige Streitpunkte
+- "Privatfahrzeug" vs. Dienstfahrzeug -- nur tatsächlich getragene Kosten.
+- Längere Reisedauer gegen kürzeren teureren Weg: Verhältnismäßigkeit (§ 8 Abs. 2 JVEG: nur erforderlicher Aufwand).
+- Belegpflicht bei Übernachtung: tatsächliche Hotelrechnung, max. Pauschalsatz nach BRKG.
+
+## Output
+- Reisekostenmatrix: Datum, von-nach, Verkehrsmittel, km / Ticketkosten, Übernachtung, Tagegeld, Belege, Position JVEG.

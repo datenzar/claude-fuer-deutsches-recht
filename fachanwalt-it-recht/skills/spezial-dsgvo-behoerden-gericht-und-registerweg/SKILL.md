@@ -21,10 +21,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DSGVO** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DSGVO-Behördenwege** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## DSGVO-Behördenwege
+- **Federführende Aufsicht (One-Stop-Shop):** Art. 56 DSGVO — bei grenzüberschreitender Verarbeitung die Aufsicht der Hauptniederlassung.
+- **In DE:** 
+  - **BfDI** für Bundesbehörden, Telekommunikation, Post.
+  - **Landesdatenschutzbehörden** für privatwirtschaftliche Verantwortliche im jeweiligen Bundesland.
+  - **DSK (Datenschutzkonferenz):** Beschlüsse, Kurzpapiere — kein eigener Adressat, aber Auslegungshilfe.
+- **Beschwerderechte:**
+  - **Art. 77 DSGVO:** Beschwerde Betroffener bei Aufsichtsbehörde.
+  - **Art. 78 DSGVO:** wirksamer gerichtlicher Rechtsbehelf gegen Aufsichtsbehörde (in DE: VG-Klage).
+  - **Art. 79 DSGVO:** wirksamer gerichtlicher Rechtsbehelf gegen Verantwortlichen (in DE: ZG-Klage).
+  - **Art. 82 DSGVO:** Schadensersatz (immateriell + materiell), ZG-Klage; EuGH C-300/21 (UI vs. Österreichische Post): Schwellenwert "spürbarer Schaden" nicht erforderlich, aber konkreter Nachweis der Beeinträchtigung.
+- **Behördenformulare:**
+  - Meldung Datenpanne online beim BfDI / LDI-Portal.
+  - Verfahrensverzeichnis (intern, kein Behörden-Formular).
+
+## Praxis-Tipp
+Bei Schadensersatzklage Art. 82 DSGVO ist nach EuGH C-300/21 keine Erheblichkeitsschwelle erforderlich, aber: der Schaden muss konkret dargelegt werden (z. B. Kontrollverlust, emotionale Belastung, drohende Identitätsmissbrauchsfolgen). Pauschalbehauptung "Ich bin entsetzt" trägt nicht — konkrete Darstellung der Beeinträchtigung ist erforderlich.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

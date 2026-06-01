@@ -21,10 +21,25 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Legal** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Legal-AI Berufsrecht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Behörden- und Gerichtswege bei Legal-AI / Berufsrecht
+- **Berufsständische Aufsicht:**
+  - **Rechtsanwaltskammer** (regional, z. B. RAK Berlin, RAK München) — Beschwerden, Aufsichtsverfahren nach BRAO, anwaltsgerichtliche Maßnahmen § 113 BRAO.
+  - **Steuerberaterkammer** (regional) — analog StBerG.
+  - **Wirtschaftsprüferkammer** (WPK Berlin) — analog WPO.
+  - **Notarkammer** (regional) — analog BNotO.
+  - **Patentanwaltskammer** (PAK München) — analog PAO.
+- **Anwaltsgerichte** (§§ 92 ff. BRAO): I. Instanz Anwaltsgericht (regional), II. Instanz Anwaltsgerichtshof, III. Instanz BGH.
+- **Datenschutzbehörden** (BfDI / LDI / LDA): bei DSGVO-Verstoß; nicht spezifisch für KI.
+- **EU-Kommission AI Office:** für KI-VO-Compliance-Fragen (digital-strategy.ec.europa.eu).
+- **Strafverfolgung § 203 StGB:** Staatsanwaltschaft auf Antrag § 205 StGB (Antragsdelikt); Anzeige durch Mandanten oder Berufskollegen.
+
+## Praxis-Tipp
+Anwaltsgerichtliche Verfahren laufen oft parallel zu zivilrechtlichen Haftungsklagen — z. B. § 203 StGB-Strafverfahren, § 113 BRAO anwaltsgerichtliches Verfahren und § 280 BGB-Schadensersatzklage gegen Anwalt. Mandanten verbergen diese Parallelität oft, fragen Sie aktiv nach Anwaltskammer- oder Strafverfahrensstand.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

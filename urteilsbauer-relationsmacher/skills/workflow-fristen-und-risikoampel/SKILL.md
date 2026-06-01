@@ -6,7 +6,23 @@ description: "Fristen- und Risikoampel im Plugin urteilsbauer-relationsmacher: m
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `urteilsbauer-relationsmacher` Fristen- und Risikoampel im Plugin urteilsbauer-relationsmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill markiert für Richter/innen und Referendar/innen im Zivilprozess die zentralen Fristen und prozessualen Risiken bei der Urteilsabsetzung und Relation.
+
+## Fristen Urteilsabsetzung (Zivilprozess)
+- **Urteilsfrist § 315 ZPO:** Urteil ist binnen 3 Wochen nach Verkündung zur Geschäftsstelle zu übergeben (Aktenlauf); ohne vollständige Niederschrift kann Berufung erfolgreich rügen.
+- **Tatbestandsberichtigung § 320 ZPO:** Antrag innerhalb von 2 Wochen ab Zustellung des Urteils.
+- **Urteilsergänzung § 321 ZPO:** Antrag binnen 2 Wochen.
+- **Berufung:** Berufungsschrift 1 Monat (§ 517 ZPO), Begründung 2 Monate (§ 520 ZPO).
+- **Vorab-Tenor mit Gründen nach Lage der Akten möglich**, wenn Sache reif ist und keine Partei mündliche Verhandlung verlangt.
+
+## Risiken / Anti-Muster
+- **Rot:** Urteil ohne Rechtsbehelfsbelehrung -- Berufungsfrist beginnt nicht.
+- **Rot:** Tenor unbestimmt ("an die Klägerin zu zahlen, was sie erforderlich hat") -- nicht vollstreckbar; Aufhebung in der Berufung.
+- **Rot:** Wertung im Tatbestand statt in den Entscheidungsgründen.
+- **Rot:** Beweismaß-Verwechslung (§ 286 statt § 287 ZPO bei Schadenshöhe) -- Begründungsmangel.
+- **Gelb:** Tatbestand verweist auf "Anlage K1" ohne Wiedergabe des wesentlichen Inhalts -- Berufungsgericht nicht informiert.
+- **Gelb:** Kostenentscheidung ohne § 92 Abs. 2 ZPO bei nur geringer Zuvielforderung.
+- **Gelb:** Vorläufige Vollstreckbarkeit nach § 709 vs. § 711 ZPO falsch gewählt.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

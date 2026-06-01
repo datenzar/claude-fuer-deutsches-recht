@@ -6,7 +6,22 @@ description: "Chronologie und Belegmatrix im Plugin meinungspruefer: macht aus u
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `meinungspruefer` Chronologie und Belegmatrix im Plugin meinungspruefer: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill baut zu einer streitigen Äußerung eine vollständige Chronologie und Belegmatrix: Veröffentlichung, Reichweite, Reaktionen, Kenntniserlangung des Betroffenen, anwaltliche Schritte, Plattform-Meldungen.
+
+## Pflicht-Daten Äußerungsrecht
+- **Erstveröffentlichung:** Datum, Uhrzeit, Plattform, URL, Verfasser, Reichweite (Followerzahl, Reach).
+- **Folge-/Spiegelveröffentlichungen:** Retweets, Shares, Crossposts, Presseübernahme -- jede zählt eigenständig (sog. "Hop-Doktrin"; jedes Verbreiten eigener Anspruch).
+- **Erstveröffentlichung-Backup:** Wayback Machine, Archive.today, eigene Screenshots mit Datum/Uhrzeit-Stempel.
+- **Kenntniserlangung Betroffener** (für Eilfristen Verfügungsgrund): wann wurde Betroffener informiert?
+- **Plattform-Meldung (DSA Art. 16):** Datum, Inhalts-URL, Meldungstext, Plattform-Antwort.
+- **Außergerichtliche Aufforderung:** Datum Abmahnung, Frist, Antwort.
+- **Gerichtliche Schritte:** Antrag eV, Verfügungsbeschluss, Termin.
+
+## Belegmatrix
+- Datum | Ereignis | URL/Quelle | Screenshots | Norm-Anker (Art. 5 GG; § 823 BGB; §§ 185 ff. StGB) | Folge / Frist | offene Frage.
+
+## Eilfristen-Hinweis
+- Verfügungsgrund regelmäßig nur ca. 4 Wochen ab Kenntnis (Selbstwiderlegungsdoktrin; OLG-spezifisch prüfen). Frist beginnt mit positiver Kenntnis, nicht bei bloßer Möglichkeit der Kenntnis.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

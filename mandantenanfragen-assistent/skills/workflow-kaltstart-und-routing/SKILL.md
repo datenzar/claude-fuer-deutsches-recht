@@ -6,7 +6,23 @@ description: "Kaltstart und Routing im Plugin mandantenanfragen-assistent: führ
 # Kaltstart und Routing
 
 ## Aufgabe
-Dieser Workflow-Skill für `mandantenanfragen-assistent` Kaltstart und Routing im Plugin mandantenanfragen-assistent: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill prüft eingehende Mandantenanfragen binnen Minuten auf Eilbedarf, Konflikt, Mandatsfähigkeit und beste Antwortroute. Er ist das Türschloss der Kanzlei und reduziert späteren Korrekturaufwand.
+
+## Erste 4-Minuten-Triage
+1. **Eingangsdatum, Frist?** Klagefrist (Kündigungsschutz § 4 KSchG: 3 Wochen), Widerspruch (1 Monat § 70 VwGO / § 84 SGG), Einspruch Mahnbescheid (2 Wochen § 694 ZPO), Strafbefehl (2 Wochen § 410 StPO).
+2. **Konfliktcheck (§ 43a Abs. 4 BRAO):** Mandant gegen aktuellen oder früheren Mandanten? Datenbank konsultieren.
+3. **Zuständigkeit:** Eigenes Fachgebiet? Sonst Verweisung an Kollegen oder Rechtsanwaltskammer (§ 49 BRAO Hinweispflicht).
+4. **Beratungsstufe:** Vorprüfung (kostenlos), Erstberatung (§ 34 RVG: max. 190 EUR netto Verbraucher), Folge-Mandat mit RVG / Honorarvereinbarung (§ 3a RVG schriftlich/Textform).
+
+## Routing-Optionen
+- **Eilig + zuständig:** sofort Mandatsannahme in Textform; Vorbestätigung Eingang; parallel inhaltliche Klärung.
+- **Eilig + nicht zuständig:** Hinweis und sofortige Verweisung; ggf. interim Notmaßnahme dokumentieren.
+- **Nicht eilig + zuständig:** Erstberatungsangebot mit Kostenhinweis (§ 49b Abs. 5 BRAO Pflicht zur Kostenaufklärung).
+- **Beratungshilfeberechtigt:** Hinweis auf Beratungshilfeschein des AG (BerHG).
+
+## Anti-Muster
+- Mandatsannahme ohne Vergütungsregelung -> Honorarstreit.
+- Ad-hoc-Rechtsauskunft per E-Mail ohne Mandatsverhältnis -> Haftungsrisiko (§ 280 BGB i. V. m. Auskunftsvertrag).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -33,3 +33,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## OWi-Routing nach Verfahrensstand und Tatkonstellation
+- **Anhoerung / Zeugenfragebogen-Phase:** Beratung Schweigerecht § 55 OWiG; Halterauskunft § 31a StVZO; Verteidigerbestellung.
+- **Nach Bussgeldbescheid §§ 65 ff. OWiG:**
+  - Akteneinsicht § 49 OWiG i.V.m. § 147 StPO sofort.
+  - Einspruch § 67 OWiG 2 Wochen oder Beschraenkung Rechtsfolgenausspruch.
+  - Beweisantraege bzgl. Messverfahren.
+- **Hauptverhandlung AG (§ 71 OWiG):** Beweisaufnahme; Zeugenbenennung Polizeibeamte / Messbeamter; ggf. Sachverstaendigengutachten (Messsystem); Pladoyer; Urteil.
+- **Schriftliches Verfahren § 72 OWiG:** moeglich mit Einverstaendnis; Vorteil keine Hauptverhandlung; Nachteil keine Beweisaufnahme.
+- **Rechtsbeschwerde §§ 79, 80 OWiG** (zum OLG): Zulassungspflicht ab Geldbusse 100-249,99 EUR; ueber 250 EUR freie Rechtsbeschwerde. Frist 1 Woche / 1 Monat.
+- **Tatkonstellations-spezifische Anschluss-Skills:**
+  - **Geschwindigkeitsverstoss:** PoliScan, Leivtec, ES 8.0/3.0, TraffiStar - Messverfahren-Skill.
+  - **Abstandsverstoss:** VKS 3.0 / VPS 3.0, VDR - Abstandsmessung-Skill.
+  - **Rotlichtverstoss:** Ampelphasen-Pruefung, qualifizierter Rotlichtverstoss (1+ Sek).
+  - **Handy / Elektronikgeraet:** § 23 Ia StVO Tatbestandsausweitung 2017.
+  - **Alkohol § 24a StVG:** 0,5 / 1,1 Promille Grenzen, Atemalkoholmessung.
+  - **Drogen § 24a II StVG:** Anlage zu § 24a, Wirkstoffe.
+  - **Abstands-/Geschwindigkeitsfeststellung in BAB-Kombi** (Section Control / ESO).
+- **Mandantenrolle-spezifisch:** Halter (Fahrtenbuchauflage § 31a StVZO), Fahrer (OWi-Verfahren).

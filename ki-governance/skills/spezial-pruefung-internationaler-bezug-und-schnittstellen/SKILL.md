@@ -21,10 +21,33 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pruefung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **KI-Governance internationaler Bezug** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Internationaler Bezug KI-Governance
+- **KI-VO räumlicher Anwendungsbereich Art. 2:**
+  - Anbieter mit Sitz in EU oder Drittstaat, der KI-System in EU in Verkehr bringt;
+  - Betreiber in EU;
+  - Anbieter/Betreiber in Drittstaat, deren Output in EU genutzt wird.
+- **US-EU-Schnittstelle:**
+  - **DPF (Data Privacy Framework)** für DSGVO-Transfer; aktuelle Liste dataprivacyframework.gov.
+  - **SCC (Standardvertragsklauseln)** Beschluss 2021/914 — Modul je nach Konstellation.
+  - **TIA (Transfer Impact Assessment)** nach Schrems II; ggf. Zusatzmaßnahmen (Verschlüsselung, Pseudonymisierung).
+- **UK-Schnittstelle:** Adäquanzbeschluss EU-UK; UK Data Protection Act 2018 sehr DSGVO-nah.
+- **Schweiz-Schnittstelle:** Schweizer DSG; Adäquanzbeschluss EU-CH; FADP-Anpassungen für EU-Transfer.
+- **China:** strikte Datenexport-Vorgaben PIPL; bei Datenexport aus China spezielle SCC erforderlich.
+- **USA Cloud Act 2018:** US-Behörden können Datenzugriff bei US-Cloud-Anbietern verlangen, auch bei EU-Daten — relevanter Punkt im TIA.
+
+## Schnittstellen zu anderen EU-Rechtsakten
+- **DSGVO** ↔ **KI-VO**: kumulativ; DSFA und KI-VO-Risikobewertung können koordiniert werden.
+- **DSA** ↔ **KI-VO**: bei KI-gestützter Inhaltsmoderation Art. 16, 17 DSA + KI-VO Pflichten.
+- **NIS2** ↔ **KI-VO**: Cybersicherheit-Anforderungen Art. 15 KI-VO + NIS2-Risikomanagement.
+- **DORA** ↔ **KI-VO**: für Finanzdienstleister; DORA als lex specialis für IKT-Risiko.
+
+## Praxis-Tipp
+Bei multinationaler KI-Nutzung pro Tool/Anbieter eine Schnittstellenmatrix führen: Welche Datenarten gehen wohin? Welche Rechtsgrundlage je Jurisdiktion? Welche behördliche Aufsicht (BfDI vs. ICO vs. CNIL)? Pauschalkonzepte funktionieren bei US-Cloud nicht — Detailprüfung pro Land.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

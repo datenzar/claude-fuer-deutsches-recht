@@ -51,3 +51,18 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Dolmetscher / Sprache - Themenspezifika
+- **Rechtsgrundlage:** §§ 17, 19 SGB X (Anhoerung in verstaendlicher Sprache; Recht auf Dolmetscher); § 185 GVG (gerichtliche Verhandlung in deutscher Sprache; Dolmetscher Pflicht bei Nichtdeutschen / Hoer-/Sprachbehinderten); § 187 GVG (Dolmetscherkostenuebernahme).
+- **Im Verwaltungsverfahren § 19 SGB X:** Behoerde muss bei Sprachbarriere fuer Dolmetscher sorgen oder den Beteiligten in die Lage versetzen, sich verstaendlich zu aeussern; ggf. schriftliche Uebersetzung wesentlicher Schreiben.
+- **Im Sozialgerichtsverfahren §§ 61, 185 GVG / § 202 SGG i.V.m. §§ 185 ff. GVG:** Pflichtdolmetscher; kostenfrei fuer Beteiligte (§ 183 SGG Gerichtskostenfreiheit).
+- **JVEG-Verguetung Dolmetscher** §§ 8 ff. JVEG; Stundensatz zwischen 70 und 95 EUR je nach Sprachseltenheit; ohne Wartezeit / Anfahrt.
+- **EuGH Rsp. zu Recht auf Dolmetscher** (RL 2010/64/EU primaer fuer Strafverfahren, indirekte Wirkung).
+- **Recht auf Uebersetzung schriftlicher Bescheide:** Vorrang grundsaetzlich deutsch; aber Behoerde muss verstaendliche Kommunikation gewaehrleisten; ggf. Anhoerungsfehler bei Missverstehen.
+- **Praxis-Tipp:**
+  - Vor Termin: schriftliche Anfrage bei Sozialgericht / Behoerde, dass Dolmetscher fuer Sprache X bestellt wird.
+  - Bei eigenem Dolmetscher: ggf. Kostenuebernahme nach JVEG analog.
+  - Dolmetscher sollte beeidigt / oeffentlich bestellt sein (Landesgerichte gefuhrte Listen).
+  - Behoerden / Gerichte duerfen nicht auf Angehoerige als Dolmetscher verweisen (Befangenheit, Schweigepflicht-Konflikt).
+- **Begutachtungstermine MD / DRV** mit Dolmetscher: Recht aus § 19 SGB X; ggf. Beweisproblem bei Missverstaendnissen (Stellungnahme nach Termin moeglich).
+- **Beratungsstellen bei Sprachbarrieren:** Migrationsberatung MBE (Diakonie, Caritas), Jugendmigrationsdienst, kommunale Auslaender-Beratungsstellen.

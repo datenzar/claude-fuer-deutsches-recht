@@ -6,7 +6,23 @@ description: "Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `kartellrecht-marktabgrenzung-pruefung` Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung-pruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill ordnet alle marktabgrenzungs- und kartellrechtlich relevanten Daten chronologisch: Umsatzdaten, Marktanteile, Preisschritte, Vertriebsabsprachen, BKartA-Verfahrensschritte, EU-Kommissionsschritte.
+
+## Pflicht-Timeline Marktabgrenzung
+- **Datenstichtag(e):** je Marktanteilsberechnung, je Bezugsgröße (Umsatz EUR, Absatzmenge, Kapazität).
+- **Preisschritte:** Preisänderungen je Anbieter; relevant für SSNIP-Test (5-10 % hypothetische Preiserhöhung).
+- **Markteintritte / Marktaustritte:** Zeitraum, Volumen, Wettbewerbsdruck.
+- **Innovation / Produktlaunch:** für sachliche Marktabgrenzung wichtig (Differenzierte Produkte vs. Substitution).
+- **Behördenschritte:** Anhörung § 56 GWB / Art. 27 VO 1/2003 -- Frist; Phase-I (1 Monat § 40 GWB / 25 Arbeitstage FKVO), Phase-II (4 Monate / 90 Arbeitstage).
+- **Pre-Notification mit BKartA / DG COMP:** typisch 4-8 Wochen.
+- **Sektoruntersuchung (§ 32e GWB):** Beginn, Konsultationsphase, Abschlussbericht.
+
+## Belegmatrix
+- Datum | Ereignis | Datenquelle (Marktstudie, eigene ERP-Daten, Branchenbericht) | Norm-Anker (§ 18 GWB, Art. 102 AEUV, FKVO Art. 2) | Relevanz | offene Frage.
+
+## Anti-Muster
+- Mit alten Marktanteilszahlen arbeiten (älter als 2 Jahre); aktuelle Daten beim BKartA / DG COMP einreichen.
+- Kein Bezugsstichtag angegeben -> Marktstärken nicht verifizierbar.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -37,3 +37,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Dolmetscher-Edge-Cases
+- **Gebärdensprache (DGS):** § 9 Abs. 3 JVEG analog; in der Praxis je nach Bundesland separate Honorarordnungen / Rahmenverträge -- live prüfen.
+- **Seltene Sprache:** Zuschlag möglich, wenn Beschaffung schwierig (Begründung im Beschluss).
+- **Telefondolmetschen:** Zulässig nach § 185 GVG (richterliches Ermessen); Vergütung wie Anwesenheit, abzüglich Fahrtkosten.
+- **Konsekutiv mit langer Wartezeit:** Wartezeit nach § 19 JVEG; aktive Tätigkeit separat ausweisen.
+- **Mehrere Verfahren am selben Tag:** Reisekosten anteilig (§ 5 JVEG, § 8 JVEG).
+- **Übersetzungsauftrag mit elektronisch editierbarem Ausgangstext:** Reduzierter Satz nach § 11 Abs. 1 JVEG.
+- **Beglaubigte Übersetzung:** Beglaubigungsvermerk und Stempelgebühr separat; Vereidigung des Übersetzers gem. § 189 GVG.
+- **Dolmetscher in Untersuchungshaft (JVA):** zusätzliche Wegezeiten und ggf. Wartezeit infolge Sicherheitsprozeduren.
+
+## Anti-Muster
+- Pauschalsatz statt detaillierter Zeitaufstellung (führt zu Kürzung im Festsetzungsverfahren).
+- Übersetzungsauftrag ohne Festlegung der Standardzeile (§ 11 JVEG).

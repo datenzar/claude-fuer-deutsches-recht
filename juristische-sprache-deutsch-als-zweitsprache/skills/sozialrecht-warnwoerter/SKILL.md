@@ -7,7 +7,25 @@ description: "Hilft bei Sozialrecht Warnwoerter fuer Menschen mit Deutsch als Zw
 
 ## Zweck
 
-Dieser Skill unterstuetzt bei **Sozialrecht Warnwoerter**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+Dieser Skill markiert typische **Warnwoerter im Sozialrecht** (Buergergeld, ALG, Wohngeld, Krankenkasse, Rentenversicherung, BAfoeG, Schwerbehindertenrecht) und hilft Menschen mit Deutsch als Zweitsprache, Bescheide zu verstehen und keine Anspruechze zu verlieren.
+
+## Warnwoerter mit hoher Tragweite
+- **Mitwirkungspflicht (§ 60 SGB I)**: bei Verletzung Leistungskuerzung oder -versagung; Termine immer wahrnehmen oder absagen.
+- **Sanktion / Leistungsminderung (§ 31a SGB II)**: bis 30 % des Regelbedarfs; nach Bundesverfassungsgericht-Urteil v. 05.11.2019 (1 BvL 7/16) gibt es Grenzen.
+- **Aufrechnung (§ 43 SGB I)**: Behoerde verrechnet Forderung mit laufender Leistung.
+- **Erstattungsbescheid (§ 50 SGB X)**: Forderung der Behoerde zurueck; oft mit Frist 1 Monat.
+- **Aufhebungsbescheid (§ 48 SGB X)**: Aenderung der Verhaeltnisse; Anhoerungspflicht (§ 24 SGB X).
+- **Widerspruch (§ 84 SGG)**: 1 Monat ab Bekanntgabe; bei Auslandszustellung 3 Monate.
+- **Klage (§ 87 SGG)**: 1 Monat nach Widerspruchsbescheid; kostenfrei (§ 183 SGG).
+- **Eilantrag § 86b SGG**: bei drohendem Leistungsentzug Antrag auf einstweiligen Rechtsschutz.
+- **Beitragsschulden Krankenkasse**: koennen zum Ruhen des Krankenversicherungsschutzes fuehren.
+- **Rentenbescheid Widerspruch**: 1 Monat; bei laenger zurueckliegenden Bescheiden Ueberpruefung nach § 44 SGB X moeglich (4-Jahres-Frist).
+- **Rentenbeginn / Anrechnungszeiten**: Auswirkungen auf Hoehe und Wartezeit.
+
+## Vor jeder Unterschrift / Erklaerung
+- Habe ich Anspruch auf Beratungshilfe (BerHG) oder Prozesskostenhilfe?
+- Welche Frist laeuft? Tag genau eintragen.
+- Wer hilft kostenfrei? Sozialverband (VdK, SoVD), DGB, Caritas/Diakonie, Sozialberatung der Stadt.
 
 ## Start
 

@@ -26,6 +26,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Erstprüfung Digitalregulierung: 6-Schritte-Diagnose
+1. **Wer fragt?** Plattformbetreiber, Nutzer mit Account-Sperre, Behörde mit Anordnung, Werbetreibender, Mitbewerber, Forschungseinrichtung (Art. 40 DSA).
+2. **Dienstart bestimmen:** Vermittlungsdienst (Art. 6 DSA Haftungsprivileg), Hosting (Art. 6), Online-Plattform (Art. 19 ff.), VLOP/VLOSE (Art. 33 ff.), Online-Suchmaschine, Marktplatz.
+3. **Schwellen:** VLOP-Schwelle 45 Mio. EU-Nutzer/Monat (Art. 33 Abs. 1 DSA); DMA-Gatekeeper-Schwellen Art. 3 DMA (Umsatz, Marktkapitalisierung, Nutzerzahlen, Dienstanzahl).
+4. **Anwendungsbereich:** EU-Sitz oder Drittlandsanbieter mit EU-Nutzern (Art. 13 DSA Rechtsvertreter Pflicht für Drittländler).
+5. **Konkrete Pflicht / Konflikt:** AGB Art. 14, Notice Art. 16, Statement of Reasons Art. 17, Beschwerde Art. 20, Streitbeilegung Art. 21, Risikobewertung Art. 34, Audit Art. 37.
+6. **Mandatsziel:** Compliance-Aufbau? Behördenverfahren abwehren? Account-Wiederherstellung erstreiten? Forschungsdatenzugang Art. 40 erstreiten?
+
+## Trade-off
+DSA-Pflichten gestaffelt — Kleinst-/Kleinunternehmen profitieren von Erleichterungen Art. 19, 24, 29 DSA. Aber: Wenn die Plattform schnell wächst, ist die VLOP-Schwelle (45 Mio.) oft schnell erreicht; dann gilt Art. 34 (Risikobewertung), Art. 37 (Audit), Art. 41 (Compliance-Officer). Frühzeitig planen, nicht erst nach Benennung.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

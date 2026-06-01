@@ -6,7 +6,19 @@ description: "Anschluss-Skills Router im Plugin schriftform-und-textform-bgb: sc
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `schriftform-und-textform-bgb` Anschluss-Skills Router im Plugin schriftform-und-textform-bgb: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet nach Ersttriage in den passenden Form-Spezialskill: Schriftform, Textform, elektronische Form, notarielle Beurkundung, öffentliche Beglaubigung, gewillkürte Form, vereinbarte Schriftform.
+
+## Routing nach Formfrage
+- **Gesetzliche Schriftform (§ 126 BGB):** § 766 BGB (Bürgschaft -- Heilung § 350 HGB), § 311b BGB (Grundstück -- notarielle Beurkundung; Heilung Auflassung + Eintragung), § 623 BGB (Arbeitsvertragskündigung), § 550 BGB (Mietvertrag > 1 Jahr -- Folge ordentliche Kündbarkeit), § 484 BGB (Verbraucherteilzeit-Wohnrechte).
+- **Elektronische Form (§ 126a BGB):** nur mit QES nach Art. 25 Abs. 2 eIDAS-VO (EU) 910/2014.
+- **Textform (§ 126b BGB):** ausreichend für viele AGB- und Verbraucherinformationspflichten (z. B. § 312d BGB Widerrufsbelehrung).
+- **Notarielle Beurkundung (§ 128 BGB):** § 311b BGB, § 1410 BGB (Ehevertrag), § 2247 BGB (notarielles Testament; Alternativ eigenhändiges), § 1492 BGB (Erbverzicht).
+- **Öffentliche Beglaubigung (§ 129 BGB):** § 12 GBO (Auflassungsvollmacht), § 12 HGB (Handelsregister-Anmeldungen), § 1945 BGB (Erbschaftsausschlagung).
+- **Vereinbarte Schriftform (§ 127 BGB):** Vertragsklauseln auf Wirksamkeit prüfen (Doppelte Schriftformklausel im Arbeitsvertrag oft unwirksam nach BAG-Rspr.).
+
+## Anti-Muster
+- "Schriftform" vereinbart, aber AGB-Klausel weicht "in einfacher Form" wieder auf -- Verwirrung; § 305c, § 307 BGB beachten.
+- "Per E-Mail unterzeichnet" als Schriftform ausgeben -- es ist Textform, nicht Schriftform.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

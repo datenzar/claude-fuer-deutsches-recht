@@ -6,7 +6,25 @@ description: "Chronologie und Belegmatrix im Plugin wandeldarlehen-lebenszyklus:
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `wandeldarlehen-lebenszyklus` Chronologie und Belegmatrix im Plugin wandeldarlehen-lebenszyklus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill ordnet alle Lebenszyklus-Daten eines Wandeldarlehens chronologisch: Term Sheet, Closing, Auszahlung, Zinszahlungen, Trigger-Ereignisse (Folge-Runde, Maturity, Insolvenz), Wandlung, Eintragung.
+
+## Pflicht-Timeline Wandeldarlehen
+- **Term-Sheet-Datum** und -Verbindlichkeitsumfang.
+- **Closing / Unterzeichnung CLA**.
+- **Auszahlungsdatum** (regelmäßig auf Sperrkonto / Treuhand, dann Freigabe an Gesellschaft).
+- **Zinszahlung / Zinslauf** (oft endfällig "PIK -- Payment in Kind").
+- **Maturity-Datum** (12-36 Monate).
+- **Trigger-Ereignis Folge-Runde:** Datum der qualifizierten Finanzierungsrunde; Term-Sheet-Vorstellung beim Investor.
+- **Kapitalerhöhungsbeschluss** (§ 55 GmbHG / § 182 AktG) -- Notartermin mit Vorlauf 1-2 Wochen.
+- **Eintragung im Handelsregister.**
+- **Insolvenz-Trigger:** Antragspflicht §  15a InsO (3 Wochen Zahlungsunfähigkeit, 6 Wochen Überschuldung); ggf. Rangrücktritt-Erklärung vor Insolvenz nachweisen.
+
+## Belegmatrix
+- Datum | Ereignis | Vertragsstelle / Beschluss / Bescheid | Norm-Anker | Steuerfolge (KapSt § 43 EStG, § 17 EStG) | Relevanz | offene Frage.
+
+## Anti-Muster
+- Unklare Datum-Reihenfolge bei Maturity, Folge-Runde und Insolvenzantragspflicht -> kann zu Anfechtbarkeit nach §§ 129 ff. InsO führen.
+- Notartermin zu knapp vor Maturity -> Wandlung verfehlt; Auseinandersetzung über Cap und Discount.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

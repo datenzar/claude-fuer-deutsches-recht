@@ -21,10 +21,22 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Informationstechnologierecht** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **IT-Recht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## IT-Recht Tatbestände und Beweisfragen
+- **§ 631 BGB Werkvertrag (Software):** Erfolg = mangelfreies Werk gemäß Pflichtenheft; Abnahme § 640 BGB; Verjährung 2 Jahre § 634a Abs. 1 Nr. 1.
+  - **Beweislast bis Abnahme:** Unternehmer (auf Mangelfreiheit); **nach Abnahme:** Besteller (auf Mangel).
+- **§§ 535 ff. BGB analog SaaS:** Dauerhafte Bereitstellung; Mietminderung bei Mängeln; Pflichtmaßstab Verfügbarkeit aus SLA.
+- **§ 433 BGB Standard-Software:** Kauf; Mängelhaftung §§ 434 ff., Beschränkung in B2B-AGB möglich, aber § 309 Nr. 7 BGB-Grenzen.
+- **§§ 305 ff. BGB AGB-Kontrolle:** Einbeziehung (§ 305 Abs. 2/3), Inhaltskontrolle (§ 307 ff.), Klauselverbote § 308 (mit Wertungsmöglichkeit), § 309 (ohne).
+- **§ 14 UrhG:** Urheberpersönlichkeitsrecht; bei Software-Lizenzierung § 69c UrhG (Verwertungsrechte).
+- **Beweismittel:** Pflichtenheft, Abnahmeprotokoll, Testberichte, Kommunikationsverlauf, SLA-Logs, Quellcode-Hash, Versionskontrolle.
+
+## Praxis-Tipp
+Bei Software-Werkverträgen ist die Abnahme (§ 640 BGB) der entscheidende Wendepunkt der Beweislast. Wer keinen formalen Abnahmevorgang dokumentiert, riskiert konkludente Abnahme nach langer Nutzung — was Mängelrechte erheblich erschwert. Empfehlung: Abnahmebescheid mit konkretem Datum, Beteiligten und Vorbehalten.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

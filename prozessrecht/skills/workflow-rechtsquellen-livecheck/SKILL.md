@@ -6,7 +6,19 @@ description: "Rechtsquellen-Livecheck im Plugin prozessrecht: zwingt vor tragend
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `prozessrecht` Rechtsquellen-Livecheck im Plugin prozessrecht: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill erzwingt vor prozessualen Ratschlägen oder Schriftsätzen einen Live-Check der einschlägigen Normen (ZPO/VwGO/SGG/FGO/StPO/FamFG) und Leitentscheidungen. Reformen schlagen oft zeitnah durch (siehe ZPO-Beschleunigungsnovellen, eVergabe, ERV).
+
+## Pflichtquellen prozessrechtlich
+- **Verfahrensordnungen:** `gesetze-im-internet.de` (ZPO, VwGO, SGG, FGO, StPO, FamFG, GVG, RPflG); KostRMoG/RVG; PauschVergÜFinFV.
+- **Elektronischer Rechtsverkehr (ERV):** seit 01.01.2022 sind Anwälte bei den Zivilgerichten zur elektronischen Übermittlung verpflichtet (§ 130d ZPO; § 55a VwGO; § 65a SGG; § 52d FGO; § 32d StPO).
+- **beA / eEB:** EGVP, beA-Postfach; Rückausnahme bei vorübergehender Unmöglichkeit (§ 130d S. 2 ZPO).
+- **Rechtsprechung:** BGH, BVerfG, BVerwG, BFH, BAG, BSG (jeweilige offizielle Seiten); EuGH `curia.europa.eu`.
+- **OLG-Datenbanken:** länderspezifisch; `lareda.hessenrecht.hessen.de`, `recht.nrw.de`, `bayern.recht.bayern.de` u. a.; Aggregatoren `dejure.org`, `openjur.de`.
+- **EuGVVO (Brüssel Ia)** für grenzüberschreitende Zuständigkeit und Anerkennung (`eur-lex.europa.eu`).
+
+## Anti-Halluzinations-Regeln
+- Az. ZPO-Senat des BGH: VI ZR, V ZR, X ZR (Patent), II ZR, VIII ZR, XI ZR, XII ZB (Familie) -- Konsistenz mit Senatsbezeichnung prüfen.
+- Reformrecht: vor Zitat aktuelle Fassung verifizieren (z. B. ZPO-Beschleunigungsnovelle, KostRMoG).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

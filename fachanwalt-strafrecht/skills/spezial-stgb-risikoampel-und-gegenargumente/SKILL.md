@@ -37,3 +37,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## StGB-Risikoampel / Gegenargumente Bausteine
+- **Pruefungsstruktur jedes Tatbestands** (objektiver / subjektiver TB / Rechtswidrigkeit / Schuld):
+  - **Objektiver Tatbestand:** Erfolg, Handlung, Kausalitaet (Aequivalenztheorie / objektive Zurechnung), Tatobjekt, ggf. Taeterqualifikation (Sonderdelikt).
+  - **Subjektiver Tatbestand:** Vorsatz (§ 15 StGB - dolus directus 1./2./eventualis); Tatbestandsirrtum § 16 StGB; ggf. besondere Absichtsmerkmale.
+  - **Rechtswidrigkeit:** Rechtfertigungsgruende - § 32 (Notwehr), § 34 (Notstand), § 228 BGB / § 229 BGB Selbsthilfe, mutmasse Einwilligung.
+  - **Schuld:** Schuldfaehigkeit § 19/20 StGB; Verbotsirrtum § 17 StGB; entschuldigender Notstand § 35 StGB; Schulduebernahmehandlung.
+- **Verteidigungslinien:**
+  - **Schuldspruch-Verteidigung:** Tatbestand nicht erfuellt (Vollendung vs. Versuch; Tatobjekt-/Zurechnungsproblem); Rechtswidrigkeit (Notwehr, Notstand); Schuld (§§ 20, 21 StGB, Verbotsirrtum).
+  - **Strafmilderung:** § 49 StGB-Verschiebung; Regelbeispiel-Wiederlegung; minderschwerer Fall (z. B. § 213 StGB).
+  - **Verfahrenseinstellung:** §§ 153, 153a StPO; § 154 StPO (Teil-Einstellung); § 170 II StPO.
+  - **TOA § 46a StGB:** Strafmilderung oder Absehen von Strafe.
+- **Risikoampel-Triage:**
+  - **Rot:** Verbrechen mit Mindeststrafe; Beweislage erdrueckend; Vorstrafenlage; Untersuchungshaftrisiko.
+  - **Gelb:** Beweislage uneindeutig; Strafrahmen mittlere Bandbreite; Bewaehrungsfaehigkeit moeglich.
+  - **Gruen:** Einstellung absehbar; Tat geringfuegig; Erfolg dokumentiert (TOA, Wiedergutmachung).
+- **Gegenargumente staendiger Praxis:**
+  - "Tatzeuge eindeutig" -> Aussagepsychologische Pruefung; Erinnerungsverlust; Beeinflussung.
+  - "Gestaendnis am Tatort" -> Schweigerecht § 136 StPO; Belehrungsmangel; Beweisverwertungsverbot.
+  - "DNA / Fingerabdruck" -> Untersuchung Probekette / Asservatenhandhabung; Sekundärtransfer.
+  - "Bestaetigte Identitaet" -> Lichtbildvergleich; Aehnlichkeitsfehler bei Zwillingen / Familien.

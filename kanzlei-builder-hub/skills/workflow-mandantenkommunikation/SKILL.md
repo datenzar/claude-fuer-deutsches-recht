@@ -6,7 +6,23 @@ description: "Mandantenkommunikation im Plugin kanzlei-builder-hub: übersetzt d
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `kanzlei-builder-hub` Mandantenkommunikation im Plugin kanzlei-builder-hub: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill kommuniziert Builder-Ergebnisse an die Auftraggeber-Seite (Kanzleipartner, IT-Verantwortliche, Wissensmanagement, externe Mandanten der Builder-Kanzlei) -- knapp, technisch korrekt, mit Hinweis auf Validator-Status.
+
+## Kommunikations-Struktur
+- **Was wurde gebaut:** Plugin-Name, Skill-Name(n), Version (semantisch).
+- **Validator-Status:** `validate-yaml-frontmatter.py` und `validate-plugin-structure.mjs` -- OK / Fehler.
+- **Was ist NICHT enthalten:** Skill-Grenzen klar benennen (kein Live-Quellencheck, kein Mandantengeheimnis-Hosting, kein KI-Output ohne Verifizierung).
+- **Nächste Schritte:** Testlauf vorgesehen, Rollout-Termin, Schulungsbedarf.
+- **Risiken / offene Punkte:** Halluzinationsrisiken, Mandantenakte-Konformität, BORA-Pflichten der Kanzlei beim Einsatz.
+
+## Adressatengerecht
+- **Kanzleipartner:** Geschäftsnutzen, Risikohinweise, Lizenz/Datenschutz, Schulungsaufwand.
+- **IT/Admin:** Installations-/Update-Pfad, Validator-Pipeline, Abhängigkeiten.
+- **Wissensmanagement:** Pflege, Zitationsstandard, Update-Zyklus für Rechtsprechungs- und Norm-Änderungen.
+
+## Anti-Muster
+- Versprechen "rechtssichere KI" -- KI ist nie ohne Verifizierung rechtssicher (Verschwiegenheit § 43a Abs. 2 BRAO, § 203 StGB, Halluzinationsrisiken).
+- "Wir ersetzen den Anwalt" -- Skill ist Werkzeug, kein Mandatsverhältnis.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

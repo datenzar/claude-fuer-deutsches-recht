@@ -37,3 +37,18 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Dolmetscher- und Übersetzersätze nach JVEG (Stand prüfen!)
+- **§ 9 Abs. 3 JVEG -- Stundensätze Dolmetscher:** simultanes Dolmetschen 85 EUR/h, konsekutives Dolmetschen 75 EUR/h (Stand prüfen unter `gesetze-im-internet.de/jveg`; KostRÄG-Anpassungen beachten).
+- **§ 11 JVEG -- Übersetzer:** Grundbetrag pro 55-Zeichen-Zeile (Standardzeile) je nach Schwierigkeitsgrad gestaffelt; bei besonders schwierigen Texten höhere Sätze; bei elektronisch editierbar gelieferten Ausgangstexten ggf. niedriger.
+- **Wartezeit (§ 19 JVEG):** auch Wartezeit ist vergütungspflichtig, soweit dem Dolmetscher zumutbar.
+- **Fahrtkosten (§ 5 JVEG):** Pkw 0,42 EUR/km, alternativ Bahn 2. Klasse / BC100.
+- **Tagegeld / Übernachtung (§ 6 JVEG):** wie für Sachverständige, Verweis auf BRKG.
+- **Umsatzsteuer (§ 12 JVEG):** zusätzlich; bei Kleinunternehmer § 19 UStG keine Ust.
+
+## Berechnungs-Pflichtschritte
+1. Heranziehungsbeschluss prüfen: Stundensatz festgelegt oder Standardsatz?
+2. Tatsächliche Stundenzahl mit Tätigkeitsbeschreibung; Wartezeit gesondert ausweisen.
+3. Auslagen mit Belegen (Tickets, Hotelrechnungen).
+4. Umsatzsteuer-Status klären.
+5. Summenkontrolle und Antrag (§ 4 Abs. 1 JVEG); Fristnotierung Erinnerung (6 Monate § 4 Abs. 4 JVEG).

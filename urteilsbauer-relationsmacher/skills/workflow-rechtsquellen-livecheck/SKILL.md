@@ -6,7 +6,20 @@ description: "Rechtsquellen-Livecheck im Plugin urteilsbauer-relationsmacher: zw
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `urteilsbauer-relationsmacher` Rechtsquellen-Livecheck im Plugin urteilsbauer-relationsmacher: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill verlangt vor jedem Urteilsentwurf den Live-Check der einschlägigen ZPO-Normen, Tatbestandsbausteine und Leitentscheidungen, damit der spätere Tenor und die Begründung tragen.
+
+## Pflichtquellen Urteilsbau
+- **ZPO:** `gesetze-im-internet.de/zpo`; insbesondere § 313 (Inhalt des Urteils), § 286 (freie Beweiswürdigung), § 287 (Schadensschätzung), § 92 ff. (Kostenentscheidung), § 708 ff. (vorläufige Vollstreckbarkeit), § 543 (Revisionszulassung), § 522 (Verwerfung Berufung als unbegründet).
+- **GVG:** Geschäftsverteilungsplan, Einzelrichter / Kammer (§ 348 ZPO).
+- **Materielles Recht:** BGB, HGB, ArbR, FamilienR, ErbR -- jeweils Fassung am Tag des Entscheids.
+- **Rechtsprechung:** BGH (`bundesgerichtshof.de`) für Leitentscheidungen, OLG-Sammlungen länderspezifisch, BVerfG (`bverfg.de`) für verfassungsrechtliche Bezüge.
+- **EuGH `curia.europa.eu`:** bei Unionsrechts-Bezug; Vorlagepflicht Art. 267 AEUV bei letztinstanzlichen Gerichten.
+
+## Anti-Halluzinations-Regeln
+- Tatbestand stets neutral, Wertungen in den Entscheidungsgründen.
+- Az.-Konsistenz: Senatsbuchstabe BGH (VI, V, VII, VIII, IX, X, XI, XII) muss zum Rechtsgebiet passen.
+- Zitiernachweise nach `references/zitierweise.md` (BGH, Datum, Az., Fundstelle, Rn.).
+- Bei Verweis auf Sachverständigengutachten: Az., Datum, Sachverständiger, Tenor.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

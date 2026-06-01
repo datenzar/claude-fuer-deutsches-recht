@@ -21,10 +21,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fachanwalt** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **IT-Recht** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## IT-Recht-Erstprüfung: 6-Schritte-Diagnose
+1. **Vertragstyp bestimmen:** Werkvertrag (§§ 631 ff. — individuell erstellte Software), Dienstvertrag (§§ 611 ff. — laufende Beratung), Kauf (§§ 433 ff. — Standardsoftware), Miete (§§ 535 ff. — SaaS/Cloud), Lizenz (UrhG, einfaches/ausschließliches Recht).
+2. **Rolle:** Anbieter (Hersteller, Lizenzgeber, Cloud-Provider) vs. Kunde (Lizenznehmer, SaaS-Nutzer); B2B vs. B2C; je nach Rolle unterschiedliche AGB-Inhaltskontrolle (§§ 305 ff., 308, 309 BGB).
+3. **Daten:** Personenbezogen → DSGVO; nicht-personenbezogen → Geschäftsgeheimnis (GeschGehG); öffentlich → Data Act / DGA.
+4. **NIS2 / KritisV?** Wesentliche Einrichtung (Anhang I NIS2-RL) oder wichtige Einrichtung (Anhang II)? KRITIS-Schwellen § 8b BSIG, BSI-KritisV.
+5. **Streitstand:** Vorklagephase (Mängelrüge, Nachfristsetzung), Mahnverfahren, Klage, Vergleichsverhandlung, ADR?
+6. **Mandatsziel:** Vertrag verhandeln/redlinen? Mangel durchsetzen? Sich verteidigen? Vergleich vermitteln?
+
+## Trade-off
+Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle Lösung, aber zerstört Geschäftsbeziehung — bei laufenden SaaS-Verhältnissen oft kontraproduktiv. Stufenweises Vorgehen Mängelrüge → Nachfrist → Kündigung/Schadensersatz erhält Beziehung und stärkt spätere Klage.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

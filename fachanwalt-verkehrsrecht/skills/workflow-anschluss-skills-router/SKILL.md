@@ -33,3 +33,25 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Verkehrsrecht-Routing nach Saeule
+- **(a) Verkehrszivilrecht / Unfallregulierung:**
+  - Anspruchsgrundlagen: §§ 7, 17, 18 StVG; § 823 BGB; § 115 VVG (Direktanspruch KH).
+  - Schadenspositionen: Reparaturkosten / Wiederbeschaffungswert / Wertminderung / Nutzungsausfall / Mietwagen / Sachverstaendigenkosten / Personenschaden / Verdienstausfall / Schmerzensgeld.
+  - Quotenbildung Mitverschulden § 254 BGB; § 17 StVG Betriebsgefahr.
+  - Skills: unfall-haftung, fiktive-vs-konkrete-abrechnung, wertminderung, mietwagen-frauenhofer-schwacke.
+- **(b) Verkehrs-OWi:**
+  - §§ 24 ff. StVG, BKatV.
+  - Skills: bussgeld-einspruch, messverfahren-pruefung, fahrverbot-haerte.
+- **(c) Verkehrsstrafrecht:**
+  - §§ 142 StGB (Unfallflucht), 222/229 (Tatfolgen), 240 (Noetigung), 315b (Eingriff), 315c (Gefaehrdung), 315d (Rennen), 316 (Trunkenheit).
+  - Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO.
+  - Skills: trunkenheitsfahrt, fahrerflucht, vorlaeufige-entziehung-fuehrerschein.
+- **(d) Fahrerlaubnisrecht (FeV / Verwaltungsrecht):**
+  - Entziehung Fahrerlaubnis § 3 StVG; MPU §§ 11, 13, 14 FeV; Punkte FAER § 4 StVG.
+  - Wiedererteilungsantrag § 20 FeV; Sperre § 69a StGB.
+  - Skills: mpu-vorbereitung, wiedererteilung-fahrerlaubnis, punkte-abbau.
+- **(e) Versicherungsrecht:**
+  - Vollkasko / Teilkasko / Insassenunfallversicherung; Anzeigeobliegenheit § 30 VVG; Leistungsfreiheit § 28 VVG.
+  - Skills: kasko-leistungsablehnung, verwirrte-versicherung.
+- **Mandantenrolle:** Geschaedigter / Schaediger / Halter / Fahrer / Versicherungsnehmer / Beschuldigter / Antragsteller (FE-Wiedererteilung).

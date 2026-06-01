@@ -6,7 +6,21 @@ description: "Anschluss-Skills Router im Plugin methodenlehre-buergerliches-rech
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `methodenlehre-buergerliches-recht` Anschluss-Skills Router im Plugin methodenlehre-buergerliches-recht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet methodische Anliegen zu den passenden Spezialskills weiter: Auslegung, Analogie/teleologische Reduktion, Streitstandsdarstellung, Subsumtionsprüfung, Anspruchsgrundlagenprüfung in der Reihenfolge.
+
+## Routing nach Methodenfrage
+- **Auslegung eines TBM (Begriff):** Wortlaut + Systematik + Historie + Telos; ggf. verfassungs-/unionsrechtskonform. -> Auslegungs-Skill.
+- **Anspruchsgrundlagenprüfung:** Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung (vgl. `references/methodik-buergerliches-recht.md`).
+- **Analogie:** planwidrige Regelungslücke + vergleichbare Interessenlage. -> Analogie-Skill; Strafrecht: Analogieverbot Art. 103 II GG beachten, im Zivilrecht zulässig.
+- **Teleologische Reduktion:** Norm beschränken gegen Wortlaut auf den gewollten Anwendungsbereich; hohe Begründungslast.
+- **Streitstand:** hM, Mindermeinung, Argumente, Stellungnahme. -> Streitstands-Skill.
+- **Subsumtion eines Tatbestandsmerkmals:** -> Subsumtions-Skill (auch Plugin `subsumtions-pruefer`).
+- **Vorlage Art. 100 GG / Art. 267 AEUV:** bei verfassungsrechtlichen / unionsrechtlichen Kollisionen prüfen.
+
+## Anti-Muster
+- Auslegung ohne Wortlautgrenze.
+- Analogie ohne planwidrige Regelungslücke (positive Regelungsentscheidung des Gesetzgebers).
+- "Argument aus dem Sinn der Norm" ohne historische und systematische Unterstützung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -51,3 +51,21 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Merkzeichen - Themenspezifika
+- **Rechtsgrundlage:** § 229 SGB IX (Merkzeichen-Voraussetzungen); § 3 Schwerbehindertenausweisverordnung (SchwbAwV); VersorgungsmedizinV / VersorgungsmedizinG.
+- **Wichtige Merkzeichen mit Voraussetzungen und Vorteilen:**
+  - **G (Gehbehinderung):** erhebliche Beeintraechtigung Bewegungsfaehigkeit im Strassenverkehr; in Behinderungsgrad-Massstaeben 50/50; Vorteil: oeffentlicher Nahverkehr unentgeltlich (mit Wertmarke EUR 91 / Jahr, ermaessigt EUR 46) bzw. KFZ-Steuerermaessigung 50 %.
+  - **aG (aussergewoehnliche Gehbehinderung):** dauerhafte Mobilitaetseinschraenkung erheblich; Voraussetzung u. a. Querschnittlaehmung, beidseitige Beinamputation, doppelte Oberschenkelamputation, vergleichbare schwerere Faelle (VersMedV strenge BSG-Linie); Vorteil: Behindertenparkplatz; KFZ-Steuerbefreiung.
+  - **B (Begleitperson):** Notwendigkeit staendiger Begleitung; Begleitperson reist im oeffentlichen Verkehr kostenlos mit.
+  - **H (Hilflosigkeit):** dauerhaft hilflos im taeglichen Leben (vergleichbar Pflegegrad 4-5); KFZ-Steuerbefreiung, hoehere Pauschbetraege.
+  - **Bl (Blindheit):** mehr als 1/50 Sehkraft beidaeugig; Landesblindengeld; KFZ-Steuerbefreiung.
+  - **Gl (Gehoerlosigkeit):** Hoer-/Sprachverlust seit dem Spracherwerb; Vorteil Telefonpauschale.
+  - **RF (Rundfunkbeitragsbefreiung):** wegen Schwerbehinderung Teilhabe an Veranstaltungen ausgeschlossen.
+  - **TBl (Taubblindheit):** Kombination Hoer- und Sehbehinderung; besondere Foerderungen.
+- **Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2):** Mindestkriterien je Merkzeichen; behandelnder Arzt mit konkreten Funktionsbefunden untermauern.
+- **Antrag / Widerspruch:**
+  - **Antrag** beim Versorgungsamt; **Aenderungsantrag** bei Verschlechterung.
+  - **Widerspruch § 84 SGG:** 1 Monat; Klage SG 1 Monat.
+  - **§ 109 SGG-Wahl-Sachverstaendiger** bei Klage.
+- **Praxis-Tipp:** Fokus auf Funktionsbeeintraechtigung im Alltag (Gehstrecke konkret in Metern; Hilfsmittelbedarf; Begleitnotwendigkeit). Bei aG-Verweigerung: BSG-Linie zur Gleichstellung (vergleichbare schwerwiegende Faelle); Stellungnahme Facharzt unverzichtbar.

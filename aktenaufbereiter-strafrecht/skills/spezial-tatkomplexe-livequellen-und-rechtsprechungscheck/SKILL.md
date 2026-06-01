@@ -37,3 +37,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Tatkomplexe-Livequellen Bausteine
+- **Pro Tatkomplex Sachverhalt-Tabelle:** Tatzeit, Tatort, Tathergang, Tatobjekt, Beschuldigte, Geschaedigte, Beweismittel; Konkurrenz pruefen § 52 StGB Tateinheit / § 53 StGB Tatmehrheit; ggf. fortgesetzte Handlung in Sonderfaellen.
+- **Norm-Anker pro Tatkomplex** mit Konkretisierung:
+  - Diebstahl §§ 242 ff. StGB - Regelbeispiele schwerer Fall § 243; Bandendiebstahl § 244 III StGB; Raub §§ 249 ff. StGB.
+  - Betrug § 263 StGB - Schaden, Stoffgleichheit, Vorsatz; Regelbeispiel § 263 III; Computerbetrug § 263a; Versicherungsmissbrauch § 265.
+  - Untreue § 266 StGB - Treueverhaeltnis, Pflichtverletzung, Schadenseintritt.
+  - Toetungsdelikte §§ 211 ff. - Mordmerkmale § 211 II (Heimtuecke, niedrige Beweggruende etc.).
+  - BtMG / KCanG - Wirkstoffmenge, nicht geringe Menge (BGH-Tabellen), gewerbsmaessig.
+  - Verkehrsstrafrecht: §§ 142, 315c, 315d, 316 StGB - Promille-Grenzen, relative/absolute Fahruntuechtigkeit.
+- **Rechtsprechungslinien (ohne erfundene Az):**
+  - BGH zur Mittaeterschaft / Beihilfe § 25 II / § 27 StGB.
+  - BGH zur Tatherrschaft, mittelbare Taeterschaft § 25 I 2 StGB.
+  - BGH zur Verstaendigung § 257c StPO - Belehrung als Wirksamkeitsvoraussetzung.
+  - BVerfG zu nemo tenetur und Aussagefreiheit.
+- **Live-Pruefung sinnvoll** bei Gesetzesaenderungen: KCanG seit 2024, Cyberkriminalitaet (DDoS / Hacking Reform), Geldwaesche § 261 StGB Vortat-Liste.
+- **Vorgehen:**
+  - Pro Komplex Tabelle: Tatbestandsmerkmal | Fakt aus Akte | Beweismittel (AS) | Pruefung | Bewertung.
+  - Schluss: Anklage tragfaehig? Verteidigungspotenzial? Beweisluecken?
+  - Anschluss: Beweisantraege § 244 StPO; Widerspruch § 257 StPO bei BeweisverwertungsVerstoss.

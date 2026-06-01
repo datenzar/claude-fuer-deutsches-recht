@@ -6,7 +6,25 @@ description: "Fristen- und Risikoampel im Plugin tabellenreview-3d: macht eine S
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `tabellenreview-3d` Fristen- und Risikoampel im Plugin tabellenreview-3d: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill markiert typische Risiken in juristischen Tabellen: Summenfehler, Versionsdrift, Spalteninkonsistenz, fehlende Belegspalte, falsche Aggregation, Insolvenz-Tabellenfristen.
+
+## Tabellen-Risikoampel
+- **Rot:** Summen-Diskrepanz zwischen Footer und Detailzeilen; doppelte Buchung; Falsch-Rundungen über mehrere Stellen.
+- **Rot:** Insolvenztabelle ohne Anmeldedatum / Bestreitenstatus.
+- **Rot:** Cap Table ohne Versionsangabe / Stichtag.
+- **Gelb:** Spalten ohne Definition; Datentypen-Inkonsistenz (Datum als Text); fehlende Quellenspalte.
+- **Gelb:** Verlinkungen auf externe Excel-Dateien -- gehen leicht verloren.
+- **Grün:** Spaltendefinition vorhanden, Summenkontrolle ok, Quellenspalte gefüllt, Versionsfooter.
+
+## Spezifische Fristen bei juristischen Tabellen
+- **Insolvenztabelle (§ 174 ff. InsO):** Anmeldefrist ergibt sich aus § 28 Abs. 1 InsO (gerichtliche Festsetzung); Prüfungstermin nach § 29 InsO.
+- **Cap Table (Wandeldarlehen):** Maturity Trigger sechs Monate vorher kommunizieren.
+- **JVEG-Stundenaufstellung:** Antragsfrist max. 3 Monate ab Beendigung der Tätigkeit (§ 2 JVEG); Wiedereinsetzungsmoeglichkeit eng.
+- **Forderungstabelle Mahnverfahren:** Beim Vollstreckungsbescheid Einspruchsfrist 2 Wochen.
+
+## Anti-Muster
+- Pivot-Tabelle ohne dokumentiertes Datenmodell -- nicht reproduzierbar.
+- Direktes Drüber-Formatieren statt Bedingter Formatierung -- führt zu visueller, nicht logischer Konsistenz.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

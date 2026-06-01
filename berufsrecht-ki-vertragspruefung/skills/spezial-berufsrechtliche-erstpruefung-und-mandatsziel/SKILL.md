@@ -21,10 +21,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Berufsrechtliche** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Berufsrechtliche KI-Prüfung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Berufsrechtliche Erstprüfung: 6-Schritte-Diagnose
+1. **Berufsstand bestimmen:** Anwalt → BRAO, StB → StBerG, WP → WPO, Notar → BNotO, Patentanwalt → PAO. Bei interdisziplinärer Kanzlei alle einschlägigen Normen.
+2. **Tool identifizieren:** Welches konkrete Produkt? Welche Funktion (Recherche, Drafting, Mandantenkommunikation, Übersetzung)? Welche Datenflüsse?
+3. **Datenkategorien klassifizieren:** (a) keine Mandantendaten, (b) anonymisiert/pseudonymisiert, (c) identifizierbar — Default für (c) restriktiv.
+4. **Hosting prüfen:** EU/EWR vs. Drittstaat (insb. USA). Bei US-Cloud: DPF-Mitgliedschaft, SCC-Modul, TIA.
+5. **Vertragsprüfung:** Hauptvertrag, AVV (Art. 28 DSGVO), Mitwirkenden-Verpflichtung § 203 Abs. 4 StGB, SCC, TIA.
+6. **Mandatsziel klären:** Sofort-Freigabe? Bedingte Freigabe mit Auflagen? Sperrung? Kanzlei-Richtlinie nachjustieren?
+
+## Trade-off
+Schnelle Freigabe vs. berufsrechtliche Absicherung: bei knapper Zeit konservativ "vorläufig nicht freigeben" und parallel Detailprüfung, statt überstürzte Freigabe mit späterem Rückruf. § 203 StGB und § 43e BRAO sind strict liability — Vorsatz ist nicht erforderlich.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

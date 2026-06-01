@@ -6,7 +6,25 @@ description: "Unterlagen- und Lückenliste im Plugin word-legal-ai-plugin-and-sk
 # Unterlagen- und Lückenliste
 
 ## Aufgabe
-Dieser Workflow-Skill für `word-legal-ai-plugin-and-skill-for-german-lawyers` Unterlagen- und Lückenliste im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill erkennt fehlende Word-Bausteine, Versionen oder Anlagen und erstellt eine präzise Nachforderungsliste. Vermeidet pauschale "Bitte alles schicken"-Anfragen.
+
+## Lückenanalyse Word-Dokumente
+- **Vorhanden:** Word-Datei (.docx) -- Version (Microsoft 365 / 2021 / 2019 / Mac).
+- **Fehlt typischerweise:** Master-/Briefkopfvorlage, Schriftsatz-Vorlage der Kanzlei, Anlagenkonvolut (.pdf), Originale für Track Changes (.docx mit Markup), Versionshistorie.
+- **Bei Schriftsätzen:** Anlagenverzeichnis (K1, K2 / B1, B2) -- jede Anlage mit kurzer Bezeichnung und Beweisthema (§ 130 ZPO).
+- **Bei Verträgen:** Term Sheet, Definitions-Glossar, Mitsprache-Matrix, Anlagen mit Disclosure Letter.
+- **Bei Memos:** Cover-Letter / Executive Summary, Quellenverzeichnis, Vorgutachten.
+- **Bei mehreren Versionen:** alle Versionen mit Versionsstempel und Bearbeiterstatus.
+
+## Nachforderungsbausteine (Beispiel)
+- "Bitte senden Sie uns die .docx-Datei mit Track Changes (nicht das PDF-Final), damit wir die Argumentationsgeschichte nachvollziehen können."
+- "Bitte das vollständige Anlagenkonvolut nach Nummern (K1-K23) -- aktuell fehlen K4, K11, K17."
+- "Welche Word-Version nutzen Sie? Manche Vorlagenfeatures sind versionsabhängig."
+
+## Anti-Muster
+- "Bitte alle Unterlagen" -- ineffizient.
+- Word-Datei ohne PDF-Final -- Druckbild-Kontrolle fehlt.
+- PDF-Final ohne Word -- keine Bearbeitung möglich.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

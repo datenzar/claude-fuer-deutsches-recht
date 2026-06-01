@@ -6,7 +6,21 @@ description: "Red-Team Qualitygate im Plugin produktrecht: prüft das Ergebnis a
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `produktrecht` Red-Team Qualitygate im Plugin produktrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill prüft Produktsicherheits- und Produkthaftungs-Stellungnahmen vor Auslieferung gegen typische Fehler: Rollenverwechslung, Anspruchsgrundlagen-Lücken, übersehene neue EU-VOen, fehlende Belege für Risikoanalyse.
+
+## Red-Team-Punkte Produktrecht
+- **Rollenkette geprüft?** Hersteller, Bevollmächtigter, Importeur, Händler, Fulfillment-Dienstleister (Art. 4 VO (EU) 2019/1020); Pflichten differenzieren.
+- **CE-Verfahren passt?** Modul A (interne Fertigungskontrolle) reicht oft nicht; bei höherem Risiko Modul B+C oder H.
+- **Harmonisierte Normen aktuell?** OJ-Veröffentlichung der EU-Kommission prüfen; Konformitätsvermutung nur bei aktueller Fassung.
+- **Anspruchsgrundlagen vollständig?** ProdHaftG (verschuldensunabhängig) + § 823 Abs. 1 BGB (Verkehrspflicht-Verletzung) + § 823 Abs. 2 BGB i. V. m. ProdSG/GPSR + § 826 BGB + ggf. Garantie (§ 443 BGB).
+- **Verschulden nicht erforderlich** beim ProdHaftG -- aber typische Verteidigung über Ausnahme Entwicklungsrisiko § 1 Abs. 2 Nr. 5 ProdHaftG (BGH-Linie aus Mineralwasserflaschenfall: hohe Hürde).
+- **GPSR-Fristen (24 h Safety Gate)** und **Marktüberwachungs-Fristen** im Bescheid markiert?
+- **Neue EU-VOen 2024/2025:** GPSR, KI-VO (AI Act) für KI-haltige Produkte, BatterieVO, neue ProdHaftRL 2024/2853, MaschinenVO 2023/1230 -- live verifizieren.
+- **Beweislast Hersteller bei Fehler:** § 1 Abs. 4 ProdHaftG -- Geschädigter hat Fehler, Schaden, Kausalität zu beweisen; Hersteller widerlegt Vermutung nicht.
+
+## Falle
+- "EU-Konformitätserklärung" mit unterschiedlichem Datum bei zusammengehörigem Produkt / Modulen (Inkohärenz).
+- Hersteller-Eigenangaben zur Risikoklasse ohne externe Notifizierte Stelle bei Hochrisikoprodukten.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

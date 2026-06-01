@@ -37,3 +37,21 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Einspruchsentscheidung / Beschraenkung / Nebenfolgen Bausteine
+- **Drei Einspruchsmodi nach § 410 StPO:**
+  - **Vollumfaenglicher Einspruch:** Schuld- und Strafausspruch werden komplett aufgehoben; Hauptverhandlung mit Beweisaufnahme; voller Untersuchungsgrundsatz.
+  - **Beschraenkung auf Rechtsfolgenausspruch § 410 II StPO:** Schuldspruch bleibt; nur Strafmass, Tagessatzhoehe, Fahrverbot, Nebenfolgen werden neu verhandelt. **Strategisch oft sinnvoll** bei eingestaendiger Tat aber unangemessenem Strafmass.
+  - **Beschraenkung auf bestimmte Punkte:** z. B. nur Fahrverbot (BGH-Linie zur Teilbarkeit).
+- **Hauptverhandlung nach Einspruch §§ 411-412 StPO:**
+  - **Erscheinungspflicht** Angeklagter § 411 II StPO; **Vertretungsvollmacht** Verteidiger moeglich.
+  - Bei Nichterscheinen ohne genuegende Entschuldigung: Verwerfungsurteil § 412 StPO; Wiedereinsetzung § 44 StPO ggf. moeglich.
+  - **Schlechterstellungsverbot bei Beschraenkung Rechtsfolgenausspruch:** Verschlechterungsverbot reformatio in peius gilt nicht im Strafbefehlsverfahren absolut; aber zumindest darf die Verteidigung darauf vertrauen, dass innerhalb der Schuldspruch-Bindung das Strafmass nicht drastisch steigt.
+- **Nebenfolgen pruefen:**
+  - **Fahrverbot § 44 StGB:** bis 6 Monate; Mandantenbedeutung Beruf, Familie.
+  - **Entziehung Fahrerlaubnis § 69 StGB:** im Strafbefehl regelmaessig nicht (komplexe Pruefung); ggf. vorlaeufige Entziehung § 111a StPO im laufenden Verfahren.
+  - **Einziehung § 73 ff. StGB:** Wertersatz bei Vermoegensvorteilen aus Tat.
+  - **BZRG-Eintragspflicht** § 32 BZRG: 90+ TS / Freiheitsstrafe.
+- **Wiedereinsetzung § 44 StPO bei verspaetetem Einspruch:** unverschuldete Versaeumung; 1 Woche ab Wegfall Hindernis; restriktive BGH-Linie.
+- **Einspruchsruecknahme § 411 III StPO:** bis Urteilsverkuendung moeglich; Strafbefehl wird rechtskraeftig.
+- **Praxis-Tipp:** Bei beschraenktem Einspruch im Antrag prazise formulieren (z. B. "Der Einspruch beschraenkt sich auf den Rechtsfolgenausspruch, insbesondere die Hoehe der Tagessaetze und das Fahrverbot"); Akteneinsicht vor Festlegung Strategie zwingend.

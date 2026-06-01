@@ -51,3 +51,25 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Kinder- und Jugendhilfe / Abgrenzung - Themenspezifika
+- **Rechtsgrundlage:** SGB VIII (Kinder- und Jugendhilfe); seit BTHG-Reform fortlaufende Aenderungen Schnittstelle SGB IX (Eingliederungshilfe behinderter Kinder).
+- **Zustaendigkeit:** Jugendamt (Stadt / Landkreis); Klage zum **Verwaltungsgericht** (§ 40 VwGO) - **nicht** Sozialgericht.
+- **Leistungsspektrum SGB VIII:**
+  - **§ 27 SGB VIII Hilfen zur Erziehung:** Erziehungsbeistand (§ 30), sozialpaedagogische Familienhilfe (§ 31), Tagesgruppe (§ 32), Vollzeitpflege (§ 33), Heimerziehung (§ 34), intensive sozialpaedagogische Einzelbetreuung (§ 35).
+  - **§ 35a SGB VIII Eingliederungshilfe** seelisch behinderter Kinder / Jugendlicher - **Abgrenzung kritisch** zu SGB IX (geistige / koerperliche Behinderung).
+  - **§ 41 SGB VIII Hilfen fuer junge Volljaehrige** (18-21 Jahre).
+  - **§ 13 SGB VIII Jugendsozialarbeit / -hilfe.**
+  - **§§ 22-26 SGB VIII Foerderung Kinder in Tageseinrichtungen** (Kita-Anspruch § 24 SGB VIII fuer Kinder ab 1).
+- **Abgrenzungs-Triade Schulbegleitung / Integrationshelfer:**
+  - **Seelisch behindert / drohend** -> § 35a SGB VIII Jugendamt zustaendig.
+  - **Geistig / koerperlich behindert** -> § 112 SGB IX Eingliederungshilfe (Sozialamt / Bezirk / Land).
+  - **Mehrfachbehindert** -> primaer Eingliederungshilfe; Jugendamt subsidiaer.
+- **Gesetzliche Verfahren:**
+  - **Hilfeplanverfahren § 36 SGB VIII** zwingend mit Beteiligung Familie/Jugendlicher.
+  - **Anhoerung § 28 VwVfG / § 24 SGB X.**
+  - **Widerspruch § 70 VwGO** (Verwaltungsgericht) - **1 Monat** ab Bekanntgabe (oder Klagefrist § 74 VwGO, je nach Bundesland Widerspruchsverfahren abgeschafft).
+  - **Klage Verwaltungsgericht** 1 Monat.
+- **Kostenbeteiligung Eltern §§ 91-94 SGB VIII** abhaengig von Einkommen; Kostenheranziehung nach gesonderter Berechnung.
+- **Eilrechtsschutz § 123 VwGO** bei drohendem Hilfeausfall.
+- **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorlaeufige Klaerung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.

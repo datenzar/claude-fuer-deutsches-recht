@@ -37,3 +37,26 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Verkehrsrechts-Tatbestand-Beweisbausteine
+- **Verkehrszivilrecht - Tatbestandsmerkmale § 7 StVG (Halterhaftung):**
+  - **Betriebsgefahr** Kfz: ohne Verschulden; Ausnahme hoehere Gewalt § 7 II StVG.
+  - **Mitverursachung** § 17 StVG bei Unfall zwischen mehreren Kfz.
+  - **Beweis** Tatzeit-Tatort durch Polizeiprotokoll, Zeugen, Telematik-Daten, KFZ-Diagnosesysteme (Crash-Recorder seit 2024 EU-Pflicht).
+- **§ 18 StVG Fahrerhaftung:** Verschulden zu vermuten; Entlastungsbeweis Fahrer.
+- **§ 823 BGB Verschulden:** Vorsatz / Fahrlaessigkeit; Verschulden indiziell bei Verstoss gegen StVO.
+- **Schadenshoehe-Beweis:**
+  - SV-Gutachten (eigener SV bei klarer Haftung; bei Bagatellschaden Kostenvoranschlag).
+  - Fiktive vs. konkrete Abrechnung: 130 %-Grenze BGH-Linie bei tatsaechlicher Reparatur.
+  - Wertminderung (BVSK-Honorartabelle, SV-Tabellen); nicht bei zu altem Fahrzeug.
+  - Nutzungsausfall (Schwacke / Frauenhofer-Tabelle).
+  - Mietwagen (Frauenhofer / Schwacke / Mittelwert; Anspruch auf erforderlichen, nicht jeden Mietwagen).
+- **Verkehrs-OWi - Tatbestandsmerkmale § 24 StVG:**
+  - Versto gegen Verbote / Gebote der StVO.
+  - Fahrlaessigkeit § 10 OWiG genuegt; Vorsatz erschwert.
+- **Verkehrsstrafrecht:**
+  - **§ 142 StGB Unfallflucht:** Verkehrsunfall + Beteiligung + Sich-Entfernen vor Feststellung + Vorsatz; Verzeihung BVerfG durch hoehere Strafe nicht moeglich.
+  - **§ 316 StGB Trunkenheit:** absolute Fahruntuechtigkeit ab 1,1 Promille BAK (PKW); relative ab 0,3 mit Ausfallerscheinungen.
+  - **§ 315c StGB Gefaehrdung StraVerkehr:** konkrete Gefahr fuer Leib / Leben / fremde Sachen erheblichen Wertes.
+  - **§ 315d StGB Verbotene Kraftfahrzeugrennen:** seit 2017 Vergehen mit Freiheitsstrafe bis 2 Jahre, qualifiziert bis 10 Jahre.
+- **Beweiserhebung Verkehrsstrafrecht:** Blutalkoholgutachten (Blutprobe § 81a StPO Voraussetzungen, Richtervorbehalt grundsaetzlich); Drogengutachten (Anlage zu § 24a StVG Wirkstoffliste); Ringversuch Massbericht.

@@ -6,7 +6,24 @@ description: "Chronologie und Belegmatrix im Plugin subsumtions-pruefer: macht a
 # Chronologie und Belegmatrix
 
 ## Aufgabe
-Dieser Workflow-Skill für `subsumtions-pruefer` Chronologie und Belegmatrix im Plugin subsumtions-pruefer: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill ordnet zu jedem Tatbestandsmerkmal einer Subsumtion die konkreten Tatsachen aus dem Sachverhalt und die Belege (Anlagen, Korrespondenz, Zeugen) zu. Ergebnis ist eine Belegmatrix, die die Subsumtion auditierbar macht.
+
+## Subsumtions-Belegmatrix
+- **Spalte 1:** Tatbestandsmerkmal (z. B. "Kaufvertrag § 433 BGB: Einigung über Kaufgegenstand und Preis").
+- **Spalte 2:** Definition mit Norm/hM-Quelle.
+- **Spalte 3:** Tatsache(n) aus Sachverhalt.
+- **Spalte 4:** Beleg (Anlage K1, Klage S. 3, Mailkonvolut, Zeugenaussage Müller).
+- **Spalte 5:** Subsumtion (Wertung "+/-/streitig").
+- **Spalte 6:** Beweismaß: § 286 ZPO (volle Überzeugung) vs. § 287 ZPO (überwiegende Wahrscheinlichkeit) bzw. Glaubhaftmachung § 294 ZPO (eV).
+- **Spalte 7:** Beweislast: Wer trägt sie? (Grundsatz: jeder die ihm günstigen Tatsachen.)
+
+## Chronologie
+- Datum der entscheidungserheblichen Tatsachen; Reihenfolge im Sachverhalt sortieren (Vertragsschluss vor Lieferung vor Mängelrüge vs. Aufrechnung etc.).
+
+## Anti-Muster
+- Tatsache ohne Beleg in der Matrix.
+- "Streitig" ohne Hinweis, wer was bestreitet (§ 138 ZPO).
+- Subsumtion ohne Definition (Sprung-Subsumtion).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

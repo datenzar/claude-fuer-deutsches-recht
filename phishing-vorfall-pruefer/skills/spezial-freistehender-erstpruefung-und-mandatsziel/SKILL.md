@@ -21,10 +21,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Freistehender** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Phishing-Erstprüfung** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Phishing-Erstprüfung: 6-Schritte-Diagnose
+1. **Modalität des Angriffs:** Phishing (E-Mail), Smishing (SMS), Vishing/Call-ID-Spoofing (Anruf), MitM, Trojaner.
+2. **Zahlungsmodalität:** push-TAN, smsTAN, photoTAN, App-TAN, mTAN, ChipTAN — Beweislast und SCA-Bewertung variieren.
+3. **Autorisierung:** Nicht autorisiert (Konto übernommen, kein Wissen Kunde) — § 675u BGB; vs. autorisiert unter Täuschung (Kunde gibt TAN frei) — § 675j BGB.
+4. **Frist Anzeige Bank:** § 676b Abs. 2 BGB — 13 Monate ab Belastung als Ausschlussfrist; sehr ernst nehmen.
+5. **Mitverschulden:** § 675v BGB — bei grober Fahrlässigkeit (Beweislast Bank!) volle Haftung; bei normaler Fahrlässigkeit Bank trägt; bei starker Kundenauthentifizierung nicht durchgesetzt: Bank trägt (§ 675v Abs. 4).
+6. **Mandatsziel:** Rückerstattung von Bank? Schlichtung? Strafanzeige? Cyberversicherung?
+
+## Trade-off
+Bei "autorisiert unter Täuschung" (Kunde hat freiwillig PIN/TAN nach Phishing-Mail freigegeben) sind die Erfolgsaussichten zivilrechtlich gering — Bank trägt regelmäßig nicht. Bei "nicht autorisiert" (Konto übernommen) sind die Aussichten gut. Diese Sortierung im Erstgespräch klären, um Erwartungen realistisch zu setzen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

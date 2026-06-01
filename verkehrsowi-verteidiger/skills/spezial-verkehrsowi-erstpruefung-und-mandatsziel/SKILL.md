@@ -37,3 +37,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## OWi-Erstpruefung Mandatsziel Bausteine
+- **Sofort-Triage in 5 Punkten:**
+  - **(1) Zustellungsdatum** Bussgeldbescheid? § 67 OWiG 2 Wochen Einspruchsfrist.
+  - **(2) Tatvorwurf-Typ** (Geschwindigkeit, Abstand, Rotlicht, Handy, Alkohol, Drogen)?
+  - **(3) Sanktionsumfang** (Geldbusse, Punkte, Fahrverbot)?
+  - **(4) Beruflich existenzbedrohend** (Berufskraftfahrer, Pendler, Aussendienst)?
+  - **(5) Vorbelastung** (Punktestand FAER, Wiederholungstaeter § 4 II StVG, MPU-Risiko)?
+- **Mandatsziele-Hierarchie:**
+  - **Verfahren einstellen** § 47 OWiG (Geringfuegigkeit, oeffentliches Interesse).
+  - **Fahrverbot abwenden** (auch ueber Erhoehung Geldbusse als Kompensation, BGH-Linie).
+  - **Punkte abwenden** (insb. bei drohender 8-Punkte-Grenze).
+  - **Geldbusse senken** (oft realistisch ueber Beschraenkung).
+  - **Schuldspruch beseitigen** (Messfehler, Identitaetszweifel).
+- **Akteneinsicht § 49 OWiG i.V.m. § 147 StPO sofort:**
+  - Messprotokoll, Lichtbild, Eichschein, Bedienerschein, Lebensakte Geraet.
+  - Rohdaten (.case / .esa / etc.) - BVerfG-Linie zur fair-trial-Garantie.
+  - Schulungsnachweis Messbeamter.
+- **Verteidigungsstrategie-Optionen:**
+  - **Messfehler** (Standardisierungsfrage, Toleranzunterschreitung, Bedienfehler).
+  - **Identitaetszweifel** (Lichtbild zeigt nicht Halter; Halterauskunft § 31a StVZO trotzdem zulaessig).
+  - **Verfahrensfehler** (Verjaehrung § 26 III StVG, Zustellungsmaengel, Anhoerungspflicht § 55 OWiG).
+  - **Rechtsfolgenmilderung** (Tagessatzhoehe; Fahrverbot Haerte).
+- **Risikoampel:**
+  - **Rot:** Fristablauf droht, Fahrverbot bei Berufskraftfahrer, drohende 8-Punkte-Grenze, MPU-Anordnung.
+  - **Gelb:** Beweislage unklar, Messverfahren angreifbar.
+  - **Gruen:** dokumentierte Mandantenfreigabe, Strategie klar.

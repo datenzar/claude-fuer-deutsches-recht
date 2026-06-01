@@ -6,7 +6,20 @@ description: "Output wählen im Plugin produktrecht: entscheidet zwischen Memo, 
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `produktrecht` Output wählen im Plugin produktrecht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt den produktrechtlichen Output: CE-Konformitätsanalyse, Rückrufkonzept, Marktüberwachungs-Verteidigung, GPSR-Safety-Gate-Meldung, AGB-/Lieferketten-Audit-Memo, Produkthaftungsklage / Klageerwiderung.
+
+## Output-Typen mit Anker-Normen
+- **CE-Konformitätsbescheinigung:** DoC nach Anh. der jeweiligen RL/VO; Konformitätsverfahren (Modul A bis H) je nach Risikoklasse.
+- **GPSR-Meldung Safety Gate (Art. 19 VO (EU) 2023/988):** binnen 24 h bei ernster Gefahr; Datenfelder Produkt, Risiko, Marktort, Maßnahme.
+- **Rückrufkonzept:** Verbreitungsanalyse, Rückrufweg (online, Handel, Endkunde), Kommunikation, Logistik, Erstattung, Dokumentation.
+- **Marktüberwachungs-Verteidigung:** Stellungnahme an Bundesnetzagentur / BAuA / Landesbehörden; ggf. Widerspruch nach VwGO.
+- **Produkthaftungsklage / -verteidigung:** Anker §§ 1, 4, 5 ProdHaftG; verschuldensunabhängig; Haftungshöchstbetrag § 10 ProdHaftG (85 Mio. EUR Personenschaden je Produkt); Entwicklungsrisiko § 1 Abs. 2 Nr. 5 ProdHaftG.
+- **Vertragliche Mängelhaftung B2B:** § 437 BGB Nachbesserung/Lieferung/Rücktritt/Minderung/Schadensersatz; § 478 BGB Lieferantenregress.
+- **LkSG / CSDDD Audit:** Risikoanalyse, Präventionsmaßnahmen, Beschwerdeverfahren, Berichterstattung.
+
+## Methodisch
+- Verschuldensunabhängige ProdHaftG-Haftung trennt sich von deliktischer (§ 823 Abs. 1, 2 BGB; § 826 BGB) -- Beide prüfen.
+- Ab 09.12.2026 gilt RL (EU) 2024/2853 (neue Produkthaftungs-RL) -- Umsetzungs-/Anwendungsstand live prüfen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

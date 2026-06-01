@@ -6,7 +6,20 @@ description: "Red-Team Qualitygate im Plugin memorandums-ersteller: prüft das E
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `memorandums-ersteller` Red-Team Qualitygate im Plugin memorandums-ersteller: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill prüft das fertige Memo vor Versand auf typische Schwächen: Halluzinationen, fehlende Gegenargumente, übersehene Sondernormen, schwache Subsumtion, unklare Empfehlung, fehlender Vertraulichkeitsvermerk.
+
+## Red-Team-Punkte Memo
+- **Halluzinations-Scan:** Jede zitierte Entscheidung mit echtem Az.? "Ständige Rspr." mit konkretem Az. belegt? Kommentar-/Aufsatzfundstellen mit Quelle?
+- **Anspruchsgrundlagen vollständig?** Reihenfolge Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung (vgl. CLAUDE.md / `references/methodik-buergerliches-recht.md`).
+- **Subsumtion sauber?** Obersatz - Definition - Tatsachen - Schluss; keine Sprung-Subsumtion; keine Zirkelschlüsse.
+- **Gegenargumente / Mindermeinung gewürdigt?** Wenn entscheidungserheblich.
+- **Sondernormen geprüft?** AGB-Recht (§§ 305 ff. BGB), Verbraucherschutz (§§ 13, 14, 312 ff. BGB), DSGVO, Sektorengesetze (KWG, ZAG, GWG, etc.).
+- **Auslegung erklärt?** Vier Auslegungsmethoden zzgl. verfassungs-/unionsrechtskonform.
+- **Empfehlung klar?** Eine Linie, mit Begründung; Alternativen mit Trade-off.
+- **Risikoanalyse?** Restrisiken benannt; "Cone of uncertainty".
+- **Form:** Kurzantwort am Anfang, Quellenverzeichnis am Ende, Privileged & confidential.
+- **Sprache:** Gutachtenstil bei Memo-Hauptteil; Cover-Letter mandantengerecht.
+- Falle: Memo nur aus Mandantenperspektive -- bedenke immer auch die Sicht der Gegenseite / der Behörde / des Gerichts.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

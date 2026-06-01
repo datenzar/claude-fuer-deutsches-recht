@@ -6,7 +6,20 @@ description: "Rechtsquellen-Livecheck im Plugin patentrecherche: zwingt vor trag
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `patentrecherche` Rechtsquellen-Livecheck im Plugin patentrecherche: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill zwingt vor jeder Bewertung in der Patentrecherche zum Live-Check der relevanten Register und der einschlägigen Norm-/Rechtsprechungs-Quellen.
+
+## Pflichtquellen Patentrecherche
+- **Patentregister:** `register.dpma.de` (DPMA), `register.epo.org` (EPO), `worldwide.espacenet.com`, `patentscope.wipo.int` (PCT), `patents.google.com`, USPTO Patent Public Search, JPlatPat, CNIPA.
+- **Gesetze:** PatG, GebrMG, EPÜ, PCT, UPC-Agreement -- `gesetze-im-internet.de` (DE), `epo.org/law-practice/legal-texts/epc.html` (EPÜ), `wipo.int` (PCT).
+- **Klassifikationen:** IPC und CPC unter `worldwide.espacenet.com/patent/cpc-browser` und `wipo.int/classifications/ipc`.
+- **Rechtsprechung:** BPatG (`bpatg.de`), BGH-Patentsenat (`bundesgerichtshof.de`), EPA-Beschwerdekammern (`epo.org/law-practice/case-law-appeals.html`), EuGH (`curia.europa.eu` -- C-/T-Nummer mit ECLI), UPC (`unifiedpatentcourt.org`).
+- **Non-Patent-Literature (NPL):** Google Scholar, IEEE Xplore, ACM Digital Library, PubMed -- für Validity-Search wichtig (Konferenzbeiträge können neuheitsschädlich sein).
+
+## Anti-Halluzinations-Regeln
+- Patentnummern nie ergänzen oder ändern -- jede Nummer im Register live verifizieren.
+- "EP 1 234 567 A1" hat A1/A2/A3/B1/B2 Veröffentlichungstyp -- Statuscode prüfen, sonst falsch zitiert.
+- Erteilungsstatus, Validierungen pro Land und Rechtsmittelstatus separat prüfen.
+- Bei UPC: Opt-out-Status individuell prüfen (Übergangszeit).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

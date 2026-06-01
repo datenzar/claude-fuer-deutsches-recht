@@ -6,7 +6,22 @@ description: "Rechtsquellen-Livecheck im Plugin zitierweise-deutsches-recht: zwi
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `zitierweise-deutsches-recht` Rechtsquellen-Livecheck im Plugin zitierweise-deutsches-recht: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill verlangt vor jeder Zitatfreigabe einen Live-Check in einer frei zugänglichen oder lizenzierten Quelle. Er bündelt die Pflichtquellen je Zitatklasse.
+
+## Live-Checkpunkte je Zitatklasse
+- **Norm:** `gesetze-im-internet.de`, Landesrechts-Portale (z. B. `landesrecht-bw.de`, `recht.nrw.de`). Fassungsdatum / letzte Änderung prüfen, BGBl.-Bekanntmachung markieren.
+- **BGH / BVerfG / BVerwG / BAG / BSG / BFH:** Pressemitteilungen und Volltext direkt auf der jeweiligen Bundesgerichts-Seite; Az. exakt; Randnummer der zitierten Stelle.
+- **OLG:** länderspezifische Datenbanken; oft auch `dejure.org`, `openjur.de` als Aggregator (Volltext frei).
+- **EuGH / EuG:** `curia.europa.eu` (Rechtssache C-/T-Nummer, ECLI als Permalink).
+- **Verwaltungsbehörden (BaFin, BKartA, BfDI):** offizielle Verlautbarungen mit Datum und Aktenzeichen.
+- **Zeitschriften (NJW, NZG, GRUR, ZIP, BB):** Heft, Anfangsseite, ggf. Verlagsdatenbank (Beck-Online, juris) -- nur als Volltext über lizenzierten Zugriff zitierbar.
+- **Kommentare (MüKo, Staudinger, Palandt/Grüneberg, Schönke/Schröder):** Bearbeiter, Werk, Auflage, Jahr, Norm, Rn. -- nur mit lizenziertem Zugriff oder vom Mandanten gelieferter Quelle.
+- **Aufsätze:** Anfangsseite + konkrete Seite "(549)" und Autor + Zeitschrift.
+
+## Verifizierungsregeln
+- Az. nie aus Modellwissen ergänzen.
+- Bei Hinweis auf "ständige Rspr." mindestens eine Leitentscheidung mit echtem Az. nennen.
+- Bei nicht-amtlichen Quellen (Beck-Online, juris) Hinweis auf Paywall und Verlagsdatenbank.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

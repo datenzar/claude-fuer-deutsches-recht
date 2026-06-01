@@ -37,3 +37,39 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## StVO-Dokumentenmatrix Bausteine
+- **StVO-Verstoesse-Dokumentation:**
+  - **Verkehrsschilderlage** zur Tatzeit (Beschilderung gueltig? Tempo-Limit-Schild erkennbar? Verschilderung StVO-Konform? Unterschilderung kritisch).
+  - **Wegmarkierungen** (Mittelstreifen, Sperrflaeche, Halt-/Stop-Linien).
+  - **Ampelphasen** bei Rotlichtverstoss (Phasenpruefung, qualifizierter Rotlichtverstoss ab 1 Sek + Fahrverbot Regelsanktion).
+  - **Abstandsmessung BAB:** Auswertung Foto-Folgeauflage; halber Tacho-Regel (BGH-Linie).
+- **Pflichtdokumente bei OWi/Strafverfahren:**
+  - **Bussgeldbescheid** mit Tenor, Tatzeit-/ort, Strafvorschrift, Rechtsmittelbelehrung.
+  - **Messprotokoll** Geschwindigkeit / Abstand / Atemalkohol.
+  - **Messfoto** Frontfoto / Heckfoto / Video.
+  - **Eichschein** Geraet im Tatzeitraum.
+  - **Bedienerschein** Messbeamter / Polizeibeamter.
+  - **Lebensakte Geraet** (Reparaturen, Updates).
+  - **Lichtbild Fahreridentifizierung**.
+- **Lueckenliste Standard:**
+  - Eichschein fehlt / abgelaufen?
+  - Bedienerschein fehlt?
+  - Toleranzwerte abgezogen?
+  - Beweisfoto nicht eindeutig (Verdeckung, Bewegungsunschaerfe)?
+  - Standardisiertes Messverfahren angewandt? (BGH-Linie zur Vermutung Richtigkeit).
+  - **Rohdaten** verfuegbar (BVerfG-Linie zur fair-trial-Garantie zur Akteneinsicht)?
+- **Nachforderungs-Schreiben Vorlage:**
+  ```
+  Sehr geehrte Damen und Herren,
+  zur Akte Az ... bitten wir innerhalb von 14 Tagen um Vorlage / Mitteilung:
+  - Eichschein des Messgeraets ... im Tatzeitraum.
+  - Bedienerschein / Schulungsnachweis des Messbeamten ...
+  - Lebensakte des Messgeraets.
+  - Vollstaendige Rohdatensaetze (.case bzw. .esa) der Messung.
+  - Bedienungsanleitung des Messgeraets in der zum Tatzeitpunkt gueltigen Fassung.
+  
+  Diese Angaben sind erforderlich, um die ordnungsgemaesse Durchfuehrung der Messung 
+  fair-trial-konform pruefen zu koennen (BVerfG, staendige Rspr. zur Akteneinsicht).
+  ```
+- **Strategie:** Bei vollstaendiger Akte Pruefung gegen PTB-Bauartzulassung; ggf. Sachverstaendigengutachten beantragen § 244 StPO i.V.m. § 71 OWiG.

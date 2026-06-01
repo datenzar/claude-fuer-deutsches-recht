@@ -7,7 +7,25 @@ description: "Hilft bei Familienrecht Warnwoerter fuer Menschen mit Deutsch als 
 
 ## Zweck
 
-Dieser Skill unterstuetzt bei **Familienrecht Warnwoerter**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+Dieser Skill markiert typische **Warnwoerter im Familienrecht** und hilft Menschen mit Deutsch als Zweitsprache, riskante Erklaerungen zu Trennung, Scheidung, Sorgerecht, Unterhalt, Vermoegensauseinandersetzung zu erkennen.
+
+## Warnwoerter mit hoher Tragweite
+- **Scheidungsantrag**: leitet Scheidungsverfahren ein; Trennungsjahr Pflicht (§ 1565 BGB), Ausnahme Haertescheidung (§ 1565 Abs. 2 BGB).
+- **Trennungsjahr**: § 1567 BGB; nicht "Probetrennung" mit Versoehnung verwechseln, sonst beginnt das Trennungsjahr von vorn.
+- **Versorgungsausgleich**: § 1587 BGB; bei kurzer Ehe (< 3 Jahre) nicht automatisch.
+- **Zugewinnausgleich**: § 1378 BGB; Vermoegensbilanz Anfang/Ende der Ehe; Auskunftspflicht § 1379 BGB.
+- **Sorgeerklaerung** (§ 1626a BGB) bei nichtehelich Geborenen: Achtung -- Sorgerecht teilen, unwiderruflich.
+- **Verzicht auf Trennungsunterhalt / nachehelichen Unterhalt**: oft im Ehevertrag; nicht unterschreiben ohne Beratung.
+- **Anerkenntnis Vaterschaft** (§ 1594 BGB): in der Folge Unterhaltspflicht.
+- **Aufhebungsantrag Ehe** (§ 1313 BGB): seltener Spezialfall (Doppelehe, Geschaeftsunfaehigkeit).
+- **Sorgerechtsentzug / Aufenthaltsbestimmungsrecht**: ernste Folge fuer Eltern; Anhoerung Jugendamt und Kind (§ 159 FamFG).
+- **Anhoerung beim Familiengericht**: oft entscheidungserheblich, Vorbereitung mit Anwalt sinnvoll.
+- **"Einvernehmliche Scheidung"**: bedeutet nicht: ohne Anwalt; Antragsteller braucht Anwalt (§ 114 FamFG).
+
+## Vor jeder Unterschrift / Erklaerung
+- Bin ich mir der Tragweite bewusst (Unterhalt, Vermoegen, Sorge)?
+- Habe ich Anspruch auf Verfahrenskostenhilfe (§§ 76 ff. FamFG)?
+- Wurde ich vor Gericht in der Muttersprache angehoert? Dolmetscher (§ 185 GVG).
 
 ## Start
 

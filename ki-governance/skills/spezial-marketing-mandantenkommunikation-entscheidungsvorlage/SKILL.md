@@ -21,10 +21,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Marketing** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Marketing-KI** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Mandantenkommunikation Marketing-KI
+- **Sachstand:** Welches Marketing-Tool nutzt KI? Welche Funktion (Personalisierung, Predictive Targeting, Lookalike, dynamische Anzeigen, Chatbot)?
+- **Rechtsrahmen:**
+  - **DSGVO**: Art. 6 Rechtsgrundlage (oft Einwilligung Art. 6 Abs. 1 lit. a oder berechtigtes Interesse Art. 6 Abs. 1 lit. f); Art. 22 bei automatisierten Entscheidungen.
+  - **TDDDG § 25**: Einwilligung bei Endgerätezugriff (Cookies, Tracking-Pixel) — zwingend vor der Verarbeitung.
+  - **KI-VO Art. 50**: Transparenzpflicht bei KI-generierten Inhalten (z. B. Deepfakes), bei Chatbots klare Information.
+  - **UWG §§ 5, 5a**: Irreführungsverbot — KI-Empfehlungen müssen als solche erkennbar sein.
+- **Risiken:** Bußgelder DSGVO (4 %), KI-VO (3-7 %), UWG-Abmahnungen.
+- **Empfehlung:** Transparenz-First-Strategie; klare Kennzeichnung, dokumentierte LIA, Opt-Out-Mechanismus.
+
+## Praxis-Tipp
+KI-generierte Werbung muss nach Art. 50 KI-VO als solche gekennzeichnet sein — sonst riskieren Marketingteams sowohl KI-VO-Sanktion als auch UWG-Abmahnung wegen Irreführung. Empfehlung: standardisierter Kennzeichnungs-Workflow im DAM/CMS einrichten, nicht ad hoc.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

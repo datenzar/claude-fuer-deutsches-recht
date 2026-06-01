@@ -33,3 +33,25 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafakte-Mandantenkommunikation Bausteine
+- **Aktenstand-Brief an Mandant** strukturiert:
+  - Stand der Ermittlungen (Anklage erhoben / Eroeffnungsbeschluss / Hauptverhandlung anberaumt / Urteil verkuendet).
+  - Tatvorwurf in Kurzfassung.
+  - Beweislage (Indizien fuer / gegen Mandant; staerkste Belastungsbeweise und Entlastungsindizien).
+  - Strafmasserwartung (Bandbreite, nicht ein Wert).
+  - Entscheidungsoffene Punkte (Verstaendigung, Gestaendnis, Beweisantraege).
+- **Pflicht-Hinweise:**
+  - **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB; § 53 I Nr. 2 StPO Verteidiger-Zeugnisverweigerung.
+  - **Schweigerecht** Mandant § 136 I 2 StPO; nie ohne Vorbereitung gegenueber Polizei aussagen.
+  - **Aussagebegrenzungen Familie** § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO bei drohender Selbstbelastung.
+- **Strategie-Freigabe** schriftlich:
+  - Akteneinsicht-Anmeldung.
+  - Stellungnahme zur Anklage.
+  - Beweisantraege.
+  - Verstaendigung § 257c StPO.
+  - Gestaendnisbereitschaft.
+  - Rechtsmittelverzicht / -einlegung / -ruecknahme.
+- **Kostenhinweis RVG:** Grundgebuehr VV 4100; Verfahrensgebuehr VV 4106 ff. je nach Verfahrensstufe; Terminsgebuehr VV 4108 ff.; Pflichtverteidigergebuehren als Verfahrenskosten zu tragen vom Mandant bei Verurteilung.
+- **Notfall-Kontakt** bei U-Haft / Polizeivernehmung Mandant: 24/7-Erreichbarkeit; Vollmacht inklusive § 138 StPO.
+- **Inhaftiert-Korrespondenz:** Verteidigerpost unueberwacht § 148 StPO (Ausnahme: §§ 129a, 129b StGB-Verdacht).

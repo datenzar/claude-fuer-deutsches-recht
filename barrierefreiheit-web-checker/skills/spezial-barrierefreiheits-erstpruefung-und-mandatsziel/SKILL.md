@@ -21,10 +21,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Barrierefreiheits** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Barrierefreiheit** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Erstprüfung Barrierefreiheit: 5-Schritte-Diagnose
+1. **Rolle bestimmen:** Hersteller (§ 3 Nr. 1 BFSG), Importeur (§ 3 Nr. 2), Händler (§ 3 Nr. 3), Dienstleistungserbringer (§ 3 Nr. 4) — Pflichtenkanon je nach Rolle.
+2. **Anwendungsbereich BFSG (§ 1):** Liegt das konkrete Produkt/Dienst im abschließenden Katalog (Computerhardware, Selbstbedienungsterminals, Verbraucherendgeräte für elektronische Kommunikation, audiovisuelle Mediendienste, Personenverkehr, Bankendienstleistungen, E-Books, elektronischer Geschäftsverkehr)?
+3. **Kleinstunternehmens-Ausnahme (§ 3 Abs. 3 BFSG):** Beschäftigte < 10 und Jahresumsatz/Bilanzsumme < 2 Mio. EUR?
+4. **Zeitlich:** Inverkehrbringen vor oder nach 28.06.2025? Übergang § 38 BFSG für Selbstbedienungsterminals bis 27.06.2040.
+5. **Mandatsziel:** Erst-Audit? Konformitätserklärung? Klagedrohung abwehren? Mängelbeseitigung gegen Behörde verteidigen? Schlichtung initiieren?
+
+## Trade-off
+Vollumfängliches Audit aller Seiten/Funktionen vs. risikobasiertes Stichprobenaudit: bei großen Plattformen wirtschaftlich nur risikobasiert möglich. Aber: Konformitätserklärung muss den geprüften Geltungsbereich klar benennen — sonst trägt sie nicht die Generalaussage.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

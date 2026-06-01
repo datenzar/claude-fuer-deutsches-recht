@@ -21,10 +21,21 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Pflegt** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kanzlei-KI-Richtlinie** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Erstprüfung Kanzlei-KI-Richtlinie
+1. **Bestandsaufnahme:** Welche Tools sind bereits im Einsatz? Inoffiziell (Shadow-IT) und offiziell?
+2. **Reife:** Existiert bereits eine Richtlinie? Mit welchen Mängeln (kein Inventar, keine Whitelist, kein Schulungsnachweis)?
+3. **Kanzleistruktur:** Größe, Berufsstand, interdisziplinär? Syndikus, Steuerberatung, Wirtschaftsprüfung, Notariat mitabgedeckt?
+4. **Datenflüsse:** Welche Mandanten-/Mitarbeitenden-/Bewerberdaten? Welche Sensibilität (insb. Strafrechtsmandate, Gesundheitsmandate)?
+5. **Betriebsrat:** Bei größeren Kanzleien § 87 Abs. 1 Nr. 6 BetrVG für Tools, die zur Verhaltens-/Leistungskontrolle geeignet sind.
+6. **Ziel:** Vollständige Erstrichtlinie? Nachbesserung? Tool-Einzelfreigabe? Schulungsprogramm?
+
+## Trade-off
+Eine sehr lange, vollständige Richtlinie ist schwer durchsetzbar — sie wird nicht gelesen. Eine sehr kurze Richtlinie verfehlt regulatorische Anforderungen (Art. 4 KI-VO, DSGVO Verzeichnis Art. 30). Empfehlung: Zweischichtig — Langversion mit allen Details + One-Pager für den Arbeitsplatz. Schulung mit Quiz dokumentiert.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

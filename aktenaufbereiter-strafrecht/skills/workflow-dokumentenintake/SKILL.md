@@ -33,3 +33,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafakte-Intake-Bausteine
+- **Sichten:** Anklageschrift § 200 StPO (Anklagesatz, wesentliches Ergebnis Ermittlungen, Beweismittelverzeichnis); Eroeffnungsbeschluss § 207 StPO; Hauptverhandlungsprotokoll § 273 StPO; Urteil §§ 267, 268 StPO; Strafbefehl § 408 StPO; Polizeibericht; Beschuldigtenvernehmung (Belehrung § 136 StPO!); Zeugenvernehmungen; Sachverstaendigengutachten; Asservatenverzeichnis; TKUe-/Telekommunikationsueberwachungsprotokolle § 100a StPO.
+- **Fristen rot markieren:**
+  - Rechtsmittel: Berufung § 314 StPO (1 Woche), Revision §§ 341, 345 StPO (1 Woche / 1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen).
+  - U-Haft: 6 Monate § 121 StPO (automatische OLG-Pruefung), Haftbeschwerde § 117 StPO jederzeit.
+  - Verjaehrung §§ 78 ff. StGB pro Tat.
+- **Beweismittel-Typisierung StPO:** Urkunde § 249, Zeuge § 48, Sachverstaendiger § 73, Augenschein § 86, Beschuldigtenvernehmung § 136.
+- **Verwertbarkeitsfragen sofort markieren:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Sperrwirkung; Belehrungsmaengel BGH-Linie; § 161 StPO StA-Befugnisse; § 105 StPO Durchsuchungsmangel.
+- **Belegmatrix-Spalten:** Datum, Aktenseite (AS), Inhalt, Beweismittel-Typ, Verteidigungsrelevanz, Verwertbarkeit, Aktion (Beweisantrag § 244 StPO / Widerspruch § 257 StPO / Sicherstellung).
+- **Anschluss:** Chronologie / Belegmatrix / Beweisverwertungsverbote.

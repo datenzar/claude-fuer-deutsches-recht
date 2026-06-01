@@ -21,10 +21,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Kanzlei** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **IT-Recht Beweislast** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Beweislast und Substanziierung IT-Recht
+- **Werkvertrag § 631 BGB**:
+  - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH NJW 2011, 1437).
+  - **Nach Abnahme**: Besteller trägt Mangel-Beweis und Beweis zum Zeitpunkt der Abnahme.
+- **SaaS § 535 BGB analog**: Mietminderung — Besteller darlegt konkrete Verfügbarkeitsmängel; Bemessung anhand SLA-Klauseln.
+- **AGB-Inhaltskontrolle §§ 305 ff.**:
+  - **Verwender trägt Einbeziehungs- und Klarheits-Beweis**.
+  - **Klauselverbote §§ 308/309** sind objektiv; Verwender muss konkret Geschäftserfordernis darlegen.
+- **DSGVO Rechenschaftspflicht Art. 5 Abs. 2**: Verantwortlicher trägt Beweislast für Konformität — Verzeichnis Art. 30, AVV, DSFA, Schulungsnachweise.
+- **Vorlagepflichten § 142 ZPO**: Gericht kann Urkundenvorlage anordnen — auch außerhalb der Beweislastverteilung.
+
+## Substanziierungsregeln in IT-Klagen
+- **Konkretes Mangelbild**: "Was funktioniert nicht, unter welchen Bedingungen, mit welcher Auswirkung?" — pauschal "Software ist mangelhaft" trägt nicht.
+- **Reproduzierbarkeit**: Test-Protokolle, Logs, Screenshots, Browserfingerprint, Versionsstand.
+- **Vergleich Soll/Ist**: Pflichtenheft oder SLA als Soll; Test-Ergebnis als Ist.
+- **Schaden**: konkrete Berechnung (entgangener Gewinn, Mehraufwand, Mietminderung).
+
+## Praxis-Tipp
+Bei SLA-Mängeln häufiger Fehler: Verfügbarkeit als Quartalsdurchschnitt vereinbart, aber Klage stützt sich auf Tagesausfall. Bei SLA-Wortlaut "monatliche Verfügbarkeit" sind nur Monatswerte tragend. Vertragstext sorgfältig prüfen, sonst trägt der Vortrag nicht.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

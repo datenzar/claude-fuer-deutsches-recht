@@ -37,3 +37,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Sachschaden Verkehrsunfall - Live-Quellen und Bausteine
+- **Schadenspositionen-Katalog mit Anspruchsgrundlage:**
+  - **Reparaturkosten** § 249 II BGB (Naturalrestitution); fiktive Abrechnung moeglich.
+  - **Wiederbeschaffungswert** wenn Reparatur unwirtschaftlich (BGH 130-%-Grenze).
+  - **Wertminderung (Merkantil)** §§ 249 ff. BGB; BVSK-Honorartabelle; nicht bei zu altem Fahrzeug (Faustregel 5 Jahre / 100.000 km).
+  - **Nutzungsausfall** abstrakte Schadensgruppen (Schwacke); konkrete Mietwagenkosten alternativ.
+  - **Mietwagen** (Frauenhofer / Schwacke / Mittelwert je nach OLG-Rsp.).
+  - **Sachverstaendigenkosten** § 249 BGB; angemessen, nicht beliebig hoch.
+  - **An- und Abmeldekosten** Kfz.
+  - **Standkosten** falls Wartezeit.
+  - **Unkostenpauschale** (regelmaessig 20-30 EUR).
+  - **Schmerzensgeld** § 253 BGB bei Personenschaden; Schmerzensgeldtabellen Hacks / Beck.
+  - **Heilbehandlungskosten, Verdienstausfall, Haushaltsfuehrungsschaden, Pflegekosten.**
+- **Anspruchsgrundlagen-Rechtsprechung (BGH-Linien):**
+  - **BGH zur 130-%-Grenze:** Reparaturkosten ueber WBW max. 30 % bei tatsaechlicher und fachgerechter Reparatur sowie Weiterbenutzung 6 Monate.
+  - **BGH zur fiktiven Abrechnung:** Reparaturkosten netto auf Stundenverrechnungssatz-Basis (Markenwerkstatt-Tariflisten).
+  - **BGH zur Verweisung Werkstatt:** Versicherer kann auf gleichwertige Werkstatt verweisen (DEKRA-Bedingungen).
+  - **BGH zum Mietwagen:** Frauenhofer-Liste / Schwacke / Mittelwert; differenziert nach Bundeslaendern.
+  - **BGH zur Wertminderung:** keine bei zu altem Fahrzeug; bei Bagatellschaden nicht; objektives Marktverhalten.
+- **Quotelung Mitverschulden § 254 BGB / § 17 StVG:**
+  - Vorfahrt vs. Geschwindigkeit: Vorfahrtverletzer haftet idR voll.
+  - Unaufmerksamkeit / Auffahrt: Auffahrer haftet idR voll (Anscheinsbeweis).
+  - Abbieger ohne Blinker: Mitverschulden 25-50 %.
+- **Aktive Beweissicherung:** Eigener SV bei klarer Haftung; Lichtbilder Unfallstelle, beschaedigte Fahrzeuge, Spuren, Endlagen, Bremsspuren.

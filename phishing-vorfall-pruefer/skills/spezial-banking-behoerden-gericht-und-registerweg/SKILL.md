@@ -21,10 +21,25 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Banking** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Banking-Phishing** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Banking-Behördenwege bei Phishing
+- **Bank selbst:** Rückerstattungsantrag § 675u BGB → Beschwerdeabteilung der Bank.
+- **Schlichtungsstellen Bank-Sparkassen:**
+  - **Schlichtungsstelle bei der Deutschen Bundesbank** (für nicht in privaten Schlichtungsstellen erfasste Banken): bundesbank.de/schlichtungsstelle.
+  - **Ombudsmann der privaten Banken** (Bankenverband): bankenombudsmann.de.
+  - **Ombudsmann der öffentlichen Banken** (VöB).
+  - **Schlichter der Sparkassen** (DSGV) und **Schlichter der Genossenschaftsbanken** (BVR).
+- **BaFin:** bafin.de — Beschwerde bei groben Bankpflichtverletzungen; keine Rückerstattung, aber aufsichtsrechtliche Wirkung.
+- **Polizei / Staatsanwaltschaft:** Strafanzeige wegen §§ 263a, 269 StGB; Aktenzeichen für spätere Akteneinsicht § 406e StPO.
+- **DSB / Aufsichtsbehörde:** bei Datenlecks (Art. 33 DSGVO).
+- **Zivilgericht:** AG bei Streitwert <= 5.000 EUR, LG > 5.000 EUR; ggf. § 29c ZPO Wohnsitz Verbraucher.
+
+## Praxis-Tipp
+Schlichtungsverfahren laufen oft schnell (3-6 Monate), sind regelmäßig kostenfrei für Verbraucher und werden von Banken ernst genommen — auch ohne Vergleichsdruck steigt die Erstattungsquote. Bei klarer Sachlage (nicht autorisiert, SCA-Mangel) ist Schlichtung der pragmatische Erstweg vor Klage.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -37,3 +37,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafzumessungstatsachen / Verhandlung Bausteine
+- **Verstaendigung § 257c StPO Eckpunkte:**
+  - **Inhalt zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze).
+  - **Inhalt unzulaessig:** Schuldspruch verzichtbar; Massregeln § 257c II 3 StPO.
+  - **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung; Wegfall der Bindung bei neuen erheblichen Umstaenden.
+  - **Geschaeftsgrundlage** regelmaessig Gestaendnis Angeklagter; aber Beweisaufnahme nicht ersparbar (BGH-Linie).
+- **TOA § 46a StGB:**
+  - **Nr. 1:** Wiedergutmachung des Schadens ganz oder ueberwiegend.
+  - **Nr. 2:** Ernsthafte Bemuehung um Aussoehnung mit Verletztem.
+  - **Folge:** Strafmilderung § 49 StGB / Absehen von Strafe (max. 1 Jahr Freiheitsstrafe / Geldstrafe).
+  - **Praxis:** TOA-Vermittlungsstelle einschalten; Vereinbarung schriftlich; Erfuellung dokumentieren.
+- **Schadenswiedergutmachung als Strafzumessungstatsache:**
+  - Voll: erhebliche Strafmilderung.
+  - Teilweise mit Tilgungsplan: dann moderate Milderung; Plan verbindlich machen.
+  - Bei Vermoegensdelikten: Einziehung § 73 ff. StGB anrechnen.
+- **Verhandlungsspielraum mit StA / Gericht:**
+  - Strafmass-Korridor sondieren (Vorgespraech ausserhalb Hauptverhandlung).
+  - Einstellung §§ 153, 153a StPO als Alternative.
+  - Auflagen § 153a StPO (Schadenswiedergutmachung, Geldzahlung Bussgeld an gemeinnuetzige Einrichtung, gemeinnuetzige Arbeit).
+- **Eskalation und Alternativen:**
+  - Antrag Hauptverhandlung bei Erfolgsaussicht Beweisaufnahme.
+  - Beweisantraege § 244 StPO.
+  - Hilfsbeweisantraege bei Bedingung Verurteilung.
+  - Schlussvortrag mit Strafmass-Argumentation entlang § 46 StGB.
+- **Kompensation bei langer Verfahrensdauer:** Strafabschlag wegen rechtsstaatswidriger Verfahrensdauer Art. 6 EMRK / Art. 20 III GG; BGH-Vollstreckungsloesung (Anrechnung auf Strafe).

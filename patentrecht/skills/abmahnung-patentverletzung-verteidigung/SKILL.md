@@ -35,3 +35,16 @@ description: "Verteidigt gegen Patentabmahnungen: Fristen, Unterlassungserkläru
 ## Regel
 
 Nie empfehlen, eine vorformulierte Unterlassungserklärung ungeprüft zu unterschreiben. Immer Umfang, Vertragsstrafe, Anerkenntniswirkung, Auskunft und Rückruf isoliert prüfen.
+
+## Anker-Normen und Doktrinen
+- **§ 9 PatG:** Allein- und Mitbenutzungsrecht; Verletzungstatbestand.
+- **§ 14 PatG / Art. 69 EPÜ + Protokoll:** Schutzbereich richtet sich nach den Patentansprüchen; Beschreibung und Zeichnungen sind heranzuziehen.
+- **§ 139 PatG:** Unterlassungs- und Schadensersatzanspruch (Schadensersatz dreistufig: konkret, Lizenzanalogie, Gewinnabschöpfung).
+- **§ 140a PatG:** Vernichtung; **§ 140b PatG:** Auskunftsanspruch.
+- **§ 12 PatG:** Vorbenutzungsrecht -- inländische ernsthafte Benutzung vor Prioritätstag schützt vor Verletzung.
+- **Äquivalenzdoktrin** (BGH, Schneidmesser-Linie, vgl. ständige Rspr.): drei Schritte (gleiche Wirkung, Auffindbarkeit, Gleichwertigkeit im Schutzbereich).
+- **Erschöpfung:** rechtmäßig in den EWR in Verkehr gebrachte Erzeugnisse.
+- **FRAND-Pflichten bei SEP:** EuGH Huawei/ZTE, C-170/13, Urt. v. 16.07.2015.
+
+## Schutzschrift
+- Hinterlegung im Zentralen Schutzschriftenregister `schutzschriftenregister.de`; spätestens vor Antragstellung der eV; sechs Monate Gültigkeit.

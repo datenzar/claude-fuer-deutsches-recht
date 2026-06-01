@@ -6,7 +6,24 @@ description: "Output wählen im Plugin kanzlei-builder-hub: entscheidet zwischen
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `kanzlei-builder-hub` Output wählen im Plugin kanzlei-builder-hub: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das Builder-Output: neue SKILL.md, Plugin-Skeleton, Refactor eines Bestands-Skills, Test-Akte, Plugin-Manifest (`plugin.json`), CI-/Validator-Konfig.
+
+## Output-Typen Builder-Hub
+- **SKILL.md (neu):** Frontmatter genau `name` (ASCII, Kebab-Case, ≤ 64 Zeichen) und `description` (≤ 1024 Zeichen, keine Komma-Zahlen).
+- **Plugin-Skeleton:** `plugin.json` (`name`, `version`, `description`), `README.md`, `skills/`, optional `assets/`, `references/`, `tests/`.
+- **Refactor bestehender Skill:** Innenstruktur (Zweck, Eingaben, Ablauf, Quellenpflicht, Output, Beispiele); Querverweise prüfen.
+- **Test-Akte:** unter `testakten/` oder pluginspezifisch; reproduzierbarer Eingang für Validierung.
+- **CI/Validator:** Anpassung in `scripts/`; Lauf `python3 scripts/validate-yaml-frontmatter.py` und `node scripts/validate-plugin-structure.mjs`.
+
+## Konventionen
+- Sprache Deutsch (CLAUDE.md). Englische Fachbegriffe nur, wenn etabliert (Letter of Intent, Term Sheet, Due Diligence) -- erklärt.
+- Frontmatter strikt: keine zusätzlichen Felder (kein `triggers`, `when_to_use`, `language`, `rechtsgebiet`, `license`, `argument-hint`, `user-invocable`, `allowed_tools`, `tools`, `model`, `adapted_from`, `version`, `related_skills`).
+- Querverweise zwischen Skills via Markdown-Link.
+
+## Anti-Muster
+- Komma-Zahlen in `description` (`1,5` statt `1.5`).
+- Englische Frontmatter-Werte.
+- Skill ohne Zweck-Sektion ("ein Helper für ...") -- macht Suche unmöglich.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

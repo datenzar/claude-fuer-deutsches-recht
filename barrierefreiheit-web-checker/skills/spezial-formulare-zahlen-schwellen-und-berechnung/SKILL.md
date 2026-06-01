@@ -21,10 +21,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Formulare** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Barrierefreie Formulare** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Barrierefreie Formulare — Zahlen und Schwellen
+- **WCAG 2.1 AA — relevante Erfolgskriterien für Formulare:**
+  - **1.3.1 Info and Relationships (A):** Label semantisch verknüpft (`<label for>`).
+  - **1.3.5 Identify Input Purpose (AA):** `autocomplete`-Attribut bei häufigen Feldern.
+  - **2.4.6 Headings and Labels (AA):** beschreibend.
+  - **3.3.1 Error Identification (A):** Fehler werden identifiziert und beschrieben.
+  - **3.3.2 Labels or Instructions (A):** Hinweis bei Eingabefeldern.
+  - **3.3.3 Error Suggestion (AA):** Vorschläge zur Korrektur.
+  - **3.3.4 Error Prevention (Legal, Financial, Data) (AA):** Bestätigungsschritt, Korrekturmöglichkeit, Stornierung.
+  - **4.1.3 Status Messages (AA):** dynamische Statusmeldungen für Screenreader.
+- **Kontrast** (1.4.3): mindestens 4,5:1 für normalen Text, 3:1 für großen Text (>= 18pt oder 14pt fett).
+- **Tastatur-Bedienbarkeit** (2.1.1): jede Funktion ohne Maus.
+- **Captcha**: Audio-Alternative oder andere Modalität (4.1.2 i.V.m. 1.1.1).
+- **Marktüberwachung BFSG:** Bußgeldrahmen bis 100.000 EUR (§ 37 BFSG).
+
+## Praxis-Tipp
+Bei Formularen ist die häufigste Barriere kein Tastatur-Mangel, sondern fehlende Verknüpfung Label–Input (1.3.1) und unklare Fehlermeldungen (3.3.1-3). Diese sind technisch trivial behebbar — aber im Audit-Bericht oft aufgeführt.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

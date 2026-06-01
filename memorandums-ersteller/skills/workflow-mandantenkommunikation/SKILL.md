@@ -6,7 +6,27 @@ description: "Mandantenkommunikation im Plugin memorandums-ersteller: übersetzt
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `memorandums-ersteller` Mandantenkommunikation im Plugin memorandums-ersteller: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill übersetzt die rechtliche Bewertung des Memos in eine knappe, entscheidungsorientierte Nachricht an den Mandanten (Geschäftsführung, Vorstand, Inhouse-Counsel oder externe Stakeholder).
+
+## Memo-Cover für Mandant
+- **Adressat-spezifisch:** Geschäftsführung -- knapp, Risiko/Empfehlung; Vorstand/Aufsichtsrat -- mit Governance-Bezug; Investor -- mit Auswirkung auf Deal; Behörde -- ohne werbendes Element.
+- **Standard-Aufbau:**
+  1. Anliegen in einem Satz.
+  2. Kurzantwort (Ja/Nein/Bedingt) -- nicht mehr als zwei Sätze.
+  3. Empfehlung mit Begründung in 3-5 Sätzen.
+  4. Risiken / Restunsicherheiten ausdrücklich (rechtlich, faktisch, prozessual, reputativ).
+  5. Nächste Schritte mit Verantwortlichkeit und Frist.
+  6. Hinweis auf vollständiges Memo (Anlage).
+
+## Sprachregeln
+- Aktive Verben statt Nominalstil ("Sie sollten X tun" statt "Eine Tätigung von X wäre angezeigt").
+- Quantifizieren wo möglich (Umsatzschwelle, Zeitraum, Wahrscheinlichkeit).
+- Empfehlung erkennbar als solche, nicht in Konjunktiv versteckt.
+- Vertraulichkeitsvermerk im Footer ("Privileged & confidential / attorney-client privilege"; Reichweite des EU-/US-Privilegs beachten).
+
+## Anti-Muster
+- "Im Ergebnis lässt sich festhalten, dass die Rechtslage zumindest nicht eindeutig in eine bestimmte Richtung tendiert." -- Mandant lernt nichts.
+- Risiken am Ende verstecken statt prominent benennen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

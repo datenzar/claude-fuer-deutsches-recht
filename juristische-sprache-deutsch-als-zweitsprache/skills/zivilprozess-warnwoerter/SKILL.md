@@ -7,7 +7,26 @@ description: "Hilft bei Zivilprozess Warnwoerter fuer Menschen mit Deutsch als Z
 
 ## Zweck
 
-Dieser Skill unterstuetzt bei **Zivilprozess Warnwoerter**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+Dieser Skill markiert typische **Warnwoerter im Zivilprozess** und hilft Menschen mit Deutsch als Zweitsprache, Klagen, Mahnbescheide, Vollstreckungsbescheide und Urteile zu verstehen.
+
+## Warnwoerter mit hoher Tragweite
+- **Mahnbescheid (§ 692 ZPO)**: gerichtliche Aufforderung zur Zahlung. **Widerspruch binnen 2 Wochen** (§ 694 ZPO) per beigefuegtem Formular -- sonst Vollstreckungsbescheid.
+- **Vollstreckungsbescheid (§ 699 ZPO)**: wirkt wie Urteil. **Einspruch binnen 2 Wochen** (§ 700 ZPO).
+- **Klage (§ 253 ZPO)**: gerichtliche Anspruchsdurchsetzung; Frist zur Verteidigungsanzeige durch Gericht gesetzt; nicht Antworten = Versaeumnisurteil (§ 331 ZPO).
+- **Versaeumnisurteil**: ergeht ohne Verhandlung, wenn man nicht reagiert. **Einspruch binnen 2 Wochen** (§ 339 ZPO).
+- **Anerkenntnisurteil (§ 307 ZPO)**: Sie geben den Anspruch zu; sehr riskant.
+- **Erfuellungsversprechen / Schuldanerkenntnis**: bindet Sie auch ohne Klage.
+- **Klageruecknahme**: § 269 ZPO; nicht ohne Beratung.
+- **Vergleich (§ 779 BGB)**: vertraglich bindend; oft unwiderruflich.
+- **Vorlaeufige Vollstreckbarkeit**: Urteil kann sofort vollstreckt werden (§§ 708 ff. ZPO); Sicherheitsleistung pruefen.
+- **Sofortige Beschwerde (§ 567 ZPO)**: binnen 2 Wochen.
+- **Berufung (§ 511 ZPO)**: binnen 1 Monat; Begruendung binnen 2 Monaten (§ 520 ZPO).
+- **Zwangsvollstreckung**: kommt durch Gerichtsvollzieher; Pfaendungsfreigrenzen § 850c ZPO.
+
+## Vor jeder Unterschrift / Erklaerung
+- Welche Frist? Eintragen!
+- Habe ich Anspruch auf Prozesskostenhilfe (§§ 114 ff. ZPO)? Antrag mit Anlage.
+- Dolmetscher bei Termin (§ 185 GVG)?
 
 ## Start
 

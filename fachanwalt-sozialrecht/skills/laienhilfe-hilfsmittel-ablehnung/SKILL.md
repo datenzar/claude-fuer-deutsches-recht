@@ -51,3 +51,20 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Hilfsmittel-Ablehnung - Themenspezifika
+- **Doppeltraegerschaft pruefen:** Wer ist eigentlich zustaendig?
+  - **Krankenkasse (§ 33 SGB V):** Hilfsmittel zur Sicherung Krankenbehandlungserfolg, Vorbeugung Behinderung, Ausgleich Behinderung (Hilfsmittelverzeichnis § 139 SGB V).
+  - **Pflegekasse (§ 40 SGB XI):** Pflegehilfsmittel (zum Verbrauch wie Einmalhandschuhe, technisch wie Pflegebett).
+  - **Berufsgenossenschaft (SGB VII):** bei Arbeitsunfall / Berufskrankheit.
+  - **Eingliederungshilfetraeger (§§ 111-113 SGB IX):** soziale Teilhabe, Bildung, Arbeit.
+  - **Bundesagentur fuer Arbeit (§ 49 SGB IX):** Teilhabe am Arbeitsleben.
+- **Genehmigungsfiktion § 13 IIIa SGB V:** 3 Wochen (mit MD 5 Wochen) - bei Fristueberschreitung gilt Antrag als bewilligt (BSG-Linie). Wichtig: ordnungsgemaesser Antrag, kein Hinweis Kasse auf Verzoegerung, Patient haelt Hilfsmittel fuer erforderlich.
+- **Standard-Ablehnungsgruende und Gegenargumente:**
+  - "nicht im Hilfsmittelverzeichnis": **kein Ausschluss** - § 33 SGB V umfassend, BSG-Linie. Hilfsmittelverzeichnis ist nur Indiz.
+  - "nicht wirtschaftlich" (§ 12 SGB V): Vergleichsleistungen pruefen, Preis-Leistung-Verhaeltnis dokumentieren.
+  - "Gebrauchsgegenstand des taeglichen Lebens" (BSG-Linie): Hilfsmittel ist abgrenzt, wenn ausschliesslich von Behinderten/Kranken benutzt.
+  - "Eigenanteil nicht zumutbar": Belastungsgrenze § 62 SGB V (2 % Brutto / 1 % chronisch krank).
+- **Widerspruch § 84 SGG 1 Monat:** mit medizinischer Begruendung; Stellungnahme Arzt mit konkreter Indikation; Anhang MD-Gutachten widerlegen.
+- **Eilantrag § 86b II SGG** bei dringend benoetigtem Hilfsmittel (Rollstuhl, Heimbeatmungsgeraet, Notfallhilfsmittel).
+- **Praxis-Tipp:** Eigenversorgung mit Erstattungsanspruch § 13 IIIa SGB V (bei Fristueberschreitung); Vertragsleistungserbringerliste anfordern (§ 33 VI SGB V); ggf. Selbstbeschaffung mit Kostentragung Kasse bei Notlage (BSG-Linie zur Selbstbeschaffung).

@@ -6,7 +6,19 @@ description: "Output wählen im Plugin patentrecherche: entscheidet zwischen Mem
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `patentrecherche` Output wählen im Plugin patentrecherche: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das Output-Format der Patentrecherche: Stand-der-Technik-Report, FTO-Memo, Validity-Search-Report, Suchprotokoll, Claim Chart, Wettbewerber-Monitor.
+
+## Output-Typen
+- **Suchprotokoll:** Datenbank, Datum, Suchstring, Filter (IPC/CPC, Anmelder, Datumsbereich), Trefferzahl, ausgewählte Treffer, Begründung der Auswahl/Aussonderung.
+- **Stand-der-Technik-Report:** Anmeldungsthema, Suchstrategie, geprüfte Datenbanken, gefundene D1/D2/...-Dokumente mit Volltextzitaten und Übersetzungen.
+- **FTO-Memo:** Produkt -> Anspruchsmerkmale fremder Patente; merkmalsweise Verletzungs-Matrix (Erfüllt / Nicht erfüllt / Unklar) je Schutzrecht.
+- **Validity-Search-Report:** harte Suche auf Vorveröffentlichungen vor Prio-Tag; je gefundene Stelle: Quelle, Datum, technisches Merkmal, Vergleich zur Anspruchsfassung.
+- **Claim Chart (Patent vs. Stand der Technik / vs. Angriffsziel):** Spalten Anspruchsmerkmal, Fundstelle, wörtliche Stelle, Bewertung, Anmerkung.
+- **Family Watch:** Patentfamilien-Liste mit Status, nächster Frist, Ländern, Anmeldern.
+
+## Methodik
+- Suchstrategie immer in Volltext speichern (für Reproduzierbarkeit); idealerweise Boolean-Strings mit IPC/CPC-Klassen.
+- Bei NPL (Non-Patent-Literature): Konferenzbeitrag, Master-/Doktorarbeit, Whitepaper, GitHub-Commits als mögliche Vorveröffentlichung dokumentieren.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -21,10 +21,31 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Phishing** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Phishing-Vorfall** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Phishing — Tatbestände und Beweisfragen
+- **Zivilrechtlich §§ 675u, 675v BGB:** Nicht autorisierter Zahlungsvorgang vs. autorisierter unter Täuschung.
+  - **Beweislast Bank:** Authentifizierung, ordnungsgemäße Aufzeichnung, korrekte Buchung (§ 675w BGB).
+  - **Beweislast Kunde:** keine — Bank trägt; Kunde muss nur Nichtautorisierung anzeigen.
+  - **Grobe Fahrlässigkeit § 675v Abs. 3:** Beweislast Bank.
+- **Strafrechtlich:**
+  - **§ 263a StGB Computerbetrug:** unbefugte Verwendung von Daten, Vermögensschaden.
+  - **§ 269 StGB:** Fälschung beweiserheblicher Daten.
+  - **§ 202a/202b/202c StGB:** Ausspähen, Abfangen, Vorbereiten.
+- **Belege:** E-Mail-Header (DKIM, SPF, Return-Path, Received-Chain), IP-Logs, Banking-Session-Log, Screenshot des Anmeldeprozesses, ggf. App-Log.
+
+## Beweissicherung Tag 1
+- E-Mail-Original mit allen Headern (.eml / .msg).
+- Screenshots: Phishing-Seite, Banking-Oberfläche, TAN-Aufforderung, Konfirmation der Überweisung.
+- Bank-Login-Protokoll (IP, Device, Browser, Zeit) — bei Bank anfordern.
+- Telefonprotokoll bei Call-ID-Spoofing (Voicemail, Anrufliste, Rückrufnummer).
+- Strafanzeige-Aktenzeichen für späteren Akteneinsichtantrag § 406e StPO.
+
+## Praxis-Tipp
+Bei BGH-Az.-Zitaten Phishing immer mit Vorsicht: BGH XI ZR 91/14 (26.01.2016) ist anerkannt für "Klick allein nicht grob fahrlässig". Spätere Entscheidungen variieren je nach SCA-Verfahren (push-TAN, smsTAN, App-TAN) — kontextuell prüfen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
