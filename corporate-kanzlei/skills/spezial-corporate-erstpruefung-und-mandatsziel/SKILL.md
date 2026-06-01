@@ -26,6 +26,22 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Corporate-Erstprüfung: Pflicht-Triage in 7 Punkten
+
+1. **Mandatsrolle und Interessenkonflikt:** § 43a BRAO i.V.m. § 3 BORA — Vertretung beider Seiten ausgeschlossen, auch nicht "neutrale Beratung" ohne Aufklärung. Conflict-Check der Kanzlei vor jedem Mandat (Zielgesellschaft, Verkäufer, Kreditgeber, frühere Mandate).
+2. **Geheimhaltung:** NDA vor Datenraum-Zugang; Standardklauseln (Use, Term, Carve-outs für Affiliates und Berater). § 17 GeschGehG-Anforderungen einhalten.
+3. **Letter of Intent (LoI) / Term Sheet:** grundsätzlich nicht bindend, außer Klauseln zu Exklusivität, Kostenaufteilung, Geheimhaltung und Streitbeilegung ("Binding Provisions" markieren). Aufpassen: zu detailliertes LoI kann nach § 311 Abs. 2 BGB c.i.c.-Haftung auslösen, wenn Vertragsverhandlungen ohne triftigen Grund abgebrochen werden.
+4. **Transaktionsstruktur:** Share Deal (SPA) versus Asset Deal (APA). Steuerliche Unterschiede (Step-up bei APA, Verlustvorträge bei Share Deal, § 8c KStG-Risiko bei mehr als 50 % Anteilswechsel). Beteiligung Versorgungseinrichtungen (Betriebsrente).
+5. **Zustimmungsbedürftigkeit:** Gesellschafterbeschlüsse beider Seiten (§ 179a AktG analog bei Verkauf wesentlicher Vermögensteile GmbH; BGH ständige Rechtsprechung), Aufsichtsratsbeschluss (Catalogue), kartellrechtliche Anmeldepflicht (§ 35 GWB Schwellen), FDI-Screening (§§ 55 ff. AWV), Mitbestimmung.
+6. **Kommunikationsplan:** Insiderrecht (Art. 17 MAR Ad-hoc), Investor Relations, Belegschaft (§ 80 BetrVG, § 106 BetrVG Wirtschaftsausschuss), Lieferanten, Banken (Change-of-Control-Klauseln Kreditverträge).
+7. **Timeline und Critical Path:** Signing-Closing-Gap, Conditions Precedent (CPs), Long Stop Date, MAC-Klausel zwischen Signing und Closing.
+
+## Trade-off-Hinweis
+
+- **Share Deal vs. Asset Deal:** Asset Deal bietet Cherry-Picking und Step-up, ist aber unter § 613a BGB (Übergang Arbeitsverhältnisse) und unter § 75 AO (Steuerschulden) heikel. Share Deal einfacher, aber Käufer "kauft auch die Leichen im Keller" — daher umfangreichere W&I-Versicherung empfehlenswert.
+- **Strukturen mit MoPeG-Bezug:** seit 01.01.2024 GbR-Reform; Bedeutung für Holding-Strukturen und Joint Ventures.
+- **Kartellrecht Schwellenwerte § 35 GWB:** weltweite Umsätze über 500 Mio. EUR und inländische Umsätze ein Unternehmen über 50 Mio. EUR, anderes über 17,5 Mio. EUR (vor Vollzug aktuelle Schwellen prüfen — letzte GWB-Novelle).
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

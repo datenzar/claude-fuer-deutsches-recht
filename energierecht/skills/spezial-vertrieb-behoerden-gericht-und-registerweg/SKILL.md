@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Energie-Vertrieb
+- **Pflichten des Lieferanten (§§ 40, 41 EnWG):** Klare Rechnungsstellung mit Mengen, Preisen, Tarifeinstufung; Mitteilungspflicht für Preisänderungen mit Sechs-Wochen-Frist vor Wirksamwerden (§ 41 Abs. 5 EnWG).
+- **Vertragsabschluss (§ 41a EnWG):** Bei Telefonwerbung Bestätigung in Textform; Widerrufsrecht 14 Tage (§ 312g BGB i.V.m. § 41a Abs. 1 S. 2 EnWG). Bei Nichtbestätigung kein wirksamer Vertragsschluss.
+- **Grundversorgung (§ 36 EnWG):** Grundversorger ist verpflichtet, Haushaltskunden im Niederspannungs-/Niederdrucknetz zu allgemeinen Bedingungen und Preisen zu versorgen. Drei-Jahres-Frist für Grundversorgerwechsel über Marktanalyse.
+- **Ersatzversorgung (§ 38 EnWG):** Bei nicht zuzurechnender Versorgungslücke (z. B. Lieferanteninsolvenz) tritt automatisch Grundversorger ein - maximal 3 Monate; danach Wechselzwang oder Tarif gemäß Grundversorgung.
+- **Schlüsselübergabe / Anbieterwechsel:** Wechsel in maximal 21 Werktagen (§ 20a EnWG); seit 2025 Drei-Wochen-Frist verbindlich. Wechselgebühren sind unzulässig (§ 20a Abs. 3 EnWG).
+- **Schlichtungsstelle Energie:** Außergerichtliche Streitbeilegung bei der Schlichtungsstelle Energie e.V. (§ 111b EnWG). Entscheidungen sind für den Lieferanten nicht bindend, aber werden in der Regel umgesetzt.
+- **Sperrung (§§ 19, 24 StromGVV, GasGVV):** Versorgungssperre nur nach vorheriger Mahnung mit zwei-wöchiger Sperrandrohung; kein Sperrgrund bei sozialer Härte. Vor Sperrung neue Energiesozialberatung im EnWG-Reform-Kontext beachten.
+- **BNetzA-Tätigkeit:** Marktüberwachung (z. B. unlautere Praktiken), Festlegungsverfahren zu Standardpreisinformationen, Eingriffsbefugnisse bei wettbewerbswidrigem Verhalten (§ 30 EnWG).
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

@@ -20,6 +20,13 @@ description: "Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Ho
 - §§ 14-16 GwG — Vereinfachte und normale Sorgfalt: Abgrenzung
 - EU-Delegierte VO (EU) 2022/229 — Hochrisikodritt-Laenderliste
 
+## Normfokus und Praxis (PEP/EDD)
+- PEP-Definition § 1 Abs. 12 GwG: politische Funktionen (Staatsoberhaupt, Minister, Parlamentarier, Verfassungsrichter, Botschafter, Generäle, Vorstandsmitglieder staatlicher Unternehmen) plus Familienangehörige (§ 1 Abs. 13 GwG) und nahestehende Personen (§ 1 Abs. 14 GwG). 12-Monats-Nachlauf nach Ende der Funktion (§ 15 Abs. 5 GwG).
+- Pflichten EDD (§ 15 Abs. 4 GwG): Zustimmung Vorgesetzter, Klärung Vermögensherkunft und Geldherkunft, verstärkte laufende Überwachung; bei PEP-Kunden zwingend Senior Management Approval (i. d. R. C-Level oder MLRO).
+- Hochrisikoland: konsolidierte Liste EU (Delegierte VO (EU) 2024/1657 ersetzt frühere Listen — stets aktuelle EUR-Lex-Quelle prüfen) und FATF-Black/Grey-List (Hochrisiko-/Beobachtungs­länder). Verstärkte Sorgfalt zwingend bei Geschäftsbeziehung/Transaktion mit Bezug zu diesen Ländern (§ 15 Abs. 3 Nr. 2 GwG).
+- Konzern-Roll-out: Gruppenweite Compliance nach § 9 GwG — einheitliche PEP-Datenbank, Drittanbieter (Refinitiv World-Check, Dow Jones, LexisNexis) mit dokumentierter Datenqualität.
+- Praktiker-Tipp: PEP-Treffer nicht automatisch ablehnen — sondern Fact-Check (richtige Person? Alias?), Senior Approval mit Memo "Warum trotz PEP-Status Geschäftsbeziehung tragbar", regelmäßiges Refresh (mind. einmal pro Jahr, bei kritischem Profil halbjährlich). Mittelherkunft mit Belegen (Steuerbescheid, Verkaufsurkunde, Erbschein) — nicht nur Selbstauskunft.
+
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

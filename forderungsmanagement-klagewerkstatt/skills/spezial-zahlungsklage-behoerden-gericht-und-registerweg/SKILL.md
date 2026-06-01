@@ -26,6 +26,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Zahlungsklage
+- **Sachliche Zuständigkeit:** AG bis 5.000 Euro Streitwert (§ 23 Nr. 1 GVG); LG ab 5.000,01 Euro (§ 71 GVG). Mietsachen unabhängig vom Streitwert AG (§ 23 Nr. 2 lit. a GVG).
+- **Örtliche Zuständigkeit:** Allgemeiner Gerichtsstand des Beklagten (§§ 12, 13 ZPO). Besondere Gerichtsstände: Erfüllungsort (§ 29 ZPO), unerlaubte Handlung (§ 32 ZPO), Verbrauchersachen (§ 29c ZPO). Bei B2C: Gerichtsstandsvereinbarung nur in Schranken zulässig (§ 38 ZPO).
+- **Klageschriftliche Pflichtangaben (§§ 253 Abs. 2, 130, 130a ZPO):** Bezeichnung der Parteien mit Anschrift, bestimmter Klageantrag, Tatsachen und Beweismittel, Rechtsbehauptungen, Unterschrift oder qeS bei eEB. Bei Anwalt: zwingend elektronische Einreichung (§ 130d ZPO).
+- **Streitwert (§ 3 ZPO):** Geldforderungen nach Nennwert; Zinsen, Nebenforderungen und Kosten erhöhen den Streitwert nicht (§ 4 ZPO). Bei wiederkehrenden Leistungen: Jahresbetrag bzw. 3,5-facher Jahresbetrag.
+- **Verzug und Zinsen (§§ 286, 288 BGB):** Verzug ab Mahnung oder kalendermäßiger Bestimmung der Leistungszeit. Verzugszinsen: 5 Prozentpunkte über Basiszins (§ 288 Abs. 1 BGB - B2C), 9 Prozentpunkte über Basiszins (§ 288 Abs. 2 BGB - B2B Geldforderungen). Basiszinssatz aktuell prüfen über bundesbank.de.
+- **Mahnkosten:** Erste Mahnung im Verzug ist ohne weiteres erstattbar; nachfolgende Mahnkosten nach § 286 Abs. 1 BGB als Verzugsschaden. Inkassoauslagen bis Höhe RVG (BGH, Urteil vom 17.09.2015 - IX ZR 280/14).
+- **Klage und Mahnverfahren - Verhältnis:** Klage hemmt Verjährung (§ 204 Abs. 1 Nr. 1 BGB) mit Klageerhebung (Zustellung). Bei Mahnverfahren: bereits Eingang des Antrags hemmt (§ 204 Abs. 1 Nr. 3 BGB).
+- **Säumnisurteil (§ 331 ZPO):** Bei Nichterscheinen oder mangelhafter Verteidigung des Beklagten - Antrag des Klägers erforderlich. Einspruch innerhalb von zwei Wochen ab Zustellung (§ 339 ZPO).
+- **Stolperfalle:** Bei B2B-Forderungen seit 28.07.2014 zusätzliche Pauschale 40 Euro nach § 288 Abs. 5 BGB; muss konkret beantragt werden, sonst keine Berücksichtigung.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

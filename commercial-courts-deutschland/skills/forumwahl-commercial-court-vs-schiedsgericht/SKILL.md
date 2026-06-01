@@ -21,6 +21,45 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Forum-Vergleich (Vorstandsvorlage)
+
+| Kriterium | Commercial Court (OLG) | Commercial Chamber (LG) | Schiedsgericht (DIS, ICC, LCIA) | Ordentliches LG (KfH) |
+| --- | --- | --- | --- | --- |
+| Rechtsgrundlage | § 119b GVG | §§ 95, 184a GVG | §§ 1029 ff. ZPO | §§ 95 ff. GVG |
+| Streitwert | regelmäßig ab 500.000 EUR | ohne harte Schwelle | ohne | nach GVG-Schwellen |
+| Sprache | DE/EN | DE/EN | frei wählbar | DE |
+| Vertraulichkeit | § 273a ZPO Anordnung möglich | dito | grundsätzlich gegeben | öffentliche Verhandlung |
+| Beweisaufnahme | richterliche Prozessleitung | dito | flexibler; nahe Common Law möglich | dito |
+| Dauer (erste Instanz) | ca. 12-18 Monate | ca. 18-30 Monate | ca. 12-24 Monate (Institut) | ca. 18-30 Monate |
+| Berufung / Rechtsmittel | nur Revision § 184b GVG zum BGH | Berufung OLG, Revision BGH | nur Aufhebung § 1059 ZPO | dito ordentliche Wege |
+| Vollstreckung Ausland | EuGVVO/Brüssel Ia EU; sonst Anerkennungsverfahren | dito | New York Convention 1958 weltweit | dito |
+| Kosten | GKG + RVG | dito | Schiedsrichterhonorare + Institut + Anwälte | GKG + RVG |
+| Anwaltszwang | ja | ja | abhängig von Schiedsordnung | ja |
+| Wahl der Richter | nein | nein | ja (party-appointed) | nein |
+| Eilrechtsschutz | §§ 916, 935 ZPO Arrest/eV | dito | sehr eingeschränkt; staatliche Gerichte daneben § 1033 ZPO | dito |
+
+### Trade-off Argumente
+
+| Pro Commercial Court / Chamber | Pro Schiedsgericht |
+| --- | --- |
+| Günstiger Streitwert ab 5-10 Mio. EUR (gedeckelte GKG) | Vertraulichkeit zentral (kein Filing, keine Pressepräsenz) |
+| BGH-Revision als Rechtssicherheit | freie Schiedsrichterwahl, Branchen-Expertise |
+| Schnellere mündliche Verhandlung | weltweite Vollstreckung New York Convention |
+| Staatliche Autorität bei renitentem Gegner | bei Cross-Border-Fällen ohne EU-Bezug oft schneller |
+| Wortprotokoll § 613 ZPO neu | Sprachwahl ohne § 184a GVG-Beschluss |
+| Klare Anwendung deutschen materiellen Rechts | Verfahrensautonomie (UNCITRAL-Model) |
+
+### Empfehlung je Fallkonstellation
+
+| Konstellation | Empfehlung |
+| --- | --- |
+| Inhouse-Streit, Beschlussmängelklage GmbH | Commercial Chamber LG (BGH-Rspr. "Schiedsfähigkeit II" zu Schiedsklauseln im Gesellschaftsvertrag beachten) |
+| Post-M&A Warranty Claim 5-50 Mio. EUR | Commercial Court OLG oder Schiedsgericht (W&I-Versicherer hat Mitspracherecht) |
+| Cross-Border-Lieferkette, Vollstreckung in USA/Asien | Schiedsgericht (NYC Convention) |
+| Massive Geheimhaltung (Patente, Trade Secrets) | Schiedsgericht oder Commercial Court mit § 273a ZPO |
+| Schnelles Urteil mit hoher Reputationswirkung | Commercial Court OLG (Publicity) |
+| Lieferantenstreit unter 5 Mio. EUR | KfH LG (kosten- und schnellgerecht) |
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

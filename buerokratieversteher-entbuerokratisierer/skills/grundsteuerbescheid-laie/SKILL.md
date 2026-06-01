@@ -8,6 +8,13 @@ description: "Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbesche
 ## Aufgabe
 Routet Grundsteuerwert, Messbescheid, kommunaler Grundsteuerbescheid, Einspruch/Zerlegung und Hebesatz.
 
+## Normfokus und Praxis
+- Drei-Bescheide-System: 1. Grundsteuerwertbescheid (Finanzamt, GrStG/BewG), 2. Grundsteuermessbescheid (Finanzamt, § 13 GrStG), 3. Grundsteuerbescheid (Gemeinde, mit Hebesatz nach § 25 GrStG). Jeder Bescheid ist für sich anfechtbar — Einwände nur im jeweils zuständigen Verfahren.
+- Reform 2025: BVerfG 10.4.2018 (1 BvL 11/14 u. a.) — Hauptfeststellung zum 1.1.2022, Anwendung ab Steuerjahr 2025. Bundesmodell oder Landesmodell (z. B. Bayern Flächenmodell, Baden-Württemberg modifiziertes Bodenwertmodell).
+- Einspruchsfrist Finanzamt: ein Monat (§ 355 AO) ab Bekanntgabe. Achtung: Gegen Wert- oder Messbescheid muss separat eingelegt werden — der spätere Steuerbescheid der Gemeinde ist als Folgebescheid daran gebunden (§ 351 Abs. 2 AO).
+- Hebesatz festsetzt die Gemeinde (§ 25 Abs. 2 GrStG); Streit darüber im Verwaltungsweg, nicht im Finanzweg.
+- Praktiker-Tipp: Bei Zweifeln gegen Wertbescheid Einspruch mit dem Argument der Verfassungs-/Rechtswidrigkeit des Bewertungsmodells einlegen — viele Musterverfahren laufen; Aussetzung der Vollziehung nach § 361 AO ist nur in seltenen Ausnahmefällen zu erwarten.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

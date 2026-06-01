@@ -9,6 +9,16 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erk
 
 Dieser Skill erklaert **Bescheid Verstehen** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Verwaltungsakt (Bescheid): § 31 SGB X – Regelung im Einzelfall.
+- Bestandteile: Inhalt (Regelung), Begruendung (§ 35 SGB X), Rechtsbehelfsbelehrung (§ 36 SGG).
+- Bekanntgabe / Zugang: § 37 SGB X – seit 1.1.2025 Vier-Tage-Fiktion nach Aufgabe zur Post (PostModG); zuvor Drei-Tage-Fiktion.
+- Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe; bei fehlender oder fehlerhafter Belehrung: 1 Jahr Frist (§ 66 SGG).
+- Nichtigkeit / Aufhebbarkeit: § 40 SGB X (Nichtigkeit); § 41 SGB X (Heilung von Formfehlern).
+- Begruendungspflicht: § 35 SGB X – Tatsachen, Rechtsgrundlagen, Ermessenserwaegungen muessen erkennbar sein.
+- Praxis-Tipp: Bescheid systematisch lesen: (1) Wer hat entschieden? (2) Worueber? (3) Mit welcher Begruendung? (4) Welche Frist? Sofort Eingangsstempel mit Datum auf Briefumschlag und Bescheid notieren; Briefumschlag aufheben, weil Zugangsstreit nur durch Bekanntgabefiktion belegbar.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

@@ -37,3 +37,39 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## DFG-Programme im Schnelldurchlauf
+
+| Programm | Zielgruppe | Volumen / Laufzeit |
+|---|---|---|
+| Sachbeihilfe (Einzelantrag) | etablierte Forschende, alle Stufen | typisch 3 Jahre, ein- oder mehrjährige Tranchen |
+| Emmy Noether-Programm | Nachwuchs nach Promotion (2-4 J post-Promotion) | 6 Jahre, eigene Arbeitsgruppe |
+| Heisenberg-Programm | habilitierte / habilitations-äquivalente | bis 5 Jahre, Stelle + Sachmittel |
+| Reinhart Koselleck-Projekte | etablierte mit Hochrisiko-Forschung | bis 5 Jahre, bis ca. 1,25 Mio. EUR |
+| Walter Benjamin-Programm | Postdoc-Mobilität | typisch bis 2 Jahre |
+| Forschungsgruppen | Verbund, mehrere Teilprojekte | 2 x 4 Jahre |
+| Schwerpunktprogramme (SPP) | thematisch bundesweit | 2 x 3 Jahre |
+| Sonderforschungsbereiche (SFB) | universitärer Schwerpunkt | bis 12 Jahre (3 x 4 Jahre) |
+| Graduiertenkollegs | strukturierte Promotion | bis 9 Jahre |
+
+(Konkrete Förderhöhen und Laufzeitgrenzen vom Anwender live auf dfg.de/foerderung/programme verifizieren.)
+
+## Erstprüfung: Förderfähigkeitscheck
+
+1. **Persönliche Antragsberechtigung**: Promotion abgeschlossen, eigenständige Forschungstätigkeit, deutsche Forschungseinrichtung bzw. Kooperation? (Verfahrensordnung DFG, vor Ausgabe verifizieren)
+2. **Programmpassung**: Welches Programm passt zur Karrierephase, zum Thema, zum Volumen?
+3. **Antragsumfang**: Sachbeihilfe-Standardtext meist 20 Seiten + Anlagen (Lebenslauf, Publikationen mit DOI, Forschungsdatenmanagement-Plan, Ethikvotum).
+4. **Mehrfachförderungs-Ausschluss**: Keine Förderung für Vorhaben, die anderweitig drittmittelfinanziert sind oder zu Grundausstattung gehören.
+5. **Gute wissenschaftliche Praxis**: Kodex 2022 der DFG einhalten.
+
+## Praktischer Tipp
+
+- Vor der Einreichung: **interne Vorabstimmung mit der eigenen Forschungseinrichtung** (Drittmittelabteilung, ggf. Ethikkommission, Tierschutzbeauftragte). Die Einrichtung muss den Antrag mitzeichnen.
+- Bei Erstantragstellern: Aktive Inanspruchnahme der Programm-Beratungsangebote der DFG-Geschäftsstelle (per E-Mail oder Telefon mit zuständigem Fachreferat). Senkt Ablehnungsrisiko signifikant.
+- "Mandatsziel" für die Beratung präzisieren: Brauchen Sie inhaltliches Sparring (das macht die DFG nicht), formale Antragsoptimierung (das ja) oder Begleitung bei Wiedereinreichung nach Ablehnung?
+
+## Typische Fehler
+
+- Sachbeihilfe-Antrag wird wie Promotionsprojekt geschrieben - DFG erwartet abgeschlossene Promotion und eigenständige Forschungskonzeption.
+- Mehrfacheinreichung in zwei DFG-Programmen ohne Hinweis - Ausschlusskriterium.
+- Habilitationsstellen, die zur Grundausstattung gehören, werden als Personalmittel beantragt.

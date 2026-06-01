@@ -26,6 +26,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Klage Amtsgericht (Mietsache)
+- **Zuständigkeit (§ 23 Nr. 2 lit. a GVG, § 29a ZPO):** AG am Belegenheitsort der Mietsache - sachlich und örtlich ausschließlich für Streitigkeiten aus Wohnraummietverhältnissen, unabhängig vom Streitwert.
+- **Klageschriftliche Pflichtangaben (§§ 253 Abs. 2, 130, 130a ZPO):** Bezeichnung der Parteien (vollständig mit Adresse), bestimmter Klageantrag (Räumung: konkrete Wohnung, Adresse, Stockwerk, Lage), Tatsachen und Beweismittel, Unterschrift bzw. qualifizierte elektronische Signatur. Anwaltszwang vor AG nicht (§ 78 Abs. 3 ZPO), in Mietsachen aber dringend empfohlen.
+- **Streitwert:** Bei Räumung (§ 41 Abs. 2 GKG) = Jahresnettokaltmiete (zwölf Monate). Bei Mieterhöhung: einjähriger Erhöhungsbetrag (§ 41 Abs. 5 GKG). Bei Mietminderung: Jahresbetrag der Minderung. Bei Mietzahlung: konkrete Forderungssumme.
+- **Substantiierungspflicht:** Klage muss jedes anspruchsbegründende Tatbestandsmerkmal mit Tatsachen unterlegen. Beispiel Zahlungsverzugskündigung: Mietvertrag (Anlage), vereinbarte Miete, Fälligkeit, Höhe und Zeitraum des Rückstands monatsweise (§ 569 Abs. 4 BGB), Zugang der Kündigung, Schonfristhinweis.
+- **Vollstreckungsschutz/Räumungsfrist (§ 721 ZPO):** Auf Antrag des Beklagten in Räumungssachen ist Räumungsfrist von bis zu einem Jahr zu gewähren bei Vorliegen einer besonderen Härte (Familie, Schwangerschaft, Gesundheit, fehlender Ersatzwohnraum). Antrag muss spätestens bei der mündlichen Verhandlung erfolgen.
+- **Schonfristzahlung im Prozess (§ 569 Abs. 3 BGB):** Tilgt nur die fristlose Kündigung, nicht eine hilfsweise erklärte ordentliche (BGH ständige Rspr.). Klägerseite muss in der Praxis Doppelkündigung erklären, sonst Räumung scheitert.
+- **Beweismittel-Bündel:** Mietvertrag, Anlagen, Kündigungsschreiben mit Zugangsnachweis, Kontoauszüge, Zustellungsnachweis, ggf. Zeugenangabe mit ladungsfähiger Adresse.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

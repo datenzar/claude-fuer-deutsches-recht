@@ -39,6 +39,43 @@ Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare 
 - Rechtsgrundmangel nur behaupten.
 - Behaltensgrund nicht gesondert prüfen.
 
+## Anspruchsgrundlagenarchitektur — Reihenfolge
+
+1. **Vertraglicher Anspruch:**
+   - § 433 BGB Kaufpreis, § 535 BGB Mietzins, § 611 BGB Vergütung.
+   - § 346 BGB Rückgewähr nach Rücktritt.
+   - § 357 BGB Rückgewähr nach Widerruf.
+2. **c.i.c. — § 280 Abs. 1 i.V.m. § 311 Abs. 2 BGB:** vorvertragliche Pflichtverletzung.
+3. **GoA §§ 677, 683 BGB:** Aufwendungsersatz aus berechtigter Geschäftsführung ohne Auftrag.
+4. **Dingliche Ansprüche:**
+   - § 985 BGB Herausgabe (Eigentümer-Besitzer-Verhältnis).
+   - §§ 987 ff. BGB Folgeansprüche (Nutzungen, Schadensersatz, Verwendungen).
+5. **Delikt:**
+   - § 823 Abs. 1 BGB Schadensersatz aus Verletzung absoluter Rechtsgüter.
+   - § 823 Abs. 2 BGB i.V.m. Schutzgesetz.
+   - § 826 BGB sittenwidrige vorsätzliche Schädigung.
+   - § 831 BGB Verrichtungsgehilfe.
+6. **Bereicherungsrecht §§ 812 ff. BGB:**
+   - § 812 Abs. 1 S. 1 Alt. 1 BGB Leistungskondiktion (Leistung ohne Rechtsgrund).
+   - § 812 Abs. 1 S. 1 Alt. 2 BGB Nichtleistungskondiktion (Eingriffskondiktion).
+   - § 812 Abs. 1 S. 2 Alt. 1 BGB condictio ob causam finitam (Wegfall des Rechtsgrunds).
+   - § 812 Abs. 1 S. 2 Alt. 2 BGB condictio ob rem (Zweckverfehlung).
+   - § 813 BGB condictio indebiti bei Erfüllung einredebehafteter Forderung.
+   - § 816 Abs. 1, 2 BGB Verfügung eines Nichtberechtigten / Empfang an Nichtberechtigten.
+   - § 822 BGB Bereicherung eines Dritten.
+
+## Rückabwicklungs-Architektur — Reihenfolge der Prüfung
+
+- Bei nichtigem gegenseitigen Vertrag: **Saldotheorie** vs. Zweikondiktionentheorie (Ausnahmen siehe `saldotheorie-rueckabwicklung-nichtiger-vertraege`).
+- Bei wirksamer Anfechtung § 142 BGB: ex tunc-Nichtigkeit → Bereicherungsrecht.
+- Bei Rücktritt §§ 346 ff. BGB: vorrangiges Spezialregime — keine Leistungskondiktion.
+- Bei Insolvenz: zusätzlich Anfechtungsanspruch §§ 129 ff. InsO / AnfG prüfen.
+
+## Anti-Halluzinations-Hinweise
+
+- Reihenfolge der Anspruchsprüfung: Vertrag — c.i.c. — GoA — dinglich — Delikt — Bereicherung. (CLAUDE.md-Vorgabe).
+- Keine Vermengung von Anfechtung im BGB-Sinne (§§ 119 ff. BGB) und Insolvenzanfechtung (§§ 129 ff. InsO) oder AnfG-Anfechtung.
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

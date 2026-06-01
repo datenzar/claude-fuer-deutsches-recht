@@ -8,6 +8,13 @@ description: "Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweis
 ## Aufgabe
 Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben.
 
+## Normfokus und Praxis
+- Rechtsgrundlagen: AufenthG (Visum § 6, Aufenthaltserlaubnis §§ 7, 16 ff., 18 ff., 28; Niederlassungserlaubnis § 9; Daueraufenthalt-EU § 9a), AufenthV, FreizügG/EU für Unionsbürger, AsylG für Schutzsuchende. Bei drittstaatlichen Beschäftigten BeschV beachten.
+- Fiktionsbescheinigung (§ 81 Abs. 3, 4 AufenthG): Schutzwirkung bei rechtzeitigem Verlängerungsantrag — Termin vor Ablauf zwingend; Online-Antrag oder Mailantrag dokumentieren.
+- Nebenbestimmungen (§ 12 AufenthG): Erwerbstätigkeit, Wohnsitz, räumliche Beschränkung; sehr wichtig, bevor Arbeitsverhältnis begonnen wird — § 4a Abs. 5 AufenthG verbietet sonst Beschäftigung mit Bußgeld/Strafbarkeit.
+- Achtung Mitwirkungspflicht (§ 82 AufenthG): Bei falschen oder unvollständigen Angaben drohen Versagungs- und Widerrufsgründe (§ 5 Abs. 1, § 52 AufenthG); Identitätsklärung über § 49 AufenthG kann zwangsweise erfolgen.
+- Praktiker-Tipp: Bei Ablehnung sofort anwaltliche Hilfe (Beratungshilfe BerHG, Migrationsberatung), Widerspruch oder Klage (§§ 68 ff. VwGO) plus Eilantrag § 80 Abs. 5 VwGO/§ 123 VwGO. Bei Strafverfahren parallel: aufenthaltsrechtliche Konsequenzen prüfen (§ 53 AufenthG Ausweisung).
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

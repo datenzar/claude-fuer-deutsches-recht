@@ -10,6 +10,14 @@ Dieser Skill ist ein konkreter Fachbaustein für `aktenaufbereiter-strafrecht`. 
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Chronologie**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Beweismittel: Urkundenbeweis § 249 StPO, Zeugenbeweis §§ 48 ff. StPO, Augenscheinsbeweis § 86 StPO, Sachverständige §§ 72 ff. StPO.
+- Verjährung: §§ 78 ff. StGB (Verfolgungsverjährung) – zentrale Spalte jeder Chronologie; Unterbrechungstatbestände § 78c StGB minutiös eintragen.
+- Hauptverhandlungsfristen: § 229 StPO (Unterbrechungsfristen), § 268 StPO (Urteilsverkündung spätestens 11. Tag).
+- Belastungs-/Entlastungstatsachen sauber trennen; § 160 Abs. 2 StPO verpflichtet die StA bereits im Ermittlungsverfahren zur Erhebung beider.
+- Praxis-Tipp: Chronologie zweispaltig führen – Spalte "Tatsache" mit Beleg-ID, Spalte "Beweismittel" mit Aktenfundstelle. Widersprüche zwischen Aussagen sofort mit Datum markieren; sie sind später für § 261 StPO (Beweiswürdigung) tragend.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

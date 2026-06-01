@@ -39,6 +39,41 @@ Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen 
 - Rechtsgrundmangel nur behaupten.
 - Behaltensgrund nicht gesondert prüfen.
 
+## Beweislastverteilung im Bereicherungsrecht
+
+- **Kläger trägt Beweislast für:**
+  - Bereicherung des Beklagten (Vermögensvorteil).
+  - Eigene Leistung an Beklagten oder Eingriff in eigenen Zuweisungsgehalt.
+  - Fehlen des Rechtsgrunds (anspruchsbegründende Tatsache).
+- **Beklagter trägt Beweislast für:**
+  - Bestehen eines Rechtsgrunds (rechtsvernichtende Einwendung) — h.M. dreht insoweit die Beweislast.
+  - § 814 BGB Kenntnis der Nichtschuld.
+  - § 817 S. 2 BGB Gesetzes-/Sittenverstoß auf Seiten des Leistenden.
+  - § 818 Abs. 3 BGB Entreicherung mit konkretem Vermögensweg (substantiiert).
+  - § 818 Abs. 4 i.V.m. § 819 BGB Wegfall der Entreicherungseinrede bei Bösgläubigkeit.
+
+## Substantiierungspflicht § 138 ZPO
+
+- Behaupten nicht ausreichend — Tatsachen konkretisiert und mit Datum, Beträgen, Belegen darlegen.
+- Bei Geldzahlung: Kontoauszug, Buchungsbeleg, Verwendungszweck.
+- Bei Verfügung über Gegenstand: Übergabe-Beleg, Lieferschein, Eigentumsnachweis.
+- Bei Entreicherungseinrede: konkrete Vermögensspur ("EUR X wurden für Miete im Monat Y verwendet, weil Sparvermögen nicht vorhanden").
+
+## Beweismittel im Bereicherungsprozess
+
+- Urkunden (Verträge, Quittungen, Rechnungen, Kontoauszüge) — § 415 ff. ZPO.
+- Zeugenbeweis (zur Übergabe, Erklärung, Vereinbarung) — § 373 ff. ZPO.
+- Sachverständige (Wertgutachten für § 818 Abs. 2 BGB Wertersatz) — § 402 ff. ZPO.
+- Parteivernehmung subsidiär — § 445 ZPO.
+- Augenschein bei verkörperten Gegenständen.
+
+## Strategische Hinweise
+
+- **§ 142, § 144 ZPO Vorlage- und Auskunftsanordnung:** Gericht kann Vorlage von Urkunden anordnen.
+- **§ 421 ff. ZPO Beweisantretung durch Urkunde:** Antrag auf Vorlage durch Gegner.
+- **§ 286 ZPO freie Beweiswürdigung:** Gesamtwürdigung aller Umstände — Indizien können ausreichen.
+- **Stufenklage § 254 ZPO:** Auskunft → eidesstattliche Versicherung → bezifferte Leistungsklage — geeignet, wenn Anspruchshöhe unbekannt.
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

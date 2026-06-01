@@ -26,6 +26,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Modernisierung
+- **Begriff (§ 555b BGB):** Modernisierung ist (1) energetische Modernisierung, (2) Wassereinsparung, (3) Gebrauchswerterhöhung, (4) Verbesserung der Wohnverhältnisse, (5) Neuschaffung von Wohnraum oder (6) sonstige bauliche Maßnahmen aufgrund Gesetz/Behörde. Abgrenzung zur Erhaltungsmaßnahme (§ 555a BGB) entscheidet über Mieterhöhungsfähigkeit.
+- **Ankündigung (§ 555c BGB):** Drei Monate vor Beginn schriftlich anzukündigen mit Art, voraussichtlichem Umfang, Beginn, Dauer, zu erwartender Mieterhöhung und Härtefallhinweis. Fehler in der Ankündigung sperren die spätere Modernisierungsmieterhöhung.
+- **Duldungspflicht (§ 555d BGB):** Mieter muss dulden, außer Härtefall (§ 555d Abs. 2 BGB) - Härtegründe sind ua wirtschaftliche Belastung, Gesundheit, Alter. Härteeinwand binnen Monatsfrist nach Ankündigung (§ 555d Abs. 3 BGB).
+- **Modernisierungsmieterhöhung (§ 559 BGB):** Acht Prozent (8%) der für die Wohnung aufgewendeten Modernisierungskosten p.a., minus Erhaltungsanteil und Drittmittel. Erklärung in Textform mit konkreter Kostendarstellung (§ 559b BGB).
+- **Kappungsgrenze § 559 Abs. 3a BGB:** Maximal 3 Euro/qm Wohnfläche in 6 Jahren (bei Ausgangsmieten ≥ 7 Euro/qm) bzw. 2 Euro/qm (Ausgangsmieten < 7 Euro/qm). Kappung gilt zusätzlich zu § 558 Abs. 3 BGB.
+- **Härtefall bei Mieterhöhung (§ 559 Abs. 4 BGB):** Wirtschaftliche Härte des Mieters; Härtegründe wirken nicht zugunsten des Mieters, soweit die Modernisierung allgemeinen Standard schafft oder gesetzlich/behördlich erzwungen ist.
+- **Stolperfalle:** Energetische Modernisierung und Erhaltung sind oft Mischmaßnahmen (z. B. Heizungstausch). Vermieter muss den Erhaltungsanteil rausrechnen; Schätzung BGH ständige Rspr. zulässig.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

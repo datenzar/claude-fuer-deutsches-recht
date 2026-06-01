@@ -6,7 +6,7 @@ description: "Leitfaden vorlaeufiger Rechtsschutz VwGO: § 80 Abs. 5 Antrag, § 
 # VerwR: Vorlaeufiger Rechtsschutz
 
 ## Aufgabe
-Leitfaden vorlaeufiger Rechtsschutz VwGO: § 80 Abs.
+Leitfaden vorlaeufiger Rechtsschutz VwGO: § 80 V VwGO (Anfechtungssituationen mit aufschiebender Wirkung), § 80a VwGO (Drittwiderspruch), § 123 VwGO (einstweilige Anordnung in allen anderen Faellen). Pruefraster Eilbeduerftigkeit, Anordnungsanspruch/Anordnungsgrund. Verhaeltnis zu Art. 19 IV GG.
 
 ## Kaltstart
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -19,12 +19,34 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 
 ## Pruefraster
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### Variante 1: § 80 V VwGO (aufschiebende Wirkung)
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- **Statthaftigkeit:** Anfechtungssituation, in der die aufschiebende Wirkung von Widerspruch/Klage entfallen ist (§ 80 II 1 Nr. 1-4 VwGO: Abgaben/Kosten, Polizei-/Ordnungsbehoerden, gesetzlich angeordnet, sofortige Vollziehung nach § 80 II 1 Nr. 4 VwGO).
+- **Antrag:** Anordnung (Nr. 1-3) bzw. Wiederherstellung (Nr. 4) der aufschiebenden Wirkung.
+- **Antragsbefugnis** § 42 II VwGO analog.
+- **Vorheriger Behoerdenantrag** § 80 VI VwGO bei Abgaben.
+- **Begruendetheit:** Interessenabwaegung — Aussetzungsinteresse Antragsteller vs. Vollziehungsinteresse Behoerde; Hauptsacheprognose als wichtigstes Kriterium. Bei offensichtlicher Rechtswidrigkeit des VA Aussetzung; bei offensichtlicher Rechtmaessigkeit Ablehnung.
+- **Sofortige Vollziehung § 80 II 1 Nr. 4 VwGO** zusaetzlich Begruendungsanforderungen (§ 80 III VwGO).
+
+### Variante 2: § 80a VwGO (Drittanfechtung)
+
+- Begehren des Dritten: Anordnung der aufschiebenden Wirkung seines Widerspruchs gegen begunstigenden VA an Adressaten (z. B. Baugenehmigung des Nachbarn).
+- Pruefung nach Massgabe drittschuetzender Normen.
+
+### Variante 3: § 123 VwGO (einstweilige Anordnung)
+
+- **Statthaftigkeit:** subsidiaer zu § 80 V VwGO; bei Verpflichtungs-, Leistungs-, Feststellungsbegehren, vorbeugenden Unterlassungsbegehren.
+- **Anordnungsanspruch** — materieller Anspruch (§ 920 II ZPO analog), glaubhaft zu machen (§ 920 II ZPO, § 294 ZPO).
+- **Anordnungsgrund** — Eilbeduerftigkeit, wesentliche Nachteile drohen.
+- **Sicherungsanordnung** § 123 I 1 VwGO (Erhalt status quo) vs. **Regelungsanordnung** § 123 I 2 VwGO.
+- **Vorwegnahme der Hauptsache** ausnahmsweise zulaessig bei drohenden irreversiblen Nachteilen und hoher Erfolgsaussicht in der Hauptsache.
+
+## Praxisfallen
+
+- **Fristen:** Eilantrag nicht fristgebunden, aber Hauptsachefrist (Widerspruch § 70 VwGO, Klage § 74 VwGO) muss separat gewahrt werden — Eilantrag schuetzt nicht vor Bestandskraft.
+- **Begruendung der Sofortvollziehung** § 80 III VwGO formelhaft = Fehler, fuehrt regelmaessig zur Aussetzung.
+- **Schutznormtheorie** § 42 II VwGO analog: nicht jeder Nachbarstoer hat Antragsbefugnis.
+- **Abwaegung bei drohender Vollstreckung** (Abrissverfuegung, Abschiebung): Hauptsacheprognose und Gewichtung Folgen.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `fachanwalt-verwaltungsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Mandantenkommunikation — Pflichtbausteine
+- **Anrede + Bezug:** "In dem Mandat .../In Sachen ...". Sie-Form als Default, Du-Form nur bei ausdrücklicher Mandatsvereinbarung.
+- **Sachstand:** kurz, faktentreu, ohne juristisches Fachgerede; offene Punkte als "[noch zu klären]" markieren.
+- **Empfehlung:** klare Handlungsoption; Alternativen mit Pro/Contra; bei Risiko Ampelfarbe und Schadenshöhe.
+- **Nächste Schritte / Frist:** konkrete Daten, kein "alsbald"; bei Klagefrist § 187 BGB Fristbeginn explizit nennen.
+- **Kostenhinweis (§ 49b Abs. 5 BRAO):** voraussichtliche Gebühren nach RVG-VV oder Honorarvereinbarung; bei Streitwertberechnung GKG/RVG live prüfen.
+- **Unterschrift:** Berufsbezeichnung (Rechtsanwalt/Fachanwalt für ...), Kanzleidaten, ggf. Postulationsfähigkeit (§ 78 ZPO).
+- Falle: Erfolgsversprechen jenseits der vertretbaren Aussichten verletzt § 43a Abs. 3 BRAO.

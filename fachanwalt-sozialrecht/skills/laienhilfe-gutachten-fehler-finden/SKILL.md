@@ -9,6 +9,15 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Gutachten Fehler Finden
 
 Dieser Skill erklaert **Gutachten Fehler Finden** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Sachverstaendige im Sozialverwaltungsverfahren: § 21 Abs. 1 Nr. 2 SGB X; medizinische Gutachten Aerztlicher Dienst DRV / MD (Medizinischer Dienst der Krankenversicherung) / Versorgungsamt.
+- Sachverstaendige im Klageverfahren SG: §§ 75 ff. SGG; Amtsermittlung § 103 SGG, Beweisaufnahme § 106 SGG.
+- Gutachter eigener Wahl: § 109 SGG – einmaliger Antrag im Klage- oder Berufungsverfahren auf gerichtlich bestellten Gutachter nach Wahl des Klaegers (Kostenvorschuss kann verlangt werden).
+- Strukturkriterien gutes Gutachten (BSG-Linie): Befundtatsachen (was wurde untersucht), Anknuepfungstatsachen (was wurde vorausgesetzt), Schlussfolgerungen, Begruendung, ggf. AusEinandersetzung mit anderen Gutachten.
+- Bedarfsfeststellungsverfahren Eingliederungshilfe / Teilhabe: § 13 SGB IX; § 17 SGB IX Teilhabeplan.
+- Praxis-Tipp: Gutachten kritisch lesen: (1) Sind alle vorgelegten Befundberichte beruecksichtigt? (2) Sind Schlussfolgerungen begruendet? (3) Werden Widerspruechte zu Vorgutachten aufgeloest? (4) Wurde der Mandant tatsaechlich untersucht? Bei Maengeln Stellungnahme mit Befundberichten eigener Aerzte gegenhalten und im Klageverfahren § 109 SGG-Antrag stellen. Bei psychischen Erkrankungen besonders auf Anamnese-Dauer (mindestens 1 Stunde) achten – Kurzbegutachtung BSG-kritisch.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

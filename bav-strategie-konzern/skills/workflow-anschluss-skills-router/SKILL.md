@@ -33,3 +33,31 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing nach bAV-Themenfeldern
+
+| Mandantsfrage | Folgeskill |
+|---|---|
+| Welcher Durchführungsweg passt? | spezial-durchfuehrungswege-schriftsatz-brief-und-memo-bausteine |
+| Pensionsmodelle nach Drei-Stufen-Theorie? | spezial-pensionsmodelle-risikoampel-und-gegenargumente |
+| CTA / Treuhandlösung aufsetzen? | spezial-betrieblichen-tatbestand-beweis-und-belege |
+| Pensions-Buyout / Auslagerung? | spezial-buyouts-livequellen-und-rechtsprechungscheck |
+| DB-zu-DC-Umstellung in der Restrukturierung? | spezial-restrukturierung-beweislast-und-darlegungslast |
+| Versorgungssystem-Harmonisierung im Konzern? | spezial-harmonisierung-formular-portal-und-einreichung |
+| Internationale Benefits, Expat-Pension? | spezial-internationale-red-team-und-qualitaetskontrolle |
+| Streit / Eskalation mit Versorgungsträger? | spezial-pension-verhandlung-vergleich-und-eskalation |
+
+## Norm-Bezug konkret
+
+- BetrAVG §§ 1-30g: zentrales bAV-Gesetz (Zusage, Unverfallbarkeit, Insolvenzschutz, Anpassung).
+- § 17 BetrAVG: persönlicher Geltungsbereich, Geschäftsführerversorgung.
+- §§ 7 ff. BetrAVG: Pensions-Sicherungs-Verein (PSVaG).
+- § 3 Nr. 63, § 40b EStG: steuerliche Förderung.
+- §§ 4d, 6a EStG: Pensionsrückstellungen, Unterstützungskasse.
+- BilMoG / § 253 HGB: handelsrechtliche Bewertung.
+- IAS 19 / IFRS: internationaler Bilanzansatz.
+
+## Praktischer Tipp
+
+- Erste Frage immer: Welcher von fünf Durchführungswegen (Direktzusage, Unterstützungskasse, Pensionskasse, Pensionsfonds, Direktversicherung)? Davon hängen Steuer-, Bilanz-, Sozialversicherungs- und PSV-Pflichten ab.
+- Konzern-Holding-Strukturen: Mitversorgung der Tochtergesellschaft prüfen (Schuldbeitritt, gemeinsame Unterstützungskasse) - wirkt auf Insolvenzschutz und Übertragbarkeit beim Verkauf.

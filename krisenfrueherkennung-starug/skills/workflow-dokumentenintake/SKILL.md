@@ -33,3 +33,29 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Dokumenten-Intake Krisenfrüherkennung (§ 1 StaRUG)
+- **Frühwarnsystem-Bestandsaufnahme:**
+  - Reporting-Frequenz (monatlich, quartalsweise) und Empfängerkreis.
+  - Liquiditätsplan rollierend 24 Monate (für § 18 InsO Prognosezeitraum).
+  - 13-Wochen-Liquidität für operative Steuerung.
+  - GuV-Forecast mit Sensitivität.
+  - Kovenanten-Monitor (Working Capital, EBITDA-Multiple, Debt-Service-Coverage).
+- **Geschäftsleitungsprotokolle:**
+  - Geschäftsführersitzungen mit Tagesordnung Krise.
+  - Beschlussfassung zu Gegenmaßnahmen (Kostensenkung, Investitionsstopp, Refinanzierung).
+  - Information Aufsichtsrat / Beirat / Gesellschafterkreis.
+- **Frühwarnindikatoren — externe Sicht:**
+  - Bankgespräche, Kreditkündigungs- oder Verlängerungsvorbehalte.
+  - Lieferanten-Sperrlisten, Vorkasse-Forderungen.
+  - Schufa-Auskünfte, Bonitätsverschlechterungen Kunden.
+- **Sanierungsvorbereitung:**
+  - Mandatierung Sanierungsberater (IDW S6 oder vergleichbar) bei wesentlicher Krise.
+  - Auswahl Restrukturierungsbeauftragter § 73 ff. StaRUG.
+- **Versicherungs- und Haftungsdokumente:**
+  - D&O-Versicherungspolice mit Deckung Insolvenzantragspflichtverletzung.
+
+## Frühwarnindikatoren beim Intake
+- Kein Frühwarnsystem trotz Größenklasse / Komplexität → Pflichtverletzung § 1 StaRUG, mittelbar Haftungsindiz.
+- Reporting nur Vergangenheit, keine Vorausschau → Frühwarnung gerade nicht erfüllt.
+- Wesentliche Indikatoren (Liquidität, Umsatz, Kovenanten) ignoriert → bei späterer Insolvenz schwer haftungsmindernd zu argumentieren.

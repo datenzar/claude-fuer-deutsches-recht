@@ -33,3 +33,25 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Quellen Krisenfrüherkennung
+- **Gesetze:**
+  - **§ 1 StaRUG (Krisenfrüherkennung und Krisenmanagement):** verpflichtet Geschäftsleiter haftungsbeschränkter Unternehmen zu fortlaufender Überwachung bestandsgefährdender Entwicklungen und zu geeigneten Gegenmaßnahmen.
+  - § 18 InsO drohende Zahlungsunfähigkeit, **Prognosezeitraum 24 Monate** — Tor zu StaRUG und Schutzschirm § 270d InsO.
+  - §§ 31, 32 StaRUG Anzeige der Restrukturierungssache, Anforderungen an Anzeige.
+  - § 49 ff. StaRUG Stabilisierungsanordnungen (Vollstreckungsverbot, Verwertungsverbot).
+  - § 43 GmbHG / § 93 AktG (Sorgfaltspflicht der Geschäftsleiter) — als Bezugsnorm für die Haftung bei Verletzung § 1 StaRUG.
+  - § 15a InsO (folgt nach Eintritt materieller Insolvenz).
+- **EU-Recht:** Richtlinie (EU) 2019/1023 (präventive Restrukturierungsrahmen) — Hintergrund für § 1 StaRUG.
+- **Standards:**
+  - IDW S6 (Sanierungskonzept), IDW S11 / EPS 11 (Insolvenzgründe, Prognose).
+  - IDW PS 270 (Beurteilung der Going-Concern-Annahme bei Jahresabschlussprüfung).
+- **Behörden:** BAFA, BMJ, BMWK zu Sanierungs- und Restrukturierungsinitiativen.
+
+## Rechtsprechung (verifizierungspflichtig)
+- BGH-Linie zu **Sorgfaltspflichten in der Krise**: kein eigenständiges Az. zu § 1 StaRUG bekannt (Norm jung, seit 1.1.2021); orientierend BGH zu § 43 GmbHG (Business Judgment Rule).
+- LG- und AG-Entscheidungen zu StaRUG-Anzeige und Stabilisierungsanordnungen (AG Frankfurt, AG Köln, AG Hamburg führend).
+
+## Anti-Halluzinations-Hinweise
+- § 1 StaRUG ist nicht strafbewehrt, aber haftungsrelevant — keine erfundenen Bußgelder zitieren.
+- 24-Monats-Horizont § 18 InsO ist seit SanInsFoG 2021 in Kraft; vorher 24 Monate ebenfalls (keine Verkürzung). Pandemie-Sonderregelungen abgelaufen.

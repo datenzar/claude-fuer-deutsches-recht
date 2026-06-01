@@ -21,10 +21,33 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Bora** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BORA** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Schwellen und Pflichten BORA + BRAO + DSGVO
+- **§ 2 BORA**: Verschwiegenheitspflicht in jedem Mandat — keine Bagatellgrenze, gilt auch bei interner Tool-Nutzung.
+- **§ 5 BORA**: Sachliche Bezeichnungen und Sorgfalt bei Außenkommunikation; gilt für KI-generierte Texte sinngemäß.
+- **§ 6 BORA**: Werbung — KI-generierte Inhalte ohne menschliche Kontrolle bergen Risiko unwahrer oder reißerischer Aussagen.
+- **§ 43e BRAO**: Inanspruchnahme Dienstleister; Verpflichtung auf Verschwiegenheit, Sorgfaltsauswahl, Überwachung.
+- **§ 50 BRAO**: Aufbewahrungspflicht 6 Jahre — gilt auch für KI-Tool-bezogene Daten, wenn Mandatsrelevanz besteht.
+- **§ 51 BRAO**: Berufshaftpflicht Mindestversicherungssumme 250.000 EUR; Jahresleistung mindestens das Vierfache (1 Mio. EUR).
+
+## Sanktionsschwellen
+- **§ 113 BRAO**: Anwaltsgerichtliche Geldbuße bis 25.000 EUR; bis 5 Jahre Berufsverbot; Ausschließung aus Anwaltschaft.
+- **§ 203 StGB** (Verletzung Privatgeheimnisse): Freiheitsstrafe bis 1 Jahr; qualifizierte Tatbestände Abs. 4 bis 5 Jahre.
+- **DSGVO Art. 83 Abs. 5**: bis 20 Mio. EUR oder 4 % weltweiter Konzernumsatz.
+- **KI-VO Art. 99**: bei Hochrisiko-Verstößen bis 15 Mio. EUR oder 3 % Umsatz; verbotene Praktiken Art. 5 bis 35 Mio. EUR oder 7 %.
+
+## Berechnungsbasis Berufshaftpflicht
+- **Mindestsumme** je Versicherungsfall: 250.000 EUR (§ 51 Abs. 4 BRAO).
+- **Maximierung pro Jahr**: viermal Mindestsumme (1 Mio. EUR), kann unter besonderen Risiken (etwa M&A-Tätigkeit) anzupassen sein.
+- **Sozietät**: § 51 BRAO i. V. m. § 59n Abs. 2 BRAO (Mindestversicherung Berufsausübungsgesellschaft).
+- KI-Risiko: Versicherer fragen zunehmend nach KI-Tool-Inventar; falsche Antworten können Leistungsfreiheit (§ 19 VVG) auslösen.
+
+## Trade-off in der Richtlinie
+Strenge Schwellenwerte ("Keine Mandantendaten an Cloud-KI") schaffen Klarheit, behindern aber operative Nutzung. Differenziertes Modell mit Tool-Klassen (freigegeben / freigegeben mit Auflagen / verboten) je nach Datenklassifizierung (öffentlich / intern / vertraulich / hochsensibel) ist meist praxistauglicher.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

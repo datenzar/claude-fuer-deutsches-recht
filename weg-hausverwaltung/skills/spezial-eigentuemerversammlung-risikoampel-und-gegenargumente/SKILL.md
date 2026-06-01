@@ -26,6 +26,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Eigentuemerversammlung
+- **Einberufung:** § 24 WEG. Mindestfrist zwei Wochen (§ 24 Abs. 4 S. 2 WEG) zwischen Zugang und Versammlung; Einladung mit Tagesordnung, Ort, Zeit. Bei Verstoß: Anfechtbarkeit des Beschlusses (§ 23 Abs. 4 WEG).
+- **Beschlussfähigkeit nach Reform 2020:** § 25 Abs. 1 WEG: jede ordnungsgemäß einberufene Versammlung ist beschlussfähig. Das frühere Quorum (mehr als die Hälfte der MEA anwesend) entfällt seit 01.12.2020.
+- **Mehrheitsverhältnisse:** Einfache Mehrheit der abgegebenen Stimmen (§ 25 Abs. 1 WEG) ist der Default. Ausnahmen: bauliche Veränderung mit Kostenverteilung auf Nicht-Zustimmende braucht doppelt qualifizierte Mehrheit (§ 21 Abs. 2 WEG: zwei Drittel der abgegebenen Stimmen und mehr als die Hälfte der MEA).
+- **Vertretung:** Stimmrechtsvollmacht zulässig (§ 25 Abs. 3 WEG); Vereinbarung in Gemeinschaftsordnung kann sie beschränken. Bei Beschränkung auf andere Eigentümer/Beirat/Verwalter: Praxis sollte Vollmachtsformular im Einladungsbrief mitsenden.
+- **Anfechtungsfrist § 45 WEG:** ein Monat ab Beschlussfassung, Begründung binnen weiterer zwei Monate. Klage gegen die GdWE, nicht gegen einzelne Eigentümer.
+- **Häufige Anfechtungsgründe:** Ladungsfehler, falscher Verteilungsschlüssel, unzureichend bestimmte Tagesordnung, Beschluss ohne Beschlusskompetenz (Nichtigkeit, kein Anfechtungserfordernis), Verletzung des Sachlichkeitsgebots durch Verwalter.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

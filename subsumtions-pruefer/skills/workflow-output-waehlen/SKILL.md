@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Subsumtion — Output-Wahl
+- **Voller Gutachtenstil:** Memo, Hausarbeit, Klausur, gerichtliches Gutachten. Vier-Schritt-Schema (Obersatz, Definition, Subsumtion, Ergebnis) pro Tatbestandsmerkmal.
+- **Kurzgutachten / Urteilsstil:** Schriftsatz, Bescheid, knapper Vermerk. Deduktiver Stil: "Die Klage ist begründet, weil ...".
+- **Subsumtionstabelle:** mehrstöckige Anspruchsgrundlagen oder mehrere Anspruchsteller/-gegner. Spalten: Tatbestandsmerkmal, Definition, Tatsache, Subsumtion, Ergebnis.
+- **Mind-Map / Schema:** Klausurübung; jeden Knoten mit Wenn-Dann-Logik beschriften.
+- **Anti-Pattern:** "Hier liegt ein Vertrag vor, weil die Parteien einen Vertrag geschlossen haben" — Zirkelschluss. Statt dessen: "Hier liegt ein Vertrag iSd § 145 BGB vor, weil A am ... ein Angebot iSd § 145 BGB abgegeben hat (Angabe der Tatsachen) und B am ... durch Erklärung Y angenommen hat (§ 147 BGB)."
+- Tipp: Im Memo-Format immer Zwischenergebnis je Tatbestandsmerkmal — leichter zu prüfen und besser zu lesen.

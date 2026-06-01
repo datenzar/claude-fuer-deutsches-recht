@@ -48,3 +48,34 @@ Nutze diese Reihenfolge:
 ## Quellen
 
 Gesetzestext vor Ausgabe öffnen: BewG §§ 218 ff., GrStG, ggf. amtliche Grundsteuer-Hinweise. Keine Kommentarzitate ohne Nutzerquelle.
+
+## Norm-Bezug konkret
+
+- § 218 BewG: Verfahrensgliederung Grundsteuerwert.
+- § 219 BewG: Feststellung des Grundsteuerwerts auf den Hauptfeststellungszeitpunkt 01.01.2022.
+- §§ 243-247 BewG: unbebaute Grundstücke (Bodenwertverfahren mit Bodenrichtwert).
+- §§ 248-260 BewG: bebaute Grundstücke - Ertragswertverfahren (Wohnen) und Sachwertverfahren (Geschäft, gemischte Nutzung, Sonderfälle).
+- § 257 BewG: Liegenschaftszinssätze typisiert nach Grundstücksart.
+- § 15 GrStG: Steuermesszahlen (regelmäßig 0,31 ‰ für Wohnen, 0,34 ‰ für Nichtwohnen, Ermäßigungen z. B. für sozialen Wohnungsbau, Denkmal).
+
+## Praktischer Tipp
+
+- ELSTER-Erklärung hat den Wert getrieben. Erste Diagnose: hat Mandant Wohnflächen "geschätzt" angegeben? Häufige Falle: Dachgeschoss zur Wohnfläche dazugerechnet, obwohl < 1 m Schräge nach Wohnflächenverordnung gar nicht zählt.
+- Mietniveaustufe (Anlage 39 BewG für die jeweilige Gemeinde) prüfen; Großstadt-Mandanten landen oft in Stufe 6, obwohl der konkrete Stadtteil deutlich darunter liegt - hier ist eine Anpassung nicht ohne Weiteres möglich, aber bei Mischlagen Vergleichsbeleg sammeln.
+- Liegenschaftszinssatz ist typisiert - kein Angriffspunkt für den Einzelfall, nur über den Modellangriff. Real angreifbar sind: Wohnfläche, Grundstücksfläche, Bodenrichtwert (über die Zonenzugehörigkeit, ggf. Vergleich mit Auskunft des Gutachterausschusses), Baujahr (Kernsanierung wird oft als Neubau eingetragen).
+
+## Trade-off: Welche Fehlerklasse zuerst angreifen?
+
+| Fehlerart | Hebel | Aufwand |
+|---|---|---|
+| Wohnfläche falsch | direkt änderbar bei Beleg | Wohnflächenberechnung anfertigen lassen (ca. 300-600 EUR) |
+| Bodenrichtwertzone falsch | hoher Hebel | Gutachterausschussauskunft (oft kostenpflichtig 50-150 EUR) |
+| Grundstücksart falsch | hoher Hebel über Steuermesszahl | Teilungserklärung, Bauakte |
+| gemeiner Wert deutlich niedriger | Eilverfahrenshebel über BFH II B 78/23 / II B 79/23 | Belegtreppe, ggf. Gutachten - Bewertungsstichtag 01.01.2022 (Quellen live auf bundesfinanzhof.de verifizieren) |
+
+Empfehlung: Erst niedrigwertige Belege (Wohnflächenberechnung, Bodenrichtwertauskunft) sammeln, dann gezielt einsetzen.
+
+## Typische Fehler
+
+- Einspruch trifft den falschen Bescheid: Hebesatz angegriffen, obwohl der Wertfehler im Grundlagenbescheid (Finanzamt) sitzt. § 351 Abs. 2 AO sperrt den Folgebescheid.
+- Einspruchsfrist von einem Monat wird übersehen, weil der Bescheid an die ELSTER-Postfachadresse zugestellt und nicht abgerufen wurde; § 122 Abs. 2a AO regelt elektronische Bekanntgabe nach drei Tagen.

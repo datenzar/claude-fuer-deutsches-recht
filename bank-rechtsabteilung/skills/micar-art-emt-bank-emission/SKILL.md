@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## ART/EMT-Spezifika (MiCAR)
+- Abgrenzung ART vs. EMT: EMT (E-Money-Token, Art. 48 ff. MiCAR-VO (EU) 2023/1114) referenziert auf eine einzige amtliche Währung — Emission durch Kreditinstitut oder E-Geld-Institut. ART (Asset-Referenced Token, Art. 16 ff.) referenziert auf Korb von Werten, mehrere Währungen, Rohstoffe — gesonderte Zulassung nach Art. 21 MiCAR durch nationale Aufsicht.
+- Pflichten Emittent: Whitepaper-Notifikation/Genehmigung (Art. 17, 51 MiCAR), Reservevermögen (Art. 36 ART/Art. 54 EMT) — segregierte und werthaltige Deckung; Rücktauschrecht zu Nominalwert "any time, at par" (Art. 49 EMT, Art. 39 ART); Governance, Conflict-of-interest-Policy, Risikomanagement.
+- Significant ART/EMT: Schwellen Art. 43/56 MiCAR (Anzahl Inhaber, Wert, Transaktionsvolumen) — direkte Aufsicht EBA, höhere Kapitalanforderung 3 % statt 2 % der Reserve (Art. 35/45).
+- KWG/ZAG-Schnittstelle: EMT-Emission durch Bank fällt unter MiCAR plus E-Geld-Vertrieb-Regeln; ART durch Nicht-Bank nur mit ART-Zulassung. Kryptowerte iSd § 1 Abs. 11 Satz 4 KWG sind aufgehoben, Verweis nun auf MiCAR.
+- Praktiker-Tipp: Pre-Submission Meeting mit BaFin/EBA für Whitepaper-Notifikation; Reserve-Custody durch zugelassenes Verwahrinstitut (Art. 37 MiCAR); Marketing Communications strikt nach Art. 53/29 (faktisch, nicht irreführend); Beschwerdemanagement und Insider-Listing § 14 MiCAR-DurchführungsVO. Aufsicht entscheidet über Approval i. d. R. innerhalb von 60 Werktagen (Art. 21 Abs. 4 MiCAR).
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

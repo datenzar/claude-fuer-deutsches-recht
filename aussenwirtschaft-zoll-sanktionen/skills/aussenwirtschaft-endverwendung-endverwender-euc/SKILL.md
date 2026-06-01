@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Endverwendung Endverwender Euc. Fuehrt durch
 
 Dieser Skill behandelt **Endverwendung Endverwender Euc** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (EUC)
+- Rechtsgrundlage: Art. 4 Abs. 2 Dual-Use-VO (EU) 2021/821 (Endverwendung), Art. 21 (Endverbleibsbescheinigung), § 11 AWV (national); EUC als Beleg für Sorgfaltspflicht des Exporteurs. Bei sensiblen Empfängern BMWK-EUC mit zusätzlichem Wiederausfuhrverbot.
+- EUC-Standard­inhalt: Vollständiger Name und Anschrift Endverwender, genaue Beschreibung der Ware (HS-Code, AL/Dual-Use-Position, Menge, Wert), spezifischer Verwendungszweck (konkret, nicht "industrial use"), Wiederausfuhrverbot ohne EU-Genehmigung, Verifikations- und Inspektionsklausel ("on-site verification right"), Unterschrift Bevollmächtigter mit Firmenstempel.
+- Varianten: IIC (International Import Certificate, ausgestellt von Behörde des Empfängerlandes — für hochsensible Güter, z. B. Wassenaar-Liste), Delivery Verification Certificate (DVC, nach Lieferung), BMWK-EUC (Vorlage BMWK für RU/CN/IR usw.).
+- Praxisfallen: Generische "industrial use"-Angabe reicht oft nicht für BAFA-Genehmigung; bei Großhändlern als Endverwender nochmals Endabnehmer ermitteln (Pass-Through); bei Forschungseinrichtungen Projektzweck dokumentieren; Hochschulen China nach UK-Forced Tech Transfer-Vorgaben kritisch.
+- Praktiker-Tipp: EUC vor Genehmigungsantrag prüfen — Stimmigkeit mit Auftragsmenge, technischem Bedarf, Branche; bei Zweifel telefonische Verifikation Endverwender (Telefonnotiz Audit-Trail); EUC für mindestens 5 Jahre archivieren (§ 22 AWG, EU-Recht teils 10 Jahre); bei nachträglicher Erkenntnis falscher EUC sofort BAFA informieren und ggf. § 22 Abs. 4 AWG Selbstanzeige.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

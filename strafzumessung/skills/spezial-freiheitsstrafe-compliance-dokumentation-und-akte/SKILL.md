@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Freiheitsstrafe**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Freiheitsstrafe Allgemein: § 38 StGB – zeitige Freiheitsstrafe einen Monat bis 15 Jahre; lebenslang nur bei besonderen Tatbeständen.
+- Kurze Freiheitsstrafe: § 47 StGB – unter 6 Monaten nur ausnahmsweise; soll durch Geldstrafe ersetzt werden, wenn nicht zur Einwirkung auf den Täter oder Verteidigung der Rechtsordnung unerlässlich.
+- Strafzumessungstatsachen: § 46 StGB Abs. 2 – Tat und Täter, Beweggründe, Vorleben, persönliche Verhältnisse, Nachtatverhalten (Geständnis, Schadenswiedergutmachung).
+- Täter-Opfer-Ausgleich: § 46a StGB – Strafmilderung nach § 49 Abs. 1 StGB oder Absehen von Strafe bei Strafe bis 1 Jahr / 360 Tagessätze.
+- Aussetzung: § 56 StGB (Bewährung bis 2 Jahre Freiheitsstrafe).
+- Reststrafenaussetzung: § 57 StGB nach zwei Dritteln (auch Hälfte bei besonderen Umständen § 57 Abs. 2).
+- Praxis-Tipp: Dokumentation für Strafzumessung muss strukturiert sein: Tat (objektiv/subjektiv), Täterpersönlichkeit (Vorstrafen BZR-Auszug, soziale Situation, Therapie), Nachtatverhalten (Geständnis, Schadenswiedergutmachung, TOA). Diese drei Blöcke sind das Skelett jeder Strafmaßverteidigung – BGH ständige Rspr. zu § 46 StGB verlangt nachvollziehbare Abwägung.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

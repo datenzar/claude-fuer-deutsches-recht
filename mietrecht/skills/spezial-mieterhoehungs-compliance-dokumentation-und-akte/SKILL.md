@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Mieterhöhung (§ 558 BGB)
+- **Wartefristen (§ 558 Abs. 1 BGB):** Erst nach 15 Monaten ab Mietbeginn oder letzter (nicht modernisierungsbedingter) Erhöhung darf eine neue Erhöhung gelten; Verlangen kann zwölf Monate nach der letzten Erhöhung gestellt werden.
+- **Form (§ 558a BGB):** Textform (E-Mail/Brief reichen, keine Originalunterschrift erforderlich). Begründung zwingend: Mietspiegel, Vergleichswohnungen (mind. drei, ladungsfähig), Sachverständigengutachten oder Mietdatenbank.
+- **Zustimmungsfrist Mieter (§ 558b Abs. 1 BGB):** Bis zum Ablauf des zweiten Monats nach Zugang des Verlangens. Beispiel: Zugang 15.03., Frist endet 31.05.
+- **Klagefrist Vermieter (§ 558b Abs. 2 BGB):** Drei Monate ab Ende der Zustimmungsfrist. Versäumung: Verlust des Erhöhungsanspruchs.
+- **Kappungsgrenze (§ 558 Abs. 3 BGB):** 20% in drei Jahren; 15% in Gebieten mit angespanntem Wohnungsmarkt (LandesVO; immer Landesrecht prüfen!). Maßgeblich: Vergleich der zukünftig neuen Miete mit der Miete drei Jahre vor Wirksamwerden der Erhöhung.
+- **Wirksamwerden:** Die erhöhte Miete ist erst ab Beginn des dritten Kalendermonats nach Zugang des Verlangens geschuldet (§ 558b Abs. 1 BGB), also etwa Zugang März → erhöhte Miete erstmals zum 01.06.
+- **Form- und Begründungsfehler:** Unzureichende Begründung führt zur Unwirksamkeit; Heilung nur durch neues Verlangen, das die volle Wartefrist neu startet. BGH ständige Rspr.: Mietspiegelanwendung muss konkret nachvollziehbar sein - Spannenoberwert ist begründungspflichtig.
+- **Mieterhöhung bei Indexmiete (§ 557b BGB) / Staffelmiete (§ 557a BGB):** §§ 558 ff. BGB sind ausgeschlossen, eigene Regeln gelten. Vor Erhöhungsverlangen prüfen, ob Index- oder Staffelvereinbarung im Mietvertrag steht.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

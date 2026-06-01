@@ -37,3 +37,38 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Darlegungs- und Beweislast in der bAV-Restrukturierung
+
+| Streitpunkt | Wer trägt Darlegungslast | Was muss vorgelegt werden |
+|---|---|---|
+| Anpassungsprüfung § 16 BetrAVG ausgesetzt | Arbeitgeber | Jahresabschlüsse 2 Vorjahre, Zukunftsprognose, EK-Rendite |
+| Eingriff Stufe 2 / Stufe 3 | Arbeitgeber | wirtschaftliche Notlage / sachlich-proportionale Gründe, Benchmarking |
+| Bestand "schlechter wirtschaftlicher Lage" | Arbeitgeber | Konzernweite Konsolidierungssicht, kein Rosinenpicken |
+| Wirksamkeit Freiwilligkeitsvorbehalt | Arbeitgeber | konkrete Hinweise im Einzelfall, nicht nur formularmäßig |
+| Mitbestimmungstatbestand § 87 BetrVG | jeweilige Partei | Versorgungsregel, Verfahren, Einigungsstelle |
+| Höhe unverfallbare Anwartschaft | Arbeitnehmer (mit § 4a BetrAVG-Auskunftsanspruch) | Versicherungsmathematische Berechnung |
+
+## Norm-Bezug konkret
+
+- § 16 Abs. 1 BetrAVG: Pflicht des Arbeitgebers zur Anpassungsprüfung nach billigem Ermessen.
+- § 16 Abs. 2 Nr. 1, 2 BetrAVG: Maßstab Kaufkraftverlust / Nettolöhne.
+- § 4a BetrAVG: Auskunftsanspruch des Arbeitnehmers.
+- § 87 Abs. 1 Nr. 10 BetrVG: Mitbestimmung Versorgungsfragen.
+- §§ 75, 77 InsO: Insolvenzrang und PSV-Sicherung.
+- §§ 35-39 SchVG: nicht anwendbar - bAV-Restrukturierung läuft nicht über das SchVG.
+
+## Praktischer Tipp
+
+- Die wirtschaftliche Lage ist regelmäßig **konzernweit** zu betrachten, wenn Mutter und Tochter wirtschaftlich verflochten sind (BAG-Linie zum Berechnungsdurchgriff vor Ausgabe live auf bundesarbeitsgericht.de verifizieren). Rosinenpicken einer schwachen Tochter unter starker Mutter wird vom BAG regelmäßig nicht akzeptiert.
+- Dokumentation der Eingriffsentscheidung schriftlich, mit Datum, Sitzungsprotokoll, Beratungsgrundlagen (Aktuar, Wirtschaftsprüfer, Sanierungsgutachten). Spätere "Erinnerungsprotokolle" werden in Klageverfahren nicht akzeptiert.
+- Bei DB-zu-DC-Umstellung im Restrukturierungskontext: Übergangsregelung mit Besitzstand für Bestand, Cut-off für Neueintritt - sauberer trennen als gemischte Lösungen.
+
+## Beispiel-Mustertext (Dokumentation Eingriffsentscheidung)
+
+> Geschäftsführungsbeschluss vom [Datum]: Nach Prüfung der wirtschaftlichen Lage gemäß Jahresabschluss [Jahr] und [Jahr] sowie der Zukunftsprognose für die nächsten drei Geschäftsjahre beschließt die Geschäftsführung folgenden Eingriff in das Versorgungswerk: [Beschreibung]. Maßgeblich sind die unter Tagesordnungspunkt [X] beratenen Unterlagen: 1) Bilanz-Konsolidierungsbericht des Wirtschaftsprüfers, 2) Aktuarisches Gutachten zur Pensionsbelastung, 3) Stellungnahme des Betriebsrats / Protokoll Einigungsstelle. Der Eingriff betrifft Stufe [2/3] der Drei-Stufen-Theorie und beruht auf folgenden [triftigen / sachlich-proportionalen] Gründen: [Begründung].
+
+## Typische Fehler
+
+- "Konzern-Ergebnis" wird nicht herangezogen, weil Tochter formell selbständig ist - BAG-Berechnungsdurchgriff ignoriert.
+- Mitbestimmung nach § 87 Abs. 1 Nr. 10 BetrVG übersehen, Einigungsstelle nicht angerufen; Folge: Unwirksamkeit der Versorgungsregelungsänderung.

@@ -37,3 +37,48 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## DFG-Finanzplan: Strukturpositionen (Verwendungsrichtlinien vor Ausgabe live verifizieren)
+
+| Position | Hinweis |
+|---|---|
+| Personalmittel - Postdoc / wiss. MA | Pauschalsätze nach DFG-Tabelle (vor Ausgabe verifizieren) |
+| Personalmittel - Promovierende | 65 %- oder 75 %-Pauschale typisch nach Disziplin |
+| Studentische Hilfskräfte (SHK) | Stunden- oder Monatspauschale |
+| Sachmittel | Verbrauchsmittel, Reagenzien, Materialien |
+| Reisemittel | Konferenzen, Feldforschung, Kollaborationsbesuche |
+| Geräte > 10.000 EUR netto | Einzelbegründung mit Marktvergleich, Angeboten |
+| Publikationskosten | Open Access Publikationskostenpauschale |
+| Programmpauschale | 22 % auf direkte Mittel (für Universitäten, vor Ausgabe verifizieren) |
+
+## Norm-/Quellenbezug konkret
+
+- DFG-Verwendungsrichtlinien Allgemeine Bedingungen für Sachbeihilfen (DFG-Vordruck 2.00 oder Folgevordruck).
+- BHO § 44 / Allgemeine Nebenbestimmungen für Zuwendungen (ANBest-P) - regelmäßig nicht direkt, sondern modifiziert durch DFG-Verwendungsrichtlinien.
+- TVöD-Bund / TV-L als Personalkostengrundlage (Pauschalsätze nach DFG).
+
+## Praktischer Tipp
+
+- **Personalmittelpauschale** abrufen statt selbst rechnen; DFG akzeptiert die eigenen Tabellenwerte. Eigene Berechnungen führen häufig zu Rückfragen.
+- **Programmpauschale**: nur bei Universitäten und vergleichbaren Einrichtungen, nicht bei reinen Forschungsinstituten (variiert). 22 % auf direkte Mittel ist regelmäßig pauschaler Aufschlag; die Einrichtung erhält ihn nicht zur Verfügung der Forschungsperson, sondern zur Deckung von Overhead.
+- **Geräte > 10.000 EUR**: Einzelbegründung muss enthalten: technische Anforderung, drei (Vergleichs-)Angebote, Mitnutzung anderer Forschender, Aufstellungsort, Wartung.
+
+## Trade-off: Vollzeit-Postdoc vs. zwei Promovierende
+
+| Pfad | Vorteil | Nachteil |
+|---|---|---|
+| 1 x 100 % Postdoc | hohe Expertise, schnelle Ergebnisse | hohe Kosten, abhängig von einer Person |
+| 2 x 65 % Promovierende | Nachwuchsförderung, Risikodiversifikation | längere Einarbeitungszeit, weniger Output |
+| Mix (1 Postdoc + 1 Promovierende) | Skalierung, Mentoring | komplexere Personalführung |
+
+Empfehlung: Vom Projektprofil abhängig - methodisch anspruchsvolle Pilotprojekte eher Postdoc; thematisch breite, mehrjährige Forschungsfragen eher mehrere Promovierende.
+
+## Beispiel-Mustertext (Geräte-Einzelbegründung)
+
+> Für die Durchführung des Vorhabens wird ein [Gerätetyp, Modell] mit einem Anschaffungswert von EUR [...] netto benötigt. Das Gerät dient [konkreter Methodenschritt, z. B. "der Quantifizierung von X-Konzentrationen im Bereich Y nmol/L"]. Eine Nutzung vorhandener Geräte der Einrichtung ist nicht möglich, weil [konkrete technische Begründung]. Drei Vergleichsangebote (Anlage [n], [n+1], [n+2]) wurden eingeholt; gewählt wird das Angebot der Firma [...] aufgrund [Spezifikation, Preis-Leistung]. Das Gerät wird in [Räumlichkeit] aufgestellt und steht nach Projektende weiteren Nutzern der Einrichtung zur Verfügung.
+
+## Typische Fehler
+
+- Personalmittel zu konkret beziffert ("Postdoc Frau X, TV-L E 13"), statt die DFG-Pauschalen zu nutzen - bei Mitarbeiter-Wechsel Anpassungsbedarf.
+- Geräteanschaffung ohne Verfügbarkeitsprüfung vorhandener Geräte; Reviewer schlagen "Mitnutzung" vor und kürzen.
+- Programmpauschale fehlt oder ist falsch berechnet.

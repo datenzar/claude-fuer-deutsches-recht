@@ -62,6 +62,22 @@ Das Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG gilt auch für Befris
 
 § 14 Abs. 2a TzBfG ist in der Praxis selten, da es schwierig ist, die Neugründungsvoraussetzungen zu belegen und das Vier-Jahres-Fenster zu nutzen. Startups und Neugründungen können aber von dieser Regelung profitieren.
 
+## Trade-off Arbeitnehmer- versus Arbeitgeberseite
+
+| Punkt | Arbeitnehmer | Arbeitgeber |
+| --- | --- | --- |
+| Vorbeschäftigung | Ausnutzen als Hebel: jede Berührung mit Arbeitgeber, auch früh (Praktikum, Werkstudent) widerlegt § 14 Abs. 2 Satz 2 TzBfG | strenge Anfangsdokumentation |
+| Echtheit Neugründung | Argumentation: Umfirmierung, Holding-Spaltung, Asset Deal → keine echte Neugründung; Konzernzugehörigkeit prüfen | Schwellenwerte für Konzernkonstrukte beachten: Erfasst nicht der Konzerngesamtanblick? |
+| Datum HR-Eintragung | Kritisch wegen 4-Jahres-Fenster Gründungsdatum | Eintragungsdatum maßgeblich |
+| Befristungsdauer | jede Vertragsverlängerung Übersicht behalten — max. 4 Jahre Gesamtdauer | Verlängerung nahtlos, ohne Pause |
+| Klagefrist § 17 TzBfG | drei Wochen ab Vertragsende; Pflicht zur sofortigen Klage | Verfahren zügig betreiben |
+| § 16 TzBfG Rechtsfolge | unbefristetes Arbeitsverhältnis bei Unwirksamkeit | Vorbereitung Risikoabschätzung |
+
+## Praktiker-Tipp
+
+- **Vor Vertragsabschluss:** HR-Auszug abrufen, Konzernverflechtungen prüfen. Bei Asset Deal: § 613a BGB-Übergang führt regelmäßig dazu, dass das übernehmende Unternehmen NICHT als neugegründet gilt, soweit Übernahme einer wirtschaftlichen Einheit vorliegt (BAG ständige Rechtsprechung zu § 613a BGB).
+- **Bei Streit:** Beweislast trägt Arbeitgeber für Vorliegen der Neugründungsvoraussetzungen — Indizien gesammelt (HR-Auszug, Steuernummer, Gründungsurkunde, frühere Arbeitsverhältnisse).
+
 ---
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Sachverhaltsangabe oder falsche Anspruchsgrundlage entwertet das Ergebnis. Dringende Empfehlung anwaltlicher Beratung, insbesondere wegen der Drei-Wochen-Fristen.

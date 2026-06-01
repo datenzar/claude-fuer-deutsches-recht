@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Gewerblicher Rechtsschutz
+- Markenverletzung → §§ 14, 15 MarkenG; Schutzbereich identische/ähnliche Waren-Dienstleistungen, Verwechslungsgefahr.
+- Patentverletzung → §§ 9, 139 PatG; UPC bei Einheitspatent (Übergang); Wahl Bundespatentgericht/UPC.
+- Designverletzung → §§ 38 ff. DesignG; Schutz für sichtbares Erscheinungsbild.
+- Geschäftsgeheimnis → GeschGehG (Umsetzung RL 2016/943); angemessene Geheimhaltungsmaßnahmen Voraussetzung.
+- Wettbewerbsrecht → UWG; Mitbewerber-/Verbraucherschutz, schwarze Liste Anhang § 3 Abs. 3.
+- Domainrecht → §§ 5, 15 MarkenG iVm § 12 BGB; .de-Streit DENIC bzw. WIPO UDRP.
+
+## Praxis-Hinweis
+- Streitgenossenschaft (§ 60 ZPO) bei mehreren Verletzern; Streitwert separierbar nach Stafflung BGH-Rspr.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

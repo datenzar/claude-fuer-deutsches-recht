@@ -26,6 +26,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## DSA-Pflichtenkaskade (VO (EU) 2022/2065, gilt seit 17.02.2024)
+- **Vermittlungsdienste**: Allgemeine Pflichten Art. 11-15 (Kontaktstelle, Vertreter, AGB-Transparenz, Transparenzbericht).
+- **Hostingdienste**: zusätzlich Art. 16 (Notice-and-Action), Art. 17 (Begründung Moderationsmaßnahmen), Art. 18 (Strafverfolgungsmeldung bei Lebensgefahr).
+- **Online-Plattformen**: zusätzlich Art. 19-28 (internes Beschwerdesystem, außergerichtliche Streitbeilegung, vertrauenswürdige Hinweisgeber, Maßnahmen gegen Missbrauch, Transparenzbericht erweitert, Online-Werbung, Schutz Minderjähriger, Designtransparenz).
+- **VLOP/VLOSE** (Art. 33: 45 Mio. aktive Nutzer mtl.): zusätzlich Art. 34 Risikobewertung, Art. 35 Risikominderung, Art. 36 Krisenreaktion, Art. 37 unabhängiges Audit, Art. 39 Werbearchiv, Art. 40 Datenzugang für Forscher.
+
+## Tatbestand Art. 16 DSA (Notice-and-Action)
+Voraussetzungen für eine wirksame Meldung:
+- Begründung mit Erläuterung des Rechtsverstoßes
+- Genauer elektronischer Standort (URL)
+- Name und Kontakt des Hinweisgebers (außer bei Inhalten zu Art. 3-7 RL 2011/93/EU)
+- Erklärung des guten Glaubens
+
+**Rechtsfolge**: ab Eingang einer hinreichend präzisen Meldung besteht "tatsächliche Kenntnis" i. S. v. Art. 6 DSA — Haftungsprivileg entfällt für den Inhalt. Zeitliche Tracking-Pflicht beweisen.
+
+## Beweisbausteine
+- Vollständige Eingangsbestätigung mit Zeitstempel (Art. 16 Abs. 4).
+- Begründungspflicht jeder Maßnahme nach Art. 17 (Statement of Reasons) — auch beim DSA-Transparenzdatenbank-Eintrag.
+- Audit-Trail interner Beschwerden Art. 20.
+
+## Trade-off
+Schnelle Entfernung mindert Haftungsrisiko, kann aber gegen Art. 17 (Begründungspflicht, ne bis in idem) und Art. 14 (AGB-Transparenz) verstoßen. Übermoderation steht unter unionsgrundrechtlicher Beobachtung (Art. 11 GRCh Meinungsfreiheit).
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

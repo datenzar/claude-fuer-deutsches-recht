@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer BAFA-ELAN-K2-Antrag mit Anlagen, technischer
 
 Dieser Skill behandelt **BAFA-ELAN-K2-Antrag mit Anlagen, technischer Beschreibung und Endverbleibsdokumenten** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (ELAN-K2)
+- Rechtsrahmen: Antragsformulare im BAFA-Portal ELAN-K2 (Einzelausfuhrgenehmigung AG, Sammelgenehmigung SAG, allgemeine Genehmigung AGG, Nullbescheid AZG, Vorratsgenehmigung). Pflichtangaben aus AWV (§§ 11, 17 AWV) und Dual-Use-VO (EU) 2021/821.
+- Pflichtanlagen: technische Beschreibung mit Funktionsweise (kein Marketingtext), Datenblatt mit Spezifikationen zur Listenposition (AL/Dual-Use-Anhänge), Endverbleibsdokumente (EUC, IIC, BMWK-EUC bei sensiblen Empfängern), HS/KN-/AL-Code, Vertragsunterlagen, ggf. Kundenfragebogen, ICP-Erklärung.
+- Klassifizierungstiefe: Bei Dual-Use Position der Liste konkret (Kategorien 0–9), bei nationaler Liste (Teil I Abschn. A AL) inkl. Unterposition; bei Software/Technologie auch Klassifizierung Hard-/Software-Kombination dokumentieren.
+- Bearbeitungszeit BAFA: gesetzlich keine starre Frist, in der Praxis je nach Empfängerstaat und Güterart 4-12 Wochen; bei kritischen Destinationen interministerielle Beteiligung (BMWK, AA, BMVg). Nullbescheid (AZG) zur Klärung, ob Antrag erforderlich, ist häufig schneller.
+- Praktiker-Tipp: Antragspaket nicht als "Brain Dump" einreichen — strukturieren mit Inhaltsverzeichnis, Querverweise zwischen technischer Beschreibung und Klassifizierung, EUC unterschrieben im Original (Scan reicht in ELAN-K2). Bei Nachforderung des BAFA: Frist setzen lassen und vollständig nachliefern, sonst Antragsablehnung; bei Ablehnung Widerspruch (§ 35 AWG iVm § 70 VwGO).
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

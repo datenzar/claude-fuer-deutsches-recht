@@ -26,6 +26,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Fristenkern Datenpanne
+- **Art. 33 Abs. 1 DSGVO**: Meldung an die zuständige Aufsichtsbehörde unverzüglich, **möglichst innerhalb von 72 Stunden** nach Kenntnis des Verantwortlichen. Verspätung ist zu begründen.
+- **Art. 33 Abs. 2 DSGVO**: Auftragsverarbeiter meldet unverzüglich an Verantwortlichen — vertraglich (Art. 28 Abs. 3 lit. f) konkretere Frist regeln (24 h üblich).
+- **Art. 34 DSGVO**: Benachrichtigung Betroffener nur bei voraussichtlich hohem Risiko; Ausnahmen Abs. 3 (Verschlüsselung, nachträgliche Risikominderung, unverhältnismäßiger Aufwand).
+
+## Bausteine für Memos und Schriftsätze
+- **Notification-Memo intern**: Zeitlinie der Erkenntnis, Datenkategorien, Betroffenenkreis, Risikobewertung, getroffene Eindämmungsmaßnahmen, Folgepflichten.
+- **Behördenmeldeformular**: Bundes- und Landesaufsicht haben Online-Formulare (z. B. BfDI, LDI NRW, BayLDA); Angaben spiegeln Art. 33 Abs. 3 lit. a-d.
+- **Betroffenenanschreiben**: In klarer, einfacher Sprache (Art. 34 Abs. 2 i. V. m. Art. 12 Abs. 1); Inhalt: Vorfallbeschreibung, voraussichtliche Folgen, Maßnahmen, Kontaktstelle.
+
+## Trade-off
+Vorzeitige Übermeldung ist meist sicherer als unterlassene Meldung — die Risikoschwelle ist niedrig (Art. 33 Abs. 1 a. E.: "es sei denn, dass die Verletzung voraussichtlich nicht zu einem Risiko führt"). EDSA-Leitlinien 9/2022 zur Meldung sind die Methodikbasis.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

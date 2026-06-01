@@ -33,3 +33,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## JVEG-spezifischer Livecheck
+- **§ 9 JVEG** für Honorargruppen und Stundensätze der Sachverständigen (M1 70 EUR/h bis M3 125 EUR/h, Stand 2026; bei Änderung gesetzes-live prüfen).
+- **§ 8 Abs. 2 JVEG** für Fahrtkosten (Kilometerentschädigung 0,42 EUR/km), **§ 7** für Reisekosten.
+- **§§ 10, 11 JVEG** Honorargruppen für Dolmetscher (Übersetzungsgrundhonorar 1,80 EUR je Zeile, Dolmetscherhonorar 95 EUR/h).
+- **§ 19 JVEG** Zeugenentschädigung (Verdienstausfall bis 31 EUR/h, Erwerbsausfall plausibilisieren).
+- Bei Kürzungsstreit immer Schmidt-Räntsch/Meyer-Götz Kommentierung im Kopf behalten, aber nur live verifiziert zitieren; OLG-Rechtsprechung zur Festsetzung (§ 4 JVEG) live ziehen.

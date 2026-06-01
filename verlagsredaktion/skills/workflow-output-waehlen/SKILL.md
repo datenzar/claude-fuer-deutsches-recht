@@ -33,3 +33,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Verlagsredaktion — Output-Wahl
+- **Kommentierung:** Bearbeiter, "in:" Kommentar, Auflage, Jahr, Norm, Randnummer. Lemma-Aufbau: Norm, Sinn und Zweck, Tatbestandsmerkmale, Rspr.-Übersicht, Streitstand, Verweise.
+- **Aufsatz:** Autor, Zeitschrift, Jahrgang, Anfangsseite. Aufbau: Einleitung, Problemstellung, Stand der Diskussion (Rspr./Lit.), eigene Auffassung, Ergebnis.
+- **Anmerkung zu Urteil:** Kopf mit Az., Leitsätzen; Anmerkung kurz: Sachverhalt, Entscheidung, Wertung, Folgen.
+- **Glossar / Stichwortverzeichnis:** alphabetisch, mit Querverweis zu Norm.
+- **Schaubild / Tabelle:** Übersicht über Tatbestandsmerkmale oder Schemata.
+- **Rezension:** Buchvorstellung mit Bewertung; Stand des Werks, Vergleich zu Konkurrenz.
+- **Editorial / Vorwort:** kurz, prägnant; Bezug zum Heftthema.
+- **Karteikarten-Skript (Studierende):** ein Lemma pro Karte, Definition + Schema + ein Faustfall.
+- Falle: Manuskripte mit fehlenden Fundstellen — Verlag wird zur Endkorrektur zurücksenden, was Zeitplan sprengt. Vor Abgabe Quellenliste in einer Tabelle parallel führen.

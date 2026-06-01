@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen InsO/StaRUG
+- Insolvenzantragspflicht juristische Personen: drei Wochen Zahlungsunfähigkeit, sechs Wochen Überschuldung (§ 15a InsO); Verletzung strafbar (§ 15a Abs. 4 InsO) und Haftung § 64 GmbHG aF/§ 15b InsO.
+- Anfechtungsfrist nach §§ 129-147 InsO: vier Jahre kongruente Deckung (§ 130), zehn Jahre vorsätzliche Benachteiligung (§ 133 InsO).
+- Forderungsanmeldung Insolvenztabelle: Anmeldefrist im Eröffnungsbeschluss; Nachmeldung möglich mit Säumniszuschlag.
+- Restschuldbefreiung: regulär drei Jahre ab Eröffnung (§ 287 Abs. 2 InsO seit 1.10.2020).
+- StaRUG-Restrukturierungsplan: keine starre Frist; aber Anzeige beim Restrukturierungsgericht nach § 31 StaRUG; Stabilisierungsanordnung max. drei Monate, verlängerbar.
+- Schutzschirmverfahren § 270d InsO: max. drei Monate.
+
+## Trade-off
+- Eigenverwaltung (§§ 270 ff. InsO) vs. Regelverwaltung: Eigenverwaltung bewahrt Steuerungsmacht, erfordert aber Sachverständigengutachten und Liquiditätsplan (§ 270a InsO).
+- StaRUG-Plan vs. Insolvenzplan (§§ 217 ff. InsO): StaRUG vor Eintritt Insolvenzgrund, weniger Eingriff in Arbeitnehmerrechte, aber keine Massesicherung.
+- Anfechtungsklage vs. Vergleich: Vergleich spart Zeit/Kosten, aber Risiko unentdeckter weiterer Anfechtungstatbestände.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

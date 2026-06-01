@@ -41,6 +41,46 @@ Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
 3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
+## Fachpruefraster Rueckgabe / Vernichtung
+
+### Trigger-Ereignisse (wann tritt Pflicht ein?)
+
+- **Vertragsende:** ordentliche Kuendigung, ausserordentliche Kuendigung, Zeitablauf.
+- **Verlangen der offenlegenden Partei** (jederzeit, auch bei laufender Vertragsbeziehung).
+- **Wegfall des Geschaeftszwecks** (z.B. Verhandlungsabbruch, gescheiterte M&A-Transaktion).
+
+### Zwei Optionen: Rueckgabe vs. Vernichtung
+
+- **Physische Dokumente:** Rueckgabe oder Vernichtung; Vernichtung ist Standardloesung bei Vervielfaeltigungen.
+- **Elektronische Daten:** Vernichtung (Loeschung), da Rueckgabe technisch sinnlos ist. Bei Cloud-Speicherung Vernichtungsfrist beachten (Backups, Audit-Logs koennen laengere Aufbewahrungsfristen haben).
+- **Wahlrecht** sollte bei der offenlegenden Partei liegen.
+
+### Frist
+
+- **Marktstandard:** 30 Tage nach Aufforderung oder Vertragsende.
+- **Bei sensiblem Material (M&A, R&D):** kuerzere Fristen 10-14 Tage.
+- **Erinnerungsmoeglichkeit:** Gegen Mahnung mit Fristsetzung erforderlich (§ 281 BGB Schadenersatz statt der Leistung).
+
+### Bestaetigung der Vernichtung
+
+- **Pflicht zur Bestaetigung in Textform** (§ 126b BGB) - oft mit "Officer's Certificate" der empfangenden Partei.
+- **Inhalt:** Aufzaehlung der vernichteten/zurueckgegebenen Dokumente, Bestaetigung der vollstaendigen Loeschung aus allen Systemen (einschliesslich Backups, soweit technisch moeglich), Erklaerung, dass keine Kopien zurueckbehalten wurden.
+
+### Ausnahmen (Standard-Carve-outs)
+
+- **Gesetzliche Aufbewahrungspflichten** (z.B. § 257 HGB 10 Jahre fuer Geschaeftsbriefe, § 147 AO 10 Jahre fuer steuerlich relevante Unterlagen, § 50 GwG 5 Jahre fuer Geldwaeschepruefung).
+- **Backups / Archivsysteme:** "Standard IT-Backups" muessen nicht aktiv geloescht werden, solange Zugriff beschraenkt und Vernichtung im normalen Backup-Zyklus erfolgt.
+- **Rechtsberater (Legal Hold):** Anwaelte muessen nach Berufsrecht (§ 50 BRAO, § 53 StPO) Mandantenakten aufbewahren; gleichwohl unterliegen sie dem Mandatsgeheimnis.
+- **Vorbereitungsmaterial / Memoranden:** Eigene Analysen mit Bezug auf Vertrauliche Informationen werden oft mit Vernichtungspflicht erfasst; abweichende Klausel ("Working Papers") nur dann tragbar, wenn der Inhalt vollstaendig anonymisiert wird.
+
+### DSGVO-Bezug
+
+- Bei personenbezogenen Daten: Loeschpflicht Art. 17 DSGVO ohnehin gegeben; Verzahnung mit AVV nach Art. 28 Abs. 3 lit. g DSGVO; Loeschnachweis dokumentieren.
+
+### Mustertext
+
+> Nach Beendigung dieses Vertrages oder auf vorheriges Verlangen der offenlegenden Partei wird die empfangende Partei innerhalb von 30 Tagen alle Vertraulichen Informationen sowie alle Kopien, Aufzeichnungen, Analysen und Auswertungen, die solche Informationen enthalten, nach Wahl der offenlegenden Partei zurueckgeben oder unwiederbringlich vernichten beziehungsweise loeschen. Die ordnungsgemaesse Erledigung wird die empfangende Partei in Textform bestaetigen. Von der Rueckgabe-/Vernichtungspflicht ausgenommen sind Unterlagen, die einer gesetzlichen Aufbewahrungspflicht unterliegen, sowie Backups in geschuetzten Archivsystemen, soweit der Zugriff darauf beschraenkt bleibt und die Vernichtung im normalen Backup-Zyklus erfolgt; die Vertraulichkeitspflicht bleibt fuer diese Unterlagen bestehen.
+
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
 

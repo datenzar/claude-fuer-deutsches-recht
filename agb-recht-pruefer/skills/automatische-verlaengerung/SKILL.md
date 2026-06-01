@@ -23,9 +23,21 @@ Nutze diesen Skill für **Automatische Verlängerung** im deutschen AGB-Recht, w
 2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Automatische Verlängerung besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+5. **Spezialfokus Automatische Verlaengerung (§ 309 Nr. 9 BGB n.F. seit 01.03.2022):**
+   - **Verbrauchervertraege ueber wiederkehrende Lieferung von Waren/Dienstleistungen:** Maximal 2 Jahre Erstlaufzeit; danach nur Verlaengerung auf unbestimmte Zeit mit Kuendigung jederzeit mit Frist max. 1 Monat.
+   - **§ 309 Nr. 9 lit. a:** Vertragslaufzeit > 2 Jahre - im B2C unwirksam.
+   - **§ 309 Nr. 9 lit. b:** Verlaengerung bei unterbliebener Kuendigung > 1 Jahr - unwirksam.
+   - **§ 309 Nr. 9 lit. c:** Kuendigungsfrist > 1 Monat zum Ablauf der Anfangslaufzeit/Verlaengerung - unwirksam.
+   - **§ 312k BGB (Kuendigungsbutton fuer Online-Vertraege):** Verbrauchervertraege im elektronischen Geschaeftsverkehr ueber entgeltliche Leistungen muessen einen Kuendigungsbutton aufweisen, der ohne Login erreichbar ist. Verstoss: jederzeit kuendbar.
+   - **B2B-Wertung ueber § 307 BGB:** Erstlaufzeiten > 2 Jahre und Verlaengerungen > 1 Jahr im B2B kritisch, insbesondere bei branchenuntypisch langen Bindungen. Ausnahme: substantielle Investitionsamortisation (Server-Hosting, Lieferketten mit Vorlaufzeiten) sachlich begruendbar.
+   - **EU-Verbraucherrechtsrichtlinie 2011/83/EU Art. 27:** Verbot unaufgeforderter Lieferungen mit Bindungswirkung; durch Stillschweigen keine Verlaengerung herbeifuehrbar.
+   - **Praxis-Tipp Auslandsbezug:** Frankreich, Belgien, Niederlande haben aehnlich restriktive Regelungen; in UK/USA evergreen-Klauseln verbreiteter, aber bei deutschem Verbraucher unbeachtlich.
+6. **Rechtsfolge:** Unwirksamkeit; Vertrag endet zum urspruenglichen Endtermin oder ist jederzeit kuendbar (je nach Klauselart).
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+### Mustertext B2C konform
+
+> Der Vertrag wird auf bestimmte Zeit von [maximal 24] Monaten geschlossen. Wird er nicht spaetestens einen Monat vor Ablauf der Mindestlaufzeit in Textform gekuendigt, verlaengert er sich auf unbestimmte Zeit. Nach der Verlaengerung kann er von beiden Parteien jederzeit mit einer Frist von einem Monat in Textform gekuendigt werden.
 
 ## Output
 

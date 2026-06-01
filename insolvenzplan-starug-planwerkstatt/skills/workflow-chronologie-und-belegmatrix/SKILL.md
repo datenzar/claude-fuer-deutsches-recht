@@ -33,3 +33,35 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Plan-Chronologie — Kernzeitpunkte
+- **Vorfeld:**
+  - Eintritt drohende Zahlungsunfähigkeit (§ 18 InsO) — Tor zu StaRUG.
+  - StaRUG-Anzeige § 31 StaRUG beim Restrukturierungsgericht.
+  - Sanierungskonzept IDW S6 oder vergleichbar.
+- **Insolvenzplan-Prozess (§§ 217 ff. InsO):**
+  - Planvorlage durch Schuldner (§ 218 InsO) oder Verwalter (Auftrag § 157 InsO).
+  - Plan-Niederlegung beim Insolvenzgericht (§ 235 Abs. 1 S. 2 InsO).
+  - Vorprüfung des Gerichts § 231 InsO — Zurückweisung wegen offensichtlicher Aussichtslosigkeit möglich.
+  - Stellungnahmen § 232 InsO (Gläubigerausschuss, Schuldner, ggf. Betriebsrat).
+  - Erörterungs- und Abstimmungstermin § 235 InsO.
+  - Beschluss Gericht § 248 InsO — Bestätigung oder Versagung.
+  - Rechtskraft mit Bekanntgabe § 252 InsO; sofortige Beschwerde möglich.
+- **StaRUG-Plan-Prozess (§§ 4 ff. StaRUG):**
+  - StaRUG-Anzeige § 31 StaRUG → Restrukturierungssache.
+  - Planentwurf, Klassenbildung § 9 StaRUG, Vergleichsrechnung.
+  - Stabilisierungsanordnung § 49 StaRUG (befristet 3 Monate, max. 8 Monate).
+  - Planabstimmung — außergerichtlich oder gerichtlich § 23 StaRUG.
+  - Gerichtliche Planbestätigung § 60 StaRUG.
+
+## Belegmatrix-Spalten
+| Datum | Ereignis | Norm | Beleg | Konsequenz |
+|---|---|---|---|---|
+| TT.MM.JJJJ | Drohende ZU erkannt | § 18 InsO | Liquiditätsplan 24 Monate | StaRUG eröffnet, § 1 StaRUG Pflicht aktiv |
+| TT.MM.JJJJ | StaRUG-Anzeige | § 31 StaRUG | Anzeige Restrukturierungsgericht | Stabilisierung möglich |
+| TT.MM.JJJJ | Planabstimmung | § 23 StaRUG / § 235 InsO | Abstimmungsprotokoll | Mehrheiten je Gruppe |
+| TT.MM.JJJJ | Gerichtsbestätigung | § 60 StaRUG / § 248 InsO | Beschluss | Rechtskraft, Wirkung gegen alle Beteiligten |
+
+## Widersprüche markieren
+- StaRUG-Anzeige trotz bereits eingetretener ZU — Hinderungsgrund § 33 Abs. 2 Nr. 1 StaRUG.
+- Klassenbildung ändert sich während des Verfahrens — Plan muss konsistent bleiben.

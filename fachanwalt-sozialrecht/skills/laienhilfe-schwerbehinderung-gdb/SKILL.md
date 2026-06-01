@@ -9,6 +9,17 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Schwerbehinderung Gdb. 
 
 Dieser Skill erklaert **Schwerbehinderung Gdb** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Grad der Behinderung (GdB): § 152 SGB IX – Feststellung durch Versorgungsamt; Skala in Zehnerschritten von 20 bis 100.
+- Schwerbehinderung: ab GdB 50 (§ 2 Abs. 2 SGB IX); Ausweis nach § 152 Abs. 5 SGB IX.
+- Bewertungsgrundlage: Versorgungsmedizinische Grundsaetze (VersMedV / Anlage 2 zur VersorgungsmedizinV) – Funktionsbeeintraechtigung statt blosser Diagnose entscheidend (BSG-Linie).
+- Gesamt-GdB: Bildung nach § 152 Abs. 3 SGB IX – Gesamtschau, nicht Addition; Wechselwirkungen pruefen.
+- Merkzeichen: G, aG, B, H, Bl, Gl, RF, TBl (§ 229 SGB IX, § 3 SchwbAwV); jeweils eigene Voraussetzungen.
+- Antrag und Aenderung: § 152 SGB IX – Erstantrag und Aenderungsantrag bei Verschlechterung.
+- Bedarfsfeststellung Teilhabe: § 13 SGB IX – Teilhabeplanverfahren bei mehreren Leistungstraegern (Reha, Eingliederungshilfe).
+- Praxis-Tipp: Beim Antrag alle aerztlichen Befundberichte beilegen (Hausarzt, Fachaerzte, Klinikentlassungs­berichte). Auf Versorgungsamt-Gutachten kritisch reagieren – Funktionsbeeintraechtigung im Alltag konkret beschreiben (Gehstrecke, Fingerfertigkeit, Konzentrationsspanne) und mit Befundberichten unterlegen. Bei Ablehnung Widerspruch nach § 84 SGG; im Klageverfahren § 109 SGG-Gutachter eigener Wahl beantragen, wenn Versorgungs-Gutachter nicht ueberzeugt.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

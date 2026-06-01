@@ -17,14 +17,36 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Pruefraster Eignungspruefung
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+1. **Eignungsanforderungen festlegen** § 122 II GWB, §§ 42-46 VgV (oberschwellig) bzw. UVgO (unterschwellig).
+   - Befaehigung und Erlaubnis zur Berufsausuebung (§ 44 VgV).
+   - Wirtschaftliche und finanzielle Leistungsfaehigkeit (§ 45 VgV: z. B. Bilanzen, Umsatz, Berufshaftpflichtdeckung).
+   - Technische und berufliche Leistungsfaehigkeit (§ 46 VgV: Referenzen, Qualifikation, Ausruestung).
+   - Eignungsanforderungen muessen mit dem Auftragsgegenstand in Verbindung und in angemessenem Verhaeltnis stehen (§ 122 IV GWB).
+2. **Eignungsnachweise** — Vorzugsweise Eigenerklaerung (Einheitliche Europaeische Eigenerklaerung EEE, § 50 VgV); Belege erst von engerer Auswahl bzw. Zuschlagskandidat.
+3. **Pruefungszeitpunkt** — bei offenem Verfahren mit Angeboten; bei nicht offenem Verfahren mit Teilnahmeantraegen.
+4. **Eignungsleihe** § 47 VgV: Bieter darf sich auf Kapazitaeten Dritter stuetzen; Drittunternehmen muss die Leistung auch tatsaechlich erbringen (bei wirtschaftlich-finanziellen Kapazitaeten gesamtschuldnerische Haftung).
+5. **Bietergemeinschaften** § 43 VgV.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Ausschlussgruende
+
+- **Zwingende** Ausschlussgruende § 123 GWB: rechtskraeftige Verurteilung wegen Straftaten (Geldwaesche, Korruption, Steuerhinterziehung, Menschenhandel, Terror, Bildung krimineller/terroristischer Vereinigungen). Tilgung im BZRG entspricht Ablauf der Ausschlussdauer.
+- **Fakultative** Ausschlussgruende § 124 GWB: Verstoss gegen Umwelt-/Sozial-/Arbeitsrecht, Insolvenz, schwere berufliche Verfehlung, wettbewerbsbeschraenkende Vereinbarungen, Interessenkonflikte, Wettbewerbsverzerrung durch frueheren Auftrag, mangelhafte Vertragserfuellung in frueheren Auftraegen.
+
+## Selbstreinigung § 125 GWB
+
+- **Schadensausgleich** oder Verpflichtung dazu.
+- **Aktive Kooperation** mit Ermittlungsbehoerden.
+- **Konkrete technische, organisatorische und personelle Massnahmen** zur Vermeidung weiterer Verfehlungen (Compliance-System, Personalwechsel, Kontrollstrukturen).
+- Hoechstdauer Ausschluss § 126 GWB: drei (zwingend) bzw. fuenf (fakultativ) Jahre.
+
+## Praxisfallen
+
+- **Eignung vs. Zuschlagskriterien** strikt trennen (§ 127 GWB Zuschlagskriterien). BGH zur "Vergabe ueber Eignungspunkte" als Wertungsfehler.
+- **Unzulaessige Eignungsanforderungen**: zu hoch angesetzte Umsatzschwelle (§ 45 III VgV: max. doppelter Auftragswert), nicht auftragsbezogene Referenzen.
+- **Selbstreinigung muss vor Zuschlag erfolgen**; Bieter sollte schon im Teilnahmeantrag/Angebot darlegen.
+- **Rugbarkeit** § 160 III GWB: Eignungsfehler bei Bekanntmachung sofort ruegen, sonst praekludiert.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `fachanwalt-vergaberecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

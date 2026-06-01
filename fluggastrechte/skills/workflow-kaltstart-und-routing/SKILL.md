@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Fluggastrechte
+- Verspätung ≥ 3 h Ankunft → Ausgleichszahlung Art. 7 VO 261/2004 (EuGH Sturgeon, ständige Rspr.).
+- Annullierung → Art. 5, 7 VO 261/2004; Pflicht zur Ersatzbeförderung (Art. 8) und Betreuung (Art. 9).
+- Nichtbeförderung wegen Überbuchung → Art. 4 VO 261/2004 sofortige Ausgleichszahlung.
+- Gepäckverlust/-beschädigung → Montrealer Übereinkommen Art. 17 ff. (international) bzw. Warschauer Abkommen (Ausnahmen); Höchstbeträge in SDR.
+- Außergewöhnliche Umstände → Art. 5 Abs. 3 VO 261/2004 entlastet Airline; aber EuGH eng auszulegen (Wallentin-Hermann, ständige Rspr.).
+- Pauschalreise mit Flug → §§ 651a ff. BGB iVm VO 261/2004 parallel.
+
+## Praxis-Hinweis
+- Bei Verspätung Beweissicherung: Boarding-Pass, Ankunftsbestätigung am Bestimmungsort (z. B. Foto Anzeigetafel mit Uhrzeit), Bordkarte. Beweislast Verspätung trifft Fluggast.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

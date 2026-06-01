@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Hecke (Landesnachbarrecht)
+- **Rechtsgrundlage:** Pflanz- und Grenzabstände sind im Landesrecht geregelt (Nachbarrechtsgesetze der Länder), nicht im BGB. Beispiel-Werte variieren - immer das einschlägige Landes-NRG prüfen.
+- **Typische Grenzabstände (Hecken-Höhe maßgeblich):** NRG NRW § 41: Hecken bis 1,2 m → 0,5 m Grenzabstand; Hecken bis 2 m → 1 m Grenzabstand; höhere Hecken → größere Abstände nach Tabelle des Landesrechts.
+- **Höhenkontrolle (z. B. NRG NRW § 42):** Die zulässige Höhe wird vom höheren Geländepunkt aus gemessen. Bei Überschreitung Anspruch auf Zurückschneiden (§ 1004 BGB i.V.m. Landes-NRG).
+- **Ausschlussfrist Pflanzabstand:** Im Landesnachbarrecht regelmäßig Verjährungsregeln (z. B. fünf Jahre seit Pflanzung in NRW, § 47 NRG NRW). Nach Ablauf nur noch Anspruch auf Rückschnitt auf zulässige Höhe, nicht auf vollständige Beseitigung.
+- **Überhang (§ 910 BGB):** Eindringende Wurzeln und Äste, die die Nutzung beeinträchtigen, dürfen vom Nachbarn nach fruchtloser Aufforderung selbst entfernt werden ("Selbsthilferecht"). Hierbei ist auf schonende Zurückführung und etwaige Baumschutzsatzungen zu achten (BGH ständige Rspr.).
+- **Naturschutz und Vogelschutz (§ 39 Abs. 5 BNatSchG):** Heckenrückschnitt nur außerhalb der Brutzeit; verboten zwischen 1. März und 30. September (Ausnahme: schonender Form-/Pflegeschnitt nach § 39 Abs. 5 S. 2 BNatSchG).
+- **Baumschutzsatzung Stadt/Gemeinde:** Viele Kommunen schützen Bäume ab bestimmter Stammumfang (z. B. 80 cm); Fällen oder massiver Rückschnitt nur nach Genehmigung der unteren Naturschutzbehörde.
+- **Praktiker-Tipp:** Vor Beseitigung/Klage stets Aktenvermerk: Standort, Pflanzart, Höhe, Pflanzdatum (so ermittelbar), Grenzabstand mit Foto und Maßband dokumentieren; Tatortskizze hilft im Prozess.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

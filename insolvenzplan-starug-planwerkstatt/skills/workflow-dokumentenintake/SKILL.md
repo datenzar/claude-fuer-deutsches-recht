@@ -33,3 +33,25 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Dokumenten-Intake Insolvenzplan / StaRUG-Plan
+- **Krisendiagnose und Eröffnungsgrund:**
+  - Liquiditätsstatus und Liquiditätsplanung (24 Monate für StaRUG, mindestens 12 Monate Fortbestehensprognose).
+  - IDW S6-Sanierungskonzept oder vergleichbar (Sanierungsfähigkeit, Sanierungswürdigkeit).
+  - Bei Schutzschirm § 270d InsO: Bescheinigung eines Sachverständigen über drohende ZU oder Überschuldung.
+- **Vermögens- und Schuldenlage:**
+  - Gläubigerliste mit Forderungsgrund, Betrag, Fälligkeit, Sicherheiten, Rang (§ 38, § 39 InsO; § 4 StaRUG-Ausnahmen).
+  - Aktive Vermögensgegenstände, insb. immaterielle Werte, Beteiligungen.
+  - Mitarbeiterliste, Betriebsrat, geplante Personalmaßnahmen (Interessenausgleich/Sozialplan §§ 121 ff. InsO).
+- **Gesellschaftsrechtlich:**
+  - Gesellschaftsvertrag, Gesellschafterstruktur (für Kapitalmaßnahmen § 225a InsO Debt-to-Equity).
+  - Bestehende Sicherungsabreden mit Gesellschaftern (Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO, anfechtbar nach § 135 InsO).
+- **Vergleichsrechnung (Pflicht im Plan):**
+  - Vergleichsdarstellung „Plan vs. Regelinsolvenz" oder „Plan vs. Best-Alternative-to-Negotiated-Agreement" (StaRUG).
+  - Liquidationswert je Asset.
+  - Quote im Regelverfahren, Quote im Plan.
+
+## Frühwarnindikatoren beim Intake
+- Plan ohne Vergleichsrechnung — Minderheitenschutz § 251 InsO / § 64 StaRUG bricht.
+- Klassenbildung § 222 InsO ohne sachgerechte Differenzierung — Plan kann scheitern.
+- Bei StaRUG bereits ZU oder Überschuldung — StaRUG nicht zulässig, Antragspflicht § 15a InsO greift.

@@ -26,6 +26,18 @@ Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
+## Pyramide — Reihenfolge der Anspruchspruefung
+
+Strikt einhalten, sonst werden Vorrangverhaeltnisse uebersehen:
+
+1. **Vertrag** — primaere Leistungspflichten (§§ 280, 281, 286, 311, 433, 535, 631 BGB usw.), nachvertragliche Pflichten (§§ 280, 241 II BGB).
+2. **Vertragsaehnliches** — c.i.c. (§§ 280 I, 311 II, 241 II BGB), GoA (§§ 677 ff. BGB).
+3. **Dingliche Ansprueche** — § 985 BGB Herausgabe, § 1004 BGB Beseitigung/Unterlassung, EBV §§ 987 ff. BGB.
+4. **Delikt** — §§ 823 I, II, 826 BGB, ggf. §§ 824, 831 BGB.
+5. **Bereicherung** — §§ 812 ff. BGB (Leistungs- oder Nichtleistungskondiktion).
+
+Tipp: Bei mehreren denkbaren Grundlagen NIE springen — vorhandene Vertragsbeziehung verdraengt regelmaessig EBV (§ 993 BGB Sperre der c.i.c. ist umstritten). Bei § 985 immer vorab Eigentum konkret nachzeichnen (§ 929, 932, 1006 BGB-Vermutung).
+
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `methodenlehre-buergerliches-recht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
 

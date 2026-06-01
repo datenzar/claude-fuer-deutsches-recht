@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## APP-Fraud-Spezifika
+- Autorisierte vs. nicht autorisierte Zahlung: § 675u BGB (nicht autorisiert, Bank haftet) vs. § 675v BGB (Mitverschulden bei autorisierter Zahlung). Bei APP-Fraud regelmäßig "autorisiert" — Erstattung nur nach AGB oder ex gratia.
+- Warnpflichten: Risikohinweise bei verdächtigem Empfänger/Betrag/Verhalten; nach PSD3/PSR-Entwurf ggf. erweiterte Refund-Pflichten — als Roadmap-Risiko markieren.
+- SCA-Befreiung: keine Erleichterung, wenn Kunde aktiv getäuscht wurde; SCA-Logs trotzdem zu Beweiszwecken vorhalten (Art. 97 PSD2 iVm RTS 2018/389).
+- Recall/SEPA Recall: über RTS SEPA Credit Transfer Recall Request — sofortige Anfrage Empfängerbank, Frist regelmäßig 10 Bankarbeitstage; Mitwirkungsklausel in AGB nutzen.
+- Praktiker-Tipp: APP-Fraud-Playbook mit Eingangsmeldung (Hotline, App-Reporting), Polizeianzeige, Recall innerhalb 24 h, parallel BaFin-Meldung bei Massenfall (MaRisk AT 7.2, BAIT, ggf. § 24 KWG); Schadensquote und Refund-Politik dokumentieren — wird bei BaFin-Prüfungen abgefragt.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

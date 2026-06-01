@@ -10,6 +10,14 @@ Dieser Skill ist ein konkreter Fachbaustein für `aktenaufbereiter-strafrecht`. 
 
 Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **Aktenaufbereiter**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Akteneinsicht des Verteidigers: § 147 StPO. Erst nach Anklageerhebung uneingeschränkt; im Ermittlungsverfahren Versagungsgründe nach § 147 Abs. 2 StPO beachten.
+- Pflichtverteidigung: §§ 140, 141 StPO (Beiordnungsfälle, frühe Bestellung).
+- Rolle des Beschuldigten/Mandanten: § 136 StPO (Belehrung, Schweigerecht), § 137 StPO (Verteidigerwahl).
+- Verständigung im Strafverfahren: § 257c StPO – Mandatsziel früh festlegen, weil Verständigung später strategisch wichtig wird.
+- Praxis-Tipp: Schon bei der Erstprüfung Frist zur Stellungnahme und Hauptverhandlungstermine in die Aktenvorblatt-Übersicht aufnehmen; Mandatsziel (Einstellung, Freispruch, Strafmildereung, Bewährung) schriftlich mit Mandant abstimmen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

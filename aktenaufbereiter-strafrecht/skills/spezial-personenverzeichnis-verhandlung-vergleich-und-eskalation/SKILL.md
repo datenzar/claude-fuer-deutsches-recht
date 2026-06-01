@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `aktenaufbereiter-strafrecht`. 
 
 Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Personenverzeichnis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Beschuldigte / Angeklagte: §§ 136 ff. StPO – Belehrung, Schweigerecht; Mehrtäterfälle mit Rollenmatrix.
+- Zeugen: §§ 48 ff. StPO – Zeugnisverweigerungsrechte §§ 52 (Angehörige), 53 (Berufsgeheimnisträger), 55 (Selbstbelastung) sorgfältig pro Person markieren.
+- Nebenkläger: §§ 395 ff. StPO – Eintragung mit Befugnissen (Akteneinsicht § 406e StPO, Fragerecht § 397 StPO).
+- Sachverständige: §§ 72 ff. StPO; Ablehnung wegen Befangenheit § 74 StPO – Beziehungen Sachverständiger zu Parteien dokumentieren.
+- Verständigung § 257c StPO setzt Mitwirkung aller Beteiligten voraus; Interessenmatrix vor HV anlegen (Mandant, MitAngekl, Nebenkläger, StA, Gericht).
+- Praxis-Tipp: Personenverzeichnis mit Spalten "Rolle", "Beziehung zu Mandant", "Aussagebereitschaft/-pflicht", "ZVR §§ 52/53/55", "Schlüsselthema". So lassen sich Glaubwürdigkeitsprobleme und Befangenheitsanträge früh planen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

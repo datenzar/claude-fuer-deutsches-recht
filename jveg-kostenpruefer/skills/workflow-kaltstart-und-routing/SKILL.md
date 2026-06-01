@@ -33,3 +33,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## JVEG-spezifischer Kaltstart
+- **Wer reicht ein?** Sachverständiger (§ 9 JVEG), Dolmetscher/Übersetzer (§ 11), Zeuge (§ 19), ehrenamtlicher Richter (§ 16).
+- **Welche Honorargruppe?** M1 (einfach), M2 (durchschnittlich), M3 (überdurchschnittlich); maßgeblich ist Beweisbeschluss bzw. Anordnung des Gerichts (§ 9 Abs. 1 S. 2 JVEG).
+- **Frist?** § 2 Abs. 1 JVEG: Antrag binnen drei Monaten nach Beendigung des Auftrags, sonst Erlöschen des Anspruchs.
+- **Auszahlungsweg?** Festsetzung durch Urkundsbeamten (§ 4 JVEG); Beschwerde gegen Festsetzung (§ 4 Abs. 3 JVEG: zweiwöchige Frist, Beschwerdewert über 200 EUR).
+- Häufige Falle: Stundensatz aus dem Privatauftrag wird auf JVEG-Rechnung übertragen — nur die JVEG-Honorargruppen sind hier maßgeblich.

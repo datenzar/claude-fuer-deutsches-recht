@@ -9,7 +9,15 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Erwerbsminderungsrente 
 
 Dieser Skill erklaert **Erwerbsminderungsrente Antrag** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
-## Erst sortieren
+## Norm- und Praxisanker
+
+- Erwerbsminderungsrente (EM-Rente): § 43 SGB VI. Volle EM bei Leistungsvermoegen unter 3 Stunden taeglich, teilweise EM bei 3 bis unter 6 Stunden, jeweils auf nicht absehbare Zeit.
+- Versicherungsrechtliche Voraussetzungen: § 43 Abs. 1, 2 SGB VI – grundsaetzlich 60 Monate Wartezeit; 3/5-Belegung (drei Jahre Pflichtbeitraege in letzten fuenf Jahren vor Eintritt EM, § 43 Abs. 2 Nr. 2 SGB VI).
+- Versicherungsfall: Erwerbsminderung muss objektiv vorliegen; Berufsschutz § 240 SGB VI nur fuer geborene Jahrgaenge vor 1961 (Berufsunfaehigkeitsrente).
+- Antrag: § 115 SGB VI – formelles Antragsverfahren, Reha vor Rente § 9 SGB VI ("Reha vor Rente").
+- Stufen: Aerztlicher Dienst der DRV begutachtet; Gutachten kritisch lesen, ggf. eigene Befundberichte vorlegen.
+- Befristung: § 102 Abs. 2 SGB VI – Erstbewilligung i.d.R. befristet auf 3 Jahre; unbefristet erst nach 9 Jahren oder bei dauerhafter Lage.
+- Praxis-Tipp: Antrag immer mit aerztlichen Befundberichten, Reha-Berichten, Arbeitsunfaehigkeitszeiten und Arbeitsplatzbeschreibung. Bei Ablehnung Widerspruch (§ 84 SGG ein Monat) und parallel BSG-Linie zur "quantitativen" Erwerbsminderung (Restleistungs­vermoegen unter 6 Stunden) vortragen. § 109 SGG: Gutachter eigener Wahl im Klageverfahren.
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?
 2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht?

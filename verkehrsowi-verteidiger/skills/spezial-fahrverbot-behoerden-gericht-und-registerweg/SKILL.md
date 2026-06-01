@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausg
 
 Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Fahrverbot**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Fahrverbot als Nebenfolge OWi: § 25 StVG – ein bis drei Monate, bei Regelfällen nach BußgKatV § 4 BKatV.
+- Regelfälle Fahrverbot: § 25 Abs. 1 S. 1 StVG iVm § 4 BKatV – grobe oder beharrliche Pflichtverletzung.
+- Vier-Monats-Frist: § 25 Abs. 2a StVG – Wirksamkeitsbeginn binnen vier Monaten nach Rechtskraft selbst wählbar (Antritt eines Erstfahrverbots).
+- Härtefall: BGH/OLG-Rspr. – Wegfall Fahrverbot bei wirtschaftlich-existenziellen Folgen (Verlust des Arbeitsplatzes); Mandant muss substanziiert darlegen; Härtefall i.d.R. mit Geldbußenerhöhung kompensiert.
+- Fahrverbot vs. Entzug Fahrerlaubnis: Fahrverbot OWi-Folge auf Zeit, Fahrerlaubnis bleibt; Entzug § 69 StGB Strafrecht, Fahrerlaubnis erlischt, Wiedererteilung erforderlich.
+- KBA / FAER: § 28 StVG Fahreignungsregister – Eintragungspflicht und Punkte; § 4 StVG Punktestand.
+- Praxis-Tipp: Härtefall-Argument muss konkret sein (Arbeitsvertrag, Außendiensttätigkeit, Lieferantenfahrten); pauschales "ich brauche das Auto" reicht nicht. Bei Beruflichkeit oft Kompromiss: Fahrverbot bleibt, dafür Antritt während Urlaub binnen 4-Monats-Frist; oder Erhöhung Bußgeld gegen Wegfall Fahrverbot.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

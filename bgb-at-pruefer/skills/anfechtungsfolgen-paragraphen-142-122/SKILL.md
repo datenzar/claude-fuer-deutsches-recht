@@ -11,7 +11,16 @@ Anfechtung nicht ohne Folgenbewusstsein empfehlen.
 
 ## Normanker
 
-§§ 142 und 122 BGB
+- § 142 Abs. 1 BGB: Rückwirkende Nichtigkeit (ex tunc); anfechtbare Erklärung gilt als von Anfang an nichtig.
+- § 142 Abs. 2 BGB: Wer die Anfechtbarkeit kannte oder kennen musste, wird so behandelt wie bei Kenntnis der Nichtigkeit. Wichtige Auswirkung auf Bereicherungsausgleich (§§ 818 Abs. 4, 819 BGB).
+- § 122 Abs. 1 BGB: Vertrauensschadens-Ersatzpflicht des Anfechtenden bei Erklärungsirrtum (§ 119), Übermittlungsirrtum (§ 120). Schaden = negatives Interesse, max. positives Interesse.
+- § 122 Abs. 2 BGB: Anspruch entfällt, wenn Anfechtungsgegner Anfechtungsgrund kannte oder kennen musste.
+- Rückabwicklung nichtiger Vertrag: §§ 812 ff. BGB Bereicherungsrecht; bei beidseitiger Leistung Saldotheorie/Zweikondiktionentheorie (BGH ständige Rspr. zur Saldotheorie modifiziert).
+- Sonderregel § 818 Abs. 3 BGB Entreicherung; § 819 BGB Bösgläubigkeit.
+
+## Praxis-Tipp
+- § 122 BGB-Anspruch nur bei Erklärungs-/Übermittlungsirrtum, nicht bei Anfechtung wegen arglistiger Täuschung oder Drohung (§ 123 BGB) — dort hat der Anfechtende vielmehr eigene Schadensersatzansprüche aus § 826 BGB / § 823 Abs. 2 BGB iVm § 263 StGB.
+- Folgen für Eigentumsübergang: bei dinglicher Anfechtung (§ 119 BGB auf Übereignung) Eigentum fällt zurück; bei nur schuldrechtlicher Anfechtung des Kausalgeschäfts bleibt Eigentum, aber Rückabwicklung über § 812 BGB.
 
 ## Intake
 

@@ -26,6 +26,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Betriebskostenabrechnung
+- **Umlagefähigkeit:** § 1 BetrKV definiert "laufend entstehende Kosten" als grundsätzlich umlagefähig; abschließender Katalog in § 2 BetrKV (Nr. 1-17). Nicht aufgeführte Kosten nur über § 2 Nr. 17 BetrKV ("sonstige Betriebskosten"), wenn im Mietvertrag konkret benannt.
+- **Vereinbarung im Mietvertrag (§ 556 Abs. 1 S. 2 BGB):** Mieter trägt nur die im Vertrag konkret umgelegten Kosten. Klausel "Mieter trägt alle Betriebskosten i.S.d. § 2 BetrKV" reicht aus für die enumerierten Positionen; für § 2 Nr. 17 BetrKV ist Einzelaufzählung erforderlich.
+- **Abrechnungsfrist (§ 556 Abs. 3 BGB):** Spätestens zum Ende des zwölften Monats nach Ende des Abrechnungszeitraums. Versäumung: Nachforderungsanspruch des Vermieters erlischt (Ausschlussfrist, BGH ständige Rspr.); Guthaben bleibt aber auszahlbar.
+- **Wirtschaftlichkeitsgebot (§ 556 Abs. 3 S. 1 BGB):** Vermieter darf nur wirtschaftlich angemessene Kosten umlegen. Mieter muss konkrete Verstöße substantiiert behaupten; reine Behauptung "zu teuer" reicht nicht.
+- **Einwendungsfrist Mieter (§ 556 Abs. 3 S. 5 BGB):** Zwölf Monate nach Zugang der Abrechnung. Danach ist der Mieter mit formellen Einwänden präkludiert; materielle Einwände können in seltenen Fällen länger geltend gemacht werden (BGH ständige Rspr.).
+- **Verteilungsmaßstab:** Default § 556a BGB - Wohnfläche; verbrauchsabhängige Kosten zwingend nach Verbrauch (HeizKV: 50-70% Verbrauch, Rest Fläche). Abweichende Vereinbarung möglich, ändert die Verteilung aber nur prospektiv.
+- **Stolperfallen:** Falsch ausgewiesene Vorauszahlungen, fehlende Belegseinsicht, Aufnahme von Verwaltungs- oder Instandhaltungskosten in die Abrechnung (nicht umlagefähig), unzulässige Umlage von Reparaturen über Wartungsverträge.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

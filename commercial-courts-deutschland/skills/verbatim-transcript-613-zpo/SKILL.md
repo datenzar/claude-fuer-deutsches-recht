@@ -23,6 +23,30 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 Besondere Anker: § 613 ZPO Wortprotokoll. Der Antrag muss beiderseitig abgestimmt werden; kläre Mitlesbarkeit, gerichtsfremde Protokollpersonen, Kosten, technische Durchführbarkeit und spätere Nutzung für Rechtsmittel/Settlement.
 
+### Wortprotokoll-Checkliste
+
+| Punkt | Inhalt | Norm/Praxis |
+| --- | --- | --- |
+| Antrag | rechtzeitig vor Termin schriftlich, gemeinsamer Antrag beider Parteien hilfreich | § 613 ZPO Justizstandort-Stärkungsgesetz |
+| Form Protokollierung | Tonaufzeichnung mit anschließendem Transkript oder Stenografie | gerichtsorganisatorisch festgelegt |
+| Kosten | von Parteien zu tragen (JVEG) | Vorschuss kann angefordert werden |
+| Vertraulichkeit | bei § 273a ZPO-Anordnung gesondertes Handling der Transkripte | Verschluss-Sache |
+| Korrekturbeantragung | Berichtigung wie bei normalem Sitzungsprotokoll (§ 164 ZPO analog) | binnen kurzer Frist nach Erhalt |
+| Verwendung Rechtsmittel | Wortprotokoll ist verfahrensführendes Beweismittel und kann in Berufungsbegründung wörtlich zitiert werden | § 520 Abs. 3 ZPO Berufungsbegründung |
+| Strategische Wirkung | erschwert nachträgliches Bestreiten von Zeugenaussagen | besonders wertvoll bei englischsprachigem Verfahren |
+| Schiedsgerichts-Parallele | dort üblich (live transcript); im staatlichen Verfahren seit Justizstandort-Stärkungsgesetz neu | Annäherung an internationale Standards |
+
+### Trade-off Wortprotokoll versus klassisches Sitzungsprotokoll
+
+- **Wortprotokoll:** Volle Belegfähigkeit, aber teuer und teilweise hinderlich für Verständigungsgespräche im Termin. Disziplin der Anwälte muss stimmen.
+- **Klassisches Sitzungsprotokoll (§§ 159 ff. ZPO):** günstiger; richterliche Zusammenfassung kann jedoch im Detail abweichen; bei späterer Berufung Risiko der Verkürzung.
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

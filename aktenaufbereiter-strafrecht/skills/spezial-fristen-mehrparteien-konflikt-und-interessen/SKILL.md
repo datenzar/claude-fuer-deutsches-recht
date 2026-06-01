@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `aktenaufbereiter-strafrecht`. 
 
 Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Fristen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Einspruch Strafbefehl: § 410 StPO – zwei Wochen ab Zustellung. Beginn = Zustellung an Empfänger (§ 37 StPO i.V.m. §§ 166 ff. ZPO).
+- Berufung: §§ 314, 317 StPO – Einlegung eine Woche, Begründung weitere Frist nach Zustellung Urteilsschrift.
+- Revision: §§ 341, 345 StPO – Einlegung eine Woche, Begründungsfrist ein Monat nach Zustellung der Urteilsbegründung.
+- Wiedereinsetzung: § 44 StPO – binnen einer Woche nach Wegfall des Hindernisses, mit Begründung und Glaubhaftmachung.
+- Bei mehreren Beschuldigten/Verteidigern unbedingt Interessenkollision (§ 146 StPO) und divergierende Fristen pro Mandant tabellieren – Berufungsfrist je Verteidiger eigenständig.
+- Praxis-Tipp: Fristenblatt immer mit "Worst-Case-Frist" + "Reservefrist drei Tage vorher" arbeiten; Zustellungsfiktion (z. B. § 8 VwZG bei Bußgeldakten parallel) gesondert markieren.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

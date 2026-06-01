@@ -11,7 +11,15 @@ Rechtsschein nur bei tragfähigem Vertrauen anerkennen.
 
 ## Normanker
 
-Rechtsscheinvollmacht und § 242 BGB
+- Rechtsscheinvollmacht: Richterrecht; dogmatische Anknüpfung an §§ 164 ff. BGB (Stellvertretung) iVm § 242 BGB (Treu und Glauben) sowie §§ 170-172 BGB (außerhalb gesetzlich kodifizierter Rechtsschein-Vollmachten).
+- Duldungsvollmacht: Vertretener kennt das Handeln des Vertreters und lässt es zu — gilt als konkludente Bevollmächtigung (BGH ständige Rspr.).
+- Anscheinsvollmacht: Vertretener kennt das Handeln nicht, hätte es aber bei pflichtgemäßer Sorgfalt erkennen und verhindern können — Rechtsfolge: Bindung nach Treu und Glauben.
+- Abgrenzung zur Gefälligkeit: kein Rechtsbindungswille beim Gefälligkeitsverhältnis (§§ 133, 157 BGB Auslegung).
+- §§ 170-173 BGB: Spezialregeln zum Rechtsscheinschutz bei Innenvollmacht, Vollmachtsurkunde und öffentlicher Bekanntmachung.
+
+## Praxis-Tipp
+- Bei Anscheinsvollmacht ist die Häufigkeit und Dauer des Auftretens wesentlich. Einmaliges Handeln genügt nach hM nicht.
+- Im B2B-Geschäftsverkehr gilt ein strengerer Sorgfaltsmaßstab (§ 347 HGB).
 
 ## Intake
 

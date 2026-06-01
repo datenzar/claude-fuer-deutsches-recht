@@ -22,6 +22,31 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Vertragsausfueller
+
+- **Template-Erkennung:** Welche Vertragsart liegt vor (NDA, MSA/Rahmenvertrag, SaaS, Werk, Liefer/AGB)?
+  - NDA: -> Plugin `nda-abgleich` Skills.
+  - SaaS/MSA: -> Skill `vaf-konzern-rahmenvertrag-anpassen`.
+  - AGB/Standard-Lieferbedingungen: -> Plugin `agb-recht-pruefer`.
+- **Platzhalter-Strategie:**
+  - Vollstaendige Daten -> Direkt ausfuellen (`vaf-clean-output`).
+  - Daten unvollstaendig -> Fragebogen-Modus (`vaf-fragebogen-input-leitfaden`).
+  - Komplexer Konzernverbund -> Batch-Modus (`vaf-batch-modus-konzern`).
+- **Bilingual/Multi-Lingual:**
+  - Englisch-Deutsch parallel -> Skill `vaf-fremdsprachige-vertraege-bilingual`.
+  - Mehrsprachig (3+ Sprachen) -> `vaf-mehrsprachige-vertraege-spezial`.
+- **Format:**
+  - .docx mit Tracked Changes -> Skill `vaf-redline-qa`.
+  - .docx ohne Markierung -> `vaf-docx-stripper`.
+
+## Vertragsabschluss-Form sicher pruefen
+
+- **Schriftform § 126 BGB (eigenhaendige Unterschrift, alle Erklaerungen auf derselben Urkunde):** Mietvertrag fuer 1 Jahr ueberschreitend (§ 550 BGB), Buergschaft (§ 766 BGB), Verbraucherdarlehen (§ 492 BGB).
+- **Textform § 126b BGB (lesbarer Text, Person des Erklaerenden genannt, dauerhaft):** E-Mail, PDF, SMS reichen aus; Standardform fuer Widerrufsbelehrung, Mahnung, Kuendigung von Verbrauchervertraegen ueber digitale Plattformen.
+- **Qualifizierte elektronische Signatur (qES) § 126a BGB:** Ersetzt Schriftform, sofern nicht ausgeschlossen (§ 484 Abs. 1 BGB Teilzeit-Wohnrechtevertrag, § 623 BGB Arbeitsvertrag-Kuendigung, § 766 S. 2 BGB Buergschaftserklaerung im B2C).
+- **eIDAS-VO 910/2014:** Qualifizierte Vertrauensdiensteanbieter; QES europaweit gleichwertig wie handschriftliche Unterschrift.
+- **Formfrei:** Grundsatz der Formfreiheit (§ 311 BGB; § 154 BGB nur bei strittiger Einigung); Beweisfunktion der Schriftform sollte trotzdem beachtet werden.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

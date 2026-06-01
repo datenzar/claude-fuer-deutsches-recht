@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Aus
 
 Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Stvg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Verjährungsfristen StVG-Bezug: § 26 Abs. 3 StVG OWi-Verfolgung 3 Monate / 6 Monate nach Bußgeldbescheid; § 14 StVG kraftfahrt­rechtliche Erlaubnis­erteilung; § 195 BGB drei Jahre für zivilrechtliche Schadens­ersatzansprüche (§ 7 StVG).
+- Einspruchsfrist Bußgeldbescheid: § 67 OWiG zwei Wochen ab Zustellung; Anhörung § 55 OWiG vor Bescheid­erlass.
+- Wiedereinsetzung: § 44 StPO i.V.m. § 46 OWiG – eine Woche ab Wegfall des Hindernisses, mit Glaubhaftmachung.
+- Verkehrsstrafrecht: §§ 315c, 316, 142 StGB; allgemeine Fristen StPO (Berufung 1 Woche § 314 StPO; Revision 1 Woche § 341 StPO).
+- Zuständigkeit Bußgeldverfahren: AG Strafrichter (§ 68 OWiG); Rechtsbeschwerde zum OLG nach § 79 OWiG (Zulassungsschwelle § 80 OWiG: Geldbuße > 250 EUR oder Nebenfolge wie Fahrverbot).
+- Verkehrsunfall-Zivil: AG bis 5.000 EUR (§ 23 GVG), LG ab 5.000 EUR (§ 71 GVG); örtlich Wohnsitz Beklagter (§§ 12, 13 ZPO) oder Tatort (§ 32 ZPO).
+- Praxis-Tipp: Frühen Akteneinsichts­antrag nach § 49 OWiG / § 147 StPO stellen – verschafft Zeitvorteil bei Einspruchsfrist (Hemmung § 33 Abs. 1 Nr. 14 OWiG durch Akten­anforderungs­antrag möglich, Detail prüfen). Verjährungsdaten in Mandats­akte sichtbar markieren, weil 3-Monats-Frist sehr knapp ist.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

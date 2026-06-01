@@ -37,3 +37,25 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Erstprüfung Insolvenzverwalter — Pflichtfragen
+- **Rollenklärung:**
+  - Regelverwalter § 80 InsO (volle Verwaltungs- und Verfügungsbefugnis) oder Sachwalter § 274 InsO (Eigenverwaltung — Schuldner bleibt verfügungsbefugt, Sachwalter überwacht)?
+  - Vorl. Verwalter § 21, § 22 InsO: stark (Verwaltungs- und Verfügungsbefugnis) oder schwach (Zustimmungsvorbehalt § 21 Abs. 2 Nr. 2 Alt. 2 InsO)?
+  - Restrukturierungsbeauftragter § 73 ff. StaRUG (StaRUG-Verfahren)?
+- **Mandatsziel:**
+  - Massesicherung in den ersten 14 Tagen (§ 22 InsO Sicherungsmaßnahmen).
+  - Berichtstermin § 156 InsO mit Empfehlung Fortführung oder Stilllegung.
+  - Planinsolvenz §§ 217 ff. InsO als Verwertungsstrategie.
+  - Übertragende Sanierung (Asset Deal / Share Deal).
+- **Erstmaßnahmen:**
+  - Inbesitznahme der Geschäftsräume, IT-Systeme, Buchhaltung, Mailpostfach (§ 148 InsO).
+  - Sofortige Kontensperrung bei Banken, Neueröffnung Insolvenzkonto.
+  - Anmeldung bei Insolvenzgericht: Verfahrenseröffnungsantrag bestätigt, Insolvenzbekanntmachung veranlasst.
+  - Information Mitarbeiter, Betriebsrat — Insolvenzgeld § 165 SGB III prüfen, Vorfinanzierung anstoßen.
+  - Eilige Verträge: Mietvertrag § 109 InsO (3 Monate Sonderkündigungsrecht), Arbeitsverträge § 113 InsO (3 Monate Kündigungsfrist), Dauerlieferverträge § 103 InsO Erfüllungswahlrecht.
+- **Vergütung:** § 63 InsO i.V.m. InsVV — Regelsatz nach Massewert mit Zu-/Abschlägen.
+
+## Haftungsrelevante Erstmaßnahmen
+- § 60 InsO Verwalterhaftung — fehlerhafte Erstmaßnahmen sind tragender Haftungsanknüpfungspunkt.
+- Dokumentation jeder Erstentscheidung (Datum, Begründung, Beleg).

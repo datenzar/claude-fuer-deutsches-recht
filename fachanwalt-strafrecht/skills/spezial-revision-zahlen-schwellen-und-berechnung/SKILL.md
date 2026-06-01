@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgan
 
 Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Revision**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Revision: §§ 333 ff. StPO. Statthaft gegen Urteile der großen Strafkammer am LG (§ 121 GVG), des Schwurgerichts, OLG (§ 333 StPO), bei Sprungrevision gegen Amtsgerichtsurteile statt Berufung (§ 335 StPO).
+- Fristen: Einlegung eine Woche nach Urteilsverkündung (§ 341 StPO); Begründung ein Monat nach Zustellung des Urteils mit Gründen (§ 345 StPO).
+- Sachrüge und Verfahrensrüge: § 344 Abs. 2 StPO – Verfahrensrüge braucht Tatsachenvortrag, Sachrüge greift die Rechtsanwendung an. Beide präzise unterscheiden.
+- Absolute Revisionsgründe: § 338 StPO – immer revisibel, Kausalität nicht erforderlich (z.B. nicht ordnungs­gemäße Besetzung, Verfahrenshindernis).
+- Relative Revisionsgründe: § 337 StPO – Beruhen des Urteils auf der Gesetzesverletzung.
+- Praxis-Tipp: Begründungsfrist (Monat) ist die enge Frist – Strategie: sofort nach Einlegung Sicherung Hauptverhandlungsprotokoll, Aktenstudium, Identifikation der Rügen. Sachrüge ("Verletzung materiellen Rechts") immer als Sicherheitsnetz formulieren, weil sie ohne Tatsachenvortrag wirksam ist (BGH ständige Rspr.). Verfahrensrügen wegen Aufklärungspflichtverletzung (§ 244 StPO) brauchen genaue Schilderung Beweisantrag + Ablehnungs­begründung.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

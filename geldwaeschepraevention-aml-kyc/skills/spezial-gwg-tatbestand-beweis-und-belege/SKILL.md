@@ -10,6 +10,13 @@ Dieser Skill ist ein konkreter Fachbaustein für `geldwaeschepraevention-aml-kyc
 
 Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **GwG**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Normfokus und Praxis (Tatbestand und Beweislast)
+- Materieller Tatbestand: § 261 StGB Geldwäsche (Vortatkatalog nicht mehr erforderlich seit Reform 2021, "all-crime approach"); § 56 GwG Bußgeldnormen (KYC, Risikoanalyse, Aufzeichnungspflichten); Strafrecht parallel § 263 StGB Betrug, § 283 StGB Bankrott, § 370 AO Steuerhinterziehung als typische Vortaten.
+- Bußgeldrahmen § 56 Abs. 3 GwG: bis 5 Mio. EUR bei Banken oder bis 10 % des Gesamtumsatzes; doppelter wirtschaftlicher Vorteil; bei OWi-Anlässen Verfolgungsverjährung 3 Jahre (§ 31 OWiG).
+- Beweislast: für Verpflichteten zur ordnungsgemäßen Erfüllung der KYC/Sorgfaltspflichten — Dokumentationspflicht § 8 GwG (5 Jahre Aufbewahrung), Vier-Augen-Prinzip § 6 GwG. Bei strafrechtlicher Verfolgung Vorsatz/Leichtfertigkeit (§ 261 Abs. 6 StGB) — i. d. R. über Indizien (Red Flags, Abweichungen vom Kundenprofil, unzureichende Antworten).
+- Aufsichtsverfahren BaFin/Länderaufsicht: § 51 GwG (Auskunfts-/Vorlageverlangen), § 52 GwG (Sonderprüfung), § 56 GwG (Bußgeld); MaRisk und BAIT als Auslegungshilfen. AMLR/AMLD6 (VO/RL 2024/1624 ff.) ab 10.7.2027 mit Single Rulebook und AMLA als zentrale EU-Aufsicht.
+- Praktiker-Tipp: Vor jeder Aussage gegenüber Aufsicht oder Strafverfolgung Internal Investigation (forensische Akte, E-Mail-Review, Interviews); konsolidierter Sachverhaltsstand mit Belegmatrix Punkt-für-Punkt (Sachverhalt | Norm | Beleg | Bewertung); bei drohendem Bußgeld Kooperationsbonus durch Selbstanzeige § 47 OWiG iVm § 26 GwG (Bonusabschlag häufig 25-50 %).
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

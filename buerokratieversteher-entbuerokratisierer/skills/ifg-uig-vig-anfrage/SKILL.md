@@ -8,6 +8,13 @@ description: "Erstellt Informationsfreiheits-, Umweltinformations- oder Verbrauc
 ## Aufgabe
 Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren.
 
+## Normfokus und Praxis
+- Drei getrennte Regime: IFG (Bundes-IFG vom 5.9.2005, BGBl. I S. 2722; daneben Landes-IFG, NRW IFG/VIG, Berlin-IFG etc.), UIG (Umweltinformationsgesetz iVm UI-RL 2003/4/EG), VIG (Verbraucherinformationsgesetz, § 2 VIG für Lebensmittelhygiene/Sicherheit, z. B. Topf-Secret-Anfragen).
+- Frist Behörde: IFG einen Monat (§ 7 Abs. 5 IFG), UIG einen Monat bzw. zwei bei Umfang (§ 3 Abs. 3 UIG), VIG einen Monat (§ 5 Abs. 2 VIG); Untätigkeit nach drei Monaten ermöglicht Klage (§ 75 VwGO).
+- Versagungsgründe: §§ 3 ff. IFG (Betriebs- und Geschäftsgeheimnisse, personenbezogene Daten, intern), § 8 UIG (Drittinteresse, Anhörung erforderlich), § 3 VIG. Anhörung des Dritten zwingend (§ 8 IFG, § 9 UIG, § 5 VIG).
+- Gebühren: IFG bis 500 Euro (§ 10 IFG iVm Gebührenverordnung), UIG häufig kostenfrei für einfache Auskünfte (§ 12 UIG), VIG kostenfrei bis 1000 Euro (§ 7 VIG).
+- Praktiker-Tipp: Anfrage so präzise wie möglich (konkretes Dokument, Aktenzeichen, Vorgang); Plattformen wie FragDenStaat halten Vorlagen vor. Bei Ablehnung Widerspruch nach § 9 IFG mit Begründung, ggf. Anrufung BfDI/LfDI bei Bundes-/Landesbehörden.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

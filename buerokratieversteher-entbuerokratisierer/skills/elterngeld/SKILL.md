@@ -8,6 +8,13 @@ description: "Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nac
 ## Aufgabe
 Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch.
 
+## Normfokus und Praxis
+- Rechtsgrundlage: BEEG (Bundeselterngeld- und Elternzeitgesetz). Drei Modelle: Basiselterngeld (§ 2 BEEG, 65-67 % Nettoeinkommen, 300-1 800 EUR/Monat, 12 Monate + 2 Partnermonate), ElterngeldPlus (§ 4 BEEG, halbe Höhe, doppelte Dauer), Partnerschaftsbonus (4 zusätzliche Monate bei Teilzeit beider Eltern).
+- Einkommensgrenzen ab 1.4.2024: Paare mit zu versteuerndem Einkommen > 200 000 EUR / Alleinerziehende > 150 000 EUR — kein Anspruch (§ 1 Abs. 8 BEEG); ab 1.4.2025 für Paare weiter abgesenkt (genauer Wert über aktuelle Quelle prüfen).
+- Bezugszeitraum: Geburts­monat bis vollendetes 14. Lebensmonat (§ 4 BEEG). Anspruch nur, wenn der Berechtigte das Kind selbst betreut und höchstens 32 Wochenstunden erwerbstätig ist (§ 1 Abs. 6 BEEG).
+- Antrag bei Elterngeldstelle (Land); rückwirkend nur drei Monate (§ 7 Abs. 1 BEEG) — zeitnah stellen! Bescheid nach §§ 31, 35 SGB X erlässt Verwaltungsakt.
+- Praktiker-Tipp: Steuerklassenwahl vor Geburt optimieren (Steuerklasse III für höheres Elterngeld, sechs Monate vor Geburt umstellen); bei Partnerschaftsbonus genaue Wochenstunden­tracker (zwischen 24 und 32) — bei Verstoß Rückforderung. Bei Selbstständigen Einkommensermittlung aus Steuerbescheid (§ 2d BEEG).
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

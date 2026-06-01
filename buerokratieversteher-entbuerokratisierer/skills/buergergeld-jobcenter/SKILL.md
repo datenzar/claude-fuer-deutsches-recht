@@ -8,6 +8,13 @@ description: "Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirk
 ## Aufgabe
 Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe.
 
+## Normfokus und Praxis
+- Rechtsgrundlagen: §§ 19 ff. SGB II (Regelbedarf), § 22 SGB II (Kosten der Unterkunft und Heizung), §§ 31 ff. SGB II (Leistungsminderung), § 60 SGB I (Mitwirkungspflicht).
+- Bedarf prüfen vor Sanktion: Existenzminimum bleibt nach BVerfG 5.11.2019 (1 BvL 7/16) auch bei Pflichtverletzungen verfassungsrechtlich geschützt; Minderung gestaffelt nach § 31a SGB II.
+- KdU: Angemessenheit nach schlüssigem Konzept der Kommune; bei Aufforderung zu Umzug strenge Anforderungen, Karenzzeit § 22 Abs. 1 Satz 2 SGB II beachten.
+- Aufhebung/Erstattung: §§ 45, 48 SGB X iVm § 40 SGB II; Anhörung nach § 24 SGB X zwingend, sonst Heilung im Widerspruchsverfahren.
+- Praktiker-Tipp: Widerspruch ist kostenfrei (§ 64 SGB X), Frist ein Monat; bei drohendem Leistungsstopp Eilantrag § 86b SGG zum Sozialgericht (Gerichtskostenfreiheit, § 183 SGG). Beratungshilfe nach BerHG für anwaltliche Erstberatung möglich.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

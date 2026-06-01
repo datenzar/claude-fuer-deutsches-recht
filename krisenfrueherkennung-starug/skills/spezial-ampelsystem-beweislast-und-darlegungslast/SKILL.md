@@ -37,3 +37,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Frühwarn-Ampelsystem (§ 1 StaRUG)
+- **GRÜN (Normalbetrieb):**
+  - Liquiditätsplan 24 Monate zeigt durchgehend Deckung > 110 Prozent.
+  - Kovenanten mit > 20-Prozent-Spielraum.
+  - Cash-Reichweite > 6 Monate.
+- **GELB (Beobachtungspflicht erhöht):**
+  - Liquiditätsdeckung 100–110 Prozent oder Kovenanten unter 20-Prozent-Spielraum.
+  - Externer Schock (Großkunde verliert Bonität, Auftragseinbruch > 20 Prozent).
+  - Reaktion: Maßnahmenplan mit Verantwortlichen und Fristen, Information Gesellschafter und ggf. Aufsichtsrat.
+- **ROT (drohende ZU § 18 InsO):**
+  - Liquiditätsdeckung in einzelnen Perioden < 100 Prozent im 24-Monats-Horizont.
+  - Reaktion: StaRUG-Anzeige § 31 StaRUG erwägen, Sanierungskonzept IDW S6 starten, Restrukturierungsbeauftragter § 73 StaRUG.
+
+## Beweislast und Darlegungslast
+- **Im Innenverhältnis (§ 43 GmbHG / § 93 AktG):** Geschäftsführer trägt Darlegungs- und Beweislast für Sorgfaltspflicht-Erfüllung (Beweislastumkehr) — d. h. Geschäftsführer muss zeigen, dass er ein **Frühwarnsystem** eingerichtet, **Indikatoren überwacht** und **angemessen reagiert** hat.
+- **Im Anfechtungsprozess (§§ 129 ff. InsO):** Insolvenzverwalter trägt für jeden Anfechtungstatbestand die Beweislast — Indizien-Rechtsprechung des BGH erleichtert dies für § 133 InsO.
+- **Bei Haftung § 15a Abs. 4 InsO Strafverfahren:** Strafverfolgungsbehörde trägt Beweislast — aber **Indizwirkung** der dokumentierten oder fehlenden Frühwarnung.
+
+## Substantiierungspflicht des Geschäftsführers
+- Datierte Liquiditätspläne, Sensitivitäten, Maßnahmenprotokolle.
+- Beschlussfassung Gesellschafter / Aufsichtsrat zu Sanierungsmaßnahmen.
+- Berater-Mandate und Berichte.
+- Dokumentation der ex-ante-Sicht: was war im Entscheidungszeitpunkt bekannt, welche Annahmen waren vernünftig?
+
+## Trade-off
+- Frühwarnsystem kostet Ressourcen — Mindeststandard skaliert mit Unternehmensgröße. Bei kleiner GmbH wird kein vollumfängliches BI-System verlangt, aber zumindest Quartals-Liquidität mit Ausschau.

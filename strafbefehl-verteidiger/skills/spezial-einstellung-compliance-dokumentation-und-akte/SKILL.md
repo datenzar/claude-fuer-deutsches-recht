@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausg
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Einstellung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Einstellung mangels hinreichenden Tatverdachts: § 170 Abs. 2 StPO – durch StA (vor Anklage); nach Strafbefehl nicht mehr, dort § 411 Abs. 3 StPO i.V.m. §§ 153 ff. StPO.
+- § 153 StPO Einstellung wegen Geringfügigkeit: ohne Auflagen, Zustimmung Gericht/StA – bei Bagatellsachen.
+- § 153a StPO Einstellung gegen Auflagen: Geldzahlung, Schadenswiedergutmachung, gemeinnützige Arbeit; Zustimmung Beschuldigter und Gericht. Vorteil: kein Eintrag im Führungszeugnis (BZRG).
+- § 154 StPO Beschränkung bei mehreren Tatkomplexen; § 154a StPO bei mehreren Tatbeständen einer Tat.
+- Im Strafbefehlsverfahren: § 411 Abs. 3 StPO – Gericht kann Einstellung nach §§ 153, 153a StPO auch nach Einspruch beschließen, sofern Voraussetzungen vorliegen.
+- Praxis-Tipp: Antrag auf Einstellung mit konkreter Begründung (geringe Schuld, geringes öffentliches Interesse, ausgeglichene Wiedergutmachung) und ggf. Vorschlag für Auflagen-Höhe (i.d.R. 10-30 Tagessätze als Zahlung). Mandant über Folgen aufklären: keine Verurteilung, aber Zahlung/Auflage muss erfüllt werden, sonst Wiederaufleben des Verfahrens.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

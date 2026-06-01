@@ -26,6 +26,15 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Mietspiegel/Kappung
+- **Ortsübliche Vergleichsmiete (§ 558 Abs. 2 BGB):** Heranzuziehen sind die Entgelte, die für vergleichbaren Wohnraum nach Art, Größe, Ausstattung, Beschaffenheit und Lage in den letzten sechs Jahren vereinbart oder angepasst wurden.
+- **Mietspiegelarten:** Einfacher Mietspiegel (§ 558c BGB), qualifizierter Mietspiegel (§ 558d BGB - wissenschaftlich erstellt und alle vier Jahre aktualisiert). Beim qualifizierten Mietspiegel besteht widerlegliche Vermutungswirkung (§ 558d Abs. 3 BGB).
+- **Kappungsgrenze (§ 558 Abs. 3 BGB):** Innerhalb von drei Jahren darf die Miete um maximal 20% steigen; in Gebieten mit angespanntem Wohnungsmarkt nach LandesVO um maximal 15% (§ 558 Abs. 3 S. 2 BGB). Maßgeblich: Zeitraum zwischen letzter Erhöhung/Mietbeginn und Wirksamwerden der neuen Miete.
+- **Mietpreisbremse (§§ 556d-556g BGB):** In Gebieten mit angespanntem Wohnungsmarkt (LandesVO mit Befristung) darf bei Wiedervermietung die Miete maximal 10% über der ortsüblichen Vergleichsmiete liegen. Ausnahmen für Neubau (§ 556f S. 1 BGB - Erstvermietung nach 01.10.2014), umfassende Modernisierung (§ 556f S. 2 BGB) und Vormiete (§ 556e BGB).
+- **Rüge- und Auskunftsrecht des Mieters (§§ 556g Abs. 2-4 BGB):** Schriftliche Rüge; Vermieter muss innerhalb von zwei Jahren ab Rüge mitteilen, auf welche Ausnahmetatbestände er sich beruft. Ohne Auskunft kann sich der Vermieter nicht auf die Ausnahme berufen.
+- **Stichtagsproblematik:** Maßgeblich für die Vergleichsmiete ist der Zeitpunkt des Zugangs des Mieterhöhungsverlangens (§ 558a BGB); für die Kappungsgrenze der Zeitpunkt der Mieterhöhung. Bei Stichtagen vor/nach Veröffentlichung eines neuen Mietspiegels: stets aktuellen Mietspiegel verwenden.
+- **Praktiker-Tipp Großstadt:** In Berlin, München, Hamburg, Frankfurt etc. die LandesVO zu § 558 Abs. 3 S. 2 BGB UND zur Mietpreisbremse (§ 556d Abs. 2 BGB) separat prüfen - oft sind beide nebeneinander einschlägig, aber mit unterschiedlichen Gebietskulissen.
+
 ## Output-Standard
 - Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
 - Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.

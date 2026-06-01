@@ -22,6 +22,29 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Pflichtquellen für Livecheck (Vertragsrecht)
+
+- **Gesetzgebung (frei zugänglich):**
+  - `www.gesetze-im-internet.de` (BMJ): BGB §§ 145 ff. (Antrag/Annahme), §§ 305 ff. (AGB), §§ 312 ff. (Verbraucherverträge), §§ 433 ff. (Kauf), §§ 631 ff. (Werk), § 535 (Miete), §§ 611 ff. (Dienst), § 126 ff. (Form).
+  - EGBGB Anlagen 1, 2 (Muster-Widerrufsbelehrung und -formular).
+- **Rechtsprechung (frei):**
+  - `www.bundesgerichtshof.de` (Volltexte BGH ab 2000).
+  - `www.rechtsprechung-im-internet.de` (BVerfG, BVerwG, BFH, BSG).
+  - EuGH: `curia.europa.eu`.
+- **Verbraucherschutz:**
+  - `www.evz.de` (Europäisches Verbraucherzentrum), Bundesnetzagentur (Telekommunikation, Energie).
+- **UN-Kaufrecht (CISG):**
+  - `www.uncitral.org` und `www.cisg-online.org`.
+- **EU-Recht:**
+  - `eur-lex.europa.eu` für Richtlinien (insb. Verbraucherrechte-Richtlinie 2011/83/EU, Pauschalreiserichtlinie 2015/2302, Klausel-Richtlinie 93/13/EWG).
+
+## Konkrete Livecheck-Anker je Konstellation
+
+- **Bei Fernabsatz:** § 312c BGB, §§ 355 ff. BGB, Art. 246a § 1 EGBGB live prüfen; Anlage 1 EGBGB (Muster-Widerrufsbelehrung) auf aktuelle Fassung verifizieren.
+- **Bei Form:** § 126 BGB (Schriftform), § 126a BGB (qES), § 126b BGB (Textform), eIDAS-VO Art. 25 ff.
+- **Bei Verzug:** §§ 286, 288 BGB; aktuelle Basiszinssätze über Deutsche Bundesbank `www.bundesbank.de`.
+- **Bei Verjährung:** §§ 195, 199, 203 BGB; Sonderfristen (§ 438 BGB Kauf, § 634a BGB Werk).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

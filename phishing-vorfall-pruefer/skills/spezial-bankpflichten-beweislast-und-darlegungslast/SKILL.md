@@ -26,6 +26,38 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Beweislastverteilung im Phishing-Fall
+- **§ 675w S. 1 BGB**: Wurde die Authentifizierung mittels eines Zahlungsinstruments aufgezeichnet, muss der Zahlungsdienstleister bei Streit über die Authentizität nachweisen, dass die Zahlung **authentifiziert, ordnungsgemäß aufgezeichnet, verbucht und nicht durch eine Störung beeinträchtigt** war.
+- **§ 675w S. 3 BGB**: Die Nutzung des Zahlungsinstruments reicht **nicht** als Anscheinsbeweis dafür, dass der Zahler die Zahlung autorisiert oder grob fahrlässig gehandelt hat.
+
+## Sekundäre Darlegungslast Kunde
+Der Zahler muss substantiiert vortragen:
+- Vorgang der Phishing-Attacke (Mail, SMS, Anruf, App-Manipulation)
+- Eigene Wahrnehmung und Reaktion (Zeitachse)
+- Erkennbarkeit der Täuschung im konkreten Fall
+- Pflichten gemäß § 675l BGB (Bewahrung Sicherungsverfahren, unverzügliche Anzeige bei Verdacht)
+
+## Pflichten der Bank
+- **§ 55 ZAG** (PSD2-Umsetzung): Starke Kundenauthentifizierung mit mindestens zwei unabhängigen Elementen (Wissen, Besitz, Inhärenz).
+- **Art. 97 PSD2** i. V. m. Delegierter VO (EU) 2018/389: dynamische Verknüpfung der Authentifizierung mit Betrag und Empfänger.
+- **§ 675l BGB** Spiegelpflicht: Bank muss Sicherheitsmerkmale für unverzügliche Sperre verfügbar halten.
+- **§ 675k BGB**: Sperrmöglichkeit, Sperrmeldung, Wiedereinrichtung.
+
+## Substantiierung Bankhaftung
+- **Logfiles** der Authentifizierungsschritte
+- **Geräte-Fingerprint** des Auftraggebers (Bank hat dies regelmäßig)
+- **Risk-Score** der Transaktion (Empfängerkonto neu, ungewöhnlicher Betrag)
+- **Telefon-Anrufeingang**: Bei Call-ID-Spoofing TKG-Provider einbeziehen, soweit verfügbar.
+
+## Substantiierung Kundenseite
+- **Screenshot** der Phishing-Nachricht
+- **Anrufaufzeichnung / Notiz** mit Datum, Uhrzeit, Nummer, Inhalt
+- **Anzeige bei Polizei** (Strafanzeige nach § 263a StGB Computerbetrug)
+- **Anzeige bei Bank**: Bestätigung mit Datum
+
+## Trade-off
+Die Beweislastverteilung ist gesetzlich verbraucherfreundlich. In der Praxis schiebt die Bank die "grobe Fahrlässigkeit" trotzdem oft als Verteidigung vor; Schlichtungsstellen verlangen meist konkrete Tatsachen statt pauschaler Behauptungen. Substantiierter Anfangsvortrag öffnet die Tür zur Erstattung.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

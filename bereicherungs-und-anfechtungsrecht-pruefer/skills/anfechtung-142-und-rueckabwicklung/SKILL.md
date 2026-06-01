@@ -39,6 +39,36 @@ Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend b
 - Schutzvorschriften in Wertersatz umwandeln.
 - Fristen oder Rechtsweg übersehen.
 
+## Anfechtungstatbestände im Überblick (§§ 119–124 BGB)
+
+- **§ 119 Abs. 1 BGB Inhaltsirrtum:** Irrtum über Erklärungsinhalt — kausaler Irrtum bei verständiger Würdigung.
+- **§ 119 Abs. 1 BGB Erklärungsirrtum:** Verschreiben, Vergreifen — Falschübermittlung.
+- **§ 119 Abs. 2 BGB Eigenschaftsirrtum:** verkehrswesentliche Eigenschaft einer Person oder Sache (z. B. Authentizität eines Gemäldes).
+- **§ 120 BGB Übermittlungsirrtum:** Bote übermittelt falsch.
+- **§ 123 Abs. 1 BGB arglistige Täuschung / widerrechtliche Drohung:** verschärfte Schutzwirkung, keine Schadensersatzpflicht § 122 BGB.
+- **Fristen:** § 121 BGB unverzüglich (für § 119, 120 BGB); § 124 BGB ein Jahr ab Entdeckung (für § 123 BGB).
+
+## Rechtsfolge § 142 Abs. 1 BGB
+
+- **Ex tunc-Nichtigkeit:** das angefochtene Rechtsgeschäft wird **von Anfang an** nichtig — Rechtsgrund entfällt rückwirkend.
+- **Folge:** §§ 812 Abs. 1 S. 1 Alt. 1 BGB Leistungskondiktion (Leistung ohne Rechtsgrund, weil Rechtsgrund weggefallen ist) — Rückabwicklung in Natur (§ 818 Abs. 1 BGB) oder Wertersatz (§ 818 Abs. 2 BGB).
+
+## Saldotheorie bei gegenseitigen Verträgen
+
+- Bei nichtigem gegenseitigem Vertrag (z. B. Kauf nach § 142 BGB): Saldotheorie der h.M. — der Mindererlangende kondiziert nur den Differenzbetrag (Saldo) zur Gegenleistung.
+- **Ausnahmen** der Saldotheorie (Zweikondiktionentheorie greift): § 119 BGB-Anfechtung wegen Eigenschaftsirrtum; § 123 BGB-Täuschung zum Schutz des Getäuschten; Geschäftsunfähige § 105 BGB; Minderjährige § 106 BGB.
+- **Bei § 123 BGB:** Getäuschter kann **volle** Rückzahlung verlangen, ohne eigene Gegenleistung anrechnen zu müssen — wegen Sittenwidrigkeit der Täuschung.
+
+## Schadensersatz und § 122 BGB
+
+- § 122 BGB Vertrauensschaden bei §§ 119, 120 BGB: Anfechtender haftet für Vertrauensschaden, nicht für Erfüllungsinteresse.
+- Bei § 123 BGB **keine** Haftung des Anfechtenden — Täuschende/Drohende verlieren Vertrauensschutz.
+
+## Anti-Halluzinations-Hinweise
+
+- § 142 BGB ist **nicht** zu verwechseln mit § 142 InsO (Bargeschäft) — Bezeichnung "Anfechtung" findet sich in beiden Gebieten.
+- § 119 ff. BGB betreffen Willenserklärungen, nicht das Insolvenzanfechtungsrecht (§§ 129 ff. InsO).
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

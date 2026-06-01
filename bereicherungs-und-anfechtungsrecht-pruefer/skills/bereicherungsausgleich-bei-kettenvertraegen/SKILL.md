@@ -39,6 +39,35 @@ Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff r�
 - Doppelmangel zu einem Pauschalanspruch verschmelzen.
 - Insolvenzrisiko ohne Rechtsgrund verlagern.
 
+## Kettenkonstellationen — typische Fälle
+
+- **Anweisung (Zahlung A → B → C):**
+  - A weist B an, an C zu zahlen — Zahlung an C ist gleichzeitig Leistung des A (Deckungsverhältnis A↔B) und des B (Valutaverhältnis B↔C).
+  - Mangel im **Deckungsverhältnis** (A↔B): Kondiktion **B gegen A** (B kondiziert seinen eigenen Leistungsweg).
+  - Mangel im **Valutaverhältnis** (B↔C): Kondiktion **C gegen B** (Valutaverhältnis ist fehlerhaft).
+  - **Doppelmangel** (beide Verhältnisse fehlerhaft): trotzdem keine Direktkondiktion A↔C; jeder kondiziert in seiner eigenen Beziehung.
+- **Zessionsfall:** Zedent → Zessionar; Schuldner zahlt an Zessionar bei nichtiger Zession → Zedent kondiziert vom Zessionar (siehe `abgetretene-forderung-und-zession`).
+- **Drittleistung § 267 BGB:** Dritter zahlt fremde Schuld — bei nichtiger Schuld kondiziert Dritter vom Empfänger; bei fehlender Tilgungsbestimmung andere Wertung.
+
+## Grundsatz: Wickung in der fehlerhaften Beziehung
+
+- BGH-Linie zum Bereicherungsausgleich in Mehrpersonenverhältnissen: jeder kondiziert in der Beziehung, in der der Rechtsgrund fehlt — Schutz vor doppeltem Insolvenzrisiko und Wahrung der vertraglichen Einreden.
+- Direktkondiktion (Durchgriff A → C) nur ausnahmsweise — bei:
+  - § 822 BGB (Bereicherung eines Dritten, unentgeltliche Weitergabe).
+  - Sittenwidrigkeit, Treuhand, vergleichbaren Konstellationen.
+
+## Insolvenzschutz-Funktion
+
+- Wickung in der fehlerhaften Beziehung schützt vor Verlagerung des Insolvenzrisikos:
+  - A muss B in Anspruch nehmen — Insolvenzrisiko B trägt A.
+  - A kann nicht auf C zugreifen — Insolvenzrisiko C trägt B.
+- **Ausnahme:** Bei unentgeltlicher Weitergabe (§ 822 BGB) Direktkondiktion A → C möglich.
+
+## Empfängerhorizont § 133, 157 BGB
+
+- Bei Anweisung: Empfänger sieht objektiv eine Leistung des Anweisenden, nicht des Mittelsmanns.
+- Maßgeblich ist der objektive Empfängerhorizont — interne Abreden des Anweisenden bleiben außer Betracht.
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

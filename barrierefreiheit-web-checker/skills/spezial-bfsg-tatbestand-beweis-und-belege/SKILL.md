@@ -26,6 +26,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Tatbestandsstruktur BFSG-Verstoß
+Wirtschaftsakteur-Pflicht ist verletzt, wenn:
+- **Produkt / Dienstleistung im Anwendungsbereich** (§ 1 Abs. 2/3 BFSG)
+- **Inverkehrbringen / Erbringen nach 28.06.2025** (§ 38 BFSG; Übergangsregelungen beachten)
+- **Anforderungen Anhang 1 BFSGV nicht erfüllt** und keine Ausnahme nach § 16 (grundlegende Veränderung), § 17 (unverhältnismäßige Belastung) oder § 3 Nr. 17 (Kleinstunternehmen für Dienstleistung) greift
+- **Konformitätsvermutung nach harmonisierter Norm EN 301 549** nicht in Anspruch genommen
+
+## Beweisthemen
+- **Konformitätsvermutung**: Wer die Vermutung in Anspruch nimmt, muss die Anwendung der harmonisierten Norm und das Ergebnis dokumentieren (technische Dokumentation § 6 BFSG, Anhang 2 BFSGV).
+- **Unverhältnismäßige Belastung (§ 17)**: Bewertung in Anlehnung an Anhang 4 BFSGV — Verhältnis Kosten/Nutzen, Größe des Unternehmens, geschätzte Inanspruchnahme durch Menschen mit Behinderung. Dokumentationspflicht **vor** dem Inverkehrbringen.
+- **Wesentliche Veränderung (§ 16)**: dokumentieren, welches Wesensmerkmal betroffen wäre.
+
+## Beleglage in Audit-Berichten
+- Screenshot mit URL, Datum und Uhrzeit
+- DOM-Auszug der betroffenen Stelle
+- WCAG-Erfolgskriterium und EN-301-549-Klausel
+- Reproduktionsschritt (Browser, Hilfstechnologie, Version)
+- Erwartetes Verhalten und Soll-Zustand
+
+## Trade-off
+"Unverhältnismäßige Belastung" wird von Marktüberwachungsbehörden eng ausgelegt; pauschale Berufung ohne dokumentierte Bewertung ist im Klage- und Bußgeldverfahren nicht tragfähig. Die Bewertung ist alle 5 Jahre, bei wesentlichen Änderungen oder auf Verlangen der Marktüberwachung zu überprüfen.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

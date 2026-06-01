@@ -17,14 +17,31 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Kostenregime im Vergleich
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+| Rechtsordnung | Grundregel | Ausnahmen |
+|---|---|---|
+| **USA ("American Rule")** | Each party bears its own attorney's fees | Vertragsklausel (fee shifting); statutorische Anspruchsgrundlage (z. B. 42 U.S.C. § 1988 civil rights, § 285 Patent Act); Bad-faith litigation; common fund doctrine |
+| **UK ("English Rule") / Loser-pays** | Loser pays winner's costs, aber nur "reasonable and proportionate"; Standard- oder Indemnity-Basis | Wasted costs; conditional fee agreements (CFA); damages-based agreements (DBA); after-the-event insurance |
+| **Deutschland** | § 91 ZPO Unterliegender traegt Kosten | Quotelung § 92 ZPO; Vergleich § 98 ZPO; RVG-/JVEG-Hoechstsaetze begrenzen Erstattung |
+| **Schiedsgerichtsbarkeit** | Schiedsspruch entscheidet ueber Kosten (Art. 38 ICC Rules, § 1057 ZPO) | Oft "costs follow the event" wie englisches Recht |
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Pruefraster Mandanten-Risikoanalyse
+
+1. **Forum bestimmen** — wo wird das Gericht zustaendig sein? Welche Kostenregel gilt dort?
+2. **Streitwert / amount in controversy** — bei US-Gerichten Bundeszustaendigkeit ab 75.000 USD diversity (28 U.S.C. § 1332).
+3. **Anwaltskosten schaetzen** — US-Stundensaetze typischer Partner 600 bis 1.500 USD; Discovery-Kosten kalkulieren.
+4. **Vertragliche Fee-Shifting-Klausel** pruefen: "prevailing party shall be entitled to recover reasonable attorneys' fees and costs".
+5. **Drittfinanzierung** — Litigation Funding ist in den USA verbreitet; in DE seit BGH zulaessig, aber RDG-Grenzen.
+6. **Punitive damages** in den USA pro Klaeger relevant; nicht vollstreckbar im deutschen ordre public (§ 328 I Nr. 4 ZPO).
+
+## Praxisfallen
+
+- **"Loser-pays-Trugschluss"** im US-Verfahren: deutsche Mandanten erwarten, im Erfolgsfall Kosten erstattet zu bekommen — das ist die seltene Ausnahme.
+- **Discovery-Kosten** koennen in den USA das Hauptkostenrisiko sein (E-Discovery, depositions), nicht Anwaltskosten.
+- **Class actions / collective actions:** asymmetrisches Kostenrisiko fuer Beklagten.
+- **Anti-suit injunctions** — UK-Gerichte koennen Vollstreckung in DE behindern; in der EU vor Brexit unzulaessig (West Tankers).
+- **Pre-action protocols** UK Civil Procedure Rules: vor Klage bestimmte Schritte einhalten, sonst Kostenstrafe.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

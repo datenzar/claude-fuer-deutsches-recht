@@ -52,6 +52,23 @@ Der EuGH hat zu § 14 Abs. 3 TzBfG a.F. entschieden, dass eine generelle Befrist
 - Die Höchstdauer der Befristung ist nicht gesetzlich auf zwei Jahre begrenzt — aber die Befristung muss sachlich gerechtfertigt sein, wenn ein Sachgrund fehlt, bzw. sie ist unbegrenzt verlängerbar, wenn die Voraussetzungen vorliegen.
 - Das Vorbeschäftigungsverbot gilt auch hier.
 
+## Praktiker-Tipp Arbeitnehmerseite
+
+| Angriffspunkt | Inhalt |
+| --- | --- |
+| Nachweis der Vorarbeitslosigkeit | Arbeitgeber muss schriftliche Bestätigung der Agentur für Arbeit oder vergleichbarer Stellen vorlegen können. Bei fehlendem Nachweis: Befristung unwirksam, § 16 TzBfG = unbefristetes Arbeitsverhältnis |
+| Unmittelbarkeit | "Unmittelbar vor Beginn" wird eng ausgelegt; bei Pausen zwischen Arbeitslosigkeit und Vertragsbeginn (z.B. mehrere Wochen) ist die Voraussetzung problematisch |
+| 4-Monats-Frist | Gemeldete Arbeitslosigkeit § 138 SGB III; bloße faktische Arbeitslosigkeit ohne Meldung reicht NICHT |
+| AGG-Aspekt | Diskriminierungsverbot § 1, 3 AGG; alle Argumente kombinieren (AGG-Beweislast nach § 22 AGG bei Indizien) |
+| Schriftformerfordernis § 14 Abs. 4 TzBfG | gilt zusätzlich; bei elektronischer Signatur ohne qeS Befristung unwirksam |
+| Klagefrist § 17 TzBfG | drei Wochen ab vereinbartem Vertragsende; bei Versäumnis Wirksamkeitsfiktion § 7 KSchG analog |
+
+## Praktiker-Tipp Arbeitgeberseite
+
+- Vor Vertragsschluss schriftliche Bestätigung der Agentur für Arbeit anfordern (Bescheid über Arbeitslosigkeitsphase).
+- Kopie zu Personalakte; Beweispflicht trägt Arbeitgeber.
+- Bei Verlängerung: jede Verlängerung schriftlich vor Ablauf des laufenden Vertrags.
+
 ## Prüfungsschema
 
 1. Hat der Arbeitnehmer bei Vertragsbeginn das 52. Lebensjahr vollendet?

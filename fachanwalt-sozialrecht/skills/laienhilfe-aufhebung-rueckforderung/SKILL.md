@@ -9,6 +9,16 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Aufhebung Rueckforderun
 
 Dieser Skill erklaert **Aufhebung Rueckforderung** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Aufhebung Verwaltungsakt mit Dauerwirkung: § 48 SGB X – bei wesentlicher Aenderung der tatsaechlichen oder rechtlichen Verhaeltnisse; rueckwirkend nur bei grober Verletzung Mitwirkungspflichten oder Kenntnis/grob fahrlaessiger Unkenntnis.
+- Aufhebung rechtswidrig beguenstigender VA: § 45 SGB X – Vertrauensschutz pruefen (§ 45 Abs. 2 SGB X), Rueckwirkung nur bei Boesglaeubigkeit, falschen Angaben, Kenntnis.
+- Erstattung: § 50 SGB X – zu Unrecht erbrachte Leistungen sind zu erstatten; ab 4. Jahr Verjaehrung.
+- Aufrechnung: § 51 SGB I – Aufrechnung mit laufenden Leistungen begrenzt (Existenzminimum, § 51 Abs. 2 SGB I, Pfaendungsfreigrenze).
+- Erlass / Stundung: § 76 SGB IV bei sozialversicherungsrechtlichen Rueckforderungen.
+- Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe (drei Monate, wenn Belehrung fehlt § 66 SGG).
+- Praxis-Tipp: Bei Rueckforderungsbescheid sofort Widerspruch und parallel Antrag auf Aussetzung Vollziehung § 86a Abs. 3 SGG. Vertrauensschutz nach § 45 SGB X substantiiert vortragen: keine Boesglaeubigkeit, keine falschen Angaben, Geld bereits "verbraucht". Bei haerteren Faellen Erlass nach § 76 SGB IV oder Stundungsantrag stellen.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

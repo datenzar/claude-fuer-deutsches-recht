@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Fristen im Familienrecht
+- Beschwerde gegen Endentscheidung: ein Monat ab schriftlicher Bekanntgabe (§ 63 Abs. 1 FamFG); bei einstweiliger Anordnung zwei Wochen (§ 63 Abs. 2 FamFG).
+- Begründungsfrist Beschwerde: zwei Monate ab schriftlicher Bekanntgabe (§ 117 Abs. 1 FamFG).
+- Antrag auf Anpassung Versorgungsausgleich nach § 5 VersAusglG-AnpG nach Ablauf der Trennungszeit.
+- Sechs-Monats-Frist Zugewinnausgleich Auskunft Stichtag (§ 1379 BGB).
+- Rückforderung Schenkung Schwiegereltern: regelmäßige Verjährung drei Jahre ab Ende des Jahres der Trennungserkenntnis (§§ 195, 199 BGB).
+
+## Praxis-Trade-off
+- Schnelle einstweilige Anordnung (§§ 49 ff. FamFG) vs. Hauptsacheantrag: einstweilige Anordnung wirkt sofort, aber begründet keinen Rechtskraftvorteil und kann durch Hauptsache überholt werden.
+- Verbund (§ 137 FamFG) vs. isolierte Folgesache: Verbund spart Gebühren, verzögert aber Scheidungsausspruch.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

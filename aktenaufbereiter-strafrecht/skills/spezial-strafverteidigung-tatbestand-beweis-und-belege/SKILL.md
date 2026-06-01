@@ -10,6 +10,14 @@ Dieser Skill ist ein konkreter Fachbaustein für `aktenaufbereiter-strafrecht`. 
 
 Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Strafverteidigung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Tatbestandsanalyse: Objektiver Tatbestand, subjektiver Tatbestand (Vorsatz § 15 StGB, ggf. Fahrlässigkeit), Rechtswidrigkeit (Rechtfertigungsgründe §§ 32 ff. StGB), Schuld (§ 20 StGB Schuldunfähigkeit, § 21 StGB verminderte Schuldfähigkeit) – jeweils Beweisbedarf gesondert.
+- Beweismittel der StPO: Einlassung Beschuldigter (§ 136 StPO), Zeugen (§§ 48 ff.), Sachverständige (§§ 72 ff.), Augenschein (§ 86), Urkunden (§ 249) – pro Tatbestandsmerkmal Beweismittel zuordnen.
+- Beweisverwertungsverbote: BGH ständige Rspr. zu §§ 136 Abs. 1 S. 2, 136a StPO (Belehrung, verbotene Vernehmungsmethoden); bei rechtswidriger Beweisgewinnung Abwägungslehre.
+- Beweisantrag in der HV: § 244 Abs. 3-6 StPO – Ablehnungsgründe genau prüfen, sonst Revisionsrüge nach § 338 Nr. 8 StPO drohend.
+- Praxis-Tipp: "Lückenliste" je Tatbestandsmerkmal führen – Spalten: Merkmal, Belegtatsache, Beweismittel, Beweiskraft (sicher/streitig/lückenhaft), Verteidigungslinie.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

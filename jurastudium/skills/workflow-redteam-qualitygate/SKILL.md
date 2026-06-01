@@ -33,3 +33,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Examenstauglichkeits-Check
+- **Anspruchsgrundlagen-Reihenfolge** korrekt? Vertrag → c.i.c. → GoA → dinglich → Delikt → Bereicherung.
+- **Streitstand bei zentralen Merkmalen** abgebildet (Theorienstreit + hM/Mindermeinung + Argumente)?
+- **Definition vor Subsumtion**: Jedes Tatbestandsmerkmal mit Quelle (Norm, hM, BGH-Linie) definiert?
+- **Subsumtion echte Tatsachen** (nicht Definitionswiederholung)? Konjunktiv im Tatbestand des Sachverhalts beachtet?
+- **Zwischen- und Gesamtergebnis** je Anspruchsgrundlage formuliert?
+- **Gutachtenstil vs. Urteilsstil** sauber differenziert (kein Mischmasch)?
+- **Methodenlehre**: Bei Auslegungsfragen die vier Auslegungsmethoden (Wortlaut, Systematik, Historie, Telos) und verfassungs-/unionsrechtskonforme Auslegung sichtbar gemacht?
+- **Keine erfundenen Aktenzeichen**: Jede BGH/BVerfG/EuGH-Stelle entweder mit verifiziertem Az. oder als "ständige Rspr." markiert.
+- Falle: Vorrang prüfen vergessen (z. B. § 993 BGB sperrt § 823 BGB nicht, aber § 281 vs § 280 I).

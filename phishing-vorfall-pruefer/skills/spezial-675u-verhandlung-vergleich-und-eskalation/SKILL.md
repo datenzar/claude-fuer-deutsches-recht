@@ -21,10 +21,33 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **675U** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **§ 675u BGB** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## § 675u BGB im Kern
+Bei einer nicht autorisierten Zahlung hat der Zahlungsdienstleister gegenüber dem Zahler keinen Anspruch auf Erstattung der Aufwendungen und ist verpflichtet, dem Zahler den Betrag **unverzüglich, spätestens bis zum Ende des folgenden Geschäftstags** zu erstatten und das Zahlungskonto wieder auf den Stand vor der nicht autorisierten Zahlung zu bringen.
+
+Voraussetzung: Anzeige der Nichtautorisierung durch den Zahler unverzüglich nach Feststellung, spätestens **13 Monate** nach Belastung (§ 676b Abs. 2 BGB).
+
+## Verhandlungsposition gegenüber Bank
+- **Anker**: § 675u BGB stellt die Erstattung in den Mittelpunkt; § 675v BGB ist die Ausnahme (Schadensersatz wegen grober Fahrlässigkeit oder Vorsatz).
+- **Beweislast nach § 675w BGB**: Die Bank muss nachweisen, dass das Zahlungsinstrument authentifiziert, ordnungsgemäß aufgezeichnet und nicht durch eine Störung beeinträchtigt war. Bloße Nutzung des Sicherungsverfahrens reicht **nicht** als Anscheinsbeweis grober Fahrlässigkeit (BGH XI ZR 91/14, Urteil vom 26.01.2016).
+- **Hilfsweise**: § 675v Abs. 3 BGB — Haftungsbegrenzung 50 EUR bei Verlust, Diebstahl oder sonstigem Abhandenkommen, wenn nicht grob fahrlässig.
+
+## Eskalationsstufen
+1. **Außergerichtliche Korrespondenz**: Erstattungsforderung mit Fristsetzung 14 Tage; § 286 BGB-Verzug ab Ablauf.
+2. **Bankenombudsmann** (BdB, BVR, DSGV, VÖB): kostenlos für Verbraucher, bei Streitwert bis 10.000 EUR bindend für Bank (privater Bankensektor) — siehe jeweilige Schlichtungsordnung.
+3. **Schlichtung Deutsche Bundesbank** (§ 14 UKlaG i. V. m. ZAG): wenn keine eigene Schlichtungsstelle.
+4. **Klage**: Amtsgericht bis 5.000 EUR, sonst Landgericht; Streitverkündung Strafanzeige unabhängig fortführen.
+
+## Vergleichshebel
+- **Sicherungspflicht der Bank** nach Art. 97 PSD2 (umgesetzt in § 55 ZAG): starke Kundenauthentifizierung — bei deren Fehlen Haftung der Bank verschärft.
+- **Schwachstelle pushTAN/Phishing**: BGH-Rechtsprechung hat den Anscheinsbeweis grober Fahrlässigkeit erheblich eingeschränkt; Banken setzen häufig auf Quotenvergleiche (50-70 % Erstattung) statt vollständiger Verteidigung.
+
+## Trade-off
+Vergleich vor Schlichtung spart Zeit, opfert aber häufig 20-30 % der Erstattung. Bei klarer Beweislage (kein Vorsatz, keine grobe Fahrlässigkeit) ist Schlichtungsverfahren regelmäßig die wirtschaftlichere Option, da kostenfrei und ohne Vertretungspflicht.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

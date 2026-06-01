@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Markenrechtlicher Kaltstart
+- **Schutzgegenstand:** Markenform nach § 3 MarkenG (Wort, Bild, Wort-Bild, 3D, Sound, Farbe, Position, Bewegung). Bei nicht-traditionellen Formen graphische Darstellbarkeit prüfen.
+- **Schutzhindernisse:** absolute Hindernisse § 8 MarkenG (Unterscheidungskraft Abs. 2 Nr. 1, Freihaltebedürfnis Abs. 2 Nr. 2, Bösgläubigkeit Abs. 2 Nr. 10); relative Hindernisse § 9 MarkenG (ältere identische/ähnliche Marke).
+- **Schutzbereich Kollision:** § 14 MarkenG, Verwechslungsgefahr unter Berücksichtigung Ähnlichkeit Waren/Marken/Kennzeichnungskraft (EuGH Sabel/Puma, C-251/95; Canon, C-39/97 — live verifizieren).
+- **Territorial:** DPMA national, EUIPO Unionsmarke, WIPO Madrid Internationale Registrierung.
+- **Frist:** Widerspruch DPMA § 42 MarkenG (3 Monate nach Veröffentlichung), EUIPO 3 Monate; Anmeldegebühr 290 EUR Grundgebühr DPMA, 850 EUR EUIPO eine Klasse.
+- Falle bei Luxus: selektiver Vertrieb (EuGH Coty C-230/16) hält nur, wenn objektive Kriterien diskriminierungsfrei und qualitative Funktion gewahrt.

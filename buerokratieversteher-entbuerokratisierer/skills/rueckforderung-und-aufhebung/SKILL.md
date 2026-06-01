@@ -8,6 +8,13 @@ description: "Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz,
 ## Aufgabe
 Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken.
 
+## Normfokus und Praxis
+- Rechtsgrundlagen: §§ 48, 49 VwVfG (rechtswidriger/rechtmäßiger Verwaltungsakt), §§ 45, 48 SGB X (Sozialrecht), §§ 130, 131 AO (Steuerrecht), § 50 SGB X (Erstattung).
+- Vertrauensschutz: § 48 Abs. 2 VwVfG / § 45 Abs. 2 SGB X — geschützt, wenn Begünstigter Leistung verbraucht hat und keine grobe Fahrlässigkeit/falsche Angaben vorliegen. Vier-Jahres-Frist nach § 48 Abs. 4 VwVfG ab Kenntnis aller Rücknahmevoraussetzungen.
+- Anhörung zwingend nach § 28 VwVfG / § 24 SGB X — Verstoß ist heilbar im Widerspruchsverfahren (§ 41 Abs. 2 VwVfG, § 41 Abs. 2 SGB X). Ohne Anhörung trotzdem Widerspruch einlegen und auf den Verfahrensmangel hinweisen.
+- Ratenzahlung/Stundung: § 76 BHO/LHO, § 222 AO (Steuern), § 76 SGB IV; Antrag formlos mit Einkommens-/Vermögensaufstellung.
+- Praktiker-Tipp: Bei Rückforderung sofort prüfen — Vertrauensschutz (verbraucht?), Verschulden (Mitwirkungspflicht verletzt?), Anhörung erfolgt? Innerhalb der Widerspruchsfrist (§ 70 VwGO) reagieren; bei drohender Verrechnung sofortige Aussetzung der Vollziehung beantragen (§ 80 Abs. 4 VwGO, § 86a SGG).
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

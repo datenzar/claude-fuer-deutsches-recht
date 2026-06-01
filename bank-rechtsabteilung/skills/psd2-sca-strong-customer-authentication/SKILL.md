@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## SCA-Spezifika (PSD2)
+- Rechtsgrundlagen: Art. 97 PSD2 (RL 2015/2366) iVm § 55 ZAG, Delegierte VO (EU) 2018/389 RTS SCA (Regulatory Technical Standards), EBA Final Report on RTS Amendments, EBA Opinions zu SCA.
+- Drei-Faktoren-Modell: Wissen (PIN/Passwort), Besitz (Karte/Smartphone), Inhärenz (Biometrie); zwei unabhängige Faktoren aus verschiedenen Kategorien zwingend; "Independence" und "Dynamic Linking" (Art. 5 RTS) bei Überweisungen — Betrag und Empfänger müssen in Auth integriert sein.
+- Ausnahmen (Art. 10-18 RTS): Kontoabfragen 90-Tage-Regel (Art. 10 — Anpassung durch Delegierte VO 2022/2360 unter strengeren Bedingungen), Niedrigwertige Zahlungen (Art. 16 — bis 30 EUR/100 EUR kumulativ), Trusted Beneficiary (Art. 13), Transaktionsanalyse mit niedrigem Risk Score (Art. 18); jede Ausnahme dokumentieren und Risiko-Monitoring.
+- Haftung: § 675v BGB iVm § 675w BGB — bei fehlender SCA Bank haftet (außer Vorsatz/grobe Fahrlässigkeit Kunde); bei korrekter SCA Beweislast für Authentifizierungsmangel beim Zahler.
+- Praktiker-Tipp: Reporting nach Art. 96 PSD2 zu Major Incidents an BaFin/Bundesbank (über MVP); Phishing-Resilience prüfen (Push-Notification-Spam, OAuth-Phishing), Kundenkommunikation klare SCA-Erläuterungen ohne irreführende Versprechen; Bei Reklamation forensische Logs (Device-Fingerprint, Geolocation, Zeitstempel) für Gerichtsverfahren bereithalten.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

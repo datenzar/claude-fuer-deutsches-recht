@@ -33,3 +33,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Produktrechtliche Fristen und Bußgeldschwellen
+- **§ 12 ProdHaftG Verjährung:** 3 Jahre kenntnisabhängig (Verletzung, Schaden, Hersteller); **§ 13 ProdHaftG:** 10 Jahre absolute Erlöschen ab Inverkehrbringen.
+- **§ 9 ProdSG Meldepflicht:** Unverzüglich bei Kenntnis von Risiko an BAuA über Safety Business Gateway; Verstoß § 39 ProdSG bis 100.000 EUR Bußgeld.
+- **GPSR (EU 2023/988):** Ab 13.12.2024 anwendbar; Meldepflicht über Safety Gateway; Rückrufkommunikation an Verbraucher direkt.
+- **CE-Konformität:** vor Inverkehrbringen; bei Maschinen MaschV (EU 2023/1230) ab 14.01.2027.
+- **Lagerdauer technische Unterlagen:** 10 Jahre ab Inverkehrbringen (z. B. MaschV Anhang III).
+- **Bei KI in Produkten:** AI Act (EU 2024/1689) Übergangsfristen: GPAI ab August 2025, Hochrisiko-Systeme ab August 2027.
+- **Rückrufankündigung:** im Inland (BAuA), unionsweit (Safety Gate); USA: CPSC-Meldung.
+- **Strafrechtliche Risiken:** § 95 AMG Strafe Arzneimittel; § 58 LFGB Strafe Lebensmittel; § 39 ProdSG Bußgeld.
+- Falle: Lithium-Akkus, KI-Komponenten, Drohnen — zusätzliche EU-Regelwerke (Batterieverordnung 2023/1542, AI Act, EU-Drohnenverordnung) parallel prüfen.

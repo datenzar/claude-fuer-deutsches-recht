@@ -26,6 +26,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Räumungsvollstreckung
+- **Rechtsgrundlage (§§ 885-885a ZPO):** Zwangsweise Räumung durch Gerichtsvollzieher auf Antrag des Gläubigers nach rechtskräftigem Räumungstitel und Zustellung an den Schuldner.
+- **Berliner Modell (§ 885a ZPO):** Eingeschränkte Räumung - Gläubiger ist nur verpflichtet, die Räume zu räumen; das Mobiliar verbleibt in der Wohnung. Der Gläubiger erwirbt nur das Vermieterpfandrecht (§ 562 BGB). Kostengünstiger.
+- **Vollständige Räumung (sog. "Frankfurter Modell"):** Gerichtsvollzieher räumt einschließlich Mobiliar und lagert es ein; Lagerung gem. § 885 Abs. 4 ZPO. Schuldner kann Sachen binnen zwei Monaten herausholen, sonst Versteigerung. Höhere Kosten für Gläubiger.
+- **Räumungsfrist (§ 721 ZPO):** Auf Antrag des Schuldners kann das Erkenntnisgericht eine Räumungsfrist bis zu einem Jahr gewähren (Verlängerung um 1 Jahr möglich), wenn besondere Härte (Kind, Krankheit, fehlender Ersatzwohnraum).
+- **Vollstreckungsschutz (§ 765a ZPO):** Schuldner kann bei Härtefall (Tod, schwere Krankheit, Schwangerschaft) Antrag auf Vollstreckungsschutz stellen. Verzögert die Räumung, gewährt aber Zeit für Ersatzwohnraum. Antrag bei Vollstreckungsgericht.
+- **Drei-Wochen-Frist (§ 721 Abs. 3 ZPO):** Verlängerungsantrag der Räumungsfrist drei Wochen vor Ablauf zu stellen.
+- **Räumung an Sonn- und Feiertagen:** Grundsätzlich verboten (§ 758a Abs. 4 ZPO); werktags zwischen 21 Uhr und 6 Uhr nur mit Sondergenehmigung.
+- **Mietkosten zwischen Kündigung und Räumung:** Schuldner schuldet Nutzungsentschädigung in Höhe der ortsüblichen Miete (§ 546a BGB), nicht den vereinbarten Mietzins.
+- **Praktiker-Tipp:** Vor Räumungsklage immer prüfen: Adressaten korrekt (alle Mitmieter im Titel?), Räumlichkeiten genau bezeichnet (Stockwerk, Lage); fehlende Bezeichnungen führen zu Schwierigkeiten beim Gerichtsvollzieher. Kostenkalkulation: vollständige Räumung kann mehrere tausend Euro kosten - Berliner Modell oft wirtschaftlicher.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

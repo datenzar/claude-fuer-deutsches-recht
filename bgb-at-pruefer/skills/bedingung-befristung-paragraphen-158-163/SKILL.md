@@ -11,7 +11,18 @@ Zeit- und Ereignisabhängigkeit von Rechtswirkungen bestimmen.
 
 ## Normanker
 
-§§ 158-163 BGB
+- § 158 BGB: Aufschiebende (Abs. 1) und auflösende (Abs. 2) Bedingung; Rechtswirkungen knüpfen an unsicheres künftiges Ereignis.
+- § 159 BGB: Rückbeziehung Bedingungseintritt durch Parteivereinbarung.
+- § 160 BGB: Schadensersatz wegen Verletzung des Schwebezeitanwartschaftsrechts.
+- § 161 BGB: Unwirksamkeit verfügungsverhindernder Zwischenverfügungen.
+- § 162 BGB: Fiktion des Bedingungseintritts/-ausfalls bei treuwidriger Verhinderung/Herbeiführung.
+- § 163 BGB: Anwendung der Bedingungsregeln auf Anfangs- bzw. Endtermine (Befristung).
+- Bedingungsfeindliche Rechtsgeschäfte: Eheschließung, Erbschaftsannahme/-ausschlagung, Anfechtung — bei diesen ist Bedingung unwirksam.
+- Potestativbedingung (vom Willen einer Partei abhängig) grundsätzlich wirksam, aber bei reiner Willensabhängigkeit problematisch (§ 138 BGB).
+
+## Praxis-Tipp
+- Anwartschaftsrecht bei aufschiebend bedingtem Eigentumsvorbehalt (Klassiker § 449 BGB): selbständig übertragbar, verpfändbar, pfändbar (BGH ständige Rspr.).
+- Verfügungsbeschränkung § 161 BGB: nur relativ, nicht absolut; Gutgläubiger Erwerb möglich nach allgemeinen Regeln.
 
 ## Intake
 

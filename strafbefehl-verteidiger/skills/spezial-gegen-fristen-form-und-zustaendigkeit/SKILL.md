@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausg
 
 Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **Gegen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Strafbefehl: Erlass durch Strafrichter (§ 25 GVG) auf Antrag der StA nach §§ 407 ff. StPO. Zulässig nur Geldstrafe, Freiheitsstrafe bis 1 Jahr nur mit Bewährung und nur bei Verteidigerbeiordnung (§ 407 Abs. 2 StPO).
+- Einspruch: § 410 StPO – zwei Wochen ab Zustellung; schriftlich oder zu Protokoll der Geschäftsstelle beim Gericht, das Strafbefehl erlassen hat.
+- Form: § 32a StPO (elektronisch via beA für Verteidiger zwingend), § 32d StPO Übergangsfristen beachten.
+- Zustellung: §§ 36 ff. StPO i.V.m. §§ 166 ff. ZPO; Ersatzzustellung möglich. Bei nicht ordnungsgemäßer Zustellung läuft Einspruchsfrist nicht.
+- Wiedereinsetzung: § 44 StPO – Frist eine Woche ab Wegfall des Hindernisses, mit Begründung und Glaubhaftmachung (§ 45 StPO).
+- Praxis-Tipp: Einspruchsfrist sofort prozessual sichern – falls Zustellungsmängel unklar, blanker Einspruch + hilfsweise Wiedereinsetzung in einem Schriftsatz; Begründung kann nachgereicht werden, da § 410 Abs. 1 StPO keine Begründungspflicht kennt.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

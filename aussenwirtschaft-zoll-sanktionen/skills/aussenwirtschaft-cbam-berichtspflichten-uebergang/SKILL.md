@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer CBAM-Uebergangsberichte, CN-Codes, direkte u
 
 Dieser Skill behandelt **CBAM-Uebergangsberichte, CN-Codes, direkte und indirekte Emissionen und Lieferantendaten** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (CBAM)
+- Rechtsgrundlagen: VO (EU) 2023/956 (CBAM-Grundverordnung), Durchführungsverordnung (EU) 2023/1773 (Übergangsphase 1.10.2023-31.12.2025), Anhang I CBAM-VO (erfasste Waren: Zement, Eisen/Stahl, Aluminium, Düngemittel, Strom, Wasserstoff; Erweiterungsdebatte für Kunststoff, Chemikalien).
+- Übergangsphase: nur Berichtspflichten, keine Zertifikatspflicht. CBAM-Quartalsbericht im CBAM-Übergangsregister bis Ende Folgemonat des Quartals (z. B. Q1 bis 30.4.). Verstoß: Bußgeld nach Art. 16 DurchführungsVO 2023/1773 (10-50 Euro/t nicht gemeldete CO2äq).
+- Inhalt: eingebettete direkte und indirekte Emissionen (Anh. III/IV), Methoden EU/equivalent-method/default values (Default Values nur bis 31.7.2024 zulässig, danach gemessene/berechnete Werte oder begrenzte Ausnahmen).
+- Endgültige Phase ab 1.1.2026: CBAM-Anmelderstatus (autorisierter CBAM-Anmelder, Art. 5), Zertifikatskauf entsprechend EU-ETS-Preis, jährlicher Bericht bis 31.5. Folgejahr (Art. 6).
+- Praktiker-Tipp: Lieferantendaten frühzeitig vertraglich sichern (Klausel zur Emissionsdatenübermittlung), Auditfähigkeit nach Anh. IV DurchführungsVO. Verifizierer (akkreditiert nach VO (EG) 765/2008) ab 2026 zwingend. Default Values erkenntlich nutzen, aber dokumentieren, warum keine genauen Daten verfügbar — Bußgeld droht bei systematischer Nutzung trotz Verfügbarkeit.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

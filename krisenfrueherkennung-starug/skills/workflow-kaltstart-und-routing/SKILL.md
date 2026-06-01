@@ -33,3 +33,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing-Weichen Krisenfrüherkennung
+- **Rechtspflicht:** § 1 StaRUG verpflichtet die Geschäftsleiter von haftungsbeschränkten Unternehmen (GmbH, AG, UG, SE, ggf. GmbH & Co. KG bei Haftungsbeschränkung), Entwicklungen, die den Fortbestand der juristischen Person gefährden könnten, fortlaufend zu überwachen und geeignete Gegenmaßnahmen zu ergreifen.
+- **Beobachtungszeitraum:** Es gilt ein **rollierender 24-Monats-Horizont** (parallel zu § 18 InsO drohende Zahlungsunfähigkeit) — sobald in diesem Horizont eine Liquiditätslücke droht, ist die Pflicht ausgelöst.
+- **Mandantenrolle?**
+  - Geschäftsleitung selbst (haftungsrelevant): persönliche Pflicht nach § 1 StaRUG, kein Delegationsausschluss.
+  - Berater (RA, StB, Sanierungsberater): Plausibilisieren des Frühwarnsystems.
+  - Aufsichtsrat/Beirat: Überwachungspflicht (§ 111 AktG, § 52 GmbHG bei Beirat mit Aufsichtsfunktion).
+- **Welcher Skill als Nächstes?**
+  - Liquiditätsplanung (13-Wochen oder 24-Monate) → liquiditaetsplanung-Plugin.
+  - Fortbestehensprognose → fortbestehensprognose-Plugin.
+  - StaRUG-Plan oder Insolvenzplan → insolvenzplan-starug-planwerkstatt-Plugin.
+
+## Eilige Trigger
+- Hinweise auf drohende ZU → § 18 InsO greift, StaRUG-Anzeige § 31 StaRUG möglich.
+- Eingetretene ZU/Überschuldung → § 15a InsO Antragspflicht, § 1 StaRUG tritt zurück.
+- § 15b InsO Zahlungsverbot ist ab dem Zeitpunkt der materiellen Insolvenz zu beachten — Geschäftsführer haftet persönlich.

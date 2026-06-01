@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Builder-Hub — Skill-Quellenstandard
+- **Frontmatter-Validation:** Vor jedem Commit `validate-yaml-frontmatter.py` und `validate-plugin-structure.mjs` laufen lassen. Nur `name` (≤ 64 ASCII) und `description` (≤ 1024 Zeichen, keine Zahlen-Kommas) im YAML.
+- **CLAUDE.md verbindlich:** Quellenpflicht aus `references/zitierweise.md`; Methodik aus `references/methodik-buergerliches-recht.md`.
+- **Skill-Innenstruktur** (CLAUDE.md): (1) Zweck und Anwendungsfall, (2) Eingaben, (3) Ablauf/Checkliste, (4) Quellenpflicht, (5) Ausgabeformat, (6) Beispiele.
+- **Hallunzinationssperre:** keine erfundenen Aktenzeichen; "BGH ständige Rspr." statt erfundene Az.; Kommentar-/Aufsatz-Fundstellen nur mit Live-Beleg.
+- **Spracheinstellung:** Alle Skills auf Deutsch (englische Fachbegriffe nur, wenn etabliert und erklärt: LoI, Term Sheet, Due Diligence).
+- **Audit-Tauglichkeit:** Jeder Skill muss reproduzierbar sein — bei Re-Run mit gleichen Eingaben gleiches Ergebnis (innerhalb der Modell-Streuung); deshalb klare Checklisten, keine "kreative Improvisation".
+- Falle: Skill-Description mit "1,5 Jahren" → Validator schlägt fehl (Zahlen-Komma); schreibe "1.5 Jahren" oder "eineinhalb Jahren".

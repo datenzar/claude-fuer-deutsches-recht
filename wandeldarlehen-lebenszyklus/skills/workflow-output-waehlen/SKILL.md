@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Wandeldarlehen — Output-Wahl
+- **Term Sheet:** kurz, indikativ, nicht-bindend (außer Exclusivität, Vertraulichkeit). Bietet Rahmen für späteren CLA.
+- **CLA-Entwurf (Convertible Loan Agreement):** Hauptdokument; Wandlungsmechanik, Maturity, Trigger, Discount, Cap, Verzinsung, Sicherheiten, Garantien.
+- **SAFE-Adaption für DE:** Y-Combinator-SAFE in deutscher Rechtsumgebung umformulieren — typischerweise als Darlehen mit Wandlungsrecht (§§ 488 ff. BGB + § 55 GmbHG / § 182 AktG).
+- **Convertible Note Pitch Deck:** Vorstellung gegenüber Investoren; Wandlungsmechanik visualisieren (Pre-Money-Cap, Discount, Pro Rata).
+- **Closing-Checkliste:** Notarvertrag, Gesellschafterbeschluss, Bankbestätigung, Investorenrechte (Information, Mitsprache).
+- **Memo zur steuerlichen Behandlung:** KapSt § 20 EStG, § 17 EStG bei Anteilsveräußerung, Werthaltigkeitsfragen bei Sachkapitalerhöhung.
+- **Cap Table Spreadsheet:** mit Wandlungsszenarien (Discount, Cap, Maturity); Verwässerung simulieren.
+- Falle: Term Sheet ohne klare Wandlungsmechanik — führt zu Streit; Cap und Discount in jedem Term Sheet konkret nennen (Beispiel: Cap 8 Mio. EUR Pre-Money, Discount 20 %).

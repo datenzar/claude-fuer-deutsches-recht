@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Beratungsstellen-Kaltstart
+- **Beratungshilfe (BerHG):** Voraussetzungen § 1 BerHG (PKH-bedürftig, kein Beistand zumutbar, andere Hilfe nicht erreichbar); Antrag beim AG (§ 4 BerHG); Berechtigungsschein.
+- **Prozesskostenhilfe §§ 114 ff. ZPO:** Erfolgsaussicht und finanzielle Bedürftigkeit; PKH-Formular vollständig (Unterlagen Nachweis Einkommen/Vermögen/Belastungen).
+- **Rechtsberatung außerhalb der Anwaltschaft:** RDG (Rechtsdienstleistungsgesetz) — gemeinnützige Beratung nach § 6 RDG (z. B. Verbraucherzentrale, DGB, Caritas), Behörden nach § 7 RDG, Mietervereine § 7 Abs. 2 RDG, Studienberatung an Universitäten.
+- **Zuständigkeit Beratungsstellen:** Verbraucherzentrale (Vertrag, Versicherung), Mieterverein, Sozialverband (VdK, SoVD), Schuldnerberatung, MBE (Migrationsberatung), JMD (Jugendmigrationsdienst), Frauenhaus/-beratungsstelle.
+- **Eskalation:** Bei Klagefrist oder komplexem Sachverhalt → Verweis an Anwalt (PKH-Antrag mit anwaltlichem Beistand) oder Berufungsstelle.
+- Falle: Beratung außerhalb § 6 RDG (Vergütung, gewerblich) verstößt gegen RDG, kann mit Bußgeld bis 5.000 EUR (§ 20 RDG) geahndet werden.

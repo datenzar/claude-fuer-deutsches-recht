@@ -37,3 +37,40 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## elan-Portal: praktischer Ablauf (live auf elan.dfg.de verifizieren)
+
+1. **Registrierung**: einmalig mit Personenkennung; akademische E-Mail-Adresse, ORCID-ID empfohlen.
+2. **Antragsfreischaltung**: pro Programm (Sachbeihilfe / Emmy Noether / Heisenberg / etc.) separate Freischaltung via Antragsformular.
+3. **Stammdaten**: persönliche Daten, Forschungseinrichtung, Bankverbindung der Einrichtung.
+4. **Antragsformular**: Online-Felder + PDF-Upload des inhaltlichen Antrags (Projektbeschreibung, Anlagen).
+5. **Mitzeichnung**: Forschungseinrichtung muss zustimmen (Drittmittelreferat, ggf. Rechtsabteilung).
+6. **Einreichung**: nach Submit kein Editieren mehr möglich.
+
+## Wichtige Felder / Formalia
+
+| Feld | Anforderung |
+|---|---|
+| Projektbeschreibung | Sachbeihilfe regelmäßig max. 20 Seiten Times New Roman 11/12 pt, einzeilig - aktuelle Vorgaben aus DFG-Vordruck 54.01 / 1.02 verifizieren |
+| Lebenslauf | max. 3 Seiten, akademischer CV |
+| Publikationsliste | max. 10 wichtigste Publikationen mit DOI |
+| Datenmanagementplan | obligatorisch, Verweis auf Anlage |
+| Ethikvotum / Tierversuchsantrag | falls einschlägig, mit Datum und AZ |
+| Finanzplan | Personalmittel, Sachmittel, Reise, Geräte > 10.000 EUR separat begründen |
+
+## Praktischer Tipp
+
+- **PDF-Vorgaben**: durchsuchbar (keine Bilddateien), eingebettete Schriften, max. typisch 10 MB pro Datei. Vor Upload mit Adobe Acrobat oder vergleichbarem Tool prüfen.
+- **Tag der Einreichung**: nicht am Stichtag 23:59 Uhr - Portal hat regelmäßig Lastspitzen, Mitzeichnung der Einrichtung kann verzögert sein. Faustregel: drei bis fünf Werktage Puffer.
+- **Speicherstand**: nach jedem Bearbeitungsschritt aktiv "Speichern" klicken; Session-Timeouts führen zum Verlust nicht gespeicherter Eingaben.
+
+## Beispiel-Mustertext (interne Mitzeichnungsanfrage Forschungseinrichtung)
+
+> Sehr geehrte Damen und Herren der Drittmittelabteilung,
+> hiermit bitte ich um Mitzeichnung des beigefügten DFG-Antrags ([Programm], Titel, Antragsumfang EUR [...] über [Laufzeit] Monate). Der Antrag ist im elan-Portal unter der Vorgangs-Nr. [...] eingestellt. Die Mitzeichnung der Einrichtung erbitte ich bis spätestens [Datum]. Ethikvotum [liegt vor / wird beantragt], DSGVO-Folgenabschätzung [...]. Bei Fragen stehe ich gerne zur Verfügung.
+
+## Typische Fehler
+
+- Seitenzahl-Überschreitung der Projektbeschreibung führt zur Formalrüge / Aufforderung zur Kürzung.
+- Lebenslauf länger als drei Seiten oder mit Publikationsdoppelung in Anlage.
+- Mitzeichnung der Einrichtung fehlt am Stichtag - Antrag wird ohne Wirkung archiviert.

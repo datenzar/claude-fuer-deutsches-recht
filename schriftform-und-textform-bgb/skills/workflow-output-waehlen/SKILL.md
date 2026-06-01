@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Form-Output-Optionen
+- **Form-Mapping-Tabelle:** Pro Vertragstyp / Erklärung eine Zeile. Spalten: Geschäft, gesetzliche Form, AGB-Schriftformklausel zulässig?, Heilung möglich?, Folgen Formverstoß.
+- **Form-Memo:** kurz, mit Vor- und Nachteilen einzelner Form-Varianten (Schriftform/Textform/elektronisch); Empfehlung mit Begründung.
+- **Signaturkonzept:** für ein Unternehmen, das auf elektronische Signatur umstellt. eIDAS-Signaturstufen (einfache, fortgeschrittene, qualifizierte); Anwendungsfälle.
+- **Compliance-Audit für Verträge:** bestehende Vertragsmuster auf § 309 Nr. 13 BGB (Textform statt Schriftform) prüfen; AGB-Schriftformklauseln gegenüber Verbraucher anpassen.
+- **Formular für Mandanten:** "Welche Form ist für meine Erklärung erforderlich?" — kurze Triage-Tabelle.
+- **Heilung-Checkliste:** wann Formfehler durch Erfüllung heilbar (§ 311b I 2 BGB Auflassung; § 766 S. 2 BGB Bürgschaft durch Erfüllung; § 518 II BGB Schenkung)?
+- **eIDAS-Routing-Brief an IT/Compliance:** welche Geschäfte erfordern qES, welche reichen FES/EES?
+- Falle: AGB-Schriftformklausel auf Vertragsänderungen — bei Verbrauchern grundsätzlich unzulässig (§ 309 Nr. 13 BGB seit 01.10.2016); bei B2B möglich, aber § 305b BGB Vorrang der Individualabrede.

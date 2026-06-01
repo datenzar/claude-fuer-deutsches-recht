@@ -33,3 +33,35 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Output-Typen im Insolvenzrecht
+- **Insolvenzantrag (§ 13 InsO Eigenantrag / § 14 InsO Gläubigerantrag):**
+  - Vordrucke der Justiz-Portale verwenden; bei juristischen Personen verpflichtend mit Forderungsverzeichnis, Vermögensaufstellung, Gläubigerliste.
+  - Bei Eigenantrag mit Eigenverwaltung § 270a InsO: Eigenverwaltungsplanung, IDW S2-Bescheinigung.
+  - Bei Schutzschirm § 270d InsO: Bescheinigung Sachverständiger über drohende ZU oder Überschuldung.
+- **Memo (Gutachtenstil) intern:**
+  - Sachverhalt, Frage(n), Kurzantwort, rechtliche Bewertung, Gesamtergebnis, Risiken, Quellen — siehe CLAUDE.md.
+  - Geeignet für: Insolvenzreife-Prüfung, Geschäftsführerhaftung, Anfechtungspotenzial.
+- **Mandantenbrief:**
+  - Anrede, Bezug, Sachstand, Empfehlung, nächste Schritte mit Frist, Kostenhinweis, Unterschrift.
+  - Heikel: § 15a InsO Antragspflicht — schriftliche Belehrung, dokumentierte Übergabe.
+- **Schriftsatz (Urteilsstil):**
+  - Anfechtungsklage §§ 129 ff. InsO durch Verwalter.
+  - Bestreitenswiderspruch § 178 InsO.
+  - Feststellungsklage § 180 InsO durch Anmelder.
+- **Tabelle / Matrix:**
+  - Forderungstabelle (Anmeldung + Prüfung).
+  - Anfechtungsmatrix (Rechtshandlung, Datum, Anfechtungsgrund §§ 130 ff. InsO, Erfolgsaussicht).
+  - Liquiditätstabelle 13-Wochen.
+- **Checkliste:**
+  - Erstmaßnahmen Verwalter (§ 22 InsO).
+  - Antragsunterlagen-Checkliste.
+  - Berichtstermin-Vorbereitung § 156 InsO.
+- **Beschluss-Entwurf (Verwalter):**
+  - Erfüllungswahl § 103 InsO, Kündigung § 113 InsO, Sondervergütung § 4 InsVV.
+
+## Output-Wahl je Mandanten-Rolle
+- **Geschäftsführer:** Mandantenbrief + Memo zur Haftungsfrage.
+- **Verwalter:** Tabelle, Schriftsatz, Berichtsmemo für Berichtstermin.
+- **Gläubiger:** Forderungsanmeldung, ggf. Bestreitenswiderspruch, ggf. Feststellungsklage.
+- **Investor / Erwerber:** Memo zur übertragenden Sanierung, Due-Diligence-Tabelle.

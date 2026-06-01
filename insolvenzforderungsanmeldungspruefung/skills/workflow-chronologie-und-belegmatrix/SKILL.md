@@ -33,3 +33,36 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Forderungsanmeldungs-Chronologie
+- **Vor Verfahrenseröffnung:**
+  - Forderungsbegründung (Vertrag, Lieferung, Leistung, Urteil) — Stichtag entscheidet für vorinsolvenzliche Anmeldung in StaRUG/Vergleich oder Insolvenzanmeldung.
+  - ggf. Sicherungsabreden (Eigentumsvorbehalt § 449 BGB, Sicherungsabtretung, Pfandrecht) — werden später § 47 InsO Aus-/§§ 49–51 InsO Absonderungsrechte.
+- **Verfahrenseröffnung (§ 27 InsO):**
+  - Insolvenzbekanntmachung mit Anmeldefrist (regelmäßig 4–6 Wochen, im Eröffnungsbeschluss konkret bezeichnet).
+  - Verwalter wird namentlich benannt und ist Anmeldeadressat (§ 174 Abs. 1 InsO).
+- **Anmeldephase:**
+  - Anmeldung § 174 InsO mit Grund, Betrag, ggf. Rang und Beleg.
+  - Bei nachträglicher Anmeldung § 177 InsO: nach Frist möglich, Sondertermin erforderlich.
+- **Prüfungstermin § 176 InsO:**
+  - Verwalter erklärt zu jeder Forderung: anerkannt, bestritten (Grund/Rang) oder nicht angemeldet.
+  - Tabellenführung beim Insolvenzgericht.
+- **Bestreiten und Feststellungsklage § 180 InsO:**
+  - Bestreitende Partei (Verwalter oder anderer Gläubiger) erklärt Bestreiten im Prüfungstermin.
+  - Anmelder erhebt Feststellungsklage § 180 InsO — bei vor Insolvenz bereits Titel: § 179 InsO Umkehr der Klagelast (Bestreitender klagt auf Negation).
+  - Frist § 189 Abs. 2 InsO: Feststellung der Forderung muss erfolgen, sonst keine Verteilung.
+- **Verteilung:**
+  - Abschlagsverteilung § 187 InsO oder Schlussverteilung § 196 InsO an in Tabelle festgestellte Forderungen.
+
+## Belegmatrix-Spalten
+| Datum | Ereignis | Norm | Beleg | Konsequenz |
+|---|---|---|---|---|
+| TT.MM.JJJJ | Forderungsbegründung | Vertrag / Urteil | Rechnung, Lieferschein, Urteil | Status der Forderung |
+| TT.MM.JJJJ | Anmeldung | § 174 InsO | Anmeldeschreiben mit Belegen | Eintragung in Tabelle |
+| TT.MM.JJJJ | Prüfungstermin | § 176 InsO | Tabellenauszug | Anerkennung / Bestreiten |
+| TT.MM.JJJJ | Feststellung / Bestreiten | § 178 InsO | Tabellenfortschreibung | ggf. Feststellungsklage § 180 InsO |
+
+## Widersprüche markieren
+- Doppelte Anmeldung gleicher Forderung (typisch bei Gesamtschuldnerschaft, Bürgschaft, Abtretung).
+- Anmeldung mit unklarem Rang (einfache § 38 InsO vs. nachrangige § 39 InsO).
+- Nicht angezeigte Sicherheit (Verwalter merkt Absonderung nicht).

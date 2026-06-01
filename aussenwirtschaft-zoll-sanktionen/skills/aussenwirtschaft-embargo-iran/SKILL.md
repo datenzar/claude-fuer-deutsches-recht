@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Embargo Iran. Fuehrt durch Intake, Rechtsrah
 
 Dieser Skill behandelt **Embargo Iran** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (IR-Embargo)
+- Kerngrundlagen EU: VO (EU) Nr. 267/2012 (Hauptsanktionsverordnung Iran nuklear), VO (EU) 2023/1529 (Iran-Drohnen/Militär in RU-Konflikt), Rats-VO 359/2011 (Iran-Menschenrechte), JCPOA-bezogene Aussetzungen seit US-Ausstieg 2018 weitgehend gegenstandslos. Stets aktuelle konsolidierte Fassung über EUR-Lex live prüfen.
+- Verbotene Bereiche: Anh. I/II VO 267/2012 (Nukleargüter, Dual-Use mit Proliferationsbezug), Anh. III (Raketentechnologie), Anh. VII (Marineausrüstung), Anh. X (Software/Crypto), Öl-/Petrochemiesektor, bestimmte Finanzdienstleistungen (Art. 30 VO 267/2012 — verbotene Banktransfers ohne Genehmigung über bestimmten Schwellen). HS/KN-Code zuerst klären.
+- US-Sekundärsanktionen (CISADA, NDAA, Iran Threat Reduction Act): besonders strenge Sekundär-Sanktionierung — auch für deutsche Unternehmen mit US-Nexus erhebliche Risiken; gleichzeitig EU-Blocking-VO (EG) 2271/96 verbietet Befolgung bestimmter US-Sekundärsanktionen ohne Genehmigung der EU-Kommission.
+- Iran-spezifische Red Flags: Briefkastenfirmen Dubai/Hongkong/Türkei, IRISL-Bezug (Iran Shipping Lines), MODAFL (Verteidigungsministerium), IRGC (Revolutionsgarde, gelistet — auch in EU teilweise), undurchsichtige Hawala-Zahlungsstrukturen, USD-Zahlungen über Drittland-Banken.
+- Praktiker-Tipp: Vor Iran-Kontakt strikte Three-Lines-of-Defense: 1. Screening Counterparty + 50 %-Regel, 2. Catch-all-/Endverwendungs-Check (Art. 4 Dual-Use-VO), 3. Bank-/Zahlungskanal-Prüfung (häufiges Hindernis: keine deutsche Bank wird IR-Zahlung clearen). Bei Genehmigungsantrag BAFA ELAN-K2 mit Endverbleibsdokumenten; Spannungsfeld EU-Blocking-VO ./. US Sekundärsanktionen anwaltlich begleiten.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

@@ -9,6 +9,17 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklae
 
 Dieser Skill erklaert **Fristenkalender** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe. Bei fehlerhafter Belehrung 1 Jahr (§ 66 SGG).
+- Klagefrist: § 87 SGG – einen Monat ab Zustellung Widerspruchsbescheid.
+- Berufungsfrist: § 151 SGG – einen Monat ab Zustellung Urteil; Nichtzulassungsbeschwerde § 145 SGG ebenfalls 1 Monat.
+- Revision: § 164 SGG – ein Monat ab Zustellung.
+- Fristberechnung: § 64 SGG – Monatsfrist endet am gleichen Tag des Folgemonats; faellt der auf Samstag/Sonntag/Feiertag → naechster Werktag.
+- Bekanntgabefiktion: § 37 Abs. 2 SGB X – Brief gilt am vierten Tag nach Aufgabe zur Post als zugegangen (PostModG seit 1.1.2025; vorher drei Tage). Gegenbeweis durch Empfaenger moeglich.
+- Wiedereinsetzung: § 67 SGG – binnen einer Woche ab Wegfall des Hindernisses (Krankheit, Postversaeumnis, etc.) mit Glaubhaftmachung.
+- Praxis-Tipp: Fristen sofort in mindestens drei Kanaelen sichern (Papierkalender + Smartphone-Alarm + Erinnerung 3 Tage vor Fristablauf). Briefumschlag mit Eingangsstempel sammeln. Bei Eilantraegen sofort und nicht erst gegen Fristende einreichen. Frist immer "worst case" rechnen (Tag des Bescheid + 4 Tage Bekanntgabefiktion + Monat = Frist).
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

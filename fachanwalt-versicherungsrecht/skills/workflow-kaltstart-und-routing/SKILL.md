@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Versicherungsrecht
+- Lebensversicherung → §§ 150 ff. VVG; Widerruf § 8 VVG (30 Tage), Rückkaufswert § 169 VVG.
+- Berufsunfähigkeit → §§ 172 ff. VVG; konkret-individuelle Verweisung im Tarif prüfen.
+- Privatkrankenversicherung → §§ 192 ff. VVG; Anwartschaftsversicherung, Tarifwechsel § 204 VVG.
+- Kfz-Pflichtversicherung → §§ 113 ff. VVG, PflVG; Direktanspruch § 115 VVG gegen VR.
+- Sachversicherung (Hausrat, Gebäude, Elementar) → §§ 88 ff. VVG; Unterversicherung § 75 VVG.
+- D&O → § 93 AktG, § 43 GmbHG; Selbstbehalt § 93 Abs. 2 S. 3 AktG (Pflichtselbstbehalt VorstAG).
+- Rechtsschutz → §§ 125 ff. VVG; Wartezeiten, Bagatellgrenze, Vorausdeckung.
+
+## Praxis-Hinweis
+- Versicherer-Widersprüche meist mit "Quotelung wegen grober Fahrlässigkeit" (§ 81 VVG) oder "Obliegenheitsverletzung" (§ 28 VVG). Beweislast VR; Belehrung über Folgen muss bei Vertragsschluss in Textform erfolgt sein.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Zeugnis-spezifische Belegmatrix
+
+| Datum | Ereignis | Belegquelle | Relevanz für Note |
+| --- | --- | --- | --- |
+| Eintritt | Arbeitsvertrag, ggf. Stellenbeschreibung | Vertrag, E-Mail-Bestätigung | Aufgabenumfang Note 1/2 |
+| Beurteilungsbeiträge | Mitarbeitergespräche, Zielvereinbarungen, Boni | HR-System, E-Mail | Substantiierung für Klage auf Note 2 |
+| Vorzeugnisse, Zwischenzeugnisse | aufeinanderfolgende Beurteilungen | Zeugnisakte | Bindungswirkung des Zwischenzeugnisses (BAG ständige Rechtsprechung: in der Regel Bindung, Verschlechterung bedarf besonderer Begründung) |
+| Auszeichnungen, Beförderungen | interne Anerkennung | HR-Akte | Gegenargument gegen "bemüht" |
+| Abmahnungen, Konflikte | Personalakte | HR | Risiko für Arbeitgeber-Verteidigung |
+| Schlussformel | Vorbild aus eigener HR-Praxis | Vergleichszeugnisse | Bedauern, Dank, Zukunftswünsche prüfen |
+
+Reihenfolge bei Personennennung beachten: zuerst Vorgesetzte, dann Mitarbeiter, dann Kollegen, dann Kunden. Umkehrung ist ein Geheimcode-Signal.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

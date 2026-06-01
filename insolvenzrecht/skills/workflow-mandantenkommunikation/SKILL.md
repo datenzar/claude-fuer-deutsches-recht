@@ -33,3 +33,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Mandantenbrief-Bausteine Insolvenzrecht
+- **Adressat:** Geschäftsführer / Vorstand persönlich (Hinweis auf persönliche Haftung), in CC keine Vertraulichkeitsbedenken (§ 43a Abs. 2 BRAO, § 203 StGB).
+- **Eröffnung:** "In dem Mandat … / In Sachen Insolvenzantrag/Sanierung … senden wir Ihnen folgende Einschätzung."
+- **Inhalt nach Triage-Ergebnis:**
+  - Status: liegt eine materielle Insolvenz vor (§§ 17, 18, 19 InsO)?
+  - Frist: Antragspflicht § 15a InsO — 3 Wochen ab Zahlungsunfähigkeit, 6 Wochen ab Überschuldung; bei Aussichtslosigkeit der Sanierung kürzer.
+  - Haftung: persönliche Haftung Geschäftsführer für verspäteten Antrag (§ 15a Abs. 4 InsO Strafbarkeit; § 15b InsO Zahlungsverbot und Erstattungspflicht für nach Insolvenzreife erfolgte Zahlungen, ehemals § 64 GmbHG).
+  - Alternativen: Eigenverwaltung § 270 InsO, Schutzschirm § 270d InsO, StaRUG (nur drohende ZU § 18 InsO).
+- **Empfehlung:** klare Handlungsoption — antragstellen, Sanierungskonzept, Beraterhinzuziehung.
+- **Nächste Schritte mit konkreter Frist:** Tag der nächsten Besprechung, Liste der benötigten Unterlagen.
+- **Kostenhinweis:** Hinweis auf RVG / Honorarvereinbarung; bei Insolvenz Gerichtsverfahren-Wertgebühr nach RVG, vorinsolvenzliche Beratung nach Honorarvereinbarung.
+
+## Heikle Themen
+- **Verschwiegenheit § 43a BRAO:** Mandantengeheimnis auch nach Insolvenzeröffnung; Verwalter wird nicht automatisch Mandant.
+- **Aufklärungspflicht:** Geschäftsführer ist über § 15a, § 15b InsO und § 266a StGB (Sozialversicherungsbeiträge) ausdrücklich aufzuklären — Beweissicherung der Aufklärung (E-Mail, Protokoll).
+- **Eilkommunikation:** Bei akuter Antragspflicht keine Beratung nur per E-Mail; telefonische Aufklärung dokumentieren.

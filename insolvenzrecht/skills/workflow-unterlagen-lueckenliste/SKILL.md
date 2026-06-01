@@ -33,3 +33,31 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Insolvenzrechtliche Lückenliste je Konstellation
+- **Antragsfrage Geschäftsführer (§ 15a InsO):**
+  - Liquiditätsstatus zum Stichtag, 13-Wochen-Liquiditätsplan, Liste fälliger Verbindlichkeiten, Bankkontostände.
+  - Bilanz nach Liquidationswerten (für § 19 InsO Überschuldung Stufe 1).
+  - Fortbestehensprognose 12 Monate IDW EPS 11 (für § 19 InsO Stufe 2).
+  - Maßnahmen Rangrücktritte / Patronatserklärungen / Forderungsverzichte.
+- **Insolvenzantrag (§ 13 InsO):**
+  - Vermögensaufzeichnung (Aktiva, Passiva).
+  - Gläubigerverzeichnis mit Adressen, Beträgen, Fälligkeiten, Sicherheiten, Rangstufen.
+  - Forderungsverzeichnis (Debitoren).
+  - Mitarbeiterliste, Personalkosten letzten 6 Monate.
+  - Verbindlichkeiten Finanzamt, Sozialversicherung.
+- **Eigenverwaltung § 270a InsO:**
+  - Eigenverwaltungsplanung (§ 270a Abs. 1 InsO): Liquiditätsplanung 6 Monate, Sanierungskonzept-Eckpunkte, Verhandlungen mit wichtigsten Gläubigern.
+  - Bescheinigung Sachverständiger (in der Praxis IDW S2).
+- **Schutzschirm § 270d InsO:**
+  - Bescheinigung qualifizierter Sachverständiger über drohende ZU oder Überschuldung **und** Sanierungsaussicht.
+- **Anfechtung durch Verwalter:**
+  - Kontoauszüge des Schuldners der letzten 3–4 Jahre (je nach § 130, § 133 InsO Anfechtungsfrist).
+  - Geschäftspartner-Mahnungen, Stundungsabreden (Indizien für Kenntnis der Krise).
+  - Bilanzen, BWA, Liquiditätspläne (für ex-ante-Sicht der Geschäftsführer).
+- **Forderungsanmeldung Gläubiger:**
+  - Vertrag, Rechnung, Lieferschein, Mahnung, ggf. Titel; Sicherungsabrede (für Aus-/Absonderung).
+
+## Prioritäten setzen
+- Bei akuter Antragspflicht zuerst Liquiditätsstatus klären — alles andere nachrangig.
+- Lieber Vorabentwurf des Insolvenzantrags mit „[noch zu klären]"-Markern als verzögerte Vollständigkeit.

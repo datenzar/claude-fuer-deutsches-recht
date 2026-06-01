@@ -20,6 +20,13 @@ description: "Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trus
 - § 19 GwG — Transparenzregister: fiktiver wirtschaftlich Berechtigter bei fehlender Identifizierbarkeit
 - Art. 3 AMLD5 — UBO-Definitionen im EU-Recht (Erweiterungen auf Trusts und Stiftungen)
 
+## Normfokus und Praxis (UBO-Ermittlung)
+- 25 %-Schwelle (§ 3 Abs. 2 GwG): direkt oder mittelbar Kapital-/Stimmrechtsmehrheit oder vergleichbare Kontrolle (z. B. Aufsichtsratsbestimmungsrecht, Gewinnverteilung). Bei mehrstufigen Beteiligungen Multiplikationsprinzip (z. B. 60 %  x  50 % = 30 % indirekt — UBO).
+- Fiktiver UBO (§ 3 Abs. 2 Satz 5 GwG): wenn kein natürlicher UBO ermittelbar oder keine 25 % erreicht, gilt der gesetzliche Vertreter (Geschäftsführer, Vorstand) als fiktiver UBO; dies entbindet aber nicht von der Pflicht, alle Versuche zur Ermittlung zu dokumentieren.
+- Trusts/Stiftungen (§ 3 Abs. 3 GwG): jeder Treugeber, Treuhänder, Protector, Begünstigter und Person mit Bestimmungsbefugnis. Bei diskretionären Trusts: gesamte Begünstigtenklasse.
+- EuGH 22.11.2022 (C-37/20, C-601/20, WM): öffentlicher Zugang zum Transparenzregister durch jedermann nicht zulässig — seitdem berechtigtes Interesse erforderlich (§ 23 GwG); kommerzielle Datenanbieter dürfen Daten nur eingeschränkt nutzen.
+- Praktiker-Tipp: UBO-Diagramm erstellen mit Eigentumsanteilen, Kontrollrechten, ggf. Aktionärsvereinbarungen; Quellen dokumentieren (Handelsregister, Transparenzregister, KYC-Fragebogen, Gesellschaftsvertrag, Aktionärsregister); bei Diskrepanz Transparenzregister vs. KYC: Mitteilungsmeldung an Bundesanzeiger (§ 23a GwG, Discrepancy Reporting) zwingend.
+
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

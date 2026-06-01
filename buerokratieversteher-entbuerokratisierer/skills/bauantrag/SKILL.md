@@ -8,6 +8,13 @@ description: "Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen
 ## Aufgabe
 Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen.
 
+## Normfokus und Praxis
+- Baurecht ist Landesrecht: Die 16 Landesbauordnungen unterscheiden sich (z. B. genehmigungsfreie Vorhaben, Abstandsflächen, Brandschutz). Immer LBO des konkreten Bundeslandes prüfen, daneben Bauplanungsrecht (§§ 29 ff. BauGB, BauNVO, ggf. Bebauungsplan oder § 34/§ 35 BauGB).
+- Standard-Unterlagen: Lageplan, Bauzeichnungen, Baubeschreibung, Statik, Berechnung der Bruttogeschossfläche, Nachweis Stellplätze, Entwässerungsplan, ggf. Brandschutzkonzept; alles bauvorlageberechtigt unterzeichnet (LBO).
+- Nachbarbeteiligung: Bauherr kann Nachbarunterschriften einholen (Verkürzung Klagefrist), sonst öffentliche Bekanntmachung; Widerspruchsfrist für nicht zugestimmte Nachbarn beachten.
+- Bauvorbescheid (z. B. § 75 MBO): Schriftliche, verbindliche Vorabentscheidung zu Einzelfragen, drei Jahre bindend; günstig bei strittigem Maß der Nutzung.
+- Praktiker-Tipp: Vor Antrag formloses Bauamtsgespräch und ggf. Vorbescheid; Genehmigungsfiktion (§ 42a VwVfG, ggf. landesrechtlich) nur bei vollständigen Unterlagen — Eingangsbestätigung mit Datum sichern.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

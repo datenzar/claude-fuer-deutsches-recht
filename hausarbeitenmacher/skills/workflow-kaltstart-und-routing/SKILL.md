@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Hausarbeit
+- Zivilrecht-Klausur → Anspruchsgrundlagen-Reihenfolge: Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung.
+- Strafrecht-Klausur → Tatbestand, Rechtswidrigkeit, Schuld; Vorprüfung Sachverhalt sorgsam zu Konkurrenz und Beteiligung.
+- Öffentliches Recht → Zulässigkeit (statthafte Klageart, Klagebefugnis, Klagegrund), Begründetheit (Rechtmäßigkeit Verwaltungsakt).
+- Schwerpunkt-Hausarbeit → tiefere Auseinandersetzung mit Streitstand, mind. drei Auffassungen erörtern.
+- Bachelorarbeit/Masterarbeit → Forschungsfrage, Methodik, eigene These, Diskussion.
+- Themenfeld unklar → Schlüsselbegriffe extrahieren, einschlägige Lehrbuch-Kapitel identifizieren, Norm-Kommentar konsultieren.
+
+## Praxis-Hinweis
+- Eigenständigkeitserklärung formaler Pflichtbestandteil. KI-Erklärung in vielen Fakultäten zwingend ergänzend (Hochschulordnung prüfen).
+- Plagiat-Risiko: Wörtliche Übernahme nur mit Anführungszeichen und Quelle; Paraphrase mit Quelle; Generative KI ohne Quelle gilt teilweise als Plagiat.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

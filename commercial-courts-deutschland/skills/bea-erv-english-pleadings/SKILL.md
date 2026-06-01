@@ -21,6 +21,30 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### beA/ERV-Einreichung englischer Schriftsätze — Praxis-Checkliste
+
+| Punkt | Anforderung | Norm |
+| --- | --- | --- |
+| Pflicht zur elektronischen Einreichung | seit 01.01.2022 für Rechtsanwälte zwingend (beA-Pflicht) | § 130d ZPO |
+| Format der Datei | PDF (idealerweise PDF/A); ZIP für Anlagensammlungen | Verordnungsrecht ERVV |
+| Dateigröße | je Nachricht max. 100 MB; bei größeren Schriftsätzen splitten | RAVPV / ERVV |
+| Anzahl Anlagen | technische Grenzen beachten; bei vielen Anlagen Index erstellen | Bundle-Index-Skill |
+| Qualifizierte elektronische Signatur | Anwalt signiert mit qeS oder per "sicheren Übermittlungsweg" beA-zu-EGVP | § 130a Abs. 3 ZPO |
+| Empfangsbestätigung | automatisches Empfangsbekenntnis; Prüfprotokoll prüfen | Beweis der Einreichung |
+| Fristwahrung | Eingang bis 24:00 Uhr beim Gericht; vorsorglich Pufferzeit | BGH ständige Rechtsprechung zu Fristbestimmung beA |
+| Englische Schriftsätze | technisch behandelt wie deutsche; aber Sprache muss von Spruchkörper akzeptiert sein (§ 184a GVG-Beschluss) | bei rein deutschsprachigen Gerichten zurückweisen-Risiko |
+| Anlagenübersetzungen | englische Anlagen technisch zulässig; bei Bedarf beglaubigte Übersetzung gesondert einreichen | JVEG |
+| Strukturdaten (XML) | für Mahnverfahren standardisiert; für normale Schriftsätze keine Pflicht | RAVPV |
+| beA-Karte und PIN | regelmäßiges Software-Update, Hardware-Token-Validität prüfen | BRAK technische Hinweise |
+| Rückläufer / Fehlermeldungen | "Eingangsdokument nicht lesbar" als Risiko bei großen oder verschlüsselten PDFs | vorab Test-Einreichung |
+
+### Trade-off und Praxistipp
+
+- **PDF/A-Konformität:** zwingend für viele Gerichte; reguläres Microsoft-Word-PDF kann zurückgewiesen werden. Lieber Adobe-Acrobat-Export "Save as PDF/A".
+- **Anlagen-Bündel:** alle Anlagen in einer ZIP versus einzelne PDF-Dateien — Praxis je Gericht unterschiedlich. Vorher beim Spruchkörper rückfragen.
+- **Englische OCR:** englische Anlagen sollten OCR-durchsuchbar sein, damit Richter zitieren können.
+- **Notfall-Plan bei beA-Ausfall:** § 130d Satz 2 ZPO ermöglicht ersatzweise Einreichung in Papier mit Glaubhaftmachung der Nichtnutzbarkeit; nur in echten Notfällen.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

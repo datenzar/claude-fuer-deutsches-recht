@@ -22,6 +22,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen Gewerblicher Rechtsschutz
+- Marke: Widerspruchsfrist drei Monate ab Veröffentlichung der Eintragung (§ 42 MarkenG); Verfalls-/Löschungsantrag jederzeit.
+- Patent: Einspruchsfrist neun Monate ab Erteilung (§ 59 PatG); Nichtigkeitsklage danach.
+- Gebrauchsmuster: Löschungsantrag jederzeit (§ 15 GebrMG); kein Vor-Prüfungsverfahren.
+- Design: Anfechtbarkeitsklage drei Jahre ab Eintragung (§§ 33 ff. DesignG).
+- Unionsmarke (EUIPO): Widerspruch drei Monate; Anmeldung nach EUTMR (VO 2017/1001).
+- UPC/Einheitspatent: Klagefristen nach UPC-Regelwerk; opt-out-Frist beachten.
+- Verjährung UWG: sechs Monate kenntnisabhängig (§ 11 UWG) — sehr kurz, dringend!
+- Verjährung MarkenG/PatG: drei Jahre (§ 20 MarkenG, § 141 PatG iVm §§ 195, 199 BGB).
+
+## Trade-off
+- Schutzschrift (vorsorgliche Verteidigung gegen EV) vs. abwartendes Verhalten: Schutzschrift bindet Ressourcen, verhindert aber überraschende EV ohne mündliche Verhandlung.
+- Abmahnung mit URVE vs. unmittelbarer EV-Antrag: bei Wettbewerbsrecht (UWG) Abmahnerfordernis nach § 13 UWG; ohne Abmahnung Kostenrisiko § 13 Abs. 3 UWG.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

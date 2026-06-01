@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Transport/Spedition
+- Frachtvertrag national Straße → HGB §§ 407 ff.; CMR ergänzend bei grenzüberschreitend.
+- Frachtvertrag international Straße → CMR (Übereinkommen 1956, geltend für DE).
+- Spedition → HGB §§ 453 ff.; ADSp 2017/2023 als AGB.
+- Lager → HGB §§ 467 ff.; Lagerhaltervertrag.
+- See → HGB §§ 481 ff., Haager-Visby-/Hamburg-Regeln je nach Vertragspartner.
+- Eisenbahn → CIM Anhang B COTIF.
+- Luft → Montrealer Übereinkommen (international); LuftVG, LuftVO national.
+- Gefahrgut → ADR (Straße), RID (Schiene), IMDG (See), ICAO-TI (Luft).
+
+## Praxis-Hinweis
+- Bei qualifiziertem Verschulden (§ 435 HGB, Art. 29 CMR) entfällt Haftungsbegrenzung. Beweislast Anspruchsteller: BGH ständige Rspr. zur leichtfertigen Verletzung in Kenntnis des wahrscheinlichen Schadens.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

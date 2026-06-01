@@ -33,3 +33,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Kartellrechtlicher Kaltstart
+- **Anwendungsmodus klären:** Kartellverbot § 1 GWB / Art. 101 AEUV, Missbrauchsverbot § 19 GWB / Art. 102 AEUV, Fusionskontrolle §§ 35 ff. GWB / FKVO, DMA Art. 5-7.
+- **Marktabgrenzung:** sachlich (Bedarfsmarktkonzept, SSNIP/Hypothetical Monopolist Test), räumlich, zeitlich; bei mehrseitigen Märkten Plattform-Analyse separat.
+- **Marktbeherrschung § 18 GWB / Art. 102 AEUV:** Marktanteilsschwelle § 18 Abs. 4 GWB (40 %), Vermutung bei mehreren Unternehmen § 18 Abs. 6 GWB. Bei Plattformen § 18 Abs. 3a GWB (Indikatoren digitaler Märkte).
+- **Behörde / Frist:** BKartA bei Inlandsfusion (§ 39 GWB Anmeldepflicht binnen Wochen vor Vollzug); EU-Kommission ab Schwellen FKVO; bei DMA Gatekeeper-Bescheid. Sofortvollzug erst nach Freigabe (§ 41 GWB, "no gun jumping").
+- Falle: Quotenrechnung ohne präzise Marktabgrenzung — der Schwellenwert ist nur so robust wie die Definition.

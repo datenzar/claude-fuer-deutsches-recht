@@ -8,6 +8,13 @@ description: "Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existen
 ## Aufgabe
 Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung.
 
+## Normfokus und Praxis
+- Verwaltungsgericht: § 80 Abs. 5 VwGO (Antrag auf Anordnung/Wiederherstellung der aufschiebenden Wirkung), § 123 VwGO (einstweilige Anordnung). Sozialgericht: § 86b SGG (Anordnung/Wiederherstellung) — gerichtskostenfrei (§ 183 SGG).
+- Anordnungsanspruch und Anordnungsgrund müssen glaubhaft gemacht werden (§ 920 Abs. 2 ZPO iVm § 123 Abs. 3 VwGO) — eidesstattliche Versicherung, Atteste, Lohnabrechnungen, Mietvertrag, Kontoauszüge konkret beifügen.
+- Typische Notlagen: drohende Stromsperre (§ 19 Abs. 2 StromGVV — Sperrandrohung 4 Wochen), drohende Räumung (§ 940a ZPO), Abschiebung (§ 123 VwGO gegen Ausländerbehörde, § 80 Abs. 5 gegen sofort vollziehbare Abschiebungsanordnung), Kindesentzug (§ 1666 BGB iVm § 49 FamFG).
+- Vorwegnahme der Hauptsache nur ausnahmsweise zulässig, wenn ohne Eilentscheidung schwerer und unzumutbarer Schaden droht (st. Rspr., zuletzt z. B. BVerfG zu Existenzminimum-Eilanträgen).
+- Praktiker-Tipp: Eilantrag immer schriftlich plus parallel per Fax/beA an das zuständige Gericht; Telefonnotiz mit Kammer-Geschäftsstelle für Akteneilbearbeitung. Beratungshilfe (BerHG) und Prozesskostenhilfe (§ 114 ZPO iVm § 166 VwGO) sofort mitbeantragen.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

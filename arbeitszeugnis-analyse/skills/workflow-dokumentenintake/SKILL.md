@@ -28,6 +28,28 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Dokumentenliste für Arbeitszeugnis-Mandat
+
+| Dokument | Warum wichtig | Norm/Praxis |
+| --- | --- | --- |
+| Aktuelles Arbeitszeugnis (Schluss- oder Zwischenzeugnis) | Ausgangsdokument für Analyse | § 109 GewO |
+| Vorzeugnisse, Zwischenzeugnisse | Bindungswirkung bei Verschlechterung | BAG ständige Rechtsprechung: Verschlechterung bedarf besonderer Begründung |
+| Arbeitsvertrag | Aufgabenbereich, Tätigkeitsbeschreibung, Stellenbezeichnung | für Vollständigkeitsprüfung |
+| Stellenbeschreibung / Aufgabenkatalog | belegt Aufgabenumfang im Zeugnis | bei Auslassung Indizwirkung |
+| Beurteilungsbeiträge / Mitarbeitergespräche | Substantiierung für bessere Note | Beweislast Note 2 trägt AN |
+| Bonus-/Zielvereinbarungen mit Zielerreichung | belegt Leistungsbewertung | quantifizierte Erfolge |
+| Auszeichnungen, Belobigungen | widerlegt "bemüht" oder Note 3 | Gegenargument Arbeitgeber |
+| Abmahnungen, Personalakte | mögliches Argument Arbeitgeber für schlechtere Note | strikte Pflicht zur Wahrheit § 109 Abs. 2 GewO bleibt |
+| Beendigungsgrund (Kündigung, Aufhebungsvertrag, Befristungsende) | Schlussformel-Argument (Bedauern bei AG-Kündigung problematisch) | Praxis |
+| E-Mail-Korrespondenz Zeugnisbitte/-anforderung | Frist für Verwirkung dokumentieren | Verwirkungsfrist ca. 10 Monate |
+| Tarifvertrag (falls anwendbar) | Ausschlussfristen | TV-spezifisch |
+
+## Was tun bei fehlenden Dokumenten
+
+- Auskunftsanspruch zur Personalakte § 83 BetrVG (mit Betriebsrat) oder § 34 BDSG / Art. 15 DSGVO (Datenschutzbehörde).
+- Bei verweigerter Auskunft: § 254 ZPO Stufenklage.
+- Anspruch auf Zwischenzeugnis bei wichtigem Anlass (Vorgesetztenwechsel, Beförderung, Wechselabsicht) — typisch jährlich.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

@@ -8,6 +8,13 @@ description: "Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, 
 ## Aufgabe
 Erklärt BAföG-Antrag, Leistungsnachweise, Einkommen der Eltern, Vorausleistung, Rückforderung und Widerspruch.
 
+## Normfokus und Praxis
+- Anspruchsgrundlage: §§ 1 ff. BAföG (Auszubildende), § 11 BAföG (Bedarf), § 21 BAföG (Einkommen), § 27 BAföG (Vermögen).
+- Vorausleistung nach § 36 BAföG, wenn Eltern Unterhalt nicht zahlen — wichtig: Anspruch geht auf das Amt über (§ 37 BAföG, Übergangsanspruch).
+- Leistungsnachweis nach § 48 BAföG ab 5. Semester (Formblatt 5); Achtung bei Hochschulwechsel oder Fachrichtungswechsel (§ 7 Abs. 3 BAföG — wichtiger Grund vor Beginn 4. Semester).
+- Rückforderung: Anhörung nach § 24 SGB X, Aufhebung nach §§ 45 ff. SGB X; bei elektronischer Bewilligung auch § 32 SGB I beachten.
+- Praktiker-Tipp: Antrag formlos online stellen reicht zur Fristwahrung (Förderbeginn ab Monat der Antragstellung, § 15 Abs. 1 BAföG) — Eingangsbestätigung sichern; Widerspruchsfrist gegen Bescheid einen Monat (§ 70 VwGO).
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

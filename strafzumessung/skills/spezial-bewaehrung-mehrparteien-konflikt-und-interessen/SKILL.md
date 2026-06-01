@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt
 
 Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Bewaehrung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Strafaussetzung zur Bewährung: § 56 StGB. Stufen: bis 1 Jahr Freiheitsstrafe Soll (§ 56 Abs. 1); 1 bis 2 Jahre nur bei "besonderen Umständen" (§ 56 Abs. 2); ab 2 Jahre Aussetzung ausgeschlossen.
+- Sozialprognose: § 56 Abs. 1 S. 1 StGB – "Erwartung, dass der Verurteilte sich schon die Verurteilung zur Warnung dienen lassen wird und künftig keine Straftaten mehr begehen wird".
+- Bewährungszeit: § 56a StGB – 2 bis 5 Jahre; Auflagen § 56b StGB (Schadenswiedergutmachung, Geldzahlung), Weisungen § 56c StGB (Aufenthalt, Therapie, Berichts­pflichten, Suchtprogramm).
+- Bewährungshelfer: § 56d StGB – obligatorisch bei jüngeren Verurteilten oder Risiko.
+- Widerruf: § 56f StGB – neue Straftat, Verstoß gegen Weisungen/Auflagen, Entzug Bewährungshelfer; vor Widerruf Anhörung § 453 StPO.
+- Praxis-Tipp: Bewährungsprognose früh aufbauen – Stellungnahme zu Lebensführung, Arbeitssituation, Therapie/Schuldenregulierung, sozialem Empfangsraum. Bei § 56 Abs. 2 StGB ("besondere Umstände") substanziieren: Tatumstände + Persönlichkeit + Nachtatverhalten gemeinsam tragen das Ergebnis (BGH ständige Rspr.).
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

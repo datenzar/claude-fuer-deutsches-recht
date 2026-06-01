@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Formvorgaben Anlagen
+- ZPO § 130 Nr. 5: Schriftsätze sollen die Anlagen (Urkundenabschriften) bezeichnen; Anlagenkonvolut nach § 131 ZPO mit den Schriftsätzen einzureichen.
+- ZPO § 253 Abs. 2 Nr. 2: bestimmter Antrag; Anlagen können Antrag nicht ersetzen, aber Substantiierung tragen.
+- ZPO § 142, 144: Anordnung Urkundenvorlegung; Geheimnisschutz nach § 142 Abs. 2 ZPO beachten.
+- Elektronischer Rechtsverkehr: beA-Übermittlung Schriftsatz + Anlage als PDF/A getrennt; Höchstgröße pro Nachricht (aktuell 200 MB bzw. 200 Dokumente, Stand prüfen).
+- DSGVO bei Anlagen: Schwärzung personenbezogener Daten Dritter; Beweisinteresse vs. Verhältnismäßigkeit.
+
+## Trade-off
+- Anlagenvolumen: Vollständigkeit (Substantiierung) vs. Übersichtlichkeit (Gericht-Lesbarkeit). Anlagenverzeichnis mit Stichwort-Bezeichnung wesentlich.
+- Beglaubigte Abschrift (§ 169 ZPO) vs. einfache Abschrift: bei Zustellungen beachten; bei Urteilen amtsgerichtlicher Ausfertigung nötig.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

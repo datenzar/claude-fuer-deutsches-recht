@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## JVEG-Kommunikation an Mandanten und Sachverständige
+- **Kostenrisiko erklären:** Sachverständigenkosten sind Gerichtskosten (§ 1 GKG iVm § 6 JVEG); bei vorgängigem Vorschuss § 17 GKG für Vorschusspflicht des Antragstellers.
+- **Erfolgsfall:** Erstattungsfähigkeit JVEG-Kosten nach § 91 ZPO (notwendige Kosten der zweckentsprechenden Rechtsverteidigung); bei Streitwerttreiber Sachverständiger frühzeitig hinweisen.
+- **Sachverständige als Auftragnehmer:** Auf Honorargruppen-Einordnung achten (M1/M2/M3); bei Streit Beweisbeschluss zitieren.
+- **Frist klar kommunizieren:** § 2 Abs. 1 JVEG drei Monate ab Auftragsbeendigung — Mandant/Sachverständiger informieren, sonst Anspruchsverlust.
+- **Vorschuss-Antrag:** § 12 JVEG erleichtert bei wirtschaftlich schwacher Lage des Sachverständigen; Antrag mit Zeitschätzung und Aufgabenbeschreibung.
+- Falle: Stundensatz aus Privatauftrag wird gegenüber Mandant als JVEG-Honorar dargestellt — Differenz zwischen Privat- und Gerichts-Sachverständigem ist erstattungsrechtlich nicht erstattbar.

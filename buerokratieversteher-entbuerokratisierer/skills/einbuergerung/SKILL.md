@@ -8,6 +8,12 @@ description: "Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, R
 ## Aufgabe
 Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel.
 
+## Normfokus und Praxis
+- Rechtsgrundlagen: § 10 StAG (Anspruchseinbürgerung), § 8 StAG (Ermessenseinbürgerung), § 9 StAG (Ehegatten). Seit Reform 2024 (Inkrafttreten 27.6.2024): Mindestaufenthalt fünf statt acht Jahre, drei Jahre bei besonderer Integration (§ 10 Abs. 3 StAG); Mehrstaatigkeit grundsätzlich zugelassen (Streichung § 12 StAG aF).
+- Voraussetzungen: gesicherter Lebensunterhalt ohne Sozialleistungsbezug (§ 10 Abs. 1 Nr. 3 StAG; Ausnahmen: ALG I, Aufstocker etc.); Sprachkenntnisse B1 (§ 10 Abs. 1 Nr. 6 StAG); Einbürgerungstest (§ 10 Abs. 1 Nr. 7 StAG); keine strafgerichtliche Verurteilung über Bagatellgrenze (§ 12a StAG); Bekenntnis zur freiheitlich-demokratischen Grundordnung (§ 10 Abs. 1 Nr. 1, § 11 StAG).
+- Verzögerung: Untätigkeitsklage nach drei Monaten (§ 75 VwGO). Praxiserfahrung: häufig 12-24 Monate Bearbeitungszeit; Fristmahnung an die Behörde schriftlich, danach Klage.
+- Praktiker-Tipp: Unterlagen vollständig und beglaubigt einreichen (Geburts-/Heiratsurkunde mit Apostille/Legalisation, Sprachzertifikat B1, Einbürgerungstest, Einkommensnachweise). Bei Doppelstaaterhalt klären, ob Herkunftsstaat ohne Antrag entlässt oder Mehrstaatigkeit ohnehin akzeptiert.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

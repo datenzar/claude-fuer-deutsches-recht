@@ -26,6 +26,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Jahresabrechnung
+- **Rechtsgrundlage:** § 28 Abs. 2 WEG (neue Fassung seit WEG-Reform 2020). Die GdWE beschließt nur noch über die Einforderung von Nachschüssen und die Anpassung der Vorschüsse aus der Jahresabrechnung. Die Abrechnung selbst ist Verwaltungsmaßnahme, kein Beschlussgegenstand mehr (BGH ständige Rspr. zur Reform).
+- **Anfechtungsfrist § 45 WEG:** Beschluss über Nachschuss/Anpassung kann nur innerhalb eines Monats ab Beschlussfassung angefochten werden. Versäumung: materielle Bestandskraft, Fehler heilen.
+- **Inhalt der Abrechnung:** Einnahmen-/Ausgaben-Übersicht, Stand der Rücklage, Vermögensbericht (§ 28 Abs. 4 WEG), Heizkostenabrechnung nach HeizKV.
+- **Typische Fehler:** Vermischung Erhaltungsrücklage und laufende Bewirtschaftung, fehlerhafter Verteilungsschlüssel (§ 16 Abs. 2 WEG vs. Beschlussabweichung), keine Plausibilisierung Vorjahr/Vorvorjahr, fehlende Belegseinsicht (§ 18 Abs. 4 WEG).
+- **Beweislast:** Die GdWE muss die Richtigkeit darlegen; Anfechtender muss konkrete Fehler benennen (Schlüssigkeitsprüfung). Bloße Behauptung "intransparent" reicht nicht.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

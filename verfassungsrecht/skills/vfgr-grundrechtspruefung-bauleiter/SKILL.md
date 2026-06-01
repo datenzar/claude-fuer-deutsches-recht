@@ -17,14 +17,22 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Pruefraster — Drei-Schritt der Grundrechtspruefung
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+1. **Schutzbereich** — sachlich und persoenlich. Welches Grundrecht ist einschlaegig (Art. 1-19 GG)? Persoenlicher Schutzbereich (Deutsche/jedermann/juristische Personen Art. 19 III GG)? Sachlicher Schutzbereich nach BVerfG-Definition? Konkurrenzen pruefen (Spezialitaet, Idealkonkurrenz).
+2. **Eingriff** — klassisch (final, unmittelbar, rechtsfoermig, mit Befehl und Zwang) oder modern (jede dem Staat zurechenbare nicht nur unwesentliche Beeintraechtigung). Schutzbereichsverkuerzung oder mittelbar-faktischer Eingriff?
+3. **Verfassungsrechtliche Rechtfertigung**
+   - Schranke: Vorbehalt des Gesetzes, einfacher/qualifizierter Gesetzesvorbehalt, verfassungsimmanente Schranken bei vorbehaltlosen Grundrechten (Art. 4, 5 III GG).
+   - Schranken-Schranke: Verhaeltnismaessigkeit (legitimer Zweck, Geeignetheit, Erforderlichkeit, Angemessenheit), Wesensgehalt Art. 19 II GG, Zitiergebot Art. 19 I 2 GG, Einzelfallverbot Art. 19 I 1 GG, Bestimmtheitsgebot.
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Praxisfallen
+
+- Schutzbereich und Eingriff vermischen (Klassiker). Strenge Trennung im Schriftsatz.
+- Bei Art. 12 I GG: Drei-Stufen-Theorie (Berufsausuebung/subjektive/objektive Zulassungsschranken).
+- Bei Art. 14 I GG: Inhalts- und Schrankenbestimmung vs. Enteignung sauber abgrenzen (BVerfGE 58, 300 — Nassauskiesung).
+- Bei Art. 3 I GG: Pruefungsmassstaeben (Willkuer vs. neue Formel) je nach Differenzierungsmerkmal.
+- Bei Art. 2 I GG: Subsidiaritaet (nur wenn kein spezielleres Grundrecht greift).
+- Drittwirkung: mittelbar ueber Generalklauseln (BVerfGE 7, 198 — Lueth).
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

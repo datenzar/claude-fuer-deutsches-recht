@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Insolvenz/Sanierung
+- Insolvenzgrund prüfen → § 17 InsO Zahlungsunfähigkeit (Liquiditätsplan 3-Wochen-Zeitraum), § 18 drohende Zahlungsunfähigkeit, § 19 Überschuldung (Fortbestehensprognose).
+- Antragspflicht → § 15a InsO; Strafnorm und Haftung § 15b InsO (vormals § 64 GmbHG).
+- Sanierungsoptionen → StaRUG-Restrukturierungsplan (vor Insolvenz), Schutzschirm § 270d InsO, Eigenverwaltung §§ 270 ff. InsO, Insolvenzplan §§ 217 ff. InsO.
+- Gläubigerrolle → Forderungsanmeldung Tabelle, Prüfungstermin, Verteilungsverzeichnis; Vorbehalt § 41 InsO (nicht fällig), § 42 (auflösend bedingt).
+- Anfechtungsrolle → Verwalter prüft §§ 129-147 InsO; vorsätzliche Benachteiligung § 133 InsO zehn Jahre rückwirkend; kongruent vier Jahre.
+- Restschuldbefreiung → seit 2020 drei Jahre ab Eröffnung (§ 287 Abs. 2 InsO); Versagungsantrag § 290 InsO Versagungsgründe.
+
+## Praxis-Hinweis
+- Bei Eigenverwaltung Sachverständigengutachten zwingend (§ 270a InsO); ohne valide Liquiditätsplanung scheitert Antrag.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische VVG-Fristen
+- Anzeigepflichtverletzung Rücktritt VR ein Monat ab Kenntnis (§ 21 Abs. 1 VVG); zehn-Jahres-Höchstfrist nach Vertragsschluss (§ 21 Abs. 3 VVG).
+- Widerruf Versicherungsvertrag 14 Tage / Lebensversicherung 30 Tage ab Belehrung und Versicherungsschein (§ 8 VVG).
+- Obliegenheitsverletzung: Leistungsfreiheit bei Vorsatz, anteilige Kürzung bei grober Fahrlässigkeit (§ 28 Abs. 2 VVG); Beweislast VR.
+- Verjährung Ansprüche aus VV: drei Jahre kenntnisabhängig (§ 195 BGB iVm § 199 BGB); abweichende AVB unwirksam (§ 15 VVG-InfoV).
+- Klagefrist nach Leistungsablehnung: keine eigene gesetzliche Frist (§ 12 Abs. 3 VVG aF abgeschafft) — aber Verwirkung möglich; Klage zeitnah nach Ablehnungsschreiben.
+- Pflichtversicherung Anzeigepflicht binnen Woche, Direktanspruch nach § 115 VVG.
+
+## Trade-off
+- Stufenklage Auskunft + Leistung (§ 254 ZPO) vs. unbezifferter Leistungsklage: Stufenklage kostet erst nach Bezifferung Gerichtsgebühr, kostet aber Zeit.
+- Ombudsmann-Verfahren (Versicherungsombudsmann e. V.) hemmt Verjährung nach § 204 BGB, ist kostenlos für Verbraucher, aber für VR Bagatellgrenze.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

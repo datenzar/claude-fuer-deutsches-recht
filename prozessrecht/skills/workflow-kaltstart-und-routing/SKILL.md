@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Prozessrechtlicher Kaltstart
+- **Zuständigkeit:** sachliche (§§ 23, 71 GVG: bis 5.000 EUR AG, darüber LG), örtliche (§§ 12 ff. ZPO), funktionelle. Bei Verbrauchersachen § 29c ZPO.
+- **Klageart bestimmen:** Leistungsklage (§ 253 ZPO), Feststellungsklage (§ 256 ZPO), Gestaltungsklage. Stufenklage § 254 ZPO. Streitwert nach § 3 ff. ZPO, GKG.
+- **Schlüssige Klagebegründung § 253 II Nr. 2 ZPO:** Anspruch substantiieren mit Anspruchsgrundlage + Tatsachen + Beweismittel; Antrag bestimmt (§ 253 II Nr. 2 ZPO).
+- **Beweismaß:** § 286 ZPO (Vollbeweis, vernünftiger Zweifel ausgeschlossen) vs. § 287 ZPO (Schadensschätzung, freie Überzeugung); Anscheinsbeweis bei typischen Geschehensabläufen.
+- **§ 138 ZPO Wahrheitspflicht:** klare Sätze, keine Schutzbehauptungen; Geständnisfiktion § 138 Abs. 3 ZPO bei Nicht-Bestreiten beachten.
+- **Frist:** Klageeinreichung, Klageerwiderung (§ 277 ZPO), Berufung 1 Monat (§ 517 ZPO), Berufungsbegründung 2 Monate (§ 520 II ZPO).
+- Falle: Klageantrag unbestimmt — führt zur Unzulässigkeit, OLG nimmt zwar Hinweispflicht § 139 ZPO an, aber zur eigenen Sicherheit präzise antragen.

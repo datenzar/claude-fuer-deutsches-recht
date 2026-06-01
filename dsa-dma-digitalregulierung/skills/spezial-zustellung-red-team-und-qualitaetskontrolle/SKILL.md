@@ -26,6 +26,32 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Zustellungspflicht Art. 11-13 DSA
+- **Art. 11 DSA Kontaktstelle für Behörden**: einzige elektronische Kontaktstelle für Behörden der Mitgliedstaaten, Kommission, EU-Ausschuss; Sprachen mindestens eine Amtssprache eines MS.
+- **Art. 12 DSA Kontaktstelle für Empfänger**: barrierearmer Zugang für Nutzer für AGB-Fragen, Beschwerden.
+- **Art. 13 DSA gesetzlicher Vertreter**: für Anbieter ohne Niederlassung in der Union — schriftliche Bestellung einer natürlichen oder juristischen Person in einem MS, deren Vermittlungsdienste angeboten werden; Vertreter haftet gesamtschuldnerisch für Geldbußen.
+
+## Red-Team-Prüfung Zustellungsfähigkeit
+- **Ist die Kontaktstelle erreichbar?** Test mit Behördentest-Mail in Amtssprache; Antwortzeit erfasst.
+- **Ist der gesetzliche Vertreter benannt und registriert?** Bei der Mitgliedstaaten-Aufsicht (Digital Services Coordinator) hinterlegt?
+- **Ist die Adresse aktuell?** Wechselt der Vertreter, ohne dass Anzeige beim DSC erfolgt, ist Zustellung an alte Adresse rechtlich angreifbar.
+- **Wird die Sprache eingehalten?** Anbieter, die in Deutschland Dienste anbieten, müssen Behörden auf Deutsch antworten können (vgl. § 18 DDG).
+
+## Qualitätskontrolle interner Workflow
+- **Eingangsregister Behörden-Korrespondenz**: zentrale Mailbox, mit Eskalation an Legal/DPO.
+- **Frist-Tracking**: Behördenanfragen DSA / Kommission haben oft kurze Fristen (Art. 9 DSA bei Anordnungen 24 h).
+- **Stellungnahmeprozess**: Vier-Augen-Prinzip; Sicherung der Antwort mit Zeitstempel.
+- **Dokumentation**: Audit-Trail aller Behördeneingänge und Antworten.
+
+## Häufige Schwachstellen
+- **Generische "info@"-Adresse** statt dedizierter Kontaktstelle.
+- **Nur englische Antworten** an deutschsprachige Behörden.
+- **Vertreter ohne Vollmacht für Bußgeldzustellung** — Art. 13 Abs. 3 DSA macht Vertreter formal verantwortlich.
+- **Fehlende Benachrichtigung des DSC** bei Personalwechsel der Kontaktstelle.
+
+## Trade-off
+Externe Dienstleister als DSA-Vertreter (Spezialagenturen) entlasten organisatorisch, verlangen aber sorgfältige Eskalationsabsprachen — Vertreter trägt Bußgeldhaftung und muss intern unverzüglich informieren können.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Vollstreckungstitel (§§ 704, 794 ZPO)
+- **Katalog (§ 794 Abs. 1 ZPO):** (1) Urteile rechtskräftig oder vorläufig vollstreckbar, (2) Vollstreckungsbescheide, (3) gerichtliche Vergleiche, (4) Kostenfestsetzungsbeschlüsse, (5) vollstreckbare notarielle Urkunden, (6) Schiedssprüche nach § 1060 ZPO, (7) anwaltliche Vergleiche nach § 796a ZPO, (8) europäische Vollstreckungstitel etc.
+- **Vollstreckungsklausel (§ 724 ZPO):** Erforderlich auf jeder Ausfertigung des Titels (Ausnahme: Vollstreckungsbescheid - mit Erlass vollstreckbar). Klauselantrag beim Gericht/Notar; Klauselgegenklage § 768 ZPO bei Einwendungen.
+- **Notarielle Urkunde (§ 794 Abs. 1 Nr. 5 ZPO):** Bedarf ausdrücklicher Vollstreckungsunterwerfung; Schuldner muss sich der sofortigen Zwangsvollstreckung unterwerfen. Wirksam bei klaren, bestimmbaren Forderungen.
+- **Vorläufige Vollstreckbarkeit:** Mit Sicherheitsleistung (§§ 708 Abs. 11 ZPO i.V.m. 709 ZPO) bei Geldforderungen aus erstinstanzlichem Urteil; ohne Sicherheitsleistung in Spezialfällen (§ 708 ZPO).
+- **Voraussetzungen für jede Vollstreckung (§ 750 ZPO):** (1) Titel mit Vollstreckungsklausel (außer Vollstreckungsbescheid), (2) Zustellung an den Schuldner, (3) keine Vollstreckungssperre (Eilanträge, Insolvenzeröffnung, § 89 InsO).
+- **Vollstreckungsabwehrklage (§ 767 ZPO):** Schuldner kann materielle Einwendungen (Erfüllung, Stundung, Verjährung), die nach Schluss der mündlichen Verhandlung entstanden sind, im Wege der Vollstreckungsabwehrklage geltend machen.
+- **Verjährung (§§ 197 Abs. 1 Nr. 3, 4 BGB):** Vollstreckungstitel verjähren in 30 Jahren ab Rechtskraft. Wiederholtes Anhängigmachen / Wiederaufnahme des Vollstreckungsverfahrens unterbricht die Verjährung.
+- **EuG-Titel:** Europäischer Vollstreckungstitel (VO 805/2004), Europäischer Zahlungsbefehl (VO 1896/2006), Europäischer Geringfügigkeitsverfahren (VO 861/2007) - länderübergreifende Vollstreckung ohne Exequatur.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

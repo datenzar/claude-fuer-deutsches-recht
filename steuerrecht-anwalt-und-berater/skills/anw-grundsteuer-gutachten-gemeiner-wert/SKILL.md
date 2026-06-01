@@ -35,3 +35,19 @@ Die BFH-AdV-Beschlüsse vom 27.05.2024 ermöglichen im Eilverfahren eine Argumen
 - AdV-Begründungsbaustein.
 - Anlageverzeichnis.
 - Risikoabschnitt: Kosten, Beweislast, Zeit, Hauptsache.
+
+## Praktischer Tipp
+
+- "Erhebliche Abweichung" nach BFH-AdV-Linie heißt: in den entschiedenen Fällen lagen festgestellter Grundsteuerwert und plausibler gemeiner Wert um deutlich mehr als 40 % auseinander. Bei kleineren Abweichungen besser auf konkrete Bewertungsfehler stützen, nicht auf den gemeinen Wert.
+- Kosten-Nutzen-Schwelle für Sachverständigengutachten: erst sinnvoll, wenn die jährliche Mehrbelastung über die nächsten fünf Jahre die Gutachterkosten (typisch 1.500 bis 4.000 EUR für ein Wohnobjekt) übersteigt. Sonst Belegtreppe-Stufe 1 bis 3 ausschöpfen.
+- Verkehrswertgutachten muss die konkrete Bewertungsfrage adressieren: nicht "Verkehrswert", sondern "gemeiner Wert zum Hauptfeststellungszeitpunkt 01.01.2022 nach den allgemeinen Bewertungsgrundsätzen des § 9 BewG".
+
+## Beispiel-Mustertext (AdV-Antrag)
+
+> Die Aussetzung der Vollziehung ist gemäß § 361 Abs. 2 Satz 2 AO zu gewähren. Es bestehen ernstliche Zweifel an der Rechtmäßigkeit des Grundsteuerwertbescheids vom [Datum, AZ], weil der festgestellte Grundsteuerwert von EUR [...] den nach beigefügten Belegen (Anlagen 1 bis [n]) plausibilisierten gemeinen Wert von EUR [...] um [...] % übersteigt. Diese erhebliche Abweichung begründet im Lichte von BFH, Beschluss vom 27.05.2024 - II B 78/23 und II B 79/23, ernstliche Zweifel im Sinne des § 69 Abs. 2 Satz 2 FGO.
+
+## Typische Fehler
+
+- Maklerbewertung ohne Datumsangabe und ohne Marktbezug einreichen; das Finanzamt verlangt nachvollziehbare Vergleichsobjekte.
+- Kaufpreis aus 2020 für den Stichtag 01.01.2022 ohne Zeitanpassung verwenden.
+- AdV-Antrag ohne ausdrücklichen Hilfsantrag auf Sicherheitsleistung; bei hohen Beträgen riskant.

@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Aus
 
 Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Pflvg**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Pflichtversicherungsgesetz: PflVG verpflichtet jeden Kfz-Halter zum Abschluss einer Haftpflichtversicherung. § 1 PflVG – Versicherungspflicht; § 2 PflVG – Mindestversicherungssummen.
+- Direktanspruch: § 115 VVG – Geschädigter kann unmittelbar den Versicherer in Anspruch nehmen (gesamtschuldnerisch mit Schädiger).
+- Regress des Versicherers: §§ 116, 117 VVG; § 5 KfzPflVV – bei Verletzung von Obliegenheiten (z.B. Alkohol, unerlaubtes Entfernen, vorsätzliche Schadens­herbeiführung).
+- Direktklage gegen Versicherer: § 115 Abs. 1 VVG – Wahlrecht bei Klage gegen Versicherer und/oder Halter/Fahrer.
+- Verjährung: § 195 BGB drei Jahre; bei Direktanspruch § 115 Abs. 2 VVG analog Sachverhalt.
+- Unbekannter / nichtversicherter Schädiger: § 12 PflVG – Entschädigungsfonds (Verkehrsopferhilfe).
+- Praxis-Tipp: Bei Unfallregulierung immer parallel an Schädiger UND Haftpflicht­versicherer adressieren (Direktanspruch nicht verspielen). Bei Regress­drohung des Versicherers (Alkohol, Unfallflucht): Obliegen­heits­verletzung prüfen, gegen Mandant Regressbegrenzung nach AKB (max. 5.000 EUR bei vorsätzlicher Obliegenheits­verletzung) durchsetzen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

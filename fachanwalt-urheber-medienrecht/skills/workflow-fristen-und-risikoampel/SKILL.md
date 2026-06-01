@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Fristen Urheber-/Medienrecht
+- Einstweilige Verfügung Dringlichkeit: faustregelartig vier Wochen ab Kenntnis (OLG-Praxis, abweichend je nach OLG-Bezirk).
+- Unterlassungserklärung Reaktion: meist sieben bis vierzehn Tage Frist in Abmahnung, individuell zu prüfen.
+- Pflichtveröffentlichung Gegendarstellung: unverzüglich, nach LandesPresseG/MStV.
+- Verjährung Schadensersatz § 102 UrhG: regelmäßig drei Jahre kenntnisabhängig (§ 199 BGB); Restschadensersatzanspruch bis zehn Jahre nach § 102 S. 2 UrhG iVm § 852 BGB.
+- Auskunftsanspruch gegen Provider § 101 UrhG: einfache Auskunft ohne richterliche Anordnung; bei dynamischen IP-Adressen § 101 Abs. 9 UrhG (Richtervorbehalt).
+- DSA: Notice-and-Action seit Februar 2024 für Online-Plattformen.
+
+## Trade-off
+- Abmahnung mit strafbewehrter Unterlassungserklärung vs. direkter EV-Antrag: Abmahnung kostet weniger, kann aber Beweis vernichten (Spoliation); EV bei drohendem Beweisverlust.
+- Berliner Streitwertbeschluss-Praxis vs. Streitwert nach BGH/OLG München für Online-Foto-Cases: Streitwert beeinflusst Gegenstandswerte und Honorar.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

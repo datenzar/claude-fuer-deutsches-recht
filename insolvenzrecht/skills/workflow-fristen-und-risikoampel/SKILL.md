@@ -33,3 +33,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Insolvenzrechtliche Ampel-Trigger (immer prüfen)
+- **ROT — sofortige Antragspflicht (Stunden bis Tage):**
+  - Zahlungsunfähigkeit § 17 InsO seit > 3 Wochen (Antragsfrist § 15a InsO läuft ab) → strafbewehrt § 15a Abs. 4 InsO.
+  - Überschuldung § 19 InsO seit > 6 Wochen ohne positive Fortbestehensprognose → ebenfalls § 15a InsO.
+  - Zahlungseinstellung erkennbar (BGH-Indiz: Nichtzahlung von Steuern, Sozialversicherungsbeiträgen, Lohn).
+- **GELB — Pflicht zur Krisenfrüherkennung (§ 1 StaRUG) oder drohende Zahlungsunfähigkeit (§ 18 InsO):**
+  - Liquiditätsplan zeigt Lücke im 24-Monats-Horizont.
+  - Kovenantenbruch droht, Kreditlinie kurzfristig auf Kündigungsbasis.
+  - StaRUG-Anzeige § 31 StaRUG oder Eigenverwaltung § 270a InsO erwägen.
+- **GRÜN — Vorfeld:** Frühwarnsystem § 1 StaRUG, Sanierungsgespräche, IDW S6-Konzept.
+
+## Haftungs- und Strafrisiken (Mandantenwarnung)
+- § 15a Abs. 4, 5 InsO: bis zu drei Jahre Freiheitsstrafe bei nicht rechtzeitigem Antrag.
+- § 64 GmbHG a.F. / § 15b InsO: Zahlungsverbot ab materieller Insolvenz, Erstattungsanspruch gegen Geschäftsführer.
+- §§ 283 ff. StGB: Bankrott, Schuldnerbegünstigung, Gläubigerbegünstigung.
+- § 266a StGB: Vorenthalten von Arbeitnehmer-Sozialversicherungsbeiträgen — strikt fortzuzahlen auch in der Krise (Anweisung an Steuerberater dokumentieren).

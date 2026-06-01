@@ -44,3 +44,24 @@ Gib eine kurze, hoefliche und klare Formulierung aus. Keine uebertriebene Unterw
 ## Qualitaetsgate
 
 Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsachen. Umlaute, Namen und Zahlen sorgfaeltig uebernehmen.
+
+## Aktenzeichen verstehen
+
+Jedes Aktenzeichen verraet die Art des Verfahrens. Das hilft beim Sortieren von Post.
+
+| Beispiel | Was es bedeutet |
+| --- | --- |
+| **5 C 123/26** | Amtsgericht, Zivilsache (C = Zivilkammer), 123. Sache 2026. |
+| **3 O 45/26** | Landgericht, Zivilsache (O = ordentliche Zivilkammer). |
+| **7 K 89/26** | Verwaltungsgericht, Klage (K). |
+| **2 BvR 1234/24** | Bundesverfassungsgericht, Verfassungsbeschwerde Rechtsweg (BvR). |
+| **VI ZR 252/19** | Bundesgerichtshof, 6. Zivilsenat (VI ZR), Revision. |
+| **S 12 R 567/26** | Sozialgericht, Rentensache (R). |
+| **2 Ca 234/26** | Arbeitsgericht (Ca = Klage 1. Instanz). |
+
+## Betreff korrekt formulieren
+
+- **Pflichtangaben:** Aktenzeichen, Name der Parteien, ggf. Datum des bezogenen Schreibens.
+- Beispiel: "Ihr Az. 5 C 123/26 — Schmidt ./. Mueller — Klage vom 15.05.2026"
+- Bei mehreren Verfahren: immer das richtige Az. zuerst nennen.
+- Falle: Wer das Aktenzeichen vergisst oder vertauscht, riskiert dass das Schreiben an falsche Akte gelangt — Frist gilt aber trotzdem als nicht eingehalten, wenn Post nicht rechtzeitig richtig zugeordnet wird.

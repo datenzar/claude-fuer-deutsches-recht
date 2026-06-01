@@ -23,6 +23,39 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 Besondere Anker: § 273a ZPO, GeschGehG und gerichtliche Geheimhaltungsanordnungen. Immer trennen: Was ist Geheimnis, wer darf es sehen, wie wird es zitiert, was passiert bei Verstoß?
 
+### Geheimnisschutz-Kaskade
+
+| Stufe | Norm/Mittel | Wirkung |
+| --- | --- | --- |
+| Vorprozessual NDA | § 311 Abs. 2 BGB i.V.m. § 280 BGB | vertraglicher Schadensersatz, Vertragsstrafe |
+| Geheimhaltungsantrag | § 273a ZPO i.V.m. §§ 16-20 GeschGehG | Einstufung Information als geheimhaltungsbedürftig, Personenkreis begrenzen |
+| Vertrauliche Aktenführung | § 174 Abs. 3 GVG (Ausschluss Öffentlichkeit) | Ausschluss bei Erörterung, geheime Aktenteile |
+| In-camera-ähnliche Sichtung | GeschGehG analog, "Düsseldorfer Praxis" | nur Anwälte und Sachverständige sehen Geheimnis, nicht die Partei selbst |
+| Geschwärzte Anlagen (redactions) | § 132 ZPO i.V.m. Geheimhaltungsanordnung | Geheimnis bleibt aus dem Schriftsatz |
+| Aktenversiegelung | § 299 ZPO Einsicht | bei Berechtigtem Interesse Dritter |
+| Pseudonymisierung Urteil | § 169 GVG | bei Veröffentlichung Schutz der Identität |
+
+### Anforderungen Geschäftsgeheimnis (§ 2 Nr. 1 GeschGehG)
+
+1. Information ist weder allgemein bekannt noch ohne weiteres zugänglich.
+2. Wirtschaftlicher Wert wegen Geheimhaltung.
+3. Den Umständen nach angemessene Geheimhaltungsmaßnahmen (Zugriffsbeschränkung, NDA, Klassifizierung).
+4. Berechtigtes Interesse an Geheimhaltung.
+
+Punkt 3 ist häufiger Streitpunkt: ohne dokumentierte Schutzmaßnahmen kein Geschäftsgeheimnis. Daher: NDA-Doppelt, Zugangsprotokoll, Need-to-know-Prinzip.
+
+### Sanktion bei Verstoß
+
+- Ordnungsgeld bis 100.000 EUR, ggf. Ordnungshaft (§ 17 GeschGehG).
+- Strafbarkeit §§ 23 GeschGehG bei vorsätzlicher Verletzung.
+- Zivilrechtlicher Unterlassungs- und Schadensersatzanspruch §§ 6, 10 GeschGehG.
+
+1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
+2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
+3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.
+4. **ZPO-Realität bewahren:** keine US-Discovery, kein Pleading-Theater; Tatsachenvortrag, Beweisangebot, richterliche Prozessleitung und deutsches Kostenrisiko sauber erklären.
+5. **Nächsten Schritt festlegen:** Frist, Verantwortliche, Unterlagen, gerichtliche Kommunikation und Mandantenfreigabe.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

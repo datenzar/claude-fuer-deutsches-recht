@@ -26,6 +26,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Rechtsformvergleich für Erstprüfung
+
+| Form | Mindestkapital | Gründungskosten | Haftung | Notar | Geeignet für |
+| --- | --- | --- | --- | --- | --- |
+| GbR (§§ 705 ff. BGB, MoPeG-novelliert) | kein | gering | unbeschränkt persönlich §§ 721 BGB | nicht zwingend; Gesellschaftsregister § 707 BGB optional (eGbR) | nicht-kaufmännische Personenzusammenschlüsse |
+| OHG (§§ 105 ff. HGB) | kein | gering | unbeschränkt persönlich § 128 HGB | HR-Anmeldung notariell | Kaufleute, Kleinbetriebe |
+| KG (§§ 161 ff. HGB) | kein, Haftsumme frei wählbar | gering | Komplementär unbeschränkt; Kommanditist auf Haftsumme § 171 HGB | notarielle HR-Anmeldung | Investoren-Beteiligung |
+| GmbH & Co. KG | GmbH 25.000 EUR | mittel | Komplementär-GmbH | notariell | Mittelstand, Steueroptimierung |
+| UG (haftungsbeschränkt) § 5a GmbHG | 1 EUR Stammkapital, Aufstockungspflicht § 5a Abs. 3 GmbHG (25 % Gewinn) | gering, Musterprotokoll § 2 Abs. 1a GmbHG | begrenzt | notariell, vereinfachte Online-Gründung möglich (DiRUG) | Bootstrap-Startup |
+| GmbH | 25.000 EUR, hälftige Einzahlung § 7 GmbHG (12.500 EUR) | mittel | begrenzt § 13 Abs. 2 GmbHG | notariell, Online-Gründung § 2 Abs. 3 GmbHG (DiRUG seit 01.08.2022) | Mittelstand-Standard |
+| AG | 50.000 EUR § 7 AktG | hoch | begrenzt | notariell | kapitalmarktreife Strukturen |
+| PartG mbB | kein | mittel | nur Berufsausübungs-Haftpflicht (§ 8 Abs. 4 PartGG) | nicht zwingend, Partnerschaftsregister | Freiberufler, Sozietäten |
+| gGmbH | 25.000 EUR | mittel | begrenzt | notariell + Finanzamt Gemeinnützigkeit § 52 AO | gemeinnützige Zwecke |
+
+## Trade-off-Hinweis für Mandantengespräch
+
+- **UG vs. GmbH:** UG spart Stammkapital, kostet aber 25 %-Gewinnthesaurierung und schlechteres Image bei Banken/Lieferanten.
+- **GmbH vs. GmbH & Co. KG:** KG ermöglicht steuerliche Verlustverrechnung beim Kommanditisten, aber komplexere Struktur und höhere laufende Kosten (zwei Jahresabschlüsse).
+- **PartG mbB vs. Sozietät:** mbB schützt vor Berufsfehlern der Partner, aber nur bei Pflichtversicherung (§ 8 Abs. 4 PartGG i.V.m. § 51a BRAO bei Anwälten).
+- **DiRUG-Online-Gründung:** seit 01.08.2022 § 2 Abs. 3 GmbHG erweitert; vereinfacht GmbH-Gründung. Beachte: Sacheinlagen weiterhin Präsenznotar.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

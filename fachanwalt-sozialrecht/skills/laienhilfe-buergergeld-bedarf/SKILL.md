@@ -9,6 +9,16 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erk
 
 Dieser Skill erklaert **Buergergeld Bedarf** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Buergergeld: § 19 SGB II ff. – Regelbedarf nach § 20 SGB II (Regelbedarfsstufen); Mehrbedarf § 21 SGB II; Unterkunft und Heizung § 22 SGB II (angemessene Kosten der Unterkunft).
+- Anspruchsvoraussetzungen: § 7 SGB II – Erwerbsfaehigkeit, Hilfebeduerftigkeit, Aufenthalt in Deutschland, Vollendung 15. Lebensjahr.
+- Vorlaeufige Bewilligung: § 41a SGB II – wenn Anspruch besteht, aber Hoehe noch nicht abschliessend feststeht (z.B. schwankendes Einkommen Selbststaendige).
+- Einkommen / Vermoegen: §§ 11, 11a, 11b SGB II (Einkommen); § 12 SGB II Vermoegens­freibetrag (im Schonvermoegen).
+- Sanktionen / Leistungsminderung: § 31a SGB II – nach BVerfG-Entscheidung 2019 max. 30 Prozent; mit Aenderungen 2022/23 weiter eingeschraenkt.
+- Bildung und Teilhabe: § 28 SGB II fuer Kinder.
+- Praxis-Tipp: Bei abgelehntem Buergergeld sofort Widerspruch (§ 84 SGG ein Monat) + Antrag auf vorlaeufige Leistungen § 41a SGB II / Eilantrag § 86b Abs. 2 SGG. Bei Sanktion immer Anhoerung und Wichtigen Grund nachweisen (Krankheit, Kinderbetreuung, etc.). KdU-Bescheid kritisch lesen – Angemessenheits­konzept der Kommune einsehen lassen.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausg
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Alkohol**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Alkohol-OWi: § 24a StVG – 0,5-Promille-Grenze (BAK) bzw. 0,25 mg/l AAK. Bußgeld nach BußgKatV regelmäßig 500 EUR und Fahrverbot 1 Monat (Erstverstoß).
+- Absolute Fahruntüchtigkeit: ab 1,1 Promille BAK Straftat § 316 StGB; ab 0,3 Promille mit Fahrunsicherheitsindiz "relative" Fahruntüchtigkeit (§§ 315c, 316 StGB).
+- Junge Fahrer/Probezeit: § 24c StVG – 0,0-Promille-Grenze; § 2a StVG Probezeitverlängerung.
+- Punkte: 2 Punkte bei § 24a StVG; bei § 316 StGB 3 Punkte und i.d.R. Entziehung Fahrerlaubnis § 69 StGB.
+- Atemalkoholmessung: Dräger Evidential ARDV 7110 (gerichtlich zugelassen unter Beachtung Eichung, Wartezeit 20 Min., zwei verwertbare Messungen, Standardmessung). Bei Mängeln zugunsten Betroffenen.
+- Praxis-Tipp: Bei Alkohol-OWi Messakte anfordern (Eichschein, Schulungs­nachweis, Bedien­anweisung). Bei knapper BAK (0,5-0,55) Toleranzen kritisch prüfen; Verteidigungsstrategie: Toleranzabzug, Verfahrensfehler bei Atemalkoholmessung, Trinkende-Zeit. Bei § 316 StGB Mandant über Verfahren MPU (Fahreignungs­begutachtung) bei FE-Wiedererteilung aufklären.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

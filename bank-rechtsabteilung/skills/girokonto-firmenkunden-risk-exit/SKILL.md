@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## De-Risking/Risk-Exit-Spezifika
+- Rechtsrahmen Kündigung: § 675h BGB (Kündigung Zahlungsdiensterahmenvertrag durch Bank — 2 Monate Mindestfrist) iVm vereinbarten AGB/Sonderbedingungen Firmenkunden. Kein Recht auf Basiskonto bei juristischen Personen (§ 31 ZKG nur natürliche Personen).
+- Diskriminierungs- und Kontrahierungspflicht: bei Sparkassen und Landesbanken ggf. öffentlich-rechtliche Anforderungen aus Landesrecht (Sparkassengesetze, kommunalrechtliche Anforderungen); Treu und Glauben (§ 242 BGB) bei willkürlicher Kündigung.
+- AML-/Sanktions-Pflicht zur Beendigung: § 10 Abs. 3 GwG (Beendigung bei Identifizierungsausfall), § 15 GwG (verstärkte Sorgfalt), Bereitstellungsverbote bei Sanktionen (Art. 2 VO 269/2014 RU u. a.) — automatisch unmittelbare Wirkung, keine Kündigung nötig, sondern Sperre.
+- EBA-Guidelines on De-Risking (EBA/GL/2023/04): Differenzierung nach Risikoprofil, keine pauschale Kategorie-Verweigerung; dokumentierte Einzelfallprüfung.
+- Praktiker-Tipp: Vor Risk-Exit-Kommunikation 1) AML/Sanctions-Trigger, 2) AGB-Grundlage, 3) interne Eskalationsmatrix, 4) Vier-Augen-Freigabe; Kündigungsbrief sachlich neutral (keine Vorwürfe), Wechselzeit angemessen, Zahlungsverkehr-Alternativen nennen. Klagerisiko: §§ 280, 241 BGB, ggf. § 826 BGB; bei AML-Verdacht parallel SAR/FIU (kein "Tipping Off" § 47 GwG).
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

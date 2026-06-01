@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Kartellrechtliche Fristen
+- **Fusionskontrolle § 35 GWB:** Anmeldung VOR Vollzug; Phase-I-Prüfung 1 Monat (§ 40 Abs. 1 GWB), Phase II 4 Monate (§ 40 Abs. 2 GWB) ab vollständiger Anmeldung. EU-Ebene FKVO: 25 Arbeitstage Phase I, 90 Arbeitstage Phase II.
+- **No Gun Jumping:** Vollzug vor Freigabe ist Bußgeld bis 10 % des weltweiten Konzernumsatzes (§ 81 Abs. 4 GWB, Art. 14 FKVO).
+- **Bußgeldverjährung § 81g GWB:** 5 Jahre ab Beendigung der Zuwiderhandlung (Verfolgungsverjährung).
+- **Schadensersatz-Verjährung § 33h GWB:** 5 Jahre kenntnisabhängig, 10 Jahre absolut ab Beendigung. Bei kartellrechtlichem Schadensersatz § 33 Abs. 3 GWB Anscheinsbeweis Bindungswirkung Behördenentscheidung.
+- **DMA Gatekeeper-Pflichten:** ab Designierung 6 Monate Übergangsfrist (Art. 3 Abs. 10 DMA); Beschwerde 2 Monate (Art. 263 AEUV).
+- **Marktbeherrschung — Bußgeldrisiko § 19 GWB / Art. 102 AEUV:** bis 10 % weltweiter Konzernumsatz (§ 81c GWB, Art. 23 VO 1/2003).
+- Falle: Joint Venture als "kleine Transaktion" einstufen — § 37 GWB Anmeldepflicht prüfen; Umsatzschwellen § 35 Abs. 1 GWB (Inland >50 Mio. EUR und >17,5 Mio. EUR).

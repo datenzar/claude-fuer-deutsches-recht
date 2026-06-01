@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen Betreuungsrecht (Reform 1.1.2023)
+- Beschwerdefrist Endentscheidung: ein Monat (§ 63 Abs. 1 FamFG); bei einstweiliger Anordnung zwei Wochen (§ 63 Abs. 2 FamFG).
+- Überprüfungsfrist Betreuung: spätestens nach sieben Jahren (§ 295 Abs. 2 FamFG); auf Antrag jederzeit.
+- Jahresbericht des Betreuers (§ 1863 BGB nF): jährliche Vorlage Vermögensverzeichnis und Bericht.
+- Genehmigungspflichtige Geschäfte §§ 1848-1854 BGB nF (Reform 2023): Grundstücksgeschäfte, Wohnungskündigung, Erbschaftsausschlagung, Heimvertrag.
+- Freiheitsentziehende Unterbringung § 1831 BGB nF (§ 312 ff. FamFG): max. ein Jahr Genehmigung, Verlängerung möglich.
+- Vergütung: Antrag bei Berufsbetreuern Vermögensverwaltung viertel/halbjährlich; Vergütung nach VBVG-Stundensätzen.
+
+## Trade-off
+- Betreuung (richterliche Anordnung, gesetzliche Rechte) vs. Vorsorgevollmacht (privatautonom, kann sofort wirken, aber missbrauchsanfälliger): vorrangig § 1814 Abs. 3 Nr. 1 BGB nF Erforderlichkeitsgrundsatz.
+- Kontrollbetreuung neben Vorsorgevollmacht möglich (§ 1820 BGB nF) bei Missbrauchsverdacht.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

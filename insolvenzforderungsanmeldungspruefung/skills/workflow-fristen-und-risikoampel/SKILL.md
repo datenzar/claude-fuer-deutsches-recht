@@ -33,3 +33,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Forderungsanmeldungs-Ampel
+- **ROT — Bestreiten droht oder Frist läuft ab:**
+  - Verwalter bestreitet Grund § 178 InsO → Feststellungsklage § 180 InsO innerhalb von 1 Monat ab Prüfungstermin geboten.
+  - Anmeldefrist (regelmäßig 4–6 Wochen ab Eröffnung) verstrichen → Sondertermin § 177 InsO erforderlich, Verwalter kann Mehrkosten verlangen.
+  - Forderung steht im Range § 39 InsO und Aufforderung des Gerichts wurde nicht beachtet.
+- **GELB — Belege unvollständig:**
+  - Forderungsgrund nicht hinreichend substantiiert (§ 174 Abs. 2 InsO verlangt Grund und Betrag).
+  - Rangbestimmung unklar — Aussonderung, Absonderung, einfache Forderung, Nachrang nicht differenziert.
+  - Bei Anfechtbarkeit: Verwalter könnte aufrechnen oder zurückfordern (§§ 129 ff. InsO).
+- **GRÜN — Standardfall:**
+  - Form (Schriftsatz oder Portal), Frist, Belege, Vertretungsnachweis vollständig.
+
+## Risiken
+- **Aufrechnungsverbote:** § 96 InsO — Aufrechnungsverbote nach Eröffnung beachten.
+- **Steuerforderungen:** Finanzamt meldet routinemäßig an; bei umstrittenen Steuerbescheiden Vorbehalt erklären.
+- **Bürgschaft/Gesamtschuldner:** Anmeldung möglich, aber keine Doppelausschüttung (§ 43 InsO).
+- **Forderung mit Sicherheit:** zuerst aus Sicherheit befriedigen, Ausfall anmelden (§ 52 InsO).

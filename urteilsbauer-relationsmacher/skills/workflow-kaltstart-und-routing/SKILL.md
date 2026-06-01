@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Urteils- und Relationsbau
+- **§ 313 ZPO Aufbau:** Rubrum, Tenor, Tatbestand (unstreitig, streitig Kläger, streitig Beklagter, Anträge), Entscheidungsgründe (Begründetheit / Unbegründetheit), Nebenentscheidungen (Kosten § 91 ZPO, vorl. Vollstreckbarkeit §§ 708 ff. ZPO), Rechtsmittelbelehrung.
+- **Tatbestand:** im Präsens für unstreitige, im Konjunktiv für streitige Tatsachen. "Der Kläger behauptet ... Der Beklagte bestreitet ..." Anträge wörtlich aus den Schriftsätzen.
+- **Entscheidungsgründe:** Urteilsstil, nicht Gutachtenstil. Knapp, deduktiv: "Die Klage ist zulässig (§ 23 GVG ...) und begründet (§ 433 II BGB)."
+- **Relationstechnik:** Schlüssigkeit der Klage prüfen (Klägerstation), dann Erheblichkeit der Einwendungen (Beklagtenstation), dann Beweisstation.
+- **Beweismaß § 286 ZPO** (Vollbeweis) vs. **§ 287 ZPO** (Schadensschätzung); Beweisaufnahme durch Erhebung der angebotenen Beweise.
+- Falle: Im Tatbestand werten oder bewerten — der Tatbestand dient nur der Sachverhaltsdarstellung; alle juristischen Wertungen gehören in die Entscheidungsgründe.

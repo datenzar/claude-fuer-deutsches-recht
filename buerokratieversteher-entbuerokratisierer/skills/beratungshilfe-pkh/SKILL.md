@@ -8,6 +8,13 @@ description: "Erklärt Beratungshilfe, Prozesskostenhilfe/Verfahrenskostenhilfe,
 ## Aufgabe
 Erklärt Beratungshilfe, Prozesskostenhilfe/Verfahrenskostenhilfe, Unterlagen, Fristen und wann anwaltliche Hilfe nötig ist.
 
+## Normfokus und Praxis
+- Beratungshilfe nach BerHG: außergerichtliche Beratung/Vertretung, Antrag beim Amtsgericht am Wohnsitz (§ 4 BerHG); Mandantenanteil derzeit 15 Euro Eigenbeitrag, sonst staatlich getragen.
+- PKH/VKH: §§ 114 ff. ZPO (Zivilprozess), § 76 FamFG (VKH Familienverfahren), § 166 VwGO (Verwaltungsgericht), § 73a SGG (Sozialgericht), § 142 FGO (Finanzgericht). Voraussetzungen: persönliche und wirtschaftliche Bedürftigkeit + hinreichende Erfolgsaussicht und nicht mutwillig (§ 114 Abs. 1 ZPO).
+- Unterlagen: Formular "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse" (gerichtliches Vordruck), aktuelle Einkommensnachweise, Mietvertrag, Kontoauszüge der letzten Monate, Schuldenliste.
+- Ratenzahlung möglich nach § 115 Abs. 2 ZPO; Überprüfung nach vier Jahren (§ 120a ZPO), Rückforderung bei wirtschaftlicher Besserung.
+- Praktiker-Tipp: PKH-Antrag immer **zusammen** mit Klage oder rechtzeitig vor Fristablauf — bei abgelehnter PKH kann unter Umständen Wiedereinsetzung in den vorigen Stand (§ 60 VwGO, § 233 ZPO) beantragt werden. Vorab Anwaltsbesuch mit Beratungshilfeschein klären.
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

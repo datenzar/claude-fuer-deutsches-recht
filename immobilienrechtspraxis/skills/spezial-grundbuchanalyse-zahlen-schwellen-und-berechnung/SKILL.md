@@ -26,6 +26,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Grundbuchanalyse
+- **Aufbau Grundbuch (§ 3 GBO i.V.m. GBV):** Bestandsverzeichnis (Lage, Flur, Flurstück, Größe), Abteilung I (Eigentümer), Abteilung II (Lasten/Beschränkungen: Wegerechte, Nießbrauch, Wohnrecht, Vorkaufsrechte, Auflassungsvormerkung), Abteilung III (Grundpfandrechte: Hypothek, Grundschuld, Rentenschuld).
+- **Öffentlicher Glaube (§ 892 BGB):** Wer im Grundbuch eingetragen ist, gilt im Rechtsverkehr als Berechtigter; gutgläubiger Erwerb vom Nichtberechtigten möglich, soweit kein Widerspruch eingetragen ist (§§ 892, 899 BGB).
+- **Auflassungsvormerkung (§ 883 BGB):** Sichert den schuldrechtlichen Übereignungsanspruch des Käufers. Nach Eintragung sind alle Verfügungen des Verkäufers gegenüber dem Vormerkungsberechtigten relativ unwirksam (§ 883 Abs. 2 BGB).
+- **Grundschuld vs. Hypothek:** Grundschuld (§ 1191 BGB) ist akzessorisch nur in der Sicherungsabrede, nicht im Grundbuch - eintragsmäßig nicht-akzessorisch; Hypothek (§ 1113 BGB) ist akzessorisch zur Forderung. Praxis: Grundschuld dominiert wegen Wiedereinsetzbarkeit. Sicherungsabrede separat prüfen.
+- **Rangordnung (§ 879 BGB):** Eintragungsdatum entscheidet über Rang; Rangänderung nur durch Einigung und Eintragung (§ 880 BGB). Bei Zwangsversteigerung folgen die Verteilungen dem Rang (§§ 10 ff. ZVG).
+- **Löschungsbewilligung:** Eingetragene Belastungen löschen nur mit Bewilligung des Berechtigten (§ 19 GBO) und in notariell beglaubigter Form. Briefgrundschuld erfordert zusätzlich Briefvorlage.
+- **Praktiker-Tipp:** Grundbuchauszug muss in Beurkundungssachen aktuell sein (in der Praxis nicht älter als 14 Tage); ältere Auszüge bergen Risiko übersehener Zwischeneintragungen. Im Insolvenzfall des Verkäufers blockiert die Vormerkung den Insolvenzverwalter.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

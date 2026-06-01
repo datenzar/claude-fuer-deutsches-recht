@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Kritische Fristen Erbrecht
+- Ausschlagung: sechs Wochen ab Kenntnis vom Anfall und Berufungsgrund (§ 1944 Abs. 1 BGB); sechs Monate bei Auslandsbezug oder gewöhnlichem Auslandsaufenthalt (§ 1944 Abs. 3 BGB). Form: vor Nachlassgericht oder notariell (§ 1945 BGB).
+- Pflichtteilsverjährung: drei Jahre ab Kenntnis von Erbfall und beeinträchtigender Verfügung (§§ 2332, 195, 199 BGB); Höchstfrist 30 Jahre ab Erbfall.
+- Pflichtteilsergänzung: zehn-Jahres-Frist Schenkungen ab Vollzug, Abschmelzung pro Jahr (§ 2325 Abs. 3 BGB).
+- Anfechtung Testament/Erbvertrag: ein Jahr ab Kenntnis (§ 2082 BGB).
+- Erbschaftsteuer: Anzeigepflicht drei Monate ab Kenntnis (§ 30 ErbStG); Steuererklärungsfrist nach Aufforderung mindestens einen Monat (§ 31 ErbStG).
+- Inventarfrist auf Antrag eines Gläubigers (§ 1994 BGB) zur Haftungsbegrenzung.
+
+## Trade-off Haftung
+- Ausschlagung schließt auch Vermächtnis aus (§ 2180 BGB beachten: gesonderte Ausschlagung).
+- Beschränkung Erbenhaftung über Nachlassinsolvenz (§ 1980 BGB), Nachlassverwaltung (§ 1981 BGB) oder Dürftigkeitseinrede (§ 1990 BGB) prüfen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

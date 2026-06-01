@@ -33,3 +33,10 @@ Dieser Skill verwandelt unscharfe Arbeitsauftraege in eine praezise, juristisch 
 ## Qualitaetsgate
 
 Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfundene Quellen? Sind Fristen und offene Tatsachen sichtbar? Ist der naechste Schritt eindeutig?
+
+## Berufsrechtliche Mindestpruefung vor KI-Einsatz
+
+- **§ 43a Abs. 2 BRAO Verschwiegenheit, § 203 StGB:** Mandatsdaten nur in Tools mit Auftragsverarbeitungsvertrag (AVV) nach Art. 28 DSGVO. Keine Mandatsdaten in Tools ohne EU-Hosting oder ohne dokumentierte Verschwiegenheitssicherung.
+- **§ 50 BRAO Handakte:** Der KI-generierte Output ist Arbeitsergebnis; relevante Zwischenstaende sind aktenfest zu speichern.
+- **BORA und KI-Richtlinie:** Mandantenseitige Aufklaerung bei KI-Einsatz im Mandat erwaegen; Pseudonymisierung von Personendaten vor Promptuebergabe.
+- **Halluzinations-Sperre:** Jede juristische Aussage muss vor Versand verifiziert sein (Rechtsprechung mit Az., Norm in aktueller Fassung). Modell-Wissen ohne Verifizierung ist nicht zitierfaehig.

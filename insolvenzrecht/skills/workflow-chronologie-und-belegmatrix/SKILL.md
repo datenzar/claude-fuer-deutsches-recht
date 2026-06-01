@@ -33,3 +33,30 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Insolvenzrechtliche Chronologie — Kernzeitpunkte
+- **Eintritt materielle Insolvenz** (§§ 17, 18, 19 InsO) — Stichtag entscheidet für:
+  - § 15a InsO Antragsfrist (3 / 6 Wochen).
+  - § 15b InsO Zahlungsverbot ab Insolvenzreife.
+  - § 130 InsO Anfechtungs-Drei-Monats-Zeitraum.
+- **Kenntnis Geschäftsführer** vom Insolvenzgrund — relevant für persönliche Haftung.
+- **Antragstellung** (§ 13 InsO Eigenantrag oder § 14 InsO Gläubigerantrag).
+- **Eröffnungsbeschluss** § 27 InsO — entscheidet Übergang Verwaltungs- und Verfügungsbefugnis § 80 InsO.
+- **Berichtstermin** § 156 InsO (regelmäßig ca. 3 Monate nach Eröffnung).
+- **Prüfungstermin** § 176 InsO (für Forderungsanmeldungen).
+- **Schlussverteilung** § 196 InsO / Aufhebung § 200 InsO.
+
+## Belegmatrix-Spalten
+| Datum | Ereignis | Norm | Beleg | Konsequenz |
+|---|---|---|---|---|
+| TT.MM.JJJJ | Liquiditätslücke ≥ 10 Prozent / 3 Wochen | § 17 Abs. 2 InsO | Liquiditätsstatus | Antragsfrist § 15a InsO beginnt |
+| TT.MM.JJJJ | Zahlung an Lieferanten | § 130 InsO | Kontoauszug | Anfechtbar binnen 3 Monaten vor Antrag |
+| TT.MM.JJJJ | Insolvenzantrag | § 13 InsO | Antragsschrift | Anfechtungs-Drei-Monats-Zeitraum endet |
+
+## Widersprüche markieren
+- Unterschiedliche Angaben zu Liquiditätsstand zwischen BWA und Geschäftsführer-Aussage.
+- Spätere Datierung von Beschlüssen / Rechtshandlungen (Backdating-Verdacht).
+- Diskrepanz zwischen Bilanzstichtag und tatsächlicher Krise.
+
+## Hinweis
+- Chronologie und Belegmatrix sind tragend in jedem Insolvenzanfechtungsprozess (§§ 129 ff. InsO) und in jedem Haftungsverfahren gegen Geschäftsführer (§ 15a, § 15b InsO).

@@ -33,3 +33,10 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Builder-Hub-Kaltstart
+- **Skill-Architektur klären:** Welcher Skill-Typ? Allgemein-Einstieg, Spezial-Vertiefung, Quality-Gate, Output-Generator, Workflow.
+- **Plugin-Struktur:** Skill liegt unter `<plugin>/skills/<name>/SKILL.md`, Frontmatter nur `name` und `description` (max. 1024 Zeichen, keine Zahlen-Kommas).
+- **Innenstruktur jedes Skills:** Zweck und Anwendungsfall, Eingaben, Ablauf/Checkliste, Quellenpflicht (Verweis auf references/zitierweise.md), Ausgabeformat, Beispiele.
+- **Quellenstandard:** Keine erfundenen Az.; BVerfGE/BGHZ/EuGH live verifiziert; Kommentar-/Aufsatz-Fundstellen nur mit Live-Beleg.
+- Falle: Skill-Name über 64 ASCII-Zeichen oder Komma im Description-Feld führt zu Validator-Fehler. Vor Commit: Validator-Skript prüfen lassen.

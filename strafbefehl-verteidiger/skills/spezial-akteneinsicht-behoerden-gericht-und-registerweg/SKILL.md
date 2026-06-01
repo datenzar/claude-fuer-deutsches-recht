@@ -10,6 +10,14 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausg
 
 Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Akteneinsicht**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Akteneinsicht Verteidiger: § 147 StPO – nach Anklageerhebung uneingeschränkt; im Ermittlungsverfahren Versagung nur, wenn Untersuchungszweck gefährdet (§ 147 Abs. 2 StPO).
+- Akteneinsicht Beschuldigter selbst: § 147 Abs. 4 StPO – Auskünfte und Abschriften, soweit der Untersuchungszweck nicht gefährdet wird; Übersendung an Wohnung nach Maßgabe Abs. 4 S. 2.
+- Bei Strafbefehl: Akte liegt bei Amtsgericht – Antrag an das zuständige AG. Vor Einspruchsentscheidung Einsicht regelmäßig zwingend, weil Beweislage erst dann beurteilbar.
+- Nebenklage-Akteneinsicht: § 406e StPO; bei Verletztenrechten gesonderter Pfad.
+- Praxis-Tipp: Antrag immer mit Vollmacht, Aktenzeichen und Übersendungsanschrift – elektronische Akteneinsicht über beA bevorzugen (§ 32f StPO). Bei Verzögerung Erinnerung mit Hinweis auf § 147 Abs. 5 StPO (gerichtliche Entscheidung) und Verfristungsrisiko des Einspruchs.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Output-Optionen Urteils-/Relationsbau
+- **Vollurteil § 313 ZPO:** Rubrum, Tenor, Tatbestand (unstreitig, streitig, Anträge), Entscheidungsgründe, Nebenentscheidungen, Rechtsmittelbelehrung.
+- **Verkündungs-Urteil § 311 ZPO:** kurzes Urteil, Tatbestand und Entscheidungsgründe können in einer Urkunde stehen.
+- **Versäumnisurteil § 331 ZPO:** kein Tatbestand erforderlich (§ 313b ZPO), nur Verfahrenslage.
+- **Anerkenntnisurteil § 307 ZPO:** ohne mündliche Verhandlung möglich; auf Antrag des Klägers.
+- **Endurteil vs. Teilurteil:** § 301 ZPO; Vorsicht bei Widerklage oder mehreren Streitgegenständen.
+- **Hinweisbeschluss § 522 II ZPO Berufung:** wenn Berufung offensichtlich unbegründet ist; einstimmig.
+- **Relationstabelle (intern):** Klägerstation (schlüssig?), Beklagtenstation (erheblich?), Beweisstation (Beweis erhoben/notwendig?) — als Vorbereitung für Urteilsentwurf.
+- Falle: Im Tatbestand werten — Tatbestand dient nur der Sachverhaltsdarstellung; alle juristischen Wertungen gehören in die Entscheidungsgründe (Urteilsstil).

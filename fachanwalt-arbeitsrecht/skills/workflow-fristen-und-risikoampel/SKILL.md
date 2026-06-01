@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Arbeitsrechtliche Schlüsselfristen
+- Kündigungsschutzklage drei Wochen ab Zugang der Kündigung (§§ 4, 7 KSchG); Versäumung führt zu Wirksamkeitsfiktion.
+- Klagefrist Befristung drei Wochen ab vereinbartem Ende (§ 17 TzBfG).
+- AGG-Geltendmachung zwei Monate ab Kenntnis (§ 15 Abs. 4 AGG).
+- Ausschlussfristen TV/AV: meist drei Monate; doppelt-stufige Klausel; Schutz nach BAG ständige Rspr. nur bei Klarheit und Schriftform.
+- Anhörung Betriebsrat vor Kündigung eine Woche (§ 102 Abs. 2 BetrVG); ohne Anhörung Kündigung unwirksam.
+- Massenentlassungsanzeige § 17 KSchG vor Ausspruch Kündigung (EuGH-Rechtsprechung beachten).
+- Annahmeverzugslohn Verjährung drei Jahre (§§ 195, 199 BGB); Anrechnung böswillig unterlassener Verdienst (§ 11 KSchG).
+
+## Trade-off
+- Aufhebungsvertrag (sofortige Klarheit, Sperrzeit nach § 159 SGB III bei Eigenkündigung) vs. Klageweg (Zeit, Risiko, Abfindungsergebnis).
+- Abfindungsregel § 1a KSchG (0,5 Bruttomonatsverdienste je Beschäftigungsjahr) vs. individueller Vergleich vor ArbG.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

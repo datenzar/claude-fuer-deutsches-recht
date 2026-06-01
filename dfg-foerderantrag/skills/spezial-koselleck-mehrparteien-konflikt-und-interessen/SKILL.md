@@ -37,3 +37,49 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Reinhart Koselleck-Programm: Eckdaten (vor Ausgabe live auf dfg.de/koselleck verifizieren)
+
+- Zweck: **innovative, im positiven Sinne risikobehaftete Forschung von ausgewiesenen Forschenden**, die andere Förderlinien strukturell nicht zulassen.
+- Antragsberechtigte: nachweislich exzellent ausgewiesene, eigenverantwortlich forschende Personen mit etablierter Position.
+- Antragsumfang: typisch bis zu 1,25 Mio. EUR (vor Ausgabe verifizieren).
+- Laufzeit: bis zu 5 Jahre.
+- Sehr niedrige Erfolgsquote, Bewertung stark auf Person + Vision.
+
+## Mehrparteien-Konstellation Koselleck (Forschungseinrichtung, Mitanträger, Kooperationspartner)
+
+| Rolle | Verantwortung | Risiko |
+|---|---|---|
+| Antragsteller (PI) | inhaltliche Leitung, Antragstellung | Person muss "Koselleck-würdig" sein |
+| Forschungseinrichtung | Anstellung, Mitzeichnung, Infrastruktur | Interessenkonflikt bei Mehrfachverwendung Personal |
+| Kooperationspartner (national) | Letter of Intent, ggf. Mitnutzung | unklare Rollenabgrenzung kann zur Doppelförderungs-Frage werden |
+| Kooperationspartner (international) | Letter of Intent, eigene Finanzierung | DFG fördert nur deutschen Anteil; ausländische Mittel separat |
+| Industrie-Partner | nur bei Eigenfinanzierung relevant | Drittmittel von Industrie offenlegen, Interessenkonflikt-Erklärung |
+
+## Norm-/Quellenbezug konkret
+
+- DFG-Vordruck 50.05 (oder Folgevordruck) zur Antragstellung Koselleck-Projekt.
+- DFG-Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis" 2022, insbesondere Leitlinie 7 (Phasen der Forschung) und 12-15 (Verantwortlichkeiten).
+- DFG-Verfahrensordnung (zu Befangenheit, Interessenkonflikte Gutachter).
+
+## Praktischer Tipp
+
+- Koselleck-Vision **nicht** in den Antrag schreiben als "wir wissen schon, wie es ausgeht". Der Kern des Programms ist das echte Risiko der Forschung. Reviewer suchen nach: ungewöhnlicher Frage, eigenständigem Methodenmix, Pivotfähigkeit.
+- Person-Kapitel des Antrags ist regelmäßig wichtiger als der Inhalt: Lebenslauf, Drittmitteleinwerbung, Mentorate, Auszeichnungen. Wer keine starke Spur hat, sollte Reinhart Koselleck nicht beantragen.
+- Kooperationen klar abgrenzen: was zum geförderten Vorhaben gehört (geförderter Personalkörper, Geräte) vs. was Kooperationspartner bereits aus eigener Finanzierung beitragen. Sonst Doppelförderungs-Vorwurf.
+
+## Trade-off: Reinhart Koselleck vs. Sachbeihilfe + größeren Antrag
+
+| Pfad | Vorteil | Nachteil |
+|---|---|---|
+| Reinhart Koselleck | hohe Summe, lange Laufzeit, Reputation | geringe Erfolgsquote, Mündlichkeit über Person |
+| 2-3 sequentielle Sachbeihilfen | höhere Erfolgsquote pro Antrag, ggf. mehr Volumen kumuliert | mehr Antragsschreiben-Aufwand |
+| SFB / SPP-Teilprojekt | strukturierte Förderung, Bundesweite Vernetzung | nur als Teilbaustein in größerem Verbund |
+
+Empfehlung: Reinhart Koselleck nur, wenn die Person bereits 2-3 erfolgreiche Sachbeihilfen + sichtbare Reputation hat.
+
+## Typische Fehler
+
+- Koselleck-Antrag von Nachwuchsforschenden ohne nachgewiesenes Risikoforschungsprofil - keine Chance.
+- "Risiko" wird als methodisches Risiko (Pilotcharakter, Rohdaten) dargestellt statt als inhaltliches Hypothesenrisiko.
+- Kooperationen werden nicht klar abgegrenzt; DFG vermutet Doppelförderung.

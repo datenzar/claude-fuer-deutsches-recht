@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik berufsrechtskonforme E-Mail
+- Mandantenkommunikation → § 43a Abs. 2 BRAO Verschwiegenheit; § 2 BORA Konkretisierung; sichere Übermittlung.
+- Gegnerkorrespondenz → Sachlichkeit § 43a Abs. 3 BRAO; keine Drohungen ohne legitimen Bezug.
+- Behörden/Gerichtskommunikation → beA verpflichtend für RA (§ 31a Abs. 6 BRAO, § 130d ZPO).
+- Werbung → § 43b BRAO, §§ 6-7a BORA; sachlich, informativ, kein reklamehafter Charakter.
+- Anbahnung Mandat → keine berufswidrige Anbahnung (§ 43b BRAO); kein Mandat ohne Mandatsannahme-/Vergütungsvereinbarung.
+- Cross-Border → CCBE-Berufsregeln; EU-RL Anwaltsdienstleistung; insb. Disclosure-Pflichten auch im Ausland respektieren.
+- Geldwäsche → §§ 2, 4 GwG; bei "Katalogtätigkeiten" Identifizierungspflicht und Anzeige bei Verdachtsmoment.
+
+## Praxis-Hinweis
+- BGH/Anwaltsgericht ständige Rspr. zur Verschwiegenheitspflicht; bei Mandantengeheimnis-Verstoß droht auch Strafverfahren nach § 203 StGB.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -21,6 +21,25 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Vergleich Commercial Chamber (LG) versus Commercial Court (OLG)
+
+| Punkt | Commercial Chamber beim Landgericht | Commercial Court beim Oberlandesgericht |
+| --- | --- | --- |
+| Rechtsgrundlage | §§ 95, 184a GVG, jeweilige Landesverordnung | § 119b GVG (eingeführt durch Justizstandort-Stärkungsgesetz), Landesverordnung |
+| Instanz | erste Instanz Landgericht | erste Instanz Oberlandesgericht |
+| Streitwertschwelle | typischerweise wie LG §§ 23, 71 GVG | regelmäßig ab 500.000 EUR (Landesvorgabe) |
+| Berufung | Berufung zum OLG (§ 511 ZPO) | Revision zum BGH § 184b GVG (kein OLG-Zwischenschritt) |
+| Sprache | Englisch zulässig (§ 184a GVG) | Englisch zulässig (§ 184a GVG); BGH-Revision auf Englisch erstmals möglich |
+| Wortprotokoll | auf Antrag (§ 613 ZPO Justizstandort-Stärkungsgesetz) | dito |
+| Geheimhaltung | § 273a ZPO Vertraulichkeitsanordnung | § 273a ZPO |
+| Zielmandat | Mid-Cap-Streitwerte, klassische B2B-Wirtschaftssachen | Big-Tech-, M&A-, Mega-Mandate; "deutsche Antwort auf NCC, Paris, Singapore" |
+
+### Strategie-Trade-off
+
+- **Commercial Court (OLG, erstinstanzlich):** spart Instanz, aber kein zweiter Tatsachenrechtszug. Wer auf Tatsachenfragen baut (z.B. komplexe Verkehrswerte), behält sich mit Commercial Chamber den Berufungszug bei.
+- **Commercial Chamber (LG):** gewohnte Berufung zum OLG; aber zwei Instanzen kosten Zeit (typisch 18-30 Monate bis OLG-Urteil) und Geld.
+- **Schiedsgericht:** Vertraulichkeit höher, aber Vollstreckung im EU-Inland nicht einfacher als deutsches Urteil; Aufhebungsverfahren §§ 1059 ff. ZPO selten erfolgreich.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

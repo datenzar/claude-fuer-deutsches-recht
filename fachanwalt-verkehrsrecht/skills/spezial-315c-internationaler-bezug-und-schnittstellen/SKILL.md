@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Aus
 
 Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **315C**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- § 315c StGB Gefährdung des Straßenverkehrs: konkrete Gefahr für Leib oder Leben eines anderen Menschen oder fremde Sachen von bedeutendem Wert (Schwelle ~1.300-1.500 EUR – OLG-Rspr.); Tatvarianten: Fahruntüchtigkeit (Abs. 1 Nr. 1), grobe Verkehrsverstöße (Abs. 1 Nr. 2 – sieben "Todsünden": Vorfahrt, Überholen, Fußgängerüberweg, schnelles Fahren, Rechtsfahren, Wenden/Rückwärts, liegenbleibendes Fahrzeug).
+- § 316 StGB Trunkenheit im Verkehr: ohne konkrete Gefahr; ab 1,1 Promille BAK absolute Fahruntüchtigkeit (BGH ständige Rspr.); ab 0,3 Promille mit Fahrunsicherheitsindiz relative Fahruntüchtigkeit.
+- § 142 StGB unerlaubtes Entfernen vom Unfallort: nicht "Fahrerflucht" – Tatbestand verlangt Unfall, Vorsatz und unerlaubtes Entfernen ohne Feststellungs­ermöglichung; § 142 Abs. 4 StGB tätige Reue bis 24 Stunden (außer Personenschaden).
+- Rechtsfolgen: bei § 315c, § 316, § 142 StGB Regelvermutung § 69 Abs. 2 StGB für Fahrerlaubnis­entzug.
+- Internationale Bezüge: EU-Führerschein Anerkennung (RL 2006/126/EG, FeV § 28); bei Auslandstaten § 6 StGB (Weltrechtsprinzip greift bei Verkehrsstrafrecht nicht), § 7 StGB (Auslandstaten gegen Deutsche / Deutscher Täter).
+- Praxis-Tipp: Bei § 315c StGB Schwellenwert "bedeutender Wert" sorgfältig prüfen (Sachverständigen­gutachten zur Schadenshöhe). Bei § 142 StGB die 24-Stunden-Frist für tätige Reue (§ 142 Abs. 4 StGB) sofort mit Mandant durchgehen – wenn noch im Fenster, unverzüglich Polizei melden lassen, um Strafmilderung oder Absehen zu erreichen. Schnittstelle Versicherer: bei vorsätzlichem § 142 StGB Regress­drohung nach AKB.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

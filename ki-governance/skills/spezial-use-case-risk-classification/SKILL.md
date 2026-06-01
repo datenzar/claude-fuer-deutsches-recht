@@ -26,6 +26,34 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 4. **Risikoampel:** Ergebnis in Grün/Gelb/Rot mit Begründung, Unsicherheiten und Beweisbedarf einordnen.
 5. **Anschluss:** Passende weitere Skills desselben Plugins vorschlagen, wenn Spezialprüfung, Schriftsatz, Tabelle, Brief oder Verhandlungsstrategie sinnvoll ist.
 
+## KI-VO-Klassifizierungslogik (VO (EU) 2024/1689)
+- **Verboten (Art. 5 KI-VO, gilt ab 02.02.2025)**: u. a. Social Scoring durch öffentliche Stellen, manipulative Techniken, biometrische Kategorisierung nach sensiblen Merkmalen, Echtzeit-Fernidentifikation im öffentlichen Raum.
+- **Hochrisiko (Art. 6 i. V. m. Anhang III, gilt ab 02.08.2026)**: u. a. Bildung, Beschäftigung (Recruiting, Performance), kritische Infrastruktur, Strafverfolgung, biometrische Identifikation, Migration, Justiz und demokratische Prozesse, Gesundheits-/Lebensversicherungs-Risikoscoring.
+- **Begrenztes Risiko mit Transparenzpflicht (Art. 50)**: Chatbots, Emotionserkennung, biometrische Kategorisierung, Deepfakes.
+- **Minimales Risiko**: alle übrigen Systeme.
+
+## Schnittstelle zur DSGVO
+- **Art. 35 DSGVO DSFA** ist regelmäßig erforderlich, wenn Hochrisiko-KI-VO-System personenbezogene Daten verarbeitet.
+- **Art. 22 DSGVO** Verbot automatisierter Einzelentscheidungen mit rechtlicher Wirkung; Ausnahmen (Vertragserfordernis, Einwilligung, gesetzliche Erlaubnis) erfordern menschliche Aufsicht.
+- **Art. 27 KI-VO**: Folgenabschätzung für Grundrechte durch Betreiber (Fundamental Rights Impact Assessment, FRIA) zusätzlich zur DSGVO-DSFA.
+
+## Klassifizierungs-Trade-offs
+- "Empfehlungssystem im HR" — meistens **Hochrisiko** nach Anhang III Nr. 4 ("Beschäftigung, Personalverwaltung").
+- "Reiner Übersetzer" mit Kundendaten — typischerweise **minimales Risiko**, aber DSGVO-Schiene voll relevant.
+- "RAG-System mit Mandantenakten in Kanzlei" — kein KI-VO-Hochrisiko, aber Berufsrecht und § 203 StGB greifen.
+- "Foundation Model intern aufgesetzt" — als GPAI nach Art. 51 ff. KI-VO eigene Kategorie, ab 10²⁵ FLOP systemisches Risiko.
+
+## Output für Inventar
+- Use-Case-ID, Kurzbeschreibung, Geschäftsbereich
+- KI-VO-Klassifizierung mit Norm und Begründung
+- DSGVO-Rechtsgrundlage Art. 6, ggf. Art. 9
+- Rolle (Anbieter Art. 3 Nr. 3 vs. Betreiber Art. 3 Nr. 4)
+- Status DSFA, FRIA
+- Verantwortliche Person und Review-Frist
+
+## Trade-off
+Frühzeitige sorgfältige Klassifizierung ist günstiger als spätere Reklassifizierung; ein als "minimal" eingestuftes System, das später als Hochrisiko erkannt wird, erzwingt nachträgliche Konformitätsbewertung (Art. 43 KI-VO), Logging-Aufbau (Art. 12) und technische Dokumentation (Art. 11) — oft mit Marktrückzug oder kostspieliger Anpassung.
+
 ## Output-Standard
 - Kurzbild in fünf Sätzen: Lage, Ziel, Frist, Risiko, nächster Schritt.
 - Prüfmatrix mit Punkt, Norm/Quelle, Tatsachen, Beleg, Bewertung, To-do.

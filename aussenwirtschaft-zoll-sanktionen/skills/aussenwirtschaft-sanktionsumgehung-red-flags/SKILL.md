@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Sanktionsumgehung Red Flags. Fuehrt durch In
 
 Dieser Skill behandelt **Sanktionsumgehung Red Flags** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (Umgehung)
+- Rechtsgrundlage: Art. 12 VO 833/2014 (RU-Umgehungsverbot, "Wissentlich und vorsätzlich"), Art. 12a (Pflicht zu Compliance-Maßnahmen für EU-Unternehmen mit Tochterunternehmen in Drittstaaten), Art. 8a (Sorgfaltspflicht im Lieferweg). § 18 Abs. 5 AWG (Strafbarkeit Umgehung).
+- Typische Red Flags (BAFA, BMWK, OFAC, OFSI Common High Priority Items Liste): Bestellung über ungewöhnliche Drittländer (z. B. Türkei, VAE, Armenien, Kasachstan, Kirgisistan, Serbien, China für RU-bezogene Güter), neue Briefkastenfirmen, fehlende technische Begründung, ungewöhnliche Zahlungsstrukturen (Kryptowährung, Mehrfach-Splitting, Bar), Speditionswege mit Umladungen, Endverwender ohne Geschäftsmodell, plötzliche Bestellmengensteigerung, Lieferung an "Trade Hub"-Adressen.
+- Common High Priority Items: 9 HS-Kategorien (Mikroelektronik, GPS-Module, Lager, Maschinenwerkzeuge etc.) — bei Drittland-Transit besonders strenge KYC-Pflichten der EU-Kommission und BAFA-FAQ.
+- Sorgfaltspflichten: dokumentiertes End-User-Statement, IIC (International Import Certificate), Wedelverbot via Vertragsklauseln (No-Russia-Clause Art. 12g VO 833/2014), nach Lieferung Wieder­ausfuhrverbot überwachen.
+- Praktiker-Tipp: Bei zwei oder mehr Red Flags Hold-Status; vor Freigabe vertiefte Due-Diligence (Internet-Recherche Endverwender, Telefonkontakt mit Werk, Auszug aus Handelsregister Drittland, ggf. externe Dienstleister). Bei begründetem Verdacht Catch-all-Anfrage BAFA und ggf. freiwillige Offenlegung (§ 22 Abs. 4 AWG); strikte Aufzeichnung in Audit-Trail mit Owner/Zeitstempel.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

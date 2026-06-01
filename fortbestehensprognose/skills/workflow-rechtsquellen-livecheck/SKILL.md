@@ -33,3 +33,26 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Quellen für Fortbestehensprognose
+- **Gesetze (gesetze-im-internet.de):**
+  - § 19 InsO Überschuldung — Fortbestehensprognose als Tatbestandsmerkmal, Prognosezeitraum **12 Monate** (seit SanInsFoG, ab 2021; während Pandemie temporär verlängert auf bis zu 4 Monate Sonderregelung).
+  - § 18 InsO drohende Zahlungsunfähigkeit — Prognosezeitraum **24 Monate**.
+  - § 15a InsO Antragspflicht.
+  - § 252 Abs. 1 Nr. 2 HGB Going-Concern-Annahme im Jahresabschluss.
+- **Standards (IDW):**
+  - **IDW EPS 11 (Beurteilung des Vorliegens von Insolvenzeröffnungsgründen):** Methodik zur Fortbestehensprognose, einschließlich Sensitivitätsanalysen.
+  - **IDW S6 (Standard für Sanierungskonzepte):** integrierte Sanierungsplanung, GuV/Bilanz/Cashflow auf 3 Jahre.
+  - **IDW S2 (Bescheinigung der Eigenverwaltungsplanung):** für § 270a InsO.
+  - **IDW S9 (besondere Pflichten bei Krise):** für Berater und Wirtschaftsprüfer.
+  - **IDW ES 11 (drohende Zahlungsunfähigkeit):** Spezifikation.
+- **Wirtschaftsprüfer-Berufsverlautbarungen:** Stand jeweils prüfen — IDW-Standards werden regelmäßig fortgeschrieben.
+
+## Rechtsprechung (verifizierungspflichtig)
+- BGH-Linie zur **zweistufigen Überschuldungsprüfung**: rechnerische Überschuldung + Fortbestehensprognose; bei positiver Prognose keine Überschuldung trotz negativem Eigenkapital.
+- BGH-Linie zur **überwiegenden Wahrscheinlichkeit**: Maßstab ist „eher zustimmend als ablehnend", quantitativ > 50 Prozent — Az. zu verifizieren.
+- BGH zur **Geschäftsführerhaftung § 64 GmbHG a.F. / § 15b InsO**: ex-ante-Sicht entscheidet, dokumentierte Prognose haftungsabschirmend.
+
+## Anti-Halluzinations-Hinweise
+- Keine erfundenen IDW-Standard-Nummern. IDW S2, S6, S9, S11 sind real; höhere Zahlen prüfen.
+- Prognosezeitraum **12 Monate** für § 19 InsO ist **nicht** mit Prognosezeitraum für § 18 InsO (24 Monate) zu verwechseln.

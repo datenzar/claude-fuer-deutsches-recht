@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen WHG
+- **Geltungsbereich (§§ 1-3 WHG):** Oberirdische Gewässer, Küstengewässer, Grundwasser. Bewirtschaftungsziele: guter ökologischer und chemischer Zustand (§ 27 WHG); Grundwasser: guter chemischer und mengenmäßiger Zustand (§ 47 WHG).
+- **Benutzungspflicht der Erlaubnis (§ 8 WHG):** Wer Wasser entnimmt, einleitet oder aufstaut, braucht behördliche Erlaubnis (§ 10 WHG) oder Bewilligung (§ 14 WHG). Bewilligung gewährt stärkere Rechtsposition (befristet bis 30 Jahre, § 14 Abs. 2 WHG).
+- **Bewirtschaftungsermessen (§ 12 WHG):** Versagung der Erlaubnis nur bei drohenden schädlichen Gewässerveränderungen oder Verstoß gegen WHG-Ziele. Anspruch auf Erlaubnis besteht nicht.
+- **Indirekteinleitung (§ 58 WHG i.V.m. AbwV):** Einleitung gefährlicher Stoffe in öffentliche Abwasseranlagen erfordert Genehmigung; Indirekteinleiter trägt Verantwortung für Vorbehandlung.
+- **Anlagenpflichten (§§ 62, 63 WHG):** Anlagen zum Umgang mit wassergefährdenden Stoffen (z. B. Heizöltanks, Chemielager) unterliegen AwSV (Anlagenverordnung wassergefährdende Stoffe); Anzeige- und Prüfpflichten je nach Gefährdungsstufe.
+- **Wasserrahmenrichtlinie (WRRL):** Umsetzung in §§ 27-31 WHG; Verschlechterungsverbot und Verbesserungsgebot mit ggf. weitreichenden Folgen für Genehmigungspraxis (EuGH-Rspr. zur Weservertiefung als Leitlinie).
+- **Sanierungspflicht (§ 4 BBodSchG i.V.m. § 90 WHG):** Bei Gewässerverunreinigung gilt Verursacherprinzip; auch Grundstückseigentümer kann nach § 4 Abs. 3 BBodSchG in Anspruch genommen werden (Zustandshaftung).
+- **Schadensersatz (§ 89 WHG):** Verschuldensunabhängige Gefährdungshaftung für Inhaber von Anlagen mit wassergefährdenden Stoffen; Pflicht zur Versicherung nicht zwingend, in der Praxis aber wirtschaftlich erforderlich.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

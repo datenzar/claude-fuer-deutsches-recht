@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## JVEG-Fristen und Risikoampel
+- **§ 2 Abs. 1 JVEG — Erlöschen:** Antrag binnen 3 Monaten nach Auftragsbeendigung schriftlich beim Gericht. Ampel ROT, wenn Frist abgelaufen — Anspruch ist erloschen, keine Wiedereinsetzung außer enge Ausnahmen (§ 224 Abs. 2 ZPO entsprechend).
+- **§ 4 Abs. 3 JVEG — Beschwerde:** 2 Wochen ab Festsetzungsentscheidung, Beschwerdewert über 200 EUR. Ampel GELB bei knappem Wert oder Fristnähe.
+- **§ 8a JVEG Kürzung / Wegfall:** Bei mangelhaftem Gutachten, verspäteter Ablieferung oder Falschangaben Kürzung möglich. Risiko-Faktor: Gericht entscheidet von Amts wegen oder auf Antrag.
+- **§ 12 JVEG Vorschuss:** Vorschuss vor Tätigkeit beantragen; bei Nichtbewilligung Tätigkeitsablehnung möglich.
+- **Risikofaktoren:** unvollständige Belege (§ 7 JVEG Nachweis Fahrtkosten), uneinheitliche Stundensätze, Sachverständigentyp nicht passend zur Honorargruppe, fehlender Zeitnachweis (§ 8 Abs. 1 Nr. 1 JVEG Aufzeichnungspflicht).
+- Falle: § 2 Abs. 1 JVEG-Frist mit der Anspruchsverjährung (§ 195 BGB drei Jahre) verwechseln — JVEG-Frist ist 3 Monate, nicht 3 Jahre.

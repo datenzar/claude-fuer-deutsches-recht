@@ -26,6 +26,39 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Verhandlungspunkte Gesellschaftsvertrag (Heatmap)
+
+| Themenblock | Kernfrage | Typische Stolperfalle |
+| --- | --- | --- |
+| Geschäftsführungsbefugnis | Einzel- versus Gesamtvertretung; Innenverhältnis Geschäftsverteilung | § 35 Abs. 2 GmbHG: Vertretung außen einheitlich; HR-Eintragung muss exakt sein |
+| Stimmrecht und Mehrheiten | einfach, 3/4, einstimmig; Sperrminorität ab 25 % | § 47 GmbHG; abweichende Regelung in Satzung möglich |
+| Beschlusskatalog | welche Maßnahmen ausschließlich GV-Versammlung? | "Ungewöhnliche Geschäfte" § 49 Abs. 2 GmbHG meist erweitert |
+| Vorkaufs- und Andienungsrechte | Veräußerung Anteile § 15 GmbHG; tag-along, drag-along | strenge Form nötig |
+| Vinkulierung | Zustimmungsbedürftige Anteilsübertragung | § 15 Abs. 5 GmbHG, Vinkulierung |
+| Einziehung | bei Insolvenz, Pfändung, Tod, wichtigem Grund | §§ 34, 43 GmbHG; "kalte Einziehung" anfällig |
+| Wettbewerbsverbote Gesellschafter | dauerhafte und nachvertragliche Verbote | § 3a GWB / kartellrechtliche Grenzen |
+| Gewinn und Verlust | Disquotale Verteilung möglich (Steuer beachten) | bei verdeckter Gewinnausschüttung § 8 Abs. 3 Satz 2 KStG |
+| Nachschüsse | beschränkte oder unbeschränkte Nachschusspflicht | §§ 26, 27 GmbHG, satzungsmäßig zwingend |
+| Schiedsklausel | DIS, ICC oder ordentliches Gericht? | Bei Beschlussmängelklage BGH ständige Rechtsprechung: gesondertes Schiedsverfahren möglich, aber "Schiedsfähigkeit II"-Anforderungen einhalten |
+| Hinauskündigungsklauseln | "Hinauskündigung zur freien Entscheidung der Mehrheit" | grundsätzlich unwirksam (BGH ständige Rechtsprechung; Ausnahmen Manager-Modell) |
+| Bewertungsregeln Abfindung | Verkehrswert versus Substanzwert versus IDW S1 | § 738 BGB als gesetzliche Default-Regel; Klauseln dürfen nicht sittenwidrig niedrig sein |
+
+## Trade-off und Eskalationsstufen
+
+| Stufe | Mittel | Norm/Praxis |
+| --- | --- | --- |
+| 1. Mediation | unverbindlich, kostengünstig, vertraulich | Mediationsgesetz; oft Mediationsklausel im Vertrag |
+| 2. Gesellschafterversammlung | Auseinandersetzung im inneren Gremium | § 48 GmbHG; ggf. Protokoll Notar |
+| 3. Anwaltliche Anzeige Pflichtverstoß | Treuepflicht-Verstoß § 705 BGB, § 13 GmbHG | Beweissicherung |
+| 4. Beschlussmängelklage | analoge Anwendung §§ 241 ff. AktG (BGH ständige Rechtsprechung) | grundsätzlich Monatsfrist |
+| 5. Ausschluss / Einziehung | wichtiger Grund § 34 GmbHG | Risiko: Ausschlussbeschluss ohne wichtigen Grund nichtig |
+| 6. Auflösungsklage | § 61 GmbHG | letzte Eskalationsstufe |
+| 7. Gerichtliches Anteilsbewertungsverfahren | Schiedsklausel oder Schiedsgutachter | sehr lange Dauer |
+
+## Praktiker-Tipp
+
+Bei Gründung "Exit-Klauseln" mitdenken: Russian-Roulette, Texas Shootout, Dutch Auction, Drag-Along, Tag-Along. Diese Klauseln sind sehr klauselsensibel — bei zu hartem "Russian Roulette" droht Sittenwidrigkeit § 138 BGB. Lieber Dutch Auction (Bieterverfahren) als gerechte Alternative.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

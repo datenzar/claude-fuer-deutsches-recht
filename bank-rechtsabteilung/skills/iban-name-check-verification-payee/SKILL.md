@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## VoP/IBAN-Name-Check-Spezifika
+- Rechtsgrundlage: VO (EU) 2024/886 (Instant-Payments-VO) Art. 5c und 5d — Pflicht zur Verification of Payee (Name-IBAN-Abgleich) für SEPA-Überweisungen und SCT Inst, Inkrafttreten gestaffelt (Euro-Zone-PSPs ab 9.10.2025, andere ab 9.10.2027). EBA-Guidelines on Verification of Payee in Anwendung beachten.
+- Matching-Logik: drei Stufen Treffer/Beinahetreffer/kein Treffer; bei "Match" Übermittlung "OK", bei "Close Match" empfohlener Name, bei "No Match" Warnung. Opt-out durch Zahler nur eingeschränkt (z. B. Stapelzahlungen Firmenkunden); Aufzeichnungspflicht.
+- Haftung: bei richtiger VoP-Warnung an Zahler verlagert sich Haftung Richtung Zahler bei abweichender Bestätigung; § 675y BGB-Maßstab beachten — falsche IBAN gilt als ordnungsgemäß ausgeführt, wenn Bank IBAN gebucht hat (§ 675r BGB), unabhängig vom Name-Match.
+- Datenschutz: Verarbeitung Kontoinhaber-Name durch Empfängerbank Art. 6 Abs. 1 lit. c DSGVO (rechtliche Verpflichtung); strenge Zweckbindung, keine Speicherung über Buchungszweck hinaus.
+- Praktiker-Tipp: Warntexte rechtsverständlich (verständliche Sprache, klare Empfehlung; keine Bestätigungsfunktion mit "OK" missbrauchen), Logging Match-Result + Aktion Kunde, Beschwerdemanagement nach § 60 ZAG für VoP-Fehler. Sammelzahlungen (Firmenkunden) gesondert nach Art. 5c Abs. 2 VO 2024/886 regeln.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

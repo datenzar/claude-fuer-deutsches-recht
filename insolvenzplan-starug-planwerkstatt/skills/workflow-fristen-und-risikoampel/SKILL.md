@@ -33,3 +33,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Plan-spezifische Ampel-Trigger
+- **ROT — sofort handeln:**
+  - StaRUG-Plan, aber Schuldner bereits zahlungsunfähig § 17 InsO oder überschuldet § 19 InsO → StaRUG fällt weg (§ 33 Abs. 2 Nr. 1 StaRUG, Aufhebung Restrukturierungssache), Antragspflicht § 15a InsO!
+  - Insolvenzplan: Erörterungstermin § 235 InsO steht, Stellungnahmen § 232 InsO fristgebunden.
+  - StaRUG: gerichtliche Planabstimmung § 23 StaRUG vorbereiten; Stabilisierungsanordnung § 49 StaRUG befristet auf 3 Monate, Verlängerung max. auf 8 Monate.
+- **GELB — Fristen laufen:**
+  - Forderungsanmeldung § 174 InsO Anmeldefrist beachten — Plan baut auf Tabelle auf.
+  - Planvorlagepflicht § 218 Abs. 2 InsO bei Auftrag durch Gläubigerversammlung.
+  - StaRUG-Anzeige § 31 StaRUG: 6 Monate ohne Plan → Rücknahme-Pflicht.
+- **GRÜN — Vorbereitung:**
+  - IDW S6-Sanierungskonzept als Basis für darstellenden Teil.
+  - Klassenbildung § 222 InsO / § 9 StaRUG sauber dokumentieren.
+
+## Plan-spezifische Risiken
+- **Minderheitenschutz:** Insolvenzplan § 251 InsO (Schlechterstellungstest gegenüber Regelverfahren), StaRUG § 64 StaRUG (Schlechterstellungstest gegenüber Best-Alternative-to-Negotiated-Agreement / Nicht-Plan-Szenario).
+- **Cross-Class Cram-Down:** StaRUG §§ 26–28 StaRUG verlangt absolute Vorrangregel (§ 27 StaRUG) — Eigenkapital nur, wenn Gläubiger voll bedient oder zustimmen.
+- **Steuerlich:** Sanierungsgewinn § 3a EStG (gerichtsbestätigter Insolvenzplan, gerichtsbestätigter Restrukturierungsplan oder vergleichbare Sanierung) — frühzeitig Lohnsteuerhilfe/Steuerberater einbinden.

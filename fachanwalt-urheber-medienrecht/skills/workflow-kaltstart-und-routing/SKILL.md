@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Urheber-/Medienrecht
+- Urheberrechtsverletzung Online → §§ 97 ff. UrhG; Unterlassung, Schadensersatz (Lizenzanalogie, MFM-Tabellen), Auskunft § 101 UrhG.
+- Persönlichkeitsrechtsverletzung Online → §§ 823 Abs. 1, 1004 BGB analog iVm Art. 1, 2 GG; Geldentschädigung bei schwerer Verletzung.
+- Filesharing → Tatsächliche Vermutung Anschlussinhaber, sekundäre Darlegungslast (BGH ständige Rspr. Loud, Tauschbörse-Reihe).
+- Bildrechte Personen → §§ 22, 23 KUG (Recht am eigenen Bild).
+- Gegendarstellung → LPresseG/MStV; sofortige Veröffentlichungspflicht bei zulässiger Gegendarstellung.
+- Plattformhaftung → DSA (VO 2022/2065) seit Februar 2024 unmittelbar anwendbar; Stellungnahmepflichten, Notice-and-Action.
+- Rundfunkrecht → MStV, JMStV, Landesmedienanstalten.
+
+## Praxis-Hinweis
+- BGH "Cassandra/Loud" und Folgeentscheidungen formen ständige Rspr. zur Anschlussinhaber-Haftung. Keine erfundenen Az. nutzen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

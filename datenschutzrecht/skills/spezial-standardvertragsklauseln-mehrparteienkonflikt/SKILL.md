@@ -26,6 +26,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## SCC-Module richtig wählen
+Standardvertragsklauseln 2021 (Durchführungsbeschluss (EU) 2021/914) kennen vier Module:
+- **Modul 1 — Controller-Controller**: Datenexporteur und -importeur jeweils eigenverantwortlich.
+- **Modul 2 — Controller-Processor**: Klassischer AVV mit Drittlandsanker.
+- **Modul 3 — Processor-Processor**: Sub-Auftragsverarbeiter-Kette; Hauptverantwortlicher bleibt der ursprüngliche Verantwortliche.
+- **Modul 4 — Processor-Controller**: Selten, etwa bei Rückübertragung an Kundenverantwortlichen.
+
+Mehrere Module dürfen nicht gemischt werden; pro Datenfluss exakt ein Modul.
+
+## Mehrparteienkonflikt typisch
+- **Konzernkonstellation**: Mutter EU-Controller, Tochter US-Processor, weiterer indischer Sub-Processor. Pro Strecke separate SCC oder Docking Clause (Klausel 7 SCC) nutzen, damit beitretende Parteien ohne Neuverhandlung andocken.
+- **Haftungsdurchgriff**: Klausel 12 SCC sieht volle gesamtschuldnerische Haftung des Importeurs gegenüber Betroffenen vor; Regress intern ist offen und sollte vertraglich geregelt werden.
+- **Konflikt mit BCR**: Wenn beide Parteien BCR haben, ist parallele SCC entbehrlich; nicht doppelt instrumentieren.
+
+## Trade-off
+SCC bringen Standardisierung, aber starre Klauseln. Bei sensiblen Daten oder hohem TIA-Risiko sind ergänzende technische Maßnahmen (Verschlüsselung, Split-Processing) oft entscheidender als die vertragliche Schicht.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

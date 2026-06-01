@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Erbrecht
+- Erbschein-Antrag → §§ 2353 ff. BGB, FamFG-Antrag beim Nachlassgericht; Erklärung an Eides statt § 2356 BGB.
+- Pflichtteilsstreit → Auskunfts- und Wertermittlungsanspruch § 2314 BGB, Stufenklage § 254 ZPO.
+- Testamentsanfechtung → §§ 2078 ff. BGB; Frist § 2082 BGB (ein Jahr).
+- Erbauseinandersetzung → §§ 2042 ff. BGB; Teilungsklage erst nach Auseinandersetzungsplan.
+- Internationaler Bezug → EU-ErbVO (VO 650/2012), gewöhnlicher Aufenthalt als Anknüpfung (Art. 21), Rechtswahl Art. 22.
+- Steuer-Schnittstelle: ErbStG-Freibeträge §§ 16, 17 ErbStG; § 13 ErbStG Privilegierungen Familienheim.
+
+## Praxis-Hinweis
+- Der BGH judiziert in ständiger Rechtsprechung zur Auslegung von Testamenten den Vorrang des Erblasserwillens; keine erfundenen Az. nutzen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

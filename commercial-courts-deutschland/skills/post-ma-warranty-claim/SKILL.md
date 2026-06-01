@@ -21,6 +21,29 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Post-M&A Warranty Claim — Prüfraster
+
+| Schritt | Inhalt | Norm/SPA-Bezug |
+| --- | --- | --- |
+| 1. Notice-Frist | im SPA meist 30-60 Tage ab Kenntnis; absolute Survival meist 18-24 Monate für General Warranties, 5-7 Jahre für Tax/Fundamental | § 437 BGB als gesetzliches Pendant; Vertragsfrist hat Vorrang |
+| 2. Notice-Inhalt | Anspruchsgrundlage (Garantienennung), Sachverhalt, Höhe (Bandbreite), Anlagen | Vertragsanforderungen strikt einhalten |
+| 3. Knowledge-Qualifier | "to the Seller's Knowledge" — Personenkreis genau bestimmen (Disclosure Schedule, Drittwissen?) | typischer Streitpunkt: Wissen vs. Wissenmüssen |
+| 4. Disclosure Letter | hat Garantie qualifiziert? "Disclosed Matters" entlasten Verkäufer | Lex specialis vor Garantietext |
+| 5. Baskets (De-minimis & Threshold) | Bagatellsumme einzeln (z.B. 50.000 EUR), Gesamtschwelle (z.B. 1 Mio. EUR) | Tipping-Basket versus Excess-Basket prüfen |
+| 6. Cap | Haftungsobergrenze meist 10-20 % des Kaufpreises | Fundamental: 100 %, Tax: 100 %, General: limitiert |
+| 7. Schadenberechnung | direkter Schaden / lost profits / consequential damages — was deckt SPA? | § 252 BGB i.V.m. § 249 BGB als gesetzlicher Maßstab, oft contractually limited |
+| 8. W&I-Versicherung | parallelle Meldung Versicherer, Tail-Coverage einhalten | Underwriting-Liste mit Ausschlüssen prüfen |
+| 9. Mitigationspflicht | § 254 BGB i.V.m. SPA-Klausel; Käufer muss Schaden minimieren | Beweislast trägt Verkäufer |
+| 10. Verjährung | Vertragslaufzeit (Survival) versus § 195 BGB drei Jahre | Vertragslaufzeit ist meist Ausschlussfrist, nicht Verjährung |
+| 11. Earn-Out und Locked-Box | parallele Anpassungsstreitigkeiten | § 315 BGB Leistungsbestimmung, Expert Determination |
+| 12. Streitbeilegung | SPA-Klausel: Schiedsgericht oder Commercial Court? | § 1029 ZPO versus § 119b GVG / §§ 184a GVG |
+
+### Trade-off Settlement versus Litigation
+
+- **Vorzeitiges Settlement:** spart Kosten und Reputation; aber kostet auch Recht auf weitere Claims.
+- **Litigation:** in Deutschland kostengünstig, aber langsam (oft 2-4 Jahre bis OLG-Urteil).
+- **W&I-Versicherer:** drängt häufig auf Vergleich vor mündlicher Verhandlung; Mandant muss Verzichtserklärungen aufmerksam prüfen.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

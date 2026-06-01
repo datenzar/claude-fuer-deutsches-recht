@@ -41,6 +41,43 @@ Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
 3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
+## Fachpruefraster Anwendbares Recht und Gerichtsstand
+
+### Rechtswahl (Rom I-VO bei Schuldvertraegen, Rom II-VO bei aussevertraglichen Anspruechen)
+
+- **Rom I-VO Art. 3:** Vertragsparteien koennen frei das anwendbare Recht waehlen. Bei NDA in B2B-Konstellation: deutsches Recht ist Marktstandard.
+- **Rom I-VO Art. 6 (Verbrauchervertraege):** Bei NDA mit Verbraucher dessen Aufenthaltsrecht zwingend; Schutz nicht entziehbar.
+- **Rom I-VO Art. 9 (Eingriffsnormen):** Bestimmte zwingende Vorschriften des Forum-Staates greifen unabhaengig von der Rechtswahl (z.B. Kartellrecht).
+- **GeschGehG:** Anwendbarkeit haengt vom anwendbaren Recht ab; Schutzwirkung ist europarechtlich harmonisiert (RL 2016/943), aber konkrete Anspruchsdurchsetzung folgt nationalem Recht.
+
+### Gerichtsstand (Brüssel Ia-VO 1215/2012)
+
+- **Art. 25 Brüssel Ia-VO:** Gerichtsstandsvereinbarung im B2B grundsaetzlich frei; Schriftform oder schriftform-gleichwertige Form erforderlich.
+- **Art. 17 ff. Brüssel Ia-VO:** Bei Verbrauchervertraegen: nur Klage am Wohnsitz des Verbrauchers; Gerichtsstandsklauseln zugunsten des Unternehmers regelmaessig unwirksam.
+- **Ausschliesslicher vs. nicht-ausschliesslicher Gerichtsstand:** Marktstandard ist ausschliesslich. Bei Asymmetrie (Klagende Partei waehlt, Beklagte muss am eigenen Sitz klagen) Vorsicht: kann nach Rechtsprechung problematisch sein.
+- **Commercial Courts:** Seit Inkrafttreten des Gesetzes zur Staerkung der Gerichte in Wirtschaftsstreitigkeiten gibt es spezialisierte Commercial Courts an deutschen OLG (z.B. Hamburg, Stuttgart, Frankfurt) mit Englisch als Verfahrenssprache. Fuer hochwertige internationale Vertraege empfehlenswert.
+
+### Einstweiliger Rechtsschutz
+
+- **§ 935, § 940 ZPO:** Einstweilige Verfuegung ist haeufig wichtigste Durchsetzungsform bei NDA-Verletzung (Unterlassungsanspruch).
+- **Eilbeduerftigkeit:** Bei NDA-Verletzung regelmaessig binnen 4-6 Wochen nach Kenntnis Antrag stellen, sonst Dringlichkeitsvermutung gefaehrdet (OLG-Rechtsprechung uneinheitlich).
+- **Gerichtsstandsklausel:** Schliesst grundsaetzlich nicht den allgemeinen Gerichtsstand fuer einstweilige Massnahmen aus (Art. 35 Brüssel Ia-VO erlaubt Massnahmen am Ort der Vollziehung).
+
+### Schiedsklausel (ICC, DIS, LCIA)
+
+- **Pro:** Vertraulichkeit des Verfahrens (Schiedsgerichtsverfahren passen besonders zu NDA), internationale Anerkennung (New Yorker Uebereinkommen 1958), Expertise.
+- **Contra:** Hoehere Kosten, Verzoegerung bei einstweiligem Rechtsschutz (sofern nicht explizit zugelassen).
+- **Marktstandard:** DIS (Deutsche Institution fuer Schiedsgerichtsbarkeit) Schiedsregeln 2018; Sitz Frankfurt am Main; Verfahrenssprache Deutsch oder Englisch.
+
+### Praxis-Empfehlung Standardklausel
+
+- **Rein nationale Beziehung B2B:** deutsches Recht, ausschliesslicher Gerichtsstand am Sitz der offenlegenden Partei.
+- **Internationale Beziehung B2B:** deutsches Recht, ICC- oder DIS-Schiedsgerichtsbarkeit am neutralen Sitz, einstweiliger Rechtsschutz vor staatlichen Gerichten zulaessig.
+
+### Mustertext
+
+> Auf diesen Vertrag findet ausschliesslich deutsches Recht Anwendung unter Ausschluss des UN-Kaufrechts (CISG) und der Kollisionsnormen. Ausschliesslicher Gerichtsstand fuer alle Streitigkeiten aus oder im Zusammenhang mit diesem Vertrag ist [Sitz der offenlegenden Partei]. Jede Partei ist berechtigt, einstweilige Massnahmen auch bei einem nach den allgemeinen Vorschriften zustaendigen Gericht zu beantragen.
+
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
 

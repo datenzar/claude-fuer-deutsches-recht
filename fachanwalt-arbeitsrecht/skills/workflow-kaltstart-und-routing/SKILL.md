@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Arbeitsrecht
+- Kündigung erhalten → Drei-Wochen-Frist § 4 KSchG zwingend; Kündigungsschutzklage zum ArbG.
+- AGB-/Vertragsklauseln → §§ 305 ff. BGB, Inhaltskontrolle nach § 307 BGB; Sonderprüfung Ausschlussfristen, Versetzungsklauseln, Bonusregelungen.
+- Betriebsrats-Konflikt → BetrVG; Beschlussverfahren §§ 80 ff. ArbGG vor ArbG.
+- Tarif → § 4 TVG (Geltung), § 5 TVG (Allgemeinverbindlich); Tarifkollision § 4a TVG.
+- AGG-Diskriminierung → Beweislastumkehr § 22 AGG; Indizvortrag genügt.
+- Entgeltgleichheit → EntgTranspG, EU-Lohntransparenz-RL (RL 2023/970, Umsetzung bis 2026).
+
+## Praxis-Hinweis
+- Arbeitsgerichtsbarkeit: in erster Instanz kein Anwaltszwang (§ 11 ArbGG), aber dringend empfohlen wegen Schriftsatzform und Beweisrecht.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

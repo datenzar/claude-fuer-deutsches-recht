@@ -26,6 +26,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Typische Mieteranfragen und Antwortrahmen
+- **Mietminderungsanzeige (§§ 536, 536c BGB):** Mangel muss konkret beschrieben sein; Vermieter darf zur Mangelbeseitigung tätig werden. Ohne Mangelanzeige ist Minderung erst ab Kenntniserlangung des Vermieters möglich. Antwortrahmen: Empfangsbestätigung, Terminvorschlag zur Begutachtung, Zwischenstand bis Mangelbeseitigung.
+- **Modernisierungsankündigung (§ 555c BGB):** Drei Monate vor Beginn schriftlich; Mieter kann Härteeinwand binnen Monatsfrist erheben (§ 555d Abs. 3 BGB). Antwortrahmen bei Mieterrückfrage: Bezug auf Ankündigung, Erläuterung Maßnahmen/Kosten/Mieterhöhung nach § 559 BGB, Härtefallhinweis.
+- **Auskunftsanspruch Belegeinsicht (§ 259 BGB i.V.m. § 556 BGB):** Mieter kann nach Erhalt einer Betriebskostenabrechnung Einsicht in die Belege verlangen. Vermieter muss in zumutbarer Zeit/Ort (in der Regel beim Verwalter vor Ort) Einsicht gewähren; Kopien gegen Erstattung der Kosten.
+- **Untermietanfrage (§ 553 BGB):** Mieter hat Anspruch auf Erlaubnis zur teilweisen Untervermietung bei berechtigtem Interesse (nach Mietvertragsschluss entstanden). Vermieter kann nur aus wichtigem Grund verweigern oder Mietzuschlag verlangen.
+- **Hauseigentümerwechsel (§ 566 BGB):** "Kauf bricht nicht Miete." Erwerber tritt automatisch in laufendes Mietverhältnis ein. Antwortrahmen: Mitteilung des neuen Eigentümers, Zahlung bis Mitteilung an Voreigentümer schuldbefreiend (§ 408 BGB).
+- **Kautionsrückforderung (§ 551 BGB):** Anspruch auf Rückzahlung nach Mietende und Abrechnung. Vermieter darf "angemessene" Zeit (Rspr.: bis sechs Monate) zur Prüfung von Forderungen behalten; konkret bestrittene Schadensersatzansprüche dürfen länger zurückbehalten werden.
+- **Datenschutz (Art. 15 DSGVO):** Mieter hat Auskunftsanspruch über gespeicherte personenbezogene Daten; Vermieter muss innerhalb eines Monats antworten. Bei Hausverwaltung: Vermieter bleibt Verantwortlicher, Verwaltung ist Auftragsverarbeiter (AVV erforderlich).
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

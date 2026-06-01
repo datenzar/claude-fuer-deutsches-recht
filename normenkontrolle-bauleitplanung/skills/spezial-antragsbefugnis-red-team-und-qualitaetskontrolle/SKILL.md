@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Antragsbefugnis (§ 47 Abs. 2 VwGO)
+- **Gesetzlicher Standard:** Antragsbefugnis hat, "wer geltend macht, durch die Rechtsvorschrift oder deren Anwendung in seinen Rechten verletzt zu sein oder in absehbarer Zeit verletzt zu werden" (§ 47 Abs. 2 S. 1 VwGO).
+- **Möglichkeitstheorie:** Antragsteller muss substantiiert darlegen, dass eine Rechtsverletzung möglich erscheint; bloß abstrakte Beeinträchtigung reicht nicht. BVerwG ständige Rspr.: einfache Plausibilität der Beeinträchtigung.
+- **Drittschutz aus Festsetzungen des B-Plans:** Festsetzungen der Art der baulichen Nutzung (BauNVO) sind regelmäßig drittschützend für Grundstückseigentümer im Plangebiet. Festsetzungen über das Maß der Nutzung sind nur dann drittschützend, wenn sie nach Lage und Zweck konkret schutzbedürftige Interessen sichern (Einzelfallprüfung).
+- **Nicht-Plangebietsanlieger:** Nur dann antragsbefugt, wenn nach Lage und Wirkungsweise des Bebauungsplans nachweislich eine konkrete Beeinträchtigung droht (Lärm, Verkehr, Sichtachsen, Verschattung); abstrakte Stadtbildverschlechterung reicht nicht.
+- **Abwägungsbelang als subjektives Recht:** Wer einen abwägungserheblichen Belang nach § 1 Abs. 7 BauGB substantiiert geltend macht, ist auch dann antragsbefugt, wenn die Festsetzung an sich nicht drittschützend ist (BVerwG ständige Rspr. zu "abwägungsfähigen privaten Belangen").
+- **Verbandsklagen:** Anerkannte Umweltvereinigungen über § 64 BNatSchG, UmwRG; keine Verletzung subjektiver Rechte erforderlich.
+- **Präklusion durch Einwendungen:** Wer im Aufstellungsverfahren nichts geltend gemacht hat, kann im Normenkontrollverfahren idR nicht erstmals materielle Einwände vorbringen (§ 47 Abs. 2a VwGO).
+- **Praktiker-Tipp:** Nachbarn sollten frühzeitig im Beteiligungsverfahren konkrete Einwendungen (mit Belegen wie Verkehrsgutachten, Lärmgutachten) einbringen; sonst droht im Normenkontrollverfahren der Erfolg an der mangelnden Antragsbefugnis zu scheitern.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

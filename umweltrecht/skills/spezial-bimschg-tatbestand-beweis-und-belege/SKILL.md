@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen BImSchG
+- **Anwendungsbereich (§§ 1, 3 BImSchG):** Schutz vor schädlichen Umwelteinwirkungen (Luftverunreinigungen, Geräusche, Erschütterungen, Licht, Wärme, Strahlen). Drei Anlagentypen: genehmigungsbedürftige Anlagen (§ 4 BImSchG), nicht genehmigungsbedürftige Anlagen (§ 22 BImSchG), Schiffe/Fahrzeuge (§ 38 BImSchG).
+- **Genehmigungspflicht (§ 4 BImSchG i.V.m. 4. BImSchV):** Anlagen der Spalte 1 und 2 der Anlage 1 zur 4. BImSchV. Schwellenwerte sind anlagenspezifisch (z. B. Schweineställe ab 1.500 Plätzen Spalte 2; Hähnchen ab 30.000 Plätzen Spalte 2). Aufpassen bei Erweiterungs- und Änderungsgenehmigung (§ 16 BImSchG, ggf. § 15 - Anzeige).
+- **Genehmigungsvoraussetzungen (§ 5 BImSchG):** (1) Schutzpflicht: Vorsorge gegen schädliche Umwelteinwirkungen nach dem Stand der Technik; (2) Vorsorgepflicht: Maßnahmen gegen unbillige Belastungen; (3) Abfallvermeidung; (4) Energieeffizienz. Stand der Technik wird im BVT-Schlussfolgerungen (BREF) konkretisiert.
+- **Verfahrensarten:** Förmliches Verfahren mit Öffentlichkeitsbeteiligung (§ 10 BImSchG) für Spalte-1-Anlagen, vereinfachtes Verfahren ohne Öffentlichkeitsbeteiligung (§ 19 BImSchG) für Spalte-2-Anlagen. Bei UVP-Pflicht stets Öffentlichkeitsbeteiligung.
+- **Konzentrationswirkung (§ 13 BImSchG):** Die BImSchG-Genehmigung schließt andere Erlaubnisse ein (z. B. Baugenehmigung), außer wasserrechtliche Erlaubnisse, Planfeststellung, atomrechtliche Genehmigung etc.
+- **Nachträgliche Anordnungen (§ 17 BImSchG):** Behörde kann nachträgliche Anforderungen anordnen, um Umweltrechtsänderungen umzusetzen; bei Hinzukommen schädlicher Umwelteinwirkungen oder Erkenntnisfortschritt.
+- **Klage und Anfechtung:** Drittschutz von Nachbarn nur bei drittschützenden Normen (§ 3 Abs. 1, § 5 Abs. 1 Nr. 1 BImSchG i.V.m. TA Luft/TA Lärm). Klagerecht von Umweltverbänden über UmwRG.
+- **TA Luft / TA Lärm:** Bundesweit verbindliche Verwaltungsvorschriften zur Konkretisierung des § 48 BImSchG; Immissionsrichtwerte z. B. TA Lärm 6 Uhr - 22 Uhr (tags) und 22 Uhr - 6 Uhr (nachts), gebietsabhängig.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

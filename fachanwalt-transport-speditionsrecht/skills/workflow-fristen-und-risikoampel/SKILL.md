@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen Transport-/Speditionsrecht
+- Schadensanzeige Frachtgut nach HGB: bei äußerlich erkennbarem Schaden spätestens bei Ablieferung, bei verdeckten Mängeln binnen sieben Tagen (§ 438 HGB).
+- CMR Art. 30 Abs. 1: bei offensichtlichen Verlusten/Schäden bei Ablieferung; verdeckte binnen sieben Werktagen.
+- CMR Art. 32 Verjährung: ein Jahr ab Ablieferungstermin; drei Jahre bei Vorsatz/grober Fahrlässigkeit.
+- HGB § 439: Verjährung Frachtansprüche ein Jahr; drei Jahre bei Vorsatz/grober Fahrlässigkeit (§ 439 Abs. 1 S. 2).
+- ADR (Gefahrgut): Begleitpapiere zwingend; Bußgelder bei Verstoß sehr hoch.
+- Lieferverzug § 423 HGB: Schadensersatz, aber Haftungsbegrenzung 8,33 SDR/kg (§ 431 HGB).
+
+## Trade-off
+- Haftungshöchstbetrag § 431 HGB / CMR Art. 23: 8,33 SDR/kg gilt nicht bei qualifiziertem Verschulden (§ 435 HGB, Art. 29 CMR). Beweislast für qualifiziertes Verschulden beim Geschädigten — schwer zu führen.
+- Schiedsgerichtsklauseln in Spediteurs-ADSp 2017/2023: Bagatellgrenze und Schlichtungswahl bedenken.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

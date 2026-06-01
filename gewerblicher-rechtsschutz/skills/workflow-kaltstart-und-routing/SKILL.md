@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik
+- UWG → §§ 3, 5, 7 UWG; Mitbewerber, Verband, Verbraucher als Anspruchsberechtigte (§ 8 Abs. 3 UWG).
+- MarkenG → §§ 4, 14 MarkenG; Verwechslungsgefahr nach EuGH "Sabel" und "Canon"-Doktrin.
+- DesignG → §§ 38 ff.; eingetragenes Design vs. nicht eingetragenes Unionsdesign (UDG-VO 6/2002).
+- GeschGehG → angemessene Geheimhaltungsmaßnahmen § 2 Nr. 1 GeschGehG zwingend.
+- DSGVO-Schnittstelle bei Auskunftsansprüchen → § 101 UrhG, § 19 MarkenG, § 140b PatG.
+- Verbraucherschutz/CHMP → Verbraucherschlichtungsgesetz (VSBG).
+
+## Praxis-Hinweis
+- Abmahnerfordernis § 13 UWG ist zwingend; ohne Abmahnung mit Setzung Frist Gefahr Kostentragungspflicht (§ 13 Abs. 3 UWG). Bei Bagatellverstößen kein Schadensersatz, aber Unterlassung.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

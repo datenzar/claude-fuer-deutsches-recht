@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgan
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Nebenklage**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Nebenklageberechtigt: § 395 StPO – insbesondere Verletzte schwerer Sexual-, Gewalt- und Tötungs­delikte, sowie bestimmte Beleidigungs- und Körperverletzungsdelikte.
+- Anschluss: § 396 StPO – durch Erklärung gegenüber Gericht, jederzeit nach Anklage möglich.
+- Befugnisse Nebenkläger: § 397 StPO – Anwesenheitsrecht, Frage-/Beweisantragsrecht, Plädoyer; Akteneinsicht § 406e StPO.
+- Beiordnung anwaltlicher Beistand (Opferanwalt): § 397a StPO – bei besonders schweren Delikten (Sexualdelikte, schwere Gewaltdelikte) Pflichtbeistand; sonst PKH § 397a Abs. 2 StPO.
+- Verletztenrechte: §§ 406d-406l StPO (Information, Schutzanordnungen, anwaltliche Beratung).
+- Adhäsionsverfahren: §§ 403-406c StPO – zivilrechtliche Ansprüche im Strafverfahren geltend machen; bei Ablehnung in der HV ggf. Verweis auf Zivilrechtsweg.
+- Praxis-Tipp: Nebenklage-Mandat klar dokumentieren: Anschluss schriftlich (mit Beiordnungsantrag falls anwendbar), Akteneinsicht früh, Beweisanträge zur Belastung formulieren, Adhäsion früh prüfen. Praktischer Fokus: Opferschutz § 68a StPO (Schutz der Identität bei Zeugenvernehmung), § 247a StPO (Videovernehmung bei besonderer Belastung).
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

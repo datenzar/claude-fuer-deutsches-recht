@@ -22,6 +22,14 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Besonderheiten Familienrechts-Mandate
+- Hochkonfliktfälle: Trennungsschmerz, gewachsene Vorwürfe, Kinder als emotionaler Hebel. Klare Rolle als Rechtsbeistand, nicht Psycholog/Mediator.
+- Mandatskonflikt: bei gemeinsamer Beratung beider Ehegatten Vorsicht; § 43a Abs. 4 BRAO. Im Zweifel nur einen Ehegatten vertreten.
+- Datenschutz: bei Kindern besondere Sensibilität; Schweigepflicht gegenüber Familienangehörigen (§ 43a Abs. 2 BRAO).
+- Kostenstruktur: Mandant über Kosten klar informieren. RVG-Werte: Scheidung Verfahrenswert nach § 43 FamGKG (3-fach Nettoeinkommen); Folgesachen separate Werte.
+- Verfahrenskostenhilfe (§§ 76 ff. FamFG iVm § 114 ZPO) prüfen.
+- Schlüsselthema im Schreiben: Frist, Empfehlung, nächste Schritte. Keine endgültige Wertung vor Beweisaufnahme.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

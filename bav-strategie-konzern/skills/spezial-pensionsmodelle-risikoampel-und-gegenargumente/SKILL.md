@@ -37,3 +37,48 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Drei-Stufen-Theorie (BAG-Bestandsschutz)
+
+Bei Veränderung von Versorgungszusagen sind drei Eingriffsklassen zu unterscheiden:
+
+| Stufe | Gegenstand | Eingriffsvoraussetzung |
+|---|---|---|
+| 1 | bereits erdiente und dynamische Steigerungen (z. B. gehaltsabhängig) | nur bei zwingenden Gründen / Existenzbedrohung |
+| 2 | künftige dienstzeitabhängige Zuwächse | triftige Gründe (z. B. wirtschaftlich begründete Notlage) |
+| 3 | künftige dienstzeitunabhängige Zuwächse | sachlich-proportionale Gründe |
+
+## Norm-Bezug konkret
+
+- §§ 1, 1b, 2 BetrAVG: Unverfallbarkeitsschutz.
+- § 16 BetrAVG: Anpassungsprüfung.
+- BAG, Linie zur Drei-Stufen-Theorie (Grundsatzurteile aus den 1980er und 1990er Jahren, fortgeführt bis heute; vor Ausgabe live auf bundesarbeitsgericht.de verifizieren).
+- BetrVG § 87 Abs. 1 Nr. 10: Mitbestimmung des Betriebsrats bei Versorgungsregeln.
+- § 87 Abs. 2 BetrVG i.V.m. § 76 BetrVG: Einigungsstelle.
+
+## Risikoampel
+
+| Konstellation | Ampel | Grund |
+|---|---|---|
+| Schließung Versorgungswerk für Neueintritte (Cut-off) | Grün-Gelb | Stufe 3, regelmäßig zulässig bei sachlichen Gründen |
+| Festschreibung künftiger Zuwächse für Bestand | Gelb | Stufe 2, triftige Gründe nötig |
+| Kürzung bereits erdienter Anwartschaften | Rot | Stufe 1, nur bei Existenznotlage |
+| DB-zu-DC-Umstellung bei Neueintritten | Grün | reine Plan-Designänderung |
+| DB-zu-DC-Umstellung für Bestand mit Bestandsschutz | Gelb-Rot | Stufenprüfung, häufig Mitbestimmung |
+
+## Praktischer Tipp
+
+- "Sachlich-proportionale Gründe" (Stufe 3) sind regelmäßig: Vereinheitlichung im Konzern, Beseitigung von Wettbewerbsnachteilen, Anpassung an branchenübliches Niveau. Dokumentation mit Benchmarking-Studie.
+- "Triftige Gründe" (Stufe 2) sind regelmäßig: anhaltend negatives operatives Ergebnis, Eigenkapitalverzehr, drohende Sanierungsnotwendigkeit. Dokumentation mit Jahresabschlüssen der letzten drei Jahre und Sanierungskonzept.
+- "Zwingende Gründe" (Stufe 1) sind die Existenzbedrohungs-Schwelle. In der Praxis fast nur Insolvenznähe oder massive Verluste mit Sanierungsplan.
+
+## Gegenargumente (typische Verteidigungslinien Versorgungsberechtigter)
+
+- "Eingriff betrifft Stufe 1, nicht Stufe 3" - Argument: gehaltsabhängige Zusagen ohne Festschreibungsklausel sind dynamisch.
+- Fehlende Mitbestimmung nach § 87 Abs. 1 Nr. 10 BetrVG - Argument: Versorgungsregel ist mitbestimmungspflichtig, einseitige Änderung unwirksam.
+- Fehlende Dokumentation der wirtschaftlichen Lage - Argument: Darlegungslast trägt der Arbeitgeber.
+
+## Typische Fehler
+
+- Pauschale Schließung des Versorgungswerks ohne saubere Stichtagsregelung; Folge: Streit über Stichtag und einzelne Übergangsregelung.
+- "Künftiger Zuwachs" wird als Stufe 3 behandelt, obwohl er dienstzeitabhängig ist (Stufe 2).

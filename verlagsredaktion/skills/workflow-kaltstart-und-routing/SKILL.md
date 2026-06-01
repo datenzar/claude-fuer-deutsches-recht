@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Verlagsredaktion — Pflichtroutinen
+- **Zitierweise:** Strikt nach `references/zitierweise.md`. Rspr. vor Lit., neueste zuerst. Bei Rspr.: Gericht, Entscheidungsform (Urteil/Beschluss), Datum, Aktenzeichen, Fundstelle (NJW/BGHZ), Randnummer.
+- **Kommentar-Standard:** Bearbeiter, "in:" Kommentar (z. B. MüKo BGB/Säcker, 9. Aufl. 2024, § 433 Rn. 12). Keine Auflage älter als angegebene Aktualität.
+- **Aufsatz-Format:** Autor, Zeitschrift, Jahrgang, Anfangsseite (konkrete Seite). Beispiel: Canaris, JZ 2019, 547 (549).
+- **Querverweis-Pflicht:** Beim Querverweis innerhalb des Werkes auf Randnummer, nicht auf Seite (außer bei Anhängen ohne Rn.).
+- **Korrekturlauf:** Belege zweimal prüfen (vier-Augen-Prinzip); Stand der Norm-Fassung angeben; bei Änderungsfreigaben Track Changes archivieren.
+- **Halluzinations-Sperre:** Keine Kommentar-/Aufsatz-Fundstellen aus Modellwissen. Jede Zitatangabe muss durch Live-Zugriff (oder physisch vorgelegten Druck) belegt werden.
+- Falle: BeckRS-Stelle als alleinige Fundstelle bei tragender Aussage — die Verlage des Rechtsmarktes wollen für Schriftsatz und Kommentar die amtliche Sammlung (BGHZ, BVerfGE) oder Hauptzeitschrift (NJW, NZG, GRUR).

@@ -37,3 +37,42 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Antragsberechtigte: zentrale Tatbestandsmerkmale
+
+| Merkmal | Nachweis | Häufige Fragen |
+|---|---|---|
+| Promotion abgeschlossen | Promotionsurkunde, Lebenslauf | bei kurz nach Abschluss: 2-Jahre-Frist Walter Benjamin |
+| Tätigkeit an Forschungseinrichtung in Deutschland | Anstellungsnachweis, Affiliation | reine Gastaufenthalte begründungsbedürftig |
+| Eigenständige Forschung | Publikationsliste, Lebenslauf | DFG-Definition vs. Habilitationsschrift |
+| Nicht Grundausstattung | Funktionsbeschreibung der Stelle | reine Daueraufgabe ist nicht förderfähig |
+| Keine Doppelförderung | Drittmittelverzeichnis | mehrere Drittmittel zum gleichen Vorhaben sind auszuschließen |
+
+## Wichtige DFG-Quellen
+
+- **DFG-Verfahrensordnung** (vor Ausgabe live auf dfg.de verifizieren): regelt Antragsberechtigung, Begutachtung, Förderzusage, Widerspruch.
+- **Kodex "Leitlinien zur Sicherung guter wissenschaftlicher Praxis"** (2022): jede antragstellende Forschungsperson hat ihn einzuhalten und das in der Forschungseinrichtung implementierte Verfahren zu beachten.
+- **DFG-Vordruck 1.02** (Leitfaden für die Antragstellung Sachbeihilfen): formale Struktur, Anlagen.
+
+## Praktischer Tipp
+
+- "Eigenständige Forschung" ist nicht identisch mit "Habilitation". DFG erkennt eine eigenständige Forschungspersönlichkeit auch ohne Habilitation an, wenn Publikationsliste, Drittmitteleinwerbung oder vergleichbare Indikatoren das belegen. Habilitierte sind aber regelmäßig im Vorteil bei Reviewer-Bewertung.
+- Lebenslauf-Schwerpunkt auf die letzten 5 Jahre setzen, frühere Stationen knapp. DFG-Vorgabe: max. 3 Seiten - das ist eine harte Grenze.
+- Publikationsliste: max. 10 "wichtigste" Publikationen mit DOI; nicht die vollständige Publikationsliste anhängen. Auswahl mit Begründung der Relevanz für das Vorhaben empfehlenswert.
+
+## Beweislage / Anlagen für den Antrag
+
+- Promotionsurkunde / Habilitationsurkunde (Scan).
+- Lebenslauf (akademisch, max. 3 Seiten).
+- Publikationsliste (max. 10, mit DOI).
+- Ggf. Ethikvotum / Tierversuchsantrag (mit Aktenzeichen, Stelle).
+- Datenmanagementplan.
+- Letter of Intent ggf. von Kooperationspartnern (mit Unterschrift, Datum).
+- Drittmittelverzeichnis (laufende und beantragte).
+
+## Typische Fehler
+
+- Publikationsliste enthält 20+ Einträge - Verstoß gegen Vorgabe.
+- Lebenslauf 5 Seiten lang - formale Beanstandung.
+- Drittmittelverzeichnis unvollständig - Vertrauensbruch bei späterer Aufdeckung von Doppelförderung; DFG-Kodex-Verstoß möglich.
+- Letter of Intent ohne konkrete Verpflichtungserklärung des Kooperationspartners ("wir würden gerne kooperieren" reicht nicht).

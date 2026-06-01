@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausg
 
 Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Bussgeldbescheid**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Bußgeldbescheid: §§ 65 ff. OWiG – Inhalt: Bezeichnung Betroffener, Tat, gesetzliche Merkmale, Beweismittel, Geldbuße, Nebenfolgen, Rechtsbehelfsbelehrung.
+- Einspruch: § 67 OWiG – zwei Wochen ab Zustellung; schriftlich oder zu Protokoll bei Behörde, die den Bescheid erlassen hat.
+- Vorschriften OWi-Verfahren: §§ 35 ff. OWiG (sinngemäße Anwendung StPO); § 71 OWiG Übergang ins Hauptverfahren beim AG nach Aktenabgabe.
+- Anhörung: § 55 OWiG – vor Erlass Bescheid, Betroffener muss Gelegenheit zur Äußerung erhalten.
+- Verjährung: § 26 Abs. 3 StVG – 3 Monate Verfolgungsverjährung Straßenverkehrs-OWi, ab Erlass Bußgeldbescheid 6 Monate (Unterbrechung § 33 OWiG durch Anhörung, Bescheid, Akteneinsichtsantrag).
+- BußgKatV: Tatbeständekatalog mit Regelbußgeldern, Punkten und Regelfahrverboten; relevant für die Standard-Tabelle (Geschwindigkeit, Abstand, Rotlicht).
+- Praxis-Tipp: Tatbestandsanalyse jedes Bußgeldbescheids – (1) Existenz Tatbestand im Katalog, (2) konkrete Tatumstände korrekt subsumiert, (3) Beweismittel benannt, (4) Rechtsbehelfsbelehrung korrekt. Lücken in (1)-(4) sind Einstellungs- oder Reduktions­hebel. Bei Akteneinsicht stets Messakte mit Eichschein, Schulung Messbeamter, Rohmessdaten anfordern.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

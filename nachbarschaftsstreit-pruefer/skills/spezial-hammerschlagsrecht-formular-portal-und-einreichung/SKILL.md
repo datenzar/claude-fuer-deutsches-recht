@@ -26,6 +26,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Hammerschlags- und Leiterrecht
+- **Rechtsgrundlage Landesrecht:** Im BGB selbst nicht geregelt; Hammerschlags- und Leiterrecht ergibt sich aus den jeweiligen Nachbarrechtsgesetzen der Länder (z. B. NRG NRW, NRG Bayern, BWNRG, HNG Hessen, HmbNachbG, BNachbG Berlin). Die Inhalte sind ähnlich, aber im Detail unterschiedlich.
+- **Voraussetzungen (Standardlage NRG NRW § 24):** Der Eigentümer/Mieter darf das Nachbargrundstück betreten und Gerüste, Leitern oder Materialien aufstellen, soweit dies zur Errichtung, Veränderung, Unterhaltung oder Beseitigung einer baulichen Anlage erforderlich ist und der Zweck auf andere Weise nicht oder nur unter unverhältnismäßigem Aufwand erreicht werden kann.
+- **Subsidiarität:** Anspruch besteht nur, wenn die Arbeiten von eigenen Grundstück oder öffentlichem Verkehrsgrund aus nicht zumutbar durchgeführt werden können.
+- **Form (in allen Bundesländern ähnlich):** Schriftliche Anzeige des Vorhabens mit Angabe von Beginn, Dauer, Art und Umfang der Arbeiten - typische Frist 2-4 Wochen vor Beginn (Landesrecht prüfen!).
+- **Schadensersatzpflicht:** Verursachte Schäden sind zu ersetzen (häufig in den NRG ausdrücklich geregelt); verschuldensunabhängig in Bezug auf entstehende Schäden, soweit Landesrecht so vorgesehen.
+- **Anspruch des Nachbarn auf Sicherheitsleistung:** In vielen Landesnachbarrechten möglich - Sicherheitsleistung für drohende Schäden vor Baubeginn.
+- **Klagebefugnis / Gerichtszuständigkeit:** AG am Belegenheitsort, Streitwert nach Interesse an Durchführung der Maßnahme. Bei Eilbedarf: einstweilige Verfügung (§ 935 ZPO) möglich.
+- **Praktiker-Tipp:** Vor jedem Bauvorhaben das Bundesland-spezifische NRG prüfen - Berlin/Hamburg/Bremen sind teils restriktiver; Bayern und Baden-Württemberg etwas großzügiger. Frühzeitige Kommunikation mit Nachbarn vermeidet meist Gerichtsverfahren.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

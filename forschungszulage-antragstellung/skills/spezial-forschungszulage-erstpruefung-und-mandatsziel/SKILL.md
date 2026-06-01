@@ -37,3 +37,46 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## FZulG-Anspruchsvoraussetzungen (Erstprüfung)
+
+| Tatbestandsmerkmal | Norm | Prüffrage |
+|---|---|---|
+| Anspruchsberechtigter | § 1 FZulG | Steuerpflichtige nach EStG / KStG mit FuE-Aktivität in DE; auch Personengesellschaften, mit Sonderregeln für nicht-steuerpflichtige Mitunternehmer |
+| FuE-Vorhaben | § 2 FZulG i.V.m. Frascati-Manual | Grundlagenforschung, industrielle Forschung oder experimentelle Entwicklung |
+| Begünstigte Aufwendungen | § 3 FZulG | Lohnaufwendungen FuE-Personal + 25 % Pauschale für Personalnebenkosten + Auftragsforschungs-Anteil + bestimmte Einzelunternehmer-Eigenleistung |
+| Bemessungsgrundlage | § 3 FZulG | maximal förderfähig pro Jahr (Höchstgrenze vor Ausgabe verifizieren - ab 2024/2025 erhöht) |
+| Zulagensatz | § 4 FZulG | regelmäßig 25 %, für KMU + 10 % (auf Antrag) |
+
+## Norm-Bezug konkret
+
+- § 1 FZulG: Anspruchsvoraussetzung.
+- § 2 FZulG: begünstigte FuE-Tätigkeiten.
+- § 3 FZulG: förderfähige Aufwendungen und Bemessungsgrundlage.
+- § 4 FZulG: Höhe der Forschungszulage.
+- §§ 5, 6 FZulG: Bescheinigungsverfahren BSFZ.
+- §§ 9, 10 FZulG: Festsetzung beim Finanzamt.
+- BMF-Schreiben zum FZulG (Datum und AZ vor Ausgabe verifizieren auf bundesfinanzministerium.de).
+- AGVO (EU) 651/2014: beihilferechtliche Grundlage; Art. 25 Forschungs- und Entwicklungsvorhaben.
+
+## Praktischer Tipp
+
+- Forschungszulage ist eine **steuerliche Förderung mit Verrechnung gegen die Einkommen-/Körperschaftsteuerschuld**; bei Verlusten oder zu niedriger Steuerschuld erfolgt **Auszahlung des überschießenden Betrags** (§ 10 Abs. 1 Satz 4 FZulG). Das ist der zentrale Liquiditätsvorteil gegenüber klassischen Sonderabschreibungen.
+- BSFZ-Bescheinigung ist **rückwirkend möglich** für vier Jahre nach Ende des Wirtschaftsjahres (Antrag bei BSFZ); die Festsetzung beim Finanzamt erfolgt **mit der Einkommen-/Körperschaftsteuererklärung** des jeweiligen Wirtschaftsjahres.
+- Forschungszulage ist beihilferechtlich vereinbar mit anderen Beihilfen, aber **bei kumulativer Anwendung Höchstintensitäten der AGVO Art. 25 prüfen** (Grundlagenforschung 100 %, industrielle Forschung 50 %, experimentelle Entwicklung 25 %; KMU-Aufschläge).
+
+## Trade-off: FZulG vs. andere Förderinstrumente
+
+| Pfad | Vorteil | Nachteil |
+|---|---|---|
+| FZulG | rechtssicherer Anspruch (kein Antragsglück), auch in Verlustlage liquiditätswirksam | engerer FuE-Begriff, Verfahren in zwei Stufen |
+| ZIM, Horizon Europe | höhere Förderquoten bei Zuschuss | konkurrenzbasiert, Antragsaufwand hoch |
+| Investitionsabzugsbetrag § 7g EStG | breit anwendbar | nur Stundung, kein "echter" Zuschuss |
+
+Empfehlung: FZulG immer prüfen, weil rechtssicher; nicht alternativ, sondern **kumulativ** zu klassischen Projektförderungen denken.
+
+## Typische Fehler (Erstprüfung)
+
+- Antragsteller hält Routinetätigkeiten (Software-Wartung, marginale Produktverbesserung) für FuE - Bescheinigung wird abgelehnt.
+- Eigenleistung des Einzelunternehmers wird nicht angesetzt, obwohl nach § 3 Abs. 3 FZulG erlaubt (pauschal 70 EUR/Std., maximal 40 Std./Woche, vor Ausgabe verifizieren).
+- Antrag beim Finanzamt ohne vorherige BSFZ-Bescheinigung - das Finanzamt setzt nicht fest, bis die Bescheinigung vorliegt.

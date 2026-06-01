@@ -33,3 +33,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Insolvenzrecht-Red-Team-Checks
+- **Fristen:** § 15a InsO (3 Wochen bei ZU, 6 Wochen bei Überschuldung) korrekt berechnet ab Eintritt der materiellen Insolvenz (nicht ab Erkenntnis)?
+- **Eröffnungsgrund-Schwellen:**
+  - § 17 InsO Zahlungsunfähigkeit: 10-Prozent-Schwelle und 3-Wochen-Liquiditätslücke (BGH-Linie) explizit geprüft?
+  - § 19 InsO Überschuldung: zweistufige Prüfung (rechnerische Überschuldung + negative Fortbestehensprognose) sauber getrennt?
+  - § 18 InsO drohende Zahlungsunfähigkeit: Prognosezeitraum 24 Monate (seit SanInsFoG 2021) genannt?
+- **Verwechslungsgefahr:**
+  - Überschuldung ≠ bilanzielle Unterdeckung — Fortbestehensprognose entscheidet.
+  - Zahlungsstockung ≠ Zahlungsunfähigkeit — Drei-Wochen-Grenze.
+- **Anfechtung:** Bei § 133 InsO 4-Jahres-Zeitraum (seit Reform 2017 für kongruente Deckungen), bei §§ 130, 131 InsO 3 Monate, bei § 134 InsO 4 Jahre.
+- **Strafbarkeit erkannt?** § 15a Abs. 4 InsO, §§ 283 ff. StGB, § 266a StGB Sozialversicherungsbeiträge.
+- **EU-Bezug:** COMI-Prüfung (Art. 3 EuInsVO) erfolgt bei grenzüberschreitendem Sachverhalt?
+
+## Halluzinations-Stopps
+- Keine erfundenen Az. Falls unsicher: "BGH zu § X InsO, Az. zu verifizieren".
+- Keine erfundenen IDW-Standard-Nummern (S6, S11, EPS 11 sind real; höhere Zahlen prüfen).
+- Keine Verwechslung von § 64 GmbHG a.F. (vor 2021) und § 15b InsO (seit SanInsFoG).

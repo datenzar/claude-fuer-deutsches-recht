@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Anlagen
+- Beweisanlage Urkunde → § 415 ff. ZPO öffentliche Urkunde vs. § 416 ZPO Privaturkunde; Beweiskraft unterschiedlich.
+- Augenscheinsobjekt → §§ 371 ff. ZPO; ggf. Anlage als digitale Reproduktion plus Beweisantritt mit Vorlage.
+- Zeugenbeweis → §§ 373 ff. ZPO; in Anlagen Schriftstücke nur ergänzend zum Beweisthema.
+- Sachverständigenbeweis → §§ 402 ff. ZPO; Privatgutachten als Anlage zur Substantiierung, ersetzt aber keinen Gerichtssachverständigen.
+- Parteivernehmung → §§ 445 ff. ZPO; selten Anlagen tragend.
+- Elektronische Anlagen → ERVV: PDF/A, OCR-Texterkennung, max. Größe pro beA-Nachricht beachten.
+- DSGVO bei Drittinteressen → Schwärzung notwendig nach Art. 6 Abs. 1 lit. f DSGVO Interessenabwägung.
+
+## Praxis-Hinweis
+- Anlagen-Bezeichnung im Schriftsatz mit eindeutigem Stichwort (z. B. "Anlage K3: Kaufvertrag vom 15.3.2024"); Anlagenverzeichnis am Ende des Schriftsatzes.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

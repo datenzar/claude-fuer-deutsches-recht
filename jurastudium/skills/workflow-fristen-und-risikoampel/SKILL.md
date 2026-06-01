@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Studium — typische Fristen-Fallen in Klausur und Praxis
+- **Verjährung BGB:** § 195 BGB regelmäßige Frist 3 Jahre; Beginn § 199 BGB Ende des Jahres + Kenntnis (oder grob fahrlässige Unkenntnis); Höchstfristen § 199 II-IV BGB 10/30 Jahre. Hemmung §§ 203-209 BGB (Verhandlungen, Klage, Mahnbescheid).
+- **Anfechtung § 121 BGB:** "unverzüglich" iSd § 121 BGB = ohne schuldhaftes Zögern; faustregel 2 Wochen, aber Einzelfallbetrachtung.
+- **Sachmängelrechte § 438 BGB:** 2 Jahre Kaufsache, 30 Jahre dingliche Mängel, 5 Jahre Bauwerk. Bei B2C Verbrauchsgüterkauf § 475 II BGB.
+- **Schadensersatz Delikt § 852 BGB:** 30 Jahre Restschadensersatz aus Bereicherung.
+- **Klagefristen Verwaltungsrecht:** § 70 VwGO Widerspruch 1 Monat; § 74 VwGO Klage 1 Monat nach Widerspruchsbescheid.
+- **Berufung ZPO § 517:** 1 Monat ab Zustellung; Berufungsbegründung § 520 II ZPO 2 Monate.
+- **Examens-Hausarbeit:** Abgabefrist nach JAG der Landesjustizprüfungsämter — meist 6 Wochen.
+- Falle: § 187 I BGB Fristbeginn (Tag, an dem das Ereignis eintritt, wird nicht mitgerechnet) vs. § 188 II BGB (Ende mit Ablauf des entsprechenden Tages).

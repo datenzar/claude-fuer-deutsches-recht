@@ -8,6 +8,13 @@ description: "Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizi
 ## Aufgabe
 Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizierung Kryptowallets, Reisedatenuebermittlung, schwellenfreie Pflichten.
 
+## Normfokus und Praxis (Krypto-AML)
+- Rechtsgrundlagen: VO (EU) 2023/1113 Transfer of Funds Regulation (TFR) anwendbar seit 30.12.2024 — Travel-Rule-Pflichten für Krypto-Transfers; MiCAR-VO (EU) 2023/1114 Art. 60-83 für CASP-Pflichten; § 1 Abs. 28 KWG (Kryptowerte), § 2 Abs. 1 Nr. 17 GwG (Kryptowerteverwahrer als Verpflichteter), §§ 10 ff. GwG (KYC).
+- TFR-Pflichten ohne Schwelle: jeder CASP-zu-CASP-Transfer muss Begleitinformationen (Name Originator, Wallet-Adresse, Geburtsdatum oder Adresse oder Nationale ID/Steuer-ID/Verifizierungs-Code; Begünstigter analog). Bei selbst-gehosteten Wallets (Unhosted) ab 1 000 EUR pro Transfer zusätzlich Identifizierung des Wallet-Inhabers und Eigentumsnachweis (Signaturnachweis oder Verifikation Ownership).
+- CASP-Zulassung MiCAR (Art. 59 ff.): Verwahrung, Tausch Krypto-Fiat, Tausch Krypto-Krypto, Plattformbetrieb, Beratung, Portfolio-Management, Ordervermittlung. Übergangsphase national bis 30.12.2024 bzw. spätestens 1.7.2026 für Bestandsanbieter.
+- AML-Spezifika: § 15 GwG verstärkte Sorgfaltspflicht bei anonymisierten Adressen, Mixer-Transfers, Privacy Coins; FATF-Empfehlung 15 zu Virtual Assets; BaFin-Auslegungs- und Anwendungshinweise zum GwG (Sonderteil Krypto) und Travel-Rule-Hinweise.
+- Praktiker-Tipp: Chain-Analytics-Integration (Chainalysis, Elliptic) für Risk-Score und Sanctions-Screening; Self-hosted-Wallet-Policy klar definieren (Whitelist-Ansatz, Pre-Funded mit Ownership-Proof); bei "missing information" (TFR Art. 7) Hold-Process binnen 5 Werktagen Klärung mit Counterparty-CASP, sonst Ablehnung; Verdachtsmeldung an FIU nach § 43 GwG bei substantiellem Verdacht (Mixer ≥ 5 %, Darknet, Ransomware-Treffer).
+
 ## Kaltstart
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
 

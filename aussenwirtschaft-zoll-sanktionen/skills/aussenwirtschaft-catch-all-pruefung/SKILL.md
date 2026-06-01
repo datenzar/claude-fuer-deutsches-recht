@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Catch-all-Pruefung bei kritischer Endverwend
 
 Dieser Skill behandelt **Catch-all-Pruefung bei kritischer Endverwendung, Militaerbezug oder Massenvernichtungswaffenrisiko** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (Catch-all)
+- Kerngrundlagen: Art. 4 Dual-Use-VO (EU) 2021/821 (Catch-all für nicht gelistete Güter mit militärischer/MVW-Endverwendung), § 8 AWV (nationaler Catch-all bei drohendem Sicherheits-/Schadensrisiko), § 9 AWV (Catch-all für innere Repression). Auch Art. 5 (Catch-all Cyber-Surveillance) und Art. 10 (Genehmigungspflicht bei Kenntnis) der Dual-Use-VO beachten.
+- Auslösetatbestand: positive Kenntnis oder Unterrichtung durch BAFA — Unterrichtungsschreiben löst formelle Genehmigungspflicht aus. Auch konkrete Anhaltspunkte (Red Flags) können nach Art. 4 Abs. 2 Dual-Use-VO Pflicht zur Anfrage beim BAFA begründen.
+- Red Flags (BAFA-FAQ): militärische/staatliche Endverwender, ungewöhnliche Mengen, fehlende technische Begründung, Drittland mit Transit nach Embargostaat, fehlende Endverbleibserklärung, ungewöhnliche Zahlungswege, ungenaue Adresse.
+- Tatbestand "wissentliche" Beteiligung: § 18 Abs. 5 AWG iVm Art. 4 Dual-Use-VO — Strafbarkeit bei vorsätzlicher Verletzung; bei Fahrlässigkeit OWi nach § 19 AWG (Bußgeld bis 500 000 Euro).
+- Praktiker-Tipp: Bei Zweifel BAFA-Nullbescheid (AZG-Antrag) oder formloser Anfrage einholen — Antwort des BAFA bindet die Behörde nach Art der Verwaltungspraxis. Treffen Red Flags zu, sofort Hold auf Lieferung, Eingangsbestätigung dokumentieren; bei bereits erfolgter Ausfuhr Selbstanzeige (§ 22 Abs. 4 AWG) prüfen.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

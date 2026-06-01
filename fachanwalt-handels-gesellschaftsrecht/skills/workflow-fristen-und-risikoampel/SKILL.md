@@ -28,6 +28,23 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Wichtige Fristen und Schwellen im Handels-/Gesellschaftsrecht
+
+| Punkt | Norm | Frist / Schwelle | Sanktion bei Versäumnis |
+| --- | --- | --- | --- |
+| Mängelrüge Handelskauf | § 377 HGB | unverzüglich nach Ablieferung | Genehmigungsfiktion (§ 377 Abs. 2 HGB) |
+| Anfechtungsklage Hauptversammlung AG | § 246 AktG | ein Monat ab Beschlussfassung | Bestandskraft, keine Anfechtung mehr |
+| Anfechtungsklage GmbH-Beschluss | analoge Anwendung §§ 241 ff. AktG (BGH ständige Rechtsprechung) | grundsätzlich ein Monat, im Einzelfall angemessene Frist | Bestandskraft |
+| Insolvenzantragspflicht | § 15a InsO | drei Wochen Zahlungsunfähigkeit / sechs Wochen Überschuldung (§§ 17, 19 InsO) | Strafbarkeit § 15a Abs. 4 InsO, Geschäftsführerhaftung § 64 GmbHG |
+| Handelsregistereintragung GmbH-Gründung | §§ 7, 8 GmbHG | unverzüglich; Existenz erst mit Eintragung | Vorgesellschaft / Vorgründungsgesellschaft (persönliche Haftung) |
+| Verzugszinsen B2B | § 353 HGB i.V.m. § 288 Abs. 2 BGB | sofort fällig | 9 % über Basiszinssatz |
+| Verjährung Handelskauf | § 438 BGB (zwei Jahre) bzw. fünf Jahre bei Bauwerk | absolute Grenze | Einrede der Verjährung |
+| Transparenzregister-Meldung | §§ 19 ff. GwG | unverzüglich bei Änderung | Bußgeld (BVA) |
+| GmbH-Stammkapital | §§ 5, 7 GmbHG | bei Gründung 25.000 EUR, Hälfte einzubezahlen, mind. 12.500 EUR | Eintragungs-Hindernis |
+| Differenzhaftung Sacheinlage | § 9 GmbHG | bei Überbewertung | persönliche Differenzhaftung Gesellschafter |
+
+Bei Eilbedarf: § 935 ZPO einstweilige Verfügung (z.B. Untersagung Hauptversammlungsbeschluss), § 916 ZPO Arrest (Geldforderungen). Zuständigkeit Kammer für Handelssachen (KfH) auf Antrag § 96 GVG.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

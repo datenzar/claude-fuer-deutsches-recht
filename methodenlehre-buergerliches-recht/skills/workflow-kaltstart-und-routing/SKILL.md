@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Methodenlehre — Vier-Auslegungs-Kanon plus Querschnitt
+- **Grammatikalisch / Wortlaut:** Allgemein- oder Fachsprache; Wortlautgrenze als äußerer Rahmen (BVerfG ständige Rspr.).
+- **Systematisch:** Stellung im Gesetz, Verhältnis zu Spezial-/Generalnorm, Verweisung, Konkurrenz.
+- **Historisch:** Materialien (BT-Drs., Ausschussberichte, Begründung), Vorläufervorschriften, Wille des historischen Gesetzgebers.
+- **Teleologisch:** Schutzzweck, ratio legis; Funktion in der Wirtschafts-/Rechtsordnung.
+- **Verfassungskonform:** Norm so auslegen, dass GG-konform; Wortlautgrenze beachten (BVerfGE 86, 288, 320 — "Strafaussetzung").
+- **Unionsrechtskonform:** Bei richtlinienbezogenen Normen Vorrang der RL-konformen Auslegung (EuGH ständige Rspr., z. B. Marleasing, C-106/89). Bei Konflikt Vorlagepflicht Art. 267 AEUV.
+- **Anspruchsgrundlagen-Pyramide:** Vertrag → c.i.c. → GoA → dinglich → Delikt → Bereicherung.
+- Falle: BGH erkennt KEINE starre Rangfolge der Auslegungsmethoden an. In stRspr. ist der "objektivierte Wille des Gesetzgebers" maßgeblich, der sich aus Wortlaut, Sinnzusammenhang, Entstehungsgeschichte und Zweck ergibt — daher alle vier Methoden im Schriftsatz sichtbar machen.

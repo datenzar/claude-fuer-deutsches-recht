@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Form-Triage — Pflicht-Differenzierung
+- **Schriftform § 126 BGB:** eigenhändige Unterschrift unter der Urkunde; bei Verträgen Identitätswahrung der Urkunde (Telefaxgenügsamkeit aufgehoben).
+- **Elektronische Form § 126a BGB:** Ersetzt Schriftform durch qualifizierte elektronische Signatur (qES) nach eIDAS-VO (EU 910/2014). Achtung: einfache oder fortgeschrittene Signatur reicht NICHT.
+- **Textform § 126b BGB:** lesbare Erklärung auf dauerhaftem Datenträger, Person des Erklärenden genannt — E-Mail, PDF, SMS, WhatsApp können genügen; keine Unterschrift erforderlich.
+- **Öffentliche Beglaubigung § 129 BGB / notarielle Beurkundung § 128 BGB:** Bei §§ 311b I BGB (Immobilien), § 15 GmbHG (GmbH-Anteile), § 2247 BGB (Testament) zwingend.
+- **Rechtsfolge Formverstoß:** § 125 BGB Nichtigkeit; Heilung möglich (z. B. § 311b I 2 BGB Auflassung, § 766 S. 2 BGB Erfüllung), aber nicht generell.
+- Falle: AGB-Klausel "Änderungen bedürfen der Schriftform" gilt unter Verbrauchern oft nicht (§ 309 Nr. 13 BGB seit 01.10.2016 — Textform statt Schriftform); einfache Schriftformklausel verstößt gegen § 305b BGB.

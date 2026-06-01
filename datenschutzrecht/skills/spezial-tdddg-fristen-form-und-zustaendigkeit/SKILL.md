@@ -21,10 +21,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Tdddg** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **TDDDG** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Zentrale Normen (TDDDG-Schicht)
+- **§ 25 TDDDG** (vormals § 25 TTG): Einwilligungspflicht für Speicherung und Zugriff auf Endgeräte (Cookies, LocalStorage, Fingerprinting). Ausnahmen nur bei technischer Notwendigkeit (§ 25 Abs. 2 Nr. 2).
+- **§ 26 TDDDG**: Bußgeldrahmen bis 300.000 EUR (Verstöße gegen § 25); zuständig sind nach Landesrecht die Datenschutzaufsichtsbehörden bzw. die Bundesnetzagentur (§ 28 TDDDG).
+- **Verhältnis zur DSGVO**: TDDDG ist lex specialis für die Endgerätezugriffsschicht (Art. 5 Abs. 3 ePrivacy-RL 2002/58/EG umgesetzt); für die nachgelagerte Verarbeitung greift parallel die DSGVO (Art. 6 Abs. 1).
+
+## Praxis-Trade-off
+- Cookie-Banner mit "Alle ablehnen" auf erster Ebene wird von DSK und mehreren Aufsichtsbehörden gefordert; rein "Akzeptieren / Einstellungen" ist angreifbar.
+- Nudging (Farbgebung, vorausgewählte Häkchen) hebelt die Freiwilligkeit aus — siehe EuGH "Planet49" (Urteil vom 01.10.2019, C-673/17).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

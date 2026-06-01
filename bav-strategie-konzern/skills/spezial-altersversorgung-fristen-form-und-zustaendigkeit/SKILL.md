@@ -37,3 +37,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Norm-Bezug konkret (bAV-Fristen/Zuständigkeit)
+
+- § 1b BetrAVG: Unverfallbarkeit (drei Jahre Zusagedauer, ab dem 21. Lebensjahr).
+- § 16 BetrAVG: Anpassungsprüfungspflicht alle drei Jahre (Trade-off: vermeidbar nur durch Festschreibungsklausel mit garantiertem 1 %-Pfad nach § 16 Abs. 3 Nr. 1 BetrAVG; sonst Bindung an Verbraucherpreisindex).
+- §§ 7-15 BetrAVG: PSV-Insolvenzschutz; jährliche Beitragspflicht zum 31.03. des Folgejahres an Pensions-Sicherungs-Verein.
+- § 4 BetrAVG: Übertragung bei Arbeitgeberwechsel binnen eines Jahres.
+- §§ 30f, 30g BetrAVG: Übergangsvorschriften alte Zusagen.
+- Arbeitsrechtsweg: § 2 ArbGG; bei Mitbestimmungsfragen Einigungsstelle nach § 87 Abs. 1 Nr. 10 BetrVG.
+- Steuerlicher Rechtsweg: FGO; Bundesfinanzhof bei höchstrichterlicher Klärung Pensionsrückstellungen / § 6a EStG.
+
+## Praktischer Tipp
+
+- PSV-Beitragsbescheid (Beitragsbemessung jeweils zum 31.10. des Vorjahres, Zahlung 31.03.) immer auf richtigen Anwendungsbereich prüfen - Direktversicherungen mit unwiderruflichem Bezugsrecht sind PSV-frei.
+- Anpassungsprüfung nach § 16 BetrAVG bedeutet nicht Anpassungspflicht; bei schlechter wirtschaftlicher Lage kann der Arbeitgeber aussetzen, muss aber dokumentieren (zwei vorhergehende Geschäftsjahre, Eigenkapitalrendite, Zukunftsprognose).
+- Versorgungsausgleich bei Scheidung (§ 1587 BGB i.V.m. VersAusglG): externe Teilung bei Direktzusagen über 88.200 EUR Kapitalwert (Beitragsbemessungsgrenze West 2026, vom Anwender mit aktuellem Wert zu verifizieren).
+
+## Beispiel-Mustertext (Anpassungsentscheidung nach § 16 BetrAVG)
+
+> Nach pflichtgemäßer Prüfung gemäß § 16 BetrAVG zum Stichtag [Datum] kommt die [Gesellschaft] zu folgendem Ergebnis: Eine Anpassung der laufenden Versorgungsleistungen [unterbleibt für den Anpassungszeitraum / erfolgt um X %]. Maßgeblich sind die wirtschaftliche Lage gemäß den letzten beiden Jahresabschlüssen [Jahre], die Zukunftsprognose über die nächsten drei Jahre und das Belange der Versorgungsempfänger. Eine erneute Prüfung erfolgt zum [Folgetermin].
+
+## Typische Fehler
+
+- Festschreibungsklausel nach § 16 Abs. 3 Nr. 1 BetrAVG ohne 1 %-Mindestanpassung formuliert - Klausel unwirksam, volle Anpassungsprüfung lebt wieder auf.
+- PSV-Meldung vergessen bei Neuzusage; § 11 BetrAVG-Meldepflicht binnen drei Monaten.

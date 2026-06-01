@@ -26,6 +26,37 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Bestandteile der KI-Nutzungsrichtlinie (Mindestumfang)
+1. **Geltungsbereich**: Anwälte, Syndizi, Referendare, Mitarbeiter; alle Kanzlei-IT.
+2. **Zweck**: Verschwiegenheit § 43a BRAO, § 203 StGB; DSGVO; KI-VO; Mandatssorgfalt.
+3. **Tool-Klassifizierung**: Tool-Liste mit Freigabestatus (freigegeben / mit Auflagen / verboten).
+4. **Datenklassifizierung**: öffentlich / intern / vertraulich / hochsensibel (Mandantengeheimnis, besondere Kategorien).
+5. **Trainingsausschluss**: vertraglich und in den Einstellungen; Beweis der Konfiguration.
+6. **Verifikationspflicht**: KI-Output muss vom Berufsträger geprüft werden (Halluzinationskontrolle, Quellenverifikation).
+7. **Mandantenaufklärung**: wann und wie; ggf. Einwilligung.
+8. **Vorfallmeldung**: Pflicht zur Meldung von Datenpannen, Halluzinationen mit Mandantenwirkung.
+9. **Schulungen**: Onboarding, jährliche Auffrischung.
+10. **Reviews**: jährliche Überprüfung der Richtlinie; Anlassbezogen bei neuen Tools.
+
+## Form und Zuständigkeit
+- **Erlass**: Sozietätsleitung / Geschäftsführung; Mitbestimmung durch Betriebsrat (§ 87 Abs. 1 Nr. 6, Nr. 7 BetrVG bei technischer Überwachung / Verhaltensregeln).
+- **Form**: Textform genügt formell; signierte Empfangsbestätigung der Mitarbeiter empfehlenswert.
+- **Verbindlichkeit**: arbeitsrechtliche Weisungsgrundlage; Zuwiderhandlung als Pflichtverletzung abmahnfähig.
+
+## Fristen
+- **Erstellung**: vor Einführung von KI-Tools verbindlich vorhalten; spätestens vor erstem produktivem Einsatz mit Mandantendaten.
+- **Review-Zyklus**: Jährlich; ad-hoc bei wesentlichen Änderungen (neue KI-VO-Stufen 02.02.2025 für Art. 5 Verbote, 02.08.2026 für Art. 6 Hochrisiko).
+- **Aufbewahrung**: Versionsstände mindestens 6 Jahre (§ 50 BRAO-Analogie für mandatsbezogene Dokumentation).
+
+## Rechtsweg bei Streit
+- **Intern**: Disziplinarverfahren, Abmahnung, Kündigung (arbeitsrechtlich).
+- **Anwaltsgericht**: bei berufsrechtlich relevanten Verstößen (§§ 113 ff. BRAO) — über RAK.
+- **Datenschutzaufsicht**: bei DSGVO-Verstößen; LDA/BfDI.
+- **Marktüberwachungsbehörde KI-VO**: ab Geltung Art. 6 ff. (02.08.2026); Bundesnetzagentur als Marktüberwachung in Deutschland vorgesehen.
+
+## Trade-off
+Verbotsorientierte Richtlinie ("Keine ChatGPT-Nutzung") ist klar, wird aber umgangen ("Schatten-IT"). Erlaubnisorientierte Richtlinie mit gestuften Freigaben und Schulungen erzeugt Akzeptanz und reduziert tatsächlich Risiko — verlangt aber laufende Pflege der Tool-Liste.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

@@ -17,14 +17,37 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Klauseln-Uebersicht — Common Law mit deutscher Entsprechung
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+| Klausel | Funktion / Inhalt | Deutsche Entsprechung | Typische Stolpersteine |
+|---|---|---|---|
+| **Consideration** | Wechselseitige "bargained-for exchange" — Voraussetzung der Vertragsbindung in UK/US-Common Law | Keine Entsprechung im BGB; § 311 I BGB kennt keine consideration. Bei UK-Recht: "deed" als consideration-loses Aequivalent | "Nominal consideration of 1 GBP" oft Hinweis auf consideration-Bedarf bei englischem Recht; bei deutschem Recht ueberfluessig |
+| **Representations and Warranties (R&W)** | Tatsachenversicherungen (reps) und Garantieversprechen (warranties) zum Stichtag | Unklarer Gleichlauf mit §§ 433 ff., 443 BGB (Garantie); §§ 280, 311 II Nr. 1 BGB (c.i.c.); aber kein 1:1-Pendant | "Misrepresentation" UK = ggf. Anfechtung und/oder rescission und/oder Schadensersatz; im deutschen Recht §§ 119 II, 123 BGB (Anfechtung) vs. § 434 BGB (Mangel) — andere Rechtsfolgen |
+| **Indemnification / Indemnity** | Freistellung vom Drittanspruch; auch first-party indemnity (verschuldensunabhaengig) | § 257 BGB (Befreiungsanspruch); kein verschuldensunabhaengiges Aequivalent; bei AGB AGB-rechtlich problematisch (§ 309 Nr. 7 BGB) | Achtung: "indemnify, defend and hold harmless" loest in deutschem Recht keine eigenstaendige Verpflichtung aus; AGB-Kontrolle bei vorformulierten Klauseln |
+| **Limitation of Liability** | Haftungsobergrenze fuer Schaeden; oft "Cap" als % vom Vertragswert oder feste Summe | §§ 276 III, 309 Nr. 7 BGB; bei AGB strenge Grenzen (kein Ausschluss fuer Vorsatz/grobe Fahrlaessigkeit, Leben/Koerper/Gesundheit, Kardinalpflichten) | "Aggregate cap" und "per-event cap" unterscheiden; ausgenommen werden typisch IP-Verletzung, indemnification, vertrauliche Information, Vorsatz |
+| **Suretyship vs. Guarantee** | UK: "guarantee" = sekundaere Verpflichtung; "indemnity" = primaere | § 765 BGB Buergschaft vs. § 311 BGB Garantievertrag; § 766 BGB Schriftform | "On first demand guarantee" = abstrakte Buergschaft auf erstes Anfordern; bei deutschem Recht streng AGB-rechtlich kontrolliert |
+| **Entire Agreement / Merger Clause** | Vertrag enthaelt vollstaendige Einigung; vorvertragliche Erklaerungen unbeachtlich | §§ 133, 157 BGB Auslegung; Andeutungstheorie; Klausel ist im deutschen Recht **wirkungsbeschraenkt**, schliesst Auslegung nicht vollstaendig aus | BGH XI ZR 39/04: Merger Clauses koennen § 305c II BGB nicht ueberwinden; AGB-Kontrolle |
+| **No Oral Modification (NOM)** | Aenderungen nur schriftlich | § 125 BGB; doppelte Schriftformklausel im AGB (§ 305b BGB Vorrang Individualabrede) | BGH-Linie: Schriftformklausel kann individualvertraglich durchbrochen werden (Vorrang Individualabrede) |
+| **Severability / Salvatorische Klausel** | Bei Unwirksamkeit eines Teils bleibt Rest wirksam | § 139 BGB (Auslegungsregel); Klausel modifiziert nur Auslegung | BGH-Linie: rein deklaratorische Klauseln im AGB unproblematisch; substanziellere Ersetzungsklauseln AGB-rechtlich pruefen |
+| **Governing Law** | Anwendbares materielles Recht | Art. 3 Rom I-VO (Vertraege), Art. 14 Rom II-VO (ausservertraglich) | Internationale Verbraucher Art. 6 Rom I-VO, AN Art. 8 Rom I-VO; ordre public Art. 21 Rom I-VO |
+| **Jurisdiction / Forum Selection** | Zustaendiges Gericht | Art. 25 Brussel Ia-VO (gerichtliche Zustaendigkeit innerhalb EU); UK seit Brexit: Haager Gerichtsstandsuebereinkommen | Asymmetrische Klauseln (nur eine Partei wahlt) in Frankreich teils unwirksam; Pruefung des AVAG bei Drittstaaten |
+| **Arbitration Clause** | Schiedsgerichtsbarkeit (ICC, LCIA, DIS, SIAC, AAA/ICDR) | §§ 1029 ff. ZPO; UNCITRAL Model Law; New York Convention 1958 | Schriftform/Form § 1031 ZPO; Verbraucher § 1031 V ZPO (notarielle Form) |
+| **Boilerplate** | Sammelbegriff fuer Standardklauseln (Force Majeure, Notices, Assignment, Counterparts, Headings) | Verteilt im BGB; einzeln pruefen | Force Majeure in UK/US restriktiv (nicht "frustration" = § 313 BGB Pendant); "frustration of contract" UK enger |
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Pruefraster fuer den Skill
+
+1. **Sachverhalt fixieren** — Welche Klauseln, welcher Vertragstyp, welches Recht?
+2. **Klauselfunktion identifizieren** ueber die Tabelle.
+3. **Deutsche Entsprechung pruefen** und Unterschiede markieren.
+4. **AGB-Rechtskontrolle** §§ 305 ff. BGB pruefen, wenn deutsches Recht anwendbar.
+5. **Internationale Privatrecht-Kontrolle** Rom I/II, EuGVVO.
+
+## Praxisfallen
+
+- **R&W-Versicherung (W&I)** im M&A: Deckungsausschluesse pruefen, "no claims declaration".
+- **Indemnity vs. Garantie** sprachlich oft verwischt; im deutschen Recht klar trennen.
+- **Choice of law** beim Verbraucher: Schutz nicht abdingbar (Art. 6 II Rom I-VO).
+- **Forum non conveniens** in UK/US verfuegbar, in der EU nicht (EuGH Owusu).
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

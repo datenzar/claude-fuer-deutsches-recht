@@ -21,6 +21,39 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Beweismittel-Vergleich ZPO versus Common Law
+
+| Punkt | Deutsche ZPO | US/UK Common Law |
+| --- | --- | --- |
+| Beweiserhebungsumfang | beschränkt; § 138 ZPO Wahrheitspflicht, kein "fishing expedition" | breite Discovery; broad relevance |
+| Dokumentenvorlage | § 142 ZPO (Anordnung Vorlage Urkunde der Partei oder Dritten); § 421 ZPO (Pflicht zur Vorlage bei Anspruch) | Document Production / Disclosure, Privilege Log |
+| Zeugen | benannte Zeugen § 373 ZPO, Vernehmung durch Richter (§ 397 Abs. 1 ZPO) | Deposition, Cross-Examination, Witness Statement |
+| Sachverständige | gerichtlich bestellt § 404 ZPO, neutral | Party-Appointed Expert, Battle of Experts |
+| Akteneinsicht | § 299 ZPO, beschränkt | Public Filings, PACER |
+| Privileged Documents | § 383 ZPO Zeugnisverweigerung Anwalt; nur Mandatsverhältnis | Attorney-Client Privilege, Work Product |
+| Verspätungspräklusion | § 296 ZPO; verspäteter Vortrag wird zurückgewiesen | flexibel; "trial by ambush" zulässig im Mandat |
+| Beweismaß | volle Überzeugung § 286 ZPO; ausnahmsweise § 287 ZPO Schätzung | Preponderance of evidence (Zivilrecht), Beyond reasonable doubt (Strafrecht) |
+| Wahrheitspflicht | § 138 Abs. 1 ZPO | nicht direkt; Sanctions for perjury |
+
+### Was Mandant aus dem Common Law mitbringt — und was nicht funktioniert
+
+| Wunsch des Mandanten (Common Law-Erwartung) | ZPO-Antwort |
+| --- | --- |
+| "Discovery vom Gegner" | nicht möglich; nur § 142 ZPO Einzelanordnung mit konkreter Bezeichnung |
+| "Cross-Examination" | beschränkt; Richter befragt zuerst, Anwälte ergänzen § 397 ZPO |
+| "Witness Statement statt Aussage" | nicht prozessgemäß; nur gerichtliche Vernehmung zählt |
+| "Subpoena to Third Party" | § 142 ZPO mit Beschränkungen; bei Auslandsbezug Haager Beweisaufnahme |
+| "Privilege Log" | nicht erforderlich; deutsche Anwälte können einzelne Dokumente zurückhalten |
+| "E-Discovery" | nicht standardisiert; aber Geschäftsleitungs-Bevollmächtigte können Daten kontextbezogen vorlegen |
+| "Disclosure of Documents" | nicht generell; § 142 ZPO und § 810 BGB nur einzelfallbezogen |
+| "Self-Disclosure (Rule 26 USA)" | nicht; deutsche Beweismittel müssen angeboten und vom Richter beigezogen werden |
+
+### Trade-off
+
+- **Mehrwert ZPO:** kostengünstiger, schneller, Geheimhaltung höher (kein US-Style-Public-Filing).
+- **Mehrwert Common Law:** Document Production zwingt Gegner zur Offenlegung; deutsche Partei "fischt" oft im Dunkeln.
+- **Praktiker-Tipp Mandantenkommunikation:** Vor jedem Termin Erwartungs-Management; klares Memo "Was in Deutschland prozessual geht und was nicht" für US-/UK-Inhouse-Counsel.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

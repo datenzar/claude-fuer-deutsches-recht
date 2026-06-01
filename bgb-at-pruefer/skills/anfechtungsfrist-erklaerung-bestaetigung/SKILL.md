@@ -11,7 +11,15 @@ Anfechtung prozess- und fristfest machen.
 
 ## Normanker
 
-§§ 121, 124, 143 und 144 BGB
+- § 121 BGB: Anfechtungsfrist bei Erklärungsirrtum (§ 119), Inhaltsirrtum (§ 119), Eigenschaftsirrtum (§ 119 Abs. 2), Übermittlungsirrtum (§ 120) — "ohne schuldhaftes Zögern" (unverzüglich). Höchstfrist zehn Jahre ab Abgabe (§ 121 Abs. 2 BGB).
+- § 124 BGB: Anfechtungsfrist bei Täuschung (§ 123 Abs. 1) und Drohung (§ 123 Abs. 1) — ein Jahr ab Kenntnis von der Täuschung bzw. Ende der Zwangslage; Höchstfrist zehn Jahre.
+- § 143 BGB: Anfechtungserklärung. Anfechtungsgegner bei Vertrag = anderer Teil; bei einseitigem empfangsbedürftigem RG = derjenige, dem das Rechtsgeschäft gegenüber vorzunehmen war.
+- § 144 BGB: Bestätigung des anfechtbaren Rechtsgeschäfts; ausgeübt nur durch denjenigen, dem das Anfechtungsrecht zusteht; Bestätigung ist konkludent möglich nach Kenntnis des Anfechtungsgrunds.
+- Rechtsfolge: Ex-tunc-Wirkung (§ 142 Abs. 1 BGB); Schadensersatz Vertrauensschaden § 122 BGB.
+
+## Praxis-Tipp
+- "Unverzüglich" iSd § 121 BGB ist nicht "sofort"; üblicherweise zwei Wochen (BGH ständige Rspr.). Bei klarer Lage kürzer.
+- Beweislast für Anfechtungsfrist trifft Anfechtungsgegner (Behauptungslast Anfechtender, Beweislast Verspätung beim Empfänger).
 
 ## Intake
 

@@ -20,6 +20,13 @@ description: "AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel 
 - § 15 GwG — Verstaerkte Sorgfaltspflichten bei risikoreichen Kunden
 - § 43 GwG — Meldepflicht bei Verdacht; gilt fuer alle Verpflichteten einschliesslich Makler
 
+## Normfokus und Praxis (Immobilien und Güterhandel)
+- Verpflichtetenkreis: § 2 Abs. 1 Nr. 14 GwG Immobilienmakler (auch Vermietungsvermittler ab Monatsmiete 10 000 EUR), Nr. 16 Güterhändler (insb. Edelmetalle, Edelsteine, hochwertige Kunst), Nr. 10 Notare bei Treuhand-/Anderkonten, Nr. 13 Steuerberater/StBuRA bei wirtschaftsberatender Tätigkeit.
+- Bar­zahlungsschwellen: § 4 GwG iVm § 12 GwG — Identifizierungspflicht ab 10 000 EUR brutto, Kunstvermittler ab 10 000 EUR; ab 10.7.2027 nach AMLR (EU) 2024/1624 EU-weite 10 000-Euro-Bar-Cap (Art. 80) und bei Edelmetallhandel 1 000 EUR. Geplantes BargeldobergrenzenG (Deutschland) parallel beachten.
+- Sanktionsgesetz Durchsetzungsgesetz II (SanktDG II, 19.12.2022): Bar-Erwerbsverbot für Immobilien ab 1.4.2023 mit Bar oder Kryptowerten (§ 16a GwG); Notar darf nicht beurkunden, wenn Bar­zahlung Teil ist.
+- Aufsichtsbehörden: jeweilige Länderaufsicht (z. B. Regierungspräsidien, Bezirksregierungen) — nicht BaFin; gesonderte Mitteilungspflichten für Immobilien-/Notarsektor an Bundesanzeiger und Transparenzregister.
+- Praktiker-Tipp: Risikoanalyse nach § 5 GwG zwingend dokumentiert; bei Immobilien­transaktionen Notar-AML-Check fragen (Vendor-KYC); bei kompliziertem UBO Briefkasten­firma Cayman/BVI mit Erwerb deutscher Immobilien immer EDD und Mittelherkunfts­beleg (Bank-Refstatement, Kaufvertragskette).
+
 ## Quellenregel
 
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.

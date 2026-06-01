@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Betreuungsrecht (Reform 1.1.2023)
+- Betreuung erforderlich? → § 1814 BGB nF Erforderlichkeitsgrundsatz; Vorrang Vorsorgevollmacht.
+- Bestellung Betreuer → § 1816 BGB nF Auswahl; persönliche Nähe, Eignung, Wunsch Betroffener (§ 1816 Abs. 2 BGB nF).
+- Aufgabenkreise → §§ 1815, 1820 BGB nF; nur Aufgabenkreise wo Hilfe erforderlich.
+- Wirkungskreis Vermögenssorge → §§ 1838-1854 BGB nF Genehmigungspflichten.
+- Wirkungskreis Gesundheitssorge → § 1828 BGB nF Einwilligung in ärztliche Maßnahmen; § 1832 BGB nF freiheitsentziehende Maßnahmen.
+- Wirkungskreis Aufenthaltsbestimmung → § 1831 BGB nF Unterbringung; nur richterliche Genehmigung.
+- Vorsorgevollmacht-Vorrang → § 1814 Abs. 3 Nr. 1 BGB nF; Kontrollbetreuung § 1820 BGB nF bei Missbrauch.
+
+## Praxis-Hinweis
+- Reform 2023 hat Selbstbestimmung gestärkt. "Erforderlichkeit" und "Wille des Betroffenen" (§§ 1814 Abs. 3, 1821 BGB nF) sind zentrale Leitprinzipien. Berichtspflicht jährlich.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

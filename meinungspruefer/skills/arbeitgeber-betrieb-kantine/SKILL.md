@@ -31,3 +31,11 @@ Im Betrieb können dieselben Worte anders wirken als auf einer öffentlichen Pla
 Statt "Die Projektleitung ist unfähig und trickst die Kunden aus" eher:
 
 "Ich halte die Projektsteuerung in drei Punkten für fachlich problematisch und bitte um Prüfung der Abweichungen zwischen Angebot, Umsetzung und Kundeninformation."
+
+## Recht und Trade-offs
+
+- **Meinungsfreiheit Art. 5 Abs. 1 GG vs. Loyalitätspflicht § 241 Abs. 2 BGB:** Im Betrieb hat der Arbeitnehmer ein nachvertragliches Treue- und Rücksichtnahmegebot; bei groben Beleidigungen droht außerordentliche Kündigung (§ 626 BGB).
+- **Vertrauliches Gespräch:** BVerfG ständige Rspr. zur engen Vertraulichkeitssphäre (z. B. ungeschützter Zwei-Personen-Talk in der Kantine ist KEIN völlig geschützter Raum).
+- **Hinweisgeberschutzgesetz (HinSchG):** Bei begründetem Verdacht auf Rechtsverstoß ist interne Meldestelle vorrangig (§ 7 HinSchG); externe Meldestelle nur bei Voraussetzungen § 8 HinSchG.
+- **Beweissicherung:** Screenshots mit Datum/URL, Zeugen befragen, ggf. Audioprotokoll (Achtung § 201 StGB — heimliche Aufnahme strafbar!).
+- Falle: Schmähkritik-Vorwurf gegenüber legitimer Sachkritik überdehnt — BAG verlangt erkennbaren Sachbezug und Verhältnismäßigkeit.

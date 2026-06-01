@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## Instant-Payments-Spezifika (VO 2024/886)
+- Pflichten gestaffelt: Empfang SCT Inst ab 9.1.2025 (Euro-Zone), Versand ab 9.10.2025; Nicht-Euro-PSPs gestaffelt bis 2027. Kein Gebühren-Aufschlag gegenüber SCT (Art. 5b VO 260/2012 idF VO 2024/886) — Beschwerde-Risiko BaFin.
+- Sanktionsscreening (Art. 5d): kein transaktionsbasiertes Screening mehr verlangt, stattdessen tägliches Kunden-Screening gegen EU-Sanktionslisten (mind. einmal arbeitstäglich) und unverzügliche Anpassung bei Listing-Updates; Pflicht zur Aufzeichnung.
+- Verfügbarkeit/Limits: 24/7 ohne Cap; bisherige IP-Limits müssen angehoben/abgeschafft werden, sofern wirtschaftlich tragbar; Kundenkommunikation transparent.
+- Operational Resilience: DORA (VO 2022/2554) iVm BAIT — bei Inst-Payments hohe Verfügbarkeit; Incident Reporting an Bundesbank/BaFin.
+- Praktiker-Tipp: Roadmap-Backlog gegen Stichtage 2025/2026/2027 (Empfang, Versand, VoP, NonEuro), GAP-Analyse SCT vs. SCT Inst, BaFin-Anzeige Produktänderung, Schulung Kundenservice + Compliance, Logs für Sanktionsscreening-Audit; Recall-Prozess für irrtümliche IP unmittelbar via SCT Inst Recall etablieren (Frist 10 Bankarbeitstage, EPC-Rulebook).
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

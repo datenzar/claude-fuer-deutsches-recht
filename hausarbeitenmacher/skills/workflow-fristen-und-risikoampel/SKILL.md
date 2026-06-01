@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Hausarbeit-Disziplin
+- Gutachtenstil zwingend für Hausarbeiten in juristischen Examina: Obersatz, Voraussetzungen, Definitionen, Subsumtion, Ergebnis.
+- Anspruchsgrundlagen-Reihenfolge: Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung.
+- Auslegungsmethoden: grammatikalisch, systematisch, historisch, teleologisch + verfassungs-/unionsrechtskonform.
+- Zitierweise nach `references/zitierweise.md`: Rspr. vor Lit., neueste zuerst.
+- Eigenständigkeitserklärung als formaler Pflichtbestandteil; Plagiat-Risiko.
+- Hochschulinterne Vorgaben (Format, Umfang, Schrift) zwingend zu prüfen.
+
+## Trade-off
+- Tiefenbohrung in Streitfrage vs. Breitenabdeckung der Problemkette: bei beschränktem Umfang Schwerpunkt auf entscheidungserhebliche Punkte; Nebenfragen knapp.
+- KI-Unterstützung darf den Stil nicht ersetzen; Eigenständigkeitsversicherung verlangt eigene gedankliche Leistung.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

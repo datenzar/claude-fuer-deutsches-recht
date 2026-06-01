@@ -11,7 +11,17 @@ Abgabe vor Zugang präzise feststellen.
 
 ## Normanker
 
-BGB AT Willenserklärung
+- §§ 116-130 BGB: Allgemeine Vorschriften zur Willenserklärung.
+- § 130 Abs. 1 BGB: Zugang unter Abwesenden; Willenserklärung wird in dem Zeitpunkt wirksam, in dem sie dem Empfänger zugeht.
+- § 130 Abs. 2 BGB: Tod oder Geschäftsunfähigkeit des Erklärenden vor Zugang ohne Einfluss.
+- § 130 Abs. 3 BGB: Behörden — analog § 41 VwVfG.
+- Abgabe = willentliche Entäußerung in Richtung Empfänger (h.M.).
+- Unter Anwesenden Zugang regelmäßig sofort, sofern Empfänger akustisch wahrnimmt (eingeschränkte Vernehmungstheorie BGH ständige Rspr.).
+- E-Mail/Online-Plattform: Zugang im Postfach Empfänger zum Zeitpunkt, in dem ein verständiger Empfänger Kenntnis nehmen kann (BGH NJW-Rspr. zu Online-Banking). Bei B2B ggf. erweiterte Empfangsbereitschaft.
+
+## Praxis-Tipp
+- Bei elektronischer Kommunikation: Lesebestätigung als Indiz; Empfangsbereitschaft des Geschäftspartners (DOI-Adresse aus Geschäftspapier).
+- Botenfehler: Bote als Werkzeug; Erklärungsbote (rechtsgeschäftlich, § 120 BGB), Empfangsbote (Risiko Empfänger), Erklärungsempfangsperson.
 
 ## Intake
 

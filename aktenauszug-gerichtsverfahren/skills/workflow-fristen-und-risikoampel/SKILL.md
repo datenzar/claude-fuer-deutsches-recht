@@ -22,6 +22,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen Gerichtsverfahren
+- Berufung Zivilurteil: ein Monat ab Zustellung (§ 517 ZPO); Begründung zwei Monate (§ 520 Abs. 2 ZPO).
+- Revision Zivil: ein Monat ab Zustellung Berufungsurteil (§ 548 ZPO); Begründung zwei Monate.
+- Nichtzulassungsbeschwerde: ein Monat (§ 544 Abs. 1 ZPO); Begründung weiterer Monat.
+- Beschwerde sofort: zwei Wochen ab Bekanntgabe (§ 569 ZPO).
+- Klagerücknahme: jederzeit vor Klageerwiderung; danach mit Zustimmung des Beklagten (§ 269 Abs. 1 ZPO).
+- Streitwertbeschwerde: sechs Monate ab Rechtskraft Endentscheidung (§ 68 Abs. 1 GKG).
+- Wiedereinsetzung: zwei Wochen ab Wegfall des Hindernisses (§ 234 Abs. 1 ZPO); max. ein Jahr (§ 234 Abs. 3 ZPO).
+- Erinnerung gegen Kostenfestsetzung: zwei Wochen (§ 11 RPflG iVm § 104 ZPO).
+
+## Trade-off
+- Akteneinsicht (§ 299 ZPO) Beteiligte vs. Dritte: Beteiligte ohne Einschränkung, Dritte nur bei berechtigtem Interesse und Anhörung.
+- E-Akte vs. Papierakte: bei Einsichtnahme über beA effizient, aber technische Fehlerquellen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

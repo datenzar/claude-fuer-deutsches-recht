@@ -38,3 +38,32 @@ Prüfe, ob eine konzerninterne Umstrukturierung von GrESt begünstigt sein kann.
 ## Rechtsprechung
 
 BFH-Rechtsprechung zu § 6a vor Ausgabe live prüfen und nur mit Datum, Aktenzeichen und freiem Link nennen. Keine Datenbankkürzel und keine Kommentarzitate.
+
+## Norm-Bezug konkret
+
+- § 6a Satz 1 GrEStG: Begünstigung für Umwandlungen nach § 1 Abs. 1 Nr. 1 bis 3 UmwG und vergleichbare Vorgänge.
+- § 6a Satz 3 GrEStG: Vorbehaltens- und Nachbehaltensfrist von je fünf Jahren.
+- § 6a Satz 4 GrEStG: 95-%-Beteiligungsschwelle für das herrschende Unternehmen.
+- BFH-Linie (vor Ausgabe live verifizieren auf bundesfinanzhof.de/Rechtsprechung): seit den BFH-Urteilen vom 21./22.08.2019 (II R-Reihe) gilt die Konzernklausel auch bei Verschmelzungen zur Aufnahme; bei Konzernspitze-Identität reicht die fünfjährige Beteiligung; eine Frist ist entbehrlich, wenn sie strukturbedingt unmöglich war (Neugründung, Verschmelzung der abhängigen Gesellschaft selbst).
+
+## Praktischer Tipp
+
+- Vor jeder konzerninternen Umstrukturierung Holding-Struktur einfrieren: keine Anteilsverschiebungen, keine Kapitalerhöhungen, keine Verkäufe im Vorbehaltens-Korridor.
+- "Herrschendes Unternehmen" ist die oberste Konzerngesellschaft, deren Beteiligungskette ununterbrochen die 95-%-Schwelle hält. Bei Personenidentität (z. B. natürliche Person als alleiniger Gesellschafter): nicht begünstigt, weil keine "Unternehmens"-Eigenschaft.
+- Verbindliche Auskunft (§ 89 Abs. 2 AO) frühzeitig stellen, wenn die Struktur nicht eindeutig im Wortlaut steht. Bearbeitungszeit der Finanzämter regelmäßig drei bis sechs Monate; Gebühr nach § 89 Abs. 3-5 AO.
+
+## Trade-off: Vorbehaltensfrist gerissen oder unsicher
+
+| Pfad | Vorteil | Risiko |
+|---|---|---|
+| Umstrukturierung verschieben, bis 5 Jahre voll | rechtssicher | Zeitverlust, Deal-Druck |
+| Mit verbindlicher Auskunft umsetzen | Klarheit vorab | Gebühr + Bearbeitungszeit |
+| Auf "Entbehrlichkeit wegen Strukturbedingtheit" stützen | flexibel | Streit mit Finanzamt vorprogrammiert |
+
+Empfehlung: Bei Werten über 5 Mio. EUR Bemessungsgrundlage immer verbindliche Auskunft.
+
+## Typische Fehler
+
+- Zwischenholding wird kurz vor der Umstrukturierung eingeschoben; Vorbehaltensfrist startet neu.
+- Nachbehaltensplanung in Folge-M&A vergessen; Verkauf der Tochter binnen fünf Jahren hebt Begünstigung auf.
+- Drittbeteiligungen unter 5 % werden ignoriert, obwohl Optionsrechte oder Stimmrechtsabreden die 95-%-Schwelle wirtschaftlich reißen.

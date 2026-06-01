@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer US-Sanktionslisten, SDN-, Non-SDN- und Fifty
 
 Dieser Skill behandelt **US-Sanktionslisten, SDN-, Non-SDN- und Fifty-Percent-Rule als Risikohinweis fuer deutsche Unternehmen** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (US-Sanktionen für DE-Unternehmen)
+- US-Listen-Universum: SDN-Liste (Specially Designated Nationals), SSI-Liste (Sectoral Sanctions Identifications), Non-SDN-Listen (z. B. Iran Financial Sanctions, Foreign Sanctions Evaders), Entity List/Unverified List (BIS), Section 1260H DoD-Liste. OFAC SDN-Suche unter sdnsearch.ofac.treas.gov; konsolidierte Liste OFAC SDN List.
+- Fifty-Percent-Rule (OFAC FAQ 401, 50 Percent Rule Guidance): direkt oder mittelbar 50 %+ Beteiligung einer SDN-Person = automatisch gesperrt, auch ohne eigene Listung; aggregierte Beteiligung mehrerer SDN-Personen zählt.
+- US-Nexus für deutsche Unternehmen: USD-Clearing (US-Korrespondenzbank), US-Personen im Geschäft (Visa, Greencard, USA-Einreisen, US-Tochter), US-origin goods (10 %-De-Minimis ggf. EAR), US-Software/Technologie (gem. EAR § 734.3). Secondary Sanctions können auch ohne US-Nexus zuschlagen (z. B. CAATSA bei RU, NDAA-Sanktionen IR/NK).
+- Konflikt EU vs. US: EU-Blocking-VO (EG) 2271/96 verbietet bestimmte Befolgung von US-Sekundärsanktionen (IR, Kuba); Selbsthilfeantrag bei EU-Kommission möglich.
+- Praktiker-Tipp: Screening gegen OFAC SDN/SSI bei jedem neuen US-Touchpoint, Aufzeichnung sechs Jahre (31 CFR § 501.601). Bei Treffer keine eigenmächtige Freigabe — OFAC-Lizenz via TFAR; bei US-Tochter parallel internal investigation und Voluntary Self-Disclosure (VSD) erwägen.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

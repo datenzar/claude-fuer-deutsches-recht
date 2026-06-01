@@ -9,6 +9,16 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden
 
 Dieser Skill erklaert **Checkliste Vor Absenden** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Mindestinhalt Widerspruch: § 84 SGG – Form: schriftlich oder zur Niederschrift; Inhalt: Aktenzeichen, klares Begehren, ggf. Begruendung (Begruendung kann nachgereicht werden).
+- Mindestinhalt Klage SG: § 92 SGG – Beklagter, Streitgegenstand, bestimmter Antrag, Tatsachen.
+- Klage zu Protokoll: § 90 SGG.
+- Anlagen / Abschriften: § 93 SGG – fuer jeden Beteiligten eine Abschrift; bei beA Verteidiger andere Regeln.
+- Form: Schriftform mit Unterschrift; bei Fax aufzubewahrender Sendebericht; bei beA-Versand qualifizierte elektronische Signatur (Anwaltszwang bei beA-Pflicht).
+- Frist: § 84/87 SGG ein Monat – Eingang beim Gericht/Behoerde entscheidend; rechtzeitige Aufgabe zur Post reicht NICHT.
+- Praxis-Tipp: Vier-Punkte-Pruefung vor Absenden: (1) Aktenzeichen im Schriftsatz, (2) konkreter Antrag/Begehren, (3) Unterschrift (eigenhaendig), (4) Frist gesichert (Eingangstag + ggf. Versandnachweis). Sendung per Einschreiben mit Rueckschein oder Fax mit OK-Sendebericht; Eingangsstempel am Folgetag bei Gericht/Behoerde telefonisch bestaetigen lassen. Kopie aller Schriftsaetze fuer eigene Akte.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

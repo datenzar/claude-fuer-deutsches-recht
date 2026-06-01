@@ -26,6 +26,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Vermögensauskunft (§ 802c ZPO)
+- **Rechtsgrundlage:** § 802c ZPO i.V.m. §§ 802a, 802d ZPO. Pflicht des Schuldners zur Abgabe einer Vermögensauskunft im Vermögensverzeichnis vor dem Gerichtsvollzieher (früher: eidesstattliche Versicherung).
+- **Voraussetzung:** Gläubiger benötigt vollstreckbaren Titel; keine eigenständige Schwelle (anders als früher 500-Euro-Grenze).
+- **Verfahren:** Gerichtsvollzieher fordert Schuldner zur Abgabe; Schuldner muss persönlich erscheinen, alle Vermögensgegenstände, Forderungen, Beschäftigungsverhältnisse und Zahlungen der letzten zwei Jahre offenlegen.
+- **Verzeichnis-Inhalt (§ 802c Abs. 2 ZPO):** Forderungen aus Lohn, Bankguthaben, Wertpapiere, Lebensversicherungen, Grundstücke, Sicherungseigentum, GmbH-Anteile, Fahrzeuge, Wertsachen, Schenkungen letzte 4 Jahre (an nahestehende Personen), übertragenes Vermögen.
+- **Eintragung im Schuldnerverzeichnis (§ 882b ZPO):** Bei Nichtabgabe oder erfolgloser Vollstreckung Eintragung von Amts wegen ins Schuldnerverzeichnis - online abrufbar (für Gläubiger gegen Gebühr). Dauer: drei Jahre nach Eintragung.
+- **Haftbefehl (§ 802g ZPO):** Bei unentschuldigter Nichtabgabe Erzwingungshaft bis sechs Monate. Beantragung beim Gerichtsvollzieher; Haftbefehl wird durch Amtsgericht erlassen.
+- **Wiederholung (§ 802d Abs. 1 ZPO):** Erneute Vermögensauskunft erst nach Ablauf von 2 Jahren erforderlich; Ausnahme bei plausibler Begründung erheblicher Änderungen (§ 802d Abs. 1 S. 2 ZPO).
+- **Schutzschriften / Korrekturen:** Schuldner kann unrichtige Angaben durch Berichtigung korrigieren (§ 802c Abs. 3 ZPO); falsche Angaben sind als Straftat (§ 156 StGB - falsche Versicherung an Eides statt) strafbar.
+- **Praktiker-Tipp:** Vor Antrag: § 802l ZPO Kontensuche bei Bundeszentralamt für Steuern parallel beauftragen. Vermögensauskunft schafft die Voraussetzung für gezielte PfÜBs.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

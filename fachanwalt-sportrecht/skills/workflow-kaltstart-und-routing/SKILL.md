@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Sportrecht
+- Spielervertrag → Arbeitsrecht (KSchG, BGB §§ 611a ff.) iVm Verbandsstatuten (DFB, DFL); Befristungsrecht TzBfG aber Sport-Sonderrolle.
+- Anti-Doping → NADC, WADC; deutsches AntiDopG (§§ 1-10) seit 2015 strafrechtlich relevant.
+- Disziplinarverfahren → Verbandsgerichtsbarkeit, dann CAS Lausanne (Art. R47 ff. CAS-Code).
+- Sportverletzung → § 823 BGB; "Spielfair-Erkenntnis"; sport-typisches Risiko, regelkonformes Verhalten entlastet.
+- Vermarktung/Sponsoring → MarkenG, UWG; Persönlichkeitsrecht §§ 22, 23 KUG (Bildrechte Athleten).
+- Esports → Neuabgrenzung Sport vs. Gewerbe; steuerrechtlich gemeinnützig nur eingeschränkt.
+
+## Praxis-Hinweis
+- BGH "Pechstein" (2016) hat Schiedsklausel für Olympia-Athleten grds. anerkannt, aber unter kartellrechtlicher Korrektur. Keine erfundenen Az. nutzen — Suche im Original.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -26,6 +26,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen WEG-Beschlussanfechtung
+- **Fristen § 45 WEG (neue Nummerierung seit Reform 2020):** Anfechtungsklage ist innerhalb eines Monats ab Beschlussfassung zu erheben (Klageeingang); die Klagebegründung muss innerhalb von zwei weiteren Monaten ab Beschlussfassung nachgeschoben werden. Beide Fristen sind Ausschlussfristen, keine Verjährung.
+- **Klage gegen die GdWE:** § 44 Abs. 2 WEG. Aktivlegitimation: jeder Wohnungseigentümer, auch wenn er zugestimmt hat. Beklagte ist die rechtsfähige Gemeinschaft (§ 9a WEG), nicht der Verwalter und nicht die einzelnen Eigentümer.
+- **Zuständigkeit:** AG am Belegenheitsort, § 43 Nr. 1 WEG, § 23 Nr. 2 GVG (Sondergerichtsbarkeit unabhängig vom Streitwert; AG-Zuständigkeit ist Funktionalzuständigkeit). Anwaltszwang nicht vor dem AG, ratsam aber bei jedem komplexen Fall.
+- **Anfechtbarkeit vs Nichtigkeit:** Anfechtbarkeit (ordnungswidrige Verwaltung iSv § 19 WEG, Formfehler, Verfahrensfehler) erfordert fristgerechte Klage. Nichtigkeit (Beschluss ohne Beschlusskompetenz, Verstoß gegen zwingendes Recht, sittenwidriger Inhalt) ist jederzeit feststellbar - ohne Frist.
+- **Streitwert § 49 GKG:** Bedeutung des Beschlusses für den Kläger und die übrigen Wohnungseigentümer; gedeckelt auf 7,5-fachen Wert des Klägerinteresses, mindestens das halbe Gemeinschaftsinteresse, maximal das volle Verkehrsinteresse.
+- **Vorläufige Vollziehbarkeit:** Beschluss ist trotz Anfechtung wirksam bis zur Rechtskraft des stattgebenden Urteils (§ 23 Abs. 4 WEG), d. h. Zahlungsbeschlüsse sind sofort vollstreckbar.
+- **Praktiker-Tipp:** Versammlungsprotokoll, Einladung und Tagesordnung sofort sichern; Beweis des Beschlussinhalts liegt häufig im Verwalterbesitz - Anspruch auf Einsicht aus § 18 Abs. 4 WEG ggf. einstweilig durchsetzen.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

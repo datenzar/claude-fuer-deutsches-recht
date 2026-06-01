@@ -26,6 +26,14 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Beweislast-Verteilung im Mietrecht (Standardlagen)
+- **Mangel der Mietsache (§ 536 BGB):** Mieter trägt die Darlegungs- und Beweislast für den Mangel und für den Zugang der Mangelanzeige (§ 536c BGB). Vermieter trägt die Beweislast für vertragsgemäßen Zustand bei Übergabe; Übergabeprotokoll ist hier zentral.
+- **Verkehrssicherungspflicht:** Mieter weist Schadensereignis und Verletzungserfolg nach; Vermieter muss sich entlasten (§ 280 Abs. 1 S. 2 BGB; BGH ständige Rspr. zur Beweislastumkehr im Obhutsbereich).
+- **Kündigung wegen Zahlungsverzug (§ 543 Abs. 2 Nr. 3 BGB):** Vermieter trägt Beweislast für Zugang des Mietvertrags, Höhe der vereinbarten Miete, Nichtzahlung und Zugang der Kündigungserklärung. Mieter trägt Beweislast für erfolgte Zahlung, Aufrechnungslage und Schonfristzahlung (§ 569 Abs. 3 BGB).
+- **Eigenbedarf (§ 573 Abs. 2 Nr. 2 BGB):** Vermieter muss die Eigenbedarfsperson, den konkreten Nutzungswunsch und die Ernsthaftigkeit darlegen. Nach Räumung: Beweislastumkehr für vorgetäuschten Eigenbedarf liegt beim Mieter (BGH ständige Rspr.), bei plausiblen Indizien sekundäre Darlegungslast des Vermieters zur Nutzung nach Auszug.
+- **Betriebskosten (§ 556 BGB):** Vermieter trägt Beweislast für jede einzelne Position der Abrechnung (Anfall, Höhe, Verteilungsmaßstab, Wirtschaftlichkeit). Mieter trägt Beweislast für seine Einwände nur, wenn er bestimmte Behauptungen aufstellt (z. B. Verstoß gegen Wirtschaftlichkeitsgebot konkret).
+- **Mieterhöhung (§ 558 BGB):** Vermieter beweist die ortsübliche Vergleichsmiete (Mietspiegel, Vergleichswohnungen, Sachverständigengutachten). Mieter kann substantiiert bestreiten.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

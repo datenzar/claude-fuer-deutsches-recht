@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen Agrarrecht
+- GAP-Sammelantrag: jährlich bis 15. Mai (verspätet bis 9. Juni mit Kürzung); ab 2023 GAP-Reform mit GAPDZG.
+- AgrarZahlVerpflV: Konditionalität GLÖZ-Standards seit 2023; Bußgelder bei Verstoß.
+- Höferecht (HöfeO Nord-WL): Anerkennung als Hof; Hofübergabe formfrei aber notarielle Empfehlung.
+- Landpacht: Anzeigepflicht binnen Monatsfrist nach Vertragsschluss (§ 2 LPachtVG); Beanstandung Behörde binnen Monatsfrist nach Anzeige.
+- Düngeverordnung (DüV): Aufzeichnungspflichten Düngung binnen zwei Tagen; Stoffstrombilanzpflicht.
+- Pachtdauer landwirtschaftliche Grundstücke: Mindestdauer in BadW + Ba kein Aspekt, aber Kündigungsschutz LPachtVG.
+
+## Trade-off
+- Hofübergabe gegen Altenteil (höferechtlich privilegiert) vs. Schenkung mit Pflichtteilsanrechnung: höferechtliche Übergabe schützt vor Zersplitterung, aber bindet Hofnachfolger.
+- Greening/Öko-Regelungen GAP: Ökoregelungen pro Hektar zusätzliche Zahlung, aber Bewirtschaftungseinschränkungen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

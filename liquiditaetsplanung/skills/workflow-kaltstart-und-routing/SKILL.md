@@ -33,3 +33,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing-Weichen Liquiditätsplanung
+- **Zweck der Planung?**
+  - **13-Wochen-Liquidität** (Standard in der Krise): Wochengranularität, taggenaue Cash-In/Cash-Out — Grundlage für ZU-Prüfung § 17 InsO und Sanierungssteuerung.
+  - **24-Monats-Liquiditätsplan** (StaRUG/§ 18 InsO): Monatsgranularität, integriert mit GuV und Bilanz — Grundlage für drohende ZU und Frühwarnsystem § 1 StaRUG.
+  - **12-Monats-Plan** für Fortbestehensprognose § 19 InsO (Überschuldung) — Methodik nach IDW EPS 11.
+- **Datenbasis?**
+  - **Direkte Methode** (bevorzugt in der Krise): Cash-Inflows aus OPOS-Listen, Cash-Outflows aus Fälligkeitslisten — robust gegen Bilanzeffekte.
+  - **Indirekte Methode** (aus GuV/Bilanz abgeleitet): Cashflow aus Jahresabschluss-Forecast — geeignet für langfristige Planung, anfällig bei Krise.
+- **Mandantenrolle?**
+  - Geschäftsführer (Haftung § 15a, § 15b InsO): operative Steuerung.
+  - Sanierungsberater: CRO, Erstellung 13-Wochen-Plan.
+  - Insolvenzverwalter: Massesteuerung, § 158 InsO Fortführungsentscheidung.
+  - Kreditgeber: Standstill-Begleitung, Covenants-Monitoring.
+
+## Eilige Trigger
+- Liquiditätslücke in nächsten 4 Wochen erkennbar → ZU § 17 InsO droht; 3-Wochen-Frist § 15a InsO greift, wenn Lücke ≥ 10 Prozent.
+- Liquiditätsplan zeigt nur Vergangenheit, keine Vorausschau → unbrauchbar als Frühwarninstrument, Pflichtverletzung § 1 StaRUG.

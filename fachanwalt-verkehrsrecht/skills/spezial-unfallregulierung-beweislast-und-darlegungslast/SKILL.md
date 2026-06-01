@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Aus
 
 Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Unfallregulierung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Anspruchsgrundlagen Unfallregulierung: § 7 Abs. 1 StVG (Halterhaftung, Gefährdungshaftung), § 18 StVG (Fahrerhaftung), § 823 BGB (deliktische Haftung Fahrer/Halter), § 115 VVG (Direktanspruch gegen Versicherer).
+- Beweislast: Halter haftet nach § 7 StVG verschuldensunabhängig; Entlastung über § 7 Abs. 2 StVG (höhere Gewalt) eng. Fahrer haftet bei Verschulden (§ 18 StVG, Beweislast­umkehr für Verschulden).
+- Mitverschulden / Betriebsgefahr: § 17 StVG – Abwägung der Verursachungsbeiträge; bei Beteiligung Kfz/Kfz Quotelung; Anscheinsbeweis bei typischen Verläufen (Auffahrunfall, Vorfahrtsverletzung) BGH ständige Rspr.
+- Anscheinsbeweis: Bei feststehendem typischen Geschehensablauf wird Verschulden vermutet (z.B. Auffahrunfall → Auffahrender, Spurwechsel → Wechselnder). Erschüttert durch atypischen Sachverhalt.
+- Substantiierter Sachvortrag: § 138 ZPO – konkret zu Ort, Zeit, Hergang, Schadensposition. Bei Gegnerischer Bestreitung Beweisangebot (Zeugen, Sachverständigengutachten, Unfallpolizeibericht).
+- Schadenshöhe: § 249 BGB Naturalrestitution; konkrete oder fiktive Abrechnung; merkantiler Minderwert, Wertminderung; Sachverständigengutachten § 287 ZPO.
+- Praxis-Tipp: Beweissicherung vor Klage – Polizeibericht, Fotos, Werkstattgutachten, Zeugen­erklärungen sammeln. Bei Mitverschuldensquote frühe SV-Begutachtung (Unfallrekonstruktion) entscheidend, weil Anscheinsbeweis nach Erschütterung umstritten wird.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

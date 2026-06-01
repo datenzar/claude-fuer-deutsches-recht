@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Studium — frei zugängliche Quellen
+- **Gesetze (immer aktuell):** `gesetze-im-internet.de` (Bundes-Justizministerium), `dejure.org` (mit Rechtsprechung verlinkt).
+- **Rechtsprechung:** `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `bverwg.de`, `bsg.bund.de`, `bag.bund.de`, `bundesfinanzhof.de`; OLG-Datenbanken länderspezifisch; `dejure.org` als Aggregator.
+- **EuGH/EuG:** `curia.europa.eu`, ECLI-Nummern für Permalink.
+- **Material zur Examensvorbereitung:** `jura-online.de`, `jurawelt.de`, `juraexamen.info` (oft kostenlose Beispielklausuren); IFJ Hamburg, Repetitorien-Skripte (kostenpflichtig).
+- **Gesetzgebungsmaterialien:** `dipbt.bundestag.de` (Drucksachen), Begründungen zur Norm-Auslegung.
+- **OpenJUR:** `openjur.de` für nicht-amtliche Volltexte.
+- Falle für Studierende: Wikipedia, Anwalt24, Frag-Einen-Anwalt sind KEINE zitierfähigen Quellen. Selbst die brauchbarste Übersicht muss bis auf BGH/BVerfG/EuGH oder hM-Kommentar zurückgeführt werden. Bei Hausarbeiten: nur erstrangige Quellen zitieren, alle Behauptungen belegen.

@@ -37,3 +37,50 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## DFG-typische Schwellen / Größenordnungen (vor Ausgabe live verifizieren)
+
+| Schwelle | Bedeutung |
+|---|---|
+| Geräte > 10.000 EUR netto | Einzelbegründung erforderlich |
+| Geräte > 50.000 EUR netto | regelmäßig drei Vergleichsangebote erforderlich |
+| Geräte > Großgerätegrenze (vor Ausgabe verifizieren) | Großgeräteantrag, ggf. Begutachtung separat |
+| Sachbeihilfe-Personenanträge | regelmäßig 3 Jahre Laufzeit, ein- oder mehrjährige Tranchen |
+| Koselleck-Volumen | bis ca. 1,25 Mio. EUR über 5 Jahre |
+| SFB-Volumen | dreistellige Mio.-Beträge möglich über 12 Jahre |
+| Programmpauschale Universitäten | 22 % auf direkte Mittel (vor Ausgabe verifizieren) |
+| Open Access-Pauschale Publikationen | jährliche Pauschale je nach Programm |
+
+## Personalmittelpauschalen (DFG-Tabelle, vor Ausgabe live auf dfg.de verifizieren)
+
+| Stelle | Pauschalsatz |
+|---|---|
+| Postdoc 100 % E13 TV-L Standard | DFG-Pauschale je nach Erfahrungsstufe |
+| Promovierende 65 %-Stelle | DFG-Pauschale, häufig 65 % E13 |
+| Promovierende 75 %-Stelle | DFG-Pauschale, häufig 75 % E13 |
+| Studentische Hilfskraft (SHK) | Stunden- oder Monatspauschale |
+| Wissenschaftliche Hilfskraft mit Abschluss (WHK) | Stunden- oder Monatspauschale (höher als SHK) |
+
+## Praktischer Tipp
+
+- DFG akzeptiert ihre eigenen Pauschalen ohne Einzelnachweis. Eigene Berechnungen ("TV-L E13 Stufe 3 inklusive Arbeitgeberanteil zur Sozialversicherung") führen zu Rückfragen.
+- Bei Mehrjahresplänen (3 Jahre): durchschnittlich + Inflation einplanen, DFG akzeptiert regelmäßig moderate Steigerungssätze.
+- Reisemittel: DFG-Reisekostenrichtlinien folgen dem Bundesreisekostengesetz (BRKG); Tagespauschalen sind dort verankert (vor Ausgabe verifizieren). Konferenzkosten separat: Anmeldegebühr + Reise + Unterkunft + Tagungspauschale.
+
+## Beispiel-Rechnung (typischer Sachbeihilfe-Antrag, 3 Jahre)
+
+> Personalmittel: 1 Postdoc 100 % (3 Jahre): EUR [Pauschale × 36 Monate]
+> Personalmittel: 1 Promo 65 % (3 Jahre): EUR [Pauschale × 36 Monate]
+> SHK (40 Std./Monat, 3 Jahre): EUR [...]
+> Sachmittel (Verbrauchsmaterial): EUR 12.000 (4.000 EUR p.a.)
+> Reisemittel: EUR 9.000 (3.000 EUR p.a.)
+> Publikationsmittel: EUR 4.500 (1.500 EUR p.a.)
+> Direkt zusammen: EUR [...]
+> + Programmpauschale 22 % (Universität): EUR [...]
+> = Gesamtsumme: EUR [...]
+
+## Typische Fehler
+
+- Programmpauschale auf Programmpauschale aufgeschlagen ("Multiplikation").
+- Geräte > 10.000 EUR ohne Einzelbegründung pauschal als "Sachmittel" verbucht.
+- Promovierende mit 100 %-Stelle beantragt, obwohl in Geisteswissenschaften regelmäßig 65 % oder 75 % üblich sind - vermeintliche Großzügigkeit wirkt antragsschwächend.

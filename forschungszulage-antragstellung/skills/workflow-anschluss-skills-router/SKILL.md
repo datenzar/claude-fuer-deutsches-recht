@@ -33,3 +33,31 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Forschungszulage: das zweistufige Verfahren
+
+| Stufe | Stelle | Inhalt |
+|---|---|---|
+| 1. BSFZ-Bescheinigung | Bescheinigungsstelle Forschungszulage (BSFZ) | inhaltliche Prüfung der FuE-Tätigkeit nach § 2 FZulG |
+| 2. Festsetzung der Forschungszulage | zuständiges Finanzamt | Berechnung Bemessungsgrundlage, Festsetzung Forschungszulage nach § 10 FZulG |
+
+Beide Stufen sind **getrennt** zu durchlaufen; die BSFZ-Bescheinigung ist Grundlagenbescheid für das Finanzamt.
+
+## Routing nach FZulG-Themen
+
+| Frage | Folgeskill |
+|---|---|
+| Ist mein Projekt FuE-fähig? | spezial-foerdercheck-risikoampel-und-gegenargumente |
+| BSFZ-Portaltexte verfassen (Zeichenbudget!) | spezial-antragstellung-tatbestand-beweis-und-belege + spezial-bsfz-behoerden-gericht-und-registerweg |
+| Bemessungsgrundlage berechnen | spezial-antrag-zahlen-schwellen-und-berechnung + spezial-bemessungsgrundlage-mehrparteien-konflikt-und-interessen |
+| Auftragsforschung / FuE durch Dritte | spezial-bemessungsgrundlage-mehrparteien-konflikt-und-interessen |
+| Beihilfen-/De-minimis-Frage | spezial-beihilfen-beweislast-und-darlegungslast |
+| Bescheid abgelehnt / Einspruch | spezial-einspruch-sonderfall-und-edge-case |
+| Verlustlage / Konzern | spezial-abgrenzung-compliance-dokumentation-und-akte + Steuerberater einbeziehen |
+
+## Wichtige Quellen (live verifizieren)
+
+- **bescheinigung-forschungszulage.de** (BSFZ): Anträge, Merkblätter, FAQ.
+- **bundesfinanzministerium.de**: BMF-Schreiben zum FZulG (vor Ausgabe Datum und AZ verifizieren).
+- **bzst.de**: Bundeszentralamt für Steuern (Beihilfen / De-minimis-Schnittstelle).
+- **gesetze-im-internet.de**: FZulG-Wortlaut.

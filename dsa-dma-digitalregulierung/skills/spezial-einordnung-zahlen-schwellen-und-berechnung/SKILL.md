@@ -26,6 +26,25 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Schwellen DSA (VO (EU) 2022/2065)
+- **VLOP / VLOSE** (Art. 33 Abs. 1): durchschnittlich **mindestens 45 Mio. monatlich aktive Nutzer** in der Union — berechnet nach Methodik der Durchführungsverordnung (EU) 2023/1322.
+- **Online-Plattformen, Kleinst- und Kleinunternehmen** sind nach Art. 19 von einem Teil der Pflichten befreit (Anlehnung an Empfehlung 2003/361/EG: < 50 Beschäftigte und ≤ 10 Mio. EUR Jahresumsatz/-bilanzsumme).
+- **Bußgeld DSA** (Art. 52): bis 6 % des weltweiten Jahresumsatzes; Zwangsgeld bis 5 % des durchschnittlichen täglichen Umsatzes.
+
+## Schwellen DMA (VO (EU) 2022/1925, gilt seit 02.05.2023)
+Vermutung Gatekeeper-Status nach Art. 3 Abs. 2 DMA, wenn alle drei Schwellen erfüllt:
+- **Größe Union**: Jahresumsatz im EWR ≥ 7,5 Mrd. EUR (in jedem der letzten drei Geschäftsjahre) **oder** durchschnittliche Marktkapitalisierung / fairer Marktwert ≥ 75 Mrd. EUR im letzten Geschäftsjahr **und** zentraler Plattformdienst in mindestens 3 Mitgliedstaaten.
+- **Nutzerzahl**: mindestens 45 Mio. monatlich aktive Endnutzer in der Union und mindestens 10.000 jährlich aktive gewerbliche Nutzer (jeweils im letzten Geschäftsjahr).
+- **Verfestigt**: Nutzer-Schwellen in den letzten drei Geschäftsjahren erreicht.
+
+Gegenbeweis: Art. 3 Abs. 5 DMA — Marktbedingungen widerlegen die Gatekeeper-Stellung.
+
+## Bußgeldrahmen DMA
+- Bis **10 % des weltweiten Jahresumsatzes** (Art. 30); Wiederholung bis **20 %**. Zwangsgeld bis 5 % des durchschnittlichen täglichen Umsatzes.
+
+## Trade-off
+Schwellen sind Brutto-Größen — gerichtliche Überprüfung der Methodik (Definition aktiver Nutzer, Konsolidierungsgrenze) ist offen; Designated-Beschlüsse der Kommission werden vor dem EuG angegriffen. Die Marktkapitalisierungs-Schwelle macht auch wachstumsstarke Anbieter ohne hohen Umsatz erfassbar.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

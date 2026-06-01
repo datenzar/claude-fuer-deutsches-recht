@@ -17,14 +17,40 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## False-Friends-Liste (Common Law vs. deutsches Recht)
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+| Common-Law-Begriff | Klingt wie | Tatsaechliche Bedeutung |
+|---|---|---|
+| **Discovery** | Beweisermittlung | Vorprozessuale Beweis- und Tatsachenausforschung mit Zwangsmitteln (FRCP 26-37; in DE nur eng beschraenkt §§ 142, 144, 421-432 ZPO; § 810 BGB; § 242 BGB; Art. 15 DSGVO) |
+| **Consideration** | Erwaegung, Ueberlegung | Gegenleistung als Wirksamkeitsvoraussetzung des contract; deutsches Recht kennt keine consideration |
+| **Indemnity** | Entschaedigung, Versicherung | Freistellungsvertrag, oft verschuldensunabhaengig und primaer; nicht identisch mit § 257 BGB |
+| **Warranty** | Garantie | Vertragliche Zusicherung mit Schadensersatzfolge bei Verletzung; nicht ident mit § 443 BGB Garantie |
+| **Representation** | Vertretung | Tatsachenbehauptung; misrepresentation fuehrt zu rescission / damages, im Unterschied zu Anfechtung § 119 II BGB |
+| **Equity** | Kapital, Eigenkapital | Billigkeitsrechtsprechung mit eigenen Rechtsbehelfen (injunction, specific performance, rescission) |
+| **Specific performance** | Konkrete Leistung | Naturalerfuellungsanspruch — im Common Law Ausnahme, im deutschen Recht Regel (§ 241 I BGB) |
+| **Liquidated damages** | Liquidierter Schaden | Vertraglich vereinbarte Schadenspauschale; nur wirksam wenn "genuine pre-estimate of loss" (UK Cavendish v. Makdessi 2015) |
+| **Penalty** | Strafe | Unzulaessig im Common Law als nicht-genuine pre-estimate; in DE Vertragsstrafe §§ 339 ff. BGB zulaessig |
+| **Tort** | Unrecht | Deliktsrecht ohne Generalklausel; einzelne torts (negligence, nuisance, defamation) — vgl. § 823 ff. BGB |
+| **Estoppel** | Sperre | Treu-und-Glauben-Konstrukt fuer Vertrauensschutz; vergleichbar § 242 BGB, aber technischer |
+| **Privity of contract** | Vertraulichkeit | Vertragsbindung nur fuer Parteien; UK seit 1999 Contracts (Rights of Third Parties) Act gelockert |
+| **Statute of limitations** | Limitierung | Verjaehrung; abweichend vom deutschen 3-Jahres-Regel (§ 195 BGB) je nach Staat unterschiedlich |
+| **Punitive / exemplary damages** | Punktive Schaeden | Strafschadensersatz; nicht im deutschen Recht; nicht vollstreckbar wegen ordre public § 328 I Nr. 4 ZPO |
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+## Struktur fuer englische Mandantennotiz
+
+1. **Issue** — Was ist die Rechtsfrage?
+2. **Rule** — Welche Rechtssaetze, welche Rechtsordnung?
+3. **Application** — Subsumtion unter die Tatsachen.
+4. **Conclusion** — Ergebnis und Empfehlung.
+
+(IRAC-Methode statt Gutachtenstil; Mandant-Englisch ist deutlich knapper als deutsche Memo-Struktur.)
+
+## Praxisfallen
+
+- **Choice-of-law** wird oft mit choice-of-forum verwechselt; trennen.
+- **Trust**-Strukturen im US/UK-Recht haben kein direktes Aequivalent in DE; § 1922 BGB Erbfolge greift anders.
+- **At-will employment** in US-Staaten: deutsche Mandanten sind irritiert; Hinweis auf US-Realitaet.
+- **Anti-suit injunctions** UK gegen DE-Klagen — seit Brexit wieder moeglich; Vollstreckbarkeit in DE problematisch.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

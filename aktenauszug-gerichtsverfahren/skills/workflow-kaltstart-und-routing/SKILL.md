@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Aktenauszug
+- Erstgericht-Akte → AG/LG/OLG/BGH; nach Instanz Schriftsätze, Protokolle, Beweisaufnahme separieren.
+- Tatbestand → § 313 ZPO Mindestinhalt; in Aktenauszug Sachverhaltsfeststellung gem. Tatbestand der Endentscheidung.
+- Beweisaufnahme → §§ 355 ff. ZPO; Zeugenvernehmungs-Protokolle (§ 159 ZPO) gesondert auswerten.
+- Verfahrensfehler → revisible (§§ 547, 543 ZPO) gegenüber nicht-revisiblen; absoluter Revisionsgrund § 547 ZPO (Besetzung, Recht auf Gehör).
+- Verbund Familiengericht → mehrere Folgesachen; § 137 FamFG; separierte Aktenauszüge sinnvoll.
+- Strafverfahren → Einbeziehung über § 397 StPO Nebenklage; Adhäsion §§ 403 ff. StPO.
+- Selbstständiges Beweisverfahren → §§ 485 ff. ZPO; eigenständige Aktenauszüge mit Sachverständigengutachten.
+
+## Praxis-Hinweis
+- Aktenauszug für Berufung sollte chronologisch + thematisch sortiert sein; Bezugnahmen auf Bl./Bd. der Akte zwingend (BGH-Praxis Substantiierung).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

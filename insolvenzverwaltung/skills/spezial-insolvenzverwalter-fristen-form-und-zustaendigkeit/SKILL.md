@@ -37,3 +37,25 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Insolvenzverwalter-Fristen — Kernzeiten
+- **§ 22 InsO Sicherungsmaßnahmen:** ab Bestellung sofort (in der Praxis: erste 24–72 Stunden).
+- **§ 156 InsO Berichtstermin:** ca. 6 Wochen bis 3 Monate nach Eröffnung — Verwalter berichtet zu Lage, Fortführung/Stilllegung, Vergleichsoptionen.
+- **§ 158 InsO Stilllegung:** vor Berichtstermin nur mit Zustimmung Gläubigerausschuss oder bei Massearmut.
+- **§ 176 InsO Prüfungstermin:** Frist zur Anmeldung (regelmäßig 4–6 Wochen) endet vor diesem Termin.
+- **§ 187, § 196 InsO Verteilung:** Abschlagsverteilung möglich nach Prüfungstermin; Schlussverteilung am Ende.
+- **§ 200 InsO Aufhebung:** nach Schlussverteilung.
+- **§ 174 Abs. 3 InsO Nachrang § 39 InsO:** gesonderte Aufforderung des Gerichts erforderlich, vor Aufforderung keine Anmeldung erfolgt.
+- **§ 113 InsO Kündigungsfrist Arbeitsverhältnisse:** 3 Monate (auch bei längerer ordentlicher Kündigungsfrist) — Sonderkündigungsrecht Verwalter.
+- **§ 109 InsO Mietverhältnisse:** Sonderkündigungsrecht Verwalter mit 3-Monats-Frist.
+- **§ 103 InsO Erfüllungswahl:** unverzüglich, sonst Nichterfüllungswahl angenommen — bei Hinweis des Vertragspartners zur Stellungnahme aufgefordert.
+
+## Zuständigkeit
+- **Insolvenzgericht** = Amtsgericht am Sitz des Schuldners (§ 2 InsO). Bei Sitzverlegung in den letzten 6 Monaten: vorheriger Sitz (§ 3 Abs. 1 InsO).
+- **Beschwerden gegen Verwalter-Entscheidungen:** sofortige Beschwerde § 6 InsO.
+- **Restrukturierungsgericht** = Landgericht beim OLG-Sitz (§ 34 StaRUG) — nur für StaRUG-Verfahren.
+
+## Form
+- Berichte und Anträge zum Insolvenzgericht: schriftlich (Schriftsatz) oder beA-Übermittlung; Anlagen elektronisch oder in Papier.
+- Verwaltervergütungsantrag § 63 InsO i.V.m. InsVV § 8 ff. — mit Begründung der Zu- und Abschläge.
+- Schlussbericht und Schlussrechnung § 197 InsO — beim Insolvenzgericht einzureichen.

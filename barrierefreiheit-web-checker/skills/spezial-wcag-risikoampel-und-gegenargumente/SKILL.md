@@ -21,10 +21,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Wcag** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **WCAG** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Risikoampel WCAG-Findings
+- **Rot — Blocker**: Funktion ohne Tastatur unbedienbar (SC 2.1.1), kein Texterzeichnis (Captcha ohne Alternative SC 1.1.1), Kontrast unter 3:1 für UI-Bestandteile (SC 1.4.11), Sprache der Seite nicht ausgezeichnet (SC 3.1.1).
+- **Gelb — wesentlich beeinträchtigend**: Fokus-Sichtbarkeit unzureichend (SC 2.4.7), Linktexte nicht aussagekräftig (SC 2.4.4), Formularlabels fehlen (SC 3.3.2), Zoom 200 % verursacht horizontales Scrollen (SC 1.4.10).
+- **Grün — Optimierung**: Konsistente Navigation (SC 3.2.3), redundante Eingaben (SC 3.3.7 — neu in WCAG 2.2), Erkennungsmerkmale für Tastaturfokus (SC 2.4.11 — neu in WCAG 2.2).
+
+## Typische Gegenargumente und Erwiderung
+- **"Nur wenige Nutzer betroffen"**: § 17 Abs. 2 BFSG nennt die geschätzte Inanspruchnahme als einen, nicht den einzigen Faktor. Aktuell ca. 7,8 Mio. Menschen in Deutschland mit Schwerbehinderung.
+- **"WCAG 2.2 ist nicht verpflichtend"**: korrekt, da EN 301 549 noch auf WCAG 2.1 verweist. Gegenargument bleibt vorerst tragfähig; in Abnahme-Verträgen kann WCAG 2.2 dennoch privatautonom geschuldet sein.
+- **"Drittinhalte sind nicht beeinflussbar"**: Anhang 1 BFSGV Nr. 7 verpflichtet zur Sicherung der Barrierefreiheit auch bei Drittinhalten, soweit kontrollierbar. Auswahl- und Konfigurationspflichten greifen.
+- **"Beta-Status"**: keine Ausnahme im BFSG; entscheidend ist Inverkehrbringen oder Erbringen der Dienstleistung gegenüber Verbrauchern.
+
+## Verteidigungslinien
+1. **Konformitätsvermutung** durch Anwendung EN 301 549 + Prüfbericht
+2. **Schrittweise Nachbesserung** mit dokumentierter Roadmap und Marktüberwachung in Verhandlung halten
+3. **Unverhältnismäßige Belastung** nur mit vollständiger Bewertung nach § 17 BFSG; freiwilliger Mitteleinsatz erforderlich (§ 17 Abs. 4)
+
+## Trade-off
+Auf "unverhältnismäßige Belastung" sollte sich nur stützen, wer wirklich keine Mittel zur Herstellung der Barrierefreiheit findet — die Behörde fordert nicht selten Nachbesserung mit fester Frist statt vollständiger Bußgeldverfügung.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt
 
 Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Geldstrafe**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Geldstrafe: § 40 StGB – Tagessatzsystem. Anzahl der Tagessätze: 5 bis 360 (§ 40 Abs. 1 S. 2 StGB); bei Gesamtgeldstrafe bis 720 (§ 54 Abs. 2 S. 2 StGB).
+- Tagessatzhöhe: § 40 Abs. 2 StGB – Nettoeinkommen pro Tag (Bruttoeinkommen abzüglich gesetzlicher Abgaben, Unterhaltspflichten). Spanne: 1 EUR bis 30.000 EUR pro Tagessatz; Schätzung nach § 40 Abs. 3 StGB zulässig.
+- Faustregel Praxis: Nettomonatseinkommen / 30 = Tagessatz; Unterhaltspflichten 1/4 Abschlag pro unterhaltsberechtigter Person ist verbreitet, aber kein Automatismus.
+- Ratenzahlung: § 42 StGB – Bewilligung bei wirtschaftlicher Härte; Voraussetzungen begründen.
+- Ersatzfreiheitsstrafe: § 43 StGB – ein Tag Freiheitsstrafe = ein Tagessatz Geldstrafe; nach Reform 2023 § 43 S. 2 StGB: ein Tag Freiheitsstrafe = zwei Tagessätze ab 01.10.2024 (Reform Sanktionenrecht) – stets aktuelle Fassung prüfen.
+- 90-Tagessätze-Schwelle BZRG: Geldstrafen bis 90 Tagessätze nicht im Führungszeugnis (§ 32 Abs. 2 Nr. 5 BZRG) – wichtige Strategie-Schwelle.
+- Praxis-Tipp: Bei Tagessatzhöhe nicht "schätzen lassen", sondern Einkommensbelege (Lohnabrechnung, EStB, Sozialleistungen) konkret vortragen – sonst landet Höhe häufig zu hoch.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

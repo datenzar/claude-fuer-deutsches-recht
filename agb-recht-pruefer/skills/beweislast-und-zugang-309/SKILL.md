@@ -23,9 +23,26 @@ Nutze diesen Skill für **Beweislast und Zugang 309** im deutschen AGB-Recht, we
 2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Beweislast und Zugang 309 besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+5. **Spezialfokus § 309 Nr. 12 BGB (Beweislast) und § 308 Nr. 6 BGB (Zugangsfiktion):**
+   - **§ 309 Nr. 12 BGB - Beweislast:** Eine Klausel, durch die der Verwender die Beweislast zum Nachteil des Kunden aendert, ist unwirksam. Hierunter fallen insbesondere:
+     - **lit. a:** Klausel, die dem Kunden die Beweislast fuer Umstaende auferlegt, die im Verantwortungsbereich des Verwenders liegen.
+     - **lit. b:** Klausel, durch die der Kunde bestimmte Tatsachen bestaetigt (z.B. "Kunde bestaetigt vollstaendige Information").
+   - **Konkrete Beispiele unwirksamer Klauseln:**
+     - "Der Anspruch des Kunden auf Mangelbeseitigung setzt voraus, dass er den Mangel innerhalb von 14 Tagen anzeigt" (Beweislastumkehr).
+     - "Der Kunde bestaetigt, ueber das Widerrufsrecht informiert worden zu sein" (Tatsachen-Bestaetigung).
+     - "Die Sache ist bei Lieferung in ordnungsgemaessem Zustand" (Beweisbelastung).
+   - **§ 308 Nr. 6 BGB - Zugangsfiktion (Klauselverbot mit Wertungsmoeglichkeit):** Klausel, nach der eine Erklaerung des Verwenders bei besonderem Bedeutung als zugegangen gilt - nur bei angemessener Frist und Hinweisfunktion zulaessig. Pauschale Zugangsfiktion wie "Mitteilung an die letzte uns bekannte Adresse gilt als zugegangen" ist regelmaessig unwirksam.
+   - **B2B-Ausstrahlung:**
+     - § 309 Nr. 12 BGB strahlt ueber § 307 BGB ins B2B aus (BGH, ständige Rechtsprechung).
+     - § 308 Nr. 6 BGB ist im B2B unter Wertung des § 307 BGB anwendbar; pauschale Zugangsfiktionen auch im B2B kritisch.
+   - **Zugang nach § 130 BGB:** Bei Empfangsbeduerftigen Willenserklaerungen "Zugang in den Machtbereich des Empfaengers + Moeglichkeit der Kenntnisnahme". Bei E-Mail: in Eingang des Empfangsservers + Kenntnisnahmemoeglichkeit (BGH-Linie). Ausserhalb von Geschaeftszeiten: am naechsten Werktag.
+   - **Beweissicherung im Vertrag:** Statt Zugangsfiktion ist Lieferantragsdokumentation zu empfehlen (Einschreiben, Lesebestaetigung, qualifizierter elektronischer Zustelldienst).
+6. **Rechtsfolge:** Unwirksamkeit; gesetzliche Beweislastregeln und Zugangsregeln greifen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+### Mustertext (zulaessige Anschriftenklausel)
+
+> Erklaerungen des Anbieters sind dem Kunden an die zuletzt mitgeteilte Anschrift zu senden. Der Kunde verpflichtet sich, Adressaenderungen rechtzeitig in Textform mitzuteilen. Unterlaesst der Kunde die Mitteilung schuldhaft, gehen Erklaerungen ihm in dem Zeitpunkt zu, in dem sie ohne die Anschriftenaenderung zugegangen waeren. Diese Regelung gilt nicht fuer Kuendigungen und sonstige Erklaerungen mit besonderer rechtlicher Bedeutung.
 
 ## Output
 

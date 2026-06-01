@@ -26,6 +26,17 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
+## Materielle Weichen Mieten in der Zwangsverwaltung
+- **Erfassung Mieten (§ 148 Abs. 1 ZVG):** Mieten und sonstige Nutzungen sind durch die Beschlagnahme erfasst. Der Zwangsverwalter zieht die Mietzinsen ein - der Schuldner hat keine Verfügungsbefugnis mehr.
+- **Mitteilungspflicht an Mieter (§ 152 ZVG):** Zwangsverwalter muss Mieter informieren - ab Mitteilung erfolgt Zahlung schuldbefreiend nur an den Verwalter. Bei Zahlung an den Schuldner trotz Mitteilung: Mieter muss erneut an Verwalter zahlen.
+- **Bestand der Mietverträge:** Mietverhältnisse bleiben bestehen (§ 152 Abs. 1 ZVG); Zwangsverwalter tritt in die Position des Vermieters ein, kann aber den Vertrag nicht ohne Weiteres ändern.
+- **Mieterhöhung und Mietminderung:** Zwangsverwalter kann zur ordnungsgemäßen Bewirtschaftung Mieterhöhung gem. § 558 BGB betreiben, soweit Voraussetzungen erfüllt. Mietminderung des Mieters wirkt fort - Verwalter trägt die Last der Mängelbeseitigung im Rahmen der Bewirtschaftung.
+- **Kündigung durch Verwalter:** Bei Pflichtverletzungen des Mieters (Zahlungsverzug) kann Verwalter kündigen (§ 543 BGB). Vorprozessuale Mahnung sinnvoll; Räumungsklage durch Zwangsverwalter im eigenen Namen (Prozessstandschaft, § 152 Abs. 1 ZVG).
+- **Vorausverfügungen des Schuldners (§ 1124 BGB):** Abtretungen von Mietzinsen oder Vorauszahlungsvereinbarungen vor Beschlagnahme bleiben in den Schranken des § 1124 BGB wirksam, nach Beschlagnahme unwirksam gegenüber den Gläubigern.
+- **Treuhandkonto (§ 156 Abs. 1 ZVG):** Vereinnahmte Mieten werden auf separates Treuhandkonto eingezahlt; Verwalter trennt Vermögen Schuldner und Verwaltungsvermögen.
+- **Verteilung Mieten (§ 155 ZVG i.V.m. § 156 ZVG):** Mieten dienen zuerst den Bewirtschaftungskosten (laufende Kosten, Steuern, Verwaltervergütung), dann den dinglichen Gläubigern nach Rang.
+- **Wohnungseigentum:** Bei WEG-Objekten muss Verwalter Hausgeld an die GdWE laufend zahlen (§ 16 Abs. 2 WEG i.V.m. § 152 Abs. 2 ZVG) - sonst Beitritt der GdWE zum Versteigerungsverfahren möglich.
+
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.

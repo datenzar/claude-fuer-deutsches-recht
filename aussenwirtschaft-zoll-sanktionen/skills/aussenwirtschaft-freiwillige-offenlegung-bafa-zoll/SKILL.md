@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Freiwillige Offenlegung BAFA Zoll. Fuehrt du
 
 Dieser Skill behandelt **Freiwillige Offenlegung BAFA Zoll** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (Selbstanzeige)
+- Rechtsgrundlage: § 22 Abs. 4 AWG (Selbstanzeige bei Ordnungswidrigkeiten nach §§ 19-19a AWG — Voraussetzung: vor Entdeckung durch Behörde, freiwillig, vollständige Offenlegung des Sachverhalts). Bei Steuerstrafrecht parallel § 371 AO (Selbstanzeige bei Steuerhinterziehung mit Ausschlussgründen).
+- Wirkung: Bei OWi nach AWG entfällt Bußgeldverfolgung, wenn Sperrgründe (§ 22 Abs. 4 Satz 2 AWG: Entdeckung, Bekanntgabe Ermittlungsverfahren, Erscheinen Prüfer) nicht greifen. Bei Strafsachen (§ 18 AWG) keine eigene Selbstanzeigemöglichkeit — Strafmilderung über § 46b StGB möglich.
+- Inhalt der Offenlegung: vollständige Sachverhaltsdarstellung, betroffene Geschäfte, Güter, Empfänger, beteiligte Personen, ggf. Mengen und Werte; interne Untersuchungsergebnisse; Maßnahmen zur Behebung (ICP-Update, Schulung, Compliance-Reaktion).
+- Adressaten: BAFA (Exportkontrolle, Sanktionen), HZA/Generalzolldirektion (Zoll), ggf. Staatsanwaltschaft bei Strafsachen. Bei Doppelthema (AWG + Steuer) koordinierte Selbstanzeige.
+- Praktiker-Tipp: Vor Einreichung Vier-Augen-Prinzip — interne Untersuchung dokumentieren (Memo, Beweismittel), Anwalt einbeziehen, Selbstanzeige schriftlich mit Eingangsbestätigung. Praxis BAFA: zügige Aufarbeitung gewünscht, kooperatives Verhalten wirkt strafmildernd; bei Sanktionsverstößen häufig parallel Compliance-Programm-Forderungen.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

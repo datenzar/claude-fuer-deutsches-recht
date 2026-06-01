@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Äußerungsrecht — Kaltstart-Weichen
+- **Werturteil oder Tatsachenbehauptung?** Wahlfreiheit der Meinung Art. 5 Abs. 1 GG; bei Tatsachen Beweisbarkeit prüfen (BVerfG ständige Rspr.). Mehrdeutigkeit → Stolpe-Linie: jede Deutungsvariante muss bei Unterlassung verboten werden können (BVerfGE 114, 339).
+- **Schmähkritik vs. zulässige Meinungsäußerung:** Schmähkritik nur bei reiner Diffamierung ohne Sachbezug (BVerfG ständige Rspr.); ansonsten Abwägung Persönlichkeitsrecht (Art. 2 I, 1 I GG) vs. Art. 5 GG.
+- **Personenkreis:** Privatperson, Politiker (§ 188 StGB), Amtsträger; Machtkritik genießt erhöhten Schutz, aber kein Freibrief.
+- **Forum:** Print, Rundfunk, Soziale Medien (DSA-Pflichten), Betrieb (BetrVG-Bezug?). Plattformlöschung nach DSA Art. 16-17 prüfen.
+- **Frist:** Unterlassungsanspruch (§§ 823, 1004 BGB analog) und Gegendarstellung (Landespressegesetze, idR unverzüglich, max. 3 Monate).
+- Falle: Persönliches Empfinden des Mandanten als Schmähkritik bezeichnen — der Begriff ist nach BVerfG eng auszulegen.

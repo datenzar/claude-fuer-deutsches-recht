@@ -11,7 +11,17 @@ Auslegung vor Anfechtung, Dissens und Lückenschließung durchführen.
 
 ## Normanker
 
-§§ 133 und 157 BGB
+- § 133 BGB: Bei Auslegung einer Willenserklärung ist der wirkliche Wille zu erforschen, nicht am buchstäblichen Sinn zu haften.
+- § 157 BGB: Verträge sind nach Treu und Glauben mit Rücksicht auf die Verkehrssitte auszulegen.
+- Auslegungsmethode bei empfangsbedürftigen Erklärungen: objektiver Empfängerhorizont (BGH ständige Rspr. — wie ein verständiger Dritter in der Lage des konkreten Empfängers verstehen durfte).
+- Nicht empfangsbedürftige Erklärungen (Testament): subjektiver Empfängerhorizont, wirklicher Wille des Erklärenden dominiert.
+- Falsa demonstratio non nocet: Beide Vertragsparteien wollten dasselbe; Falschbezeichnung schadet nicht. Vorrang vor Anfechtung.
+- Ergänzende Vertragsauslegung (§ 157 BGB analog): Lückenschließung über hypothetischen Parteiwillen, wenn Regelungslücke besteht.
+- Vorrang Auslegung vor Anfechtung: Erst klären, was vereinbart wurde, dann ob ein Anfechtungsgrund vorliegt.
+- AGB-spezifische Auslegung § 305c Abs. 2 BGB: Unklarheitenregel — Zweifel gehen zulasten des Verwenders.
+
+## Praxis-Tipp
+- Reihenfolge in der Klausur: 1) Auslegung, 2) Falsa demonstratio prüfen, 3) Dissens (§§ 154, 155 BGB), 4) erst dann Anfechtung. Wer hier umgekehrt prüft, prüft zu viel und meist falsch.
 
 ## Intake
 

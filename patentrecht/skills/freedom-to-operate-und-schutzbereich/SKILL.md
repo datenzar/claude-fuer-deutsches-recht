@@ -27,3 +27,12 @@ description: "Prüft Freedom-to-Operate und Schutzbereich: Zielprodukt, Territor
 ## Pflichtsatz
 
 FTO ist nie absolute Freiheit. Das Ergebnis ist eine risikogewichtete Recherche und Prüfung auf Grundlage der konkret geprüften Schutzrechte und Datenbanken.
+
+## Schutzbereich-Auslegung — Pflichtnormen
+
+- **§ 14 PatG / Art. 69 EPÜ und Auslegungsprotokoll:** Schutzbereich primär nach Ansprüchen, Beschreibung und Zeichnungen heranziehen, aber nicht zur Erweiterung über den Anspruch hinaus.
+- **Wortsinn vor Äquivalenz:** Erst exakte Merkmalsverwirklichung prüfen; dann Äquivalenz nach BGH "Schneidmesser I/II" (X ZR 168/00) — gleiche Wirkung, naheliegende Auffindbarkeit, Gleichwertigkeit aus Anspruch.
+- **Mittelbare Verletzung § 10 PatG:** Lieferung von Mitteln, die sich auf wesentliche Erfindungselemente beziehen, kann verletzen, auch wenn Anwender nicht verletzt.
+- **Einwendungen prüfen:** Vorbenutzungsrecht (§ 12 PatG), Erschöpfung (§ 9 S. 2 PatG), Lizenz, Verwirkung (§ 242 BGB), Versuchsprivileg (§ 11 Nr. 2 PatG), Bolar-Klausel Medikamentenzulassung.
+- **UPC-Zuständigkeit:** Bei Einheitspatent zentrale Klage am UPC; Opt-out nur bis Ende Übergangszeit; danach Bindung an UPC-Spruch.
+- Tipp: Claim Chart immer mit Anspruchsversion (Anmeldetag, Erteilungstext, Einspruchstext) und Registerabrufdatum versehen.

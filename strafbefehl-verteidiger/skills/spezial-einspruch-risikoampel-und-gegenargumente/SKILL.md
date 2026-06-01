@@ -10,6 +10,14 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausg
 
 Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Themenfeld **Einspruch**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Einspruch gegen Strafbefehl: § 410 StPO – zwei Wochen ab Zustellung, schriftlich oder zu Protokoll der Geschäftsstelle.
+- Folge des wirksamen Einspruchs: Hauptverhandlung nach §§ 411 ff. StPO; das Gericht ist an die Festsetzung im Strafbefehl nicht gebunden, ggf. reformatio in peius nach § 411 Abs. 4 StPO denkbar (auch verschärfung möglich) – Mandant aufklären, das ist das zentrale Risiko des Einspruchs.
+- Beschränkter Einspruch: § 410 Abs. 2 StPO – nur auf Tagessatzhöhe, Fahrverbot oder andere Rechtsfolgen; spart Hauptverhandlung über Schuld.
+- Verwerfung bei Ausbleiben: § 412 StPO – Folge wie rechtskräftiger Strafbefehl; Wiedereinsetzung nach § 44 StPO sorgfältig prüfen.
+- Praxis-Tipp: Risikoampel pro Vorwurf führen (grün=Einstellung wahrscheinlich nach §§ 153, 153a StPO; gelb=Reduktion Tagessätze realistisch; rot=Erhöhung droht). Vor Einlegung mit Mandant schriftlich besprechen, dass auch volles Verbleiben oder Verschärfung möglich ist.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

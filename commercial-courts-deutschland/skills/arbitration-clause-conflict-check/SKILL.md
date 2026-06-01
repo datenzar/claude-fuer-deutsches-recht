@@ -21,6 +21,28 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### Klauselkonflikt-Prüfraster
+
+| Schritt | Inhalt | Norm/Kategorie |
+| --- | --- | --- |
+| Klauselbestand erfassen | Schiedsvereinbarung, Gerichtsstandsklausel, Eskalationsklausel (Mediation/Schlichtung), Forenwahl in Rahmen- und Einzelverträgen | §§ 1029 ff. ZPO Schiedsverfahren; § 38 ZPO Gerichtsstand |
+| Wirksamkeit Schiedsabrede | Schriftform § 1031 ZPO, Bestimmtheit, Schiedsfähigkeit § 1030 ZPO | ggf. Trennung Hauptvertrag/Schiedsklausel (Severability) |
+| Forenkonflikt | Welche Klausel ist die jüngste? Welche ist die speziellere (lex specialis)? | Auslegung §§ 133, 157 BGB |
+| Eskalationsstufen | Vorgeschaltete Mediation pflichtig? Sanktionen bei Überspringen | BGH ständige Rechtsprechung: ggf. Klage unzulässig wenn Mediationsstufe nicht durchlaufen |
+| Asymmetrische Klauseln | Eine Partei wählen, andere nicht: Wirksamkeit zweifelhaft (AGB-Kontrolle § 307 BGB) | im B2C unwirksam; im B2B Einzelfallprüfung |
+| Hybrid: Court vs. Arbitration | Sind beide Forenwege gleichzeitig zulässig oder schließt einer den anderen aus? | Wahl- vs. Konkurrenzklausel |
+| Rüge bei Anrufung des "falschen" Forums | Antrag auf Verweisung (§ 281 ZPO) oder Schiedseinrede (§ 1032 ZPO) | rechtzeitig vor Einlassung zur Sache rügen |
+
+### Trade-off Schiedsgericht versus Commercial Court
+
+| Schiedsgericht | Commercial Court |
+| --- | --- |
+| Vertraulichkeit | Öffentlichkeit § 169 GVG (Ausnahme § 273a ZPO Vertraulichkeitsanordnung Justizstandort-Stärkungsgesetz) |
+| Parteibestimmte Schiedsrichter | Staatliche Richter, keine Auswahl |
+| Vollstreckung weltweit (New York Convention 1958) | Vollstreckung EU-Inland Brüssel Ia-VO; sonst Anerkennungsverfahren |
+| Keine Berufung, nur Aufhebung §§ 1059 ZPO | Revision § 184b GVG zum BGH möglich |
+| Kosten oft höher (Schiedsrichterhonorare, Institut) | GKG-Gebühren plus RVG |
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

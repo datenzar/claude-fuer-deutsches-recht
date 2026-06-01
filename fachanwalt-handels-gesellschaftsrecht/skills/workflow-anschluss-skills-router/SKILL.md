@@ -28,6 +28,24 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Routing-Tabelle Handels-/Gesellschaftsrecht
+
+| Sachverhalt | Anschluss-Skill (Beispiele) | Normanker |
+| --- | --- | --- |
+| Kaufmannseigenschaft, Handelsregister | HGB-Skills | §§ 1 ff. HGB, § 5 HGB (Kannkaufmann § 2 HGB) |
+| GbR-/OHG-Konflikt | Personengesellschafts-Skills | §§ 705 ff. BGB (MoPeG-novelliert seit 01.01.2024), §§ 105 ff. HGB |
+| KG, Haftungsgrenze Kommanditist | KG-Skills | §§ 161 ff. HGB, § 171 HGB Haftsumme |
+| GmbH & Co. KG | Mischform-Skills | §§ 161 ff. HGB i.V.m. GmbHG |
+| GmbH-Gründung, Stammkapital | GmbHG-Skills | §§ 5, 7, 8 GmbHG (Mindeststammkapital 25.000 EUR, hälftige Einzahlung bei Gründung) |
+| GmbH-Geschäftsführerhaftung | Organhaftung | §§ 43, 64 GmbHG (Insolvenzantrag § 15a InsO), § 31 BGB analog |
+| AG / Vorstand | AktG-Skills | §§ 76 ff., 93 AktG (Business Judgment Rule § 93 Abs. 1 Satz 2 AktG) |
+| Beschlussmängelklage GmbH | Anfechtung/Nichtigkeit | §§ 241 ff. AktG analog (BGH ständige Rechtsprechung) |
+| Partnerschaftsgesellschaft (PartG mbB) | PartG-Skills | PartGG, MoPeG-Reform |
+| Umwandlung, Verschmelzung | UmwG-Skills | UmwG mit Modernisierung 2023 |
+| Handelskauf, Mängelrüge | §§ 377 ff. HGB | Untersuchungs- und Rügeobliegenheit |
+| Prokura, Handlungsvollmacht | §§ 48 ff. HGB | Prokuraumfang § 49 HGB |
+| Transparenzregister | GwG | §§ 18 ff. GwG, Mitteilungspflicht |
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

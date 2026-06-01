@@ -39,6 +39,21 @@ Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen o
 - Schutzvorschriften in Wertersatz umwandeln.
 - Fristen oder Rechtsweg übersehen.
 
+## Arbeitsrecht-spezifische Schwerpunkte
+
+- **Rechtsgrundlage:** § 812 Abs. 1 S. 1 Alt. 1 BGB (Leistungskondiktion), wenn Lohn ohne Anspruch gezahlt — z. B. nach Beendigung, bei doppelter Zahlung, bei zu hoher Eingruppierung, bei nicht erbrachter Arbeitsleistung (krank ohne Lohnfortzahlungsanspruch).
+- **Ausschlussfristen:** zentrale Hürde. Tarifliche oder einzelvertragliche Ausschlussfristen (typisch 3 Monate ab Fälligkeit) müssen vom Arbeitgeber strikt gewahrt werden. **Fristbeginn** bei Bereicherungsanspruch ist die Zahlung des Entgelts (str.); BAG-Linie beachten — Verifikation des Az.
+- **Entreicherung § 818 Abs. 3 BGB:** großzügig zugunsten des Arbeitnehmers — bei Konsum für laufende Lebenshaltung (Miete, Lebensmittel) regelmäßig Entreicherung anerkannt. Sparvermögen, Anschaffungen oder Schuldentilgung dagegen meist nicht entreichert.
+- **§ 819 BGB Verschärfung:** Bei Kenntnis des Arbeitnehmers vom Fehlen des Rechtsgrunds (z. B. mündliche Vereinbarung Gehaltskürzung, dennoch volle Zahlung) Wegfall der Entreicherungseinrede.
+- **Nettolohn-Bruttolohn-Problem:** Rückforderbar ist grds. der **Bruttolohn**, weil Arbeitnehmer rechtlich darüber verfügt hat; ggf. Anpassung Lohnsteuer und Sozialversicherung. Bei Erstattung im laufenden Lohnabrechnungszeitraum unproblematisch.
+- **Rechtsweg:** Arbeitsgericht zuständig (§ 2 Abs. 1 Nr. 3 ArbGG) — Bereicherungsanspruch zwischen Arbeitgeber und Arbeitnehmer.
+
+## Insolvenz-Schnittstelle
+
+- Bei Insolvenz des Arbeitnehmers: Lohnvorpfändungsbeschluss, Pfändbarkeitsgrenzen § 850c ZPO beachten.
+- Bei Insolvenz des Arbeitgebers: rückforderbarer Überzahlungsbetrag ist Insolvenzforderung § 38 InsO; Insolvenzgeld-Vorfinanzierung beachten.
+- Anfechtung § 130, § 131 InsO bei zu hoher Lohnzahlung in der Krise möglich.
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

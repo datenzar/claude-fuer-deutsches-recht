@@ -23,6 +23,18 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 Besondere Anker: § 119b GVG, Landesrechtsverordnung, Parteivereinbarung, Streitwert ab 500.000 EUR und sachgebietliche Beschränkungen. Prüfe außerdem, ob eine Commercial Chamber beim LG oder ein Commercial Court beim OLG/Obersten Landesgericht gemeint ist.
 
+### Zuständigkeits-Check Commercial Court / Commercial Chamber
+
+1. **Streitwertschwelle:** Commercial Court (§ 119b GVG) regelmäßig ab 500.000 EUR Streitwert; Landesverordnungen können davon abweichen. Commercial Chamber (§§ 95, 184a GVG i.V.m. Justizstandort-Stärkungsgesetz) hat keine harte Streitwertschwelle, aber sachlich-örtliche Zuständigkeit nach §§ 23, 71 GVG.
+2. **Sachgebietsfilter:** B2B-Wirtschaftsstreit, kein Arbeitsrecht, kein Verbrauchersachverhalt, kein Familien-/Erbrecht. Typisch: SPA-/APA-Streit, Post-M&A-Garantieansprüche, D&O-Haftung, Lieferketten, Finanzierung.
+3. **Parteivereinbarung:** § 38 ZPO Gerichtsstandsvereinbarung zwischen Kaufleuten zulässig; ausdrückliche Wahl von "Commercial Court at OLG X" empfohlen. Bei Verbraucherbeteiligung greift § 38 Abs. 1 ZPO nicht.
+4. **Landesrecht prüfen:** Bisher tätige Commercial Courts/Commercial Chambers etwa in Hamburg, Stuttgart (BaWü), München (Bayern), Frankfurt (Hessen), Düsseldorf, Köln (NRW), Mannheim (BaWü). Aktuelle Liste live verifizieren — keine erfundenen Standorte.
+5. **Schwellenwerte Justizstandort-Stärkungsgesetz im Blick behalten:** Berufungssumme § 511 ZPO 1.000 EUR; Amtsgerichtszuständigkeit § 23 GVG ab 2026 bis 10.000 EUR; vereinfachtes Verfahren § 495a ZPO bis 1.000 EUR. Diese Schwellen sind für die Frage Commercial Court eigentlich irrelevant, aber für die Verfahrensstrategie und Rechtsmittel wichtig.
+
+### Rügelose Einlassung und Forum-Wechsel
+
+Hat sich der Beklagte rügelos auf eine andere Kammer eingelassen (§ 39 ZPO), wird die Rüge der Commercial-Court-Zuständigkeit präkludiert. Daher: Zuständigkeitsrüge in der Klageerwiderung an erster Stelle.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

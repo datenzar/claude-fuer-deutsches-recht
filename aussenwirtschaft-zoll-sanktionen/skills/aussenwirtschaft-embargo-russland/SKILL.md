@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer EU-Russland-Embargo, Umgehungsrisiken, No-Ru
 
 Dieser Skill behandelt **EU-Russland-Embargo, Umgehungsrisiken, No-Russia-Clause, Altvertrag und Dienstleistungsverbote** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (RU-Embargo)
+- Kerngrundlagen: Rats-VO (EU) Nr. 833/2014 (Sektor- und Güter-Embargo), Rats-VO (EU) Nr. 269/2014 (Finanzsanktionen gegen gelistete Personen/Entities), Rats-VO (EU) Nr. 692/2014 (Krim/Sewastopol), Rats-VO (EU) 2022/263 (besetzte Gebiete Donezk, Luhansk, Saporischschja, Cherson). Stets aktuelle konsolidierte Fassung über EUR-Lex live prüfen — laufende Sanktionspakete.
+- Verbotene Güter (Anhänge der VO 833/2014): Dual-Use (Anh. VII), Industrie-, Luxus-, Hightech-Güter (Anh. XXIII, IV, XVIII), Öl-/Gasprodukte (Anh. XI), Wirtschaftsgüter (Anh. XXXVIII). HS/KN-Code zuerst klären.
+- "No-Russia-Clause": Art. 12g VO 833/2014 — Pflicht zur vertraglichen Wiederausfuhrverbots-Klausel bei Export von Anh. XI/XX/XXXV-Gütern in Drittländer ab 20.3.2024. Klauseltext mit Sanktion bei Verstoß; Vertragsmuster der Kommission als Orientierung.
+- Dienstleistungsverbote (Art. 5n VO 833/2014): u. a. Rechts-, Buchhaltungs-, PR-, Steuer-, Architektur-, IT-Beratung; eng begrenzte Ausnahmen (Gerichtsverfahren, Schutz von Menschenrechten, Compliance-Unterstützung). Konzernsachverhalte gesondert prüfen.
+- Praktiker-Tipp: Vor jeder Lieferung Eigentums-/Kontrollprüfung über 50 %-Schwelle (Art. 2 Abs. 1 VO 269/2014) und Endverwender-Screening; Umgehungsrisiken (Art. 12 VO 833/2014) und FAQ der EU-Kommission heranziehen. BAFA-Genehmigungsanträge über ELAN-K2; bei Altverträgen (Wind-down-Klauseln) Ausnahmen prüfen, sonst freiwillige Selbstanzeige (§ 22 Abs. 4 AWG) erwägen.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

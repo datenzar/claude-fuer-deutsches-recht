@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt
 
 Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Strafkammer**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Sachliche Zuständigkeit Strafrichter: § 25 GVG – Vergehen mit Straferwartung bis 2 Jahre Freiheitsstrafe (Strafbefehl bis 1 Jahr mit Bewährung).
+- Schöffengericht: § 28 GVG – Straferwartung bis 4 Jahre Freiheitsstrafe.
+- Große Strafkammer am LG: § 74 GVG – Verbrechen mit Straferwartung über 4 Jahren oder besondere Bedeutung; erweiterte Schöffengericht § 33b GVG.
+- Schwurgericht: § 74 Abs. 2 GVG – Mord, Totschlag, schwere Körperverletzungsdelikte mit Todesfolge.
+- Strafvollstreckungskammer: § 78a GVG – Reststrafenaussetzung, Bewährungswiderruf, Sicherungs­verwahrung.
+- BZRG / Führungszeugnis: § 32 BZRG – Geldstrafen bis 90 Tagessätze und Freiheitsstrafen bis 3 Monate nicht ins einfache Führungszeugnis; § 31 BZRG zur Tilgungsfristen.
+- Praxis-Tipp: Vor Hauptverhandlung Zuständigkeitsprüfung – falls Straferwartung knapp über Schöffengerichts-Schwelle (4 Jahre), kann Strafkammer das LG anrufen. Für Mandant kann LG-Verfahren ungünstiger sein (mehr Schöffen, andere Verfahrenskultur), aber bei großem Sachverhalt teilweise besser strukturiert.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Warennummer, HS, KN, TARIC, Einreihungsargum
 
 Dieser Skill behandelt **Warennummer, HS, KN, TARIC, Einreihungsargumentation und verbindliche Zolltarifauskunft** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (Zolltarif)
+- Hierarchie: HS (6-stellig, WCO-Harmonisierungssystem) → KN (8-stellig, EU-Kombinierte Nomenklatur, VO (EWG) Nr. 2658/87 mit jährlicher Aktualisierung der Anhänge) → TARIC (10-stellig, EU-Maßnahmen wie Antidumping, Embargo, Präferenz, Aussetzung).
+- Einreihungsregeln (Allgemeine Vorschriften AV 1-6, Anh. I Teil I Abschn. I A KN): zuerst Wortlaut Position (AV 1), dann Anmerkungen Abschnitt/Kapitel; bei Mehrdeutigkeit AV 2 (unfertige/zerlegte Ware), AV 3 (genauere Beschreibung > allgemeine, stoffliche/funktionsgebende Komponente), AV 5 (Verpackung), AV 6 (Unterposition).
+- Verbindliche Zolltarifauskunft (vZTA, Art. 33 UZK): drei Jahre rechtsverbindlich, Antrag online beim Hauptzollamt; freie Datenbank EBTI für Vergleich. Bei Klassifikationsverordnungen (KlassifizierungsVO der Kommission) Bindungswirkung erga omnes.
+- Praxisfallen: Funktion vs. Beschaffenheit (z. B. Multifunktionsgeräte AV 3c), zusammengesetzte Waren (Sets nach AV 3b), Software auf Hardware (Anm. 5 Kap. 84). EuGH-Rspr. zu Klassifikation oft entscheidend (z. B. EuGH zur Tarifierung elektronischer Geräte).
+- Praktiker-Tipp: Vor jeder neuen Tarifierung dokumentierten Einreihungsvorgang (Photos, technisches Datenblatt, AV-Begründung) ablegen — bei Zollprüfung (§§ 89 ff. UZK) gilt Mitwirkungspflicht. Bei Falschtarifierung sofort Korrektur (Art. 173 UZK), bei strafrechtlicher Relevanz Selbstanzeige nach § 370 AO oder § 22 Abs. 4 AWG erwägen.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

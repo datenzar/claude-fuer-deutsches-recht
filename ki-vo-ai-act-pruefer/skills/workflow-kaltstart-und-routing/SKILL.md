@@ -22,6 +22,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Diagnose KI-VO
+- **"Wir bauen / entwickeln ein KI-System"** → Anbieterrolle (Art. 3 Nr. 3); weiter zu `rolle-anbieter-pruefen-art-3-nr-3`, dann Risikoklassifizierung.
+- **"Wir setzen ein KI-System ein"** → Betreiberrolle (Art. 3 Nr. 4); weiter zu `rolle-betreiber-pruefen-art-3-nr-4`, danach Betreiberpflichten Art. 26.
+- **"Wir importieren ein KI-System"** → Importeur (Art. 3 Nr. 6); Pflichten Art. 23.
+- **"Bevollmächtigter eines Drittland-Anbieters"** → Art. 22, 25.
+- **"Wir nutzen ein Foundation Model / LLM mit allgemeinem Zweck"** → GPAI (Art. 51 ff.); Modell vs. System unterscheiden.
+
+## Routing-Diagnose Mandantenziel
+- **Markteintritt / Inverkehrbringen** → Risikoklassifizierung + ggf. Konformitätsbewertung Art. 43 + Doku Anhang IV + CE/EU-DB.
+- **Behördenkommunikation / Marktüberwachung** → Art. 70-79; Vorfallmeldung Art. 73.
+- **Vertragsverhandlung mit KI-Anbieter** → Anhang-XI/XII-Anforderungen + AVV DSGVO + Berufsrecht (falls relevant).
+- **Interne Compliance / Inventar** → ki-governance-Plugin verlinken.
+
+## Trade-off
+Schnelle Erstindikation gegen tiefere Subsumtion: erste Routing-Antwort sollte 1-2 Spezialskills mit Begründung benennen, nicht alle möglichen Wege auflisten. Bei Zweifel: konservativ einstufen und Anhang-III-Prüfung als Erstanker.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

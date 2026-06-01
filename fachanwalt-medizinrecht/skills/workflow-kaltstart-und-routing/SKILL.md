@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Medizinrecht
+- Arzthaftung Patient → Behandlungsvertrag § 630a BGB; Aufklärungs- und Dokumentationspflichten §§ 630e, 630f BGB.
+- Kassenarzt Honorarstreit → § 87 SGB V Honorarverteilung; Klage SG.
+- Berufsrechtliche Sanktion → KammerG, MBO-Ä, Berufsgericht der Ärztekammer.
+- Approbationsrecht → BÄO §§ 3, 5, 6 (Approbation, Ruhen, Widerruf); VG-Klageweg.
+- Krankenhausvergütung → KHEntgG, KHG, DRG-System; Schiedsstelle § 18a KHG.
+- Apotheke, Heilmittel, MPG → MPG, MPDG, AMG; spezielle Werbe- und Vertriebspflichten.
+- IGeL/Privatabrechnung → GOÄ, Aufklärungspflicht über Selbstzahler.
+
+## Praxis-Hinweis
+- Patientenrechtegesetz seit 2013: Beweislastregeln § 630h BGB Patienten-freundlich (grober Behandlungsfehler, Befunderhebungsversäumnis, voll beherrschbares Risiko).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -33,3 +33,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Memo-Standardstruktur (CLAUDE.md verbindlich)
+1. **Sachverhalt** (knapp, faktentreu, keine Wertung).
+2. **Frage(n)** (präzise; bei mehreren Anspruchsgrundlagen separat).
+3. **Kurzantwort** (1 Satz; trifft die zentrale Aussage).
+4. **Rechtliche Bewertung** (Gutachtenstil: Obersatz, Definition, Subsumtion, Zwischenergebnis je Tatbestandsmerkmal).
+5. **Gesamtergebnis** (klare Empfehlung + Wahrscheinlichkeit).
+6. **Risiken / offene Punkte** (was kann anders entschieden werden? Was fehlt an Tatsachen?).
+7. **Quellenverzeichnis** (gem. `references/zitierweise.md`; Rspr. vor Lit., neueste zuerst).
+
+## Tipps
+- Maximal 1 Seite Sachverhalt, sonst Anhang. Memo soll auf 5-10 Seiten lesbar bleiben.
+- Auslegung nach Savigny-Kanon (Wortlaut, Systematik, Historie, Telos) plus verfassungs-/unionsrechtskonform.
+- Anspruchspyramide: Vertrag → c.i.c. → GoA → dinglich → Delikt → Bereicherung.
+- Falle: "Risiken / offene Punkte" weggelassen — gerade hier dokumentieren Sie Haftungsbegrenzung; ein Memo ohne offene Punkte ist verdächtig.

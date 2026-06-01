@@ -21,10 +21,31 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Fahrlaessigkeit** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **grobe Fahrlässigkeit** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Definition grobe Fahrlässigkeit
+Grob fahrlässig handelt, wer **die im Verkehr erforderliche Sorgfalt in besonders schwerem Maße verletzt**, also einfachste Überlegungen nicht angestellt und nicht beachtet hat, was im konkreten Fall jedem hätte einleuchten müssen (st. Rspr., u. a. BGH X ZR 110/96; § 277 BGB analog für Vertragspflichten).
+
+## Red-Team-Test: Argumente der Bank gegen den Kunden
+- **"Phishing-Mail ist offensichtlich erkennbar"** — Gegen-Check: Wie professionell war Layout, Absender, Domain? Wurde Markenidentität täuschend ähnlich nachgebaut? Plausibler Anlass (z. B. angekündigte Sicherheitsumstellung)?
+- **"Bank warnt regelmäßig vor Phishing"** — Gegen-Check: Wurde der konkrete Angriffsvektor (z. B. Call-ID-Spoofing kombiniert mit pushTAN-Manipulation) jemals gegenüber dem Kunden adressiert?
+- **"TAN/PIN niemals weitergeben"** — Gegen-Check: Hat der Kunde "weitergegeben" oder hat ein Trojaner / eine Webseiteninjektion automatisch die Daten abgegriffen? Auch bei Polizei-Anrufen wegen "Geldwäscheverdacht" greift die Täuschung über den Anlass.
+
+## Qualitätskontrolle Sachverhaltsdarstellung
+- **Zeitliche Lückenlosigkeit**: Lücken in der Zeitlinie öffnen Bankarguments.
+- **Subjektive Wahrnehmung**: differenziert beschreiben — Sorge, Druck, Geschwindigkeit.
+- **Sicherheitsverhalten vor Vorfall**: lange Banking-Erfahrung, regelmäßige Updates, frühere Phishing-Erkennung — ist die Substantiierung gegen den Vorwurf grober Fahrlässigkeit.
+
+## Red-Team-Test: Kunden-Argumente gegen die Bank
+- **Pflichtverletzung "Starke Kundenauthentifizierung"** (§ 55 ZAG): bei rein TAN-basierter Abwehr ohne dynamische Verknüpfung zu Empfänger/Betrag.
+- **Fehlende Anomalie-Erkennung**: ungewöhnlicher Empfänger, ungewöhnliches Volumen, ungewöhnliche Tageszeit — kommerzielle Anti-Fraud-Systeme sind Standard; Untätigkeit ist auffällig.
+- **Verspätete Rückabwicklung**: § 675u BGB verlangt unverzügliche Erstattung; verzögerte Reaktion verletzt Verzugsrecht.
+
+## Trade-off
+Eine pauschale "Es war nicht meine Schuld"-Argumentation reicht nicht. Wirksam ist die Kombination aus dokumentierter Phishing-Reproduktion (Screenshots, Aufzeichnungen) + bankseitiger Pflichtverletzung (fehlende Anomalie-Erkennung, schwache Authentifizierung). Die zweite Schiene gewinnt Schlichtungsfälle oft auch dann, wenn die erste angreifbar bleibt.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

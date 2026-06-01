@@ -33,3 +33,25 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Liquiditätsplanungs-Ampel
+- **ROT — akute ZU-Gefahr (§ 17 InsO):**
+  - Liquiditätsstatus zeigt **Liquiditätslücke ≥ 10 Prozent** der fälligen Verbindlichkeiten über **3 Wochen** (BGH-Linie zu § 17 Abs. 1 S. 2 InsO).
+  - Drei-Wochen-Frist § 15a InsO läuft → Antragspflicht, Beraterhinzuziehung sofort.
+  - Cash-Reichweite < 4 Wochen.
+- **GELB — drohende ZU (§ 18 InsO):**
+  - Im 24-Monats-Plan Liquiditätsdeckung < 100 Prozent.
+  - Sensitivitätsanalyse zeigt: bei moderaten Negativ-Annahmen Lücke.
+  - StaRUG-Anzeige § 31 StaRUG erwägen; Stabilisierungsanordnung § 49 StaRUG bei akutem Vollstreckungsdruck.
+- **GRÜN — Vorsorge:**
+  - Liquiditätsplan rollierend, Sensitivität geprüft, Cash-Reichweite > 3 Monate, Kovenanten eingehalten.
+
+## Fristenkalender Liquidität in der Krise
+- 13-Wochen-Liquidität: wöchentliche Aktualisierung in der Krise, monatliche Aktualisierung in der Vorkrise.
+- Insolvenzgeld § 165 SGB III: 3 Monate Vorlauf möglich, Vorfinanzierung über zertifizierte Bank.
+- Lohnsteuer und Sozialversicherung: strikte Pflichtzahlung (§ 266a StGB), nicht stunden.
+- Energieversorger: bei Zahlungsrückstand droht Sperre — § 110 InsO, im Eröffnungsverfahren § 21 InsO Schutz möglich.
+
+## Beweissicherung
+- Liquiditätsplan datieren, archivieren, Annahmen dokumentieren.
+- Bei späterem Insolvenzverfahren beweist die zeitnahe Planung die ex-ante-Sicht für Geschäftsführerhaftung § 15b InsO.

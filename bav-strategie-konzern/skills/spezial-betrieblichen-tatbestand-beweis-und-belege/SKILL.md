@@ -37,3 +37,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Tatbestandsmerkmale bAV (§ 1 BetrAVG)
+
+1. Zusage des Arbeitgebers (Direktzusage / über mittelbaren Versorgungsträger).
+2. Aus Anlass des Arbeitsverhältnisses.
+3. Versorgungsleistung (Alter, Invalidität, Tod).
+4. Versorgungscharakter (nicht reine Entgeltumwandlung ohne Versorgungszweck).
+
+## Beweislage / Belege
+
+| Tatbestandsmerkmal | Beleg | Verantwortlich |
+|---|---|---|
+| Zusage besteht | Versorgungsordnung, Einzelzusage, Gesamtzusage, Betriebsvereinbarung, Tarifvertrag | Arbeitgeber/HR |
+| Anlassbezug | Arbeitsvertrag mit Verweis, Anschreiben | HR |
+| Versorgungszweck | Leistungsplan mit Trigger Alter/Invalidität/Tod | bAV-Berater |
+| Unverfallbarkeit | Zeitnachweise (Diensteintritt, Ausscheiden), § 1b BetrAVG | HR / Personalakte |
+| Höhe der unverfallbaren Anwartschaft | m/n-tel-Berechnung, versicherungsmathematisches Gutachten | Aktuar |
+
+## Praktischer Tipp
+
+- "Betriebliche Übung" (drei Jahre vorbehaltlose Gewährung) wird im BAG-Bereich als Zusage gewertet (BAG, vor Ausgabe live verifizieren auf bundesarbeitsgericht.de zur jüngsten Rechtsprechung). Gegenmittel: Freiwilligkeitsvorbehalt **bei jeder Gewährung** schriftlich, nicht nur im ersten Schreiben.
+- "Versorgungscharakter" wird streitig bei Bonus-/Tantieme-Wandlung; Faustregel: Versorgungszweck nur dann, wenn Leistung an Versorgungsfall (Alter, Invalidität, Tod) anknüpft, nicht an reine Zeitablauffälligkeit.
+- m/n-tel-Berechnung nach § 2 BetrAVG: m = tatsächliche Betriebszugehörigkeit, n = mögliche Zugehörigkeit bis Versorgungsfall. Häufiger Fehler: feste Versorgungsleistung statt erdienter Quote bei vorzeitigem Ausscheiden.
+
+## Beispiel-Mustertext (Versorgungszusage-Kernklausel)
+
+> Die [Gesellschaft] sagt Herrn/Frau [Name] folgende Versorgungsleistungen aus Anlass des Arbeitsverhältnisses zu: bei Erreichen der Regelaltersgrenze nach § 35 SGB VI eine monatliche Altersrente in Höhe von EUR [Betrag] sowie bei Invalidität (§ 43 SGB VI) und im Todesfall die in der beigefügten Versorgungsordnung definierten Leistungen. Auf das Betriebsrentengesetz wird ausdrücklich Bezug genommen. Es handelt sich um eine [Direktzusage / Unterstützungskassen-Zusage / Pensionsfondszusage / Pensionskassen-Zusage / Direktversicherungs-Zusage].
+
+## Typische Fehler
+
+- Versorgungszusage ohne klare Anrechnung von Vordienstzeiten - bei späterem Streit fehlt die Anknüpfung.
+- "Freiwillig, kein Rechtsanspruch" steht in der Versorgungsordnung, gleichzeitig wird seit Jahren regelmäßig gezahlt - Wirksamkeit des Freiwilligkeitsvorbehalts streitig (BAG-Linie zur AGB-Kontrolle nach §§ 305 ff. BGB).

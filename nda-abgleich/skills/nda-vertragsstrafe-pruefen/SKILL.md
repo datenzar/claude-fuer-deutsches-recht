@@ -41,6 +41,36 @@ Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
 3. **Pruefung im Gutachtenstil** – Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** – konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
 
+## Fachpruefraster Vertragsstrafe NDA
+
+### Materielle Anforderungen (§ 339 BGB)
+
+- **Akzessorietaet:** Vertragsstrafe setzt schuldhafte Verletzung der Hauptpflicht voraus (§ 339 i.V.m. § 276 BGB). Verschuldensunabhaengige Strafklauseln sind im Zweifel unwirksam.
+- **Bestimmtheit:** Strafversprechen muss inhaltlich klar bestimmt sein: Auf welche konkrete Pflicht bezieht sich die Strafe? Wie wird die Hoehe berechnet? Welche Hoechstgrenze gilt?
+- **Verschulden:** Bei AGB-NDA mit Vertragsstrafe ohne Verschulden Verstoss gegen § 307 BGB.
+
+### AGB-Kontrolle (§§ 305 ff. BGB)
+
+- **B2C (Verbraucher-NDA, z.B. Arbeitnehmer in Privatkonstellation):** § 309 Nr. 6 BGB - absolutes Klauselverbot. Vertragsstrafe in AGB gegenueber Verbrauchern stets unwirksam.
+- **B2B:** § 310 Abs. 1 BGB lockert direkte Anwendung, aber § 307 BGB Wertungsausstrahlung. Indizien fuer Wirksamkeit: angemessene Hoehe, Verschulden, konkrete Pflichtbenennung, keine Doppelpauschalierung.
+- **Arbeitsrecht:** Im Arbeitsverhaeltnis Vertragsstrafe in AGB grundsaetzlich problematisch. § 309 Nr. 6 BGB gilt direkt zwar nicht (kein Verbraucher); aber § 307 BGB. BAG verlangt: enge Bestimmtheit, Hoehe in Bezug zu Bruttomonatsgehalt (Faustregel: max. 1 Brutto-Monatsgehalt pro Verstoss), Anrechnung auf Schadenersatz.
+
+### Branchen-Faustregeln
+
+- **Standard-B2B-NDA:** EUR 5.000 - EUR 25.000 pro Vorfall sind gerichtsfest in den meisten Konstellationen.
+- **M&A / Data Room:** Hoehere Strafen ueblich (bis EUR 100.000 pro Vorfall), wenn Datenmenge und Risikolage es rechtfertigen.
+- **R&D / Patente:** Strafe orientiert sich am Lizenz-/Investitionswert; Hoehen ueber EUR 250.000 nur bei individueller Aushandlung wirksam.
+- **Arbeitnehmer-NDA:** Anlehnung an Bruttomonatsgehalt; pauschale Saetze ueber 1-2 Bruttomonatsgehaelter regelmaessig unwirksam.
+
+### Anrechnung / Kumulation
+
+- **§ 340 Abs. 2 BGB:** Anrechnung der Strafe auf weitergehenden Schadenersatzanspruch ist gesetzlicher Regelfall. Klausel, die explizit Anrechnung ausschliesst (Kumulationsklausel), in AGB regelmaessig unwirksam (§ 307 BGB).
+- **Mehrere Verstoesse:** Klarstellen, ob jeder einzelne Verstoss eine eigene Strafe ausloest oder ob Sammelregelung mit Hoechstgrenze gilt.
+
+### Mustertext B2B-NDA (Vertragsstrafe, individualvertraglich verhandelbar)
+
+> Verletzt die empfangende Partei schuldhaft eine Geheimhaltungspflicht aus diesem Vertrag, kann die offenlegende Partei fuer jeden Fall der Verletzung eine Vertragsstrafe in Hoehe von EUR [Betrag] verlangen. Mehrere Verstoesse, die auf demselben einheitlichen Vorgang beruhen, gelten als ein Verstoss. Die Vertragsstrafe wird auf einen weitergehenden, nachzuweisenden Schadenersatzanspruch angerechnet (§ 340 Abs. 2 BGB).
+
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
 

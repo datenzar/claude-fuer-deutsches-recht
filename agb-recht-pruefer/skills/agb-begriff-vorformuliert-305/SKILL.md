@@ -23,9 +23,22 @@ Nutze diesen Skill für **AGB Begriff Vorformuliert 305** im deutschen AGB-Recht
 2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei AGB Begriff Vorformuliert 305 besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+5. **Spezialfokus § 305 Abs. 1 BGB (AGB-Begriff):**
+   - **Drei Tatbestandsmerkmale (kumulativ):**
+     - **(a) Vertragsbedingung:** Vertragliche Regelung, die Rechte oder Pflichten der Parteien betrifft.
+     - **(b) Fuer eine Vielzahl von Vertraegen vorformuliert:** Mehrfachverwendungsabsicht des Verwenders erforderlich. Faustregel: bei 3+ Verwendungen erfuellt (BGH, ständige Rechtsprechung). Auch einmalig erstellte Klausel, die mehrfach verwendet werden soll, faellt darunter.
+     - **(c) Vom Verwender gestellt:** Wer die Klausel inhaltlich vorgibt und in die Verhandlung einbringt. Beweislast: Wer sich auf das Stellen beruft (in der Regel der Kunde im Streitfall).
+   - **§ 305 Abs. 1 S. 3 BGB:** Keine AGB sind solche Bedingungen, die zwischen den Vertragsparteien im Einzelnen ausgehandelt sind. "Aushandeln" verlangt: ernsthafte Verhandlungsbereitschaft des Verwenders, Moeglichkeit der Einflussnahme, nicht nur "Take-it-or-leave-it".
+   - **B2B-Sonderregel § 310 Abs. 3 Nr. 2 BGB:** Auch im Verbrauchergeschaeft gelten AGB-Regeln fuer einmalige Vertragsbedingungen, wenn der Verbraucher keinen Einfluss nehmen konnte (Einmalverwendungsklauseln).
+   - **Verhandlungs-Indikatoren:** Aenderungen an der Klausel waehrend Verhandlung, Verhandlungsprotokoll, abweichende Formulierung gegenueber dem Standardmuster. Reine Auswahl zwischen vorformulierten Optionen reicht nicht.
+   - **Praktische Faustregel:** Wer einen Vertrag mit "Standard-AGB im Anhang" praesentiert, hat fast immer AGB i.S.d. § 305 BGB. "Mein erster Wurf, der wird angepasst" reicht ebenfalls aus, wenn die Anpassung nur Detailaenderungen betrifft.
+   - **§ 305b BGB - Vorrang Individualabrede:** Individuelle Vereinbarungen ueberbietsen AGB, auch wenn die AGB widersprechen.
+6. **Rechtsfolge:** Wenn AGB-Qualifikation verneint, keine §§ 305 ff. BGB Pruefung, Klausel unterliegt nur §§ 138, 242, 134 BGB.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+### Praktische Beweisstrategie
+
+> Wer AGB-Qualifikation bejahen will, beweist Mehrfachverwendung (Vertragsmuster, sonstige Vertraege). Wer "Individualabrede" geltend macht, beweist konkrete Verhandlung mit Aenderung. Reines Anhoeren des Verwenders mit anschliessender unveraenderter Akzeptanz ist KEINE Individualabrede.
 
 ## Output
 

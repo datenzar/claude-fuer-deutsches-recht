@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Markenrechtliche Fristen
+- **DPMA-Widerspruch § 42 MarkenG:** 3 Monate ab Veröffentlichung der Eintragung. ROT, wenn versäumt: nur Löschungsantrag (§§ 49, 50 MarkenG).
+- **EUIPO-Widerspruch:** 3 Monate ab Veröffentlichung Anmeldung. Achtung: cool-off-Period 2 Monate.
+- **Madrid Protokoll Frist Schutzerstreckung:** 18 Monate Inhaltsentscheidung durch Empfängerland.
+- **Klagefrist Markenverletzung:** §§ 14 MarkenG iVm § 195 BGB drei Jahre kenntnisabhängig; absolute Verjährung § 197 BGB 30 Jahre bei Herausgabe / 10 Jahre Schadensersatz (Maßgabe § 199 BGB).
+- **Verfall wegen Nichtbenutzung § 49 MarkenG:** ohne ernsthafte Benutzung 5 Jahre seit Eintragung → Verfall auf Antrag.
+- **Einstweilige Verfügung im Verletzungsfall:** Dringlichkeit binnen 1 Monat (str., je OLG; OLG-spezifisch verifizieren, z. B. OLG Hamburg 1 Monat, OLG Düsseldorf 6 Wochen, OLG Köln 6 Wochen).
+- **Anmeldegebühr DPMA:** 290 EUR Grundgebühr (online), bis 3 Klassen 290 EUR, jede weitere Klasse 100 EUR. Verlängerung alle 10 Jahre 750 EUR plus Klassengebühren.
+- Falle: Selektiver Vertriebsvertrag ohne FRAND-konforme Auswahl → Kartellverbot Art. 101 AEUV / § 1 GWB greift; bei Plattformverbot Coty-Linie beachten.

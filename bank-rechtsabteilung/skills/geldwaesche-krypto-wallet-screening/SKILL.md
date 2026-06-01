@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## Wallet-Screening-Spezifika
+- Rechtsrahmen: § 10 ff. GwG (KYC inkl. Krypto), § 2 Abs. 1 Nr. 17 GwG (Kryptowerteverwahrer als Verpflichteter), VO (EU) 2023/1113 Transfer of Funds Regulation (TFR, Travel Rule für Krypto seit 30.12.2024 anwendbar), MiCAR Art. 16 Abs. 2 (CASP-Pflichten).
+- TFR-Pflichten: bei Krypto-Transfer Begleitinformationen (Originator/Beneficiary Name, Wallet-Adresse, Geburtsdatum bzw. ID-Nummer/Adresse); ab 1 000 EUR keine Schwelle für selbst-gehostete Wallets — vollständige Identifizierung des Vertragspartners; Aufzeichnungspflicht.
+- Self-Hosted-Wallet (Unhosted): nach TFR und EBA Travel Rule Guidelines erhöhte Sorgfalt — bei eingehenden/abgehenden Transfers über 1 000 EUR Identifizierung des Wallet-Inhabers und Eigentumsnachweis (Signaturnachweis, Adressbestätigung), Risk-Based Approach.
+- Chain Analytics: Anbieter wie Chainalysis, Elliptic, TRM Labs zur Risikobewertung (Sanctions Exposure, Darknet, Mixer, Ransomware); Treffermanagement und SAR (Verdachtsmeldung § 43 GwG an FIU via goAML).
+- Praktiker-Tipp: Risiko-Klassifikation Wallets in Stufen (Direct/Indirect Exposure, %-Schwellen), bei Treffer Mixer/Sanctioned/Darknet >5 % Sperre und SAR; konsolidierte Dokumentation Wallet-Analyse pro Kundenakte; bei TFR-Informationsdefiziten "missing information" nach Art. 7 TFR korrigieren oder Transaktion ablehnen — Verstoß: Bußgeld § 56 GwG.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

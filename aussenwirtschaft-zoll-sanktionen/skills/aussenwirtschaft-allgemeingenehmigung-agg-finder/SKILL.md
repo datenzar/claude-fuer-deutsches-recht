@@ -9,6 +9,13 @@ description: "Vertiefter Skill fuer Allgemeingenehmigung Agg Finder. Fuehrt durc
 
 Dieser Skill behandelt **Allgemeingenehmigung Agg Finder** als operativen Workflow fuer Unternehmen, Kanzleien und Rechtsabteilungen. Er ist fuer Faelle gedacht, in denen die erste Antwort nicht nur abstrakt richtig sein muss, sondern als dokumentierte Freigabe, Sperre, Anfrage, Memo oder Behoerdenpaket verwendbar sein soll.
 
+## Normfokus und Praxis (Allgemeingenehmigungen)
+- Zwei Schienen: EU-Allgemeingenehmigungen (EU001-EU008, Anh. II Dual-Use-VO 2021/821) und nationale Allgemeingenehmigungen (AGG; nach § 8 Abs. 1 AWG iVm AWV, von BAFA veröffentlicht). Beide setzen Listengüter und qualifizierte Empfängerstaaten/-typen voraus.
+- EU001 (Ausfuhr in privilegierte Empfängerländer USA, CA, JP, AU, NZ, NO, CH, UK), EU002 (Ausfuhr bestimmter Dual-Use nach mehreren Staaten), EU003 (Wiederausfuhr nach Reparatur), EU004 (vorübergehende Ausfuhr für Messen), EU005 (Telekommunikation), EU006 (Chemikalien), EU007 (konzerninterner Software-/Technologietransfer), EU008 (verschlüsselungsbezogene Software).
+- Pflicht zur Registrierung: vor erstmaliger Nutzung beim BAFA registrieren (§ 8 Abs. 2 AWV iVm jeweiliger AGG). Dokumentations- und Meldepflichten der jeweiligen Allgemeingenehmigung beachten — meist Jahresmeldung bis Ende Januar des Folgejahres.
+- Ausschlussgründe: kritische Endverwendung (Catch-all Art. 4 Dual-Use-VO), Embargos, gelistete Empfänger; bei Unterrichtung durch BAFA Sperre der Nutzung.
+- Praktiker-Tipp: Vor Nutzung Eignung der AGG für konkrete Ware/Land prüfen — bei Zweifel Nullbescheid (AZG) oder Einzelantrag (AG). Sammelgenehmigung (SAG) kommt bei wiederkehrenden Vorgängen mit gleichem Profil in Betracht. Jede Nutzung mit Rechnung, EUC und Verweis auf AGG dokumentieren — Audit-Trail vorhalten.
+
 ## Startfragen
 
 - Wer fragt: Exporteur, Importeur, Spediteur, Bank, Konzernmutter, Forschungseinrichtung, Erwerber, Lieferant oder Berater?

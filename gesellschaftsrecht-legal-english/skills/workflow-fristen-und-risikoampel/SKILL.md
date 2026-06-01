@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Legal English Pitfalls Corporate
+- "Articles of Association" = Gesellschaftsvertrag/Satzung; nicht "statutes" (das wäre missverständlich für Gesetze).
+- "Shareholder" = Gesellschafter (GmbH) bzw. Aktionär (AG); im SPA-Kontext meist neutral.
+- "Closing" vs. "Signing": Trennung wirtschaftlicher und rechtlicher Übergang in M&A; in Deutschland faktisch gleichbedeutend wenn Erfüllung sofort, andernfalls Closing-Bedingungen (Conditions Precedent).
+- "Representations and Warranties" → deutsche Garantien (§ 311 BGB) bzw. selbständige Beschaffenheitsgarantien (§ 443 BGB).
+- "Indemnity" → Freistellungsanspruch; nicht mit "Versicherung" verwechseln.
+- "Material Adverse Change/Effect" (MAC/MAE): unscharfer Kontinent-vs.-Civil-Law-Begriff; in deutschem Recht Schwellenwerte vereinbaren.
+
+## Trade-off
+- "Best efforts" (US) vs. "reasonable efforts" (UK): in Deutschland am ehesten "im Rahmen des wirtschaftlich Zumutbaren" — Auslegungsoffen, daher Konkretisierung sinnvoll.
+- "Boilerplate" (Severability, Entire Agreement, Counterparts): § 139 BGB Teilnichtigkeit verdrängt einfache Severability; "Entire Agreement"-Klausel beschränkt § 311 Abs. 2 BGB c.i.c.-Schadensersatz nur eingeschränkt.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

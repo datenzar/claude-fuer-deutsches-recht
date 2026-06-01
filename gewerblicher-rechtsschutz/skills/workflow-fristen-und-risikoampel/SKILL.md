@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Schlüsselfristen Gewerblicher Rechtsschutz
+- UWG: Verjährung Unterlassung/Beseitigung sechs Monate ab Kenntnis (§ 11 Abs. 1 UWG), Schadensersatz drei Jahre kenntnisabhängig.
+- MarkenG: Verjährung drei Jahre (§ 20 MarkenG); Verwirkung Duldung fünf Jahre (§ 21 MarkenG).
+- Designgesetz (DesignG, vormals GeschmMG): Nichtigkeitsverfahren binnen drei Jahren nach Eintragung (§§ 33 ff. DesignG).
+- Geschäftsgeheimnisgesetz (GeschGehG): unverzügliche Reaktion bei Verletzung; Beweissicherung durch EV nach §§ 935, 940 ZPO.
+- EV-Dringlichkeit: faustregelartig vier Wochen ab Kenntnis (OLG-Praxis); bei UWG vermutet § 12 Abs. 2 UWG (widerleglich).
+
+## Trade-off
+- Schutzschrift (vorsorglich gegen EV) vs. abwarten: Schutzschrift bindet Aufwand, verhindert aber überraschende EV ohne mündliche Verhandlung.
+- Vorgehen UWG: Abmahnerfordernis § 13 UWG; ohne Abmahnung Kostenrisiko § 13 Abs. 3 UWG.
+- Streitwert-Stafflung: BGH-Streitwert-Modelle bei mehreren Verletzungshandlungen beachten; ständige Rechtsprechung.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

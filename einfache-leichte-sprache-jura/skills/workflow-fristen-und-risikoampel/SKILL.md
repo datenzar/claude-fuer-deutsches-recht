@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Sprachstandards
+- Leichte Sprache: Netzwerk Leichte Sprache (Regelwerk); Hauptsatz, kein Genitiv, kein Konjunktiv, Fremdwörter erklären, Zahlen schreiben, Piktogramme.
+- Einfache Sprache: Hamburger Verständlichkeitsmodell; max. 15 Wörter/Satz, kurze Sätze, aktive Verben.
+- BITV 2.0 (Barrierefreie-Informationstechnik-Verordnung): Pflicht für Bundesbehörden zur Bereitstellung Informationen in Leichter Sprache.
+- BGG § 11: behördliche Information in Leichter Sprache auf Anforderung.
+- DIN SPEC 33429 zu Leichter Sprache: Stand prüfen (Veröffentlichung 2023).
+
+## Trade-off
+- Leichte Sprache (Zielgruppe Menschen mit kognitiven Einschränkungen) vs. einfache Sprache (breitere Zielgruppe, weniger restriktiv).
+- Volljuristischer Inhalt vs. Verständlichkeit: Original-Wortlaut als Zitat plus Übersetzung; Bedeutungstreue vor sprachlicher Eleganz.
+- Mandantengeheimnis bleibt: keine Vereinfachung auf Kosten der Schweigepflicht (§ 43a Abs. 2 BRAO).
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

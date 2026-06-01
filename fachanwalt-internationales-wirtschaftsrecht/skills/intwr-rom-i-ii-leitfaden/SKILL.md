@@ -6,7 +6,7 @@ description: "Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und au
 # IntWR: Rom I + II Leitfaden
 
 ## Aufgabe
-Leitfaden Rom I und Rom II: Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art.
+Leitfaden Rom I-VO (593/2008) und Rom II-VO (864/2007): Anknuepfungsregeln vertragliche und ausservertragliche Schuldverhaeltnisse, Eingriffsnormen Art. 9 Rom I, ordre public Art. 21 Rom I / Art. 26 Rom II. Pruefraster fuer Rechtswahl und gewoehnlichen Aufenthalt.
 
 ## Kaltstart
 Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
@@ -17,14 +17,87 @@ Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn M
 4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
 5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
 
-## Pruefraster
+## Pruefraster Rom I (vertragliche Schuldverhaeltnisse)
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+### 1. Anwendungsbereich Art. 1 Rom I
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+- Vertragliche Schuldverhaeltnisse in Zivil- und Handelssachen mit Auslandsbezug; Ausnahmen Art. 1 II (z. B. Status, Familienrecht, Schiedsvereinbarung).
+- Universelle Anwendung Art. 2 — gilt auch ohne Bezug zu EU-Recht.
+
+### 2. Rechtswahl Art. 3 Rom I
+
+- Ausdrueckliche oder konkludente Rechtswahl moeglich, fuer Gesamtvertrag oder Teile (depecage Art. 3 I 3).
+- Aenderung der Rechtswahl Art. 3 II.
+- Schutz vor reinen Binnensachverhalten Art. 3 III (zwingende Vorschriften des Sachstaats bleiben anwendbar).
+- Innergemeinschaftlicher Sachverhalt + Wahl drittstaatlichen Rechts: zwingendes Unionsrecht (Art. 3 IV).
+
+### 3. Mangels Rechtswahl Art. 4 Rom I
+
+- Acht typisierte Vertraege Art. 4 I (Kauf -> Verkaeufer; Dienstleistung -> Dienstleister; Grundstueck -> Lex rei sitae; etc.).
+- Wenn nicht typisiert: charakteristische Leistung Art. 4 II.
+- Ausweichklausel Art. 4 III (offensichtlich engere Verbindung).
+
+### 4. Sondernormen
+
+- **Befoerderungsvertraege** Art. 5.
+- **Verbrauchervertraege** Art. 6: gewoehnlicher Aufenthalt des Verbrauchers, soweit Unternehmer Taetigkeit dorthin ausrichtet; Rechtswahl moeglich, aber zwingender Verbraucherschutz greift weiter.
+- **Versicherungsvertraege** Art. 7.
+- **Individualarbeitsvertraege** Art. 8: gewoehnlicher Arbeitsort; zwingender AN-Schutz bei Rechtswahl.
+
+### 5. Eingriffsnormen Art. 9 Rom I
+
+- "Overriding mandatory provisions" der lex fori (Art. 9 II) immer anwendbar.
+- Eingriffsnormen eines Drittstaates: nur Wirkungsverleihung (Art. 9 III).
+- Beispiel DE: § 138 BGB nicht; aber Devisen-, Embargo-, Kartellrecht.
+
+### 6. Ordre public Art. 21 Rom I
+
+- Anwendung auslaendischen Rechts darf "offensichtlich" mit ordre public des Forumstaats unvereinbar nicht sein. Hohe Schwelle.
+
+## Pruefraster Rom II (ausservertragliche Schuldverhaeltnisse)
+
+### 1. Anwendungsbereich Art. 1 Rom II
+
+- Ausservertragliche Schuldverhaeltnisse (unerlaubte Handlung, ungerechtfertigte Bereicherung, GoA, c.i.c. Art. 12).
+- Ausnahmen Art. 1 II (Familien-, Erb-, Gesellschafts-, Wertpapierrecht etc.).
+- Universelle Anwendung Art. 3.
+
+### 2. Anknuepfung unerlaubter Handlungen Art. 4 Rom II
+
+- **Erfolgsort** (Art. 4 I) — wo Schaden eintritt.
+- **Gemeinsamer gewoehnlicher Aufenthalt** (Art. 4 II) — vorrangig.
+- **Ausweichklausel** Art. 4 III — offensichtlich engere Verbindung.
+
+### 3. Sondertatbestaende
+
+- **Produkthaftung** Art. 5.
+- **Unlauterer Wettbewerb** Art. 6 (Marktortprinzip).
+- **Kartelldelikte** Art. 6 III — Marktort.
+- **Umweltschaedigung** Art. 7 — Wahlrecht Geschaedigter.
+- **IP-Verletzung** Art. 8 (Schutzlandprinzip).
+- **Streikfolgen** Art. 9.
+- **C.i.c.** Art. 12.
+
+### 4. Rechtswahl Art. 14 Rom II
+
+- Grundsaetzlich nach Schadenseintritt; bei kommerzieller Taetigkeit auch vorher.
+- Verbraucher- und AN-Schutz bleiben.
+
+## Pruefraster fuer den Skill
+
+1. **Sachverhalt fixieren** — Wer, was, wo, welcher Auslandsbezug?
+2. **Anwendbarkeit Rom I/II** pruefen.
+3. **Rechtswahl** existiert? Wenn ja: Wirksamkeit pruefen.
+4. **Objektive Anknuepfung** als Fallback.
+5. **Eingriffsnormen** der lex fori pruefen.
+6. **Ordre public** als letztes Sieb.
+
+## Praxisfallen
+
+- **Rom I gilt nicht** fuer Schiedsvereinbarungen (Art. 1 II lit. e Rom I); IPR der Schiedsvereinbarung folgt eigenen Regeln (NYÜ Art. V).
+- **Brexit**: UK seit 1.1.2021 nicht mehr an Rom I/II gebunden; UK hat aber Rom I/II in nationales Recht uebernommen (Retained EU Law).
+- **Vertragsstatut vs. Geschaeftsfaehigkeit**: Vertragsstatut nur fuer Vertragsinhalt; Geschaeftsfaehigkeit nach Personalstatut.
+- **Form** Art. 11 Rom I: alternative Anknuepfung; Vertragsstatut oder Ortsrecht.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `fachanwalt-internationales-wirtschaftsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

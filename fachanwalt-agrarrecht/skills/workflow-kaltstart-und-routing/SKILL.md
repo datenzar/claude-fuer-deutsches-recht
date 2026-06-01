@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Agrarrecht
+- GAP-Förderung → GAPDZG, GAPDZV (seit 2023); GLÖZ-Standards, Öko-Regelungen, Direktzahlungen.
+- Höferecht/Hofübergabe → HöfeO (NRW, Niedersachsen, Hamburg, Schleswig-Holstein) bzw. landesrechtliche Anerbensitten; Sondererbfolge.
+- Landpacht → LPachtVG (Anzeige-/Beanstandungsverfahren); BGB §§ 585-597 für Vertragsrecht.
+- Grundstückverkehr → GrdstVG; Genehmigung Landwirtschaftsbehörde.
+- Düngung → DüV, DüMV; Stoffstrombilanzpflicht.
+- Tierhaltung → TierSchG, TierSchNutztV; Wegfall der Anbindehaltung (Übergangsfristen).
+- Forst → BWaldG, Landeswaldgesetze.
+- Jagd → BJagdG, Landesjagdgesetze.
+
+## Praxis-Hinweis
+- Sammelantrag GAP jährlich bis 15. Mai; Verspätung 1 % pro Werktag bis 9. Juni, danach Ausschluss. Antragsfrist ist Ausschlussfrist.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt
 
 Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **Regelbeispiele**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Regelbeispiele: unbenannte Strafzumessungsregeln – nicht Tatbestand, sondern Strafzumessungshilfen. Beispiele: § 243 StGB (Diebstahl in besonders schwerem Fall), § 263 Abs. 3 StGB (Betrug), § 267 Abs. 3 StGB (Urkundenfälschung).
+- Wirkung: Indizielle Vermutung für besonders schweren Fall – aber Gegenbeweis möglich; Gesamtwürdigung erforderlich (BGH ständige Rspr.).
+- Im Vergleich zu Qualifikationen (z.B. § 244 StGB Wohnungseinbruchdiebstahl): Qualifikation = Tatbestand mit eigenem Strafrahmen; Regelbeispiel = strafzumessungs­rechtlich, kein Tatbestand.
+- Strafzumessung bei Auslandsbezug: § 6 StGB (Weltrechtsprinzip), § 7 StGB (Auslandstaten), Anrechnung ausländischer Strafverfolgung § 51 Abs. 3 StGB.
+- Rechtshilfe / EU-Haftbefehl: Rb 2002/584/JI und IRG; bei früher Verurteilung im Ausland § 55 StGB (Gesamtstrafenbildung) prüfen.
+- Praxis-Tipp: Bei Regelbeispiel-Fällen immer alle Strafzumessungstatsachen nach § 46 StGB einzeln durchprüfen und ggf. atypischen Verlauf substanziieren (z.B. geringe Beute, Mitnahme statt Aufbruch, Sachbeschädigung gering) – sonst greift der erhöhte Strafrahmen schematisch. Bei Auslandsbezug auch ne bis in idem (Art. 50 GRCh, Art. 54 SDÜ) prüfen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

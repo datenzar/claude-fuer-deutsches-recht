@@ -28,6 +28,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Zeugnis-spezifische Fristen- und Risikoampel
+
+| Risiko-Punkt | Norm/Quelle | Frist | Ampel |
+| --- | --- | --- | --- |
+| Zeugnisanspruch nach Beendigung | § 109 GewO | grundsätzlich sofort fällig, Verwirkung typischerweise nach ca. 10 Monaten | Gelb |
+| Berichtigungsklage / Berichtigungsantrag | § 109 GewO, allgemeine Verjährung § 195 BGB | drei Jahre Verjährung; Verwirkung früher möglich | Gelb |
+| Tarifvertragliche Ausschlussfristen | TV-spezifisch | meist 3-6 Monate ab Fälligkeit | Rot bei Tarifbindung |
+| Beweislastumkehr bei Note 4/5 | BAG ständige Rechtsprechung | innerhalb Verfahren | Grün für AN bei schlechter Note |
+| Bindung an Zwischenzeugnis | BAG ständige Rechtsprechung | bei Schlusszeugnis | Grün für AN |
+| Schlusszeugnis vs. einfaches Zeugnis | § 109 Abs. 1 Satz 3 GewO | bei jeder Beendigung qualifiziert auf Verlangen | Grün |
+
+Eilbedarf besonders bei: bevorstehendem Bewerbungsschluss, drohender Insolvenz des Arbeitgebers, Auslandseinsatz, abgeschlossener Personalakte.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

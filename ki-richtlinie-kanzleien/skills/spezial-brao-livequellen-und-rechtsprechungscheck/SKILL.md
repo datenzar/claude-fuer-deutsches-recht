@@ -21,10 +21,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Brao** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BRAO** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Primäre Live-Quellen für BRAO/BORA + KI
+- **BRAK.de**: Stellungnahmen, FAQ, Hinweise des Berufsrechtsausschusses; insb. zu Cloud-Diensten, beA, KI-Tools.
+- **DAV** (anwaltverein.de): Stellungnahmen des Ausschusses Anwaltliche Berufsrechtsausschusses und Ausschuss Datenschutzrecht zu Legal-AI.
+- **Anwaltsblatt** / **NJW Aktuell** / **NJW-Spezial**: Anwaltsspezifische Beiträge — Inhalt im Original verifizieren, keine Modellwissen-Zitate.
+- **BVerfG / BGH-Senatsentscheidungen**: zu § 43a BRAO (Verschwiegenheit), § 49b BRAO (Vergütung), Auslegung der BORA durch die Senate.
+- **Gesetze-im-Internet.de**: aktuelle Fassung BRAO und BORA.
+
+## Wichtige Rechtsprechungslinien zu Mandanteninformation und Datenschutz
+- **BGH IX ZR ...** (Vermögensberatungspflicht / IT-Risiken): allgemeiner Sorgfaltsmaßstab gilt entsprechend für KI-Einsatz; vor Zitierung Aktenzeichen über CURIA / openJur prüfen.
+- **BVerfG**-Rechtsprechung zur anwaltlichen Verschwiegenheit (Schutz aus Art. 12 Abs. 1 GG): Eingriffe nur bei zwingender Notwendigkeit; KI-Dienstleister müssen rechtfertigend strukturiert eingebunden sein.
+- **Anwaltsgerichtshof / Senate**: einzelne Entscheidungen zu beA-Pflichten, Cloud-Nutzung; Linie konsistent: Berufsträger trägt Auswahlsorgfalt für Dienstleister.
+
+## Rechtsprechungssuche zu KI in Anwaltsmandaten
+- Stand der Live-Recherche zu konkreten Urteilen variiert; Linien sind eher in der Literatur und in Stellungnahmen der BRAK/DAV abgebildet als in tragenden Urteilen — Modell-Wissen daher ausdrücklich nicht zitieren.
+- US-Vorfälle (z. B. "Mata v. Avianca" — Halluzinationen in ChatGPT-Schriftsatz) sind nicht direkt verbindlich, aber Argumentationsmuster.
+
+## Live-Quellen für KI-VO-Themen
+- **EUR-Lex** für VO (EU) 2024/1689 und delegierte Rechtsakte.
+- **Kommission "AI Office"**-Veröffentlichungen.
+- **DAV-Stellungnahme zu Legal-AI**: aktuelles Dokument unter dav.de prüfen, nicht aus Modellwissen zitieren.
+- **BRAK-Stellungnahmen**: brak.de.
+
+## Trade-off
+Eine Kanzleirichtlinie sollte konkrete BRAK-/DAV-Stellungnahmen referenzieren (mit Live-URL und Stand), nicht abstrahieren. Bei Aktualisierungszyklen (Stellungnahmen werden überarbeitet) Versionsstand dokumentieren; alte Verweise werden sonst zur Falschangabe.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

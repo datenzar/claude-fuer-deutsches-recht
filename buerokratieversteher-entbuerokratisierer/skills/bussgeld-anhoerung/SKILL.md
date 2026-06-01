@@ -8,6 +8,13 @@ description: "Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrer
 ## Aufgabe
 Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen und Einspruch.
 
+## Normfokus und Praxis
+- Rechtsgrundlagen: § 55 OWiG (Anhörung Betroffener), § 46 Abs. 1 OWiG iVm §§ 136 Abs. 1 Satz 2, 163a StPO (Schweigerecht), § 67 OWiG (Einspruch gegen Bußgeldbescheid, Frist zwei Wochen).
+- Anhörungsbogen vs. Zeugenfragebogen unterscheiden: Als Betroffener besteht keine Pflicht zur Selbstbelastung — Personalien (§ 111 OWiG) jedoch angeben. Als Zeuge gilt Wahrheitspflicht, aber Auskunftsverweigerungsrecht nach § 55 StPO (Selbstbelastung) und § 52 StPO (Angehörige).
+- Fahrerermittlung: Bei nicht zuzuordnender Tat droht Fahrtenbuchauflage (§ 31a StVZO) — Behörde muss zuvor angemessen ermittelt haben. Foto im Bußgeldbescheid genau prüfen.
+- Verjährung: regelmäßig drei Monate nach § 26 Abs. 3 StVG bei Verkehrsordnungswidrigkeiten, unterbrochen durch Anhörung (§ 33 OWiG); nach Bescheid sechs Monate.
+- Praktiker-Tipp: Bei unklarer Identifikation oder Messunsicherheit keine Angaben machen; Akteneinsicht nach § 49 OWiG iVm § 147 StPO (über Anwalt). Einspruch kann ohne Begründung eingelegt werden, Beschränkung auf Rechtsfolgen möglich (§ 67 Abs. 2 OWiG).
+
 ## Kaltstart
 Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punkte nach:
 

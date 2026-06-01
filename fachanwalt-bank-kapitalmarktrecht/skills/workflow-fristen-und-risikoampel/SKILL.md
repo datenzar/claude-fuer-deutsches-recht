@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Bank-/Kapitalmarktrechts-Fristen
+- Ad-hoc-Mitteilung Insider-Information unverzüglich nach Art. 17 Abs. 1 MAR; Aufschub nur unter Art. 17 Abs. 4 MAR.
+- Stimmrechtsmeldung § 33 WpHG: unverzüglich, spätestens vier Handelstage ab Schwellenüberschreitung; 3/5/10/15/20/25/30/50/75 %.
+- Directors-Dealings-Meldung Art. 19 MAR: drei Geschäftstage.
+- Wohnimmobilien-Verbraucherdarlehen: Widerruf 14 Tage ab Vertragsschluss bei ordnungsgemäßer Belehrung (§ 495 BGB iVm § 355 BGB); ohne Belehrung Erlöschen mit § 356b Abs. 2 BGB.
+- KapMuG-Anmeldefrist sechs Monate nach Klageregister-Bekanntmachung (§ 10 Abs. 2 KapMuG).
+- Verjährung Aufklärungspflichtverletzung: drei Jahre kenntnisabhängig, zehn Jahre maximal (§§ 195, 199 BGB); Sonderregel § 37a WpHG aF beachten (für Altfälle).
+
+## Trade-off
+- BaFin-Anzeige (§ 11 KWG, § 18 ZAG) vs. interne Klärung: jede formale Anzeige bindet Kapazität und kann Folge-Prüfung auslösen — aber unterlassene Anzeige ist sanktionsbewehrt.
+- MiFID-II-Geeignetheitsprüfung (§ 64 WpHG): umfangreich, aber Fehlen führt zu Schadensersatz und Bußgeld.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

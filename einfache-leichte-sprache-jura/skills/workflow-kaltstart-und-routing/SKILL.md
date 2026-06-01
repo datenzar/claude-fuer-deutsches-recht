@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik einfache/leichte Sprache
+- Zielgruppe Menschen mit Lernschwierigkeiten → Leichte Sprache nach Netzwerk Leichte Sprache; Piktogramme, kurze Hauptsätze, keine Genitive.
+- Zielgruppe mit Migrationshintergrund / B1-Niveau → einfache Sprache; aktive Verben, kurze Sätze, klare Struktur.
+- Behördliche Bescheide → § 11 BGG, BITV 2.0; Pflicht zur Bereitstellung in Leichter Sprache auf Antrag.
+- Verträge → keine zwingende Pflicht, aber Transparenzgebot § 307 Abs. 1 S. 2 BGB; Klauseln müssen klar und verständlich sein.
+- Patientenaufklärung → § 630e BGB; verständliche Sprache zwingend, sonst Aufklärung unwirksam.
+- Behörden-Digital → BarrFG ab 28.6.2025; Pflicht Webangebote barrierefrei.
+- EU-Sprachvorgaben → Web Accessibility Directive (RL 2016/2102).
+
+## Praxis-Hinweis
+- Eine vereinfachte Fassung ersetzt nicht den juristisch verbindlichen Originaltext. Beide Fassungen ausweisen und Verweis aufnehmen, welche Fassung verbindlich ist.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

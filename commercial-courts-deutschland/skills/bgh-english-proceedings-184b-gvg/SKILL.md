@@ -21,6 +21,27 @@ Stelle höchstens fünf Fragen, sofern die Akte sie nicht beantwortet:
 
 ## Arbeitsworkflow
 
+### BGH-Revision auf Englisch nach § 184b GVG
+
+Das Justizstandort-Stärkungsgesetz hat § 184b GVG eingeführt: Revision vor dem BGH kann in englischer Sprache geführt werden, wenn die Vorinstanz (Commercial Court oder Commercial Chamber) auf Englisch verhandelt hat und beide Parteien zustimmen.
+
+| Verfahrensschritt | Praxishinweis | Norm |
+| --- | --- | --- |
+| Voraussetzung erstinstanzliches Verfahren | mündliche Verhandlung und Urteil in Englisch (§ 184a GVG) | § 184b Abs. 1 GVG |
+| Antrag bei BGH | förmlicher Antrag, Zustimmung beider Parteien | § 184b Abs. 1 Satz 1 GVG |
+| Anwalt für BGH | nur am BGH zugelassener Rechtsanwalt § 78 ZPO Abs. 1 Satz 3 ZPO i.V.m. §§ 162 ff. BRAO | Sprachkenntnisse zwingend; Liste BGH-Anwälte sehr begrenzt |
+| Revisionsbegründung | innerhalb der Frist § 551 ZPO; in Englisch zulässig | nur Rechtsfragen, kein neuer Tatsachenvortrag (§ 559 ZPO) |
+| Mündliche Verhandlung | sofern BGH zulässt; oft schriftliches Verfahren | Sprache Englisch |
+| Tenor und Begründung | Englisch zulässig; für Vollstreckung Übersetzung nach § 110 ZPO bzw. Brüssel Ia-VO Art. 42 | praxisrelevant |
+| Veröffentlichung | BGH-Datenbank meist deutsch; englische Originalfassung als Anlage | § 169 GVG |
+| Streitwert | Revisionsbeschwer § 26 Nr. 8 EGZPO (z.Zt. 20.000 EUR Mindestbeschwer für Nichtzulassungsbeschwerde) | live aktuelle Schwelle prüfen |
+
+### Trade-off Englisch versus Übersetzung
+
+- **Englisch bis BGH:** spart Übersetzungskosten und Brüche; aber sehr enger Anwaltskreis (BGH-Anwälte mit Englisch-Praxis).
+- **Schwächen:** Anlagen aus früheren Verfahren oft Deutsch; nicht alle BGH-Senate haben Spracherfahrung; bei Aufhebung und Zurückverweisung muss Tatsacheninstanz die Sprache fortführen können.
+- **Praktiker-Tipp:** Bereits in Klage und Berufung BGH-Anwalt einbinden, der später Revision führen kann.
+
 1. **Forum sichern:** Commercial Court, Commercial Chamber, ordentliches Gericht, Schiedsgericht oder Ausland trennen.
 2. **Sprache sichern:** wirksame Englischwahl, notwendige Übersetzungen und deutsch bleibende Verfahrensschritte prüfen.
 3. **Prozesshandlung bauen:** Antrag, Schriftsatz, Evidence Map, Timetable, Hearing Script oder Mandantenmemo erstellen.

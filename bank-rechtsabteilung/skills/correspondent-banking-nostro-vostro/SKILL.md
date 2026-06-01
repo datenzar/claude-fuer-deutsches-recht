@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## Correspondent-Banking-Spezifika
+- Rechtsrahmen AML: § 15 GwG (verstärkte Sorgfaltspflichten Korrespondenzbeziehungen mit Banken aus Drittstaaten), § 25 GwG (Verbot Beziehungen mit Shell Banks/Briefkastenbanken), BaFin-Auslegungshinweise zu Korrespondenzbankbeziehungen, Wolfsberg Principles (Industry-Standard), FATF Recommendations 13.
+- KYCC (Know Your Customer's Customer): Bank muss Vertragspartner verstehen — Branche, Geschäftsmodell, Kundenstruktur, AML-Programm, Aufsichtsregime; jährliche Reviews; bei US-Cleaningbank zusätzlich USA-PATRIOT-Act-Compliance (Section 312, OFAC).
+- Sanktionsexposure: Korrespondenzbank kann unfreiwillig SDN-/EU-Sanktionstreffer durchschleusen; STP-Filter, BIC-Blacklist, MT103-Format ggf. nachrichtenbezogen filtern; bei Schein-Wege Pflicht zur Risikobewertung.
+- Operationelles Risiko: Nostro/Vostro-Salden überwachen (Liquiditätsrisiko), Cut-off-Times, Settlement-Risiko (CLS für FX); DORA-Resilience-Pflichten für SWIFT-Anbindung als kritische ICT (Art. 28 DORA-VO).
+- Praktiker-Tipp: Onboarding-Pack mit Wolfsberg-CBDDQ, jährliches Refresh, CSR-Reports auswerten; bei Risikoindikatoren Down-Scope oder Termination, dokumentierte Entscheidung; bei Sanktions-Trigger sofort Hold + BaFin/Bundesbank-Meldung; § 11 GwG: Identifizierung CIO/MLRO der Korrespondenzbank ist Pflicht, nicht nur Vorstand.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

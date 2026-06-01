@@ -31,3 +31,14 @@ description: "Prüft strategisch Patent, Gebrauchsmuster, EP/PCT, Geheimhaltung,
 - Fristenplan.
 - Kosten-/Nutzenhinweise ohne Scheingenauigkeit.
 - Empfehlung mit Alternativroute.
+
+## Normen und Trade-offs
+
+- **Patent vs. Gebrauchsmuster (§§ 1, 3 ff. PatG vs. §§ 1, 3 GebrMG):**
+  - Patent: erfinderische Tätigkeit (§ 4 PatG, "erfinderischer Schritt" beim GebrM gemäß § 1 GebrMG ist materiell ähnlich, aber Maßstab wurde durch BGH "Demonstrationsschrank" GRUR 2006, 842 stärker an Patent-Maßstab gerückt).
+  - Patent: 20 Jahre Schutzdauer (§ 16 PatG); Gebrauchsmuster: max. 10 Jahre (§ 23 GebrMG).
+  - Patent: geprüft, daher rechtsbeständig; Gebrauchsmuster: ungeprüft, im Verletzungsprozess Streit über Schutzfähigkeit.
+- **Neuheitsschonfrist:** § 3 Abs. 1 GebrMG kennt 6-Monats-Schonfrist für Offenbarung durch Anmelder/Vorgänger; § 3 PatG kennt KEINE allgemeine Schonfrist (Ausnahme § 3 Abs. 5 PatG: missbräuchliche Offenbarung, Schau iSd Pariser Übereinkunft). USA: 12 Monate Grace Period (35 U.S.C. § 102(b)). EP: keine allgemeine Schonfrist.
+- **Verfahrensanmeldungen:** Reine Verfahren sind nach § 2 Nr. 3 GebrMG NICHT gebrauchsmusterfähig — nur Patent.
+- **Strategie:** Doppelschutz (Patent + Gebrauchsmuster) durch Abzweigung (§ 5 GebrMG) bis 10 Jahre nach Patentanmeldung möglich.
+- Falle: Vor Anmeldung öffentliche Vorführung — bei Patent neuheitsschädlich, bei Gebrauchsmuster nur, wenn vom Anmelder/Rechtsvorgänger ausgehend und älter als 6 Monate.

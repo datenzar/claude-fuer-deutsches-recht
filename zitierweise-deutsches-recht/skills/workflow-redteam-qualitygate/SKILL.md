@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Zitier-Red-Team — Pflichtchecks vor Abgabe
+- **Halluzinations-Suche:** Jedes Az. wird gegen DPMA/EPA/BGH/BVerfG/EuGH-Register oder dejure.org/openjur.de verifiziert. Verbreitete Halluzinationsmuster: erfundene Senatsnummern, falsche Jahres-Punkte (z. B. "BVerfGE 123, 456" — bei BVerfGE Bd. 142 endet die Sammlung 2016!).
+- **Fundstellen-Plausibilität:** Bei NJW/NZG/GRUR: Jahr und Heft stimmen? Bei BGHZ: korrekter Band (BGHZ 0 bis derzeit ca. 230)? Bei BVerfGE: Bd. 1 bis ca. 165.
+- **Bearbeiter-Konsistenz:** "Säcker, MüKo BGB, 9. Aufl. 2024" — gibt es 9. Aufl.? Hat Säcker den § wirklich bearbeitet?
+- **Datum-Konsistenz:** Az.-Jahr passt zu Entscheidungsjahr? VI ZR 252/19 wurde 2020 oder 2021 entschieden, nicht 2019.
+- **Format-Korrektheit:** Rspr. mit Rn., Aufsatz mit Anfangsseite und konkreter Seite "Canaris, JZ 2019, 547 (549)", nicht nur "547".
+- **Reihenfolge:** Innerhalb Rspr.: BVerfG vor BGH vor OLG. Innerhalb Lit.: chronologisch neueste zuerst.
+- **Fußnoten-Lage:** Bei großen Werken nach Norm + Rn., nicht nach Seite (außer bei Anhängen).
+- Falle: BeckRS-Stelle als alleinige Fundstelle bei tragender Aussage — Verlage erwarten Hauptzeitschrift (NJW, NZG, GRUR) oder amtliche Sammlung (BGHZ, BVerfGE, BVerwGE).

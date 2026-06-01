@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafzumessung`. Ausgangspunkt
 
 Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **Strafbefehl**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Strafbefehl: §§ 407-412 StPO – schriftliches Verfahren ohne Hauptverhandlung; Geldstrafe oder Freiheitsstrafe bis 1 Jahr mit Bewaehrung (nur mit Pflichtverteidiger nach § 407 Abs. 2 StPO).
+- Erlass: StA stellt Antrag bei Strafrichter; Erlass nur, wenn hinreichender Tatverdacht (§ 408 StPO).
+- Strafzumessung im Strafbefehl: Verkürzte Begründung; § 46 StGB-Kriterien werden nicht vollständig dargelegt, daher bei Akteneinsicht prüfen, welche Strafzumessungsgrundlagen die StA überhaupt aktenmäßig erfasst hat.
+- Einspruch: § 410 StPO 2 Wochen – beschränkt einlegbar (z.B. nur Tagessatzhöhe, nur Fahrverbot, § 410 Abs. 2 StPO).
+- Hauptverhandlung nach Einspruch: §§ 411 f. StPO; Verschärfungsrisiko (§ 411 Abs. 4 StPO Bindung an Strafbefehl nicht gegeben).
+- Praxis-Tipp: Dokumentenmatrix Strafbefehl: (1) Strafbefehl mit Erlassdatum, Zustellungsdatum, Einspruchsfrist, (2) Anhörungsprotokoll oder Einlassung (falls vorhanden), (3) BZR-Auszug, (4) Mandant-Einkommensnachweise für Tagessatzhöhe, (5) Belege Schadenswiedergutmachung/TOA, (6) Strafanzeige und Polizei-Protokoll. Lückenliste: was hat die StA nicht erfasst? Mildernde Umstände nach § 46 Abs. 2 StGB substantiiert nachreichen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

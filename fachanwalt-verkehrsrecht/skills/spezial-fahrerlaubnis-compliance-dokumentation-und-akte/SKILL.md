@@ -10,6 +10,17 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Aus
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Fahrerlaubnis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Strafrechtliche Entziehung: § 69 StGB – bei "ungeeignetem Kraftfahrer". Regelvermutung § 69 Abs. 2 StGB (Trunkenheit § 316 StGB, Gefährdung § 315c StGB, unerlaubtes Entfernen § 142 StGB, ggf. Vollrausch § 323a StGB).
+- Sperrfrist: § 69a StGB – sechs Monate bis fünf Jahre; isolierte Sperre § 69a Abs. 1 S. 3 StGB. Vorzeitige Aufhebung § 69a Abs. 7 StGB (z.B. nach Therapie).
+- Verwaltungsrechtliche Entziehung: § 3 StVG i.V.m. § 46 FeV – durch Fahrerlaubnisbehörde bei Eignungs­mängeln; eigener Rechtsweg VG.
+- Vorläufige Entziehung: § 111a StPO – Beschwerde § 304 StPO statthaft.
+- MPU (medizinisch-psychologische Untersuchung): § 11 FeV; bei Wiedererteilung nach Alkohol-/Drogenvergehen, hohem Punktestand (≥ 8), schwerer Auffälligkeit.
+- Wiedererteilungsverfahren: § 20 FeV – Neuantrag nach Ablauf Sperrfrist; ggf. Theorie-/Praxisprüfung erforderlich.
+- Punkte-Entzug: § 4 Abs. 5 S. 1 Nr. 3 StVG – ab 8 Punkten gebundene Entziehung durch FE-Behörde.
+- Praxis-Tipp: Bei drohendem § 69 StGB-Entzug parallel: Strafverteidigung (Sperrfrist verkürzen über § 69a Abs. 7 StGB) und MPU-Vorbereitung (Beratungsstelle, Abstinenznachweise). Sperrfrist-Strategie: aktive Therapieteilnahme, soziale Stabilität, ggf. Verkehrspsychologische Beratung dokumentieren – beschleunigt § 69a Abs. 7 StGB-Antrag.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

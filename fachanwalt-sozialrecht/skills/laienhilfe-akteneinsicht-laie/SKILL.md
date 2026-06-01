@@ -9,6 +9,15 @@ description: "Laienverstaendlicher Sozialrechts-Skill zu Akteneinsicht Laie. Erk
 
 Dieser Skill erklaert **Akteneinsicht Laie** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
 
+## Norm- und Praxisanker
+
+- Akteneinsicht im Sozialverwaltungsverfahren: § 25 SGB X – Beteiligte koennen die das Verfahren betreffenden Akten einsehen; Aktenversendung nur ausnahmsweise; Kopien gegen Kostenerstattung.
+- Datenauskunft: Art. 15 DSGVO – Auskunft ueber die zu eigenen Personen gespeicherten Daten; in Sozialbehoerden parallel zu § 25 SGB X.
+- Akteneinsicht im Gerichtsverfahren: § 120 SGG – durch das Gericht; bei Bevollmaechtigtem auch Aktenversendung in dessen Buero.
+- Schwerbehindertenakten / medizinische Gutachten: § 25 Abs. 3 SGB X – ggf. eingeschraenkt; bei psychiatrischen Gutachten Recht auf Vermittlung durch Arzt, wenn Schaden droht.
+- Datenschutz Dritter: § 25 Abs. 3 SGB X – Daten Dritter koennen geschwaerzt werden.
+- Praxis-Tipp: Antrag schriftlich, mit Aktenzeichen und Angabe "zur Wahrnehmung rechtlicher Interessen". Bei Behoerde i.d.R. innerhalb 4 Wochen Reaktion. Bei Verzoegerung Untaetigkeitsmitteilung mit Frist. Akte vollstaendig kopieren lassen, weil im Widerspruchs-/Klageverfahren Akteneinsicht Grundlage jeder Stellungnahme ist.
+
 ## Erst sortieren
 
 1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?

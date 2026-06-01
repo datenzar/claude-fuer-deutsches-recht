@@ -39,6 +39,21 @@ Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergeh
 - Doppelmangel zu einem Pauschalanspruch verschmelzen.
 - Insolvenzrisiko ohne Rechtsgrund verlagern.
 
+## Zessionsspezifische Sonderfragen
+
+- **§ 407 BGB Schutz des Schuldners:** Schuldner darf an Zedenten leisten, solange er die Abtretung nicht kennt — Zessionar trägt das Risiko der Mitteilung. Bei nichtiger Zession wirkt Zahlung an Zedenten **schuldbefreiend** gegenüber dem Schuldner.
+- **§ 404 BGB Einwendungserhalt:** Zessionar muss alle Einwendungen aus dem Schuldverhältnis gegen sich gelten lassen, die der Schuldner gegen den Zedenten hatte (z. B. Mangelhaftung, Aufrechnungslage § 406 BGB).
+- **Globalzession vs. Sicherungszession:**
+  - Sicherungszession: Zessionar (i.d.R. Bank) hält Forderung treuhänderisch; bei Tilgung Rückübertragungspflicht. Wirtschaftliche Zuordnung bleibt Zedent.
+  - Globalzession: Übertragung aller bestehenden und künftigen Forderungen — Bestimmtheits- und Bestimmbarkeitserfordernis (BGH-Linie zu § 398 BGB).
+- **Doppelzession und Prioritätsgrundsatz:** Erste wirksame Abtretung erfasst die Forderung (§ 398 BGB), zweite geht ins Leere — außer § 405 BGB (Urkundenvorlage und Schuldnerschutz).
+- **Insolvenzanfechtung der Zession § 130 InsO:** kongruente Deckung anfechtbar binnen 3 Monaten vor Antrag; bei Globalzession Anfechtungsfrist beachten — BGH-Linie zur Vertragstreue bei revolvierenden Sicherheiten.
+
+## Bereicherungsrechtliche Wickung im Zessions-Dreieck
+
+- **Schuldner zahlt an Nichtberechtigten** (Zessionar bei nichtiger Zession): Leistungskondiktion gegen Empfänger? Oder Direktkondiktion des Zedenten?
+- **Empfehlung BGH:** Wickung **in der jeweils fehlerhaften Beziehung** (Zessionsverhältnis), d. h. Zedent kondiziert vom Zessionar. Direktkondiktion nur in Ausnahmefällen (§ 822 BGB-Konstellationen, Doppelmangel).
+
 ## Arbeitsausgabe
 
 | Punkt | Ergebnis | Belegbedarf |

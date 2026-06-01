@@ -33,3 +33,30 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Liquiditätsplanungs-Red-Team
+- **Methodenprüfung:**
+  - Direkte Methode (OPOS-basiert) oder indirekte Methode (GuV-basiert) — in der Krise zwingend direkte Methode.
+  - Granularität angemessen? 13 Wochen wöchentlich, 24 Monate monatlich.
+  - Saldenkonsistenz: Anfangsbestand + Cash-In − Cash-Out = Endbestand auf jeder Periode.
+- **Zahlen-Plausibilität:**
+  - Umsatzprognose mit Auftragsbestand und Vergangenheit abgeglichen?
+  - Working-Capital-Annahmen (DSO, DPO, DIO) realistisch?
+  - Steuern und SV-Beiträge mit Fälligkeit gepflegt?
+  - Lohn und Gehalt mit Auszahlungstag, nicht nur Monatswert.
+- **Sensitivität:**
+  - Best/Base/Worst dokumentiert?
+  - Worst-Case zeigt Liquiditätsdeckung? Wenn nein: drohende ZU § 18 InsO.
+- **Rechtsbezogene Prüfung:**
+  - § 17 InsO 10-Prozent-/3-Wochen-Linie sauber berechnet?
+  - § 18 InsO 24-Monats-Horizont eingehalten?
+  - Vorhandene Kreditlinien als sicher angenommen — Kündigung der Linie nicht eingerechnet?
+  - Bei zugesagter Bankfinanzierung: schriftliche Zusage oder nur Absichtserklärung?
+- **Halluzinations-Stopps:**
+  - Keine erfundenen BGH-Az. zur 10-Prozent-Schwelle.
+  - § 64 GmbHG a.F. (vor 2021) vs. § 15b InsO (seit SanInsFoG) sauber unterscheiden.
+  - StaRUG (§ 1, § 18) gilt seit 1.1.2021 — keine Vor-Anwendung.
+
+## Plan-Schwächen
+- Plan zeigt nur grünen Bereich, aber Annahmen sind nicht plausibel → potenziell schwach für Haftungsabschirmung.
+- Plan ohne Datum / Verantwortliche → Beweiskraft im Haftungsprozess fraglich.

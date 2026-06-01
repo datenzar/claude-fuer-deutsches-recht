@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Tabellen-Output-Varianten
+- **Markdown-Tabelle:** in Memo, E-Mail, Schriftsatz; bewusst schmal halten (5-7 Spalten max).
+- **Excel-/CSV-Export:** für Massendaten, Filterung, Pivotierung. Spalten: ID, Belegquelle, Norm, Wert, Risiko, Empfehlung, Verantwortlich, Frist.
+- **Dreischicht-Tabelle (3D):** (1) Inhalt (Forderung/Klausel/Position), (2) Recht (Norm/Rspr.), (3) Risiko (Ampel/Empfehlung). Mehrere Sichten je nach Empfänger.
+- **Insolvenztabelle § 174 ff. InsO:** Anmeldung, Prüfung, Feststellung; festgestellte Forderungen mit Vollstreckungstitel-Wirkung § 178 III InsO.
+- **Anlagentabelle K1, K2 / B1, B2 (Schriftsatz):** Anlage, Beweisthema, Beweismittel (§ 130 ZPO).
+- **Kostenfestsetzung GKG/RVG:** Position, Gebührentatbestand, Wert, Faktor, Betrag.
+- **Vergleichstabelle Norm-Stände:** alte Fassung — neue Fassung — Übergangsregelung.
+- Falle: Tabellen ohne Quellenangabe je Zeile — bei Audit nicht nachvollziehbar. Eigene Spalte "Beleg" mit Aktenzeichen, Datum, Anlagennummer ist Pflicht.

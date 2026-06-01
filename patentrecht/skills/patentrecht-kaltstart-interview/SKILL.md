@@ -26,3 +26,11 @@ In maximal sieben Fragen klären, welche patentrechtliche Arbeit zu leisten ist.
 - **Dokumentenprofil:** vorhandene und fehlende Aktenstücke.
 - **Skillpfad:** 2 bis 5 passende Skills in Reihenfolge.
 - **Erster Arbeitsschritt:** sofort verwertbarer Entwurf oder konkrete Rückfrage.
+
+## Patentrechtlicher Pflichtkern
+
+- **Schutzvoraussetzungen § 1 PatG:** Erfindung auf technischem Gebiet, neu (§ 3 PatG), erfinderische Tätigkeit (§ 4 PatG), gewerblich anwendbar (§ 5 PatG). Software als solche nicht patentfähig (§ 1 Abs. 3 Nr. 3 PatG), aber computer-implementierte Erfindungen unter Voraussetzungen.
+- **Neuheitsschädliche Offenbarung:** Jede Verkaufs-/Messe-/Web-Offenbarung vor Anmeldung vernichtet Neuheit (§ 3 PatG). Bei Prio-Beanspruchung 12 Monate (Art. 4 PVÜ, § 41 PatG).
+- **Schutzwirkung § 9 PatG:** unmittelbare und mittelbare Verletzung (§ 10 PatG); Schutzbereich nach § 14 PatG / Art. 69 EPÜ und Auslegungsprotokoll (Wortsinn und Äquivalenz).
+- **Wichtige Fristen:** Einspruch beim DPMA 9 Monate ab Patenterteilung (§ 59 PatG); UPC-Opt-out bis Ende Übergangszeit; Jahresgebühren beim DPMA / EPA ab 3. Patentjahr.
+- Falle: Anmeldetag-Strategie missachten — Veröffentlichung auf Pitchdeck oder Crowdfunding gilt als neuheitsschädlich, auch im Inland.

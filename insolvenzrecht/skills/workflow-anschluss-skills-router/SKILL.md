@@ -33,3 +33,27 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing-Logik zu Plugin-Spezialskills
+- **Mandant ist Schuldner / Geschäftsführer mit Antragsfrage:**
+  - `spezial-insolvenzreife-antragspflicht-und-haftung` (§ 15a InsO, § 15b InsO).
+  - `spezial-zahlungsunfaehigkeit-tatbestand-beweis-und-belege` (§ 17 InsO, 10-Prozent-/3-Wochen-Schwelle).
+  - `spezial-ueberschuldung-fristen-form-und-zustaendigkeit` (§ 19 InsO, Fortbestehensprognose 12 Monate).
+- **Verfahrensweg:**
+  - `spezial-verfahrenstypen-livequellen-und-rechtsprechungscheck` (Regelinsolvenz vs. Eigenverwaltung § 270 InsO vs. Schutzschirm § 270d InsO).
+  - `spezial-glaeubigerantrag-risikoampel-und-gegenargumente` (Gläubigerantrag § 14 InsO).
+  - `spezial-verbraucherinsolvenz-mehrparteienkonflikt` (§§ 304 ff. InsO).
+- **Operative Phase:**
+  - `spezial-belegmatrix-formular-portal-und-einreichung` (Antragsunterlagen).
+  - `spezial-tabelle-beweislast-und-darlegungslast` (Forderungstabelle).
+  - `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt` (§ 67 InsO).
+- **Querschnitt:**
+  - `spezial-inso-schriftsatz-brief-und-memo-bausteine` (Textbausteine).
+  - `spezial-rechtsquellen-zahlen-schwellen-und-berechnung` (10-Prozent-/3-Wochen-Berechnung).
+  - `spezial-triage-mandantenkommunikation-entscheidungsvorlage` (Mandantenbrief).
+- **Grenzüberschreitend / besondere Lagen:**
+  - `spezial-chronologie-internationaler-bezug-und-schnittstellen` (EuInsVO 2015/848).
+  - `spezial-feststellung-sonderfall-und-edge-case`.
+
+## Faustregel
+- Immer zuerst Antragspflicht klären (§ 15a InsO), dann Verfahrenswahl, dann operative Skills.

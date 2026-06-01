@@ -83,6 +83,13 @@ Baue das Ergebnis mit diesen Elementen:
 - **Geschäftsleiter/FAP:** Nicht nur Einzelperson prüfen, sondern Kollektiveignung, Zeitverfügbarkeit, Interessenkonflikte und Einreichkanal.
 - **Tokenisierung:** Keine Technikromantik. Rechtsposition, Register, Verwahrung, Übertragung, Verlustfall, Kundenschutz und Aufsicht zuerst.
 
+## Geschäftsleiter-Spezifika (KWG/ZAG/KAGB)
+- Rechtsgrundlagen: §§ 25c, 32, 33, 36 KWG (Zuverlässigkeit, fachliche Eignung, ausreichende Zeit, Mandatsbegrenzung), § 21 ZAG (entsprechend für Zahlungsinstitut, E-Geld-Institut), § 119 WpIG, § 17 KAGB. EBA/ESMA Joint Guidelines on suitability assessment of members of the management body (EBA/GL/2021/06, ESMA35-36-2319).
+- Anzeigewege: Absichtsanzeige vor Bestellung (§ 24 Abs. 1 Nr. 1 KWG) — formgebundene Einreichung über BaFin-MVP-Portal mit Lebenslauf, Führungszeugnis (§ 30 BZRG), Selbstauskunft, Eignungsmatrix, Mandatsübersicht; Vollzugsanzeige nach Bestellung (§ 24 Abs. 1 Nr. 2). Bei bedeutenden Instituten (Significant Institutions) ggf. EZB/SSM via IMAS-Portal.
+- Fachliche Eignung: nicht nur Einzelqualifikation, sondern Kollektiveignung des Boards (Komplementärwissen Risk/IT/Geschäft); ZeitverfügbarkeitsRichtlinien EBA Tabelle (Mandatszahl, Stundenbudget); Interessenkonflikte (§ 25c Abs. 2 KWG iVm AT 4.4 MaRisk).
+- Praxis BaFin: Hearings ("Gespräche") bei Erstbestellung üblich; Fit&Proper-Test mündlich und schriftlich; bei Nichtzustimmung Möglichkeit der Rücknahme der Anzeige vor förmlicher Abweisung.
+- Praktiker-Tipp: Eignungsmatrix als Excel + Erläuterung pro Kriterium; CV chronologisch und ohne Lücken; Führungszeugnis (Belegart "O") und gewerbliches Führungszeugnis aus dem GZR; bei Vorstrafen/aufsichtsrechtlichen Verfahren transparente Offenlegung mit eigenem Memo (Reha-Argumente, Zeitverlauf, Lerneffekt); Termin vor Bestellung nicht öffentlich kommunizieren.
+
 ## Qualitätsgate
 
 Vor Ausgabe prüfen:

@@ -33,3 +33,26 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Insolvenzrechtliches Dokumenten-Intake — Mindestbestand
+- **Finanzielle Lage:**
+  - BWA der letzten 12 Monate, Summen- und Saldenlisten, OPOS-Listen (Debitoren, Kreditoren), Konten- und Kontokorrentauszüge der letzten 3 Monate.
+  - Bilanzen der letzten 3 Jahre (testiert oder nicht), Lagebericht.
+  - Liquiditätsstatus zum Stichtag und 13-Wochen-Liquiditätsplan.
+- **Gesellschaftsrechtlich:**
+  - Handelsregisterauszug aktuell, Gesellschaftsvertrag/Satzung, Gesellschafterliste.
+  - Beschlüsse Gesellschafter (Kapitalmaßnahmen, Sanierung).
+- **Schuldenstand:**
+  - Liste der Verbindlichkeiten nach Fälligkeit, gegliedert nach Gläubigergruppen (Lieferanten, Banken, Finanzamt, Sozialversicherung, Lohnforderungen).
+  - Bestehende Sicherheiten, Globalzessionen, Eigentumsvorbehalte.
+- **Verträge mit Krisenrelevanz:**
+  - Kreditverträge mit Kovenanten, Mietverträge (§§ 109, 112 InsO), Sicherungsabreden, Dauerlieferverträge.
+- **Geschäftsführerunterlagen:**
+  - Anstellungsverträge, D&O-Versicherungspolice (Deckung im Insolvenzfall prüfen).
+  - Eintragung im Handelsregister, Bestellungs- und Abberufungsbeschlüsse.
+
+## Frühwarnindikatoren beim Intake
+- Nichtabgeführte Lohnsteuer/SV-Beiträge (§ 266a StGB!).
+- Vorinsolvenzliche Pfändungsbeschlüsse, Eidesstattliche Versicherungen.
+- Wechselproteste, Mahnverfahren, Vollstreckungsbescheide.
+- Kreditkündigungen, Standstill-Verhandlungen, Kovenantenverletzungen.

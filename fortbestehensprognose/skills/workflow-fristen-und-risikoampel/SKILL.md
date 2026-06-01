@@ -33,3 +33,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Fortbestehensprognose-Ampel
+- **ROT — Prognose negativ:**
+  - Überschuldung § 19 InsO liegt vor (rechnerische Überschuldung + negative Fortbestehensprognose im 12-Monats-Zeitraum) → Antragspflicht § 15a InsO greift, 6-Wochen-Frist läuft.
+  - Geschäftsführer-Haftung § 15b InsO Zahlungsverbot ab Eintritt der materiellen Insolvenz.
+  - Sofort: Beratergespräch, Sanierungskonzept, Eigenverwaltungs- oder Schutzschirmantrag prüfen.
+- **GELB — Prognose unsicher / „nur überwiegend wahrscheinlich":**
+  - Sensitivitätsanalyse und Worst-Case erforderlich (IDW EPS 11).
+  - Going-Concern-Prämisse Jahresabschluss § 252 Abs. 1 Nr. 2 HGB im Risiko — WP-Stellungnahme einholen.
+  - Maßnahmen zur Liquiditätssicherung (Stundungsvereinbarungen, Gesellschafterzuschuss, Forderungsverzicht mit Besserungsschein) dokumentieren.
+- **GRÜN — Prognose positiv:**
+  - Integrierte Planung über 12 Monate (für § 19 InsO) bzw. 24 Monate (für § 18 InsO) zeigt durchgehend Liquiditätsdeckung > 100 Prozent.
+  - Dokumentation IDW EPS 11 / IDW S6.
+
+## Haftungsrelevante Pflichten
+- Datierung und Archivierung der Prognose: bei späterer Insolvenz beweist die zeitnahe Bescheinigung die ex-ante-Sicht.
+- Aktualisierung mindestens quartalsweise, bei Anlass (Auftragseinbruch, Umsatzeinbruch) sofort.
+- Mehraugenprinzip: Prognose von zweitem Geschäftsführer oder Berater plausibilisieren lassen.
+- Materielle Prüftiefe: nicht nur Cashflow, sondern auch GuV, Bilanz, Kovenanten, Kreditlinien.

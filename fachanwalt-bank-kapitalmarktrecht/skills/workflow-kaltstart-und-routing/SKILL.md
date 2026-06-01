@@ -22,6 +22,17 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Routing-Heuristik Bank-/Kapitalmarktrecht
+- Anlegerklage → Aufklärungs-/Beratungspflichtverletzung §§ 280, 311 BGB iVm WpHG; Bond-Rechtsprechung als Maßstab.
+- Emission/Prospekt → WpPG iVm VO 2017/1129; Prospekthaftung §§ 9 ff. WpPG iVm § 21 WpPG.
+- Marktmissbrauch → MAR Art. 7-21 (Insiderrecht, Ad-hoc, Marktmanipulation); BaFin-Sanktionen § 120 WpHG.
+- Bankaufsicht → KWG, ZAG, GwG; Erlaubnistatbestände § 32 KWG.
+- Crypto/MiCAR → VO 2023/1114, Übergang aus § 1 Abs. 1a S. 2 Nr. 6 KWG (Kryptoverwahrgeschäft).
+- KapMuG → kollektive Geltendmachung Anleger; Musterklage statt Streitgenossenschaft.
+
+## Praxis-Hinweis
+- Verjährungsbeginn bei Aufklärungspflichtverletzung: BGH judiziert kenntnisabhängig nach Kenntnis vom Verstoß (ständige Rechtsprechung); keine erfundenen Az. nutzen.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Typische Fristen Medizinrecht
+- Verjährung Arzthaftungsansprüche: drei Jahre kenntnisabhängig (§§ 195, 199 BGB); 30-Jahres-Höchstgrenze ab Behandlung bei Personenschäden.
+- Dokumentationspflichten § 630f BGB Aufbewahrungsdauer zehn Jahre.
+- Patientenrechtegesetz: Einsichtsrecht in Patientenakte § 630g BGB binnen angemessener Frist.
+- Schlichtungsverfahren ÄK: hemmt Verjährung nach § 204 Abs. 1 Nr. 4 BGB ab Antragsschriftsatz.
+- Approbations-/Berufsgerichtsverfahren: Widerspruchsfrist ein Monat ab Bekanntgabe (§ 70 VwGO).
+- Kassenarzt-Honorarbescheid: Widerspruch ein Monat, Klage SG; Honorarausschluss-Beschwerden Zulassungsgremien.
+- Strafanzeige Patient → Strafverfolgung Körperverletzung: § 78 StGB Verfolgungsverjährung beachten.
+
+## Trade-off
+- Schlichtungsverfahren (kostengünstig, verzögert) vs. direkte Klage (zeitnah, kostspielig, Rufrisiko).
+- Beweislastumkehr nach § 630h BGB nur bei groben Behandlungsfehlern, Befunderhebungsversäumnis, voll beherrschbaren Risiken — bei einfachen Fehlern Beweislast Patient.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

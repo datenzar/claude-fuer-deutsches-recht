@@ -21,10 +21,35 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **675V** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **§ 675v BGB** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## § 675v BGB im Überblick
+- **Abs. 1**: Haftung des Zahlers bei Verlust, Diebstahl oder sonstigem Abhandenkommen begrenzt auf **50 EUR**.
+- **Abs. 2**: Bei **grober Fahrlässigkeit** oder **Vorsatz** Vollhaftung des Zahlers, wenn die Pflicht aus § 675l BGB (Sicherheitsobliegenheiten) verletzt wurde.
+- **Abs. 3**: Befreiung des Zahlers, wenn der Zahlungsdienstleister starke Kundenauthentifizierung nach § 55 ZAG (PSD2-Umsetzung) nicht verlangt hat — wichtiger Hebel zugunsten Geschädigter.
+- **Abs. 4**: Haftungsbegrenzung 50 EUR entfällt nicht, wenn der Zahler weder vorsätzlich noch grob fahrlässig gehandelt hat.
+
+## Schlüssel-Rechtsprechung zu grober Fahrlässigkeit
+- **BGH XI ZR 91/14** (Urteil vom 26.01.2016): Bloße Weitergabe der TAN aufgrund Phishing-Mail begründet nicht ohne weiteres groben Verkehrspflichtverstoß; Würdigung der Gesamtumstände erforderlich.
+- **BGH XI ZR 96/11** (Urteil vom 24.04.2012): Anscheinsbeweis grober Fahrlässigkeit durch erfolgreichen Einsatz des Sicherungsverfahrens widerlegbar bei plausibler Phishing-Erklärung.
+- Verifizierung aktueller Rechtsprechung über CURIA / openJur / Rechtsprechung-im-Internet.de unter den genannten Aktenzeichen.
+
+## Live-Quellen
+- **Rechtsprechung-im-Internet.de** (Bundesministerium der Justiz): kostenfrei, Entscheidungen mit Aktenzeichen.
+- **BaFin**-Veröffentlichungen zu PSD2-Umsetzung und Kundenauthentifizierung; FAQ "Starke Kundenauthentifizierung".
+- **BdB / DSGV / BVR**-Schlichtungsstellen: jährliche Tätigkeitsberichte mit Entscheidungstendenzen.
+- **Bundesbank**-Schlichtungsstelle Zahlungsverkehr.
+
+## Methodik für Phishing-Vorfälle
+1. Klassische Phishing-E-Mail / SMS / Anruf — niedriges grobes Fahrlässigkeitsrisiko bei unauffälliger Aufmachung; je perfekter die Täuschung, desto eher Bankhaftung.
+2. Telefon-/Call-ID-Spoofing — Kammergerichte erkennen oft, dass die Verschleierung gegen Bankenhaftung wirkt; aktuelle OLG-Linien (z. B. OLG Frankfurt, OLG Köln) regelmäßig live recherchieren.
+3. Konkrete Pflichtenverletzung des Kunden (Weitergabe nach mehrfacher Warnung in App) — Indiz für grobe Fahrlässigkeit.
+
+## Trade-off
+Banken berufen sich oft formelhaft auf grobe Fahrlässigkeit; die Beweislast trägt nach § 675w BGB **die Bank**. Akute Live-Recherche zu aktuellen OLG-Urteilen lohnt sich, da die Linien sich seit PSD2-Umsetzung verschieben — bislang zugunsten der Bankkunden, wenn das pushTAN-Verfahren manipulationsanfällig erscheint.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `verkehrsowi-verteidiger`. Ausg
 
 Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Geschwindigkeit**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Geschwindigkeitsverstöße: § 3 StVO i.V.m. § 49 StVO und BußgKatV; innerorts ab 21 km/h Punkt(e), ab 31 km/h Regelfahrverbot; außerorts ab 26 km/h Punkt, ab 41 km/h Regelfahrverbot.
+- Standardisierte Messverfahren: BGH ständige Rspr. – wenn standardisiertes Messverfahren (Eichung, geschulter Messbeamter, Aufbau gemäß Bedienungsanleitung) bejaht, reicht Verkehrsverstoß plus Messprotokoll als Beweis.
+- Toleranzabzug: Praktisch je Messgerät – z. B. ES 3.0/8.0 bis 100 km/h = 3 km/h, über 100 km/h = 3%; PoliScan-Geräte ähnlich. Mandant Toleranz prüfen.
+- Angriffspunkte: Eichschein abgelaufen, Schulungs­nachweis Messbeamter fehlt, Bedien­anweisung verletzt (Aufstellort, Winkel, Mess­strecke), Rohmessdaten nicht überlassen → Verteidigungslinien.
+- Akteneinsicht Messakte: Anspruch auf vollständige Akte inkl. Lebensakte Messgerät – BGH/OLG-Linie (zur Effektivität der Verteidigung).
+- Fahrverbot: § 25 StVG i.V.m. BußgKatV; Härtefall möglich (siehe spezial-fahrverbot).
+- Praxis-Tipp: Strategiemuster nach Überschreitung: bis 20 km/h = Geldbußen-Reduktion ggf. zumutbar, ab 21 km/h Punkte-Verteidigung + Mess­fehler­prüfung; ab Schwelle Regelfahrverbot Härtefall-Strategie parallel zu Messprüfung aufbauen. Bei beharrlicher Pflichtverletzung (zwei Überschreitungen >25 km/h innerhalb eines Jahres) Fahrverbot praktisch zwingend.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

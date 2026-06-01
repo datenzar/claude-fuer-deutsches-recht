@@ -10,6 +10,15 @@ Dieser Skill ist ein konkreter Fachbaustein für `strafbefehl-verteidiger`. Ausg
 
 Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Fahrerlaubnis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Fahrverbot als Nebenstrafe: § 44 StGB – ein bis sechs Monate; nach Reform 2017 auch bei Nichtverkehrsdelikten möglich, in der Praxis meist im Verkehrskontext.
+- Entziehung der Fahrerlaubnis: § 69 StGB – bei "ungeeignetem Kraftfahrer", Regelvermutung § 69 Abs. 2 StGB (Trunkenheit § 316 StGB, § 315c StGB, unerlaubtes Entfernen § 142 StGB usw.).
+- Sperrfrist: § 69a StGB – mindestens sechs Monate, höchstens fünf Jahre; isolierte Sperre nach § 69a Abs. 1 S. 3 StGB möglich.
+- Vorläufige Entziehung: § 111a StPO – Beschwerde nach § 304 StPO statthaft.
+- Punkte/Fahreignungsregister: §§ 4, 28 ff. StVG, FeV; bei 8 Punkten Entzug, parallel zu strafrechtlicher Entscheidung.
+- Praxis-Tipp: Entscheidungsvorlage mit Mandant: Einspruch hinnehmen (Fahrverbot kürzer, Sperrzeit überstehen) vs. Einspruch (mit Risiko der Verschärfung)? Existenzfragen (LKW-Fahrer, Außendienst) und Härtefall-Argumente nach § 44 StGB schriftlich abwägen. Bei Sperrfrist ggf. § 69a Abs. 7 StGB (vorzeitige Aufhebung) prüfen.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

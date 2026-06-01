@@ -33,3 +33,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Insolvenzrechtliche Live-Quellen (immer aktuell)
+- **Gesetze:** gesetze-im-internet.de für InsO (insb. §§ 1, 15a, 17, 18, 19, 22, 80, 129–147, 217, 270 InsO), EGInsO, StaRUG, AnfG.
+- **Bekanntmachungen:** insolvenzbekanntmachungen.de (öffentliche Zustellung, Verfahrensstand, Insolvenzverwalter, Termine).
+- **Handelsregister:** handelsregister.de (Auflösungseintrag, Geschäftsführerwechsel, Liquidator).
+- **EU-Recht:** EuInsVO 2015/848 (Verordnung über Insolvenzverfahren) bei grenzüberschreitenden Fällen, COMI-Prüfung Art. 3.
+- **Standards:** IDW S6 (Sanierungskonzept), IDW S11 (Insolvenzgründe), IDW EPS 11 (Fortbestehensprognose) — Stand stets prüfen, da regelmäßig fortgeschrieben.
+- **Behörden:** BMJ (Gesetzentwürfe, SanInsFoG-Nachfolgen), Finanzämter (steuerliche Behandlung Sanierungsgewinn § 3a EStG).
+
+## Verifikations-Checkliste BGH-Zitate
+- Vor Ausgabe: Datum, Az., Fundstelle in BGH-Datenbank (bundesgerichtshof.de) oder NJW/NZI gegenprüfen.
+- Bei Unsicherheit: "BGH-Linie zu [Norm]" statt erfundenes Az.
+- Wichtige Linien: Zahlungsunfähigkeit § 17 InsO (Drei-Wochen-Liquiditätslücke ≥ 10 Prozent), Vorsatzanfechtung § 133 InsO (Indizien-Rechtsprechung), Insolvenzantragspflicht § 15a InsO (Haftungsmaßstab Geschäftsführer).

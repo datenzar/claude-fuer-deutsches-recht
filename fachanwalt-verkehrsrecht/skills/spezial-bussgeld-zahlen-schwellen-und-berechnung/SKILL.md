@@ -10,6 +10,16 @@ Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Aus
 
 Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Bussgeld**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
 
+## Norm- und Praxisanker
+
+- Bußgeldrahmen OWi-Verkehr: § 24 StVG i.V.m. BußgKatV; Standardsätze für typische Verstöße; Regelfahrverbot bei groben Verstößen § 25 StVG.
+- Erhöhung Geldbuße: §§ 17 Abs. 3 OWiG (wirtschaftliche Verhältnisse), § 17 Abs. 4 OWiG (Vorteilabschöpfung); Gewerbliche Tätigkeit (Berufskraftfahrer) BGH/OLG-Linie: Höhere Bemessung wegen erhöhter Sorgfaltspflichten.
+- Verwarnungsgeld: § 56 OWiG – bis 55 EUR ohne förmliches Verfahren; bei Zahlung kein Bußgeldbescheid.
+- Verjährung: § 26 Abs. 3 StVG – 3 Monate Verfolgungs­verjährung im OWi-Verfahren (Standardstraßen­verkehr); Unterbrechung § 33 OWiG.
+- Punkte: § 4 StVG, BußgKatV Anlage – Punkte je nach Tatbestand; Punktestand abrufen § 30 StVG.
+- Strafzumessung Tagessätze (§ 315c, § 316 StGB): § 40 StGB Tagessatzsystem (Nettoeinkommen/30).
+- Praxis-Tipp: Standardtabelle BußgKatV als Anker, aber bei Sonderfällen (Probefahrt, Berufskraftfahrer, mehrere Verstöße eines Ereignisses) Abweichungen prüfen. Bei wirtschaftlich starken Betroffenen § 17 Abs. 3 OWiG-Erhöhung droht; bei Beweisproblemen Reduzierung über § 47 OWiG (Opportunität) anstreben.
+
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
 

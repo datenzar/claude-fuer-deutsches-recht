@@ -34,3 +34,28 @@ Prüfe den direkten Grundstückserwerb. Der Skill hilft bei Kaufvertrag, Bemessu
 - Closing-Steuerbetrag mit Bundesland-Hinweis.
 - Vertragsbaustein: GrESt-Tragung, Mitwirkung, Unbedenklichkeitsbescheinigung.
 - Warnung, welche Aussagen steuerberaterlich/bewertungsrechtlich zu vertiefen sind.
+
+## Norm-Bezug konkret
+
+- § 1 Abs. 1 Nr. 1 GrEStG: Kaufvertrag als Erwerbsvorgang.
+- § 8 Abs. 1 GrEStG: Bemessung nach dem Wert der Gegenleistung.
+- § 9 Abs. 1 Nr. 1, Abs. 2 GrEStG: Kaufpreis plus übernommene sonstige Leistungen, einschließlich übernommener Belastungen.
+- § 13 GrEStG: gesamtschuldnerische Haftung von Erwerber und Veräußerer.
+- §§ 18, 19 GrEStG: Notar- und Beteiligtenanzeige.
+- § 22 GrEStG: Unbedenklichkeitsbescheinigung für Eintragung.
+
+## Praktischer Tipp
+
+- Inventar (z. B. Einbauküche, Maschinen, lose Betriebsausstattung) im Kaufvertrag separat ausweisen, Marktwert belegen (Inventarliste mit Einzelwerten). Pauschalabschlag ohne Beleg wird von der GrESt-Stelle nicht anerkannt.
+- Betriebsvorrichtungen sind nach § 68 BewG abzugrenzen; was fest mit dem Gebäude verbunden ist und der Nutzung dient (Aufzug, Heizung), bleibt grunderwerbsteuerlicher Gegenstand.
+- Faustregel: Bei mehr als 5 % Inventaranteil immer Einzelnachweis, sonst Außenprüfungsrisiko.
+
+## Typische Fehler
+
+- Funds Flow vergisst GrESt-Sicherheit bis Unbedenklichkeitsbescheinigung vorliegt.
+- "Käufer trägt alle Verkehrssteuern" steht im SPA, aber der Notar zeigt nicht rechtzeitig an und § 19-Frist (zwei Wochen Beteiligten, Kenntnis) läuft.
+- Bauerrichtungsvertrag mit dem Veräußerer oder ihm wirtschaftlich verbundenem Unternehmen: einheitlicher Erwerbsgegenstand führt zu Einbeziehung der Bauerrichtungskosten in die Bemessungsgrundlage.
+
+## Beispiel-Mustertext (SPA-Klausel)
+
+> Die Grunderwerbsteuer auf den Erwerb des in Anlage [X] bezeichneten Grundbesitzes trägt der Käufer. Bewegliche Wirtschaftsgüter (Anlage [Y]) sind mit dem darin angegebenen Einzelwert in Höhe von insgesamt EUR [...] bewertet; der Veräußerer steht für die Marktüblichkeit dieser Werte ein. Die Beteiligten zeigen den Erwerb unverzüglich gemäß § 19 GrEStG dem zuständigen Finanzamt an; der Käufer übernimmt die federführende Erstellung der Anzeige.

@@ -33,3 +33,31 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Dokumenten-Intake Liquiditätsplanung
+- **Cash-In-Daten:**
+  - **OPOS Debitoren** mit Fälligkeitsstruktur (Aging-Report) — Basis für Cash-In direkte Methode.
+  - Auftragsbestand, Umsatzprognose, Kundenbestätigungen, Anzahlungen.
+  - Erstattungen Finanzamt (Vorsteuer, Lohnsteuer), Versicherungsleistungen.
+- **Cash-Out-Daten:**
+  - **OPOS Kreditoren** mit Fälligkeit — Basis für Cash-Out direkte Methode.
+  - Lohnabrechnung mit Auszahlungsterminen, Lohnsteuer- und SV-Abgaben (§ 266a StGB!).
+  - Steuerverbindlichkeiten Finanzamt mit Fälligkeiten (USt-Voranmeldung, KSt-Vorauszahlung).
+  - Miet- und Pachtverpflichtungen (§ 535 BGB), Dauerlieferverträge.
+  - Tilgung und Zinsen für Kreditverbindlichkeiten, Leasingraten.
+- **Liquiditätsreserven:**
+  - Bank- und Kassenbestände, Tagesgeld, Festgeld.
+  - Offene Kreditlinien (Kontokorrent), Factoring-Linien.
+  - Stille Reserven, freie Vermögensgegenstände, die kurzfristig veräußerbar sind.
+- **Kovenanten-Tracking:**
+  - Bankvertrag mit Kovenanten (Working Capital, EBITDA, Debt-Service-Coverage, Equity Ratio).
+  - Quartalsweise Compliance-Bestätigung an Bank.
+- **Sanierungsmaßnahmen mit Liquiditätswirkung:**
+  - Stundungsvereinbarungen, Forderungsverzichte (mit Besserungsschein), Gesellschafterdarlehen, Patronate.
+  - Rangrücktrittsvereinbarungen § 39 Abs. 2 InsO.
+
+## Plausibilitätsprüfung beim Intake
+- Saldenkonsistenz: Anfangsbestand + Cash-In − Cash-Out = Endbestand.
+- Sensitivität: Best-/Base-/Worst-Case explizit ausgewiesen?
+- Annahmen-Dokumentation: woher kommen Umsatzprognose und Kostenstruktur?
+- Vergleich mit Vergangenheit (BWA, letzte 12 Monate) — Plausibilitätscheck Working Capital.
