@@ -6,7 +6,22 @@ description: "Mandantenkommunikation im Plugin methodenlehre-buergerliches-recht
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `methodenlehre-buergerliches-recht` Mandantenkommunikation im Plugin methodenlehre-buergerliches-recht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill übersetzt methodische Erkenntnisse (Auslegungsergebnis, Analogie-Ergebnis, Streitstands-Bewertung) in eine klare Mandanten-/Mandantinnenkommunikation. Adressat: typischerweise Inhouse-Counsel, Sachbearbeiter Justiziariat, Steuerberater im Schnittfeldfall.
+
+## Struktur Methoden-Kommunikation
+- **Anker:** Welche Norm, welches Tatbestandsmerkmal ist auslegungsbedürftig oder Lückenfall?
+- **Methodische Begründung knapp:** Wortlaut, Systematik, Historie, Telos; ggf. verfassungs-/unionsrechtskonform.
+- **Ergebnis:** klare Auslegungsoption (eine Linie), mit Festigkeitsgrad (gesichert / herrschend / vertretbar / Mindermeinung).
+- **Restrisiken:** alternative Auslegung der Gegenseite, Vorlage- oder Vorlagepflicht (Art. 100 GG, Art. 267 AEUV), zeitliche Entwicklung.
+- **Empfehlung:** wie ist Position in Vertrag / Schriftsatz / Memo abzubilden?
+
+## Sprachregeln
+- Methodische Fachsprache nur, soweit Mandant sie versteht; sonst Übersetzung ("Auslegung des Begriffs X bedeutet, ...").
+- Konjunktiv im Gutachten ("könnte sich ergeben") -> Indikativ in der Empfehlung ("Wir empfehlen, X anzusetzen").
+
+## Anti-Muster
+- Methodenlehre als Selbstzweck. Mandant interessiert das Ergebnis und das Risiko.
+- "Streitstand offen" ohne Stellungnahme -> Mandant kann nichts damit anfangen; Position einnehmen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

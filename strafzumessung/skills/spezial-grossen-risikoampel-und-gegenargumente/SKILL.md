@@ -37,3 +37,37 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafzumessung-Risikoampel / Gegenargumente Bausteine
+- **Risikoampel Strafmass:**
+  - **Rot:**
+    - Mindeststrafe nach Strafrahmen droht; keine Bewaehrung moeglich.
+    - Einschlaegige Vorstrafen (insb. einschlaegiges Vergehen ueber 6 Monate).
+    - Tat in Bewaehrungszeit (Widerrufsrisiko § 56f StGB).
+    - Schadenshoehe Regelbeispiel-Schwelle.
+    - Mehrfachverurteilung -> Gesamtstrafe § 55 StGB.
+  - **Gelb:**
+    - Erstverurteilung mit moeglicher Bewaehrung § 56 StGB.
+    - Schadenswiedergutmachung teilweise.
+    - Therapie / TOA § 46a StGB im Gang.
+    - Sozialprognose grundsaetzlich positiv aber unklare Akteurslage.
+  - **Gruen:**
+    - Erstverurteilung mit Bewaehrung.
+    - TOA / Wiedergutmachung erfolgt.
+    - Verstaendigung § 257c StPO mit Korridor abgesichert.
+    - Einstellungs-Aussicht §§ 153, 153a StPO.
+- **Gegenargumente zu typischen Strafzumessungs-Argumenten der StA:**
+  - **"einschlaegige Vorstrafen":** Tilgungsreife pruefen § 51 BZRG (Verwertungsverbot); zeitlich abgegrenzt; nicht-einschlaegig?
+  - **"hoher Schaden":** Realquote pruefen (z. B. bei Versicherungsbetrug Schaden = Versicherungsleistung, nicht behaupteter Wert).
+  - **"professioneller Vorgehen":** Subsumtion Regelbeispiel pruefen; oft nur Indizwirkung.
+  - **"Tatfolgen": Konkrete Schaedenhoehe ermitteln; immaterielle Folgen objektivieren.
+  - **"keine Schadenswiedergutmachung":** Versuche dokumentieren; TOA-Anbieten; ggf. Schadensregulierung in Aussicht stellen.
+- **Verteidigungslinien Strafmilderung:**
+  - § 46 II StGB-Bilanz vollstaendig durchgehen.
+  - § 49 StGB-Verschiebung (§§ 21, 23 II, 27 II 2, 13 II StGB).
+  - § 46a StGB TOA / Schadenswiedergutmachung.
+  - § 47 StGB Vermeidung kurzer Freiheitsstrafe.
+  - § 56 StGB Bewaehrungspraxis.
+  - § 60 StGB Absehen von Strafe (klein-Schaden, Reue, gesundheitliche Folgen).
+  - Verfahrensdauer-Kompensation (BGH-Vollstreckungsloesung).
+- **Massregeln pruefen:** § 44 StGB Fahrverbot, § 69 StGB Entziehung Fahrerlaubnis, § 70 StGB Berufsverbot, §§ 63, 64 StGB Unterbringung Psychiatrie / Entziehungsanstalt.

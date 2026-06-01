@@ -6,7 +6,21 @@ description: "Kaltstart und Routing im Plugin jurastudium: führt vom ersten Sat
 # Kaltstart und Routing
 
 ## Aufgabe
-Dieser Workflow-Skill für `jurastudium` Kaltstart und Routing im Plugin jurastudium: führt vom ersten Satz oder Dokument in den passenden Arbeitsweg, erkennt Rolle, Ziel, Risiko und Anschluss-Skills.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet im Plugin `jurastudium` vom ersten Material (Klausuraufgabe, Falltext, Lernanfrage) in den richtigen Spezialskill: Klausurübung, Hausarbeit, AG-Vorbereitung, Lernplan, Karteikarten, Examensprognose.
+
+## Routing-Heuristik
+- **Zivilrechtsklausur:** Lösungsschemata + Subsumtion + Gutachtenstil; Anspruchsgrundlagen-Reihenfolge (Vertrag, c.i.c., GoA, dinglich, Delikt, Bereicherung).
+- **Strafrechtsklausur:** Tatbestand, Rechtswidrigkeit, Schuld (TB-RW-S); bei Bedarf Strafzumessung.
+- **Öffentliche Klausur:** Zulässigkeit, Begründetheit; Grundrechtsprüfung (3-Stufen-Test: Schutzbereich, Eingriff, Rechtfertigung).
+- **Hausarbeit:** Zitiernachweis nach `references/zitierweise.md`; Streitstandsdarstellung; Methodenarbeit.
+- **AG-Vortrag:** strukturiert, frei vorgetragen; max. 10-15 Minuten.
+- **Mündliche Prüfung:** Schwerpunktthemen vorbereiten; Methodenfragen üben.
+- **Lernplan:** Examensziel rückwärts (24-Wochen-Plan), wöchentliche Etappen.
+
+## Anti-Muster
+- "Schema runterschreiben" statt subsumieren -- Schema ist Gerüst, nicht Ergebnis.
+- Streitstand bei jedem TBM, auch wenn nicht entscheidungserheblich -> Punkteverlust durch Themenverfehlung.
+- Aktenzeichen erfinden -- in der Hausarbeit Plagiats- und Sittenstrafe.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

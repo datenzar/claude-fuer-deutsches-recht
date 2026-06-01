@@ -37,3 +37,32 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafzumessungs-Fristen / Form / Zustaendigkeit Bausteine
+- **Strafzumessungs-Zustaendigkeit nach Verfahrensstand:**
+  - **StA-Antrag Strafbefehl § 407 StPO:** StA setzt Strafmass vor.
+  - **AG Strafrichter § 25 GVG:** bis 2 Jahre Freiheitsstrafe.
+  - **AG Schoeffengericht § 28 GVG:** bis 4 Jahre.
+  - **LG grosse Strafkammer § 76 GVG:** ueber 4 Jahre / Wirtschaft.
+  - **LG Schwurgericht § 74 II GVG:** Toetungsdelikte.
+- **Strafzumessungs-relevante Fristen:**
+  - **Verjaehrungsfristen** §§ 78-79b StGB:
+    - 3 Jahre: Vergehen mit Strafrahmen bis 1 Jahr (§ 78 III Nr. 5 StGB).
+    - 5 Jahre: 1-5 Jahre Strafrahmen.
+    - 10 Jahre: 5-10 Jahre Strafrahmen.
+    - 20 Jahre: ueber 10 Jahre Strafrahmen.
+    - 30 Jahre: lebenslange Freiheitsstrafe.
+    - Mord § 211 StGB: unverjaehrbar § 78 II StGB.
+    - **§ 78c StGB Unterbrechung** durch z. B. Vernehmung Beschuldigter, Erhebung oeffentliche Klage, Eroeffnungsbeschluss; **§ 78b StGB Ruhen** bei Verhinderung gesetzlicher Verfolgung.
+  - **Bewaehrungszeit § 56a StGB:** 2-5 Jahre.
+  - **Bewaehrungswiderruf § 56f StGB** bei neuer Tat in Bewaehrungszeit.
+  - **Strafrest-Aussetzung § 57 StGB:** nach Halbstrafe (Erstverurteilung) oder 2/3 (Regel).
+  - **BZRG-Tilgungsfristen § 46 BZRG:** 5 Jahre (Geldstrafe bis 90 TS, Freiheitsstrafe bis 3 Monate), 10 Jahre (bis 1 Jahr), 15 Jahre (sonst).
+- **Form-Re-Check Strafzumessung:**
+  - **Urteilsbegruendung §§ 267 StPO** muss Strafzumessungstatsachen § 46 StGB einzeln darstellen; Lueckenhaftigkeit = Sachruege Revision.
+  - **Doppelverwertungsverbot § 46 III StGB** beachten (Tatbestandsmerkmale nicht zugleich strafschaerfend).
+  - **Verstaendigung § 257c StPO** schriftlich im Protokoll; Belehrung § 257c V StPO Pflicht.
+- **Rechtsweg Strafzumessung:**
+  - Berufung § 314 StPO bei AG-Urteil; volle Tatsachenrevision.
+  - Revision §§ 333, 337 StPO Sachruege gegen Strafzumessung; Erfolg selten (BGH-Linie: Strafzumessung Tatrichter, nur Wertungsfehler / Lueckenhaftigkeit greift).
+  - Nachtraegliche Gesamtstrafe § 460 StPO Antrag Vollstreckungsbehoerde / Gericht.
