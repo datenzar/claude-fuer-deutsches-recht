@@ -119,6 +119,8 @@ BANNER_KANZLEI = HexColor("#1F3F2E")      # tiefes Kanzlei-Gruen
 BANNER_INTERN = HexColor("#8A1C1C")       # warnfarbenes Rot fuer interne Vermerke
 BANNER_BANK = HexColor("#23344F")         # gedaempftes Bank-Blau
 BANNER_ENTWURF = HexColor("#7A6A1E")      # Ocker fuer Entwuerfe / Presse
+BANNER_INTERN_DOK = HexColor("#4B3B6B")   # gedaempftes Lila fuer interne Hauspapiere
+BANNER_BILD = HexColor("#4A4A45")         # neutrales Grau fuer Bilddokumentation
 
 s_letterhead_org = ParagraphStyle(
     "LetterheadOrg",
@@ -198,6 +200,8 @@ TYP_LABEL = {
     "interner_vermerk": "INTERNER VERMERK",
     "mandantenkorrespondenz": "MANDANTENKORRESPONDENZ",
     "entwurf": "ENTWURF",
+    "internes_dokument": "INTERNES HAUSDOKUMENT",
+    "bild_dokumentation": "BILD-DOKUMENTATION",
 }
 
 TYP_BANNER = {
@@ -206,7 +210,38 @@ TYP_BANNER = {
     "interner_vermerk": BANNER_INTERN,
     "mandantenkorrespondenz": BANNER_BANK,
     "entwurf": BANNER_ENTWURF,
+    "internes_dokument": BANNER_INTERN_DOK,
+    "bild_dokumentation": BANNER_BILD,
 }
+
+
+def parse_sidecar_meta(path: Path) -> dict:
+    """Liest <datei>.meta neben einer Binaer-/EML-Beilage.
+
+    Format identisch zum AKTE-META-Block, aber ohne HTML-Kommentar-Klammer:
+      typ: original_eingehend
+      absender: ...
+      adressat: ...
+      ...
+    Gibt {} zurueck, wenn keine Sidecar existiert.
+    """
+    sidecar = path.with_suffix(path.suffix + ".meta")
+    if not sidecar.exists():
+        return {}
+    meta: dict = {}
+    current_key = None
+    for raw in sidecar.read_text(encoding="utf-8", errors="replace").splitlines():
+        if not raw.strip() or raw.lstrip().startswith("#"):
+            continue
+        if raw.startswith(" ") or raw.startswith("\t"):
+            if current_key:
+                meta[current_key] = (meta.get(current_key, "") + " " + raw.strip()).strip()
+            continue
+        if ":" in raw:
+            k, _, v = raw.partition(":")
+            current_key = k.strip().lower()
+            meta[current_key] = v.strip()
+    return meta
 
 
 def parse_akte_meta(md_text: str) -> tuple[dict, str]:
@@ -871,6 +906,12 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
             rel = f.relative_to(testakte_dir)
             flow.append(Paragraph(f"<b>Datei:</b> {escape(str(rel))}", s_meta))
             flow.append(Spacer(1, 4))
+            # Sidecar-Briefkopf vor Nicht-MD-Beilagen (DOCX/EML/XLSX/CSV/TXT/JPG)
+            # MD-Stuecke haben ihren AKTE-META-Block im Body und brauchen das nicht.
+            if t != "md":
+                sidecar = parse_sidecar_meta(f)
+                if sidecar:
+                    flow.extend(render_briefkopf(sidecar))
             try:
                 if t == "md":
                     flow.extend(md_to_flowables(f.read_text(encoding="utf-8", errors="replace")))
@@ -919,10 +960,85 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
     c.setFont(FONT_REG, 9)
     c.setFillColor(MUTED)
     c.drawString(2 * cm, 24.2 * cm, f"Datei: {pdf_path.name}")
+
+    # Sidecar-Briefkopf auch fuer PDF-Anhaenge (auf der Separator-Seite)
+    meta = parse_sidecar_meta(pdf_path)
+    typ = (meta.get("typ") or "").strip().lower() if meta else ""
+    if typ in TYP_LABEL:
+        banner_color = TYP_BANNER[typ]
+        banner_label = TYP_LABEL[typ]
+        vertraulichkeit = (meta.get("vertraulichkeit") or "").strip()
+        text = banner_label + ("   |   " + vertraulichkeit if vertraulichkeit else "")
+        # farbiger Banner
+        c.setFillColor(banner_color)
+        c.rect(2 * cm, 22.5 * cm, 17 * cm, 0.9 * cm, fill=1, stroke=0)
+        c.setFillColor(HexColor("#FFFFFF"))
+        c.setFont(FONT_BOLD, 10)
+        c.drawString(2.3 * cm, 22.85 * cm, text)
+        # Absender / Adressat / Datum / Az.
+        c.setFillColor(black)
+        c.setFont(FONT_BOLD, 9)
+        y = 21.6 * cm
+        if meta.get("absender"):
+            c.drawString(2 * cm, y, "Absender:")
+            c.setFont(FONT_REG, 9)
+            for line in [p.strip() for p in meta["absender"].split(";")][:4]:
+                c.drawString(4 * cm, y, line)
+                y -= 0.45 * cm
+            c.setFont(FONT_BOLD, 9)
+        if meta.get("adressat"):
+            y -= 0.3 * cm
+            c.drawString(2 * cm, y, "Adressat:")
+            c.setFont(FONT_REG, 9)
+            for line in [p.strip() for p in meta["adressat"].split(";")][:4]:
+                c.drawString(4 * cm, y, line)
+                y -= 0.45 * cm
+            c.setFont(FONT_BOLD, 9)
+        y -= 0.3 * cm
+        for key, lbl in [("datum", "Datum:"), ("az", "Aktenzeichen:"), ("ihr_zeichen", "Ihr Zeichen:")]:
+            if meta.get(key):
+                c.drawString(2 * cm, y, lbl)
+                c.setFont(FONT_REG, 9)
+                c.drawString(4 * cm, y, meta[key])
+                c.setFont(FONT_BOLD, 9)
+                y -= 0.45 * cm
+        if meta.get("betreff"):
+            y -= 0.2 * cm
+            c.drawString(2 * cm, y, "Betreff:")
+            c.setFont(FONT_REG, 9)
+            # Betreff ggf. umbrechen
+            betreff = meta["betreff"]
+            words = betreff.split()
+            line = ""
+            xb = 4 * cm
+            for w in words:
+                if len(line + " " + w) > 80:
+                    c.drawString(xb, y, line.strip())
+                    y -= 0.45 * cm
+                    line = w
+                else:
+                    line = (line + " " + w).strip()
+            if line:
+                c.drawString(xb, y, line)
+                y -= 0.45 * cm
+        # Eingangsstempel-Box, falls eingehend
+        if typ == "original_eingehend" and meta.get("eingangsstempel"):
+            c.setStrokeColor(HexColor("#8A1C1C"))
+            c.setLineWidth(1.0)
+            c.rect(13 * cm, 19.5 * cm, 6 * cm, 1.8 * cm, fill=0, stroke=1)
+            c.setFillColor(HexColor("#8A1C1C"))
+            c.setFont(FONT_BOLD, 9)
+            c.drawString(13.2 * cm, 20.85 * cm, "EINGEGANGEN")
+            c.setFont(FONT_REG, 8)
+            c.drawString(13.2 * cm, 20.3 * cm, meta["eingangsstempel"][:38])
+            if len(meta["eingangsstempel"]) > 38:
+                c.drawString(13.2 * cm, 19.8 * cm, meta["eingangsstempel"][38:75])
+
     c.setStrokeColor(BORDER)
     c.setLineWidth(0.3)
     c.line(2 * cm, 1.6 * cm, 19 * cm, 1.6 * cm)
     c.setFont(FONT_REG, 8)
+    c.setFillColor(MUTED)
     c.drawString(2 * cm, 1.2 * cm, f"Arbeitsakte: {testakte_name}")
     c.showPage()
     c.save()
