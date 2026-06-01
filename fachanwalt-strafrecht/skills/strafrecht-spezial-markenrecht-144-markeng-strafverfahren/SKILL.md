@@ -84,7 +84,7 @@ Praxistipps:
 - `strafrecht-spezial-markenrecht-143-markeng`
 - `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 - `fachanwalt-strafrecht-adhaesionsverfahren`
 
 ## Quellen Stand 06/2026

@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-vorteilsannahme-vorteilsgewaehrung-331-333-stgb
+name: strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb
 description: "Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils fuer die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo fuer Hochschulen Behoerden kommunale Mandatstraeger."
 ---
 

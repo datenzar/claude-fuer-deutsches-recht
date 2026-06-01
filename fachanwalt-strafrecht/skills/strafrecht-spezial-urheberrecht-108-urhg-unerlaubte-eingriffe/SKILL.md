@@ -72,9 +72,9 @@ Strafrahmen Paragraph 108 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 
 - `strafrecht-spezial-urheberrecht-106-urhg`
 - `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-urheberrecht-108b-urhg-technische-schutzmassnahmen`
+- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 

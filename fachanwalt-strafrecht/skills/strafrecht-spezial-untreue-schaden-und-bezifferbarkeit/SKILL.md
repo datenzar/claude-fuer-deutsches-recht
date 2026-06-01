@@ -81,7 +81,7 @@ In der Praxis wird der Schaden durch Wirtschaftspruefer-Gutachten ermittelt. Ver
 - `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
 - `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
 - `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue`
-- `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung`
+- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 
 ## Quellen Stand 06/2026
 

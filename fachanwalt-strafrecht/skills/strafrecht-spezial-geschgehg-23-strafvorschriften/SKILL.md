@@ -82,9 +82,9 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 ## Querverweise
 
-- `strafrecht-spezial-urheberrecht-108b-urhg-technische-schutzmassnahmen`
+- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
 - `strafrecht-spezial-markenrecht-143-markeng`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 - `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
 
 ## Quellen Stand 06/2026

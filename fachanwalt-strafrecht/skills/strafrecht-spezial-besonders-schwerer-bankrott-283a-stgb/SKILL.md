@@ -74,7 +74,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 ## Querverweise
 
 - `strafrecht-spezial-bankrott-283-stgb`
-- `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung`
+- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 - `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 

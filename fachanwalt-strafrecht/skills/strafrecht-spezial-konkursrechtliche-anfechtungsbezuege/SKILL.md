@@ -92,7 +92,7 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 - `strafrecht-spezial-bankrott-283-stgb`
 - `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
 - `strafrecht-spezial-schuldnerbeguenstigung-283d-stgb`
-- `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung`
+- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 
 ## Quellen Stand 06/2026
 

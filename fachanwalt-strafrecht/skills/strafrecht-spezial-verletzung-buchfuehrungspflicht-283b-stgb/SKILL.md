@@ -77,7 +77,7 @@ Aufbewahrungspflichten: 10 Jahre fuer Handelsbuecher, Inventare, Eroeffnungsbila
 - `strafrecht-spezial-bankrott-283-stgb`
 - `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
 - `strafrecht-spezial-insolvenzverschleppung-15a-inso`
-- `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung`
+- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 
 ## Quellen Stand 06/2026
 

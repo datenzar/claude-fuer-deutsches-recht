@@ -93,7 +93,7 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 - `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
 - `strafrecht-spezial-insolvenzverschleppung-15a-inso`
 - `strafrecht-spezial-faktische-geschaeftsfuehrer`
-- `strafrecht-spezial-bankrott-strafzumessung-und-vermoegensabschoepfung`
+- `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 - `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
 
 ## Quellen Stand 06/2026

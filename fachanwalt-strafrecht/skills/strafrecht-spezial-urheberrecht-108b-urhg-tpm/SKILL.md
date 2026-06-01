@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-urheberrecht-108b-urhg-technische-schutzmassnahmen
+name: strafrecht-spezial-urheberrecht-108b-urhg-tpm
 description: "Unerlaubte Eingriffe in technische Schutzmassnahmen und zur Rechtewahrnehmung erforderliche Informationen nach Paragraph 108b UrhG. Umgehung von DRM Kopierschutz CSS DVD-Schutz Streaming-Verschluesselung. Strafrahmen bis 1 Jahr Freiheitsstrafe gewerblich bis 3 Jahre. Antragsdelikt Paragraph 109 UrhG. Privatgebrauchsausnahme. Verteidigung Vorsatz Bestimmungsmerkmal."
 ---
 
@@ -73,7 +73,7 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 - `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
 - `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
 - `strafrecht-spezial-geschgehg-23-strafvorschriften`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 

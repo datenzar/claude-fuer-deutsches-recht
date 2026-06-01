@@ -76,9 +76,9 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 
 - `strafrecht-spezial-urheberrecht-106-urhg`
 - `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
-- `strafrecht-spezial-urheberrecht-108b-urhg-technische-schutzmassnahmen`
+- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 - `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
 
 ## Quellen Stand 06/2026

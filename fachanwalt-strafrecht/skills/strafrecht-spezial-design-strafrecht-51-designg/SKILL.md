@@ -80,7 +80,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Anzahl verkaufter Stuecke, Umsatz, S
 - `strafrecht-spezial-patentrecht-142-patg`
 - `strafrecht-spezial-urheberrecht-106-urhg`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 

@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-bestechung-bestechlichkeit-amtstraeger-332-334-stgb
+name: strafrecht-spezial-amtstraegerbestechung-332-334-stgb
 description: "Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo fuer Vergabekorruption Amtstraegerbestechung Richterbestechung."
 ---
 

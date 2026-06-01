@@ -81,7 +81,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 - `strafrecht-spezial-markenrecht-143-markeng`
 - `strafrecht-spezial-geschgehg-23-strafvorschriften`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 
 ## Quellen Stand 06/2026
 

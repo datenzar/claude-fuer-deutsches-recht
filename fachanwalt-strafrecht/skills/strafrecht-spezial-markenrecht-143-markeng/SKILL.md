@@ -79,7 +79,7 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 - `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
 - `strafrecht-spezial-design-strafrecht-51-designg`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 - `strafrecht-spezial-urheberrecht-106-urhg`
 
 ## Quellen Stand 06/2026

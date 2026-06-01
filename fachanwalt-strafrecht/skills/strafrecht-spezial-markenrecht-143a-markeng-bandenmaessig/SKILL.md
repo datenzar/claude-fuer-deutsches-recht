@@ -77,7 +77,7 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 - `strafrecht-spezial-markenrecht-143-markeng`
 - `strafrecht-spezial-markenrecht-144-markeng-strafverfahren`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 - `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
 
 ## Quellen Stand 06/2026

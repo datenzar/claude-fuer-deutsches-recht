@@ -68,13 +68,24 @@ Strafrahmen Paragraph 106 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 
 **Hilfsbeweisantrag:** "Es wird beantragt, ein Sachverstaendigengutachten einzuholen zum Beweis der Tatsache, dass die streitgegenstaendliche Grafik auf S. 3 der Anlage A1 keine persoenliche geistige Schoepfung im Sinne von Paragraph 2 Abs 2 UrhG darstellt, sondern eine einfache geometrische Standardform."
 
+## Verfahrensschritte im Mandat
+
+1. **Erstgespraech und Akteneinsicht.** Vollmacht, Schweigepflichtentbindung, Vermerk zur Beschuldigteneigenschaft, Antrag auf Akteneinsicht Paragraph 147 StPO. Klaeren, ob die Anzeige durch Rechteinhaber oder Zoll erstattet wurde.
+2. **Pruefung Strafantrag und Frist.** Paragraph 109 UrhG iVm Paragraph 77b StGB: Drei-Monats-Frist ab Kenntnis berechnen; bei Verspaetung Antrag auf Einstellung Paragraph 170 Abs 2 StPO.
+3. **Sachverhalt aufnehmen.** Datentraeger, Downloads, Verkaufslisten, IP-Adressen, Plattform-Logs. IT-Forensik parallel zur Beschlagnahme.
+4. **Schutzanalyse.** Werk- und Schoepfungshoehepruefung, Schrankenregelungen (Paragraphen 44a, 51, 53 UrhG), Erschoepfungseinwand.
+5. **Vergleichsgespraech mit Rechteinhaber.** Lizenzgebuehrenanalogie als Schadensbasis; Verpflichtung zur Antragsruecknahme Paragraph 77d StGB vereinbaren.
+6. **Schutzschrift bei drohender Anklage.** Vorlage an Amtsgericht; Verteidigungslinie skizzieren; Paragraph 153 / 153a StPO anregen.
+7. **Verstaendigung Paragraph 257c StPO** bei eindeutiger Beweislage und kooperativer Mandantenseite.
+8. **Bei Anklage:** Hauptverhandlung mit Sachverstaendigenbeweisantraegen zur Schoepfungshoehe und zur Schutzfristberechnung.
+
 ## Querverweise
 
 - `strafrecht-spezial-urheberrecht-108-urhg-unerlaubte-eingriffe`
 - `strafrecht-spezial-urheberrecht-108a-urhg-gewerblich`
-- `strafrecht-spezial-urheberrecht-108b-urhg-technische-schutzmassnahmen`
+- `strafrecht-spezial-urheberrecht-108b-urhg-tpm`
 - `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
-- `strafrecht-spezial-ip-strafrecht-verteidigung-und-strafantragsfrist`
+- `strafrecht-spezial-ip-strafrecht-verteidigung`
 - `strafrecht-spezial-markenrecht-143-markeng`
 
 ## Quellen Stand 06/2026
