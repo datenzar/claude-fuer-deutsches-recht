@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Orange** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Orange-Phänomene identifizieren:** Stille (fehlende Aussage zu wesentlichen Tätigkeitsmerkmalen), Schaufenster-Drift (positive Auftaktphrase ohne inhaltliche Substanz), abgeschwächte Steigerungsadverbien ("im Wesentlichen", "weitgehend"), fehlende Schlussformel (Dank/Bedauern/Zukunftswünsche).
+3. **Gegenargumente Arbeitgeberseite prüfen:** § 109 GewO Pflicht zu Wahrheit + Wohlwollen; BAG ständige Rechtsprechung: Wohlwollensgebot tritt nur dort zurück, wo der Wahrheitsgehalt es zwingend erfordert. Arbeitgeber muss Verfehlungen darlegen und beweisen, die schlechtere Bewertung tragen.
+4. **Risikoampel:** Orange wenn 2 oder mehr Schwachstellen kumulieren ohne klares Notenwort (Note unklar zwischen 3 und 4); Rot bei expliziten Negativcodes (z.B. "bemüht", "kennt seine Pflichten"); Grün bei klarer Notenformel und vollständiger Schlussformel.
+5. **Verteidigungslinien Arbeitnehmer:** Mit Beurteilungen aus Mitarbeitergesprächen, E-Mail-Lob, Bonusabrechnungen und Beförderungen gegenargumentieren. Vergleich vor Klage: Notenkompromiss "gut" statt "sehr gut" oft besser als ungewisser Prozess.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

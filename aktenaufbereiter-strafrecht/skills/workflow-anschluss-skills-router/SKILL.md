@@ -33,3 +33,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Routing-Logik nach Verfahrensstand
+- **Vor Anklage (Ermittlungsverfahren):** Akteneinsicht § 147 StPO, Stellungnahme zur Beschuldigtenvernehmung § 163a StPO, Beweisantraege noch vor Abschluss der Ermittlungen.
+- **Nach Anklage / Eroeffnungsverfahren §§ 199 ff. StPO:** Eroeffnungsbeschluss-Pruefung, Einwaende gegen die Eroeffnung § 201 StPO, Hilfsbeweisantraege.
+- **Hauptverhandlung:** Beweisantraege § 244 StPO, Verstaendigung § 257c StPO, Schlussvortrag.
+- **Strafbefehl §§ 407-412 StPO:** Pruefung Einspruch (Frist 2 Wochen § 410 StPO) vs. Akzeptanz; Verteidiger § 137 StPO.
+- **Notwendige Verteidigung §§ 140-141 StPO:** Pflichtverteidiger bei Verbrechensanklage, U-Haft, Hauptverhandlung vor Schwurgericht, Verbrechen mit Strafdrohung 1 Jahr, koerperlicher/seelischer Maengel des Beschuldigten.
+- **Revision §§ 333 ff. StPO:** Pruefung Verfahrens- und Sachruege; Frist § 341 StPO 1 Woche.

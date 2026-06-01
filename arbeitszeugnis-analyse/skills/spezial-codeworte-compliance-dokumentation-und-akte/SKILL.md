@@ -21,10 +21,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Codeworte** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Rechtsrahmen setzen:** § 109 GewO Anspruch auf Zeugnis und auf wahres + wohlwollendes Zeugnis; BAG ständige Rechtsprechung zur Beweislastregel: Note "befriedigend" (3) ist Standard, Arbeitnehmer trägt Darlegungs- und Beweislast für bessere Note ab "gut" (2), Arbeitgeber für schlechtere Note ab "ausreichend" (4).
+3. **Codeworte und Notenmatrix prüfen:** Satzweise gegen Standardformeln ("stets zu unserer vollsten Zufriedenheit" = 1, "stets zu unserer vollen Zufriedenheit" = 2, "zu unserer vollen Zufriedenheit" = 3, "zu unserer Zufriedenheit" = 4, "im Großen und Ganzen zu unserer Zufriedenheit" = 5). Steigerungsadverbien ("stets/jederzeit/immer") und Auslassungen markieren.
+4. **Geheimcodes flaggen:** "bemüht/zeigte Verständnis" (negativ), "kennt seine Pflichten" (negativ), Schaufenster-Drift (positive Auftaktphrase, dann inhaltsleere Aussagen), fehlende Schlussformel (Dank, Bedauern, Zukunftswünsche) als Indiz für unterdurchschnittliche Bewertung.
+5. **Aktenvermerk und Compliance:** Notenstufe, Beweismittelübersicht, Verhandlungs-/Klagestrategie dokumentieren. Anschluss zu Aufforderungsschreiben oder Klage (§§ 46 ff. ArbGG) bauen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

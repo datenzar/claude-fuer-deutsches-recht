@@ -28,6 +28,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Kommunikation Fortbestehensprognose (typische Pflichtbausteine)
+- **Klare Aussage zur Insolvenzantragspflicht:** Wenn rechnerisch Überschuldung nach § 19 InsO vorliegt, muss die Mandantin wissen, dass die positive Fortbestehensprognose das Tatbestandsmerkmal ausschließt und damit antragsabwendend wirkt — und welche Annahmen tragen.
+- **Haftungsrisiken benennen:** § 15a InsO Antragspflicht (Höchstfrist drei Wochen Zahlungsunfähigkeit, sechs Wochen Überschuldung), § 15b InsO Zahlungsverbot, § 1 StaRUG Krisenfrüherkennungspflicht, § 43 GmbHG Sorgfaltsmaßstab.
+- **Was die Prognose nicht leistet:** Keine Garantie, kein Comfort Letter für Banken ohne weitergehende Prüfung, kein Ersatz für ein Sanierungskonzept nach IDW S 6.
+- **Eskalation klar benennen:** Verschlechtert sich die Annahmenbasis (z. B. Kündigung Großauftrag, Kontokündigung), ist die Prognose unverzüglich zu überprüfen — sonst Strafbarkeitsrisiko nach § 15a Abs. 4, 5 InsO.
+- **Honorar:** Pauschalvereinbarung oder Stundenhonorar nach RVG-Vergütungsvereinbarung empfehlen; reine RVG-Abrechnung ist bei Sanierungsmandaten regelmäßig nicht kostendeckend.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

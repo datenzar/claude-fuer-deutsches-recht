@@ -28,6 +28,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
 - Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
 
+## Routing Fortbestehensprognose
+- **Eröffnungsgrund unklar:** §§ 17–19 InsO triagieren. Zahlungsunfähigkeit (§ 17) prüft Liquidität jetzt; drohende Zahlungsunfähigkeit (§ 18) prüft 24-Monats-Horizont (StaRUG: 24 Monate; § 18 Abs. 2 InsO: idR 24 Monate); Überschuldung (§ 19) prüft 12-Monats-Fortbestehensprognose nach SanInsFoG.
+- **Antragspflicht in Frage:** § 15a InsO mit Höchstfrist drei Wochen bei Zahlungsunfähigkeit, sechs Wochen bei Überschuldung (Stand prüfen). Geschäftsführer-Haftung nach § 15b InsO bei Zahlungen nach Insolvenzreife.
+- **Krisenfrüherkennung StaRUG:** § 1 StaRUG verpflichtet Geschäftsleiter zu Krisenfrüherkennung und Gegenmaßnahmen; Anschluss an Plugin `krisenfrueherkennung-starug`.
+- **Sanierungsbausteine erwogen:** Rangrücktritt nach § 19 Abs. 2 Satz 2 InsO entlastet Passivseite; Patronatserklärung verbessert Prognose, sofern werthaltig.
+- **Trade-off:** Kurze Prognose mit knappen Annahmen ist schnell, aber im Streit nicht haltbar. Vollständiges IDW-S-11-Gutachten ist aufwendig, aber gerichtsfest.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

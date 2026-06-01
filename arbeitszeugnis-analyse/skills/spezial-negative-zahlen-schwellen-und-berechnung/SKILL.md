@@ -19,12 +19,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
 5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
 
+## Notenstufenmatrix (BAG ständige Rechtsprechung)
+
+| Note | Standardformel | Variation |
+| --- | --- | --- |
+| 1 (sehr gut) | "stets zu unserer vollsten Zufriedenheit" | "in jeder Hinsicht hervorragend" |
+| 2 (gut) | "stets zu unserer vollen Zufriedenheit" | "voll und ganz" |
+| 3 (befriedigend) | "zu unserer vollen Zufriedenheit" | "im Wesentlichen" |
+| 4 (ausreichend) | "zu unserer Zufriedenheit" | – |
+| 5 (mangelhaft) | "im Großen und Ganzen zu unserer Zufriedenheit" | "im Wesentlichen zu unserer Zufriedenheit" |
+| 6 (ungenügend) | "bemüht, den Anforderungen gerecht zu werden" | – |
+
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Negative** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+2. **Beweislast prüfen:** § 109 GewO; BAG ständige Rechtsprechung: Note 3 ist Standard, Arbeitnehmer trägt Beweislast für 1-2, Arbeitgeber für 4-6.
+3. **Streitwert berechnen:** in der Praxis ein Bruttomonatsgehalt nach § 42 Abs. 2 GKG analog; Ansprüche auf qualifiziertes Zeugnis und auf Korrektur können kumulieren.
+4. **Risiko bewerten:** Note unter "befriedigend" Pflicht zur Begründung durch Arbeitgeber; Klageaussicht und Vergleichsdruck einschätzen.
+5. **Anschluss bauen:** Aufforderungsschreiben mit Fristsetzung (mindestens 2 Wochen üblich), dann ggf. Klage vor Arbeitsgericht (§§ 46 ff. ArbGG).
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
