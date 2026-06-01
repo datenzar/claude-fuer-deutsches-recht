@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Partner Rechtsanwaelte; Fachanwaelte fuer Bank- und Kapitalmarktrecht; Kurfuerstendamm 195; 10707 Berlin
+adressat: Mandantenakte intern (Kanzlei Brezelmann & Partner)
+datum: Stand: laufend (Akte 2025-B-0478)
+az: 2025-B-0478 / LG Berlin 4 O 218/25
+betreff: Aktenuebersicht Mayer ./. Sparkasse Berlin - Stammdaten und Originalunterlagen
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Aktenübersicht
 
 ## Stammdaten

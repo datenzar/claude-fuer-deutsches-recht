@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Partner Rechtsanwaelte; Fachanwaelte fuer Bank- und Kapitalmarktrecht; Kurfuerstendamm 195; 10707 Berlin
+adressat: Mandantenakte intern (Kanzlei Brezelmann & Partner)
+datum: Erstbewertung Juni 2025
+az: 2025-B-0478/Erstbewertung
+betreff: Erstbewertung Anspruchsgrundlagen § 675u BGB und Einwand § 675v BGB
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Erstbewertung § 675u / § 675v BGB
 
 ## Kurzfazit

@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Partner Rechtsanwaelte; Fachanwaelte fuer Bank- und Kapitalmarktrecht; Kurfuerstendamm 195; 10707 Berlin
+adressat: Mandantenakte intern (Kanzlei Brezelmann & Partner)
+datum: Juli/August 2025
+az: 2025-B-0478/Klagepfad
+betreff: Ombudsmann-Verfahren und Strategiepfad zur Klage LG Berlin
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Ombudsmann und Klagepfad
 
 ## Ombudsmann

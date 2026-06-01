@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Partner Rechtsanwaelte; Fachanwaelte fuer Bank- und Kapitalmarktrecht; Kurfuerstendamm 195; 10707 Berlin
+adressat: Mandantenakte intern (Kanzlei Brezelmann & Partner)
+datum: Juni/Juli 2025
+az: 2025-B-0478/Bankpflichten
+betreff: Bankpflichten und Auswertung technischer Logs (Art. 97 PSD2, pushTAN)
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Bankpflichten und technische Logs
 
 ## Auffälligkeiten aus der Akte

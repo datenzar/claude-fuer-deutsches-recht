@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Partner Rechtsanwaelte; Fachanwaelte fuer Bank- und Kapitalmarktrecht; Kurfuerstendamm 195; 10707 Berlin
+adressat: Mandantenakte intern (Kanzlei Brezelmann & Partner)
+datum: Juni 2025
+az: 2025-B-0478/Ampel-grobe-Fahrlaessigkeit
+betreff: Bewertungsampel grobe Fahrlaessigkeit gem. § 675v Abs. 3 BGB
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Grobe-Fahrlässigkeit-Ampel Mayer ./. Sparkasse
 
 ## Rot aus Mandantensicht

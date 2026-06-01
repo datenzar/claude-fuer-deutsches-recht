@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Collegen Rechtsanwaelte; Fachanwalt fuer Zivilrecht RA Dr. Hubertus Brezelmann; Maximilianstrasse 28; 90402 Nuernberg
+adressat: Mandantenakte intern (Kanzlei Brezelmann & Collegen)
+datum: Stand: laufend (Akte BRZ-2025-447-MF)
+az: BRZ-2025-447-MF
+betreff: Aktenuebersicht ModeFuchs ./. von Altenhausen - Beteiligte, Forderung, Zeitstrahl
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Aktenübersicht ModeFuchs GmbH ./. Gottlieb von Altenhausen
 
 ## Beteiligte

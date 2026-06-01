@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Collegen Rechtsanwaelte; Fachanwalt fuer Zivilrecht RA Dr. Hubertus Brezelmann; Maximilianstrasse 28; 90402 Nuernberg
+adressat: Mandantenakte intern
+datum: August 2025
+az: BRZ-2025-447-MF/Fehleranalyse
+betreff: Fehleranalyse der vorhandenen Klageschrift der InkassoZentrale
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Fehleranalyse der vorhandenen Klageschrift vom 25.07.2025
 
 ## Schwerster Fehler

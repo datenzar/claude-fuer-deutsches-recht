@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Collegen Rechtsanwaelte; Fachanwalt fuer Zivilrecht RA Dr. Hubertus Brezelmann; Maximilianstrasse 28; 90402 Nuernberg
+adressat: Mandantenakte intern
+datum: Sommer 2025
+az: BRZ-2025-447-MF/Klageauftrag-korrigiert
+betreff: Korrigierter Klageauftrag - korrigierte Verteidigungsstrategie
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Korrigierter Klageauftrag
 
 ## Nicht zu beantragen

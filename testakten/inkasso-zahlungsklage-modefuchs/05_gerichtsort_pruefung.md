@@ -1,3 +1,13 @@
+<!-- AKTE-META
+typ: interner_vermerk
+absender: Kanzlei Brezelmann & Collegen Rechtsanwaelte; Fachanwalt fuer Zivilrecht RA Dr. Hubertus Brezelmann; Maximilianstrasse 28; 90402 Nuernberg
+adressat: Mandantenakte intern
+datum: Sommer 2025
+az: BRZ-2025-447-MF/Gerichtsort
+betreff: Pruefung oertliche Zustaendigkeit (Verbraucher, §§ 12, 13 ZPO, § 29c ZPO)
+vertraulichkeit: VERTRAULICH - ANWALTLICH PRIVILEGIERT
+-->
+
 # Gerichtsortprüfung ModeFuchs
 
 ## Ausgangspunkt
