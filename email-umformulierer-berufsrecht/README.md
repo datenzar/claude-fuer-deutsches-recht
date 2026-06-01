@@ -125,7 +125,7 @@ Dieses Plugin enthält keine Testakte. Es handelt sich um Formulierungswerkzeuge
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -149,6 +149,10 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschrei
 | `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen Versachlichungspotenzial. Output:... |
 | `sachverhalt-neutral-darstellen` | Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output... |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Ver... |
+| `umform-anwaltsbrief-an-gegner-spezial` | Spezialfall Anwaltsbrief an Gegner: anwaltliche Sorgfaltspflicht, kein unsachlicher Vorwurf, klare Forderung mit Frist. Pruefraster fuer Risikomanagement. |
+| `umform-eilgespraech-zusammenfassung-spezial` | Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster fuer Mandant. |
+| `umform-tonalitaet-bauleiter` | Bauleiter Tonalitaet fuer Anwalts-E-Mail: sachlich, foerdernd, deeskalierend. Pruefraster fuer Mandanten- und Kollegenkorrespondenz. |
+| `umform-vertraulichkeitshinweise-leitfaden` | Leitfaden Vertraulichkeits- und Geheimnishinweise in Anwalts-E-Mails: Mandantengeheimnis, Datenschutz, Disclaimer. Pruefraster fuer Standardsignatur. |
 | `vorher-nachher-tabelle` | Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbei... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

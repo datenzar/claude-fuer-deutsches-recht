@@ -72,7 +72,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -90,6 +90,10 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `fachanwalt-miet-wohnungseigentumsrecht-weg-beschlussanfechtung` | Wohnungseigentuemer will Beschluss der Eigentuemerversammlung anfechten. § 44 WEG Monatsfrist Aktivlegitimation Passivlegitimation Gemeinschaft § 9a WEG. Normen §§ 44 23 49 WEG §§ 133 157 BGB. Prüfraster Monatsfrist Anfechtungsgründe ord... |
 | `gewerberaum-mietzeit-und-kuendigung` | Gewerberaum-Spezial: keine Sozialklausel, keine Schriftform-Heilung nach BGH-Rechtsprechung, Probleme der Schriftform-Klausel § 550 BGB, Festmietzeit, ausserordentliche Kuendigung wichtiger Grund. Pruefraster bei Schriftformmaengeln und... |
 | `ki-gestuetzte-mietspiegel-rechtsfragen` | KI-gestuetzte qualifizierte Mietspiegel: § 558d BGB, Anforderungen der Mietspiegel-Verordnung MsV, Datengrundlage, Repraesentativitaet, mathematische Modelle (HEDP-Methode, ML-Verfahren). Angriffspunkte fuer Vermieter und Mieter, OLG-Rec... |
+| `miet-betriebskostenabrechnung-checkliste` | Checkliste Betriebskostenabrechnung: BetrKV-Katalog, Abrechnungsfrist § 556 Abs. 3 BGB, Umlagemassstab, formelle und materielle Fehler, Belegeinsicht. Mustertext Einwendungsschreiben Mieterseite. |
+| `miet-mietkaution-streit-spezial` | Spezialfall Mietkaution-Streit: § 551 BGB, Verzinsung, Treuhandkonto, Abrechnungsfrist Auszug, Verjaehrung. Pruefraster typische Forderungen Vermieter und Einreden Mieter. |
+| `miet-modernisierungsmieterhoehung-leitfaden` | Leitfaden Modernisierungsmieterhoehung §§ 555b, 559 BGB: Ankuendigung, Berechnung, Haertegrund, Kappungsgrenze. Pruefraster Vermieter und Mieter. Mustertext Mieterhoehungsschreiben. |
+| `miet-wem-bauliche-veraenderung-spezial` | Spezialfall bauliche Veraenderung im WEG § 20 WEG nach Reform: Beschlussfassung, privilegierte Massnahmen Barrierefreiheit / E-Ladestation / Glasfaser / Einbruchschutz. Pruefraster Vorbereitung Versammlung. |
 | `mietrecht-einfuehrung-vertragstypen` | Einfuehrung Vertragstypen Mietrecht: Wohnraum-, Gewerbe-, Pacht-, Untermiete, Staffel-, Index-, Zeitmiete. Pro Typ: Anwendungsbereich, Schutzvorschriften, Kuendigungsregime, typische Klauselrisiken. Entscheidungstabelle fuer Mandanten un... |
 | `mietrecht-modernisierung-und-erhalt` | Modernisierung und Erhaltung abgrenzen: Modernisierungsumlage 8 Prozent (Kappung 3 Euro/qm in 6 Jahren), Erhaltungsaufwand auf Vermieter, Duldungspflicht Mieter §§ 555a ff. BGB. Ankuendigung, Form, Inhalt, Mietminderung waehrend Massnahm... |
 | `milieuschutz-und-genehmigung-veraendert` | Spezialfall Milieuschutzgebiet (soziale Erhaltungssatzung § 172 BauGB): Genehmigungspflicht von Modernisierungen und Aufteilung, Vorkaufsrecht der Gemeinde, Abwendungsvereinbarungen, Mietpreisbegrenzungen. Verfahren bei der Gemeinde, Kla... |

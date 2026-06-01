@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,7 +84,11 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `fachanwalt-migrationsrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Migrationsrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung AufenthG AsylG GFK Genfer Fluechtlingskonvention 1951 Dublin-VO EU-Verfahrens-RL Qualifikations-RL 2011/95 StA... |
 | `mandat-triage-migrationsrecht` | Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist... |
 | `migr-asyl-folge-und-zweitantrag-spezial` | Spezialfall Asyl-Folge- und Zweitantrag: § 71 AsylG, neue Beweismittel, geaenderte Sachlage. Antragsbegruendung, Erfolgschancen, Eilantrag Aufschiebende Wirkung. Mustertexte und aktuelle Rechtsprechung BVerwG. |
+| `migr-asylverfahren-anhoerung-leitfaden` | Leitfaden Asylverfahren und Anhoerung BAMF: Vorbereitung Mandantengespraech, dolmetscherische Pflichten, Niederschriftpruefung. Pruefraster Glaubhaftigkeit und Fluchtgrund. |
+| `migr-aufenthaltstitel-uebersicht` | Uebersicht Aufenthaltstitel AufenthG: Visum, Aufenthaltserlaubnis, Blaue Karte EU, ICT-Karte, Niederlassungserlaubnis, Daueraufenthalt EU. Pro Titel Anspruchsvoraussetzungen, Zustaendigkeit, typische Versagungsgruende. |
+| `migr-ausweisung-abschiebung-spezial` | Spezialfall Ausweisung und Abschiebung §§ 53 ff. AufenthG: Abwaegung Ausweisungsinteresse vs. Bleibeinteresse, Verhaeltnismaessigkeit Art. 8 EMRK, EuGH Ziebell. Pruefraster fuer Anhoerung und Klage. |
 | `migr-duldung-und-spurwechsel-spezial` | Spezialfall Duldung und Spurwechsel: § 60a AufenthG Duldung, § 19d AufenthG Beschaeftigungsduldung, § 25b AufenthG nachhaltige Integration, neues Chancen-Aufenthaltsrecht. Konkret Mandantenpfad. |
+| `migr-einbuergerung-mehrstaatigkeit-spezial` | Spezialfall Einbuergerung und Mehrstaatigkeit nach Reform StAG 2024: verkuerzte Fristen, Mehrstaatigkeit, besondere Integrationsleistung. Pruefraster Antrag Einbuergerungsbehoerde. |
 | `migr-einfuehrung-aufenthaltszwecke` | Migrationsrecht einfuehrend: Aufenthaltszwecke Studium, Ausbildung, Beschaeftigung (Blaue Karte EU, Chancenkarte, Fachkraefte), Familiennachzug, humanitaere Gruende, Niederlassungserlaubnis, Daueraufenthalt EU. Entscheidungstabelle. |
 | `migr-fachkraefteeinwanderung-praxis` | Fachkraefteeinwanderung in der Praxis: Schritte vom Visum ueber Erstaufenthalt zur Niederlassungserlaubnis, Anerkennung Berufsabschluss, Sprachpruefung, Gehaltsgrenzen, BA-Zustimmung. Pruefraster und typische Stolpersteine. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage VG (Asyl/AufenthG), Eilantrag § 80 Abs. 5 VwGO, Einbuergerungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |

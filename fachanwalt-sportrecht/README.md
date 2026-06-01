@@ -65,7 +65,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -84,8 +84,12 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `mandat-triage-sportrecht` | Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen. Verbandsfrist gegen Sanktion typisch 1-2 Wochen. Normen je nach Routing. Prüfraster Mandanten-Typ Sachgebiets-Zuordnung Fri... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage ordentliches Gericht/Sportgericht, CAS-/DIS-Schiedsantrag, Antidoping: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `sportr-anti-doping-praxis` | Anti-Doping in der Praxis: NADA-Code, WADA-Code, Strict Liability, Verfahrensgang vor Schiedsgericht der NADA und CAS in Lausanne. Aussetzungsgruende, mildernde Umstaende. Pruefraster und Mustertexte fuer Verteidigung. |
+| `sportr-arbeitsrecht-im-sport-leitfaden` | Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge. Schnittstelle zu Verbandsrecht. |
+| `sportr-athletenvertrag-bauleiter` | Bauleiter Athletenvertrag: Verguetung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklausel, Beendigung. Pruefraster Verband und Vereinsperspektive. |
+| `sportr-doping-disziplinarverfahren-spezial` | Spezialfall Doping-Disziplinarverfahren CAS / NADA: Beweisregeln, Strict Liability, Whereabouts, Verkuerzungsruende, Therapeutic Use Exemption. Pruefraster fuer Verteidiger. |
 | `sportr-einfuehrung-rechtsfelder` | Sportrecht einfuehrend: Sportverbandsrecht, Verbandsstrafrecht, Anti-Doping, Sportarbeitsvertraege (Profisport), Sponsoring, Vermarktung, Persoenlichkeitsrecht Athlet, Fan-Rechte. Entscheidungstabelle. |
 | `sportr-spielerberater-rechtsverhaeltnis-spezial` | Spezialfall Spielerberater-Rechtsverhaeltnis: FIFA-Reglement RWFC 2023, DFB-Reglement, Klauseln Exclusive Mandate, Commission Cap, Anti-Tampering. Pruefraster fuer Vertrag und Beispielklauseln. |
+| `sportr-stadionverbot-fanrechte-spezial` | Spezialfall Stadionverbot und Fanrechte: bundesweite und oertliche Stadionverbote, BGH-Rechtsprechung zu Anhoerung, gleichbehandlungsrechtliche Aspekte. Pruefraster fuer Anhoerungsrecht und Klage. |
 | `sportr-stadionverbot-und-fan-rechte-spezial` | Spezialfall Stadionverbot und Fan-Rechte: Hausrecht des Vereins, bundesweites Stadionverbot, Anhoerungspflicht, Klage Anfechtung, Vergleichsverhandlung. BGH-Rechtsprechung zur Begruendungspflicht. |
 | `verbandsstrafe-anfechten` | Workflow-Skill zu verbandsstrafe anfechten. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Sport- und Sponsoringrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |

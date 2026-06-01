@@ -125,7 +125,7 @@ Doppellizenziert unter Apache License, Version 2.0 ODER MIT License, nach Wahl d
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -136,10 +136,14 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `forderungsanmeldung-glaeubiger-174-177-inso` | Gläubiger meldet Forderung im Insolvenzverfahren an §§ 174-177 InsO: Fristen Form Anlagen Rang § 39 InsO Vorsatz § 174 Abs. 2 InsO nachtraegliche Anmeldung § 177 InsO Prüfungstermin § 176 Bestreiten § 178 Tabelle § 179 InsO. Mit Musterte... |
 | `glaeubigerantrag-pruefung` | Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mand... |
 | `glaeubigerausschuss-mitwirkung` | Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte... |
+| `inso-eroeffnungsantrag-checkliste` | Checkliste Eroeffnungsantrag § 13 InsO: zustaendiges Gericht, Glaeubigerliste, Vermoegensverzeichnis, Erklaerung Geschaeftsleitung. Pruefraster fuer Schuldner- und Glaeubigeranwalt. |
 | `inso-glaeubigerausschuss-praxis` | Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung. |
+| `inso-glaeubigerausschuss-zustimmung-spezial` | Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorlaeufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster fuer Mitglieder. |
+| `inso-massearmut-massekostenmangel-spezial` | Spezialfall Massearmut und Massekostenmangel § 207 InsO: Einstellung mangels Masse, Verfahrenskostenstundung, Restschuldbefreiung. Pruefraster fuer Schuldner und Verwalter. |
 | `inso-pl-einfuehrung-verfahrenstypen` | Insolvenzrechtsverfahren einfuehrend: Regelinsolvenz, Eigenverwaltung mit und ohne Schutzschirm, Verbraucher-Insolvenz, StaRUG-Restrukturierung. Pro Verfahrenstyp Schwelle, Antrag, Verlauf. Entscheidungstabelle. |
 | `inso-restschuldbefreiung-und-versagungsgruende` | Restschuldbefreiung Verbraucher und Unternehmer: 3 Jahre Wohlverhaltensphase seit 2020, Versagungsgruende § 290 InsO (Verurteilung wegen Insolvenzstraftat, Vermoegensverschwendung, falsche Angaben). Pruefraster und Mandantenleitfaden. |
 | `inso-tabelle-und-feststellung-spezial` | Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Glaeubiger. Pruefraster und Mustertexte. |
+| `inso-verbraucherinsolvenz-leitfaden` | Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Pruefraster Schuldnerberatung. |
 | `insolvenzgeld-165-sgb-iii` | Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolven... |
 | `insolvenzrecht-kaltstart-interview` | Kaltstart-Interview für das Insolvenzrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/insolvenzrecht/CLAUDE.md mit Angaben zur Rolle (Insolvenzverwalter / Sachwalter / beratender Anwalt /... |
 | `konzerninsolvenz-koordination` | Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18... |

@@ -64,7 +64,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -80,6 +80,10 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `fachanwalt-insolvenz-sanierungsrecht-orientierung` | Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnu... |
 | `fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan` | Workflow-Skill zu fachanwalt insolvenz sanierungsrecht restrukturierungsplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren` | Schutzschirmverfahren § 270d InsO Eigenverwaltung in Insolvenz. Vorlaeufige Eigenverwaltung Antrag drohende Zahlungsunfähigkeit. Sachwalter Aufsicht. Schutzschirm 3 Monate bei Voraussetzung Sanierungsfähigkeit. Insolvenz-Plan Vorbereitun... |
+| `insanw-anfechtungsmandat-leitfaden` | Leitfaden Anfechtungsmandat fuer Verwalter und Verteidiger: §§ 129 ff. InsO, Vorsatzanfechtung, Bargeschaeftsausnahme. Pruefraster Indizien Kenntnis Glaeubigerbenachteiligung. Mustertext Aufforderungsschreiben und Klageerwiderung. |
+| `insanw-eigenverwaltung-schutzschirm-spezial` | Spezialfall Eigenverwaltung und Schutzschirmverfahren §§ 270 ff. InsO: Bescheinigung nach § 270d InsO, Sachwalter, Glaeubigerausschuss, Drittsicherheiten. Pruefraster fuer Bescheinigungsersteller. |
+| `insanw-fortbestehensprognose-workflow` | Workflow Fortbestehensprognose IDW S 11 / S 6: Datenraum, Integrierte Planung, Stresstests, Risikoinventur. Pruefraster fuer Geschaeftsleitung und Berater. Anschreiben Bank / Buergschaftsbank / PSD. |
+| `insanw-konzerninsolvenz-koordination-spezial` | Spezialfall Konzerninsolvenz §§ 3a ff. InsO: Gruppen-Gerichtsstand, Koordinationsverfahren, Konzern-Anfechtung. Pruefraster fuer mehrstufige Konzerne und auslaendische Tochtergesellschaften. |
 | `inso-anfechtung-zahlungsstrom-banken` | Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, Verrechnung mit eigenen Forderungen, § 96 InsO. Pruefraster typischer Bankenfaelle und BGH-Linie 2024 ff. Schriftsatzbausteine. |
 | `inso-arbeitnehmer-und-betriebsuebergang` | Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal. Pruefraster und Mustertexte. Schnittstelle Arbeit... |
 | `inso-grenzueberschreitend-eu-eir` | Grenzueberschreitende Insolvenz nach EuInsVO 2015/848: Hauptverfahren und Sekundaerverfahren, COMI-Vermutung, Anerkennung, Verfahrenskoordination. Pruefraster fuer Konzern (Group Coordination Proceedings). Mustertexte fuer Antrag in DE w... |

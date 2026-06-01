@@ -130,11 +130,15 @@ Zum Arbeiten liegt die Akte unter `testakten/strafbefehl-ladendiebstahl-fahrerfl
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Strafbefehl Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeits... |
+| `stbv-einspruch-strafbefehl-leitfaden` | Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Pruefraster fuer Verteidiger. |
+| `stbv-fahrerlaubnis-bei-strafbefehl-spezial` | Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde. |
+| `stbv-strafbefehl-auslaendischer-mandant-spezial` | Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster fuer Verteidiger. |
+| `stbv-strafbefehl-pruefung-bauleiter` | Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster fuer Verteidiger Erstgespraech. |
 | `strafbefehl-abwesenheit-vertretung` | Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspr... |
 | `strafbefehl-aktenanlage` | Neues Strafbefehl-Mandat anlegen und Mandatsakte strukturieren damit Fristen und Beweismittel sicher verwaltet werden. Prüfraster Aktenstruktur Vollmacht Fristenkalender Beweismittelverzeichnis. Normen § 410 StPO Einspruchsfrist § 147 St... |
 | `strafbefehl-akteneinsicht-147` | Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5... |

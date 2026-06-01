@@ -110,7 +110,7 @@ Das Plugin ersetzt keine anwaltliche, steuerliche oder betriebswirtschaftliche E
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 31 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -140,6 +140,10 @@ Automatisch generierte Komplett-Liste aller 27 Skills in diesem Plugin. Beschrei
 | `ips-steuern-bilanz-folgen` | Steuerliche und bilanzielle Folgen des Plans prüfen damit Planwirkungen nicht an Nebenfolgen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege U... |
 | `ips-verfahrenswahl` | Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Masse Zeitfenster Eingriffstiefe Ge... |
 | `ips-vergleichsrechnung` | Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Pla... |
+| `ipsplan-cram-down-spezial` | Spezialfall gruppenuebergreifender Cram-Down: Voraussetzungen, faire Beteiligung am Planwert, Vergleichsrechnung. Pruefraster fuer Planersteller. |
+| `ipsplan-gruppenbildung-leitfaden` | Leitfaden Gruppenbildung im Insolvenz- und Restrukturierungsplan §§ 222 InsO, §§ 9 ff. StaRUG: sachgerechte Abgrenzung, Schlechterstellungsverbot. Pruefraster fuer Planersteller. |
+| `ipsplan-planstruktur-bauleiter` | Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster fuer Planerstellung. |
+| `ipsplan-prepack-plan-spezial` | Spezialfall Prepack-Plan und Eigenverwaltung: Plan vor Antrag, Sachwalter, Glaeubiger einbinden. Pruefraster fuer Krisenberater. |
 | `sanierungsmoderation-94-starug` | Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderations... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

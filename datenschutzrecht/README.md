@@ -264,7 +264,7 @@ datenschutzrecht/
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 25 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -281,6 +281,10 @@ Automatisch generierte Komplett-Liste aller 21 Skills in diesem Plugin. Beschrei
 | `dsfa-erstellung` | Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchführen wenn hohes Risiko für Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Prüfraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhältnismäßigkeit Massnahmen... |
 | `dsgvo-auskunft` | Auskunftsersuchen nach Art. 15 DSGVO prüfen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Prüfraster: Identitätsnachweis Vollständigkeitsprüfung Auskunftsinhalt Fristen Einschraenkungsgründe. Out... |
 | `dsgvo-auskunft-antwort` | DSGVO-Auskunftsantwort an Betroffenen vollständig und rechtskonform gestalten. Art. 15 12 Abs. 3 DSGVO Antwortpflicht. Prüfraster: Antwortinhalt Format Fristen Klarheit Weglassungsgründe Begleitschreiben. Output: vollständiges Auskunftss... |
+| `dsr-betroffenenrechte-prozess-leitfaden` | Leitfaden Betroffenenrechte-Prozess Art. 15 ff. DSGVO: Auskunft, Berichtigung, Loeschung, Datenuebertragbarkeit. Pruefraster fuer Verantwortlichen und Auftragsverarbeiter. |
+| `dsr-internationaler-datentransfer-spezial` | Spezialfall internationaler Datentransfer Art. 44 ff. DSGVO: Angemessenheitsbeschluss, SCC, Transfer Impact Assessment, US-Datenschutzrahmen. Pruefraster fuer Konzern. |
+| `dsr-rechtsgrundlage-bauleiter` | Bauleiter Rechtsgrundlage Art. 6 DSGVO: Einwilligung, Vertrag, Pflicht, Interesse, oeffentliches Interesse. Pruefraster fuer typische Verarbeitungstaetigkeiten. |
+| `dsr-schadensersatz-art82-spezial` | Spezialfall Schadensersatz Art. 82 DSGVO: materiell und immateriell, EuGH-Rechtsprechung Bagatell-Klausel, Beweislast. Pruefraster fuer Klaegervertreter. |
 | `joint-controller-vereinbarung` | Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle B... |
 | `ki-verordnung-compliance` | KI-Systeme auf Anforderungen der KI-VO und Datenschutz prüfen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Prüfraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-C... |
 | `mandantendaten-ki` | Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei prüfen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Prüfraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Outp... |

@@ -132,7 +132,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 24 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -143,6 +143,10 @@ Automatisch generierte Komplett-Liste aller 20 Skills in diesem Plugin. Beschrei
 | `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellun... |
 | `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: rati... |
 | `legal-realism-und-critical-legal-studies` | American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Sys... |
+| `meth-anspruchsgrundlage-pyramide-bauleiter` | Bauleiter Anspruchsgrundlagen-Pyramide BGB: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich. Pruefraster Reihenfolge der Pruefung mit Beispielen. |
+| `meth-auslegung-vertrag-leitfaden` | Leitfaden Vertragsauslegung §§ 133 sowie 157 BGB: Wortlaut, Systematik, Entstehungsgeschichte, Sinn und Zweck, Verkehrssitte. Pruefraster fuer typische Fallgruppen. |
+| `meth-richterrecht-rechtsfortbildung-spezial` | Spezialfall Richterrecht und Rechtsfortbildung praeter legem und contra legem: BVerfG-Vorgaben, Methodengrenzen, Beispiele BGH. Pruefraster Schriftsatz mit ungewoehnlichem Argument. |
+| `meth-verfassungskonforme-auslegung-spezial` | Spezialfall verfassungskonforme Auslegung: Grenzen, Vorrang der Verfassung, Vorlagepflicht Art. 100 GG, EuGH-Vorlage. Pruefraster fuer Verteidiger und Klaeger. |
 | `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Si... |
 | `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch... |
 | `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im de... |
