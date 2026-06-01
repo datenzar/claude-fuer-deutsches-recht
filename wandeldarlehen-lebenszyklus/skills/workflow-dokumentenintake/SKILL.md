@@ -6,7 +6,21 @@ description: "Dokumentenintake im Plugin wandeldarlehen-lebenszyklus: liest Uplo
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `wandeldarlehen-lebenszyklus` Dokumentenintake im Plugin wandeldarlehen-lebenszyklus: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Wandeldarlehensverträge (Convertible Loan / SAFE-Logik), Term Sheets, Investment Agreements, Cap Tables, Beschlussvorlagen und Wandlungsmitteilungen in den Lebenszyklus-Workflow ein.
+
+## Dokumentenarten
+- **Term Sheet:** Investmentsumme, Bewertungs-Cap, Discount, Zinssatz, Wandlungstrigger, Maturity, Most-Favored-Nation-Klausel.
+- **Wandeldarlehensvertrag (Convertible Loan Agreement):** Hauptpflichten Darlehensgeber, Wandlungsrecht/-pflicht, Vorzeitige Fälligkeit, Sicherheiten, Subordination.
+- **SAFE (Simple Agreement for Future Equity):** US-Standard ohne klassische Darlehensstruktur; in Deutschland teilweise umstrittene Wandlung; oft auf Wandeldarlehen umgestellt.
+- **Cap Table:** Anteilseigner, Anteilsklassen, Vesting, Verwässerung.
+- **Beschlüsse der Gesellschafterversammlung:** Kapitalerhöhung (§ 55 GmbHG, § 182 AktG), Übernahme- und Wandelerklärungen.
+- **Steuerliche Stellungnahme:** Bewertung des Wandeldarlehens (Behandlung als Fremd- vs. Eigenkapital), KapSt-Folgen.
+
+## Erste Triage
+- **Lebenszyklus-Phase:** Verhandlung, Closing, Laufzeit, Wandlung, Rückzahlung, Default?
+- **Wandlungstrigger:** qualifizierte Finanzierungsrunde (Mindesthöhe + Lead-Investor), Exit, Endfälligkeit (Maturity), Insolvenzeintritt.
+- **Wandlungspreis-Mechanik:** Cap (max. Pre-Money), Discount (z. B. 20 %), niedrigerer Wert gilt.
+- **Steuerliche Konsequenz:** verdeckte Einlage, Kapitalertragsteuer auf Zinsen, Behandlung bei Wandlung (oft tauschsteuerfrei nach BMF, aber individuell prüfen).
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

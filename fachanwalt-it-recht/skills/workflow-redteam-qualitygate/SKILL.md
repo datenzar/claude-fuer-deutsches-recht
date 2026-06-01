@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Red-Team-Prüfpunkte IT-Recht
+1. **Vertragstyp:** Werkvertrag (§§ 631 ff.), Dienstvertrag (§§ 611 ff.), Kaufvertrag (§§ 433 ff.), Mietvertrag (§§ 535 ff.), Lizenzvertrag — wurde der Schwerpunkt richtig bestimmt?
+2. **AGB-Kontrolle:** §§ 305 ff. BGB — Einbeziehung, Inhaltskontrolle, Klauselverbote §§ 307-309 BGB. Wurde bei B2C/B2B die richtige Inhaltskontrolle angewandt?
+3. **DSGVO-Schnittstelle:** Liegt Auftragsverarbeitung (Art. 28) oder gemeinsame Verantwortlichkeit (Art. 26) vor? AVV vorhanden?
+4. **Drittlandstransfer:** DPF / SCC / TIA korrekt geprüft?
+5. **OSS-Compliance:** Copyleft-Effekt GPL bei Verbreitung beachtet? Lizenztexte korrekt eingebunden?
+6. **NIS2 / KritisV:** Betroffenheit der eigenen oder Mandantorganisation als wesentliche/wichtige Einrichtung geprüft?
+7. **Halluzinations-Check:** Keine erfundenen BGH-Az. oder EuGH-Rs.; juris/Beck-Online-Zitate nur mit verifizierbarer Quelle.
+
+## Praxis-Tipp
+Bei IT-Verträgen ist die häufigste Falle die formularmäßige Haftungsbeschränkung — z. B. "Haftung nur bei Vorsatz und grober Fahrlässigkeit". § 309 Nr. 7 BGB hält das in vielen Konstellationen nicht; AGB-Recht zwingt zur Berücksichtigung der gesetzlichen Mindesthaftung. Diese Klausel ist oft das erste Argument für eine Mandantforderung.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

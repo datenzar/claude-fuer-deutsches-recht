@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Mandantenkommunikation IT-Recht
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihre IT-rechtliche Frage"
+- **Sachstand kurz:** Vertragstyp, Rollen, Streitstand bzw. Vertragsentwurf-Status.
+- **Empfehlung:** zentral umsetzbarer nächster Schritt (z. B. "Verhandlung SLA-Pönalen, AVV nachverhandeln, Mängelmahnung mit Nachfrist setzen, AGB Inhaltskontrolle prüfen").
+- **Risikoampel:** Vertrags-, AGB-, Haftungs-, DSGVO-, NIS2-Risiken konsolidiert.
+- **Frist:** Mängelrüge § 377 HGB, Verjährung § 634a BGB, Datenpanne 72 Std., NIS2-Meldung 24h/72h/1 Monat.
+- **Kostenhinweis:** RVG/Honorarvereinbarung; bei größeren Mandaten ggf. Vergütungsvereinbarung nach § 3a RVG.
+- **Aufklärungspflicht:** bei Streit zwischen Vergleich und Klage erforderliche Risiko-/Kostenaufklärung (BGH Anwaltshaftung-Standard).
+
+## Praxis-Tipp
+Bei IT-Vertragsverhandlungen ist die Empfehlung "Klage" selten die beste Erstoption — die meisten Konflikte lösen sich durch fundierte Mängelrüge mit Nachfristsetzung (§§ 281, 323 BGB) bzw. AGB-Inhaltskontrolle ohne Klageverfahren. Das spart Zeit und schont Geschäftsbeziehung.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

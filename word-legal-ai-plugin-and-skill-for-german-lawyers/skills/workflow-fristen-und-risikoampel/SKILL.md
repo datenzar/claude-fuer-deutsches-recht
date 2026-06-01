@@ -6,7 +6,20 @@ description: "Fristen- und Risikoampel im Plugin word-legal-ai-plugin-and-skill-
 # Fristen- und Risikoampel
 
 ## Aufgabe
-Dieser Workflow-Skill für `word-legal-ai-plugin-and-skill-for-german-lawyers` Fristen- und Risikoampel im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill markiert in Word-basierten Mandatsdokumenten typische Risiken: KI-Halluzinationen, übersehene Tracked Changes, falsche Querverweise, fehlende Aktualisierung von Inhaltsverzeichnis/Felder, Mandantengeheimnis bei Cloud-Sync.
+
+## Risikoampel Word-Dokumente
+- **Rot:** Tracked Changes nicht angenommen/abgelehnt -> versehentlicher Versand mit Markup; Kommentare an Mandant/Gegenseite. Vor Versand "Endgültig (mit Markup)" prüfen; "Dokument prüfen" (Inspect Document).
+- **Rot:** KI-generierte Zitate ohne Verifizierung; vor Versand jede Rspr.-Stelle live prüfen.
+- **Rot:** Mandantenakte in nicht-AVV-konformer Cloud (privates OneDrive, Dropbox, Google Drive) -> § 203 StGB, § 43a Abs. 2 BRAO Risiko.
+- **Gelb:** Felder nicht aktualisiert (Strg+A, F9) -> veraltete Seitenzahlen, Querverweise.
+- **Gelb:** Vorlagen-/Stylesheet-Inkonsistenz -> Inhaltsverzeichnis kaputt.
+- **Gelb:** Mehrere Personen schreiben gleichzeitig ohne Lock -> Versionschaos.
+- **Grün:** Vier-Augen-Prinzip dokumentiert, Anlagen vollständig, Tracked Changes bereinigt, Versionsnummer im Footer.
+
+## Sofortmaßnahmen
+- "Dokument prüfen" (Datei > Informationen > Auf Probleme prüfen) vor jedem externen Versand.
+- Versand als PDF/A (nicht .docx) bei finalen Schriftsätzen; .docx nur für Redline-Verhandlung intern.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

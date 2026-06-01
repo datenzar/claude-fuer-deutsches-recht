@@ -32,6 +32,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Edge Cases Krisenfrüherkennung
+- **§ 18 InsO drohende Zahlungsunfähigkeit:** Prognosezeitraum idR 24 Monate (§ 18 Abs. 2 InsO); BGH ständige Rspr. fordert plausible, dokumentierte Liquiditätsplanung. Verwechslungsgefahr mit § 19 Abs. 2 Satz 1 InsO Fortbestehensprognose (12 Monate für Überschuldung).
+- **§ 1 StaRUG bei Einzelunternehmer/OHG:** § 1 StaRUG gilt nicht für Einzelunternehmer und Personengesellschaften ohne Kapitalgesellschaftsbeteiligung — Sorgfaltsmaßstab dort nur aus §§ 705 ff. BGB / §§ 105 ff. HGB.
+- **§ 1 Abs. 1 Satz 3 StaRUG:** Berichtspflicht an "die zur Überwachung berufenen Organe" — bei GmbH ohne Aufsichtsrat ist die Gesellschafterversammlung der Berichtsempfänger (Stand prüfen).
+- **Kommanditgesellschaft auf Aktien (KGaA):** § 1 StaRUG anwendbar (haftungsbeschränkte Komplementäre).
+- **Konzern:** § 1 StaRUG gilt für jede Konzerngesellschaft einzeln; bei Tochter-Krise sind Vorgaben der Mutter (Konzernrichtlinien) zu beachten, ändern aber die Eigenverantwortung der Tochter-Geschäftsführer nicht.
+- **Verein/Stiftung:** § 1 StaRUG umfasst grundsätzlich nur GmbH, AG, KGaA und gleichgestellte Rechtsformen; Vereine/Stiftungen unterliegen Vorgaben aus §§ 31a, 86 BGB.
+- **Sanierungsmoderation §§ 94 ff. StaRUG:** Niedrigschwellig, vertraulich, ohne öffentliche Bekanntmachung — gut für sensible Lagen mit wenigen Großgläubigern.
+- **Praxis:** Bei Doppelnatur (Krise + drohende Zahlungsunfähigkeit) parallel § 1 StaRUG-Pflichten erfüllen und § 18 InsO-Prüfung für StaRUG-Zugang vorbereiten.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

@@ -6,7 +6,21 @@ description: "Dokumentenintake im Plugin verlagsredaktion: liest Uploads, sortie
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `verlagsredaktion` Dokumentenintake im Plugin verlagsredaktion: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Manuskripte, Aufsätze, Festschriftsbeiträge, Buchprojekte, Lektoratsnoten und Druckfahnen ein und sortiert sie für die Verlagsredaktion juristischer Fachliteratur.
+
+## Dokumentenarten
+- **Manuskript Aufsatz (NJW, JuS, JZ, ZIP, BB, NZG etc.):** Titel, Verfasser mit Funktion, Abstract, Gliederung, Fußnoten.
+- **Manuskript Festschriftsbeitrag:** Widmung, längere Form, oft historisch-systematische Linie.
+- **Lehrbuchmanuskript:** Inhaltsverzeichnis, Stichwortverzeichnis, Schemata, Übungsfälle.
+- **Kommentarauszug:** Bearbeiter, Norm, Randnummern, Streitstand-Darstellung.
+- **Druckfahne:** Setzungsfehler, Trennungen, Verweise (vgl. ..., siehe oben Rn. ...).
+- **Korrespondenz Autor / Verlag:** Korrekturwünsche, Stilfragen, Zitiernachweise.
+
+## Erste Triage
+- **Werktyp:** Aufsatz, Anmerkung, Festschriftsbeitrag, Lehrbuch, Kommentar, Praxishandbuch.
+- **Zitierstandard:** Verlagsvorgaben (z. B. NJW-Manuskriptrichtlinien) oder Repository-Standard `references/zitierweise.md`.
+- **Aktualitätsstand:** Fassungsstand der Norm, Stand der Rspr., Stand der Lit.
+- **Rechte:** Verlagsvertrag, Open Access, Nutzungsrechte an Abbildungen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

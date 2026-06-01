@@ -51,3 +51,22 @@ Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, A
 ## Qualitaetsgate
 
 Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Beweise / Atteste - Themenspezifika
+- **Rechtsgrundlage Beweiswuerdigung im SG:** § 103 SGG Amtsermittlungsgrundsatz; § 128 SGG freie Beweiswuerdigung; § 109 SGG Wahl-Sachverstaendiger der Beteiligten.
+- **Diagnose vs. Funktionsbeeintraechtigung:** **Eine Diagnose allein begruendet keinen Leistungsanspruch** - im Sozialrecht zaehlt die Funktionsbeeintraechtigung im Alltag (gilt fuer GdB, Pflegegrad, EM-Rente). Konkret beschreiben: Gehstrecke, Sitzdauer, Belastungsgrenzen, Schlafdauer, Konzentrationsspanne.
+- **Attest-Anforderungen:**
+  - Briefkopf, Arzt-Stempel, Datum.
+  - Diagnose mit ICD-10-Code.
+  - Befund (objektive Untersuchung: Beweglichkeit, Krafteinschraenkungen, Laborwerte).
+  - **Funktionsbeschreibung** (kann nicht laenger als 30 Min. sitzen, kein Heben ueber 5 kg, Konzentration ueber 15 Min. eingeschraenkt).
+  - Prognose (kurz-, mittel-, langfristig).
+- **Befundberichte:** Hausarzt, Fachaerzte, Klinikentlassungs-Berichte, Reha-Entlassungsberichte, Gutachten DRV/MD.
+- **Schweigepflichtentbindung § 17 SGB I, § 76 SGB X:** schriftlich und konkret (welche Aerzte, welcher Zeitraum, welche Behoerde) - Recht auf Information welche Daten weitergeleitet werden.
+- **Eigene Stellungnahme - Pflegetagebuch:** ueber 14 Tage detailliert; Zeitangaben pro Modul.
+- **Bei kontroversen Gutachten:**
+  - **Akteneinsicht** § 25 SGB X / § 120 SGG zur Pruefung Gutachten.
+  - **Stellungnahme** behandelnder Aerzte einholen.
+  - **§ 109 SGG Antrag** auf Wahl-Sachverstaendigen vor dem SG (Kostentragung Antragsteller; bei Erfolg ueber § 192 SGG-Regelung diskutabel).
+- **Beweislast:** Versicherter / Antragsteller fuer leistungsbegruendende Tatsachen; Behoerde fuer leistungsausschliessende Tatsachen (BSG-Linie). Nichterweislichkeit geht zu Lasten der Partei mit Beweislast.
+- **Praxis-Tipp:** Aussage Angehoeriger / Pflegekraefte als ergaenzende Beweise; Fotos im Alltag (eingeschraenkte Bewegung, Hilfsmittel); Tagebuch ueber Schmerz, Schlaf, Mobilitaet.

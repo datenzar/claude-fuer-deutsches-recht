@@ -32,6 +32,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Cram-Down — Einreichung und gerichtliches Verfahren
+- **InsO § 245 InsO:** Obstruktionsverbot greift, wenn (a) Mehrheit der abstimmenden Gruppen zugestimmt hat, (b) ablehnende Gruppe wirtschaftlich nicht schlechter steht (§ 245 Abs. 1 Nr. 1), (c) ablehnende Gruppe an wirtschaftlichem Wert des Plans "angemessen beteiligt" ist (§ 245 Abs. 1 Nr. 2, 3, § 245 Abs. 2 InsO Wertanteilsregelung).
+- **StaRUG §§ 26–28 StaRUG:** Gruppenübergreifender Cram-Down auf Antrag der Schuldnerin oder Mehrheitsbeteiligter; Voraussetzung Best-Interest-Test § 26 Abs. 1 Nr. 1; Prioritäten-Test § 27 (Wahlrecht absolute/relative Priorität).
+- **Antrag auf Bestätigung:** Im Insolvenzplan § 248 InsO mit Niederschrift Abstimmungstermin; im StaRUG-Verfahren § 60 StaRUG mit Vorlage des Plans und der Annahme-Erklärungen.
+- **Gerichtliche Prüfung (§ 250 InsO):** Versagungsgründe — wesentliche Verfahrensverstöße, Bestätigung nicht im Plan getroffener Gruppen, Plan-Inhalt rechtswidrig oder sittenwidrig.
+- **Beteiligten-Anhörung § 251 InsO:** Auf Antrag eines Planbetroffenen, der Schlechterstellung geltend macht — Beweislast Schlechterstellung trägt der Antragsteller (BGH ständige Rspr.).
+- **Minderheitenschutz § 251 InsO bzw. § 64 StaRUG:** Auch ohne Cram-Down kann ein einzelner Betroffener Schlechterstellung geltend machen — Maßstab ist Vergleichsrechnung mit Liquidation/Regelverfahren.
+- **Rechtsmittel:** Sofortige Beschwerde gegen Bestätigung (§ 253 InsO; § 66 StaRUG) — Frist 2 Wochen ab Zustellung; aufschiebende Wirkung nur ausnahmsweise.
+- **Praxis:** Beim Cram-Down ist die Vergleichsrechnung das Schlachtfeld; ein methodisch sauberes Wertgutachten zur Liquidationsquote ist regelmäßig der Schlüssel zum Erfolg.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

@@ -22,6 +22,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Berufsrechtskonforme Mandantenkommunikation (Kanzlei-intern bei KI-Tool-Prüfung)
+- **Adressat:** Kanzleileitung / Partnerschaft / IT-Leitung / DSB.
+- **Sachstand kurz:** Tool, Anbieter, Hosting, geplanter Einsatzbereich, betroffene Datenarten.
+- **Bewertung:** Schweigepflicht (§ 203 StGB, § 43e BRAO bzw. § 62a StBerG, § 50a WPO, § 26a BNotO), AVV-Vollständigkeit, Drittlandstransfer (DPF/SCC/TIA).
+- **Empfehlung:** Freigabe ja/nein/bedingt mit konkreten Auflagen (z. B. "ohne Mandantendaten", "nur intern", "nach Nachverhandlung AVV-Klausel X").
+- **Risikoampel:** Rot/Gelb/Grün mit Begründung.
+- **Frist und Verantwortlicher:** wer entscheidet final, wann.
+
+## Externe Mandantenkommunikation (wenn KI-Einsatz im Mandat erfolgt)
+- **Aufklärungstextbaustein für Mandatsvereinbarung** mit Hinweis auf KI-Nutzung, Anbieter, Datenfluss.
+- **Ggf. Einwilligungsformular** bei besonders sensiblen Datenarten oder fehlender Anonymisierung.
+
+## Praxis-Tipp
+Die berufsrechtliche Aufklärungspflicht über KI-Einsatz wird in Rechtsprechung und Standesvertretung noch diskutiert — vorsichtig sein und im Zweifel transparent kommunizieren. Die DAV-Stellungnahme zur KI-Nutzung in Kanzleien (frei zugänglich auf anwaltverein.de) gibt eine Orientierung, ist aber nicht bindend.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

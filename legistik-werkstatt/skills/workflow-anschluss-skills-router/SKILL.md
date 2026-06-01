@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Legistische Anschluss-Module (typische nächste Schritte)
+
+- **Synopse erstellen:** Bei Änderungsgesetz immer Gegenüberstellung alt/neu nach HdR; "Aufhebung — Streichung — Einfügung — Neufassung — Anhang" konsistent.
+- **Gesetzesfolgenabschätzung:** Erfüllungsaufwand (NKR-Methodik); Demografie-, Gleichstellungs-, Nachhaltigkeitsfolgen.
+- **Begründungstext:** A. Allgemeiner Teil (Ausgangslage, Ziel, Lösung, Alternativen, Gesetzgebungskompetenz, Auswirkungen); B. Besonderer Teil (Norm-für-Norm).
+- **Verbände-/Länderanhörung organisieren:** Versand mit Frist; Auswertungsmatrix mit Reaktionen, Bewertung, Übernahme/Begründung Ablehnung.
+- **Inkrafttretens-Regelung formulieren:** Konkretes Datum oder "am Tag nach Verkündung"; Übergangsregelungen für laufende Verfahren; ggf. gestaffeltes Inkrafttreten.
+- **Verkündungsklausel:** Schlussformel nach Art. 82 GG; Mitzeichnung Bundeskanzler/zust. Minister.
+- **Notifikation/Vorabstimmung EU:** RL 2015/1535 (technische Vorschriften); Standstill-Periode 3 Monate.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

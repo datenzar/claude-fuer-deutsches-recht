@@ -22,6 +22,15 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Regulatorische Mandantenkommunikation — Spezifika
+
+- **C-Suite-Adressaten:** Vorstand, Compliance, Datenschutzbeauftragte, Geschäftsführung; jede Rolle braucht andere Tiefe — Executive-Summary plus Anlagen mit Detail.
+- **Eskalationsstufen abstufen:** Bei BaFin/BSI/BfDI-Anfragen geht es zuerst um Frist und Tonart; Behörde nicht mit unaufgefordertem Mehrmaterial überladen, aber Anhörungspflicht (§ 28 VwVfG) wahrnehmen.
+- **Pflicht zur unverzüglichen Meldung vs. anwaltliche Beratung:** DSGVO Art. 33 (72h Datenpanne), NIS-2 (24h Initial), GwG § 43 ("unverzüglich") — interne Beratung darf Meldepflicht nicht unzulässig verzögern.
+- **Reputation und Veröffentlichung:** Sanktionsbescheide werden regelmäßig veröffentlicht (z. B. BaFin §§ 60a, 60b KWG; BfDI im Tätigkeitsbericht). Kommunikationsstrategie mit PR/Investor Relations koordinieren.
+- **Verfahrensrechte sichern:** Anhörung, Akteneinsicht (§ 29 VwVfG), Rechtsmittel (§§ 68 ff., 80 ff. VwGO bzw. § 71 GWB für Kartellbescheide); Rechtsbehelfsbelehrungen genau prüfen.
+- **Sie-Form, sachlich; keine spekulativen Garantien:** Pflicht zur Information über Risiken (§ 49b BRAO, § 11 BORA); RVG-Hinweis Pflicht.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -6,7 +6,21 @@ description: "Dokumentenintake im Plugin word-legal-ai-plugin-and-skill-for-germ
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `word-legal-ai-plugin-and-skill-for-german-lawyers` Dokumentenintake im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest Microsoft-Word-Dokumente (.docx) in die juristische Arbeitsumgebung ein und bereitet sie für strukturierten Eingriff vor: Formatvorlagen, Querverweise, Inhaltsverzeichnis, Track Changes, Kommentare, Felder, Schnellbausteine.
+
+## Dokumentenarten
+- **Schriftsatzentwurf:** Formatvorlagen "Überschrift 1/2/3" prüfen; Anrede, Rubrum, Antrag, Begründung, Beweise.
+- **Vertragsentwurf:** mit Definitionen-Glossar, Querverweisen ("§ 5 Abs. 2"), Anlagenverzeichnis, Schlussbestimmungen.
+- **Memo:** mit Inhaltsverzeichnis, Fußnoten, Quellenverzeichnis.
+- **Redline-Vorlage (Markup):** Annahme/Ablehnung von Änderungen, Kommentarflut.
+- **Mustertext aus Schnellbausteinen:** unternehmensweite Vorlagen (Briefkopf, Honorarvereinbarung, Vollmacht).
+
+## Erste Triage
+- Welche **Word-Version** (Microsoft 365, 2021, 2019, Mac vs. Win)? Funktionsumfang unterschiedlich.
+- Welche Formatvorlagen aktiv? "Format > Formatvorlagen anzeigen" - sind sie konsistent oder direkte Formatierungen drüber?
+- Track Changes aktiv? "Überprüfen > Änderungen nachverfolgen". Pre-existing Annahme/Ablehnung nötig?
+- Querverweise & Felder: "Einfügen > Querverweis"; auf Feldnamen achten (REF, NUMPAGES, SEQ).
+- Vertraulichkeit: Mandantengeheimnis bei Cloud-Synchronisation (OneDrive); AVV nach Art. 28 DSGVO klären.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -22,6 +22,16 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Regulatorische Red-Team-Checks
+
+- **Zuständigkeitscluster:** Welcher Regulator ist primär, welcher subsidiär? Bei mehreren parallel zuständigen Behörden (BaFin + LfDI bei DSGVO im Finanzsektor; BNetzA + BSI bei TK/Cybersicherheit; EU-Kommission + nationale Behörden bei DMA-Gatekeepern) — Kollision/Vorrang prüfen.
+- **Anwendungsrang:** EU-Verordnung > EU-Richtlinie (mit Umsetzungsgesetz) > nationales Gesetz; bei Konflikt unionsrechtskonforme Auslegung, sonst Anwendungsvorrang (EuGH C-6/64).
+- **Schwellenwerte verifizieren:** AI Act, DSA, NIS-2 haben individuell unterschiedliche Schwellen — kein Modellwissen ohne Live-Quelle. CSRD-Schwellen sind anders als CSDDD-Schwellen.
+- **Übergangsfristen:** Bei AI Act, DORA, NIS-2, CSRD gibt es gestaffelte Anwendungstermine — vor Aussage konkretes Inkrafttreten je Pflichtenbereich prüfen.
+- **Sanktionsmodell:** Verwaltungsbußgeld vs. Strafbarkeit vs. zivilrechtliche Haftung; bei mehreren Regimen Kumulation und Doppelbestrafungsverbot (Art. 50 GRCh, ne bis in idem; EuGH C-117/20 bpost SA, sofern frei verifizierbar).
+- **Veröffentlichung:** Bei Sanktionen häufig Veröffentlichungspflicht (Pillory-Effekt); Reputationsrisiko separat bewerten.
+- **Kein erfundenes Aktenzeichen:** EuGH-/EuG-Az., BaFin-/BNetzA-Bescheid-Az., DSK-Beschluss-Az. immer live verifizieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

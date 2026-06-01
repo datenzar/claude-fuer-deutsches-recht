@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Darstellender Teil — Pflichtinhalte nach § 220 InsO
+- **§ 220 Abs. 1 InsO:** Sachverhaltsdarstellung mit Lage des Schuldners, Verlauf der Krise, Sanierungskonzept und Maßnahmen.
+- **§ 220 Abs. 2 InsO:** Information für sachgerechte Entscheidung über Plan — insbesondere Vergleichsrechnung Plan vs. Liquidation/Regelverfahren.
+- **Pflichtbausteine:** (1) Gegenstand und Geschichte des Unternehmens; (2) Ursachen der Krise; (3) Sanierungskonzept mit Maßnahmenkatalog; (4) Vergleichsrechnung je Gruppe; (5) Plan-GuV/Bilanz/Liquidität für 3–5 Jahre; (6) Risiken und Sensitivitäten.
+- **StaRUG § 6 Abs. 1, 2 StaRUG:** Vergleichbare Anforderungen — Beschreibung der Schwierigkeiten, Ursachen, ergriffene Maßnahmen, Wirkung des Plans.
+- **Live-Check Empfehlung:** Bei jedem Plan ist die Vergleichsrechnung das Streitfeld — sie muss methodisch sauber (z. B. IDW S 6 / IDW S 11) und mit nachvollziehbaren Werten unterlegt sein.
+- **Häufige Mängel:** Zerschlagungswerte zu optimistisch (= Plan wirkt zu attraktiv → Anfechtungsrisiko); Sanierungskonzept ohne harte Maßnahmen (Bestätigungsrisiko § 250 InsO); Plan-GuV nicht plausibel zur Plan-Liquidität.
+- **Praxis:** Darstellender Teil ist Vertrauenswerkzeug — er muss Insolvenzgericht, Verwalter und Gläubiger gleichzeitig überzeugen. Zu juristisch wirkt unverständlich, zu marketingmäßig wirkt unseriös.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

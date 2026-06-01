@@ -32,6 +32,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Erstprüfung Forderungsanmeldung — Schnellraster
+- **Erste Frage Rolle:** Anmeldender Gläubiger (Forderung sichern) oder Insolvenzverwalter (Bestreiten prüfen)?
+- **Forderungstyp triagieren:**
+  - § 38 InsO einfache Insolvenzforderung — Standard.
+  - § 39 InsO nachrangig — Zinsen ab Eröffnung, Gesellschafterdarlehen § 39 Abs. 1 Nr. 5 InsO.
+  - § 47 InsO Aussonderung — Eigentum, Vorbehalt; nicht Tabellenforderung.
+  - §§ 49–51 InsO Absonderung — Pfand, Sicherungseigentum; nur Ausfallbetrag als Tabellenforderung.
+  - §§ 53–55 InsO Masseforderung — direkter Anspruch gegen Verwalter.
+- **Fristen prüfen:** § 28 InsO Anmeldefrist im Eröffnungsbeschluss; bei Verspätung Sonderprüfungstermin § 177 InsO mit Kostentragung Anmelder.
+- **vbuH-Eigenschaft:** Liegt vorsätzlich begangene unerlaubte Handlung vor (§ 302 Nr. 1 InsO)? Wenn ja, ausdrücklich anmelden, sonst keine Restschuldbefreiungs-Ausnahme.
+- **Anfechtungsrisiken:** Haben Mandantin oder verbundene Personen in den letzten 4 (kongruent)/10 (vorsätzlich) Jahren Zahlungen erhalten? Verwalteranfechtung (§§ 129 ff. InsO) droht.
+- **Mandatsziel:** Reine Anmeldung, Tabellenklage § 180 InsO bei Bestreiten, Plan-Mitwirkung, Anfechtungsverteidigung.
+- **Praxis:** Bei Zweifel zur Höhe vorsorglich höchstmögliche Forderung anmelden; spätere Reduzierung schadet weniger als Nachmeldung mit Kostenfolge.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

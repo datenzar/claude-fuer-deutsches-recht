@@ -6,7 +6,24 @@ description: "Output wählen im Plugin zitierweise-deutsches-recht: entscheidet 
 # Output wählen
 
 ## Aufgabe
-Dieser Workflow-Skill für `zitierweise-deutsches-recht` Output wählen im Plugin zitierweise-deutsches-recht: entscheidet zwischen Memo, Schriftsatz, Tabelle, Brief, Checkliste, Vermerk, Redline oder Mandantenübersetzung.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill bestimmt das Format der Zitierprüfung: Korrektur-Markup (Track Changes), Fundstellenliste, Quellenverzeichnis, Plagiats-Risikoreport, Stil-Memo.
+
+## Outputtypen
+- **Korrektur-Markup im Word-/PDF-Dokument:** Zitat-für-Zitat-Annotation; falsche Zitate ergänzen, doppelte streichen.
+- **Fundstellenliste (Tabelle):** Spalten Zitat im Text, Norm/Rspr./Lit., Quelle/Beleg, Status (verifiziert / unklar / falsch), Empfehlung.
+- **Quellenverzeichnis am Memo-/Hausarbeitsende:** vollständige Auflistung Rspr. und Lit., alphabetisch nach Autor, chronologisch nach Datum.
+- **Plagiats-Risikoreport:** Passagen ohne Beleg, abgeschriebene Formulierungen, fehlende eigene Würdigung.
+- **Stil-Memo:** Hinweise zu Verlagsstil (NJW vs. JuS vs. JZ vs. Festschrift), Hausstil der Kanzlei, Hausarbeitsstil der Lehrstühle.
+
+## Referenz und Standard
+- Bindender Hausstandard: `references/zitierweise.md`.
+- Pflichtfelder Rspr.: Gericht, Datum, Aktenzeichen, Fundstelle, Randnummer.
+- Pflichtfelder Lit.: Autor, Werk/Zeitschrift, Auflage/Jahrgang, Anfangsseite (konkrete Seite), ggf. Norm und Rn.
+- Reihenfolge: Rspr. vor Lit.; neueste zuerst.
+
+## Anti-Muster
+- "vgl. nur" als Tarnung für ungeprüfte Sammelzitate.
+- Kommentar-/Aufsatz-Fundstellen aus Modellwissen ohne Verifizierung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

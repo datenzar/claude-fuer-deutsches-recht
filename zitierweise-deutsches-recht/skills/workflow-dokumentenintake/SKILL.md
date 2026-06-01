@@ -6,7 +6,24 @@ description: "Dokumentenintake im Plugin zitierweise-deutsches-recht: liest Uplo
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `zitierweise-deutsches-recht` Dokumentenintake im Plugin zitierweise-deutsches-recht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest fertige oder im Entwurf befindliche juristische Texte (Memos, Gutachten, Schriftsätze, Aufsätze, Hausarbeiten) ein und prüft Zitate gegen den Repository-Standard `references/zitierweise.md`.
+
+## Dokumentenarten
+- **Memo / Gutachten:** Fließtext mit Fußnoten oder eingeschobenen Verweisen ("BGH NJW 2024, 123, Rn. 14").
+- **Schriftsatz:** im Fließtext eingebettete Zitate; eher knappe Zitate.
+- **Aufsatz:** klassische Fußnoten mit Volltextzitierung.
+- **Hausarbeit:** Pflichtteil Zitate (Lit. und Rspr.); Plagiatsrisiko bei fehlenden Belegen.
+- **Kommentarbeitrag:** strenger Stil nach Verlagsmaßgabe.
+
+## Erste Triage
+- **Zitatklassen erkennen:**
+  - Norm: § X Y Gesetz (mit Absatz/Satz/Nummer); ggf. Fassungsdatum bei Reform-Norm.
+  - Rspr.: Gericht, Datum, Aktenzeichen, Fundstelle (z. B. NJW), Randnummer.
+  - Kommentar: Bearbeiter, "in:" Werk, Auflage, Jahr, Norm, Rn.
+  - Aufsatz: Autor, Zeitschrift, Jahrgang, Anfangsseite, ggf. konkrete Seite.
+  - Buch: Autor, Werk, Auflage, Jahr, ggf. Seite/Rn.
+  - EuGH/EuG: Datum, Rechtssache (C-/T-Nummer), ECLI.
+- **Stilkonsistenz:** ein Stil im Text durchgängig, nicht "BGHZ 100, 200" neben "BGH NJW 1987, 1234" gemischt ohne System.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

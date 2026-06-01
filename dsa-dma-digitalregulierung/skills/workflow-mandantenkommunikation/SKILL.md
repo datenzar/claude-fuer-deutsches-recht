@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Mandantenkommunikation DSA/DMA
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihre DSA-/DMA-Compliance"
+- **Sachstand kurz:** Plattform-Kategorisierung (Vermittlungsdienst, Hosting, Online-Plattform, VLOP), Pflichtenkanon, Status Compliance.
+- **Empfehlung:** zentraler nächster Schritt (z. B. "AGB Art. 14-DSA-konform anpassen, Statement-of-Reasons-Prozess implementieren, Single Point of Contact benennen").
+- **Risikoampel** mit Bezug auf Bußgeldrahmen (DSA 6 %, DMA 10 % bzw. 20 %).
+- **Frist** klar benennen: Compliance-Berichte jährlich, Risikobewertung VLOP jährlich, Statement of Reasons unverzüglich.
+- **Kostenhinweis:** RVG/Honorarvereinbarung.
+- **Zuständigkeitshinweis:** DSA via BNetzA (deutscher DSC); DMA ausschließlich Kommission — Doppelverfahren vermeiden.
+
+## Praxis-Tipp
+Vermeiden Sie pauschale Aussagen wie "Sie sind nicht betroffen". DSA gilt für alle Vermittlungsdienste mit gestuftem Pflichtenkanon; auch Kleinst- und Kleinunternehmen sind betroffen, lediglich mit Erleichterungen (Art. 19, 24, 29 DSA). Lassen Sie diese Differenzierung sichtbar werden.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
