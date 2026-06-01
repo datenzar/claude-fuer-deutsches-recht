@@ -37,3 +37,24 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafzumessungs-Erstpruefung Bausteine
+- **Mandantenrolle und Ziel:**
+  - **Beschuldigter / Angeklagter:** Strafmilderung; Bewaehrung; Einstellung; Verstaendigung-Korridor.
+  - **Verletzter / Nebenklage § 395 StPO:** Schaden-Wiedergutmachung; angemessene Sanktion.
+  - **StA-Mitarbeit (selten Mandat):** Strafmasspruefung Antrag.
+  - **Gericht/Schoeffe:** strafrahmen-konforme Entscheidung.
+- **Sofort-Checkliste:**
+  - Welcher Tatbestand? Strafrahmen abstrakt (Min-Max).
+  - Vorstrafen (BZRG-Auszug); Verwertungsverbot § 51 BZRG.
+  - Schuldfaehigkeit § 20 StGB / verminderte Schuldfaehigkeit § 21 StGB - Anhaltspunkte fuer Gutachten?
+  - Tatschuld (objektive Schwere, subjektive Vorwerfbarkeit) - § 46 I 1 StGB Grundlage.
+  - Pruefung Regelbeispiel / besonders schwerer Fall / minderschwerer Fall.
+  - Strafrahmenverschiebung § 49 StGB pruefen.
+- **Erwartungsspanne kommunizieren:**
+  - **Geldstrafe** ueblicher Bereich nach Vergehen, Vorstrafen, Schuld: Zahl der TS; **Tagessatzhoehe** = 1/30 Nettoeinkommen.
+  - **Freiheitsstrafe**: idR ab 6 Monaten (§ 47 StGB), Bewaehrungspraxis § 56 StGB.
+  - **Nebenfolgen**: Fahrverbot § 44 StGB, Entziehung Fahrerlaubnis § 69 StGB, BZRG-Eintrag, FZR.
+- **Mandatsziel-Matrix:** Sachverhalt vs. Beweislage; Beste-Case / Wahrscheinlichster / Worst-Case Strafmass.
+- **Strategie:** Gestaendnis vs. Verteidigung; Verstaendigung § 257c StPO; TOA § 46a StGB; Einstellung §§ 153, 153a StPO.
+- **Anschluss:** Tatbestand-Belege / Strafmilderung / Bewaehrung / Rechtsmittel.

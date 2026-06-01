@@ -22,6 +22,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen Phishing-Vorfall
+- **BGB §§ 675c-676c** (Zahlungsdienste): gesetze-im-internet.de.
+- **ZAG (Zahlungsdiensteaufsichtsgesetz)**: gesetze-im-internet.de — § 1 Abs. 24 starke Kundenauthentifizierung.
+- **PSD2 (Richtlinie (EU) 2015/2366)** und **RTS SCA (VO (EU) 2018/389)**: eur-lex.europa.eu.
+- **StGB §§ 263a, 269, 202a-d**: gesetze-im-internet.de — Computerbetrug, Datenfälschung, Ausspähen.
+- **DSGVO** für Datenpannenmeldung Art. 33: eur-lex.europa.eu.
+- **BGH-Rechtsprechung Phishing**:
+  - BGH 26.01.2016, XI ZR 91/14 (Phishing-Klick und grobe Fahrlässigkeit).
+  - Frühere: BGH XI ZR 96/11, XI ZR 210/03 (sicherer Zahlungsvorgang).
+- **BaFin-Rundschreiben** zu Zahlungsdiensten: bafin.de.
+- **Schlichtungsstelle bei der Deutschen Bundesbank** (Schlichtungsstellen-Verordnung): bundesbank.de/schlichtungsstelle.
+
+## Praxis-Tipp
+Aktualität der BGH-Rspr. bewusst prüfen: gerade im Banking-Recht hat es im Lichte PSD2 (Geltung seit 14.09.2019) eine Verschiebung der Beweislast und der Auslegung "grobe Fahrlässigkeit" gegeben. Ältere Entscheidungen (vor 2018) sind nur eingeschränkt übertragbar.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

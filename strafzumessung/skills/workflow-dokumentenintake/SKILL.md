@@ -33,3 +33,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafzumessung-Intake-Bausteine
+- **Pflichtdokumente fuer Strafmasspruefung:**
+  - **Anklageschrift / Strafbefehl** mit gesetzlichen Merkmalen, Strafrahmen.
+  - **BZRG-Auszug** des Beschuldigten (Vorstrafen, Tilgungsfristen § 46 BZRG, Verwertungsverbot § 51 BZRG).
+  - **Verteidigerakte / Beschuldigtenvernehmungen** (Aussageverhalten, ggf. Gestaendnis).
+  - **Sachverstaendigengutachten** (Schuldfaehigkeit § 20 StGB, verminderte Schuldfaehigkeit § 21 StGB; bei Drogen / Sucht; bei psychischen Erkrankungen).
+  - **Tatortprotokoll, Zeugenaussagen** (Beweislage / Tatschwere).
+  - **Schadenshoehe-Belege** (Strafzumessungsfaktor § 46 II StGB).
+- **Belege fuer Strafmilderung:**
+  - **Tagessatz-Hoehe § 40 II StGB:** Lohnabrechnungen 3 Monate, Steuerbescheid, BAFOEG/Hartz-IV-Bescheid, Unterhaltsverpflichtungen.
+  - **Schadenswiedergutmachung** (Quittungen, Vereinbarungen).
+  - **TOA § 46a StGB** (Vermittlerprotokoll, Aussohnungsvereinbarung).
+  - **Therapie-Bescheinigung** (Behandlungsbeginn, Verlauf, Prognose).
+  - **Abstinenz-Nachweis** bei Drogen / Alkohol (Haaranalyse, ETG-Urintest mit chain-of-custody).
+  - **Soziales Umfeld** (Arbeitgeber-Bescheinigung Anstellung, Mietvertrag, Familienstand).
+- **Belege fuer Strafschaerfung kritisch lesen:** Vorstrafen (Datum, Aktualitaet, Einschlaegigkeit); Tatfolgen (Schaden, Personenschaden); Bewaehrungsbruch § 56f StGB.
+- **Sondermaterialien JGG:** Jugendgerichtshilfe-Bericht; Pers. Verhaeltnisse; Erziehungsbedarf.
+- **Anschluss:** Strafmilderung-Skill / Strafrahmen-Skill / Bewaehrungs-Skill / Verstaendigung-Skill.

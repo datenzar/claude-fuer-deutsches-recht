@@ -22,6 +22,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen Berufsrecht-KI
+- **BRAO, FAO, BORA**: gesetze-im-internet.de und brak.de — anwaltsspezifische Normen.
+- **StBerG, BS, BOStB**: gesetze-im-internet.de und bstbk.de — Steuerberaterrecht.
+- **WPO, BS WP/vBP**: gesetze-im-internet.de und wpk.de — Wirtschaftsprüferrecht.
+- **BNotO, DONot**: gesetze-im-internet.de und bnotk.de — Notarrecht.
+- **PAO**: gesetze-im-internet.de — Patentanwaltsordnung.
+- **§ 203 StGB**: gesetze-im-internet.de — Vorsicht bei Mitwirkenden-Klausel Abs. 4.
+- **DSGVO + BDSG**: eur-lex.europa.eu, gesetze-im-internet.de.
+- **KI-VO (VO (EU) 2024/1689)**: eur-lex.europa.eu — insb. Art. 4 KI-Kompetenz.
+- **DAV-Stellungnahme zur KI**: anwaltverein.de — orientierend.
+- **BRAK-Stellungnahmen**: brak.de — orientierend.
+- **Anwaltsgerichtshof-Rechtsprechung** (für BRAO/FAO-Auslegung): regional verschieden; einige Entscheidungen frei zugänglich.
+
+## Praxis-Tipp
+Berufsrechtliche Anforderungen variieren je nach Berufsstand — § 43e BRAO (Anwälte) findet sein Pendant in § 62a StBerG (Steuerberater), § 50a WPO (Wirtschaftsprüfer), § 26a BNotO (Notare), § 39a PAO (Patentanwälte). Bei interdisziplinären Mandaten alle Berufsordnungen prüfen, nicht nur die "Hauptberufsordnung".
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

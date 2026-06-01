@@ -32,6 +32,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Gruppen-/Klassenbildung — Standardstruktur
+- **InsO § 222 InsO Gruppenbildung:**
+  - Abs. 1: Forderungen mit gleicher Rechtsstellung in einer Gruppe;
+  - Abs. 2: Aufteilung nur bei sachlicher Rechtfertigung (z. B. Banken vs. Lieferanten vs. Kleinforderungen);
+  - typische Gruppen: Absonderungsberechtigte (Banken), Insolvenzforderungen ungesichert, Kleinforderungen (häufig <1.500 EUR Pauschalzahlung), Arbeitnehmerforderungen, nachrangige Forderungen, Anteilsinhaber.
+- **StaRUG § 9 StaRUG Klassenbildung:** Vergleichbar zu § 222 InsO; Klassen müssen wirtschaftlich vergleichbare Rechtspositionen enthalten; auch hier sachliche Rechtfertigung für Aufspaltung.
+- **Mehrheits-Engineering:** Gruppen so bilden, dass Mehrheit erreichbar; aber: zu feine Aufspaltung führt zu § 250 InsO-Versagung und Bestätigungsrisiko.
+- **Pflicht-Information § 230 InsO bzw. § 17 StaRUG:** Vor Plan-Abstimmung schriftliche Information über Inhalt und Folgen — Verstöße führen zu Anfechtung der Abstimmung.
+- **Schriftsatz-Bausteine:**
+  - Antrag auf Bestätigung: Bezugnahme auf Plan und Abstimmungsergebnis.
+  - Stimmrechtsantrag bei bestrittenen Forderungen: § 77 InsO mit Schätzung und Begründung.
+  - Cram-Down-Antrag § 245 InsO / §§ 26 ff. StaRUG: Best-Interest-Test, Priorität-Test.
+- **Praxis:** Gruppenbildung im darstellenden Teil ausführlich begründen — Argumentationskette wird im Bestätigungsverfahren geprüft.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

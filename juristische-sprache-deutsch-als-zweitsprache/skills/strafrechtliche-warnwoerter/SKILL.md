@@ -7,7 +7,26 @@ description: "Hilft bei Strafrechtliche Warnwoerter fuer Menschen mit Deutsch al
 
 ## Zweck
 
-Dieser Skill unterstuetzt bei **Strafrechtliche Warnwoerter**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+Dieser Skill markiert typische **Warnwoerter im Strafverfahren** und hilft Menschen mit Deutsch als Zweitsprache, ihre Rechte als Beschuldigte zu schuetzen.
+
+## Warnwoerter mit hoher Tragweite
+- **Beschuldigter**: gegen Sie wird ermittelt. Sie haben das Recht zu schweigen (§ 136 Abs. 1 StPO) und einen Anwalt hinzuzuziehen.
+- **Vernehmung als Beschuldigter**: vor jeder Vernehmung muss die Belehrung nach § 136 StPO erfolgen. Sie muessen NICHT aussagen.
+- **Anhoerung Bussgeldverfahren**: § 55 OWiG; Schweigen ist erlaubt.
+- **Gestaendnis**: ist im Verfahren bindend, kann zu Verurteilung fuehren.
+- **Einlassung**: jede Aussage zur Sache ist eine Einlassung.
+- **Anhoerungsbogen**: keine Pflicht, ihn ausgefuellt zurueckzuschicken.
+- **Verwarnung mit Strafvorbehalt (§ 59 StGB)**: keine Strafe sofort, aber kann nachgeholt werden.
+- **Strafbefehl (§§ 407 ff. StPO)**: Frist zum Einspruch **2 Wochen** ab Zustellung! Versaeumt wird Strafbefehl rechtskraeftig wie Urteil.
+- **Anklageschrift**: Hauptverfahren ist eroeffnet; sehr ernst.
+- **Hauptverhandlung "geladen als Angeklagter"**: Erscheinen Pflicht, sonst Vorfuehrung/Haftbefehl.
+- **Auflagen**: z. B. Geldzahlung, Sozialstunden -- bei Nichterfuellung kann Verfahren wieder aufgenommen werden.
+- **"Unbestrittenermassen"** in einer Erklaerung der Polizei: keinesfalls einfach unterschreiben.
+
+## Vor jeder Aussage / Unterschrift
+- Habe ich einen Anwalt gefragt? Pflichtverteidigung bei schweren Vorwuerfen.
+- Verstehe ich, was ich unterschreibe? Recht auf Dolmetscher (§ 187 GVG).
+- Schweigen ist mein Recht und in der Regel die sicherste Wahl bis zur Verteidigungsstrategie.
 
 ## Start
 

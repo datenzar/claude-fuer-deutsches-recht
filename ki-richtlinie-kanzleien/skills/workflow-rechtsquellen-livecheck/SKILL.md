@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen Kanzlei-KI-Richtlinie
+- **KI-VO (VO (EU) 2024/1689)**: eur-lex.europa.eu — insb. Art. 4 KI-Kompetenz, Art. 5 Verbote, Art. 50 Transparenz.
+- **DSGVO (VO (EU) 2016/679)** und **BDSG**: eur-lex.europa.eu, gesetze-im-internet.de.
+- **BRAO**: gesetze-im-internet.de — § 43a Schweigepflicht, § 43e Verschwiegenheit gegenüber Hilfspersonen, § 49b Aufklärungspflicht.
+- **§ 203 StGB**: gesetze-im-internet.de — strafrechtliche Schweigepflicht; Abs. 4 Mitwirkende.
+- **DAV-Stellungnahme zur KI-Nutzung**: anwaltverein.de — orientierungsgebend.
+- **BRAK-Stellungnahmen**: brak.de.
+- **Aufsichtsbehörden DSGVO**: bfdi.bund.de, datenschutzkonferenz-online.de (DSK-Beschlüsse zu KI).
+- **EU AI Office**: digital-strategy.ec.europa.eu/de/policies/ai-office — neuere Leitlinien.
+
+## Praxis-Tipp
+DAV- und BRAK-Stellungnahmen sind orientierend, nicht bindend. Eine Kanzlei-Richtlinie sollte sich nicht auf eine bloße Reproduktion stützen, sondern auf primäre Quellen (KI-VO, DSGVO, BRAO, StGB) verweisen. Stellungnahmen sind verstanden als "Hilfe zur Konkretisierung", nicht als Quelle.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

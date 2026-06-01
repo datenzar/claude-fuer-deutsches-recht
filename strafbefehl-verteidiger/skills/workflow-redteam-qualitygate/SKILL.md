@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafbefehl-Red-Team-Checks
+- **Frist-Re-Check § 410 StPO:** Zustellungsdatum aus Postzustellungsurkunde / Empfangsbekenntnis verifizieren; **2 Wochen Einspruchsfrist** nicht verwechseln mit 1 Woche Beschwerde.
+- **Strafbefehlsvoraussetzungen § 407 StPO** re-check: nur Vergehen (§ 12 II StGB); Strafrahmen passend? Freiheitsstrafe ueber 1 Jahr im Strafbefehl unzulaessig - Verteidiger und Bewaehrung Pflicht bei 6 Monate bis 1 Jahr Freiheitsstrafe.
+- **Einspruchsbeschraenkung § 410 II StPO** geprueft? Beschraenkung auf Rechtsfolgenausspruch oft strategisch sinnvoll (z. B. nur Tagessatzhoehe oder Fahrverbot).
+- **Verfahrensalternativen geprueft?** §§ 153, 153a StPO Einstellung gegen Auflagen; § 154 StPO Teileinstellung; § 154a StPO Beschraenkung; § 257c StPO Verstaendigung - oft bessere Loesung als Hauptverhandlung.
+- **Konsequenz-Re-Check:** BZRG-Eintrag (regelmaessig ab 91 TS / Freiheitsstrafe); FAER bei Verkehrsdelikten; berufsrechtliche Folgen (Beamte, Aerzte, Anwaelte) - Mandant informiert?
+- **Halluzinations-Check:** keine erfundenen Az BGH; "staendige Rspr." statt konkret Az aus Modellwissen.
+- **Vollmachts-Check:** Vertretungsvollmacht fuer § 411 II StPO Hauptverhandlung? Sonst Versaeumnisurteil moeglich (§ 412 StPO).
+- **Halterauskunft / Fahrtenbuchauflage** Risiko angesprochen bei Verkehrs-Strafbefehl mit nicht ermittelbarem Fahrer?

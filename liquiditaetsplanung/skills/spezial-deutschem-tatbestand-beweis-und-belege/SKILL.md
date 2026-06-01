@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Beleglage Liquiditätsplanung nach deutschem Recht
+- **Stichtag § 17 InsO Liquiditätsbilanz:** Aktiva I (verfügbare liquide Mittel) + Aktiva II (innerhalb 3 Wochen liquidierbar) vs. Passiva I (fällige Verbindlichkeiten) + Passiva II (innerhalb 3 Wochen fällig).
+- **BGH-Schwelle (ständige Rspr.):** Deckungslücke < 10 % regelmäßig nur Zahlungsstockung; ≥ 10 % grds. Zahlungsunfähigkeit i. S. d. § 17 InsO, sofern nicht binnen kurzer Zeit Schließung absehbar.
+- **24-Monats-Liquiditätsplan § 18 InsO drohende Zahlungsunfähigkeit:** Monatliche Vorschau, plausible Annahmen, Sensitivitätsbetrachtung — Grundlage für StaRUG-Zugang § 29 StaRUG.
+- **13-Wochen-Forecast operative Planung:** Standard für aktive Sanierungsfälle; rollierend, mit Annahmen-Memo und Stresstest (Base/Stress/Worst).
+- **Belege:** Saldenlisten OPOS-Debitoren/-Kreditoren mit Fälligkeit, Kontoauszüge mind. 3 Monate, Steuerkonto (FA-Mitteilung), Beitragskonto SV (Krankenkasse), Personalkostenliste, Tilgungsplan Bankverbindlichkeiten.
+- **Beweispflicht:** Im Anfechtungs- und Haftungsprozess trägt grds. der Verwalter die Darlegungslast für Zahlungsunfähigkeit und Kenntnis (§§ 130 ff. InsO); im Strafprozess § 15a InsO ist die Staatsanwaltschaft beweispflichtig.
+- **Annahmen-Memo:** Quellen (z. B. Auftragsbestand laut CRM, Forderungslaufzeit laut OPOS-Auswertung) und Bandbreiten dokumentieren — bei Bestreiten der Annahmen ist das Memo die erste Verteidigungslinie.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

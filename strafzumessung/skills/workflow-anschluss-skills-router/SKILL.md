@@ -33,3 +33,20 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafzumessung-Routing nach Verfahrensstadium
+- **Beratung vor Anklage / Eroeffnung:** Pruefung Einstellung §§ 153, 153a StPO; Verteidigerbestellung § 137 StPO; Strafmasserwartung-Prognose.
+- **Strafbefehlsverfahren §§ 407 ff. StPO:** Strafmass und Tagessatz pruefen; § 410 StPO Einspruch beschraenkt auf Rechtsfolgenausspruch.
+- **Hauptverhandlung 1. Instanz:**
+  - **AG (Strafrichter § 25 GVG):** Verfahren bis 2 Jahre Freiheitsstrafe.
+  - **AG (Schoeffengericht § 28 GVG):** bis 4 Jahre Freiheitsstrafe.
+  - **LG (grosse Strafkammer § 76 GVG):** ueber 4 Jahre / Wirtschaftsstrafsachen.
+  - **LG (Schwurgericht § 74 II GVG):** Toetungsdelikte.
+- **Pladoyer/Verteidigungsstrategie:**
+  - Strafrahmen + ggf. Verschiebung § 49 StGB.
+  - Strafzumessungstatsachen § 46 StGB Bilanz.
+  - Strafaussetzung § 56 StGB Antrag mit Prognose-Tatsachen.
+  - TOA § 46a / Schadenswiedergutmachung.
+  - Verstaendigung § 257c StPO mit Korridorvorschlag.
+- **Nach Verurteilung:** Rechtsmittelpruefung; nachtraegliche Gesamtstrafe § 460 StPO; Bewaehrungsauflagen / -weisungen; Strafvollstreckung §§ 449 ff. StPO; Anrechnung U-Haft § 51 StGB.
+- **Anschluss zu Skills:** Tatbestand-Subsumtion / Strafmilderungs-Bausteine / Bewaehrungsentscheidung / Rechtsmittel-Skills.

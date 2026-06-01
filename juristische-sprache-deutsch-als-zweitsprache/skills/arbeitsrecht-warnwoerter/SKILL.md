@@ -7,7 +7,23 @@ description: "Hilft bei Arbeitsrecht Warnwoerter fuer Menschen mit Deutsch als Z
 
 ## Zweck
 
-Dieser Skill unterstuetzt bei **Arbeitsrecht Warnwoerter**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+Dieser Skill markiert typische **Warnwoerter im Arbeitsrecht**, deren falsche Unterschrift oder Annahme den Mandanten Geld, Stellung oder Anspruch kosten kann. Er hilft Menschen mit Deutsch als Zweitsprache, diese Fallen zu erkennen, bevor sie eine Erklaerung abgeben.
+
+## Warnwoerter mit hoher Tragweite
+- **Aufhebungsvertrag** (Ende des Arbeitsverhaeltnisses einvernehmlich): kann Sperrzeit beim Arbeitslosengeld ausloesen (§ 159 SGB III).
+- **Eigenkuendigung**: ebenfalls Sperrzeit-Gefahr.
+- **Abwicklungsvertrag**: regelt Folgen der Kuendigung; oft Klageverzicht enthalten.
+- **Ausgleichsklausel / Erledigungsklausel**: "Mit Erfuellung dieser Vereinbarung sind alle Ansprueche erledigt." -- erfasst auch unbekannte Ansprueche.
+- **Klageverzicht**: macht Kuendigungsschutzklage unmoeglich.
+- **Verzicht auf Annahmeverzugslohn (§ 615 BGB)**: verzichtet auf Lohn waehrend des Streits.
+- **Freistellung unter Anrechnung von Urlaub**: Urlaub gilt als genommen.
+- **"Sofort"** in Bezug auf Frist: 3-Wochen-Klagefrist nach Kuendigungsschutzgesetz (§ 4 KSchG) ist absolut.
+- **"unwiderruflich"** / **"endgueltig"**: keine Rueckholmoeglichkeit.
+
+## Vor jeder Unterschrift fragen
+- Kann ich die 3-Wochen-Frist nach § 4 KSchG erhalten?
+- Verzichte ich auf Geld (Lohn, Abfindung, Urlaub, Zeugnis)?
+- Schliesse ich Ansprueche aus, die ich noch gar nicht kenne?
 
 ## Start
 

@@ -33,3 +33,21 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafrecht-Routing nach Verfahrensstand und Materie
+- **Verfahrensstand:**
+  - **Ermittlungsverfahren:** Akteneinsicht § 147 StPO; Schweigerecht § 136 StPO; Stellungnahmen StA; Beweisantraege.
+  - **Zwischenverfahren §§ 199-211 StPO:** Eroeffnungsbeschluss-Pruefung; Einwaende § 201 StPO; Hilfsbeweisantraege.
+  - **Hauptverhandlung:** Beweisantraege § 244 StPO; Verstaendigung § 257c StPO; Schlussvortraege.
+  - **Strafbefehlsverfahren §§ 407-412 StPO:** Einspruch / Beschraenkung / Hauptverhandlung.
+  - **Rechtsmittelverfahren:** Berufung § 312 StPO (Pruefung AG-Urteil durch LG); Revision § 333 StPO; Beschwerde § 304 StPO.
+  - **Vollstreckungsverfahren:** Gesamtstrafe § 460 StPO; Strafaussetzung Strafrest § 57 StGB; Bewaehrungswiderruf § 56f StGB.
+  - **Wiederaufnahmeverfahren § 359 StPO** bei neuen Tatsachen / Beweismitteln.
+- **Materie-spezifische Anschluss-Skills:**
+  - **Wirtschaftsstrafrecht:** Steuerstrafrecht (AO §§ 369 ff.), Bankenstrafrecht, Korruption (§§ 331 ff. StGB), Insolvenzdelikte (§ 15a InsO), Untreue (§ 266 StGB), Betrug (§ 263 StGB).
+  - **Jugendstrafrecht:** JGG §§ 1-32, § 105 JGG bei Heranwachsenden.
+  - **Verkehrsstrafrecht:** §§ 142, 222, 229, 315b, 315c, 315d, 316 StGB.
+  - **Drogenstrafrecht:** BtMG / KCanG.
+  - **Sexualdelikte:** §§ 174-184k StGB, Nebenklage § 397a StPO.
+  - **Toetungsdelikte:** §§ 211-222 StGB - Schwurgericht § 74 II GVG.
+- **Mandantenrolle-Spezialskills:** Verteidigung Beschuldigter; Nebenklage Verletzter; Zeugenbeistand § 68b StPO; Adhaesionsverfahren §§ 403-406 StPO.

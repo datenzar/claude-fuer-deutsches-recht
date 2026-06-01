@@ -33,3 +33,13 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafrechts-Red-Team-Checks
+- **Halluzinations-Check:** Keine erfundenen BGH/BVerfG-Az; bei staendiger Rspr. nur "BGH-Linie / staendige Rspr." schreiben.
+- **Frist-Re-Check** alle Verfahrensschritte: Berufung § 314 StPO (1 Woche), Revision § 341 StPO (1 Woche) + § 345 StPO (1 Monat), Strafbefehl-Einspruch § 410 StPO (2 Wochen), Beschwerde § 311 StPO (sofortige 1 Woche; einfache § 304 StPO unbefristet), Wiedereinsetzung § 44 StPO (1 Woche ab Wegfall), Klageerzwingungsverfahren § 172 StPO.
+- **Belehrungs-Re-Check:** § 136 StPO Beschuldigtenbelehrung; § 52 StPO Zeugnisverweigerung Angehoeriger; § 55 StPO Auskunftsverweigerung; § 257c V StPO Verstaendigungsbelehrung; qualifizierte Belehrung bei Wiederholung der Vernehmung.
+- **Beweisverwertungs-Check:** § 136a StPO verbotene Vernehmungsmethoden; § 252 StPO Sperrwirkung; Beweisverwertungsverbote bei Belehrungsmaengeln (BGH-Linie).
+- **Verfahrensruegen-Check fuer Revision:** absoluter Revisionsgrund § 338 StPO (Besetzung, Ausschlussgruende, Sachleitung); relativer § 337 StPO; Verstaendigungsmaengel § 257c StPO; Akteneinsichts-Verletzung § 147 StPO.
+- **Vollmachts-Check:** Mandatsvollmacht; Vertretungsvollmacht fuer § 411 II StPO bei Strafbefehl, § 232 StPO bei Abwesenheitsverhandlung.
+- **Konsequenzen-Re-Check:** BZRG-Eintrag, FZR-Eintrag, berufsrechtliche Konsequenzen (Beamtenrecht, Aerzte, Rechtsanwaelte), auslaendische Folgen (Visum, Niederlassung).
+- **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB, § 53 I Nr. 2 StPO Zeugnisverweigerung.

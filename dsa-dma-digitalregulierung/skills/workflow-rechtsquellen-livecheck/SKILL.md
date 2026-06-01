@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen DSA/DMA
+- **DSA (VO (EU) 2022/2065)** und **DMA (VO (EU) 2022/1925)**: eur-lex.europa.eu — konsolidierte Fassungen.
+- **DDG (Digitale-Dienste-Gesetz)**: gesetze-im-internet.de — deutsche Durchführung des DSA.
+- **DSA-Transparenzdatenbank** der EU-Kommission: transparency.dsa.ec.europa.eu — alle Statement of Reasons.
+- **EU-Kommission DG CONNECT** zu DSA/DMA: digital-strategy.ec.europa.eu.
+- **BNetzA** als Digital Services Coordinator: bundesnetzagentur.de/digital-services-act.
+- **Leitlinien der Kommission** zu DSA: digital-strategy.ec.europa.eu/de/policies/digital-services-act-package.
+- **EuG / EuGH-Rechtsprechung** zu DSA/DMA: curia.europa.eu.
+- **§ 19a GWB** (deutsche Gatekeeper-Norm): gesetze-im-internet.de — komplementär zu DMA.
+
+## Praxis-Tipp
+DSA und DMA haben unterschiedliche Aufsichten: DSA-Verfahren laufen national bei BNetzA (für nicht-VLOP-Anbieter mit deutschem Hauptsitz) bzw. EU-Kommission (für VLOP/VLOSE). DMA-Verfahren ausschließlich bei EU-Kommission. Vor jeder Beratung zuerst die zuständige Behörde klären — falsche Adressierung verliert wertvolle Zeit.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

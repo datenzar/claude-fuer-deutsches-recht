@@ -32,6 +32,16 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Tabellenimport — Datenstruktur und Berechnung
+- **Stammdaten:** Gläubiger-Nr., Name, Anschrift, Bankverbindung, Vertreter, Vollmacht.
+- **Forderungsdaten:** Hauptforderung netto/brutto, Zinsen aufgegliedert (Zeitraum, Zinssatz, Basiswert), Mahnkosten, Vorgerichtliche Anwaltskosten, Gerichtskosten, Vollstreckungskosten.
+- **Verzugszinsen:** Bei B2B § 288 Abs. 2 BGB Basiszins +9 Prozentpunkte; bei Verbraucher § 288 Abs. 1 BGB Basiszins +5 Prozentpunkte; Verzugsbeginn nach § 286 BGB.
+- **Rangangabe:** § 38 InsO (einfach), § 39 Abs. 1 Nr. 1–5 InsO (nachrangig), § 47 InsO (Aussonderung), §§ 49–51 InsO (Absonderung mit Ausfallbetrag § 52 InsO).
+- **vbuH-Flag § 302 Nr. 1 InsO:** Ausdrücklich anmelden, sonst keine Restschuldbefreiungs-Ausnahme.
+- **Quote-Berechnung:** Anteil je Forderung an Gruppensumme; je niedriger der Rang, desto geringer die Quote (nachrangige Forderungen § 39 InsO erhalten regelmäßig 0 %).
+- **Tabellensoftware:** Insolvenzverwalter verwenden idR spezialisierte Software (winsolvenz, LEXolution); Anmeldungen über Standardisierte Formulare oder Schnittstellen sind effizienter.
+- **Praxis:** Prüfung Mathematik (Zinsen, Kosten) vor Anmeldung — Bestreiten wegen Rechenfehler kostet Glaubwürdigkeit und führt regelmäßig zur Kürzung.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

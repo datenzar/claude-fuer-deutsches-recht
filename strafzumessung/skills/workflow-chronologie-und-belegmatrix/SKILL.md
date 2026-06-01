@@ -33,3 +33,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafzumessungs-Chronologie-Bausteine
+- **Tat- und Verfahrenszeitachse** zur Strafmilderung wichtig: § 46 II StGB Nachtatverhalten; § 46a StGB TOA; lange Verfahrensdauer als rechtsstaatliche Kompensation (BGH-Linie, BVerfG zu Art. 6 EMRK / Art. 20 III GG).
+- **Belegmatrix Strafmilderungstatsachen:**
+  - Gestaendnis (Zeitpunkt: Polizei / StA / Hauptverhandlung; Umfang).
+  - Schadenswiedergutmachung (Betrag, Datum, Beleg, Tilgungsplan).
+  - TOA § 46a StGB (Vermittler, Vereinbarung, Erfolg).
+  - Therapie (Bescheinigung Therapeut, Beginn, Verlauf, Prognose).
+  - Drogen-Abstinenznachweis (Haaranalyse, Urinkontrollen mit chain-of-custody).
+  - Soziales Engagement (gemeinnuetzige Arbeit vor Verurteilung).
+  - Berufliche / soziale Stabilisierung.
+  - Lange Verfahrensdauer (Datum Ermittlungseinleitung bis Hauptverhandlung).
+- **Belegmatrix Strafschaerfungstatsachen:**
+  - Einschlaegige Vorstrafen (BZRG-Auszug; Verwertungsverbot § 51 BZRG pruefen).
+  - Tatfolgen (Schadenshoehe, Personenschaden).
+  - Bewaehrung lief? (Bewaehrungsbruch § 56f StGB).
+  - Verfahren wegen anderer Taten anhaengig?
+- **Tagessatz-Hoehe § 40 II StGB:** monatliches Nettoeinkommen (Lohnabrechnungen 3 Monate); Schaetzung § 40 III StGB nur subsidiaer; Unterhaltslasten.
+- **Konsequenzen-Matrix:** Geldstrafe ueber 90 TS -> BZRG-Eintrag; Freiheitsstrafe -> ggf. Verlust Beamtenstatus § 24 BeamtStG; Eintragung im FZR / BZR.

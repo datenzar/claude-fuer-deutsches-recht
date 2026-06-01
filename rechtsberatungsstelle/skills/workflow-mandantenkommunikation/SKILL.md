@@ -6,7 +6,26 @@ description: "Mandantenkommunikation im Plugin rechtsberatungsstelle: übersetzt
 # Mandantenkommunikation
 
 ## Aufgabe
-Dieser Workflow-Skill für `rechtsberatungsstelle` Mandantenkommunikation im Plugin rechtsberatungsstelle: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill formuliert die Beratungsantwort an Rechtsuchende einer niedrigschwelligen Beratungsstelle: klare Sprache, knappe Sätze, konkrete nächste Schritte, Fristen prominent, keine Floskeln.
+
+## Sprachregeln Niedrigschwellige Beratung
+- **Einfache Sprache (B1-Niveau):** kurze Sätze (max. 15 Wörter), aktive Verben, keine Schachtelsätze. Wo nötig, Leichte Sprache mit klaren Trennzeichen.
+- **Fachbegriffe nur, wenn nötig, dann immer erklären:** "Widerspruch (= förmlicher Einwand gegen den Bescheid)". 
+- **Sie-Form als Standard;** Anrede empathisch, nicht herablassend.
+- **Visuelle Hilfen:** Zwischenüberschriften, Aufzählungen, fett markierte Fristen.
+
+## Struktur der Beratungsantwort
+1. **Was wir verstanden haben:** Sachverhalt in einem Satz.
+2. **Was geprüft wurde:** Norm/Bescheid kurz benennen.
+3. **Antwort (Kurz):** Ja/Nein/Unter Vorbehalt -- in maximal zwei Sätzen.
+4. **Frist hervorheben:** "Sie haben Zeit bis: ...".
+5. **Konkrete nächste Schritte:** wer macht was bis wann (am besten als Liste).
+6. **Wo Sie weitere Hilfe bekommen:** Beratungshilfeschein, Anwaltsverein, Rechtsantragsstelle, Mietverein, Schuldnerberatung, Verbraucherzentrale.
+7. **Grenzen unserer Beratung:** wir dürfen Sie nicht vor Gericht vertreten / wir beraten Sie nicht zu X.
+
+## Anti-Muster
+- Gutachtenstil. Hier ist Klartext gefragt, kein juristisches Argument.
+- "Die Rechtslage ist komplex" -- konkret werden oder Verweis auf Anwalt.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

@@ -22,6 +22,18 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Mandantenkommunikation Phishing-Vorfall
+- **Anrede + Bezug:** "In Sachen [Mandant] / Ihr Phishing-Vorfall vom [Datum]"
+- **Sachstand kurz:** was ist passiert (Phishing-Mail/SMS/Call), welcher Betrag, Konto bei welcher Bank, ob nicht autorisiert oder autorisiert unter Täuschung.
+- **Sofortmaßnahmen (Tag 1):** Passwort ändern, Konto sperren lassen, Strafanzeige stellen, Bank schriftlich Rückbuchung verlangen, Mail-Header sichern.
+- **Empfehlung:** Erfolgsaussichten — nicht autorisiert: aussichtsreich (§§ 675u, 675w BGB); autorisiert: schwierig.
+- **Risikoampel** mit Bezug auf Frist § 676b Abs. 2 BGB (13 Monate Ausschluss).
+- **Kostenhinweis:** RVG/Honorarvereinbarung; bei Geringverdienern Beratungshilfe (BerHG).
+- **Realistische Erwartungssetzung:** Rückbuchung kann mehrere Wochen dauern; Strafverfahren oft eingestellt; im Klagefall LG-Verfahren mit Beweisproblem.
+
+## Praxis-Tipp
+Beim Erstgespräch wichtig: sortieren, ob nicht autorisierte (§ 675u BGB — gute Chancen) oder autorisierte Zahlung unter Täuschung vorliegt. Die zweite Konstellation ist anwaltlich deutlich aufwendiger und Erfolgsaussichten geringer — daher Honorarrahmen und mögliche Eigenmitwirkung des Mandanten ehrlich kommunizieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -32,6 +32,15 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Bestreitungsgrund — Risikoampel
+- **Rot (Bestreiten regelmäßig erfolgreich):** Forderung nicht ausreichend bezeichnet (§ 174 Abs. 2 InsO); Verjährung; Erfüllung dokumentiert; Aufrechnung mit Gegenforderung; vbuH-Behauptung ohne Tatsachenvortrag.
+- **Gelb (Bestreiten mit Risiko):** Höhe streitig (Zinsen, Verzug, Mahnkosten); Rang streitig (§ 38 vs. § 39 InsO); Sicherheiten/Absonderung statt Tabellenforderung.
+- **Grün (Bestreiten schwierig):** Titulierte Forderung mit ordentlichem Urteil; Forderung aus rechtskräftigem Mahnbescheid; klar dokumentierte Vertragsverletzung mit Quittung.
+- **Verteidigung Anmelder:** Bei Bestreiten Substantiierung verstärken (Vertrag, Rechnung, Verzugsschreiben, Mahnbescheid), ggf. Zeugenbeweis und Sachverständigenbeweis im Tabellenklage-Verfahren.
+- **Verteidigung Verwalter:** Bei pauschaler Anmeldung Substantiierung anfordern; bei vbuH-Behauptung nach Tatsachenvortrag verlangen; Verjährung prüfen; Eigentumsvorbehalt oder Sicherungseigentum (§ 47 / §§ 49–51 InsO) statt einfache Forderung.
+- **Anfechtungsklage Verwalter:** Erhaltene Zahlung in den letzten 4 (kongruent)/10 (Vorsatz, § 133 InsO) Jahren? Aufrechnung als kongruente/inkongruente Deckung (§§ 130, 131 InsO)? Gesellschafterdarlehen (§ 135 InsO)?
+- **Praxis:** Bei Bestreiten Tabellenklage § 180 InsO innerhalb der gesetzten Frist; verspätet bedeutet Forderung gilt als nicht festgestellt.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.

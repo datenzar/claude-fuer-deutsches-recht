@@ -33,3 +33,12 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Unsicherheiten und Annahmen ausdrücklich markieren.
+
+## Strafbefehl-Chronologie-Bausteine
+- **Tatzeit + Tatort** zuerst fixieren (Strafbefehl-Tenor § 408 StPO).
+- **Verfahrensgang chronologisch**: Anzeige - Beschuldigtenvernehmung (Belehrung § 136 StPO!) - Abschlussverfuegung StA - Antrag Strafbefehl § 407 StPO - Erlass Strafbefehl - Zustellung (Postzustellungsurkunde, § 37 StPO).
+- **Fristenkette** ab Zustellung: Einspruch § 410 StPO 2 Wochen; bei Versaeumnis Wiedereinsetzung § 44 StPO 1 Woche ab Wegfall Hindernis.
+- **Belegmatrix-Spalten** fuer Strafbefehl-Verfahren: Datum, Aktenseite (in StA-Akte), Inhalt, Beweismittel-Typ (Anzeige / Vernehmungsprotokoll / Polizeibericht / Gutachten / Lichtbild / Atemalkohol-/BAK-Wert), Bewertung Verteidigung, Aktion (Verfolgen / Bestreiten / Zustimmen).
+- **Widerspruchspruefung:** Anzeige vs. Beschuldigtenaussage; mehrere Zeugenaussagen untereinander; objektive Beweise (Gutachten, Atemalkohol, Toxikologie) vs. Aussage; Tatzeit-Lichtbild vs. Anzeige.
+- **Strategieanker** je Verfahrensstand: vor Erlass Strafbefehl (Anhoerung / Akteneinsicht); nach Zustellung Strafbefehl (Einspruch ja/nein); nach Einspruch (Hauptverhandlung / Beschraenkung / Ruecknahme); nach Urteil (Berufung § 314 StPO 1 Woche / Revision §§ 341, 345 StPO).
+- **Konsequenzen-Spalte** in Chronologie immer mitfuehren: BZRG-Eintragspflicht, FAER, berufliche Auswirkungen.

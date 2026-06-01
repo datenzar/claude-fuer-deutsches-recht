@@ -22,6 +22,19 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen Barrierefreiheit
+- **BFSG (Barrierefreiheitsstärkungsgesetz)** und **BFSGV** (Verordnung): gesetze-im-internet.de.
+- **BITV 2.0**: gesetze-im-internet.de — für öffentliche Stellen des Bundes.
+- **Richtlinie (EU) 2019/882 (European Accessibility Act)** und **Richtlinie (EU) 2016/2102** (Web-Accessibility-Richtlinie öffentl. Stellen): eur-lex.europa.eu.
+- **EN 301 549** (harmonisierte europäische Norm): etsi.org (frei abrufbar).
+- **WCAG 2.1 AA**: w3.org/TR/WCAG21 (W3C-Empfehlung; bindend via EN 301 549).
+- **BFIT-Bund** (Bundesfachstelle für Informationstechnik): bfit-bund.de — BIK-Tests, BIK-BITV-Test.
+- **Marktüberwachungsbehörden BFSG**: zuständig nach Landesrecht; Übersicht z. B. bei BMAS oder bmaas.de.
+- **Schlichtungsstelle des Bundes** § 21 BFSG: schlichtungsstelle-bfg.de.
+
+## Praxis-Tipp
+Beim Zitieren immer WCAG 2.1 AA in Verbindung mit EN 301 549 nennen — nur die EN-Norm hat in Deutschland den Status der harmonisierten Norm, die die Konformitätsvermutung trägt (§ 5 BFSG). WCAG 2.1 ist via EN 301 549 inkorporiert; WCAG 2.2 ist neuer, aber bisher nicht in der harmonisierten Norm verankert.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -6,7 +6,22 @@ description: "Dokumentenintake im Plugin rechtsberatungsstelle: liest Uploads, s
 # Dokumentenintake
 
 ## Aufgabe
-Dieser Workflow-Skill für `rechtsberatungsstelle` Dokumentenintake im Plugin rechtsberatungsstelle: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill liest typische Unterlagen von Rechtsuchenden in einer niedrigschwelligen Rechtsberatungsstelle ein: Bescheide (Jobcenter, Sozialamt, Ausländerbehörde, BAföG, Wohngeld), Mietvertrag, Lohnabrechnung, Mahnbescheide, Vollstreckungsbescheide, Bußgeldbescheide.
+
+## Dokumentenarten
+- **Verwaltungsbescheid:** Adressat, Datum, Rechtsbehelfsbelehrung; Widerspruchsfrist 1 Monat (§ 70 VwGO / § 84 SGG).
+- **Mahnbescheid (§ 692 ZPO):** Widerspruch 2 Wochen ab Zustellung (§ 694 ZPO); Vollstreckungsbescheid: Einspruch 2 Wochen (§ 700 ZPO).
+- **Bußgeldbescheid:** Einspruch 2 Wochen ab Zustellung (§ 67 OWiG).
+- **Kündigung (Miete, Arbeit):** Klagefrist Kündigungsschutzklage 3 Wochen ab Zugang (§ 4 KSchG); Mietrecht: Räumungsfrist je nach Lage.
+- **Lohnabrechnung / Sozialversicherung:** Indizien für Verdienstausfall, BAföG, Wohngeld, Bürgergeld.
+- **Mahnschreiben / Inkasso:** Verzug, Inkassokostenklauseln (§ 13a RDG), Ratenzahlung.
+
+## Erste Triage
+- **Beratungsberechtigung:** Beratungshilfeschein des Amtsgerichts (BerHG) oder Prozesskostenhilfe (§§ 114 ff. ZPO)?
+- **Fristen:** Welche harte Frist läuft? Sofortige Eintragung in Fristenkalender.
+- **Rolle der Beratungsstelle:** allgemeine Information vs. Vertretung (RDG-Grenzen für Nicht-Anwälte beachten).
+- **Sprachbarrieren / Behinderung:** ggf. Dolmetscher, Leichte Sprache, Begleitperson.
+- **Vertraulichkeit:** datensparsame Aufnahme; AVV bei genutzter Software.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

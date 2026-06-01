@@ -33,3 +33,14 @@ Rückfragen müssen technisch präzise sein. Nicht fragen: "Bitte beschreiben Si
 - Offenbarungs- und Fristenwarnung.
 - Rückfragenkatalog.
 - Empfehlung: Anspruchsentwurf, Recherche, Geheimhaltung, Sofortanmeldung oder Nichtanmeldung.
+
+## Rechtlicher Rahmen
+
+- **§ 1 PatG:** Patente werden für Erfindungen auf allen Gebieten der Technik erteilt, sofern sie neu sind, auf erfinderischer Tätigkeit beruhen und gewerblich anwendbar sind.
+- **Neuheit (§ 3 PatG; Art. 54 EPÜ):** alles, was vor dem Anmelde-/Prioritätstag der Öffentlichkeit zugänglich war, ist neuheitsschädlich. **Kein "grace period"** im EPÜ -- Vorveröffentlichung durch den Erfinder ist genauso schädlich wie die durch Dritte (Ausnahme nur § 3 Abs. 5 PatG für offensichtlichen Missbrauch / einschlägige Ausstellung).
+- **Erfinderische Tätigkeit (§ 4 PatG; Art. 56 EPÜ):** Aufgabe-Lösungs-Ansatz (Problem-Solution-Approach) des EPA.
+- **Diensterfindung (ArbnErfG):** Meldepflicht des Arbeitnehmers (§ 5 ArbnErfG); Inanspruchnahme durch Arbeitgeber innerhalb von 4 Monaten ab Meldung (§ 6 ArbnErfG); Vergütung nach § 9 ArbnErfG.
+- **Erfinderbenennung (§ 37 PatG):** binnen 16 Monaten nach Anmeldetag bzw. Prioritätstag; sonst Versagung.
+
+## Sofortmaßnahme bei drohender Offenbarung
+- Bei kurzfristiger Messe/Pitch: prioritätsbegründende DPMA- oder EPA-Erstanmeldung mit knapp möglichem Anspruchssatz; Nachreichung Beschreibung und Zeichnungen binnen Prioritätsjahr (Art. 87 EPÜ).

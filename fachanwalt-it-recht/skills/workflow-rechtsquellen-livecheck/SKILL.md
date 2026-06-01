@@ -22,6 +22,22 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
 4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
 
+## Verbindliche Quellen IT-Recht
+- **BGB, HGB, UWG, UrhG, MarkenG, ZPO**: gesetze-im-internet.de — Standardquelle Bundesrecht.
+- **DSGVO, BDSG, TDDDG**: eur-lex.europa.eu (DSGVO), gesetze-im-internet.de (BDSG, TDDDG).
+- **KI-VO (VO (EU) 2024/1689)**: eur-lex.europa.eu.
+- **NIS2-Richtlinie und BSIG-Umsetzung**: eur-lex.europa.eu, gesetze-im-internet.de.
+- **DSA und DDG (Digitale-Dienste-Gesetz)**: eur-lex.europa.eu, gesetze-im-internet.de.
+- **DMA**: eur-lex.europa.eu.
+- **BGH-Rechtsprechung** zu IT-/Cloud-/SaaS-Verträgen: bundesgerichtshof.de — Suche im offiziellen Pressespiegel.
+- **OLG-Rechtsprechung**: ggf. über offene Portale (NRW-Justiz, Bayern-Recht) oder Pressemitteilungen.
+- **BSI**: bsi.bund.de — KritisV, NIS2, IT-Grundschutz.
+- **BNetzA**: bundesnetzagentur.de — DDG/DSA, TKG.
+- **BfDI**: bfdi.bund.de — DSGVO-Auslegung.
+
+## Praxis-Tipp
+IT-Recht-Klauseln ändern sich häufig durch Rechtsprechung — besonders bei AGB (§§ 305 ff. BGB) und § 309 BGB-Klauselverboten. Vor jeder Beratung BGH-NJW-Übersicht und einschlägige OLG-Entscheidungen prüfen, nicht aus dem Modellgedächtnis zitieren.
+
 ## Output-Standard
 - Kurzbild: worum es geht, was gesichert ist, was offen ist.
 - Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.

@@ -7,7 +7,25 @@ description: "Hilft bei Auslaenderrecht Warnwoerter fuer Menschen mit Deutsch al
 
 ## Zweck
 
-Dieser Skill unterstuetzt bei **Auslaenderrecht Warnwoerter**, wenn deutsche Alltagssprache und deutsche Juristensprache gleichzeitig schwierig sind. Er behandelt die Nutzerin oder den Nutzer als erwachsene, handlungsfaehige Person und erklaert nur die sprachlichen und verfahrensbezogenen Huerden.
+Dieser Skill markiert **Warnwoerter im Auslaenderrecht** (Aufenthaltsrecht, Asyl). Falsche Erklaerungen koennen Aufenthaltstitel kosten oder Abschiebung beschleunigen. Er hilft Menschen mit Deutsch als Zweitsprache, ihre Rechte zu verstehen.
+
+## Warnwoerter mit hoher Tragweite
+- **Ausreiseaufforderung**: Pflicht zum Verlassen Deutschlands binnen Frist.
+- **Abschiebungsandrohung (§ 59 AufenthG)**: nach Frist droht zwangsweise Rueckfuehrung.
+- **Duldung (§ 60a AufenthG)**: vorlaeufige Aussetzung der Abschiebung -- kein Aufenthaltstitel.
+- **Bestandskraft / Unanfechtbarkeit**: Bescheid kann nicht mehr angefochten werden, wenn Frist versaeumt.
+- **Widerruf / Ruecknahme des Aufenthaltstitels (§§ 51, 52 AufenthG)**.
+- **Verzicht auf Anhoerungsrecht** im Asylverfahren: Nie verzichten -- Anhoerung ist Kernstueck (§ 25 AsylG).
+- **Folgeantrag**: nur unter engen Voraussetzungen (§ 71 AsylG); Beratung nutzen.
+- **Mitwirkungspflicht (§ 15 AsylG / § 82 AufenthG)**: aktive Mitwirkung an Identitaetsklaerung, Reisepass besorgen.
+- **"freiwillige Ausreise"**: zaehlt im Verfahren als Verzicht auf Aufenthalt; Folgen pruefen.
+- **Eingangsdatum Bescheid**: ist Beginn der Klagefrist (§ 74 AsylG: 1 oder 2 Wochen; bei AufenthG: 1 Monat § 74 VwGO).
+
+## Vor jeder Unterschrift / Erklaerung
+- Habe ich Anspruch auf einen kostenlosen Anwalt? Bei VG-Klage Prozesskostenhilfe pruefen.
+- Habe ich das Dokument verstanden? Recht auf Dolmetscher im Asylverfahren (§ 17 AsylG).
+- Frist im Bescheid genau markieren. Klagefrist nicht verstreichen lassen.
+- Beratung bei Caritas, Diakonie, Fluechtlingsrat, Verfahrensberatung.
 
 ## Start
 

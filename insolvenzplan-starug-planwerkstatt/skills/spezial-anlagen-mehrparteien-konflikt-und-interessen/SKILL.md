@@ -32,6 +32,20 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
+## Plan-Anlagen § 229 InsO und Interessenmatrix
+- **§ 229 InsO Pflichtanlagen:** Vermögensübersicht, Ergebnis- und Finanzplan für Planlaufzeit (idR 3–5 Jahre), Vergleichsrechnung Plan vs. Liquidation.
+- **§ 230 InsO weitere Anlagen:** Erklärungen der Planbetroffenen (z. B. neue Kreditzusagen, Forderungsverzichte, Patronatserklärungen) — Anlagen wirken als Vertragsverpflichtung; ohne Anlage kein Plan-Vollzug.
+- **§ 7 StaRUG entspricht:** Vergleichende Aufstellung, Finanzplan, Sanierungskonzept als Anlagen.
+- **Interessenmatrix (Gläubigergruppen):**
+  - Banken: Sicherheitenverwertung, Realkreditverteidigung, Kovenanten;
+  - Lieferanten: Lieferantenkredit, Eigentumsvorbehalt, Geschäftsbeziehung;
+  - Arbeitnehmer: Arbeitsplätze, Lohnzahlung, Insolvenzgeld;
+  - Steuerfiskus/SV: Sondergläubiger mit Insolvenzaufrechnungsverbot § 96 InsO;
+  - Gesellschafter: Anteilseignerrechte, Debt-Equity-Swap, Squeeze-out.
+- **Konflikte typisch:** Gesellschafter wollen Anteile behalten, Banken wollen Sicherheiten realisieren, Lieferanten wollen Geschäft fortsetzen, Arbeitnehmer wollen Beschäftigung sichern.
+- **Trade-off:** Plan-Anlagen mit harten Verpflichtungen geben Gläubigern Sicherheit, binden aber Schuldnerin operativ; weiche Bekundungen sind flexibel, aber im Streit wertlos.
+- **Praxis:** Anlagen-Reihenfolge: Sanierungskonzept, Plan-Bilanz/-GuV/-Liquidität, Vergleichsrechnung je Gruppe, Zusagen Dritter, Drittsicherheiten — die Vergleichsrechnung ist meist die Streitkernzelle.
+
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
