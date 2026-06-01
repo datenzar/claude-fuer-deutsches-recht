@@ -37,3 +37,23 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Verkehrsrechts-Behoerden / Gerichts / Register Bausteine
+- **Behoerden-Triade:**
+  - **Bussgeldstelle (zentrale OWi-Verfahrensbehoerde des Bundeslands):** § 65 OWiG; Bescheidserlass; Einspruchsbearbeitung; Abgabe an StA bei Strafbefehl-Antrag.
+  - **Staatsanwaltschaft:** Verkehrsstrafsachen; § 152 StPO Anklageerhebung.
+  - **Fahrerlaubnisstelle (Landratsamt / Buergeramt):** §§ 3 StVG, 46 FeV Entziehung; Wiedererteilung § 20 FeV; MPU-Anordnung §§ 11, 13, 14 FeV.
+  - **KBA Flensburg (Kraftfahrt-Bundesamt):** § 29 StVG Halterabfrage; FAER (Fahreignungsregister) § 30 StVG mit Punktestand-Abfrage online (kostenfrei).
+- **Gerichtsweg:**
+  - **AG Strafrichter (§ 25 GVG):** Bussgeldverfahren §§ 65 ff. OWiG; Verkehrsstrafsachen bis 2 Jahre Freiheitsstrafe.
+  - **AG Schoeffengericht (§ 28 GVG):** Verkehrsstrafsachen bis 4 Jahre.
+  - **AG Zivilrichter:** Unfall-Zivilrecht bis Streitwert 5.000 EUR (§ 23 GVG).
+  - **LG:** Berufung gegen AG-Urteile (Strafrecht); Zivilrechtszuständigkeit ab 5.000 EUR; Berufung Zivilrecht zum OLG.
+  - **OLG:** Rechtsbeschwerde §§ 79, 80 OWiG; Revision Strafrecht; Berufung Zivilrecht.
+- **Register-Wege:**
+  - **FAER (Fahreignungsregister) § 30 StVG:** Punktestand-Abfrage online unter kba.de; Selbstauskunft kostenfrei.
+  - **BZR / Fuehrungszeugnis:** Bundeszentralregister § 30 BZRG; Auskunft Buergerinnen ueber online-Antrag.
+  - **VZR (Verkehrszentralregister):** in FAER aufgegangen (seit Reform 2014).
+  - **ZFER (Zentrales Fahrerlaubnisregister):** § 33 StVG.
+  - **ZBV (Zentralregister Bauartzulassungen):** PTB - Messgeraete-Zulassungen verifizierbar.
+- **Praxis-Tipp:** Vor jedem Mandantentermin Halterauskunft KBA und Punktestand-Abfrage; bei Verkehrsstrafsachen BZRG-Auszug; bei Unfall Halter-/Versicherungsauskunft ueber GDV-Online-System (HISP).

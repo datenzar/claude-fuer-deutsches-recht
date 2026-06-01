@@ -37,3 +37,64 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafzumessungs-Schriftsatz / Memo Bausteine
+- **Pladoyer-Strafzumessung Struktur:**
+  ```
+  Sehr verehrtes Schoeffengericht,
+  
+  zu den Strafzumessungsfragen ist auszufuehren:
+  
+  I. STRAFRAHMEN
+  Der gesetzliche Strafrahmen des § ... StGB sieht Freiheitsstrafe von ... bis ... Jahren vor.
+  
+  II. STRAFRAHMENVERSCHIEBUNG
+  Die Voraussetzungen einer Strafrahmenverschiebung nach § 49 StGB sind erfuellt, weil ...
+  [§§ 21, 23 II, 27 II 2 StGB pruefen]
+  
+  III. STRAFZUMESSUNGSTATSACHEN § 46 II StGB
+  
+  Zugunsten des Angeklagten ist zu beruecksichtigen:
+  - Gestaendnis (Datum, Umfang, Wert): ...
+  - Schadenswiedergutmachung in Hoehe von ... EUR (Beleg ...).
+  - TOA-Vereinbarung § 46a StGB (Anlage ...).
+  - Persoenliche Verhaeltnisse (Familie, Beruf, sozial integriert).
+  - Lange Verfahrensdauer von ... Jahren (Strafmilderung Vollstreckungsloesung BGH).
+  - Tatfolgen begrenzt: ...
+  - Keine einschlaegigen Vorstrafen (BZRG-Auszug Anlage ...).
+  
+  Zu Lasten des Angeklagten:
+  - [konkret und begrenzt]
+  
+  IV. STRAFAUSSETZUNG § 56 StGB
+  Die Voraussetzungen einer Strafaussetzung zur Bewaehrung liegen vor:
+  - Sozialprognose positiv: stabile Arbeitsstelle, Familie, Therapie (Belege Anlage ...).
+  - Besondere Umstaende § 56 II StGB bei Strafen ueber 1 Jahr: ...
+  
+  V. ANTRAG
+  Hauptantrag: Freispruch.
+  Hilfsantrag: Verurteilung zu ... Monaten Freiheitsstrafe, auf Bewaehrung ausgesetzt, 
+  bei einer Bewaehrungszeit von ... Jahren.
+  ```
+- **Memo Strafmilderung intern:**
+  ```
+  Strafzumessungs-Memo
+  Mandant: ... | Az: ...
+  
+  Tat: ...
+  Strafrahmen: ... bis ...
+  
+  Best-Case (Anwalt): ... (Tagessaetze / Monate Freiheitsstrafe)
+  Wahrscheinlichster Korridor (Verstaendigung): ... bis ...
+  Worst-Case: ...
+  
+  Bewaehrungsfaehig? Ja/Nein - Begruendung ...
+  
+  Belege fuer Strafmilderung (Status):
+  [ ] BZRG-Auszug
+  [ ] Lohnabrechnung 3 Monate (Tagessatz-Hoehe)
+  [ ] Therapiebescheinigung
+  [ ] TOA-Vereinbarung
+  [ ] Schadenswiedergutmachungs-Beleg
+  ```
+- **Praxis-Tipp:** Strafzumessungs-Antrag stets konkret beziffern (nicht "moderate Strafe"); ggf. Korridor formulieren bei Verstaendigung; Belege als Anlagen geordnet.

@@ -37,3 +37,55 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafakte-Lueckenliste / Mandantenentscheidung Bausteine
+- **Standard-Lueckenliste Strafakte:**
+  - Akteneinsicht § 147 StPO komplett erhalten (alle Beiakten)?
+  - BZRG-Auszug Beschuldigter aktuell?
+  - Beweismittelverzeichnis Anklage § 200 StPO vollstaendig?
+  - Belehrungs-Vermerk in Vernehmungsprotokollen § 136 StPO?
+  - TKUe-Beschluesse § 100a StPO mit Begruendung?
+  - Durchsuchungsbeschluesse § 105 StPO?
+  - Sachverstaendigengutachten beigezogen?
+  - Asservaten-Verzeichnis mit chain-of-custody?
+  - Mitbeschuldigte-Akten (bei verbundenen Verfahren § 4 StPO)?
+- **Entscheidungsvorlage Mandant - Format:**
+  ```
+  ENTSCHEIDUNGSVORLAGE STRAFSACHE [Name]
+  Az: ... | Datum: ...
+  
+  AUSGANGSLAGE
+  - Tatvorwurf: § ... StGB ...
+  - Verfahrensstand: ...
+  - Strafrahmen: ... bis ...
+  
+  AKTUELLE FRAGE
+  [Was soll heute entschieden werden? Z. B. Einspruch? Verstaendigung? Schweigen?]
+  
+  OPTIONEN
+  Option A: ... | Risiken: ... | Chancen: ...
+  Option B: ... | Risiken: ... | Chancen: ...
+  Option C: ... | Risiken: ... | Chancen: ...
+  
+  ANWALTSEMPFEHLUNG
+  Option [A/B/C] mit Begruendung ...
+  
+  FRIST
+  Bis ... ist die Entscheidung zu treffen.
+  
+  IHRE ENTSCHEIDUNG
+  [ ] Option A [ ] Option B [ ] Option C
+  Bemerkung: ...
+  
+  Datum: ... | Unterschrift Mandant: ___________________
+  ```
+- **Standard-Entscheidungspunkte im Strafverfahren:**
+  - Aussagebereitschaft (Schweigen vs. Aussage; § 136 StPO Schweigerecht).
+  - Akteneinsicht-Antrag § 147 StPO Form / Inhalt.
+  - Einwaende gegen Eroeffnungsbeschluss § 201 StPO.
+  - Beweisantraege § 244 StPO.
+  - Verstaendigung § 257c StPO mit Korridor.
+  - Gestaendnisbereitschaft.
+  - Rechtsmittel-Einlegung / -Ruecknahme / -Verzicht (§ 302 StPO).
+  - Wiedereinsetzung § 44 StPO.
+- **Mandantengeheimnis** § 43a Abs. 2 BRAO, § 203 StGB: Mandanten-relevante Informationen nicht ohne Freigabe weitergeben.

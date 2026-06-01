@@ -37,3 +37,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R√
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pr√ºfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafakte-Internationaler Bezug Bausteine
+- **EuStA (Europaeische Staatsanwaltschaft - VO 2017/1939):** zustaendig fuer Straftaten gegen EU-Finanzinteressen (Mehrwertsteuerbetrug, EU-Subventionsbetrug, Korruption, Geldwaesche bei EU-Bezug); deutsches Recht anwendbar mit EU-Verfahrensanpassungen.
+- **Europaeische Ermittlungsanordnung (EEA) RL 2014/41/EU:**
+  - Vereinfachte Beweiserhebung in anderen EU-Mitgliedstaaten.
+  - Anwendung statt klassische Rechtshilfe gemaess EuRhuebkAG.
+  - Akteneinsicht in EU-Bezug-Verfahren auch bezueglich EEA-Aufnahmen.
+- **Klassische Rechtshilfe (EuRhuebk, MLA-Abkommen):**
+  - Vernehmungen im Ausland, Beweismittelbeschaffung.
+  - DE-Behoerden ueber Justizministerium / GenStA.
+- **Auslieferungsverfahren:**
+  - **Europaeischer Haftbefehl (EuHbG / RB 2002/584/JI):** schneller Verfahren in EU.
+  - **IRG fuer Drittstaaten:** klassische Auslieferung.
+- **Schengen-Informationssystem (SIS II):** Ausschreibung zur Festnahme; deutsche Ermittlungsbehoerden haben direkten Zugriff.
+- **EU-Strafrechtspflege-Verfahren:** RB 2008/675/JI (Beruecksichtigung Vorverurteilungen anderer EU-Mitgliedstaaten); RB 2008/909/JI (Vollstreckungsuebernahme freiheitsentziehender Sanktionen).
+- **DSGVO im Strafverfahren:**
+  - Art. 6, 9, 23 DSGVO; spezialgesetzliche Bestimmungen StPO als lex specialis.
+  - Akteneinsichtsanspruch Geschaedigter nach DSGVO ggf. erweitert.
+- **EuGH Rsp. zu RL 2012/13/EU (Belehrungsrecht), RL 2013/48/EU (Anwaltszugang), RL 2016/343/EU (Unschuldsvermutung):** direkt anwendbar bei nationaler Lueckenfuellung; staendige Rspr.
+- **Schnittstellen-Checkliste:**
+  - Gehoert Beschuldigter / Geschaedigter zu EU-Mitgliedstaat?
+  - Wurden Beweismittel ueber EEA / Rechtshilfe beschafft?
+  - Liegen Auslandsvorstrafen vor? (Auslandsvorstrafenbruecke RB 2008/675/JI).
+  - Internationale Vorermittlungen Europol / Eurojust?
+- **Praxis-Tipp:** Bei Auslandsvorstrafen Auszug aus dem Ausland anfordern ueber Verbindungsbeamte; bei Drittstaaten ggf. Notwendigkeit Uebersetzung beglaubigter Form.

@@ -37,3 +37,32 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Pflichtverteidigung im Strafbefehl Bausteine
+- **Rechtsgrundlage Pflichtverteidigung im Strafbefehlsverfahren:**
+  - **§ 408b StPO:** Pflichtverteidigerbestellung im Strafbefehl bei beantragter Freiheitsstrafe (mit Bewaehrung) - **zwingend**.
+  - **§§ 140-141 StPO:** allgemeine Voraussetzungen notwendiger Verteidigung; in Strafbefehl regelmaessig dann einschlaegig, wenn Hauptverhandlung anberaumt wird.
+- **Notwendige Verteidigungsfaelle § 140 I StPO:**
+  - Nr. 1: Hauptverhandlung vor OLG / LG 1. Instanz.
+  - Nr. 2: Verbrechensvorwurf (§ 12 I StGB: Mindestens 1 Jahr Freiheitsstrafe).
+  - Nr. 3: Berufs-/Standesverbot kann verhaengt werden.
+  - Nr. 4: U-Haft / einstweilige Unterbringung 3 Monate.
+  - Nr. 5: Sicherungsverfahren.
+  - Nr. 6: Mehrere Beschuldigte, Interessenkollision.
+  - Nr. 7: Aussagepsychologisches Gutachten.
+  - Nr. 8: Behinderung Wahrnehmung Verteidigungsrechten (Sprachschwierigkeit, korperliche/seelische Maengel).
+  - Nr. 9: Verstaendigung § 257c StPO.
+  - Nr. 10: Schwere der Tat / Schwierigkeit Sach- oder Rechtslage.
+  - Nr. 11: Sicherungshaftbefehl.
+- **Aenderung 2019 (RL 2013/48/EU Umsetzung):**
+  - Erweitertes Anwesenheits-Recht des Verteidigers bei Vernehmungen § 168c StPO.
+  - **Recht auf Anwalt von Anbeginn** (BVerfG- und EuGH-Linie).
+- **Pflichtverteidigerbestellung Verfahren §§ 141, 142 StPO:**
+  - Antrag durch Beschuldigten oder von Amts wegen.
+  - Bestellung durch Vorsitzenden des erkennenden Gerichts.
+  - Wechsel Pflichtverteidiger nur bei wichtigem Grund.
+- **Verguetung Pflichtverteidiger nach RVG:**
+  - VV 4100 ff. Pauschalgebuehren.
+  - Festsetzung durch Vorsitzenden / Rechtspfleger.
+- **Mandant traegt Verfahrenskosten bei Verurteilung** (Pflichtverteidigergebuehren als Verfahrenskosten); bei Mittellosigkeit ggf. PKH-Beistand parallel.
+- **Strafbefehl-spezifisch:** Bei Freiheitsstrafe ueber 6 Monate Strafbefehl idR mit Pflichtverteidigerbestellung; Mandantenkontakt sofort.

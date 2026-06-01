@@ -37,3 +37,38 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Wiedereinsetzung im Strafbefehl Bausteine
+- **Rechtsgrundlage:** § 44 StPO Wiedereinsetzung in den vorigen Stand bei unverschuldeter Versaeumung; spezielles Beispiel § 410 StPO Einspruchsfrist.
+- **Zeitliche Schranken § 45 StPO:**
+  - **Antragsfrist: 1 Woche** ab Wegfall des Hindernisses.
+  - **Hoechstfrist: 1 Jahr** nach Ende der versaeumten Frist (Ausnahme bei Hindernis durch hoehere Gewalt).
+- **Begruendungserfordernis § 45 II StPO:**
+  - Konkretisierung Hindernis (Tatsachen darlegen).
+  - Glaubhaftmachung (z. B. eidesstattliche Versicherung, Atteste, Postzustellungsdaten).
+  - **Versaeumte Handlung in Antragsfrist nachholen** (z. B. Einspruch mit beilegen).
+- **Anerkannte Gruende fuer unverschuldete Versaeumung:**
+  - Schwere Krankheit / Krankenhausaufenthalt mit Unfaehigkeit zur Wahrnehmung.
+  - Postfehler / Zustellungsmaengel (z. B. Zustellung an falsche Adresse, Ersatzzustellung an unbefugte Person).
+  - Hoehere Gewalt (Naturkatastrophe).
+  - Falsche Belehrung im Bescheid (BGH-Linie).
+- **Nicht ausreichend:**
+  - "Habe es vergessen" oder Nachlaessigkeit.
+  - Versaeumnis durch Verteidiger -> Mandantenverschulden (BGH-Linie restriktiv im Strafbefehlsverfahren, im Rechtsmittelverfahren milder).
+  - Sprachbarriere allein (Belehrung muss verstaendlich gewesen sein - im Zweifel Dolmetscher).
+- **Begruendungsvorlage:**
+  ```
+  Antrag auf Wiedereinsetzung in den vorigen Stand
+  
+  Gegen die Versaeumung der Einspruchsfrist gegen den Strafbefehl AG ... vom ... 
+  (Az ...) wird beantragt, die Wiedereinsetzung in den vorigen Stand gemaess § 44 StPO 
+  zu gewaehren.
+  
+  Begruendung:
+  Der Mandant war ab dem ... infolge schwerer Krankheit (Anlage 1: Attest Dr. ... vom ...)
+  unfaehig, seine Verteidigungsrechte wahrzunehmen. Die Frist endete am ...
+  Das Hindernis ist am ... weggefallen (Entlassung Klinik, Anlage 2).
+  Mit diesem Antrag wird die versaeumte Handlung (Einspruch gegen Strafbefehl, Anlage 3)
+  nachgeholt.
+  ```
+- **Praxis-Tipp:** Bei Zustellungsdefekten **Heilung § 189 ZPO** pruefen (Zustellung gilt zum tatsaechlichen Zugangsdatum als bewirkt - was die ggf. spaetere Fristberechnung beeinflusst).

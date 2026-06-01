@@ -37,3 +37,45 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## OWi-AG-Mandantenkommunikation Bausteine
+- **Vorbereitung Hauptverhandlung (Mandantenbrief):**
+  ```
+  Sehr geehrte Frau / Herr ...,
+  
+  ich teile Ihnen mit, dass die Hauptverhandlung gegen Sie im Bussgeldverfahren wegen 
+  ... auf den ... vor dem Amtsgericht ... anberaumt wurde.
+  
+  Termin: [Datum, Uhrzeit, Saal]
+  Gericht: AG ... (Adresse)
+  
+  Erscheinenspflicht:
+  - Sie sind grundsaetzlich verpflichtet, persoenlich zu erscheinen (§ 73 OWiG).
+  - Befreiung von Erscheinenspflicht moeglich bei Vertretung durch Verteidiger mit Vollmacht (§ 73 II OWiG).
+  - Empfehlung: persoenliches Erscheinen, da Eindruck Betroffener strafmildernd / freisprechend wirken kann.
+  
+  Mitnehmen:
+  - Personalausweis.
+  - Fuehrerschein.
+  - Versicherungsnachweis Rechtsschutz (falls vorhanden).
+  - Entscheidungsrelevante Unterlagen (Lohnabrechnung fuer Geldbussen-Bemessung).
+  
+  Strategie / Erwartungshorizont:
+  - Best Case: Freispruch / Einstellung gemaess § 47 OWiG.
+  - Wahrscheinlichster: Verurteilung mit reduzierter Sanktion.
+  - Worst Case: Bestaetigung Bussgeldbescheid + Verfahrenskosten.
+  
+  Naechste Schritte:
+  - Persoenliche Vorbesprechung am ... in der Kanzlei (Tel. ...).
+  - Wir besprechen Ihre Aussage / Schweigerecht.
+  - Klaerung Strategie / Entscheidung Bestreiten.
+  ```
+- **Entscheidungsmatrix vor Hauptverhandlung mit Mandant:**
+  - Einspruchsruecknahme (bei aussichtsloser Lage / Vergleichsangebot StA).
+  - Beschraenkung auf Rechtsfolgenausspruch (Schuldspruch akzeptiert, nur Strafmass streitig).
+  - Vollverteidigung mit Beweisaufnahme.
+  - Verstaendigung § 257c StPO i.V.m. § 71 OWiG.
+- **Kostenhinweis RVG OWi:**
+  - VV 5100 (Grundgebuehr), 5103 (Verfahrensgebuehr Verteidiger im OWi-Verfahren), 5109 (Verfahrensgebuehr Einspruchsverfahren), 5110-5115 (Terminsgebuehr).
+  - Bei Rechtsschutzversicherung: Wartezeit pruefen; Selbstbeteiligung; Strafrechtsschutz nur ohne Vorsatz.
+- **Mandantenfreigabe schriftlich** fuer alle Entscheidungen: Einspruch / Ruecknahme / Beschraenkung / Vertretung / Verstaendigung.

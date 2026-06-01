@@ -37,3 +37,31 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## OWi-Hauptverhandlung Edge-Cases Bausteine
+- **Sonderfall 1: Schriftliches Verfahren § 72 OWiG:**
+  - Voraussetzung: Einverstaendnis Betroffener; Geldbusse bis 250 EUR.
+  - Vorteil: keine Verhandlung, keine Reisekosten.
+  - Nachteil: keine Beweisaufnahme, keine persoenliche Eindruck.
+- **Sonderfall 2: Berufskraftfahrer mit drohendem Fahrverbot:**
+  - **Argument Existenzbedrohung:** monatliche Einkommensausfaelle, Familie, Arbeitsplatzverlust.
+  - **OLG-Linie zur Abwehr Fahrverbot:** restriktiv; "unzumutbare Haerte" eng auszulegen; ggf. Kompensation Erhoehung Geldbusse (BGH-Linie 50-100 %).
+  - **Strategie:** zeitliche Verschiebung Fahrverbot § 25 IIa StVG 4-Monatsfrist nutzen; ggf. Antrag auf Befreiung wegen besonderer Haerte.
+- **Sonderfall 3: Beamte / Aerzte / Anwaelte als Betroffene:**
+  - Berufsrechtliche Konsequenzen: Disziplinarrecht / Berufsaufsicht melden.
+  - **Eintragung FAER** kann automatisch BZRG-/Berufsmeldung ausloesen.
+- **Sonderfall 4: Mehrfachverstoss / Tatmehrheit § 19 OWiG:**
+  - Mehrere OWi in einer Handlung -> Tateinheit, Strafmass einheitlich.
+  - Mehrere getrennte Verstoesse -> Tatmehrheit, Strafe je Verstoss; ggf. Gesamtgeldbuesse.
+- **Sonderfall 5: Auslaendischer Betroffener:**
+  - Halterauskunft ueber EU-Mitgliedstaat moeglich; RB 2005/214/JI Vollstreckung Geldsanktionen.
+  - Dolmetscher § 185 GVG erforderlich.
+  - Verkuendung schriftlich + Uebersetzung beruecksichtigen.
+- **Sonderfall 6: Mehrere Betroffene (Halter + Fahrer):**
+  - Halterauskunftspflicht § 31a StVZO; Fahrtenbuchauflage bei Nichtermittelbarkeit.
+  - Interessenkollisionen Vertretung beider durch denselben Anwalt § 138 StGB / § 43a Abs. 4 BRAO.
+- **Sonderfall 7: Eilmassnahme vor Hauptverhandlung:**
+  - **Aussetzung Vollziehung Fahrverbot:** Antrag bei AG vor Rechtskraft.
+  - **Vorlaeufige Entziehung Fuehrerschein § 111a StPO** im Strafverfahren: Beschwerde § 304 StPO.
+- **Wiedereinsetzung § 52 OWiG:** 1 Woche ab Wegfall des Hindernisses.
+- **Praxis-Tipp:** Bei drohendem Fahrverbot Berufskraftfahrer regelmaessig persoenliches Erscheinen; persoenlicher Eindruck Betroffener oft entscheidend fuer Haerte-Pruefung.

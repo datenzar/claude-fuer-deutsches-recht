@@ -37,3 +37,36 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Verkehrsrechts-Fristennotiz / naechster Schritt Bausteine
+- **Frist-Uebersicht pro Saeule:**
+  - **Verkehrszivilrecht:** Verjaehrung Schaden § 195 BGB 3 Jahre ab Kenntnis § 199 BGB; Verzug § 286 BGB; Zinsen § 288 BGB; KH-Versicherer Frist § 14 PflVG 4 Wochen bei klarer Haftung.
+  - **OWi:** Einspruch § 67 OWiG 2 Wochen; Verjaehrung § 26 III StVG 3 Monate (bis Bescheid) / 6 Monate (bis Urteil 1. Instanz); Rechtsbeschwerde §§ 79, 80 OWiG 1 Woche / 1 Monat.
+  - **Verkehrsstrafrecht:** § 410 StPO Strafbefehl-Einspruch 2 Wochen; § 314 StPO Berufung 1 Woche; § 341 / § 345 StPO Revision 1 Woche / 1 Monat.
+  - **FeV:** Anhoerungsfrist regelmaessig 1-2 Wochen; MPU-Vorlage 2-3 Monate; Wiedererteilung § 20 FeV.
+  - **Versicherung:** § 30 VVG Anzeige unverzueglich; § 28 VVG Leistungsfreiheit; § 86 VVG Forderungsuebergang.
+- **Fristennotiz-Vorlage:**
+  ```
+  AZ: ...
+  Mandant: ...
+  Saeule: Zivil / OWi / Straf / FeV / Versicherung
+  Frist-Typ: ...
+  Frist-Beginn: [Datum]
+  Frist-Ende: [Datum] - [Zeit]
+  Norm: § ...
+  Vorlauf: 7 Tage / 3 Tage / 1 Tag
+  Pendenz: [Was muss bis dahin erledigt sein?]
+  Status: offen / in Bearbeitung / erledigt
+  ```
+- **Naechster-Schritt-Matrix:**
+  - **Unfall mit Verletzten:** Sofort SV-Gutachten + Krankenakte + Krankenkasse-Anspruch § 116 SGB X; Versicherer in Anspruch nehmen.
+  - **Bussgeldbescheid:** Akteneinsicht § 49 OWiG sofort; Einspruchsentscheidung in 2 Wochen.
+  - **Vorlaeufige Entziehung Fahrerlaubnis § 111a StPO:** Beschwerde § 304 StPO sofort.
+  - **Anhoerung FeV-Behoerde:** Stellungnahme mit anwaltlicher Pruefung Befunde.
+  - **Schadenregulierung Versicherer:** Bei Streit oder Verzoegerung Klage zum AG / LG je Streitwert.
+- **Live-Quellen:**
+  - gesetze-im-internet.de (Bundesnormen).
+  - BVerfG-Rechtsprechung (Akteneinsicht / fair trial).
+  - BGH NJW / DAR / SVR (Verkehrsrechts-Sammlungen) - bei Lizenz; sonst Onlinequellen.
+  - openJUR (frei) - Sammlungen Urteile.
+- **Praxis-Tipp:** Bei mehreren Saeulen parallel: Mandantenuebersicht mit Frist-Matrix erstellen; Wiedervorlagesystem mit kanzleieigenem Fristenkalender.
