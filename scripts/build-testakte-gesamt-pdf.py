@@ -979,11 +979,14 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
         c.setFillColor(black)
         c.setFont(FONT_BOLD, 9)
         y = 21.6 * cm
+        # Wert-Spalte bei 4.5 cm, damit lange Labels wie "Aktenzeichen:"
+        # nicht in die Wert-Spalte hineinlaufen (9pt Helvetica-Bold ca. 2.15 cm)
+        VALUE_X = 4.5 * cm
         if meta.get("absender"):
             c.drawString(2 * cm, y, "Absender:")
             c.setFont(FONT_REG, 9)
             for line in [p.strip() for p in meta["absender"].split(";")][:4]:
-                c.drawString(4 * cm, y, line)
+                c.drawString(VALUE_X, y, line)
                 y -= 0.45 * cm
             c.setFont(FONT_BOLD, 9)
         if meta.get("adressat"):
@@ -991,7 +994,7 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
             c.drawString(2 * cm, y, "Adressat:")
             c.setFont(FONT_REG, 9)
             for line in [p.strip() for p in meta["adressat"].split(";")][:4]:
-                c.drawString(4 * cm, y, line)
+                c.drawString(VALUE_X, y, line)
                 y -= 0.45 * cm
             c.setFont(FONT_BOLD, 9)
         y -= 0.3 * cm
@@ -999,7 +1002,7 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
             if meta.get(key):
                 c.drawString(2 * cm, y, lbl)
                 c.setFont(FONT_REG, 9)
-                c.drawString(4 * cm, y, meta[key])
+                c.drawString(VALUE_X, y, meta[key])
                 c.setFont(FONT_BOLD, 9)
                 y -= 0.45 * cm
         if meta.get("betreff"):
@@ -1010,7 +1013,7 @@ def append_pdf_with_separator(writer: PdfWriter, label: str, pdf_path: Path, tes
             betreff = meta["betreff"]
             words = betreff.split()
             line = ""
-            xb = 4 * cm
+            xb = VALUE_X
             for w in words:
                 if len(line + " " + w) > 80:
                     c.drawString(xb, y, line.strip())
