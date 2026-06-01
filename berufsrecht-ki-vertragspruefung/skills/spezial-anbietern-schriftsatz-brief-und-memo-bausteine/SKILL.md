@@ -21,10 +21,28 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Anbietern** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rückfragen an Legal-AI-Anbieter** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## Rückfragebrief an Legal-AI-Anbieter — Mustertextbausteine
+Bei Erstprüfung eines Tools sind diese Anfragen Standard:
+- "Bitte bestätigen Sie, dass Mitarbeitende und Subunternehmer auf Verschwiegenheit i.S.d. § 203 Abs. 4 StGB verpflichtet sind und legen Sie eine Mustererklärung vor."
+- "Bitte legen Sie die aktuelle Liste der Subunternehmer (Art. 28 Abs. 2/4 DSGVO) inkl. Standort und Datenarten vor."
+- "Bei Hosting in den USA: Bitte legen Sie Ihre DPF-Mitgliedschaftsbestätigung (mit aktuellem Datum) und/oder Ihr SCC-Modul vor."
+- "Bitte beschreiben Sie Ihre TOM (Art. 32 DSGVO) konkret, nicht pauschal 'Stand der Technik'."
+- "Bitte legen Sie aktuelle ISO 27001 / SOC 2 Type II Zertifikate vor."
+- "Wie ist der Umgang mit Mandantenfragen unter Cloud Act (US-Behördenzugriff) geregelt?"
+- "Werden Mandantendaten zum Modelltraining genutzt? Wenn ja, mit welcher Opt-Out-Möglichkeit?"
+- "Welche Datenlöschvorgaben gelten bei Vertragsende oder auf Anfrage?"
+
+## Memo-Baustein für Geschäftsleitung
+- **Empfehlung in 3 Optionen**: (1) Freigeben mit Auflagen, (2) Pilotbetrieb mit eingeschränkten Daten, (3) Sperren.
+- Jede Option mit Risikoampel und Begründung.
+
+## Praxis-Tipp
+Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anmaßend — Anbieter reagieren mit Standardantworten. Empfehlung: nach genauer Use-Case-Beschreibung zusätzlich die rechtlichen Begründungen ("weil wir berufsrechtlich Verschwiegenheitspflichtige sind") konkret benennen.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

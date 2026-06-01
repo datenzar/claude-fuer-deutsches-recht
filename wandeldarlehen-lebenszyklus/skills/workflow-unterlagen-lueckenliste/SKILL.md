@@ -6,7 +6,25 @@ description: "Unterlagen- und Lückenliste im Plugin wandeldarlehen-lebenszyklus
 # Unterlagen- und Lückenliste
 
 ## Aufgabe
-Dieser Workflow-Skill für `wandeldarlehen-lebenszyklus` Unterlagen- und Lückenliste im Plugin wandeldarlehen-lebenszyklus: erstellt eine präzise Nachforderungsliste statt allgemeiner Fragebögen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill erstellt eine konkrete Nachforderungsliste für Wandeldarlehens-Mandate. Vermeidet "Bitte alles schicken"; verlangt gezielt die Bausteine, die für die Lebenszyklus-Bewertung fehlen.
+
+## Pflichtunterlagen
+- **Term Sheet** (final + Vorgängerentwürfe), mit Cap, Discount, Maturity, Trigger.
+- **Convertible Loan Agreement (CLA)** in der jeweils gültigen Fassung.
+- **Cap Table** vor Wandlung + simuliertes Cap Table nach Wandlung (auch Best/Worst Case).
+- **Gesellschaftsvertrag** (Satzung) und Geschäftsordnung Geschäftsführung.
+- **Gesellschafterbeschlüsse** zur Kapitalerhöhung / Wandlung.
+- **Treuhand-/Sperrkonto-Bestätigung** Bank.
+- **Steuerliche Stellungnahme** (KapSt, § 17 EStG, Sachgründungs-Werthaltigkeitsbescheinigung).
+- **Rangrücktritt-Vereinbarung** (§ 39 Abs. 2 InsO) bei drohender Insolvenz / wesentlicher Lebensfähigkeit.
+- **Investorenkommunikation** zur Folge-Runde (Term Sheet, Closing-Termin).
+
+## Lücken-Diagnose
+- Term Sheet ohne Cap / Discount -> nicht vollziehbar.
+- CLA ohne Trigger-Definition (Qualified Financing Mindesthöhe, Lead-Investor-Kriterium) -> Wandlung im Streit.
+- Cap Table ohne Versionsstempel -> nicht reproduzierbar.
+- Kein Rangrücktritt bei drohender Insolvenz -> Anfechtbarkeit § 39 II InsO entfällt.
+- Kein Notarprotokoll für Kapitalerhöhung -> Wandlung nicht eingetragen.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

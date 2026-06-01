@@ -6,7 +6,19 @@ description: "Red-Team Qualitygate im Plugin patentrecherche: prüft das Ergebni
 # Red-Team Qualitygate
 
 ## Aufgabe
-Dieser Workflow-Skill für `patentrecherche` Red-Team Qualitygate im Plugin patentrecherche: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill prüft Recherche-Ergebnisse vor Lieferung an Mandant oder Mandantin auf typische Fehler: unvollständige Suchstrategie, übersehene Klassen, falscher Stichtag, fehlende NPL-Berücksichtigung, Verwechslung Veröffentlichungstyp.
+
+## Red-Team-Punkte Patentrecherche
+- **Suchstrategie dokumentiert?** Datenbank, Datum, Boolean-String, IPC/CPC-Klassen, Sprachen, Trefferzahl, Auswahlbegründung.
+- **IPC + CPC** beide eingesetzt? CPC ist feinere kooperative Klassifikation (EPA/USPTO); reine IPC verliert Recall.
+- **Sprachen breit genug?** Englisch + Deutsch + Französisch + Japanisch + Chinesisch (per maschineller Übersetzung in Espacenet/Patentscope).
+- **Stichtag korrekt?** Prioritätstag (für Neuheit), nicht Anmeldetag, nicht Veröffentlichungstag.
+- **NPL (Non-Patent-Literature) berücksichtigt?** Konferenzbeiträge, Master-/Doktorarbeiten, GitHub-Commits, Whitepaper, Pre-Prints (arXiv) -- können neuheitsschädlich sein.
+- **Veröffentlichungstyp korrekt?** EP -A1 (Offenlegung mit Recherche), -A2 (Offenlegung ohne Recherche), -A3 (Recherche nachgereicht), -B1 (erteilte Fassung), -B2 (Einspruchsänderung).
+- **Statuscheck:** in Kraft, abgelaufen, erloschen, validiert in welchen Ländern?
+- **UPC-Opt-out:** für die Validity-/FTO-Bewertung wichtig: bleibt EPÜ-Patent unter UPC-Zuständigkeit oder Opt-out gemeldet?
+- **Familienanalyse:** Geschwistermarken in anderen Jurisdiktionen, INPADOC-Familie.
+- Falle: aus dem Modell Patentnummern oder Zitate "ergänzen" -- jede Nummer im Register live verifizieren.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

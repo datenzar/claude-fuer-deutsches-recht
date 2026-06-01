@@ -37,3 +37,30 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwenden, wenn die Nutzerin oder der Nutzer den Text selbst bereitstellt; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafzumessung pro Verfahrensstadium Bausteine
+- **Strafbefehl §§ 407 ff. StPO (Vergehen):**
+  - Hoechstrahmen Geldstrafe (regelmaessig 360 TS); Freiheitsstrafe bis 1 Jahr nur **mit Verteidiger und auf Bewaehrung** § 407 II 2 StPO.
+  - Strafzumessung StA-Antrag massgeblich; Gericht kann abweichen ggf. ablehnen (zurueck zur Anklage).
+  - Tagessatz-Hoehe nach Schaetzung Einkommen.
+- **AG Strafrichter § 25 GVG:**
+  - Bis 2 Jahre Freiheitsstrafe; Geldstrafe.
+  - Pruefung Bewaehrung § 56 StGB regelmaessig.
+- **AG Schoeffengericht § 28 GVG:**
+  - Bis 4 Jahre Freiheitsstrafe; bei Anklagen StA, die ueber Strafrichter hinausgehen.
+  - Bewaehrung § 56 StGB; Massregeln § 61 ff. StGB.
+- **LG grosse Strafkammer § 76 GVG:**
+  - Ueber 4 Jahre Freiheitsstrafe; schwere Wirtschaftsstrafsachen, Mehrtaeter, Banden.
+  - Komplexe Strafzumessung mit § 46 StGB-Bilanz; Gesamtstrafe § 55 StGB.
+- **LG Schwurgericht § 74 II GVG:**
+  - Toetungsdelikte §§ 211-222 StGB.
+  - Lebenslange Freiheitsstrafe bei Mord; bei besonders schwerer Schuld Vorbehalt § 57a StGB (15 J. Mindestverbuessung; ggf. lebenslang).
+- **JGG §§ 17, 18:**
+  - Jugendstrafe bei schaedlichen Neigungen / Schwere der Schuld; 6 Monate bis 5 / 10 Jahre.
+  - § 105 JGG bei Heranwachsenden: Jugendrecht / Erwachsenenrecht je nach Reife.
+- **Strafzumessungs-Korridore typisch (Indikativ - regional unterschiedlich, keine Az-Auflistung aus Modellwissen):**
+  - Diebstahl § 242 StGB: regelmaessig Geldstrafe; ab Schaden 1000+ EUR und Wiederholung Freiheitsstrafe diskussiert.
+  - Betrug § 263 StGB: Schaden-Korridor entscheidend; Regelbeispiel § 263 III StGB ab ~50.000 EUR / Bandenmaessigkeit.
+  - Trunkenheit § 316 StGB: idR Geldstrafe + Fahrerlaubnisentzug § 69 StGB.
+  - Koerperverletzung § 223 StGB: Geldstrafe; § 224 (gefaehrlich) regelmaessig Freiheitsstrafe diskutiert.
+- **Verstaendigung § 257c StPO** in allen Stadien moeglich; Korridor verbindlich.

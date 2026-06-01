@@ -37,3 +37,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Deal / Verstaendigung im Strafbefehlsverfahren Bausteine
+- **Rechtsgrundlage Verstaendigung § 257c StPO:** auch im Verfahren nach Strafbefehl mit Einspruch grundsaetzlich anwendbar (analog).
+- **Inhaltsschranken § 257c II StPO:**
+  - **Zulaessig:** Strafrahmen-Korridor (Unter- und Obergrenze); konkreter Tatsachenfeststellungen.
+  - **Unzulaessig:** Verzicht auf Schuldspruch; Massregeln § 257c II 3 StPO; Strafvollstreckungsfragen.
+- **Belehrung § 257c V StPO** als Wirksamkeitsvoraussetzung:
+  - Mandant ueber alle moeglichen Konsequenzen unterrichten.
+  - Bei Verstoss Beweisverwertungsverbot des Gestaendnisses.
+- **Geschaeftsgrundlage Verstaendigung:**
+  - Gestaendnis Angeklagter (regelmaessig vollumfaenglich).
+  - Beweisaufnahme aber nicht ersparbar - Pruefung Glaubhaftigkeit.
+  - Wegfall der Bindung § 257c IV StPO bei neuen erheblichen Umstaenden oder unrichtigen Voraussetzungen.
+- **Vorgehensweise:**
+  - Vorgespraech mit StA / Gericht ausserhalb Hauptverhandlung.
+  - Korridor sondieren (Min - Max Strafmass).
+  - Sondierung schriftliche Zusammenfassung an Mandant fuer Freigabe.
+  - In Hauptverhandlung formell § 257c StPO einbringen.
+- **Beweislast und Beweismittel beim Deal:**
+  - StA traegt weiterhin Beweislast Schuld; Verstaendigung **nicht** Schuldspruch-Ersatz.
+  - Bei Verstaendigung-Bruch (z. B. neue Erkenntnisse) faellt Bindung weg; Gericht muss neu pruefen.
+- **Alternativen zur Verstaendigung:**
+  - **§ 153 StPO Einstellung** wegen Geringfuegigkeit (ohne Auflagen).
+  - **§ 153a StPO Einstellung gegen Auflagen** (Geldbusse, gemeinnuetzige Arbeit, Schadenswiedergutmachung) - **oft strategisch besser** als Verstaendigung, weil keine Verurteilung.
+  - **§ 154 StPO Teilstellung** bei Tatmehrheit.
+- **Rechtsmittelverzicht** nach Verstaendigung idR nicht moeglich (§ 302 I 2 StPO); freier Wille bei Verzicht (BGH-Linie).
+- **Praxis-Tipp:** Verstaendigung schriftlich vorbereiten; im Protokoll Korridor exakt dokumentieren; Belehrung § 257c V StPO als Pflichtbestandteil checken.

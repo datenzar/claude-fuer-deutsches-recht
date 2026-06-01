@@ -21,10 +21,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Arbeitsworkflow
 1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Erstellung** prüfen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DSFA-Erstellung Sonderfall** prüfen.
 3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
 4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## DSFA-Sonderfälle und Edge Cases
+- **DSFA-Pflicht-Trigger (Art. 35 Abs. 3 DSGVO):**
+  - Lit. a: Profiling mit Rechtswirkung oder erheblicher Beeinträchtigung.
+  - Lit. b: umfangreiche Verarbeitung besonderer Datenkategorien (Art. 9) oder strafbezogener Daten (Art. 10).
+  - Lit. c: systematische Überwachung öffentlich zugänglicher Bereiche.
+- **DSK-Liste der DSFA-pflichtigen Verarbeitungen** (Anhang gemäß § 67 BDSG-Konkretisierung): KI-Profiling, Biometrie, Geo-Tracking, Beschäftigtenüberwachung in größerem Umfang.
+- **EuGH-Rechtsprechung:**
+  - C-205/21 (Ministerstvo na vatreshnite raboti): Polizei-Biometrik unterliegt strengen DSGVO-Bewertungsmaßstäben.
+- **Edge Cases:**
+  - **GPAI-Tools für DSFA-Erstellung:** Wenn Verantwortlicher KI-Tool nutzt, um DSFA selbst zu erstellen → Rechenschaftspflicht Art. 5 Abs. 2 nicht automatisch erfüllt; ggf. zusätzliche menschliche Überprüfung.
+  - **Mehrere ähnliche Verarbeitungen:** eine DSFA für gleichartige Verarbeitungen mit ähnlichem Risiko zulässig (Art. 35 Abs. 1 S. 2).
+  - **Konsultationspflicht Art. 36:** bei hohem Restrisiko trotz Maßnahmen — 8 Wochen Frist Aufsicht.
+  - **DSFA für KI-Hochrisiko Art. 26 KI-VO:** wenn KI-VO-Hochrisiko + DSGVO-Hochrisiko, kombinierter Bewertungsprozess möglich.
+
+## Praxis-Tipp
+Bei Sonderfällen, in denen die Verarbeitung nicht eindeutig der DSK-Liste entspricht, lieber eine kurze DSFA-Eingangsbewertung dokumentieren (3-Punkte-Test: Risiko-Trigger, Schutzmaßnahmen, Restrisiko) als nichts zu dokumentieren. Im Audit zählt sichtbare Begründung.
 
 ## Output-Standard
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.

@@ -6,7 +6,21 @@ description: "Rechtsquellen-Livecheck im Plugin tabellenreview-3d: zwingt vor tr
 # Rechtsquellen-Livecheck
 
 ## Aufgabe
-Dieser Workflow-Skill für `tabellenreview-3d` Rechtsquellen-Livecheck im Plugin tabellenreview-3d: zwingt vor tragenden Aussagen zum aktuellen Quellencheck bei Gesetzen, Behörden, Gerichten und Formularen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill erzwingt vor jeder rechtlichen Bewertung tabellarischer Inhalte den Live-Check der relevanten Normen und Bezugsquellen. Tabellen sind oft Datenträger für regulierte Bereiche (Insolvenz, Gesellschaftsrecht, Steuer, Vergaberecht).
+
+## Pflichtquellen je Tabellenart
+- **Insolvenztabelle (§ 174 InsO):** `gesetze-im-internet.de/inso`; Insolvenzgerichts-Praxis; Anmeldeformulare des AG.
+- **Cap Table / Gesellschaftsrecht:** GmbHG, AktG, MoPeG, UmwG; `unternehmensregister.de` für aktuelle Gesellschafterliste.
+- **Forderungs-/Mahnverfahren:** ZPO §§ 688 ff.; `online-mahnantrag.de`.
+- **Steuer-Tabellen:** EStG, KStG, UStG; BMF-Schreiben; ELSTER.
+- **Vergaberecht-Tabellen (Wertungsmatrizen):** GWB §§ 97 ff., VgV, SektVO; OLG-Vergabesenate.
+- **JVEG-Honorartabellen:** § 9 JVEG iVm Anlage 1; KostRÄG-Stand.
+- **GKG-Streitwertkatalog:** `bundesfinanzhof.de` Anlagen; Gerichtskostenkatalog.
+
+## Anti-Halluzinations-Regeln
+- Tabellen mit Rspr.-Verweisen: jeden Az. verifizieren.
+- Wirtschaftsdaten (Umsatz, Marktanteil, Marge): Quelle (Geschäftsbericht, BiSta, Branchenreport) mit Datum.
+- Frist-Datum in Tabelle = Berechnungstag + Frist? Werktag/Kalendertag prüfen; § 188 BGB für Fristberechnung.
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

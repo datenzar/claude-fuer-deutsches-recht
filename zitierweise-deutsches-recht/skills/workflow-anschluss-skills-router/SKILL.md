@@ -6,7 +6,21 @@ description: "Anschluss-Skills Router im Plugin zitierweise-deutsches-recht: sch
 # Anschluss-Skills Router
 
 ## Aufgabe
-Dieser Workflow-Skill für `zitierweise-deutsches-recht` Anschluss-Skills Router im Plugin zitierweise-deutsches-recht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+Dieser Workflow-Skill leitet eingehende Zitiermateralien zu den passenden Spezialskills: Korrekturlauf, Stilcheck (NJW vs. Festschrift vs. Kommentar), Plagiats-Audit, Verlagsstandard-Anpassung, Fußnoten-Konvertierung.
+
+## Routing nach Aufgabentyp
+- **Fertiger Text auf Zitierhygiene prüfen:** -> Stilcheck (Format-Konsistenz), Halluzinations-Scan (Az.-Verifizierung).
+- **Manuskript für Zeitschrift:** -> Verlagsstandard prüfen (NJW: Kurzform; JZ: ausführlich); Pflichtfelder Rspr. + Lit.
+- **Hausarbeit / Diss:** -> ausführliche Belegpflicht; Plagiats-Audit; Quellenverzeichnis nach Autor sortiert.
+- **Schriftsatz / Memo:** -> kompakter Stil; Rspr. mit Az.; Lit. nur tragend.
+- **Konvertierung zwischen Stilen:** Fließtext-Zitat zu Fußnote bzw. umgekehrt.
+- **Norm-Zitierung:** § X Abs. Y S. Z Gesetz; bei Reform-Norm mit Fassungsdatum.
+- **EuGH/EuG:** Datum, Rechtssache (C-/T-Nummer), ECLI; ständige Rspr. mit Leitentscheidung.
+
+## Anti-Muster
+- "Vgl. nur" als Tarnung für ungeprüfte Sammelzitate.
+- Modellwissen für Kommentar-/Aufsatzfundstellen.
+- Stilbruch im selben Werk (BGH NJW 2024, 123 neben "BGH, 12.03.2024, VI ZR 100/23").
 
 ## Kaltstart
 Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:

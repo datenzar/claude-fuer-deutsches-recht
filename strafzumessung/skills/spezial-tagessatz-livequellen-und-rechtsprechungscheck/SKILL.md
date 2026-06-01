@@ -37,3 +37,27 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Tagessatz-Livequellen Bausteine
+- **Rechtsgrundlage Tagessatzsystem § 40 StGB:**
+  - **Anzahl § 40 I StGB:** 5-360 Tagessaetze (bei Gesamtstrafe § 54 StGB bis 720); Indikator fuer **Tatschuld**.
+  - **Hoehe § 40 II StGB:** 1-30.000 EUR pro Tagessatz; Indikator fuer **wirtschaftliche Verhaeltnisse**.
+  - **Regel:** Hoehe = 1/30 des monatlichen Nettoeinkommens (BGH-Linie staendige Rspr.).
+- **Berechnung Nettoeinkommen:**
+  - **Arbeitnehmer:** monatliches Brutto - Steuern - SV-Beitraege - Werbungskosten (Pauschale 1.230 EUR / Jahr) - Versicherungspauschale.
+  - **Selbststaendige:** monatlicher Gewinn aus G+V / Steuerbescheid; ggf. Schaetzung § 40 III StGB.
+  - **Rentner:** Bruttorente - Steuern (KV-Anteil als Sonderausgabe).
+  - **Buergergeld-Empfaenger:** Regelbedarf + KdU als "Einkommen" - oft 1/30 = 30-50 EUR/TS (BGH-Linie zur Existenzminimum-Wahrung).
+  - **Selbststaendige mit schwankendem Einkommen:** Durchschnitt letzter 12 Monate; § 40 III StGB Schaetzung bei fehlender Datenbasis.
+- **Reduktionsbeleg-Strategie:**
+  - Lohnabrechnungen 3 Monate.
+  - Steuerbescheid letztes Jahr.
+  - BWA / G+V Selbststaendige.
+  - Unterhaltspflichten (Titel oder Vereinbarung; abzugsfaehig vom Netto).
+  - Krankheit / Kurzarbeit / ALG-Bezug.
+- **Live-Pruefung bei spezial Konstellationen:**
+  - **Hauseigentuemer ohne Hypothekenbelastung:** fingiertes Mieteinkommen?
+  - **Vermoegen (Sparbuch / Wertpapiere):** keine direkte Anrechnung, aber Indiz wirtschaftlicher Leistungsfaehigkeit (BGH).
+  - **Familienmitglieder:** Unterhaltsverpflichtungen mindern Tagessatz.
+- **Rechtsmittel:** Bei zu hoher Tagessatzfestsetzung Berufung § 314 StPO oder Revision § 337 StPO wegen Verletzung § 40 II StGB.
+- **Praxis-Tipp:** Antrag Ratenzahlung § 42 StGB (bis 5 Jahre Ratenzahlung); ggf. gemeinnuetzige Arbeit § 43 StGB statt Ersatzfreiheitsstrafe.

@@ -37,3 +37,19 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Akteneinsicht / internationaler Bezug Bausteine
+- **Rechtsgrundlage Akteneinsicht im OWi-Verfahren:** § 49 OWiG i.V.m. § 147 StPO; Anspruch des Verteidigers / Betroffenen.
+- **BVerfG-Linie zur Akteneinsicht** und fair-trial-Garantie (Art. 6 EMRK i.V.m. Art. 20 III GG): umfassender Anspruch auf alle die Verteidigung betreffenden Unterlagen, insbesondere Messdaten / Rohdaten bei standardisierten Messverfahren.
+- **OLG-Linien zu Rohdaten:** zunehmend Anerkennung des Anspruchs (insb. Saarland VerfGH, OLG Frankfurt); bei Verweigerung Verfassungsbeschwerde / RB §§ 79, 80 OWiG.
+- **Inhalte Akte umfassend:** Messprotokoll, Messfoto, Lebensakte Geraet, Eichschein, Bedienerschein, Schulungsnachweis, Rohdaten (.case / .esa / .traf), Statistikdatei, Bedienungsanleitung des Geraets in geltender Fassung.
+- **Verweigerungsstrategie der Behoerde** typisch: "Rohdaten gehoeren nicht zur Akte"; "Herstellergeheimnis"; "Nicht in Behoerdenbesitz". **Gegenargumente:**
+  - § 49 OWiG i.V.m. § 147 StPO umfassend.
+  - BVerfG fair-trial: alles, was Verteidigung betrifft.
+  - Hersteller-Geheimnis steht Strafverteidigung nicht entgegen.
+  - Behoerde muss Rohdaten beim Hersteller / Polizei beschaffen.
+- **Internationale Konstellationen:**
+  - **EU-Verkehrsverstoss** im Inland: deutsches Recht; Vollstreckung im Heimatstaat nach RB 2005/214/JI ueber gegenseitige Anerkennung Geldsanktionen (Rahmenbeschluss; in DE umgesetzt §§ 84 ff. OWiG-Vollstreckung).
+  - **Ausland-Verkehrsverstoss** durch deutschen Halter: anderes Land massgeblich; Vollstreckung gegen Halter in Deutschland nur ueber Rahmenbeschluss / Abkommen.
+  - **Akteneinsicht im Ausland**: nationales Recht; ggf. ueber EuRhilfe-Verordnung 2017/1939 oder Europaeische Ermittlungsanordnung RL 2014/41/EU.
+- **Praxis-Tipp:** Akteneinsicht sofort schriftlich beantragen; bei Verweigerung Antrag auf gerichtliche Entscheidung; bei Hauptverhandlung Beweisantrag § 244 StPO i.V.m. § 71 OWiG auf Vorlage Rohdaten / Bedienungsanleitung; bei Verweigerung Vorlagebeschluss anregen.

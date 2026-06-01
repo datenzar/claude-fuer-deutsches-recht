@@ -37,3 +37,29 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Widersprueche / Beweislast Bausteine (Strafrecht)
+- **Beweisgrundsatz im Strafverfahren - Unschuldsvermutung:**
+  - Art. 6 II EMRK, RL 2016/343/EU; Art. 20 III GG.
+  - Beweislast vollstaendig bei StA: jeder Tatbestandsmerkmal, jede Schuldfaehigkeit, jede Rechtswidrigkeit (im Zweifel: in dubio pro reo).
+  - **Keine** Darlegungs- oder Beweislast des Beschuldigten - er kann schweigen (§ 136 I 2 StPO).
+- **Substantiierungspflicht der Anklage § 200 StPO:**
+  - Anklageschrift muss Tatvorwurf konkret bezeichnen (Tatzeit, Tatort, Geschehensablauf).
+  - Bei mangelnder Substantiierung Einwendungen § 201 StPO; Ablehnung Eroeffnungsbeschluss.
+- **Beweiswuerdigung § 261 StPO** (freie richterliche Ueberzeugung):
+  - Voraussetzung: persoenliche, vorbehaltlose Ueberzeugung des Gerichts.
+  - In dubio pro reo: bei Restzweifeln Freispruch.
+  - Beweiswuerdigungsmaengel sind Revisionsgrund § 337 StPO.
+- **Widerspruchspruefung Aussagen:**
+  - **Aussagepsychologische Analyse** (Realkennzeichen vs. Phantasie-Indikatoren).
+  - **Konstanz** ueber mehrere Vernehmungen.
+  - **Detailtiefe** (Quantum / Qualitaet konkreter Wahrnehmungselemente).
+  - **Aussageentstehung** (suggestive Befragung, Sekundaer-Erinnerung).
+- **Beweisantraege § 244 StPO** zur Widerlegung:
+  - Beweisantragsteller-Pflicht Konkretisierung Beweismittel + Beweisthema.
+  - Ablehnung nur aus engen Gruenden § 244 III StPO.
+- **Hilfsbeweisantraege:** fuer Eventualfall Verurteilung.
+- **Praxis-Tipp:**
+  - Widerspruchsmatrix mit Aussage 1 | Aussage 2 | objektiv beweise | Widerspruch | Verteidigungsansatz.
+  - Pruefung ob Beweisverwertungsverbote auch ohne Widerspruch zu beruecksichtigen sind (rechtsstaatliche Eingriffsintensitaet; BGH-Linie).
+  - **§ 257 StPO Widerspruch** in Hauptverhandlung gegen Beweisverwertung Belehrungsmaengel-Beweise.

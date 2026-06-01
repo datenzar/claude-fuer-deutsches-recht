@@ -37,3 +37,30 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Strafakte-Erkennen / Red-Team Bausteine
+- **Luecken in Anklageschrift erkennen § 200 StPO:**
+  - Anklagesatz: Tat (Zeit, Ort, gesetzliche Merkmale), Beweismittel.
+  - Wesentliches Ergebnis Ermittlungen.
+  - Beweismittelverzeichnis vollstaendig?
+  - Anwendbare Strafvorschriften korrekt?
+  - **Defekte:** Tatzeitraum unscharf, Verbindungsstelle Mehrtaeter unklar, Schaden nicht beziffert, Beweismittel unvollstaendig.
+- **Widerspruchspruefung Beweismittel:**
+  - Beschuldigtenaussage vs. Polizeibericht.
+  - Zeugen untereinander (zeitlich, raeumlich, inhaltlich).
+  - Objektive Beweise (Lichtbilder, Spuren, Gutachten) vs. Aussagen.
+  - Gutachten-Schluss vs. Befundtatsachen.
+- **Verfahrensfehler-Red-Team:**
+  - **§ 136 StPO Belehrung:** im Vernehmungsprotokoll dokumentiert? Bei wiederholter Vernehmung qualifizierte Belehrung?
+  - **§ 105 StPO Durchsuchung:** richterlicher Beschluss vorhanden? Gefahr im Verzug eng zu fassen (BVerfG-Linie).
+  - **§ 114 StPO Haftbefehl:** dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit korrekt begruendet?
+  - **§ 100a StPO TKUe:** Katalogtatvoraussetzung, Subsidiaritaet, Befristung, richterliche Anordnung?
+- **Beweisverwertungsverbote erkennen:**
+  - § 136a StPO verbotene Vernehmungsmethoden (Drohung, Versprechen, Tauschung).
+  - § 252 StPO Sperrwirkung bei Zeugnisverweigerung Angehoeriger.
+  - Belehrungsmaengel (BGH-Linie zur qualifizierten Belehrung).
+- **Qualitaetscheck Akteneinsicht:**
+  - Vollstaendige Akte erhalten (alle Beiakten)?
+  - Vermerk "vertraulich" unbeachtlich - § 147 StPO umfassend.
+  - **Verweigerung** -> Antrag gerichtliche Entscheidung § 147 V 2 StPO.
+- **Anschluss:** beweisverwertungsverbote, durchsuchungsbeschluss-pruefung, revisionsruege-vorbereiten.
