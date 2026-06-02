@@ -112,6 +112,36 @@ Wenn vier Voraussetzungen NICHT erfüllt:
 ► Vorher Klausel ändern wäre besser gewesen.
 ```
 
+### Memo-Baustein "Rangrücktritts-Klausel-Audit"
+
+```
+Memo: Audit Rangrücktrittsklausel — § 5 Abs. 2a EStG-Risiko
+
+I. Sachverhalt
+Die Mandantin hat im Wj X-Y einen Rangrücktritt
+durch den Gesellschafter [Name] über EUR [Betrag]
+vereinbart. Der Wortlaut ist:
+"[Originalzitat aus dem Rangrücktrittsvertrag]"
+
+II. Prüfung § 5 Abs. 2a EStG
+Tilgungsabrede umfasst:
+[ ] freies Vermögen (sicher)
+[ ] zukünftige Gewinne (kritisch wenn allein)
+[ ] zukünftige Einnahmen (kritisch wenn allein)
+[ ] Liquidationsüberschuss (BFH-Linie streng — prüfen)
+
+III. Ergebnis
+[Wenn alle Quellen erfasst, insb. freies Vermögen:
+   § 5 Abs. 2a EStG-Risiko gering — Verbindlichkeit bleibt]
+[Wenn nur Gewinne/Einnahmen:
+   § 5 Abs. 2a EStG-Risiko hoch — Auflösung droht]
+
+IV. Empfehlung
+[Klausel-Anpassung durch Nachtragsvereinbarung]
+[Versand mit Empfangsbestätigung]
+[Stichtag und Wirksamwerden dokumentieren]
+```
+
 ## Typische Fehler
 
 - Rangrücktrittsklausel "nur aus zukünftigen Gewinnen" gewählt; § 5 Abs. 2a EStG-Auflösung übersehen.

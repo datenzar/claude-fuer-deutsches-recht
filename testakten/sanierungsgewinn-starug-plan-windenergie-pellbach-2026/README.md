@@ -1,0 +1,109 @@
+# Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)
+
+## Plugin-Referenz
+
+Diese Testakte deckt die steuerlichen Aspekte einer vorinsolvenzlichen StaRUG-Sanierung mit Forderungsverzicht und Debt-Equity-Swap ab. Sie verzahnt drei Plugins:
+
+- `steuerrecht-anwalt-und-berater` (§ 3a EStG, § 7b GewStG, Debt-Equity-Swap-Bewertung, § 8c/§ 8d KStG)
+- `insolvenzrecht` (StaRUG-Planverfahren §§ 31 ff. StaRUG, Restrukturierungsbeauftragter, Plan-Wirksamkeit)
+- `grosskanzlei-corporate-ma` (Banken-Konsortium, DES-Strukturierung, verbindliche Auskunft, EU-Beihilfe)
+
+Schwerpunkt-Skills (Auswahl):
+
+- `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-3a-estg-grundtatbestand`
+- `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
+- `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
+- `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
+- `/steuerrecht-anwalt-und-berater:stb-sanierungsgewinn-verlustvortrag-sanity-check`
+- `/insolvenzrecht:insol-sanierungsgewinn-3a-estg-im-starug-plan`
+- `/insolvenzrecht:insol-sanierungsgewinn-debt-equity-swap-im-plan`
+- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
+- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
+- `/grosskanzlei-corporate-ma:gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
+
+## Mandantin und Verfahren
+
+| Punkt | Inhalt |
+|---|---|
+| Schuldnerin | Pellbach Windenergie GmbH, Pueckler-Allee 12, 03048 Cottbus |
+| Sitz / Handelsregister | HRB 28811 AG Cottbus |
+| Mitarbeiter | 180 |
+| Branche | Windkraftanlagen-Wartung, Service und Repowering, Brandenburg/Mecklenburg-Vorpommern |
+| Umsatz 2024 | 90 Mio EUR |
+| Umsatz 2025 (vorlaeufig) | 64 Mio EUR (Rueckgang 29 %) |
+| StaRUG-Anzeige | 14.03.2026 (§ 31 StaRUG) AG Cottbus, Restrukturierungsgericht |
+| Aktenzeichen StaRUG | 92 RES 14/26 |
+| Restrukturierungsbeauftragter | Dr. Andreas Vellenbach, Vellenbach + Cie, Berlin |
+| Restrukturierungsplan | §§ 4 ff. StaRUG; Plan-Vorlage 30.05.2026; Abstimmung 24.06.2026; Bestaetigung 02.07.2026 |
+| Forderungsverzicht im Plan | 22.000.000 EUR (Banken-Konsortium) |
+| Debt-Equity-Swap | 8.000.000 EUR (Banken-Anteile 35 %) |
+| Stundung | 5.000.000 EUR (Banken; 36 Monate) |
+| Verlustvortrag KSt | 6.000.000 EUR |
+| Verlustvortrag GewSt | 9.000.000 EUR |
+| Verbleibender Sanierungsertrag KSt nach § 3a III EStG | 16.000.000 EUR (steuerbefreit ueber § 3a EStG) |
+| Verbleibender Sanierungsertrag GewSt nach § 7b GewStG | 13.000.000 EUR (steuerbefreit ueber § 7b GewStG) |
+| Konfliktpunkt | DES-Bewertung; § 8c KStG-Risiko durch Anteilsuebertragung > 50 %; § 8d KStG-Antrag |
+
+## Aktenzeichen
+
+| Gericht / Behoerde | Aktenzeichen |
+|---|---|
+| AG Cottbus — Restrukturierungssache | 92 RES 14/26 |
+| Finanzamt Cottbus | StNr. 062/110/47728; Vorgang StaRUG 2026/14 |
+| Gewerbesteueramt der Stadt Cottbus | 51-StA-14-2026 |
+| FG Berlin-Brandenburg — Hilfsaufruf | (noch nicht anhaengig) |
+
+## Krisenverlauf
+
+Q4/2024: EEG-Reform (EEG 2024) reduziert Anschlussverguetung um 18 % fuer Bestandsanlagen ohne Direktvermarktung; Strompreis-Volatilitaet senkt Spot-Margen; Q1/2025: Hauptkunde EnertraGo SE storniert Wartungsvertrag 4,2 Mio EUR p.a. wegen Insourcing; Q2-Q3/2025: weitere Kuendigungen mit Volumen 8 Mio EUR p.a.; Q4/2025: Umsatzrueckgang 35 %; Liquiditaetskrise; Q1/2026: drohende Zahlungsunfaehigkeit (§ 18 InsO); 14.03.2026 StaRUG-Anzeige.
+
+## Steuerlicher Knackpunkt
+
+Der Sanierungsertrag aus Forderungsverzicht (22 Mio EUR) uebersteigt deutlich die Verlustvortraege (KSt 6 Mio EUR, GewSt 9 Mio EUR). Es verbleibt ein verbleibender Sanierungsertrag von 16 Mio EUR (KSt) bzw. 13 Mio EUR (GewSt), der ueber § 3a EStG bzw. § 7b GewStG steuerfrei zu stellen ist.
+
+Hauptproblematik:
+
+1. **Debt-Equity-Swap (DES) 8 Mio EUR.** Banken-Konsortium uebernimmt 35 % der Anteile gegen Verzicht auf Forderungen. Steuerlich: Werthaltige Forderung wird in Einlage umgewandelt; Sanierungsertrag entsteht nur, soweit Forderung nicht werthaltig war. Bewertung der Werthaltigkeit ist Streitpunkt.
+2. **§ 8c KStG-Risiko.** Anteilsuebertragung 35 % an Banken-Konsortium ueberschreitet die 25 %-Schwelle des § 8c Abs. 1 Satz 1 KStG. Anteiliger Verlustvortrag (6 Mio EUR KSt) geht teilweise unter. § 8d KStG-Antrag (fortfuehrungsgebundener Verlustvortrag) als Schutzmassnahme.
+3. **§ 8c Abs. 1a KStG (Sanierungsklausel) revitalisiert?** EU-Beihilfeproblematik; Pruefung im Plan-Dokument.
+
+## Aktenstruktur
+
+```
+sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
+├── README.md                                                       ← Diese Datei
+├── 00_aktenuebersicht.md
+├── 01_mandatsnotiz_geschaeftsfuehrer_pellbach.md
+├── 02_starug-anzeige_31_starug_ag_cottbus.md
+├── 03_restrukturierungsplan_4_ff_starug_eckpunkte.md
+├── 04_banken-konsortium_verzichts-und-des-vereinbarung.md
+├── 05_sanierungsertragsberechnung_22mio_plus_des.md
+├── 06_8c_kstg_risiko_und_8d_kstg_antrag.md
+├── 07_3a_iii_estg_verrechnung_und_sanierungsertrag_pruefung.md
+├── 08_3a_iv_estg_antrag_finanzamt_cottbus.md
+├── 09_7b_gewstg_parallelantrag.md
+├── 10_verbindliche_auskunft_89_ao_vor_planbestaetigung.md
+├── 11_fg_koeln_12k1413_25_und_starug_planbestaetigung.md
+├── 12_rb_haftung_und_sachwalter_aufgaben.md
+├── 13_szenario_starug_plan_mit_vs_ohne_des.md
+├── 14_mandantenbrief_pellbach_glasklar_steuern.md
+├── 15_finanzplan_und_liquiditaetsmatrix_2026.csv
+└── 16_glaeubigerverzeichnis_starug.csv
+```
+
+## Quellennachweis (Rechtsnormen und Rechtsprechung)
+
+- § 3a EStG — Steuerfreiheit Sanierungsertrag: https://dejure.org/gesetze/EStG/3a.html
+- § 3a Abs. 3 EStG — zwingende Verrechnungsreihenfolge
+- § 3a Abs. 4 EStG — Antrag und Bindungswirkung
+- § 7b GewStG i.V.m. § 36 Abs. 2c GewStG — gewerbesteuerliche Parallelregelung: https://dejure.org/gesetze/GewStG/7b.html
+- § 8c KStG — schaedlicher Beteiligungserwerb: https://dejure.org/gesetze/KStG/8c.html
+- § 8c Abs. 1a KStG — Sanierungsklausel
+- § 8d KStG — fortfuehrungsgebundener Verlustvortrag: https://dejure.org/gesetze/KStG/8d.html
+- §§ 4 ff. StaRUG — Restrukturierungsplan: https://dejure.org/gesetze/StaRUG
+- § 31 StaRUG — Anzeige des Restrukturierungsvorhabens
+- § 89 AO — Verbindliche Auskunft: https://dejure.org/gesetze/AO/89.html
+- § 18 InsO — drohende Zahlungsunfaehigkeit: https://dejure.org/gesetze/InsO/18.html
+- FG Koeln, Urteil v. 04.11.2025 — 12 K 1413/25 (zur Antragstellung § 3a IV EStG)
+- BFH, Urteil v. 26.02.2003 — II R 19/01 (Verbindlichkeiten bleiben ueber Liquidation hinaus)
+- OFD Frankfurt a. M. (Liquidationsbeschluss kein konkludenter Verzicht)

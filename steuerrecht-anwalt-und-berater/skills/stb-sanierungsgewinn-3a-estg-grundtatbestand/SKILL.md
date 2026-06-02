@@ -108,6 +108,45 @@ verbleibender Sanierungsertrag (steuerbefreit gem.
 § 3a Abs. 1 EStG bei Antrag § 3a Abs. 4 EStG)         EUR [A-B-C]
 ```
 
+### Subsumtionsmuster Vier Voraussetzungen — Gutachtenformat
+
+```
+A. Sanierungsbedürftigkeit
+Die Sanierungsbedürftigkeit setzt voraus, dass das
+Unternehmen ohne Sanierungsmaßnahmen mit hoher Wahr-
+scheinlichkeit insolvent würde. Hier liegen folgende
+Indikatoren vor:
+- Eigenkapital negativ in Höhe von EUR [...]
+- Liquiditätslücke binnen [Frist] absehbar
+- Verlustreihe Wj X-3 bis X-1: EUR [...]
+► Sanierungsbedürftigkeit liegt vor.
+
+B. Sanierungsfähigkeit
+Mit den geplanten Maßnahmen — siehe IDW-S-6-Konzept vom
+[Datum] (Anlage [...]) — ist eine Fortführung des
+Unternehmens überwiegend wahrscheinlich. Die integrierte
+Planung 24 Monate weist [...].
+► Sanierungsfähigkeit liegt vor.
+
+C. Sanierungsabsicht der Gläubiger
+Die Gläubiger haben mit Schreiben vom [Datum] aus-
+drücklich erklärt, dass der Verzicht zum Zweck der
+Sanierung erfolgt. Die Erklärungen entsprechen den
+Anforderungen des BMF-Schreibens vom 27.04.2017.
+► Sanierungsabsicht liegt vor.
+
+D. Sanierungseignung
+Die Maßnahmen sind quantitativ und qualitativ geeignet,
+die Krise der Mandantin nachhaltig zu beseitigen. Im
+Maßnahmenkatalog (Anlage [...]) sind [...].
+► Sanierungseignung liegt vor.
+
+E. Ergebnis
+§ 3a Abs. 1 EStG ist anwendbar. Antrag § 3a Abs. 4 EStG
+wird gestellt; § 3c Abs. 4 EStG-Verlustreihenfolge wird
+beachtet; parallel § 7b GewStG-Antrag.
+```
+
 ## Typische Fehler
 
 - Sanierungsabsicht nur mündlich; FA lehnt ab.

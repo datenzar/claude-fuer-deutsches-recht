@@ -143,4 +143,5 @@ Hinzu kommen Nebenfolgen:
 - § 10d Abs. 2 EStG (Mindestbesteuerung), § 8 Abs. 1 KStG.
 - § 11 KStG.
 - § 7b GewStG; § 36 Abs. 2c GewStG.
-- BFH-Rspr. zu § 5 Abs. 2a EStG bei qualifiziertem Rangruecktritt (Aktualitaet vor Anwendung pruefen).
+- BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279 (zur Anwendung des § 5 Abs. 2a EStG bei qualifiziertem Rangruecktritt).
+- BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450 (zur wirtschaftlichen Belastung als Passivierungsvoraussetzung).

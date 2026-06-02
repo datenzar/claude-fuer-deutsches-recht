@@ -97,6 +97,20 @@ GmbH solvent, Darlehen 2,4 Mio EUR mit Rangruecktritt „Tilgung nur aus zukuenf
 
 GmbH solvent, Darlehen 2,4 Mio EUR, Gesellschafterin erklaert ausdruecklich Verzicht (§ 397 BGB). Folge: Sofortige Ausbuchung mit Sanierungsertrag in der Periode des Verzichts; § 3a EStG nicht anwendbar (Liquidation). Voll steuerpflichtig bei der GmbH; auf Gesellschafterebene § 17 Abs. 4 EStG-Spiegel.
 
+## Typische Fehler
+
+- Reflexartig § 3a EStG-Antrag gestellt — Sanierungseignung in Liquidation kaum darstellbar; Ablehnung erwartbar.
+- Klauseltext nicht im Originalwortlaut geprueft; nur Etikett "qualifizierter Rangruecktritt" verwendet.
+- BFH-Revisionsstand nicht aktualisiert; veraltete Argumentation.
+- Liquidator versaeumt Steuererklaerung Abwicklungszeitraum (§ 11 KStG) — § 69 AO-Haftung.
+- § 17 Abs. 4 EStG-Spiegel auf Gesellschafterebene nicht parallel geltend gemacht.
+
+## Praxistipps der alten Hasen — Ergaenzung
+
+- **Verbindliche Auskunft § 89 AO mit FG-Koeln-Bezug.** Wenn das FA der Linie folgt, wird der Antrag haeufig positiv beschieden; aktuelle OFD-Verfuegungen vorab pruefen.
+- **Sperrjahr ausnutzen.** Das Sperrjahr nach § 73 GmbHG (mindestens 1 Jahr nach Bekanntmachung des Glaeubigeraufrufs) gibt Zeit, die Strategie zu finalisieren.
+- **Loeschungsantrag erst nach Steuerakte.** Vor Loeschung sollten die FA-Verfahren abgeschlossen oder die Bescheide bestandskraeftig sein, um die Vollbeendigung nicht zu blockieren.
+
 ## Querverweise
 
 - `stb-sanierungsgewinn-3a-estg-grundtatbestand`

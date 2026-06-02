@@ -130,10 +130,9 @@ Steuerlich vergleichbar mit Szenario B. Unterschied: Der Ertrag entsteht **zeitl
 ## 9. Quellenverzeichnis
 
 - § 397 BGB.
-- § 17 EStG, § 17 Abs. 4 EStG.
-- § 3 Nr. 40c EStG (Teileinkuenfteverfahren).
-- BFH, Urteil v. 11.07.2017 — IX R 36/15 (Aktualitaet pruefen; Aenderung der Eigenkapitalersatzregeln in § 17 EStG-Kontext).
-- BFH, Urteil v. 20.07.2018 — X R 5/16 (Folgeurteil).
+- § 17 EStG, § 17 Abs. 2a EStG (Reform 2019), § 17 Abs. 4 EStG.
+- § 3 Nr. 40c EStG; § 3c Abs. 2 EStG (Teileinkuenfteverfahren).
+- BFH, Urteil v. 11.07.2017 — IX R 36/15, BStBl. II 2019, 208 (Aenderung der Eigenkapitalersatzregeln in § 17 EStG-Kontext; vor Anwendung auf Mandantenfall verifizieren).
 - § 8 Abs. 3 KStG (verdeckte Einlage).
 - § 11 KStG.
 - § 7b GewStG.

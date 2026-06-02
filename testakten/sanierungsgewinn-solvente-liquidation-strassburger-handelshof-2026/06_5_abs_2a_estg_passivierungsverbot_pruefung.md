@@ -99,8 +99,38 @@ Die Verbindlichkeit ueber 2,4 Mio. EUR ist in der Steuerbilanz der Strassburger 
 
 ## VIII. Quellen
 
+### Normen
+
 - **§ 5 Abs. 2a EStG** (Wortlaut, geltendes Recht).
-- **BFH, Urt. v. 26.02.2003 — II R 19/01**, BFHE 201, 446; BStBl. II 2003, 502 — zitierfaehig (Aktenstueck 07).
-- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11**, GmbHR 2012, 977 (Aktenstueck 16).
-- OFD Frankfurt a. M. — Verfuegung zur Behandlung des Liquidationsbeschlusses (Aktenstueck 07; Aktualitaet vor Verwendung zu pruefen).
-- Spezialliteratur zur Behandlung des qualifizierten Rangruecktritts: vom Mandanten zu pruefen / aus lizenzierten Datenbanken zu verifizieren.
+- § 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG (Nennwertbewertung).
+- § 11 KStG (Liquidationsbesteuerung).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung zu § 5 Abs. 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung (wirtschaftliche Belastung).
+- **BFH, Urt. v. 26.02.2003 — II R 19/01**, BFHE 201, 446; BStBl. II 2003, 502 (Aktenstueck 07).
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (Aktenstueck 16).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln 13 K 3006/11; Streitstand „nicht evident rechtsfehlerhaft".
+- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung der Gesellschaft gegen Gesellschafter.
+- **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264** — Streitfrage diskussionswuerdig.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung der Darlehensverbindlichkeiten im Abwicklungsendvermoegen; Tz. 1.2-1.4.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgaengerverfuegung.
+
+### Literatur (gegen gewinnerhoehende Ausbuchung — herrschende Linie)
+
+- Bergmann, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.
+- Dietrich/Weber, DStR 2019, 966, 970.
+- Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, § 11 Rn. 78.
+- Maschlanka, in: Heyd/Kautenburger-Behr/Wind, Bilanzierung und Besteuerung in Krise und Insolvenz, 2019, Rn. 1023.
+- Mayer/Betzinger, DStR 2014, 1573.
+- Stalbold, in: Gosch, KStG, § 11 Rn. 72.
+- Micker, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
+
+### Literatur (Gegenposition)
+
+- S. Neumann, in: Blumenberg/Neumann, Ubg 2016, 256, 257 f.
+- Brinkmann, StBp 2021, 246, 250.
