@@ -91,6 +91,8 @@ Sicherheit deckt die Forderung. Kein Verzicht — Forderung wird aus Sicherheit 
 
 In allen weiteren Berechnungen dieser Akte wird der **steuerlich relevante Sanierungsertrag mit 38.000.000 EUR** angesetzt, weil die im Mandat festgelegten Zahlen so vorgegeben sind. Die Einlage-Korrektur von 4 Mio EUR wird **gesondert geprueft** und in einem Nachtragsmemo (Aktenstueck 11) thematisiert.
 
+**Plan-B-Pfad (Liquidationsszenario):** Sollte der Plan scheitern und die Schuldnerin in eine Liquidation uebergehen, ist fuer das nachrangige Gesellschafterdarlehen Friedhelm Grossbach (4 Mio EUR) **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014**) relevant: Das Darlehen bleibt bis zur Loeschung im Handelsregister passiviert; der dadurch rechtstheoretisch entstehende Gewinn ist mangels Koerperschaftsteuersubjekt nicht festsetzbar. § 5 Abs. 2a EStG (**BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279**) greift nicht, soweit der Rangruecktritt nicht auf reine Zukunftsgewinne abstellt. Vertiefte Darstellung im Spezial-Skill `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten`.
+
 **Aktueller Arbeitsstand:**
 
 - Sanierungsertrag (rechnerische Plan-Basis): **38.000.000 EUR**

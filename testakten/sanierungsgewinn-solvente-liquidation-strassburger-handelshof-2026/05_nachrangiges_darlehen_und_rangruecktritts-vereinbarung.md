@@ -102,12 +102,14 @@
 Hier liegt der **steuerliche Konfliktpunkt**.
 
 - **§ 5 Abs. 2a EStG**: "Fuer Verpflichtungen, die nur zu erfuellen sind, soweit kuenftige Einnahmen oder Gewinne anfallen, sind Verbindlichkeiten oder Rueckstellungen erst anzusetzen, wenn die Einnahmen oder Gewinne angefallen sind."
-- Bei einem **qualifizierten Rangruecktritt mit ausschliesslichem Tilgungsvorbehalt aus kuenftigen Gewinnen** greift das Passivierungsverbot nach staend. Rspr. (vgl. BFH, Urteile dazu — fuehrend BFH zur Behandlung des Rangruecktritts seit 2015).
+- Bei einem **qualifizierten Rangruecktritt mit ausschliesslichem Tilgungsvorbehalt aus kuenftigen Gewinnen** greift das Passivierungsverbot nach staend. Rspr.; maszgebend ist nun **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279**.
 - Bei einem **Rangruecktritt mit zusaetzlichem Tilgungsvorbehalt aus sonstigem freien Vermoegen** ist die Lage anders: Die Verbindlichkeit ist auch aus *bereits vorhandenem* freien Vermoegen tilgbar, daher greift § 5 Abs. 2a EStG **nicht**; die Verbindlichkeit bleibt steuerbilanziell **passiviert**.
 
 Im vorliegenden Vertrag (§ 2 Abs. 2 lit. c der Aenderungsvereinbarung 2021) ist die Tilgung auch aus *sonstigem freien Vermoegen* der GmbH vorgesehen, das nach Befriedigung anderer Glaeubiger noch vorhanden ist. Damit ist eine Tilgung **nicht** ausschliesslich an *kuenftige Gewinne* gebunden.
 
 **Vorlaeufige Einschaetzung:** § 5 Abs. 2a EStG greift **nicht**, die Verbindlichkeit bleibt steuerbilanziell passiviert. Dies entspricht der ueblichen Praxis bei qualifiziertem Rangruecktritt **mit Tilgungsvorbehalt aus freiem Vermoegen** (im Unterschied zur engen "Nur-aus-zukuenftigen-Gewinnen"-Variante).
+
+Ergaenzend: Die allgemeinen Passivierungsvoraussetzungen nach **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** (bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung) sind erfuellt. Die Bewertung erfolgt nach **§ 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG** mit dem **Nennwert** von 2.400.000 EUR.
 
 Detaillierte Pruefung: **Aktenstueck 06**.
 

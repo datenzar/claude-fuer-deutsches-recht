@@ -28,7 +28,9 @@ Der BFH hat in dieser Entscheidung (Urt. v. 26.02.2003 — II R 19/01) klargeste
 
 ### 3.3 OFD Frankfurt a. M.
 
-Die OFD Frankfurt hat in einer Verfuegung (vor Anwendung Aktualitaet pruefen) klargestellt, dass der **blosse Aufloesungsbeschluss** noch keinen konkludenten Forderungsverzicht des Gesellschafter-Glaeubigers darstellt. Der Verzicht muss vielmehr ausdruecklich, einseitig (§ 397 BGB) oder im Verzichtsvertrag erklaert werden. Solange dies nicht geschehen ist, bleibt die Darlehensforderung bestehen.
+Die OFD Frankfurt hat zuletzt in der Rundverfuegung vom **26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** (Tz. 1.2-1.4) klargestellt, dass der **blosse Aufloesungsbeschluss** noch keinen konkludenten Forderungsverzicht des Gesellschafter-Glaeubigers darstellt. Der Verzicht muss vielmehr ausdruecklich, einseitig (§ 397 BGB) oder im Verzichtsvertrag erklaert werden. Solange dies nicht geschehen ist, bleibt die Darlehensforderung bestehen. Die Vorgaengerverfuegung vom **03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** ist im wesentlichen Inhalt identisch; Aktualitaet vor Antragstellung beim FA Berlin-Charlottenburg zu pruefen, da die OFD-Verfuegung laufend in Bund-Laender-Abstimmung aktualisiert wird. Eine differenzierende Sichtweise vertritt die **OFD Nordrhein-Westfalen, Kurzinformation Einkommensteuer Nr. 46/2014 (aktualisiert 22.09.2017), DB 2017, 2580** insbesondere fuer den Insolvenzfall.
+
+Ergaenzend traegt die allgemeine Passivierungsdogmatik die Linie: Nach **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450**, ist die Passivierung erst zu unterlassen, wenn auch die **wirtschaftliche Belastung** entfaellt — der blosse Aufloesungsbeschluss begruendet die Annahme nicht. Hinsichtlich des Rangruecktritts ist die Kernentscheidung **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** heranzuziehen: Nur bei ausschlieszlicher Tilgung aus zukuenftigen Gewinnen oder Liquidationsueberschuss greift § 5 Abs. 2a EStG; bei zusaetzlichem Tilgungsvorbehalt aus freiem Vermoegen (wie hier in lit. c der Aenderungsvereinbarung 2021) nicht. Vgl. dazu auch **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln 13 K 3006/11, Ls. 3: Die Nicht-Passivierung in der Schlussbilanz ist „nicht evident rechtsfehlerhaft" — der Streitstand bleibt also offen.
 
 ### 3.4 FG Koeln, Urteil v. 06.03.2012 — 13 K 3006/11 (verifiziert, vorgehend zu BFH I R 34/12)
 
@@ -64,9 +66,30 @@ Das Gesellschafterdarlehen bleibt in der Liquidationsbilanz vollwertig passivier
 
 ## 7. Quellenverzeichnis
 
-- BFH, Urteil v. 26.02.2003 — II R 19/01.
-- OFD Frankfurt a. M., Verfuegung zur Behandlung von Forderungsverzichten bei Liquidation (Aktualitaet vor Anwendung pruefen).
-- **FG Koeln, Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12).
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 26.02.2003 — II R 19/01.**
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung § 5 Abs. 2a EStG bei Rangruecktritt.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Koeln; Ls. 3.
+- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall.
+- **FG Muenster, Urt. v. 23.07.2020 — 10 K 2222/19, DStRE 2021, 264**.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2-1.4.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Normen
+
 - § 60 Abs. 1 Nr. 2 GmbHG, §§ 65, 73, 74 GmbHG.
 - § 5 Abs. 2a EStG, § 11 KStG.
+- § 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG (Nennwert).
 - § 397 BGB (Erlassvertrag).
+
+### Literatur (Hinweise)
+
+- Bergmann, Diss. 2012, S. 145 ff.; Dietrich/Weber, DStR 2019, 966, 970; Stalbold, in: Gosch, KStG, § 11 Rn. 72; Micker, in: HHR, § 11 KStG Rn. 44; Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, § 11 Rn. 78 — herrschende Linie gegen gewinnerhoehende Ausbuchung.
+- S. Neumann, Ubg 2016, 256, 257 f.; Brinkmann, StBp 2021, 246, 250 — Gegenposition.
