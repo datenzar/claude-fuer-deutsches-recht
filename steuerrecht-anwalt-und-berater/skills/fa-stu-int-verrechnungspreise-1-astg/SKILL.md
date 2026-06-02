@@ -1,6 +1,6 @@
 ---
 name: fa-stu-int-verrechnungspreise-1-astg
-description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Strafzuschlaege § 162 Abs. 3 AO. Anwendungsfall Konzern wird gepruefte und die Pruefung versucht Gewinnkorrekturen via § 1 AStG; die Dokumentation soll vor Abgabe geprueft werden. Behandelt OECD-Verrechnungspreis-Leitlinien Stammdokumentation Local File Master File und CbCR Anti-BEPS-Mindestbesteuerung. Output Pruefraster mit Dokumentations-Checkliste. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd."
+description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konzern wird geprueft und die Pruefung versucht Gewinnkorrekturen via § 1 AStG; die Dokumentation soll vor Abgabe geprueft werden. Behandelt OECD-Verrechnungspreis-Leitlinien Stammdokumentation Local File Master File und CbCR Anti-BEPS-Mindestbesteuerung. Output Pruefraster mit Dokumentations-Checkliste. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd."
 ---
 
 # Verrechnungspreise im Internationalen Steuerrecht — § 1 AStG und Dokumentation § 90 Abs. 3 AO
@@ -10,7 +10,7 @@ description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — 
 1. Liegt Nahestehensverhaeltnis iSd § 1 Abs. 2 AStG vor?
 2. Welche Methode wird angewandt (Preisvergleich Wiederverkauf Kostenaufschlag TNMM Profit-Split)?
 3. Wurde die Dokumentation § 90 Abs. 3 AO erstellt — Local File Master File CbCR?
-4. Sind Strafzuschlaege § 162 Abs. 3 AO bei nicht verwertbarer Dokumentation moeglich?
+4. Sind Zuschlaege nach § 162 Abs. 4 AO bei fehlender, verspaeteter oder unverwertbarer Dokumentation moeglich?
 5. Greift Korrekturregelung § 1 AStG im Verhaeltnis zu DBA?
 - **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
@@ -18,7 +18,7 @@ description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — 
 
 - **§ 1 AStG** — Berichtigung von Einkuenften bei internationalen Geschaeftsbeziehungen.
 - **§ 90 Abs. 3 AO** — Dokumentationspflicht.
-- **§ 162 Abs. 3 AO** — Strafzuschlag.
+- **§ 162 Abs. 4 AO** — Zuschlag bei Verletzung der Dokumentationspflichten.
 - **§§ 138a 138b AO** — Country-by-Country-Reporting.
 - **OECD-Verrechnungspreis-Leitlinien**.
 
@@ -29,7 +29,7 @@ description: "Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — 
 
 ## Zentrale Normen
 
-§ 1 AStG · § 90 Abs. 3 AO · § 162 Abs. 3 AO · § 138a AO · § 138b AO · OECD-Verrechnungspreis-Leitlinien · Art. 9 OECD-MA
+§ 1 AStG · § 90 Abs. 3 AO · § 162 Abs. 4 AO · § 138a AO · § 138b AO · OECD-Verrechnungspreis-Leitlinien · Art. 9 OECD-MA
 
 ## Quellenregel
 
