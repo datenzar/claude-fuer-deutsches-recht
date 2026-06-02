@@ -1,3 +1,22 @@
+# v59.0.0 — Skill-Boost, Legistik-Ressort-Mapping und Release-Synchronisierung
+
+Nachgezogener Hauptstand nach v58.0.0: Claude/Perplexity-Ergänzungen wurden übernommen, alle Plugin-/Marketplace-Versionen stehen einheitlich auf v59.0.0, und die Übersichten sind wieder mit der tatsächlichen Skillzahl synchron.
+
+## Schwerpunkt
+
+- `legistik-werkstatt` stark erweitert: Ressort-Router, Ressortaufgaben, Ressort-spezifische Fachpfade, RuleMapping, Norm-zu-Entscheidungsbaum, Vollzugstauglichkeit, Verweisungslogik und Anschluss an die allgemeine Legistik-Werkstatt.
+- `fachanwalt-strafrecht` um Pro-Verteidiger-Skills zu dysfunktionaler/konfliktiver Verteidigung ergänzt: Beweisantragsstrategie, Befangenheit, § 257 StPO, § 143a StPO, § 138a StPO, Sitzungspolizei, Verschleppungsabgrenzung, KI-Schriftsatz-Fallen und strategische Mandantenführung.
+- 158 magere Skills in 10 Plugins veredelt, insbesondere in Apothekenrecht, Bürokratieversteher, Bundesnetzagentur-Verfahren, Bundeswehrrecht, E-Commerce, Factoring, Krankenhausrecht, Private Equity und Robotik-Recht.
+- `normenkontrollrat-nkr` präzisiert: NKRG-Aufgaben, Unabhängigkeit, Vorsitz, BMJ-Anbindung, Digitalcheck und DDG-Mere-Conduit-Bezug korrigiert.
+- Tote Legistik-RuleMapping-Verweise in Ressort-Skills und Router auf `legw-rmap-grundlagen` umgebogen.
+- Marketplace, alle 130 Plugin-Manifeste, Haupt-README, Testaktenübersicht, Skill-Gesamtübersicht und Skills-Index auf 130 Plugins, 9299 Skills und 139 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel und Whitespace-Check grün.
+
+---
+
 # v58.0.0 — Private Equity, Batteriespeicher, NKR und Loan-Transfer
 
 Großer Fachausbau für Private Equity, Private Credit, Batteriespeicherrecht, NKR-Gesetzesprüfung und distressed Finanzierungen.

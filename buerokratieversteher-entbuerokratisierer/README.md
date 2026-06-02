@@ -44,7 +44,7 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | --- | --- |
 | `aktenzeichen-und-vorgangsnummer` | Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz. |
 | `allgemein` | Einstieg und Routing für alle Behörden-, Gerichts-, Antrags-, Bescheid- und Vorladungssituationen; erklärt laienverständlich, sprachsensibel und vorsichtig. |
-| `anhoerung-vor-bescheid` | Erklärt Anhörungsschreiben, drohenden Bescheid, Rückforderung, Bußgeld oder Maßnahme; formuliert vorsichtige Stellungnahme. |
+| `anhoerung-vor-bescheid` | Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung. |
 | `aufsichtsbeschwerde-dienstaufsicht` | Erklärt Unterschied zu Rechtsmittel, sinnvolle Einsatzfälle, Ton und erwartbare Wirkung. |
 | `auslaenderbehoerde` | Erklärt Aufenthaltstitel, Fiktionsbescheinigung, Termin, Nachweise, Frist, Nebenbestimmung und Vorsicht bei Angaben. |
 | `automatisierter-bescheid` | Erklärt vollständig automatisierte Verwaltungsakte, Plausibilitätsfehler, Datenbasis und Widerspruch. |
@@ -69,13 +69,13 @@ Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschre
 | `elterngeld` | Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch. |
 | `email-an-behoerde` | Formuliert kurze, sachliche E-Mails an Behörden mit Aktenzeichen, Anliegen, Fristwahrung, Bitte um Eingangsbestätigung und ohne unnötige Nebentatsachen. |
 | `energie-sperre-grundversorgung` | Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise. |
-| `ermessen-verstehen` | Übersetzt Ermessensentscheidungen, Ermessensfehler, Gleichbehandlung und Begründung in einfache Sprache. |
+| `ermessen-verstehen` | Ermessen der Behoerde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz. |
 | `eu-behoerde-und-solvit` | Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde. |
 | `familiengericht-vorladung` | Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung. |
 | `foerdermittel-bescheid` | Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf. |
 | `formular-ausfuellen` | Hilft beim Ausfüllen von Papier- oder Onlineformularen, ohne unbeabsichtigte Rechtsbehauptungen oder unnötige Angaben zu machen. |
 | `fragebogen-risikoanalyse` | Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen. |
-| `frist-sofortcheck` | Ermittelt Bescheiddatum, Zugang, Rechtsbehelfsbelehrung, Monats-/Wochenfrist, Termin und Sofortmaßnahmen bei drohendem Fristablauf. |
+| `frist-sofortcheck` | Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO. |
 | `fuehrerschein-fahrerlaubnis` | Routet Entziehung, MPU, Punkte, Fahrverbot, Neuerteilung, Anhörung und Widerspruch. |
 | `gaststaette-und-sondernutzung` | Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt. |
 | `gebuehrenbescheid` | Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch. |

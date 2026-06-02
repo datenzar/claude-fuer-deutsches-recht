@@ -1,6 +1,6 @@
 # private-equity-praxis
 
-**103 Skills** · Stand `v58.1.0`
+**103 Skills** · Stand `v59.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/private-equity-praxis/README.md)
