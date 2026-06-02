@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 105 KB) | PDF | [`gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf`](gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 104 KB) | PDF | [`gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf`](gesamt-pdf/bgb-at-altfraenkische-werkstatt_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bgb-at-altfraenkische-werkstatt.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-at-altfraenkische-werkstatt.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

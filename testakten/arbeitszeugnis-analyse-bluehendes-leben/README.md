@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 54 KB) | PDF | [`gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf`](gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 53 KB) | PDF | [`gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf`](gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

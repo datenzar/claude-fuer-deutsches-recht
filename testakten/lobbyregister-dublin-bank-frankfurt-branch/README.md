@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 39 KB) | PDF | [`gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf`](gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 38 KB) | PDF | [`gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf`](gesamt-pdf/lobbyregister-dublin-bank-frankfurt-branch_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-lobbyregister-dublin-bank-frankfurt-branch.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lobbyregister-dublin-bank-frankfurt-branch.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

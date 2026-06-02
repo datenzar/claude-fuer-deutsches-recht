@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 42 KB) | PDF | [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 41 KB) | PDF | [`gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf`](gesamt-pdf/vertragsausfueller-bsag-kiosk-huckelriede_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-vertragsausfueller-bsag-kiosk-huckelriede.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

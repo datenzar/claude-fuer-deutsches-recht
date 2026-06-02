@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 84 KB) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 83 KB) | PDF | [`gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf`](gesamt-pdf/befristungskontrollklage-vogt-stadtwerke_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

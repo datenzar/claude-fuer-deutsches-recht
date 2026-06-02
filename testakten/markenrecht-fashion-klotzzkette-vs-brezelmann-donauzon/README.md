@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 626 KB) | PDF | [`gesamt-pdf/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon_gesamt.pdf`](gesamt-pdf/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 625 KB) | PDF | [`gesamt-pdf/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon_gesamt.pdf`](gesamt-pdf/markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-markenrecht-fashion-klotzzkette-vs-brezelmann-donauzon.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

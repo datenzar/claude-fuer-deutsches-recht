@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 670 KB) | PDF | [`gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf`](gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 669 KB) | PDF | [`gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf`](gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
