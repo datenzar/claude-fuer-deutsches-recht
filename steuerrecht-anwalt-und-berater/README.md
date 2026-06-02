@@ -1,5 +1,32 @@
 # Steuerrecht – Steuerberater und Anwälte
 
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`steuerrecht-anwalt-und-berater`) | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [`testakte-beispielakte-edelholz-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+| **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [`testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
+| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+| **Grunderwerbsteuer Share Deal Waldkrone** (`grunderwerbsteuer-sharedeal-closing-waldkrone`) | [Gesamt-PDF lesen](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | [`testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
+| **Grundsteuer Rosenwinkel-Bescheidkette** (`grundsteuer-rosenwinkel-bescheidkette`) | [Gesamt-PDF lesen](../testakten/grundsteuer-rosenwinkel-bescheidkette/gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | [`testakte-grundsteuer-rosenwinkel-bescheidkette.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+| **Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Praezision GmbH & Co. KG Erfurt (2026)** (`sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) |
+| **Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)** (`sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) |
+| **Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)** (`sanierungsgewinn-starug-plan-windenergie-pellbach-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
 > **Hinweis: Dieses Plugin deckt zugleich den vollständigen Fachbereich des Fachanwalts für Steuerrecht ab.**
 >
 > Es gibt **kein eigenes Plugin `fachanwalt-steuerrecht`** – dieser frühere Pfad ist als Redirect erhalten. Die gesamten Skills, Vorlagen und Workflows sind hier gebündelt, weil sich anwaltliche und steuerberatende Sicht im Mandat überlappen und ein gemeinsames Plugin Doppelpflege erspart. Die Skills decken sämtliche **FAO-§-9-Bereiche** ab – vom materiellen Steuerrecht über Steuerverfahrensrecht und Steuerstrafrecht bis zu Bilanz- und Buchführungsrecht.
@@ -27,30 +54,6 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell/Landesmodellen, Grunderwerbsteuer-Share-Deals mit Signing/Closing, § 23 EStG, § 20 EStG/Verlustverrechnung und DBA-Quellen nach BMF-Stand 01.01.2026.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate aus Modellwissen. BFH/FG-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle; Verwaltungsauffassung nur als BMF/BZSt-Quelle und nie als Ersatz für Gesetz und Rechtsprechung.
-
-<!-- BEGIN plugin-sofort-download-section (autogen) -->
-## ⬇️ Sofort-Downloads
-
-Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
-
-### Plugin als ZIP
-
-| Inhalt | Download |
-| --- | --- |
-| **Dieses Plugin** (`steuerrecht-anwalt-und-berater`) | [`steuerrecht-anwalt-und-berater.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
-
-### Demonstrations-Akten
-
-| Akte | PDF lesen | Akten-ZIP |
-| --- | --- | --- |
-| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [`testakte-beispielakte-edelholz-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [`testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
-| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-| **Grunderwerbsteuer Share Deal Waldkrone** (`grunderwerbsteuer-sharedeal-closing-waldkrone`) | [Gesamt-PDF lesen](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | [`testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-| **Grundsteuer Rosenwinkel-Bescheidkette** (`grundsteuer-rosenwinkel-bescheidkette`) | [Gesamt-PDF lesen](../testakten/grundsteuer-rosenwinkel-bescheidkette/gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | [`testakte-grundsteuer-rosenwinkel-bescheidkette.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-
-<!-- END plugin-sofort-download-section (autogen) -->
-
 ## Für die Anwaltschaft im Steuerrecht (anw-...)
 
 Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitung von Bescheiden, Steuerstrafverteidigung und Haftungswarnung bei Krisen. **Identisch nutzbar für Fachanwältinnen und Fachanwälte für Steuerrecht** (FAO § 9); die Fachanwaltsausbildungs-Voraussetzungen sind im Skill `anw-orientierung` als Anhang dokumentiert.
@@ -210,7 +213,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 259 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 280 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -460,6 +463,27 @@ Automatisch generierte Komplett-Liste aller 259 Skills in diesem Plugin. Beschre
 | `stb-routine-monatsabschluss-30-tage-zyklus` | Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan. |
 | `stb-routine-quartalsabschluss-prozess` | Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlicher Quartalsabschluss mit Periodenabgrenzung Quartals-BWA Mandantengespraech und Steuerthemen. Methodik strukturierter Quartals-Plan. Output Quartals-BWA Quartalsbericht Ge... |
 | `stb-sage-buchhalter-bwa-konfiguration` | Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage. |
+| `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust` | § 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG. |
+| `stb-sanierungsgewinn-3a-estg-grundtatbestand` | Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung. |
+| `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person` | Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene Sanierung im Sinne § 3a EStG. § 3a EStG schützt nur die unternehmensbezogene Variante; Restschuldbefreiung Privatperson fällt unter § 3a Absatz 5. |
+| `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung` | Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungswirkung. Nach Feststellung des Sanierungserfolgs ist der Antrag nicht mehr zurücknehmbar; strategische Konsequenzen sind vor Antragstellung abzuwägen. |
+| `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge` | § 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträge mindern den Sanierungsertrag, bevor die Steuerbefreiung nach § 3a EStG greift. Folge: Verlustvortrag wird verbraucht, mindestens aber bis Mindestbesteuerung. |
+| `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel` | § 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken. |
+| `stb-sanierungsgewinn-betriebsstaette-und-international` | Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuordnung, DBA-Behandlung, Sanierungsforderungsverzicht durch ausländische Gläubiger. § 3a EStG gilt nur für die deutsche Besteuerung. |
+| `stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge` | BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen. |
+| `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht` | Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlung der Forderung in Eigenkapital. Sanierungssteuerlich oft günstiger; aber gesellschaftsrechtliche Hürden und Werthaltigkeits-Problem zu beachten. |
+| `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung` | Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung. |
+| `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan` | Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG ni... |
+| `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer` | Unterschiede in der Sanierungsertragsbehandlung zwischen Körperschaftsteuer und Einkommensteuer. KSt geht über § 8 Absatz 1 KStG auf § 3a EStG; ESt direkt; unterschiedliche Verlustverrechnung und Antragsstruktur. |
+| `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln` | Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann... |
+| `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig` | Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten. |
+| `stb-sanierungsgewinn-personengesellschaft-und-mitunternehmer` | Besonderheiten der Sanierungsertragsbehandlung bei Personengesellschaften und Mitunternehmern. Anteilige Zurechnung Sanierungsertrag; getrennter Antrag § 3a Absatz 4 EStG je Mitunternehmer; Sonderbetriebsvermögen. |
+| `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg` | Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen. |
+| `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` | Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung... |
+| `stb-sanierungsgewinn-verlustvortrag-sanity-check` | Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d EStG, § 8c KStG-Mindestbesteuerung und § 10a Satz 1 GewStG den Sanierungsertrag bereits aufzehren. Wenn ja, ist der Antrag nach Paragraf 3a Absatz 4 EStG entbehrlich. |
+| `stb-sanierungsgewinn-vermeidungsstrategien-praxis` | Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist. |
+| `stb-sanierungsgewinn-vorbereitungs-checkliste` | Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezo... |
+| `stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung` | Zuständigkeiten und Praxis von Finanzamt und Betriebsprüfung bei Sanierungsanträgen. Sachgebietsleiter, Großbetriebsprüfung, BMF-Erlass-Bindung, Einspruchsverfahren und mögliche Streitpunkte. |
 | `stb-susa-anlagenkonten-ueberblick` | Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immaterielle WG Sachanlagen Finanzanlagen Buchwerte. Anwendungsfall Monats- oder Jahres-SuSa mit Anlagenbestand AfA-Aktualisierung Zu- und Abgaenge. Methodik Anlagenspiegel-Abg... |
 | `stb-susa-debitorenliste-osa-offene-posten` | Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Fälligkeitsstrukur Top-Schuldner Risikoprüfung. Output OPOS-Liste... |
 | `stb-susa-erstellen-grundlagen` | Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Prüfung Verwendung. Output SuSa-Datei als Excel... |

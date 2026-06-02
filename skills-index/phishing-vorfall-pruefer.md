@@ -1,6 +1,6 @@
 # phishing-vorfall-pruefer
 
-**54 Skills** · Stand `v57.0.1`
+**54 Skills** · Stand `v57.0.2`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/phishing-vorfall-pruefer/README.md)

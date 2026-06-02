@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v57.0.1`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v57.0.2`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -72,13 +72,13 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [gesellschaftsrecht-legal-english](./gesellschaftsrecht-legal-english.md) (50 Skills)
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (54 Skills)
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (65 Skills)
-- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (56 Skills)
+- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (72 Skills)
 - [handelsrecht-hgb](./handelsrecht-hgb.md) (51 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (54 Skills)
 - [insolvenzforderungsanmeldungspruefung](./insolvenzforderungsanmeldungspruefung.md) (54 Skills)
 - [insolvenzplan-starug-planwerkstatt](./insolvenzplan-starug-planwerkstatt.md) (54 Skills)
-- [insolvenzrecht](./insolvenzrecht.md) (54 Skills)
+- [insolvenzrecht](./insolvenzrecht.md) (72 Skills)
 - [insolvenzverwaltung](./insolvenzverwaltung.md) (50 Skills)
 - [jurastudium](./jurastudium.md) (54 Skills)
 - [juristische-sprache-deutsch-als-zweitsprache](./juristische-sprache-deutsch-als-zweitsprache.md) (50 Skills)
@@ -116,7 +116,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [schriftform-und-textform-bgb](./schriftform-und-textform-bgb.md) (54 Skills)
 - [selbstvertreter-amtsgericht](./selbstvertreter-amtsgericht.md) (86 Skills)
 - [selbstvertreter-sozialgericht](./selbstvertreter-sozialgericht.md) (80 Skills)
-- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (259 Skills)
+- [steuerrecht-anwalt-und-berater](./steuerrecht-anwalt-und-berater.md) (280 Skills)
 - [strafbefehl-verteidiger](./strafbefehl-verteidiger.md) (54 Skills)
 - [strafzumessung](./strafzumessung.md) (54 Skills)
 - [subsumtions-pruefer](./subsumtions-pruefer.md) (50 Skills)
