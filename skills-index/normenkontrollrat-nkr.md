@@ -1,6 +1,6 @@
 # normenkontrollrat-nkr
 
-**37 Skills** · Stand `v60.0.0`
+**37 Skills** · Stand `v61.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/normenkontrollrat-nkr/README.md)

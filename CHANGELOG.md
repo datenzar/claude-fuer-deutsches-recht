@@ -1,3 +1,24 @@
+# v61.0.0 — Corporate/M&A Deal-OS Boost
+
+Großer Ausbau des freistehenden `grosskanzlei-corporate-ma`-Plugins zu einer noch agentischeren Big-Law-Deal-Workbench.
+
+## Schwerpunkt
+
+- `grosskanzlei-corporate-ma` von 75 auf 125 Skills erweitert: Deal-OS-Orchestrator, Padlet-Canvas, Matrix Factory, Junior-Mentor, Weakness Coach, Battlecards, Term-Sheet-to-SPA, VDD/Legal Fact Book, Authority Matrix, Cap Table/UBO, Locked Box/Completion Accounts, Earn-out, Warranty/Indemnity, MAC/Ordinary Course, Clean Team/Gun-Jumping, FSR, Sector Regulatory, Financing/Security, Signing/Closing Room und Register-Implementation.
+- Alle 125 Corporate/M&A-Skills mit V61 Deal-OS Boost gehärtet: Anfängerführung, Deal-Phasen-Erkennung, Padlet-/Tabellen-Ausgabe, Schwachstellenreparatur, Quellen-/Aktualitätsgate und Human-in-the-loop-Quality-Gate.
+- Sechs neue Templates für Master-Padlet, Junior-Feedback, Matrix Factory, Negotiation Battlecards, Risk Heatmap und Official Source Check ergänzt.
+
+## Synchronisierung
+
+- Marketplace und alle Plugin-Manifeste auf `v61.0.0` gesetzt.
+- `README.md`, `SKILLS.md`, Skills-Index und Asset-Index auf 132 Plugins, 9421 Skills und 140 Testakten nachgezogen.
+
+## Checks
+
+- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check laufen im Release-Check.
+
+---
+
 # v60.0.0 — Beamtenrecht, US-Copyright-Registrierung und Release-Sync
 
 Release-Sprung auf v60.0.0 mit zwei neuen Plugins und einer neuen Beamtenrecht-Demonstrationsakte.

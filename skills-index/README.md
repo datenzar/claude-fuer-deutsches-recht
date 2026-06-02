@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v60.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v61.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -73,7 +73,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [gesellschaftsrecht-legal-english](./gesellschaftsrecht-legal-english.md) (50 Skills)
 - [gewerblicher-rechtsschutz](./gewerblicher-rechtsschutz.md) (54 Skills)
 - [goae-gebuehrenordnung-aerzte](./goae-gebuehrenordnung-aerzte.md) (65 Skills)
-- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (75 Skills)
+- [grosskanzlei-corporate-ma](./grosskanzlei-corporate-ma.md) (125 Skills)
 - [handelsrecht-hgb](./handelsrecht-hgb.md) (51 Skills)
 - [hausarbeitenmacher](./hausarbeitenmacher.md) (54 Skills)
 - [immobilienrechtspraxis](./immobilienrechtspraxis.md) (54 Skills)

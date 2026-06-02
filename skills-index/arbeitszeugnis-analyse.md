@@ -1,6 +1,6 @@
 # arbeitszeugnis-analyse
 
-**50 Skills** · Stand `v60.0.0`
+**50 Skills** · Stand `v61.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitszeugnis-analyse/README.md)

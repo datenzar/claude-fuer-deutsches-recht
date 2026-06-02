@@ -1,6 +1,6 @@
 # factoring-recht
 
-**62 Skills** · Stand `v60.0.0`
+**62 Skills** · Stand `v61.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/factoring-recht/README.md)
