@@ -91,5 +91,6 @@ Erfahrene Tax-Partner schauen im Distressed-DD zuerst auf drei Zahlen: kumuliert
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG i. V. m. § 36 Abs. 2c GewStG; § 8c KStG; § 8d KStG; § 10d EStG; § 4h EStG – jeweils aktuelle Fassung, prüfbar über gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
+- FG Köln, Urteil vom 06.03.2012 – 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) – verifizierte Fundstelle für die DD-Bewertung von Targets, die statt einer Sanierung in die Liquidation laufen (nachrangige Gesellschafterdarlehen, Erlöschen von Verbindlichkeiten und Verlustvorträgen mit Löschung).
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 – prüfbar über bundesfinanzhof.de.
 - Sonstige BFH-Rspr. zu § 10d EStG und § 4h EStG als „ständige Rspr." formulieren; Verifizierung über bundesfinanzhof.de.

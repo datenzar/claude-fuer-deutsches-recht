@@ -142,7 +142,7 @@ Plan-Bestaetigung ersetzt.
 Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Voraussetzungen.
-- `insol-sanierungsgewinn-forderungsverzicht-im-plan-bilanzielle-folgen` — Bilanzteil.
+- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Bilanzteil.
 - `insol-sanierungsgewinn-3a-estg-im-starug-plan` — StaRUG-Variante.
 - `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` — Rangruecktritt als Alternative.
 

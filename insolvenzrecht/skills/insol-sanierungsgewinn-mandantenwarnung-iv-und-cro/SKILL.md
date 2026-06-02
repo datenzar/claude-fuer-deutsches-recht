@@ -162,7 +162,7 @@ Mit freundlichen Gruessen
 Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen` — Modellrechnung.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Modellrechnung.
 - `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftungs-Vertiefung.
 
 In anderen Plugins:

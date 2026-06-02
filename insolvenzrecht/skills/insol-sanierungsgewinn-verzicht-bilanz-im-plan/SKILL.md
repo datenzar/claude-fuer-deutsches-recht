@@ -1,5 +1,5 @@
 ---
-name: insol-sanierungsgewinn-forderungsverzicht-im-plan-bilanzielle-folgen
+name: insol-sanierungsgewinn-verzicht-bilanz-im-plan
 description: "Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkungen auf das Eigenkapital. Schnittstelle zur Modellrechnung Paragraph 3a Absatz 3 EStG."
 ---
 
@@ -163,7 +163,7 @@ EUR [...], Sanierungsertrag in Hoehe EUR [...].
 Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Voraussetzungen.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen` — Verrechnung.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Verrechnung.
 - `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan` — Rangruecktritt.
 - `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
 - `insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz` — Massehaftung-Bilanz-Effekte.

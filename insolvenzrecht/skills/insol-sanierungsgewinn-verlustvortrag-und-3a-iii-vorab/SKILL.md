@@ -1,5 +1,5 @@
 ---
-name: insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen
+name: insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab
 description: "Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle."
 ---
 
@@ -128,4 +128,5 @@ In anderen Plugins:
 - Paragraph 8 KStG, `gesetze-im-internet.de/kstg_1977/__8.html`.
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
 - FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung und Grenzen des steuerfreien Sanierungsgewinns. Verifikation ueber `dejure.org` und NWB-Datenbank.
+- FG Koeln, Urteil vom 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) — Liquidation mit nachrangigem Gesellschafterdarlehen; mit dem Erloeschen der GmbH erloeschen Verbindlichkeiten **und** Verlustvortraege, der rechentheoretisch entstehende Gewinn ist mangels Koerperschaftsteuersubjekt nicht festsetzbar. Wichtige Abgrenzung zum hier geregelten Sanierungspfad.
 - Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

@@ -167,7 +167,7 @@ Beweis: Anlagen 1-12.
 Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen` — Modellrechnung.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Modellrechnung.
 - `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` — Praeventionsbrief.
 - `do-versicherung-manager-haftung` — Versicherungsfragen.
 - `glaeubigerausschuss-mitwirkung` — Ausschuss-Beschluss.

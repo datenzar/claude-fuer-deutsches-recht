@@ -150,7 +150,7 @@ zu behandeln, soweit die dortigen Voraussetzungen erfuellt sind.
 
 Im Plugin `insolvenzrecht`:
 
-- `insol-sanierungsgewinn-forderungsverzicht-im-plan-bilanzielle-folgen` — Verzichts-Variante.
+- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Verzichts-Variante.
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — Sanierungsertrag.
 - `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES.
 - `ueberschuldung-pruefung-19-inso` — Ueberschuldungspruefung.

@@ -113,5 +113,6 @@ Schreiben Sie Ihre Empfehlungen schriftlich und gegenzeichnen lassen. Das ist ni
 - § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG i. V. m. § 36 Abs. 2c GewStG; § 8c KStG; § 8d KStG; § 89 AO – jeweils aktuelle Fassung, prüfbar über gesetze-im-internet.de.
 - BMF-Schreiben vom 27.04.2017, fortgeschrieben durch nachfolgende BMF-Verlautbarungen – Verifizierung im Bundessteuerblatt.
 - FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – prüfbar über dejure.org und NWB.
+- FG Köln, Urteil vom 06.03.2012 – 13 K 3006/11, GmbHR 2012, 977 (vorgehend zu BFH I R 34/12) – verifizierte Linie für die Konstellation Liquidation mit nachrangigem Gesellschafterdarlehen: rechentheoretisch im Löschungszeitpunkt entstehender Gewinn ist mangels Körperschaftsteuersubjekt nicht festsetzbar. Relevant für die strategische Alternative „Sanierung vs. Liquidation".
 - BFH (Großer Senat), Beschluss vom 28.11.2016 – GrS 1/15 (Sanierungserlass-Beschluss) – prüfbar über bundesfinanzhof.de.
 - Weitere Rspr. sonst als „ständige Rspr." formulieren oder erst nach eigener Verifizierung in offizielle Datenbank aufnehmen.

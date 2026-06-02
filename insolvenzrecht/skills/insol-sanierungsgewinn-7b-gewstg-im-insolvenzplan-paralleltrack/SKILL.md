@@ -146,7 +146,7 @@ GewStG vom [Datum]]
 Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — KSt/ESt-Schiene.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen` — Verrechnungs-Modell.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Verrechnungs-Modell.
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
 - `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` — Stundungs-/Erlassmechanik.
 

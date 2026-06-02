@@ -128,7 +128,7 @@ Verfasser: [IV/Sachwalter] in Abstimmung mit [StB Name]
 
 Innerhalb des Plugins `insolvenzrecht`:
 
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen` — die Modellrechnung Schritt fuer Schritt.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — die Modellrechnung Schritt fuer Schritt.
 - `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` — Mandantenbrief an Geschaeftsleitung und CRO.
 - `insol-sanierungsgewinn-3a-estg-im-insolvenzplan` — materielle Antragsmechanik im Plan.
 - `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege` — Haftung des Verwalters bei versaeumter Vorbereitung.

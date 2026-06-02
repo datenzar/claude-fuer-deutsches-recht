@@ -160,8 +160,8 @@ Paragraph 222 AO.
 Im Plugin `insolvenzrecht`:
 
 - `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan` — Zeitachse.
-- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-estg-vorab-pruefen` — Verrechnungs-Modell.
-- `insol-sanierungsgewinn-forderungsverzicht-im-plan-bilanzielle-folgen` — Bilanzteil.
+- `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab` — Verrechnungs-Modell.
+- `insol-sanierungsgewinn-verzicht-bilanz-im-plan` — Bilanzteil.
 - `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` — GewSt-Spiegel.
 - `insol-sanierungsgewinn-debt-equity-swap-im-plan` — DES-Variante.
 - `inso-eroeffnungsantrag-checkliste` — Verfahrenseroeffnung.
