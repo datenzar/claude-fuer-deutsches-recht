@@ -47,7 +47,15 @@ Damit greift die FG-Koeln-Linie 1:1. Im Loeschungszeitpunkt entsteht zwar rechne
 
 ### 4.4 Vorgehend zu BFH I R 34/12 — Bedeutung der Berufungsinstanz
 
-Das FG-Koeln-Urteil ist die Vorinstanz zu **BFH I R 34/12** (Verpflichtungsklage auf verbindliche Auskunft). Die Klaegerin hatte dort vom FA eine verbindliche Auskunft des Inhalts begehrt, dass die im Liquidationszeitpunkt rechtstheoretisch entstehende Vermoegensmehrung mangels Steuersubjekts nicht festsetzbar sei. Das FG hatte dem stattgegeben; der BFH hatte die Frage in seinem Folgeurteil weiter geklaert. Bei Mandatsbearbeitung muss der aktuelle Verfahrensstand vor Antragstellung verifiziert werden; bis dahin traegt die FG-Koeln-Linie das hier zugrundeliegende Argument.
+Das FG-Koeln-Urteil ist die Vorinstanz zu **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** (Verpflichtungsklage auf verbindliche Auskunft). Die Klaegerin hatte vom FA eine verbindliche Auskunft des Inhalts begehrt, dass die im Liquidationszeitpunkt rechtstheoretisch entstehende Vermoegensmehrung mangels Steuersubjekts nicht festsetzbar sei. Das FG hatte dem stattgegeben.
+
+Der BFH hat in **I R 34/12** ausdruecklich offengelassen, ob die Verbindlichkeit in der Liquidationsschlussbilanz wirklich nicht zu passivieren ist. Ls. 3 woertlich:
+
+> „Die Rechtsauffassung, in der Liquidationsschlussbilanz sei eine verbliebene Verbindlichkeit gegenueber einem Gesellschafter mangels wirtschaftlicher Belastung nicht zu passivieren, ist nicht evident rechtsfehlerhaft."
+
+Damit ist die FG-Koeln-Linie zwar nicht hoechstrichterlich entschieden, aber als vertretbare Auffassung anerkannt. Dies ist die wesentliche prozessuale Absicherung der Strategie aus Szenario A: Selbst wenn das FA Berlin-Charlottenburg die Auffassung der Mandantin nicht teilt, ist sie nicht evident rechtsfehlerhaft — der Berater haftet daher nicht aus § 280 BGB, wenn er auf dieser Grundlage berät.
+
+Das hier maszgebliche Az. **I R 34/12** ist nicht zu verwechseln mit **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** (zu § 5 Abs. 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen). Beide Entscheidungen wirken aber in dieselbe Richtung: solange der Rangruecktritt einen Tilgungsvorbehalt auch aus freiem Vermoegen enthaelt (wie bei der Mandantin), greift § 5 Abs. 2a EStG nicht (XI R 32/18); und die Verbindlichkeit ist bis zur Loeschung zu passivieren (FG Koeln 13 K 3006/11, abgesichert durch BFH I R 34/12).
 
 ### 4.5 Wechselwirkung mit § 5 Abs. 2a EStG (Abgrenzung)
 
