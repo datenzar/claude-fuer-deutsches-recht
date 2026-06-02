@@ -31,12 +31,14 @@ Der Wortlaut verlangt zwei Merkmale:
 
 ### 2. Auslegung — staend. Rspr. BFH
 
-Die Rechtsprechung des BFH zur Behandlung qualifizierter Rangruecktritte hat sich seit dem Grundsatzurteil des Grossen Senats des BFH (zu Verbindlichkeiten mit Besserungsschein) und der spaeteren Klarstellung im Rangruecktritts-Kontext gefestigt:
+Die Rechtsprechung des BFH zur Behandlung qualifizierter Rangruecktritte ist in der jetzt maszgebenden Form mit dem Urteil **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279**, gefestigt:
 
 - Eine Verbindlichkeit, die **ausschliesslich** aus *kuenftigen Gewinnen* oder einem *Liquidationsueberschuss* zu tilgen ist, faellt unter § 5 Abs. 2a EStG. Sie ist **steuerlich nicht zu passivieren**. Ein bereits zuvor bilanzierter Ausweis ist gewinnwirksam aufzuloesen (Ertrag).
 - Eine Verbindlichkeit, die zusaetzlich aus *sonstigem freien Vermoegen* der Schuldnerin tilgbar ist, faellt **nicht** unter § 5 Abs. 2a EStG. Sie bleibt **passiviert**, weil die Tilgung nicht ausschliesslich an kuenftige Einnahmen anknuepft.
 
-Diese Differenzierung wird in der Beraterpraxis als "**Tilgungsvorbehalt aus freiem Vermoegen**" bezeichnet und ist die zentrale **Gestaltungsleitlinie** in der Strukturierung qualifizierter Rangruecktritte (vgl. die einschlaegigen Diskussionen in der gesellschaftsrechtlichen und steuerlichen Beratungspraxis; Spezialliteratur ohne konkrete Zitate beibehalten, da Kommentarliteratur hier nicht aus Modellwissen zitiert werden darf).
+Diese Differenzierung wird in der Beraterpraxis als "**Tilgungsvorbehalt aus freiem Vermoegen**" bezeichnet und ist die zentrale **Gestaltungsleitlinie** in der Strukturierung qualifizierter Rangruecktritte.
+
+Ergaenzend ist die allgemeine Voraussetzung der Passivierung zu beachten: Nach **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450**, ist eine Verbindlichkeit nur dann zu passivieren, wenn (i) ein bestimmter Verpflichtungsinhalt besteht, (ii) die Verbindlichkeit durchsetzbar ist und (iii) eine **wirtschaftliche Belastung** der Schuldnerin gegeben ist. Fehlt die wirtschaftliche Belastung, ist die Verbindlichkeit gewinnwirksam aufzuloesen — das ist die Stelle, an der das FA bei einem aussichtslosen Rangruecktritt einhaken kann.
 
 ### 3. Subsumtion
 

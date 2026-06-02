@@ -174,10 +174,37 @@ In anderen Plugins:
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
+- Paragraph 5 Absatz 2a EStG.
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
 - Paragraphen 217 ff. InsO, `gesetze-im-internet.de/inso/`.
 - Paragraph 251 AO, `gesetze-im-internet.de/ao_1977/__251.html`.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung. Verifikation ueber `dejure.org`.
-- BFH, Urteil vom 26.02.2003 — II R 19/01.
-- Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+- Paragraph 11 KStG (Liquidationsbesteuerung — fuer Plan-B-Pfade).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten bleiben zivilrechtlich auch in Liquidation bestehen.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangruecktritt.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Bei Liquidation rangruecktrittsbehaftete Verbindlichkeit passiviert bis Loeschung; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
+- **FG Koeln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragsfristen Paragraph 3a Abs. 4 EStG.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Mindestbesteuerung / Definitiveffekt
+
+- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Definitiveffekt der Mindestbesteuerung in Liquidation. Revision anhaengig BFH I R 36/18 (ausgesetzt wegen BVerfG 2 BvL 19/14, Vorlage BFH I R 59/12).
+- **OFD Frankfurt v. 27.12.2018, BeckVerw 447487** — Einsprueche zur Mindestbesteuerung ruhend zu stellen.
+
+### Plan-B-Pfad Liquidation
+
+- Siehe Spezial-Skill `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse) im Plugin `steuerrecht-anwalt-und-berater`.
+
+Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

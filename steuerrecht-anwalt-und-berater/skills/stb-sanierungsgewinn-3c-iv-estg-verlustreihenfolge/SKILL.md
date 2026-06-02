@@ -106,6 +106,43 @@ Wenn KEIN Antrag § 3a Abs. 4 EStG gestellt:
 ► Verlustverbrauch wie sonst auch
 ```
 
+### Berechnungsbeispiel Verlustrücktrag
+
+```
+Sanierungsjahr Wj X mit Sanierungsertrag        EUR 800.000
+Verlustrücktrag aus Wj X+1 möglich              EUR 200.000
+  (Verlust in X+1 entstanden; § 10d Abs. 1 EStG-Wahlrecht)
+
+Reihenfolge § 3c Abs. 4 EStG:
+1. Laufender Verlust Wj X (sofern vorhanden)
+2. Verlustrücktrag Wj X+1 nach Wj X (Wahlrecht ausgeübt)
+3. Verlustvortrag § 10d Abs. 2 EStG
+
+Verbleibender Sanierungsertrag nach Rücktrag    EUR 600.000
+abzgl. Verlustvortrag § 10d Abs. 2 EStG          EUR 600.000
+Restbetrag                                       EUR        0
+
+► Sanierungsertrag voll verrechnet
+► Antrag § 3a IV EStG möglicherweise entbehrlich
+► Aber: Verlustrücktrag-Wahlrecht prüfen (Folgejahre)
+```
+
+### Praxis-Hinweis Verrechnungsdokumentation
+
+```
+Anlage zur Steuererklärung Sanierungsjahr:
+- Berechnungsschema § 3c Abs. 4 EStG mit:
+  - Sanierungsertrag brutto
+  - § 3c Abs. 1 EStG-Aufwendungen
+  - Sanierungsertrag netto
+  - Verrechnung laufender Verlust
+  - Verrechnung Rücktrag (falls beantragt)
+  - Verrechnung Vortrag mit Mindestbesteuerung
+  - Steuerfrei zu stellender Restbetrag
+- Vortragsrest zum Jahresende
+- Gewerbeverlust separat (analog § 10a S. 1 GewStG)
+```
+
 ## Typische Fehler
 
 - Mindestbesteuerung übersehen; Sanierungsertrag voll mit Verlustvortrag verrechnet ohne Sockel-Logik.
