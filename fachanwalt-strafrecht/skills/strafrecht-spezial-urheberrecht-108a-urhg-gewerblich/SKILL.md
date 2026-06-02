@@ -72,6 +72,17 @@ Strafrahmen Paragraph 108a UrhG: drei Monate bis fuenf Jahre Freiheitsstrafe. Ke
 
 **Hilfsbeweisantrag:** "Es wird beantragt, die Bankkonto-Bewegungen meines Mandanten im Tatzeitraum vom DD.MM. bis DD.MM. beizuziehen zum Beweis der Tatsache, dass aus dem Vertrieb der streitgegenstaendlichen Tontraeger insgesamt nur EUR X eingenommen wurden, was eine Gewerbsmaessigkeit im Sinne der staendigen BGH-Rspr. ausschliesst."
 
+## Verfahrensschritte im Mandat
+
+1. **Eilmassnahmen.** Bei Festnahme oder Durchsuchung sofortiger Wahlverteidiger-Kontakt; Schweigen Paragraph 136 StPO; Pflichtverteidigerbeiordnung Paragraph 140 StPO pruefen, da Verbrechensvorwurf moeglich (in der Qualifikation).
+2. **Akteneinsicht und Beweisanalyse.** Plattform-Logs, Verkaufslisten, Werbeerloesnachweise, Bankkonten beischaffen.
+3. **Gewerbsmaessigkeit erschuettern.** Wiederholungsabsicht angreifen; Einzelaktion vs. fortlaufende Einnahmequelle.
+4. **Mittaeterschaft vs. Beihilfe trennen.** Bei untergeordneter Rolle Paragraph 27 StGB mit Strafmilderung Paragraph 49 Abs 1 StGB.
+5. **Schadensbezifferung.** Lizenzanalogie als Schadensmass; Vergleich mit Rechteinhaber vorbereiten.
+6. **Verstaendigung Paragraph 257c StPO** bei eindeutiger Beweislage.
+7. **Untersuchungshaft Paragraph 112 StPO** abwenden: Aussetzung Paragraph 116 StPO mit Sicherheitsleistung; bei Bandenbezug Wiederholungsgefahr Paragraph 112a StPO.
+8. **Hauptverhandlung** mit Wirtschaftsstrafkammer-Tauglichkeit (Paragraph 74c GVG).
+
 ## Querverweise
 
 - `strafrecht-spezial-urheberrecht-106-urhg`

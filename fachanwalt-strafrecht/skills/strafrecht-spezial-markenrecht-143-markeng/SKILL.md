@@ -73,6 +73,17 @@ Strafrahmen Paragraph 143 Abs 1 MarkenG: Freiheitsstrafe bis drei Jahre oder Gel
 
 **Hilfsbeweisantrag:** "Es wird beantragt, eine Verkehrsbefragung durchzufuehren zum Beweis der Tatsache, dass das streitgegenstaendliche Zeichen Y vom angesprochenen Verkehr nicht mit der Marke des Anzeigeerstatters in Verbindung gebracht wird und daher Verwechslungsgefahr im Sinne von Paragraph 14 Abs 2 Nr 2 MarkenG nicht besteht."
 
+## Verfahrensschritte im Mandat
+
+1. **Erstgespraech und Akteneinsicht Paragraph 147 StPO.** Klaeren, ob parallel zivilrechtliche Abmahnung erfolgte und ob bereits einstweilige Verfuegung anhaengig ist.
+2. **Antragsfrist Paragraph 77b StGB pruefen.** Kenntnis von Tat und Taeter sorgfaeltig recherchieren; internes Wissensmanagement des Anzeigeerstatters offenlegen lassen.
+3. **Markenregister-Pruefung.** DPMAregister, EUIPO eSearch fuer Inhaberschaft, Kategorie, Schutzbereich.
+4. **Verwechslungsgefahr-Analyse.** Wechselwirkungslehre (Zeichen-Aehnlichkeit, Waren-Aehnlichkeit, Kennzeichnungskraft); ggf. Verkehrsbefragung beantragen.
+5. **Erschoepfung Paragraph 24 MarkenG pruefen.** EU-Lieferketten dokumentieren.
+6. **Verhandlung mit Markeninhaber.** Schadensvergleich nach Lizenzanalogie; Antragsruecknahme Paragraph 77d StGB; Strafverfahren-Einstellung Paragraph 170 Abs 2 StPO.
+7. **Privatklageverweis.** Wenn StA nicht uebernimmt: Hinwirken auf Verweisung; Markeninhaber dann mit Suehneversuch konfrontiert.
+8. **Hauptverhandlung** mit Sachverstaendigem fuer Verkehrskreis.
+
 ## Querverweise
 
 - `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`

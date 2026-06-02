@@ -88,7 +88,7 @@ Steuerstrafverjaehrung **15 Jahre** in den Faellen des Absatzes 3 (besonders sch
 ## Querverweise
 
 - `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
-- `strafrecht-spezial-steuerstrafrecht-373-ao-bandenmaessig-schmuggel`
+- `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
 - `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig`
 - `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb`
 

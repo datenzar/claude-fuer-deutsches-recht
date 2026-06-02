@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-aussagepsychologie-vernehmungsfehler-falschgestaendnis
+name: strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand
 description: "Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug fuer Beweisverwertungsverbot und Plaedoyer-Argumentation."
 ---
 

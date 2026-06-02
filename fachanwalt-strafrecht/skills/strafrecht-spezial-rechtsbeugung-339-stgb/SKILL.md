@@ -85,7 +85,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 - `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt`
 - `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb`
-- `strafrecht-spezial-bestechung-bestechlichkeit-amtstraeger-332-334-stgb`
+- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
 
 ## Quellen Stand 06/2026
 

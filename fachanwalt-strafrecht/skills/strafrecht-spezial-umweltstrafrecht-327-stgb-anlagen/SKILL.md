@@ -85,7 +85,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 - `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser`
 - `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
 ## Quellen Stand 06/2026
 

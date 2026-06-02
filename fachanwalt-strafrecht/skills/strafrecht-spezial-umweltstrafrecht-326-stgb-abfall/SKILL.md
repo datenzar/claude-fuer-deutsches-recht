@@ -90,7 +90,7 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 
 - `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser`
 - `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
 ## Quellen Stand 06/2026
 

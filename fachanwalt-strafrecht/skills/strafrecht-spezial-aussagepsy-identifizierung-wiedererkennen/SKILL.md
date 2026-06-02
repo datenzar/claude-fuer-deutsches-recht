@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-aussagepsychologie-identifizierung-und-wiedererkennen
+name: strafrecht-spezial-aussagepsy-identifizierung-wiedererkennen
 description: "Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs. simultane Vorlage, Gegenueberstellung in vivo, Tatzeugenidentifizierung. Methodische Fehlerquellen (cross-race-effect, unconscious transference, weapon focus). Verteidigerwerkzeug gegen Identifizierungsfehler in Strafverfahren."
 ---
 

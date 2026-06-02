@@ -76,47 +76,8 @@ Diese Akte zeigt **vier Konfliktfronten** im Strafverfahren:
 | 12 | [`12_betriebspruefung_finanzamt_koeln_notiz.md`](12_betriebspruefung_finanzamt_koeln_notiz.md) | Notiz Betriebspruefung Finanzamt Koeln Mitte, Pruefungsergebnis 02/2026 |
 | 13 | [`13_insolvenzantrag_und_eroeffnungsbeschluss.md`](13_insolvenzantrag_und_eroeffnungsbeschluss.md) | Insolvenzantrag 09.03.2025 (Eigenantrag) + Eroeffnungsbeschluss AG Koeln 17.04.2025 |
 | 14 | [`14_kfw_coronahilfe_antrag_und_bescheid.md`](14_kfw_coronahilfe_antrag_und_bescheid.md) | KfW-Coronahilfeantrag 11/2022 + Bescheid 12/2022 (Subventionsbetrug-Komplex) |
-| 15 | [`15_email_konvolut_buchhalterin_quasthoff.md`](15_email_konvolut_buchhalterin_quasthoff.md) | E-Mail-Konvolut Pellbach <-> Quasthoff, 10/2024 bis 02/2025 — Spesen-Komplex |
-| 16 | [`16_chat_export_pellbach_und_gattin.md`](16_chat_export_pellbach_und_gattin.md) | Chat-Export (WhatsApp/Signal) Pellbach <-> Ehefrau Frieda, 12/2024 bis 03/2025 |
-| 17 | [`17_betriebsrat_mahnschreiben_loehne.md`](17_betriebsrat_mahnschreiben_loehne.md) | Mahnschreiben Betriebsrat (Loehne Q4/2024 + Q1/2025) |
-| 18 | [`18_kontobewegungen_wroclaw_2024_2025.md`](18_kontobewegungen_wroclaw_2024_2025.md) | Beschreibung Kontobewegungen Wroclaw-Tochter 2024-2025 (Verweis tabellen/) |
-| 19 | [`19_kriminologie_rueckfallprognose_pellbach_notiz.md`](19_kriminologie_rueckfallprognose_pellbach_notiz.md) | Interne Notiz Verteidigung — kriminologische Rueckfallprognose nach LSI-R-Logik |
-| 20 | [`20_pflichtverteidiger_beiordnung_140_141_stpo.md`](20_pflichtverteidiger_beiordnung_140_141_stpo.md) | Antrag auf Pflichtverteidiger-Beiordnung §§ 140, 141 StPO |
-| 21 | [`21_verstaendigungsversuch-257c-stpo-protokoll.md`](21_verstaendigungsversuch-257c-stpo-protokoll.md) | Protokoll Verstaendigungsversuch § 257c StPO (Vorgespraech StA / Verteidigung / Kammer) |
-| 22 | [`22_hilfsbeweisantrag_aussagepsy_gutachten.md`](22_hilfsbeweisantrag_aussagepsy_gutachten.md) | Hilfsbeweisantrag § 244 III StPO — aussagepsychologisches Sachverstaendigengutachten Quasthoff |
-| 23 | [`23_einlassung_entwurf_pellbach.md`](23_einlassung_entwurf_pellbach.md) | Einlassungs-Entwurf Pellbach (intern, nicht freigegeben) |
-| 24 | [`24_strafzumessungserwaegungen_46_stgb.md`](24_strafzumessungserwaegungen_46_stgb.md) | Strafzumessungserwaegungen § 46 StGB — Verteidigersicht |
-| 25 | [`25_plaedoyer_entwurf_freispruch_einzelpunkte.md`](25_plaedoyer_entwurf_freispruch_einzelpunkte.md) | Plaedoyer-Entwurf — Freispruchsantrag fuer Einzelpunkte, im Uebrigen mildeste Strafe |
-| 26 | [`26_pressestrategie_mandantenmitteilung.md`](26_pressestrategie_mandantenmitteilung.md) | Pressestrategie / Mandantenmitteilung zu Medienanfragen (Express, Koelner Stadt-Anzeiger) |
 
----
-
-## Anhaenge
-
-### E-Mails (eml/)
-
-| Datei | Inhalt |
-|---|---|
-| [`eml/01_pellbach_an_quasthoff_spesen_2024_11_03.eml`](eml/01_pellbach_an_quasthoff_spesen_2024_11_03.eml) | Pellbach an Quasthoff, Mahnung wegen Spesenmanipulation, 03.11.2024 |
-| [`eml/02_quasthoff_an_pellbach_widerspruch_2024_11_07.eml`](eml/02_quasthoff_an_pellbach_widerspruch_2024_11_07.eml) | Quasthoff an Pellbach, Widerspruch gegen Mahnung, 07.11.2024 |
-| [`eml/03_steuerberater_engelmeier_warnung_2024_12_18.eml`](eml/03_steuerberater_engelmeier_warnung_2024_12_18.eml) | Steuerberater Engelmeier an Pellbach, Warnung Insolvenzreife, 18.12.2024 |
-| [`eml/04_pellbach_an_kfw_klarstellung_2022_11_24.eml`](eml/04_pellbach_an_kfw_klarstellung_2022_11_24.eml) | Pellbach an KfW, Klarstellung Coronahilfeantrag, 24.11.2022 |
-| [`eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml`](eml/05_vellbruck_an_sta_akteneinsicht_2026_05_14.eml) | Vellbruck an StA Koeln, Akteneinsichtsantrag § 147 StPO, 14.05.2026 |
-
-### Tabellen (tabellen/)
-
-| Datei | Inhalt |
-|---|---|
-| [`tabellen/zahlungsmatrix_loehne_sv_q4_2024_q1_2025.csv`](tabellen/zahlungsmatrix_loehne_sv_q4_2024_q1_2025.csv) | Loehne / SV-Beitraege Pellbach Logistik & Spedition GmbH, Q4/2024 bis Q1/2025 (§ 266a-Komplex) |
-| [`tabellen/privatentnahmen_pellbach_2024_2025.csv`](tabellen/privatentnahmen_pellbach_2024_2025.csv) | Privatentnahmen Geschaeftsfuehrer Pellbach 10/2024 bis 02/2025 (§ 266-Komplex) |
-| [`tabellen/zeugenmatrix_quasthoff_vs_aktenstand.csv`](tabellen/zeugenmatrix_quasthoff_vs_aktenstand.csv) | Zeugenmatrix Quasthoff V1 / V2 gegen Aktenstand (Datenangaben, Sequenzen) |
-
-### Bildmaterial / Beweismittel (bilder/)
-
-| Datei | Inhalt |
-|---|---|
-| [`bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.md`](bilder/beweismittel_001_geschaeftspapier_pellbach_metadaten.md) | Metadaten / Beschreibung: Foto Geschaeftspapier Pellbach Logistik (Asservat A-7) |
-| [`bilder/beweismittel_002_lagerhalle_bottrop_metadaten.md`](bilder/beweismittel_002_lagerhalle_bottrop_metadaten.md) | Metadaten / Beschreibung: Lagerhalle Bottrop (Bankrott-Komplex Beiseiteschaffen) |
+> **Hinweis (Stand 06/2026):** Die Aktenstuecke 15-26 sowie die Anhaenge in `eml/`, `tabellen/` und `bilder/` werden in einer Folgewelle ergaenzt. Diese Lese-Version umfasst zunaechst die Aktenstuecke 00-14 als Arbeitsgrundlage.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-waffG-strafvorschriften-51-52
+name: strafrecht-spezial-waffg-strafvorschriften-51-52
 description: "Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG. Unerlaubter Umgang mit Schusswaffen und Munition Erwerb Besitz Fuehren Verbringen. Erlaubnistatbestaende Wesentliche Bauteile. Qualifikationen Banden gewerbliche Begehung. Verteidigungslinien Vorsatz Erlaubnislage Anlasswaffen. Konkurrenzen Paragraph 244 IV StGB nicht einschlaegig."
 ---
 

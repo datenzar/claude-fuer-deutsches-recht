@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-steuerstrafrecht-373-ao-bandenmaessig-schmuggel
+name: strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel
 description: "Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz."
 ---
 

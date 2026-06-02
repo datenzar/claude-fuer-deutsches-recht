@@ -97,11 +97,11 @@ Auch fuer auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 
 ## Querverweise
 
-- `strafrecht-spezial-vorteilsannahme-vorteilsgewaehrung-331-333-stgb`
-- `strafrecht-spezial-bestechung-bestechlichkeit-amtstraeger-332-334-stgb`
-- `strafrecht-spezial-wirtschaftliche-bestechung-bei-amtsverhaeltnis`
+- `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
+- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
+- `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
 - `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
 ## Quellen Stand 06/2026
 

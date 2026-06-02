@@ -116,8 +116,8 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 - `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
 - `strafrecht-spezial-bandenbetrug-263-stgb`
 - `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-bestechung-bestechlichkeit-amtstraeger-332-334-stgb`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026

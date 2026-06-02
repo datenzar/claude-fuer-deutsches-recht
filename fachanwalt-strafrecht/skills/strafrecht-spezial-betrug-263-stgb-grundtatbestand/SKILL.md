@@ -92,10 +92,29 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 - `fachanwalt-strafrecht-einlassung-vorbereiten` — Einlassungs-Workflow.
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a` — Deal und § 46a StGB.
 
+## Pruefraster Subsumtion (Kurzform)
+
+1. Taeuschungshandlung? (ausdruecklich, konkludent, durch Unterlassen bei Aufklaerungspflicht).
+2. Tatsache (nicht Werturteil)?
+3. Irrtum erregt oder unterhalten?
+4. Vermoegensverfuegung Getaeuschter (Stoffgleichheit Verfuegender = Geschaedigter)?
+5. Schaden wirtschaftlich (Saldoprinzip; konkrete Gefaehrdung anerkannt)?
+6. Vorsatz und Bereicherungsabsicht (direkter Vorsatz; rechtswidrige Bereicherung)?
+7. Stoffgleichheit Schaden — Vorteil?
+8. Rechtswidrigkeit, Schuld, Konkurrenzen.
+
+## Fristen und Hinweise
+
+- **Verjaehrung § 78 StGB:** Verjaehrungsfrist fuenf Jahre (Strafrahmen bis fuenf Jahre).
+- **Beim besonders schweren Fall § 263 Abs. 3 StGB:** Zehn Jahre (Strafrahmen bis zehn Jahre).
+- **Akteneinsicht § 147 StPO** schnell beantragen — siehe Skill `fachanwalt-strafrecht-akteneinsicht-beantragen`.
+- **Schweigerecht § 136 StPO** Mandant deutlich belehren.
+
 ## Quellen Stand 06/2026
 
 - § 263 StGB (Stand 06/2026) im Wortlaut unter https://www.gesetze-im-internet.de/stgb/__263.html.
 - BGH staendige Rspr. zum Schaden beim Eingehungsbetrug (vor Ausgabe Az. ueber dejure.org verifizieren).
 - BVerfG 23.06.2010 — 2 BvR 2559/08 (Schadensbezifferung beim Wirtschaftsstrafrecht). Volltext: https://www.bundesverfassungsgericht.de/entscheidungen/rs20100623_2bvr255908.html.
 - § 46a StGB Taeter-Opfer-Ausgleich; §§ 73, 73c, 73d StGB Einziehung.
+- § 78 StGB Verjaehrung; § 147 StPO Akteneinsicht.
 - Pruefung von Literatur (Kommentare, Aufsaetze) nur bei lizenziertem Zugriff; siehe references/zitierweise.md.

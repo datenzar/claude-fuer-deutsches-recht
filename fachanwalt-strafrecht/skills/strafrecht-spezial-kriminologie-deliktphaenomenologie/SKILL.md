@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-kriminologie-deliktsphaenomenologie-vermoegen-gewalt-sex
+name: strafrecht-spezial-kriminologie-deliktphaenomenologie
 description: "Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug fuer kontextsensitive Strafzumessungsargumentation."
 ---
 

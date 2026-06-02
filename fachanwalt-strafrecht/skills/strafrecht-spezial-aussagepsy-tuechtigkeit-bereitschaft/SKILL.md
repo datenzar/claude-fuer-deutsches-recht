@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-aussagepsychologie-aussagetuechtigkeit-aussagebereitschaft
+name: strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft
 description: "Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin."
 ---
 

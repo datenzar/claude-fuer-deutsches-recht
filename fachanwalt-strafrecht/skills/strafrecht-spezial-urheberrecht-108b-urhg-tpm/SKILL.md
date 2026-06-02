@@ -67,6 +67,17 @@ Strafrahmen Paragraph 108b Abs 1 UrhG: Freiheitsstrafe bis ein Jahr oder Geldstr
 
 **Einlassungssnippet:** "Ich habe das Programm X im Jahr 2024 aus einem oeffentlichen open-source-Repository heruntergeladen und im Glauben angewendet, es handele sich um ein legales Backup-Werkzeug. Eine bewusste Umgehung einer wirksamen Schutzmassnahme war nicht beabsichtigt."
 
+## Verfahrensschritte im Mandat
+
+1. **Erstgespraech und Akteneinsicht.** Beschuldigtenstatus klaeren; Schweigen Paragraph 136 StPO; Akteneinsicht Paragraph 147 StPO.
+2. **Strafantrag pruefen.** Paragraph 109 UrhG iVm Paragraph 77b StGB; Dreimonatsfrist.
+3. **Wirksamkeit der TPM angreifen.** Technisches Sachverstaendigengutachten zur Wirksamkeit der Schutzmassnahme; bei trivialer Massnahme entfaellt Tatbestand.
+4. **Privatgebrauchsausnahme Paragraph 108b Abs 2 UrhG** belegen: Nachweis ausschliesslich privater Nutzung; keine Verbreitung.
+5. **Vorsatzpruefung.** Bei frei zugaenglichen Tools Verbotsirrtum Paragraph 17 StGB pruefen.
+6. **Vergleich mit Rechteinhaber** und Antragsruecknahme Paragraph 77d StGB; Lizenzgebuehrenanalogie.
+7. **Verstaendigung Paragraph 257c StPO** bei kommerzieller Tat und kooperativer Mandantenseite.
+8. **Hauptverhandlung** mit IT-Sachverstaendigem.
+
 ## Querverweise
 
 - `strafrecht-spezial-urheberrecht-106-urhg`

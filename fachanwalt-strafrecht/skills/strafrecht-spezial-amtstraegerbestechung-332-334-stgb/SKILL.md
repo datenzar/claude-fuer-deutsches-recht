@@ -107,11 +107,11 @@ Spiegelbildlich zu § 332 StGB.
 
 ## Querverweise
 
-- `strafrecht-spezial-vorteilsannahme-vorteilsgewaehrung-331-333-stgb`
-- `strafrecht-spezial-wirtschaftliche-bestechung-bei-amtsverhaeltnis`
+- `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
+- `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
 - `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
 - `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 - `fachanwalt-strafrecht-verstaendigung-257c-toa-46a`
 
 ## Quellen Stand 06/2026

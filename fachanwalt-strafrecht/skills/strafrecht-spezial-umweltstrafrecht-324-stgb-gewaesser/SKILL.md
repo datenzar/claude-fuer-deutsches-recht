@@ -82,7 +82,7 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 - `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall`
 - `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
 ## Quellen Stand 06/2026
 

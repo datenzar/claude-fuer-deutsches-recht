@@ -106,7 +106,7 @@ Der VerSanG-Entwurf 2020 sah vor:
 ## Querverweise
 
 - `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-bestechung-bestechlichkeit-amtstraeger-332-334-stgb`
+- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
 - `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
 - `strafrecht-spezial-insiderhandel-119-wphg`
 - `strafrecht-spezial-marktmanipulation-120-wphg`

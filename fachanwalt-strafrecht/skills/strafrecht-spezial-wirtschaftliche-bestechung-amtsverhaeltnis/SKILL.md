@@ -109,10 +109,10 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 ## Querverweise
 
 - `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
-- `strafrecht-spezial-vorteilsannahme-vorteilsgewaehrung-331-333-stgb`
-- `strafrecht-spezial-bestechung-bestechlichkeit-amtstraeger-332-334-stgb`
+- `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
+- `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
 - `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
-- `strafrecht-spezial-verbandssanktionengesetz-vorlaeufig-stand-2026`
+- `strafrecht-spezial-verbandssanktionengesetz-stand-2026`
 
 ## Quellen Stand 06/2026
 

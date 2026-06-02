@@ -77,7 +77,7 @@ Der Strafrahmen ist 6 Monate bis 10 Jahre. Mindeststrafrahmen ist niedriger als 
 
 - `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung`
 - `strafrecht-spezial-steuerstrafrecht-371-ao-selbstanzeige`
-- `strafrecht-spezial-steuerstrafrecht-373-ao-bandenmaessig-schmuggel`
+- `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
 
 ## Quellen Stand 06/2026
 

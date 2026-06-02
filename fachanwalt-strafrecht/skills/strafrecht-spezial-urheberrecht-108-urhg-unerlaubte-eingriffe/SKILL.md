@@ -68,6 +68,17 @@ Strafrahmen Paragraph 108 Abs 1 UrhG: Freiheitsstrafe bis drei Jahre oder Geldst
 
 **Hilfsbeweisantrag:** "Es wird beantragt, eine schriftliche Auskunft der Y GmbH einzuholen zum Beweis der Tatsache, dass die in Rede stehende Datenbank zum Tatzeitpunkt aelter als 15 Jahre war und der Schutz nach Paragraph 87d UrhG erloschen ist."
 
+## Verfahrensschritte im Mandat
+
+1. **Erstgespraech.** Vollmacht, Beschuldigtenbelehrung, Antrag auf Akteneinsicht Paragraph 147 StPO.
+2. **Strafantrag und Schutzfrist pruefen.** Drei-Monats-Frist Paragraph 77b StGB; Schutzfristen 50 oder 70 Jahre je nach verwandtem Schutzrecht; bei abgelaufener Schutzfrist: Antrag auf Einstellung.
+3. **Inhaberschaftsnachweis verlangen.** Lizenzkette des Anzeigeerstatters offenlegen lassen; bei Luecken Antrag auf weitere Aufklaerung.
+4. **IT-Forensik und Beweissicherung** der Datentraeger.
+5. **Schrankenregelungen anwenden.** Paragraph 51 UrhG (Zitat), Paragraph 53 UrhG (Privatkopie), Paragraph 87b UrhG bei Datenbank.
+6. **Vergleich mit Rechteinhaber** und Antragsruecknahme Paragraph 77d StGB anregen.
+7. **Schutzschrift / Verstaendigung Paragraph 257c StPO** je nach Beweislage.
+8. **Hauptverhandlung** mit Sachverstaendigenbeweisantraegen zu Schutzfrist und Inhaberschaft.
+
 ## Querverweise
 
 - `strafrecht-spezial-urheberrecht-106-urhg`

@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-aussagepsychologie-suggestion-und-falscherinnerung
+name: strafrecht-spezial-aussagepsy-suggestion-falscherinnerung
 description: "Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung."
 ---
 

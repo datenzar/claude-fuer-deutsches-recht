@@ -83,6 +83,20 @@ Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
 ```
 
+## Werkzeug-Hinweise zur Auswahl
+
+- CNIL PIA Software: kostenfrei, Open Source, mehrsprachig (DE-Lokalisierung verfuegbar), Export PDF und XML.
+- SDM V3.0: Methodenbeschreibung der DSK, frei verfuegbar, keine Software, sondern Pruefkatalog.
+- BSI-Grundschutz: Kompendium mit Bausteinen, GSTOOL bzw. verinice als Werkzeug.
+- Hybridansatz Empfehlung: SDM als methodische Klammer, CNIL PIA Software fuer strukturierte Risikoszenarien, BSI fuer TOM nach Art. 32 DSGVO.
+
+## Anwendungsfaelle
+
+- KI-System mit Profiling: SDM bevorzugt, weil Schutzziele die KI-typischen Risiken (Transparenz, Nicht-Verkettung) sauber adressieren.
+- Cloud-Migration mit US-Anbieter: CNIL PIA Software fuer Risikoszenarien plus BSI-Bausteine fuer technische Schutzmassnahmen.
+- Beschaeftigtenverarbeitung mit Mitbestimmung: SDM mit ergaenzendem Stakeholder-Modul.
+- Forschungsverarbeitung mit besonderen Kategorien: SDM und CNIL PIA kombinieren; Beweislast-Aspekt nach Art. 5 Abs. 2 DSGVO mitfuehren.
+
 ## Typische Fehler
 
 - Methode wird nicht explizit gewaehlt — Aufsicht verlangt Begruendung.
@@ -90,6 +104,8 @@ Unterschrift DSB: ____________________
 - BSI-Grundschutz wird als DSFA-Ersatz behandelt — er ist primaer Sicherheitsmethodik.
 - Hybridansatz wird gewaehlt, ohne die Schnittstellen zu definieren — Doppelarbeit oder Luecken.
 - Sprache der Methodenartefakte passt nicht zur Aufsicht (CNIL-Output franzoesisch bei deutscher Aufsicht).
+- Methodenwahl wird im Projektverlauf gewechselt — kein Quervergleich der Risikobewertung mehr moeglich.
+- Aufsichtshinweise zur Methodenfreiheit werden als Beliebigkeit verstanden — die Methode muss zur Verarbeitung passen.
 
 ## Querverweise
 

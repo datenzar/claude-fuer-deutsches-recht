@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-aussagepsychologie-bgh-grundsaetze
-description: "BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45, 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger."
+description: "BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger."
 ---
 
 # BGH-Grundsaetze zur aussagepsychologischen Begutachtung

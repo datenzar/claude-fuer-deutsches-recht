@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-aussagepsychologie-emotionsbewertung-mimik-gefahren
+name: strafrecht-spezial-aussagepsy-mimik-emotionsbewertung
 description: "Emotionsbewertung in der Vernehmung und Hauptverhandlung: Gefahren der Mimik-Lese, micro expressions, demeanor evidence. Wissenschaftlicher Forschungsstand zur Luegenerkennung durch Beobachtung. Verteidigerwerkzeug gegen die typische Tatrichter-Formel die Zeugin wirkte aufrichtig."
 ---
 

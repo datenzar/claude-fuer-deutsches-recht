@@ -82,6 +82,22 @@ Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
 ```
 
+## Beispielfaelle Konsultationspflicht
+
+- KI-Personalauswahl im Konzern: schriftliche Stellungnahme Betriebsrat plus Mitarbeiterumfrage.
+- Patientenakten-Migration in Cloud: Patientenvertretung anhoeren, Patienteninformation vorbereiten.
+- Smart-City-Sensorik: oeffentliche Anhoerung, Verbaendebeteiligung Datenschutzverein.
+- Connected-Vehicle-Telematik: Verbraucherverbaende anhoeren, ggf. Nutzerstichprobe.
+- Schueler-Lernplattform: Eltern- und Schuelervertretung anhoeren, Landesdatenschutz informieren.
+
+## Form der Dokumentation
+
+- Verteilte Fragenliste mit Datum, Empfaengerkreis, Rueckmeldefrist.
+- Eingaenge protokolliert mit Datum und Eingangsnummer.
+- Auswertung mit Begruendung welche Hinweise wie in die DSFA eingeflossen sind.
+- Nicht aufgenommene Hinweise mit Begruendung der Nicht-Beruecksichtigung.
+- Anonymisierung der Stellungnahmen wenn personenbezogen.
+
 ## Typische Fehler
 
 - Konsultation wird ganz unterlassen ohne dokumentierte Begruendung — Verstoss gegen Art. 35 Abs. 9 und Art. 5 Abs. 2 DSGVO.
@@ -90,6 +106,7 @@ Unterschrift DSB: ____________________
 - Konsultation wird nach DSFA-Abschluss durchgefuehrt — verfehlt den Zweck der Risikoabwaegung.
 - Schutzinteressen werden pauschal behauptet ohne konkrete Begruendung.
 - Bei oeffentlichen Stellen werden Beteiligungsrechte nach Landesrecht uebersehen.
+- Eingaenge der Stakeholder werden nicht im Verarbeitungsverzeichnis Art. 30 verlinkt.
 
 ## Querverweise
 

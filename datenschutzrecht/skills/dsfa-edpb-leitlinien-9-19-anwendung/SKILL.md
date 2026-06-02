@@ -79,6 +79,23 @@ Unterschrift Verantwortlicher: ____________________
 Unterschrift DSB: ____________________
 ```
 
+## Indikatoren fuer Kriterium 5 (grosser Umfang)
+
+- Anzahl Betroffener absolut und relativ zur Bevoelkerung der Zielregion.
+- Datenmenge pro Betroffenem (Datensaetze, Bytes, Dokumente).
+- Dauer und Persistenz der Verarbeitung.
+- Geografische Ausdehnung (regional, national, EU-weit, global).
+- Aufbewahrungsdauer.
+- Indikatorenkombinationen statt Einzelschwellen verwenden.
+
+## Hinweise zu Kriterium 8 (neue Technologien)
+
+- KI- und Maschinelles-Lernen-Systeme — regelmaessig einschlaegig.
+- Biometrische Identifikation (Gesicht, Stimme, Fingerabdruck).
+- IoT-Geraete mit personenbezogenen Sensoren.
+- Verhaltensbasierte Verfahren (Tippmuster, Mausbewegung).
+- Auch neue organisatorische Loesungen (z. B. neue Form der Zusammenarbeit mit Auftragsverarbeitern, neue Datenpools).
+
 ## Typische Fehler
 
 - Kriterium 5 (grosser Umfang) wird ohne Zahlen behauptet — EDSA verlangt konkrete Indikatoren.
@@ -86,6 +103,8 @@ Unterschrift DSB: ____________________
 - Kriterium 8 wird auf KI beschraenkt — auch neue organisatorische Loesungen koennen einschlaegig sein.
 - Begruendung wird in Floskeln gehalten — Aufsicht erwartet faktenfeste Subsumtion.
 - Die Zahl 2 wird als starre Schwelle verstanden — Art. 35 Abs. 1 DSGVO kennt auch das Einzelkriterium, wenn dessen Intensitaet hoch ist.
+- Negativabgrenzung fehlt — wenn Kriterium nicht erfuellt ist, muss auch das begruendet werden.
+- Mehrfachzaehlung (ein Sachverhalt fuer zwei Kriterien) ohne Begruendung.
 
 ## Querverweise
 

@@ -1,5 +1,5 @@
 ---
-name: strafrecht-spezial-aussagepsychologie-glaubhaftigkeit-vs-glaubwuerdigkeit
+name: strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit
 description: "Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen fuer Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung."
 ---
 

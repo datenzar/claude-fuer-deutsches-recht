@@ -83,7 +83,7 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 
 ## Querverweise
 
-- `strafrecht-spezial-aussagedelikte-153-stgb-falsche-uneidliche-aussage`
+- `strafrecht-spezial-aussagedelikte-153-stgb-uneidlich`
 - `strafrecht-spezial-rechtsbeugung-339-stgb`
 
 ## Quellen Stand 06/2026

@@ -64,6 +64,14 @@ Naechster Schritt: [Vollstaendige DSFA / Dokumentation / Weiterleitung an Skill]
 Unterschrift: ____________________
 ```
 
+## Praxishinweise zur Zustaendigkeit
+
+- Nicht-oeffentlicher Bereich: Landesdatenschutzbehoerde am Sitz des Verantwortlichen.
+- Oeffentlicher Bereich Bund (Bundesbehoerden, Telekommunikation, Post): BfDI.
+- Oeffentlicher Bereich Land: jeweilige Landesdatenschutzbehoerde.
+- Grenzueberschreitende Verarbeitung Art. 56 DSGVO: Federfuehrungsbehoerde am Sitz der Hauptniederlassung.
+- Konzern mit mehreren Sitzlaendern: Hauptniederlassung nach Art. 4 Nr. 16 DSGVO bestimmen.
+
 ## Typische Fehler
 
 - Nur BfDI geprueft, Landesbehoerde uebersehen — im nicht-oeffentlichen Bereich ist regelmaessig die Landesbehoerde des Sitzlandes zustaendig.
@@ -72,6 +80,15 @@ Unterschrift: ____________________
 - Whitelist als Freibrief verstanden — Whitelist entlastet nur, wenn die Verarbeitung exakt zur Listenposition passt.
 - Keine Dokumentation des Abrufdatums — Aufsicht kann den Stand nicht nachvollziehen.
 - Grenzueberschreitende Verarbeitung: Federfuehrungsbehoerde nach Art. 56 DSGVO uebersehen.
+- Konzerngesellschaften mit Sitz in mehreren Bundeslaendern: jede Gesellschaft hat eigene Aufsicht; nicht zentralisieren.
+- Konflikt Bundes- versus Landesliste: bei Doppelpflicht die strengere Vorgabe anwenden.
+
+## Beispielfaelle
+
+- Kreditscoring-Plattform: regelmaessig auf mehreren Landeslisten (Scoring + automatisierte Entscheidung).
+- Patientenakte mit Cloud-Speicherung: meist auf BfDI- bzw. Landesliste (besondere Kategorien Art. 9 + neue Technologie).
+- Videoueberwachung Bahnhofsvorplatz: Art. 35 Abs. 3 lit. c DSGVO unmittelbar und zusaetzlich Listentreffer wegen oeffentlichem Bereich.
+- KI-Personalauswahl: regelmaessig Listentreffer wegen Profiling und neuen Technologien.
 
 ## Querverweise
 

@@ -89,7 +89,7 @@ Bei wirksamer Selbstanzeige tritt **Strafbefreiung wegen der angezeigten Tat** e
 
 - `strafrecht-spezial-steuerstrafrecht-370-ao-steuerhinterziehung`
 - `strafrecht-spezial-steuerstrafrecht-370a-ao-bandenmaessig`
-- `strafrecht-spezial-steuerstrafrecht-373-ao-bandenmaessig-schmuggel`
+- `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
 
 ## Quellen Stand 06/2026
 
