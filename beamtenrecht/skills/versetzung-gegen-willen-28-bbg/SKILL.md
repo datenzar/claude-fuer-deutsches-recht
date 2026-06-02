@@ -46,6 +46,14 @@ Skill fuer Beamte, denen eine Versetzung in eine andere Behoerde oder in ein and
 - Anhoerungsantwort.
 - Widerspruchsschrift.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 28 BBG (Versetzung Bund); § 15 BeamtStG i.V.m. landesrechtlichen Versetzungsvorschriften.
+- §§ 130 ff. BBG (Umbildung von Koerperschaften); Sonderlagen mit Versetzung kraft Gesetzes.
+- Anhoerungspflicht des Beamten als Verfahrenserfordernis; § 28 VwVfG / Landesgesetze.
+- Verhaeltnismaessigkeitsgrundsatz: Pruefung milderer Mittel Umsetzung und Abordnung vor Versetzung.
+- BVerwG zur Versetzung gegen den Willen und zur Beruecksichtigung persoenlicher Verhaeltnisse — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandantin Behoerdenmitarbeiterin in Bonn, soll nach Berlin versetzt werden; pflegebedürftige Mutter und schulpflichtige Tochter. Skill liefert Anhoerungsantwort mit Geltendmachung persoenlicher Belange und Argumente fuer Umsetzung statt Versetzung.

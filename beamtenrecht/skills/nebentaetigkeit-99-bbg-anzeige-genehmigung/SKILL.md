@@ -50,6 +50,13 @@ Skill fuer Beamte, die eine Nebentaetigkeit aufnehmen wollen oder eine Versagung
 - Anzeige- oder Genehmigungsantrag.
 - Widerspruch gegen Versagung.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- §§ 97 bis 105 BBG (Nebentaetigkeitsrecht Bund); § 40 BeamtStG i.V.m. Landesrecht.
+- Bundesnebentaetigkeitsverordnung (BNV); landesrechtliche Nebentaetigkeitsverordnungen.
+- Hoechstgrenze fuer Nebentaetigkeitsverguetungen mit Ablieferungspflicht an den Dienstherrn bei oeffentlicher Nebentaetigkeit.
+- BVerwG zur Genehmigung und Versagung von Nebentaetigkeiten — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant Hochschuldozent (Beamter) plant Vortragstaetigkeit fuer einen Wirtschaftspruefer. Skill liefert Genehmigungsantrag, Pruefraster Interessenkonflikt und ggf. Begrenzung der Honorarablieferung.

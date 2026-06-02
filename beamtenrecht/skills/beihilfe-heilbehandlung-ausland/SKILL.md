@@ -46,6 +46,13 @@ Skill fuer Beihilfeberechtigte, die eine Behandlung im Ausland in Anspruch nehme
 - Antrag auf Beihilfe mit Rechnungen und aerztlicher Begruendung.
 - Pruefraster Beihilfefaehigkeit im Ausland.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- Richtlinie 2011/24/EU vom 09.03.2011 (Patientenrechte in der grenzueberschreitenden Gesundheitsversorgung).
+- EuGH, 23.10.2003 - C-56/01 (Inizan); EuGH, 16.05.2006 - C-372/04 (Watts); EuGH, 19.04.2007 - C-444/05 (Stamatelaki).
+- BBhV; landesrechtliche Beihilfeverordnungen; Auslandsdienstkrankenversicherungsregelungen.
+- BVerwG zur Beihilfefaehigkeit von Auslandsbehandlungen — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant laesst Hueftgelenkoperation in einer Wiener Klinik durchfuehren; Rechnung 18.500 Euro. Skill liefert Pruefung der Beihilfefaehigkeit nach Patientenrichtlinie und Begrenzung auf Inlandsniveau.

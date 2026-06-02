@@ -51,6 +51,13 @@ Skill fuer Beamte ab dem 55. Lebensjahr, die ueber Altersteilzeit den gleitenden
 - Berechnungstabelle Bezuege und Versorgung mit und ohne Altersteilzeit.
 - Antrag auf Altersteilzeit.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 93 BBG (Altersteilzeit Bund); § 9 BeamtStG i.V.m. landesrechtlichen Altersteilzeitvorschriften.
+- § 6 BeamtVG (ruhegehaltfaehige Dienstzeit Altersteilzeit); § 14 BeamtVG (Versorgungsabschlag).
+- Altersteilzeitzuschlagsverordnung Bund und landesrechtliche Aequivalente.
+- BVerwG zur Altersteilzeit der Beamten — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant 57 Jahre, will sechs Jahre Altersteilzeit im Blockmodell (drei Jahre Aktiv, drei Jahre Freistellung). Skill liefert Berechnung Bezuege und Versorgung.

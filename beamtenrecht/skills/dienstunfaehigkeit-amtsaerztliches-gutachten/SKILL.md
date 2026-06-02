@@ -48,6 +48,14 @@ Skill fuer Beamte im Verfahren zur Feststellung der Dienstunfaehigkeit, insbeson
 - Widerspruch gegen Untersuchungsaufforderung.
 - Schriftsatz gegen Ruhestandsbescheid.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- §§ 26, 44, 110 BBG; § 26 BeamtStG i.V.m. Landesrecht.
+- Art. 2 Abs. 1, Art. 1 Abs. 1 GG (Persoenlichkeitsrecht) als Schranke der Untersuchungsanordnung.
+- Anforderung an Bestimmtheit der Untersuchungsaufforderung: konkreter Anlass, Untersuchungsstelle, Umfang, Folgen unterlassener Mitwirkung.
+- BVerwG zur Bestimmtheit der Untersuchungsaufforderung und zum Vorrang des amtsaerztlichen Gutachtens — Datum und Az vor Zitat live verifizieren.
+- Akteneinsicht und Kenntnisnahme des Gutachtens nach § 110 BBG sowie landesrechtlichen Aequivalenten.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant erhaelt pauschale Aufforderung zur Untersuchung "wegen wiederholter Erkrankung". Skill liefert Widerspruch gegen Aufforderung wegen mangelnder Bestimmtheit und Pruefraster.

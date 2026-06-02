@@ -48,6 +48,13 @@ Skill fuer Beamte mit Dienstunfaellen oder dem Verdacht, dass eine gesundheitlic
 - Schriftliche Dienstunfallmeldung.
 - Pruefraster fuer Spaetfolgenmeldungen.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 31 BeamtVG (Dienstunfallbegriff); § 31 Abs. 2 BeamtVG (Wegeunfall); § 45 BeamtVG (Meldefristen zwei Jahre / zehn Jahre).
+- §§ 30 bis 47 BeamtVG (Unfallfuersorge insgesamt).
+- Massgeblich Lehre der rechtlich wesentlichen Mitursache; konstante Linie des BVerwG zur Kausalitaetspruefung.
+- BVerwG zum Dienstunfallbegriff und zur Kausalitaetsfrage — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandantin Lehrerin stuerzt im Klassenzimmer; zunaechst nur Hautabschuerfung, drei Jahre spaeter Bandscheibenschaden mit gutachterlich nachgewiesener Mitursache. Skill liefert Spaetfolgenmeldung innerhalb der Zehn-Jahres-Frist mit Kausalitaetsbegruendung.

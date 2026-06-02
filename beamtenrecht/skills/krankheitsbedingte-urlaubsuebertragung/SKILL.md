@@ -46,6 +46,14 @@ Skill fuer Beamte mit langjaehriger Erkrankung und entstehenden Resturlaubsanspr
 - Berechnungstabelle Resturlaub.
 - Antrag auf Gewaehrung oder Abgeltung.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- Richtlinie 2003/88/EG Art. 7; EuGH C-350/06 (Schultz-Hoff), C-214/10 (KHS), C-684/16 (Max-Planck), C-518/20 (Fraport / Stadt Wuppertal).
+- 15-Monats-Frist als zulaessige Uebertragungsobergrenze fuer den unionsrechtlichen Mindesturlaub.
+- § 89 BBG; § 208 SGB IX; Erholungsurlaubsverordnung und landesrechtliche Aequivalente.
+- Abgeltungspflicht bei Beendigung des Beamtenverhaeltnisses fuer den unionsrechtlich nicht verfallenen Mindesturlaub.
+- BVerwG zur Uebertragung der Schultz-Hoff-Linie ins Beamtenverhaeltnis — Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandantin 28 Monate Krankheit, in 2022 zehn Tage Urlaub genommen. Skill liefert Berechnung des unionsrechtlichen Mindesturlaubs fuer 2022, 2023 und 2024 unter Beruecksichtigung des Verfalls 15 Monate nach Urlaubsjahr.

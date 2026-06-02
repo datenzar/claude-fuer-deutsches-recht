@@ -48,6 +48,15 @@ Skill fuer Beamte, denen mangelnde Verfassungstreue vorgeworfen wird, oder fuer 
 - Pruefraster Mitgliedschaft — Aeusserung — Handlung — Bewertung.
 - Verteidigungsbausteine im Disziplinarverfahren.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 7 Abs. 1 Nr. 2 BBG; § 7 Abs. 1 Nr. 2 BeamtStG (Eignungsvoraussetzung Verfassungstreue).
+- § 33 Abs. 1 BeamtStG; § 60 Abs. 1 BBG (laufende Treuepflicht).
+- BVerfG, 22.05.1975 - 2 BvL 13/73 (sog. Radikalenbeschluss / Verfassungstreue-Beschluss).
+- BVerwG, 02.12.2021 - 2 A 7.21 (Reichsbuerger-/Verfassungstreue-Fall im Bundesdienst).
+- BVerwG, 10.10.2024 - 2 C 15.23 (Verfassungstreueanforderungen im juristischen Vorbereitungsdienst).
+- EGMR-Rechtsprechung zur Vereinbarkeit der Verfassungstreuepflicht mit Art. 10, 11 EMRK — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant Polizeibeamter, in Chatgruppen mit Reichsbuergerinhalten beteiligt; eine Aeusserung "BRD ist eine GmbH". Skill liefert Pruefraster mit Indizienliste, Anhoerungsstrategie und Disziplinargewichtung.

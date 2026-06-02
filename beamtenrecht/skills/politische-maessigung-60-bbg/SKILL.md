@@ -44,6 +44,14 @@ Skill fuer Beamte, denen die Verletzung der Maessigungspflicht vorgeworfen wird 
 - Verteidigungs-Memo.
 - Stellungnahme im Disziplinarverfahren.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 60 BBG; § 33 BeamtStG (Pflicht zur Maessigung und Zurueckhaltung im politischen Bereich).
+- Art. 5 Abs. 1 GG (Meinungsfreiheit) und Art. 5 Abs. 3 GG (Wissenschaftsfreiheit) als Schranken-Schranke der Maessigungspflicht.
+- Art. 33 Abs. 5 GG (hergebrachte Grundsaetze des Berufsbeamtentums); Art. 21 GG (Parteienprivileg).
+- BVerfG zur Meinungsfreiheit der Beamten und zur Maessigungspflicht — Datum und Az vor Zitat live verifizieren.
+- Statusabhaengige Differenzierung in der Rechtsprechung: strengere Massstaebe fuer Polizei und Lehrkraefte, weitere Spielraeume fuer wissenschaftliches Personal.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant Studiendirektor postet politische Kommentare zu Migrationsfragen auf Twitter unter Realname und mit Hinweis auf Schulort. Skill liefert Pruefraster Statusbezug, Meinungsfreiheit und Verhaeltnismaessigkeit moeglicher Disziplinarmassnahmen.

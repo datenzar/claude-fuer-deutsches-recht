@@ -47,6 +47,14 @@ Skill fuer Polizei- und Justizvollzugsbeamte, Feuerwehrleute und Soldaten, die w
 - Dienstunfallmeldung mit psychiatrischem Gutachten.
 - Hilfsantrag auf Anerkennung als Berufskrankheit.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- §§ 30, 31, 45 BeamtVG; § 31 Abs. 3 BeamtVG i.V.m. der Berufskrankheitenverordnung (BKV) fuer den Hilfsantrag Berufskrankheit.
+- ICD-10 F43.1 als Diagnosegrundlage; DSM-5 als ergaenzendes Diagnosesystem.
+- Anforderung an psychiatrisches Gutachten: Diagnose, Symptomverlauf, Verbindung zum auslosenden Ereignis, Differentialdiagnose.
+- BVerwG zur Anerkennung psychischer Erkrankungen als Dienstunfall und zur Abgrenzung Berufskrankheit — Datum und Az vor Zitat live verifizieren.
+- Bei Auslandsverwendung Soldaten und Bundespolizei Auslandsverwendungsgesetz und Einsatzversorgungsgesetz ergaenzend pruefen.
+
+## 7. Beispiel (Kurzfassung)
 
 Polizeihauptmeister entdeckt erhaengten Vermissten; entwickelt PTBS. Skill liefert Dienstunfallmeldung und Kausalitaetsdarstellung.

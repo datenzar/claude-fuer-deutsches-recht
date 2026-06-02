@@ -47,6 +47,16 @@ Skill fuer Beamte, denen Erholungsurlaub aus zurueckliegenden Urlaubsjahren nich
 - Antrag auf Urlaubsabgeltung.
 - Pruefraster Mitwirkungsobliegenheit und Uebertragungszeitraum.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- Richtlinie 2003/88/EG vom 04.11.2003 (Arbeitszeitrichtlinie), Art. 7 Mindesturlaub vier Wochen.
+- EuGH, 20.01.2009 - C-350/06 und C-520/06 (Schultz-Hoff und Stringer): kein Verfall des unionsrechtlichen Mindesturlaubs bei langfristiger Krankheit.
+- EuGH, 22.11.2011 - C-214/10 (KHS / Schulte): 15-Monats-Frist nach Ende des Urlaubsjahres als zulaessige Uebertragungsgrenze.
+- EuGH, 06.11.2018 - C-684/16 (Max-Planck-Gesellschaft / Shimizu) und C-619/16 (Kreuziger): Mitwirkungsobliegenheit des Dienstherrn als Verfallsvoraussetzung.
+- EuGH, 22.09.2022 - C-518/20 und C-727/20 (XP und AR / Fraport und Stadt Wuppertal): Bestaetigung Mitwirkungsobliegenheit bei langfristiger Erkrankung.
+- Normen Beamtenrecht: § 89 BBG; § 208 SGB IX (Schwerbehindertenzusatzurlaub); Erholungsurlaubsverordnung und landesrechtliche Aequivalente.
+- BVerwG zur Uebertragung der EuGH-Linie in das Beamtenrecht — Datum und Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant 18 Monate krank, Eintritt in den Ruhestand wegen Dienstunfaehigkeit. Insgesamt 42 Tage Resturlaub. Skill liefert Argumentation, dass mindestens unionsrechtlicher Mindesturlaub fortbesteht und abzugelten ist.

@@ -45,6 +45,13 @@ Skill fuer Beamte, die Elternzeit nehmen oder genommen haben und die Auswirkunge
 - Versorgungsausblick mit und ohne Beruecksichtigung der Elternzeit.
 - Beratungsschreiben Mandantin.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 6 BeamtVG (ruhegehaltfaehige Dienstzeiten); § 50a, § 50b BeamtVG (Kindererziehungszuschlag und Kindererziehungsergaenzungszuschlag).
+- § 6 BEEG (Elternzeit ohne Bezuege); § 80 BBG, § 92 BBG; § 43 BeamtStG i.V.m. Landesrecht (Teilzeit waehrend Elternzeit).
+- BVerfG zur Beruecksichtigung von Kindererziehungszeiten in der Beamtenversorgung — Datum und Az vor Zitat in amtlicher Quelle live pruefen.
+- Versorgungsausgleichsgesetz bei Scheidung waehrend oder nach Elternzeit; § 12 VersAusglG (Beamtenversorgung als Anrecht).
+
+## 7. Beispiel (Kurzfassung)
 
 Mandantin Beamtin A12, drei Kinder, je drei Jahre Elternzeit. Skill liefert Berechnung der ruhegehaltfaehigen Zeiten und Hinweise auf Kindererziehungszuschlag.

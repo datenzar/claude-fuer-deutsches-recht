@@ -45,6 +45,13 @@ Skill fuer Beihilfeberechtigte mit schwerer chronischer Krankheit, die wegen hoh
 - Antrag auf Reduzierung der Belastungsgrenze.
 - Pruefraster Behandlung — Beihilfefaehigkeit — Eigenbehalt.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- BBhV; Chroniker-Richtlinie des Gemeinsamen Bundesausschusses (G-BA) vom 22.01.2004 in jeweils geltender Fassung.
+- SGB V (Belastungsgrenze und chronisch krank); SGB XI (Pflegebeduerftigkeit) ergaenzend zur Beihilfe.
+- Landesrechtliche Beihilfeverordnungen mit eigenen Eigenbehaltsregelungen.
+- BVerwG zur Eigenbehaltsbefreiung bei schwerwiegender chronischer Erkrankung — Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandantin Multiple Sklerose, monatliche Immunmodulatoren, Krankengymnastik, Hilfsmittel. Skill liefert Antrag auf Befreiung von Eigenbehalten und Pruefung der Beihilfefaehigkeit des Spezialmedikaments.

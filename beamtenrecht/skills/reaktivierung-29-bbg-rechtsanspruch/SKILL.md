@@ -48,6 +48,13 @@ Skill fuer ehemals wegen Dienstunfaehigkeit in den Ruhestand versetzte Beamte, d
 - Antrag auf Reaktivierung.
 - Widerspruchsschrift gegen Reaktivierungsanordnung.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- § 29 BBG (Reaktivierung Bund); § 29 BeamtStG i.V.m. Landesrecht.
+- Voraussetzung amtsaerztlich attestierte Wiederherstellung der Dienstfaehigkeit; Zehn-Jahres-Frist nach Ruhestandsversetzung als Regelgrenze.
+- BVerwG zum Reaktivierungsanspruch und zu dienstlichen Belangen — Datum und Az vor Zitat live verifizieren.
+- Altersgrenze Regelaltersgrenze als absolute Schranke; nach Erreichen keine Reaktivierung mehr.
+
+## 7. Beispiel (Kurzfassung)
 
 Mandant wurde 2019 wegen depressiver Episode in den Ruhestand versetzt; nunmehr stabilisiert. Skill liefert Reaktivierungsantrag mit amtsaerztlichem Gutachten und Hinweis auf Anspruch.

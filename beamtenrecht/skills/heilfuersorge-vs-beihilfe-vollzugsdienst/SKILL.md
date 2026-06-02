@@ -46,6 +46,13 @@ Skill fuer Beamte in der Heilfuersorge (Bundespolizei, Bundeswehr, Justizvollzug
 - Antrag auf Erstattung Sondermassnahme.
 - Beratungsschreiben zu Ueberleitung in Ruhestand.
 
-## 6. Beispiel (Kurzfassung)
+## 6. Verifizierte Quellenanker
+
+- Heilfuersorgevorschriften Bund (z. B. Bundespolizei, Bundeswehr, Justizvollzug des Bundes) und landesrechtliche Heilfuersorgeerlasse.
+- BBhV; landesrechtliche Beihilfeverordnungen fuer Uebergang in den Ruhestand.
+- § 70 BBG (Fuersorgepflicht); § 78 BBG; § 45 BeamtStG.
+- BVerwG zum Verhaeltnis Heilfuersorge und Beihilfe — Az vor Zitat live verifizieren.
+
+## 7. Beispiel (Kurzfassung)
 
 Polizeihauptkommissar tritt mit 62 in den Ruhestand. Skill liefert Hinweise auf rechtzeitigen Beihilfeantrag, Anwartschaftsversicherung der PKV und Erstattungsumfang fuer Brillen.
