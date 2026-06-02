@@ -1,38 +1,77 @@
 ---
 name: triage-notaufnahme-ueberlastung-dokumentation
-description: "Triage Notaufnahme Überlastung Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung."
 ---
 
-# Triage Notaufnahme Überlastung Dokumentation
+# Triage Notaufnahme Ueberlastung Dokumentation
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Triage System MTS, Emergency Severity Index ESI) priorisieren. Bei Ueberlastung und Knappheit (Intensivbetten, Beatmungsgeraete) bestehen ethisch-rechtliche Vorgaben (BVerfG-Beschluss zur Triage 2021/2022; § 5c IfSG nach Pandemienovelle).
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welche Triage-Lage (Routine, Massenanfall, Ressourcenknappheit)?
+- Welches Triagesystem ist eingefuehrt (MTS, ESI, andere)?
+- Liegen Dokumentationsstandards, Schulungsnachweise vor?
+- Gab es einen konkreten Vorfall (Triagefehler, Behandlungsverzoegerung)?
+- Drohen Haftungsrisiken, Aufsicht oder Patientenbeschwerde?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **BGB §§ 630a ff.** Behandlungspflicht, Aufnahme-/Ueberweisungspflicht in Notlage.
+- **GG Art. 3 Abs. 3 S. 2** Benachteiligungsverbot wegen Behinderung — BVerfG 16.12.2021 zur Triage (1 BvR 1541/20).
+- **§ 5c IfSG** Triagegrundsaetze (Pandemienovelle 2022).
+- **DIVI- und DGINA-Empfehlungen** zu Triagesystemen und Krisenversorgung.
+- **Notaufnahmevergaben G-BA** Stufenkonzept und Strukturmerkmale.
+- **MD-Strukturpruefung** und MBO-Aerzte.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Triage Notaufnahme Überlastung Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Triagesystem dokumentieren:** Welches System, wer triagiert (Notfallpflege, Aerztlich), Schulungsnachweis.
+2. **Dokumentation jeder Triage:** Eingangstrias mit Datum/Uhrzeit, Kategorie, Vitalparameter, Begruendung.
+3. **Re-Triage:** Bei Verzoegerung erneute Bewertung; Verlauf dokumentieren.
+4. **Sekundaer-Triage:** Bei knappen Ressourcen (Intensivbett, Beatmung) Entscheidung anhand § 5c IfSG: Erfolgsaussicht im Einzelfall, kein Diskriminierungskriterium.
+5. **Ueberlastung melden:** Innerbehoerdlich, ggf. Leitstelle Rettungsdienst (Abmeldung Aufnahmestatus).
+6. **Vorfall-/Haftungspruefung:** Fehlerquellen, dokumentierte Begruendung, Nachschulung.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Lage | Triagesystem | Risiko |
+|---|---|---|
+| Routinenotaufnahme | MTS/ESI | wenig |
+| Massenanfall MANV | MTS-MCI / SIEVE-START | hohe Anforderung Doku |
+| Pandemielage knapper Intensivbetten | § 5c IfSG (Erfolgsaussicht) | verfassungsrechtl. Sensibilitaet |
+| Ueberlastung dauerhaft | Strukturkritik, Aufsichtsdialog | Strukturpruefung droht |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- BVerfG-Beschluss (1 BvR 1541/20) hat Gesetzgeber zu Schutzregeln verpflichtet — § 5c IfSG ist die Antwort.
+- Triagesystem zertifiziert anwenden (z. B. MTS-Lizenz, ESI-Schulung), Schulungsnachweis aufbewahren.
+- Ex-post-Triage (Behandlungsabbruch zugunsten anderer) ist verfassungsrechtlich verboten (§ 5c Abs. 2 IfSG).
+- Re-Triage bei langer Wartezeit zwingend — Verlaufsdokumentation.
+- Abmeldung Aufnahmestatus an Rettungsleitstelle ist klare Eskalationsmassnahme bei Ueberlastung.
+
+## Mustertexte
+**Triage-Dokumentation (Routine):**
+> Eingangsdatum/-zeit: …, Patient: …, Triage-System: MTS, Kategorie: rot/orange/gelb/gruen/blau, Vitalparameter (RR, HF, AF, SpO2, Schmerzen NRS): …, Triagierende Person (Quali, Schulung): …, Nachsicht/Re-Triage: ja/nein.
+
+**Vorfallmemo Triagefehler:**
+> Vorfall vom [Datum], Patient [ID], Kategorie [vergeben], tatsaechliche Schwere: …, Folge: …, Ursachenanalyse: …, Massnahmen: Schulung, Audit, Eskalationspfad.
+
+## Typische Fehler
+- Triage durch ungeschultes Personal.
+- Re-Triage fehlt bei langen Wartezeiten.
+- Dokumentation unvollstaendig — Beweisnot bei Haftung.
+- § 5c IfSG-Vorgaben nicht in SOP integriert (Diskriminierungsverbot).
+- Aufnahmestatus nicht abgemeldet trotz Ueberlastung.
+
+## Querverweise
+- `notfallstufen-und-sicherstellungszuschlaege`
+- `intensivmedizin-beatmung-verlegung`
+- `rettungsdienst-schnittstelle-aufnahme-pflicht`
+- `patientenrechte-behandlungsvertrag-aufklaerung`
+- `dokumentation-aufbewahrung-beweislast`
+- `haftpflichtfall-krankenhaus-gutachtenstrategie`
+
+## Quellen Stand 06/2026
+- BVerfG 16.12.2021, 1 BvR 1541/20.
+- § 5c IfSG.
+- DIVI-/DGINA-Triage-Empfehlungen (Live-Check divi.de, dgina.de).
+- G-BA Notfallstufen-RL (Live-Check g-ba.de).
+- BGH, staend. Rspr. zu Aufnahmepflicht und Behandlungsverzoegerung.

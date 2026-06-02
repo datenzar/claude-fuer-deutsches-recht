@@ -3,36 +3,118 @@ name: digital-services-algorithmen-empfehlungssysteme-dsa
 description: "Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Algorithmen Empfehlungssysteme DSA
+# Algorithmen und Empfehlungssysteme nach dem Digital Services Act
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Arbeit zu Transparenz- und Risikopflichten von Anbietern von Online-Plattformen und Suchmaschinen bezüglich algorithmischer Empfehlungssysteme. Adressat: Bundesnetzagentur als Digital Services Coordinator (DSC) nach § 12 DDG, daneben Europäische Kommission für VLOPs und VLOSEs. Typische Konstellationen: Plattform muss Empfehlungslogik in den AGB beschreiben (Art. 27 DSA); VLOP muss Systemrisiken bewerten (Art. 34 DSA) und Minderungsmaßnahmen ergreifen (Art. 35 DSA); Beschwerde gegen voreingestellte personalisierte Empfehlung; Auskunftsersuchen der BNetzA als DSC nach Art. 67 DSA.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Plattformtyp (Hosting, Online-Plattform, sehr große Online-Plattform/Suchmaschine).
+- Aktive monatliche Nutzer in der EU (Schwellenwert Art. 33 DSA: 45 Mio.).
+- Art des Empfehlungssystems (kollaborativ, contentbasiert, hybrid, ML-Modell, redaktionelle Kuratierung).
+- Bestehende Beschreibung in den AGB und im Transparenzbericht.
+- Risikobewertungsbericht (intern oder veröffentlicht).
+- Konkretes Verlangen der BNetzA oder konkrete Beschwerde Dritter.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- VO (EU) 2022/2065 (Digital Services Act), insbesondere
+  - Art. 14 (AGB-Klarheit, Grundrechtsbezug),
+  - Art. 27 (Empfehlungssysteme allgemein),
+  - Art. 34/35 (Systemrisiken VLOP, Minderungsmaßnahmen),
+  - Art. 37 (unabhängiges Audit VLOP),
+  - Art. 38 (nicht-profilbasierte Option),
+  - Art. 40 (Datenzugang Forscher),
+  - Art. 42 (Transparenzberichte VLOP).
+- §§ 12–24 DDG (BNetzA als DSC, nationale Befugnisse).
+- § 18 DDG (Auskunftsverlangen), § 19 DDG (Untersagung), § 24 DDG (Bußgelder bis 6 Prozent Jahresumsatz).
+- Art. 67 ff. DSA (Untersuchungsbefugnisse), Art. 73 DSA (Verpflichtungszusagen), Art. 74 DSA (Geldbußen).
+- Art. 7, 8, 11, 21 GRCh, DSGVO Art. 22 (automatisierte Entscheidung im Einzelfall).
+- § 31 BDSG, § 25 TDDDG (Cookie-Schnittstelle).
+- §§ 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln; Untätigkeitsklage).
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Ablauf
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+1. **Plattform-Kategorie bestimmen.**
+   - Hosting (Art. 4 ff. DSA).
+   - Online-Plattform (Art. 19 ff. DSA).
+   - Sehr große Online-Plattform/Suchmaschine (Art. 33 ff. DSA).
+   - Kategorisierung steuert den Pflichtenkatalog.
+
+2. **AGB-Transparenz Art. 27 DSA prüfen.**
+   - Klare und verständliche Darstellung der Hauptparameter.
+   - Bedeutendste Faktoren benennen; relative Gewichtung erläutern.
+   - Sprache: deutsche Sprachfassung erforderlich für deutsche Nutzer.
+   - Layout: leicht zugänglich, nicht in versteckten Hilfeseiten.
+
+3. **Nicht-profilbasierte Alternative Art. 38 DSA.**
+   - Für VLOPs verpflichtend: mindestens eine Empfehlungsoption, die nicht auf Profiling beruht (z. B. chronologisch).
+   - Klar erkennbarer Auswahl-Punkt direkt im Hauptfluss.
+
+4. **Systemrisikobewertung Art. 34 DSA.** Vier Risikodimensionen:
+   - rechtswidrige Inhalte,
+   - Grundrechte (Art. 7, 8, 11, 21 GRCh),
+   - demokratische Prozesse und gesellschaftliche Debatte,
+   - geschlechtsspezifische Gewalt und Schutz Minderjähriger.
+
+5. **Minderungsmaßnahmen Art. 35 DSA dokumentieren.** Konkret, messbar, evaluierbar; Effektivitätsmessung als Teil des Art. 42-Berichts.
+
+6. **Auskunftsverlangen der BNetzA.** Strukturierte Antwort mit Schwärzungen (Sicherheitsdetails, Modellgewichte, Geschäftsgeheimnisse nach § 17 GeschGehG).
+
+7. **Beschwerdeführer-Rolle.** Beschwerde nach Art. 53 DSA i. V. m. § 18 DDG; Anhang mit Screenshots, Zeitstempel, betroffenen Nutzerkonten.
+
+8. **Rechtsschutz.**
+   - Klage zum VG Köln (§ 51 Abs. 1 Nr. 7 VwGO) gegen DSC-Maßnahmen.
+   - Anfechtung von Untersagungsverfügungen.
+   - Bei VLOP-bezogenen Verfahren ggf. Klage zum EuG (Art. 263 AEUV).
+
+## Mustertexte
+- Art. 27 DSA-Erklärung für die AGB: Hauptparameter (Aufmerksamkeitssignale, Nutzerinteraktion, Aktualität), Gewichtung in Prozentbändern, Anpassungsoptionen.
+- Auskunft an die BNetzA nach § 18 DDG: tabellarische Antwort mit Anlagen Pseudonymisierungs-/Aggregationsvermerk.
+- Beschwerde nach Art. 53 DSA: Plattform, Sachverhalt, behauptete Pflichtverletzung, Beweismittel, Antrag.
+
+## Quellenpflicht
+- Vorrang EU-Originaltext aus EUR-Lex.
+- Leitlinien der Kommission und des Europäischen Gremiums für digitale Dienste (Art. 64 DSA) als Auslegungshilfe.
+- BNetzA-DSC-Praxis nur generisch, konkrete Az. vom Anwender zu verifizieren.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+
+- Compliance-Memo (5–15 Seiten) mit Pflichten-Kartierung.
+- Risikomatrix nach Art. 34 DSA (Risikodimensionen x Wahrscheinlichkeit x Schwere).
+- Entwurf der AGB-Passage Art. 27 DSA in der jeweiligen Landessprache.
+- Implementierungsplan (Phasen, Owner, Fristen).
+
+## Beispiele
+
+- **Online-Marktplatz.** Marktplatzbetreiber muss seine Empfehlung von Verkäuferangeboten transparent machen. Ergebnis: Erweiterung AGB-Klausel, neue Nutzeroberfläche mit Erklärbutton.
+- **Soziales Netzwerk VLOP.** Lieferung der nicht-profilbasierten Default-Option. Ergebnis: Pflicht aus Art. 38 DSA, Implementierungspfad und Test in 3 EU-Mitgliedstaaten dokumentieren.
+- **Verbraucherverband-Beschwerde.** Personalisierungs-Override rügen. Ergebnis: Beschwerde an BNetzA-DSC, Erfolgsaussicht hängt von Beweissicherung ab.
+- **Suchmaschine.** Reihenfolge-Algorithmus muss erläutert werden; Mitbewerber-Beschwerde wegen Selbstbevorzugung.
+- **Video-Plattform.** Kinderschutz-relevante Empfehlung; Bezug zu Art. 28 DSA (Minderjährige), Audit Art. 37 DSA.
+
+## Verhältnis zu anderen Skills im Plugin
+
+- Verzahnung mit `digital-services-online-werbung-transparenz-dsa` bei werblicher Personalisierung.
+- Verzahnung mit `digital-services-transparenzberichte-online-plattformen` für Art. 42-Berichtspflicht.
+- Verzahnung mit `digital-services-vlop-vlose-koordination-eu-kommission` bei VLOP/VLOSE-Verfahren.
+- Verzahnung mit `digital-services-dark-patterns-dsa-schnittstelle` bei UI-Gestaltung der Empfehlung.
+
+## Häufige Fehler
+
+- Art. 27 DSA-Klausel zu abstrakt ohne konkrete Faktoren-Gewichtung.
+- Art. 38-Default-Option versteckt in Untermenüs.
+- Risikobewertung Art. 34 als reiner Checklisten-Abhaken statt empirischer Analyse.
+- Minderungsmaßnahmen ohne messbare Kennzahlen.
+- DSGVO-Art. 22-Bezug bei automatisierter Entscheidung ignoriert.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Versand prüfen:
+- VLOP-Status sicher bestimmt?
+- Art. 27, 34, 35, 38 DSA jeweils geprüft?
+- Sprachfassung Deutsch?
+- AGB-Klausel im Originalwortlaut beigefügt?
+- Risikoampel je Pflicht?
+- Mit Schwärzungs-Skill abgestimmt?

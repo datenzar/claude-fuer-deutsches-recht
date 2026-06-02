@@ -3,36 +3,88 @@ name: bundesverwaltungsgericht-wehrdienstsenate
 description: "Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Bundesverwaltungsgericht Wehrdienstsenate
+# Bundesverwaltungsgericht – Wehrdienstsenate
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Rechtsmittel aus WDO und WBO sowie über erstinstanzliche Anträge in eng begrenzten Fällen (insbesondere Konkurrentenstreit gegen Maßnahmen höherer Vorgesetzter, § 21 WBO). Sie sind die höchste Instanz im Wehrdienstrecht und legen die Auslegung von SG, WBO, WDO maßgebend fest. Der Skill ordnet ein, wann das BVerwG Wehrdienstsenat zuständig ist und wie das Verfahren abläuft.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Liegt eine Entscheidung des Truppendienstgerichts vor? Berufung oder Revision?
+- Geht es um eine Maßnahme eines höheren Vorgesetzten (BMVg, Inspekteur, Kommandeur höherer Ebene) – § 21 WBO erste Instanz?
+- Welche Frist läuft (1 Monat ab Zustellung des TDG-Urteils; bei § 21 WBO erste Instanz: 1 Monat ab Beschwerdebescheid)?
+- Streitwert/Bedeutung der Sache – Revisionszulassungsgründe?
+- Eilbedürfnis (vorläufige Maßnahmen § 25 WBO entsprechend)?
+- Soll grundsätzliche Rechtsfrage durch BVerwG geklärt werden?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 21 WBO: Erstinstanzliche Zuständigkeit des BVerwG bei Maßnahmen höherer Vorgesetzter (Bundesminister, Inspekteure).
+- § 23a WDO: Berufung gegen TDG-Urteile in disziplinargerichtlichen Sachen.
+- §§ 124 ff. VwGO i.V.m. §§ 19 ff. WBO: Verfahren vor dem BVerwG bei wehrbeschwerderechtlichen Streitsachen.
+- §§ 132 ff. VwGO: Revisionszulassungsgründe – grundsätzliche Bedeutung, Divergenz, Verfahrensfehler.
+- § 80a VwGO: Vorläufige Maßnahmen im Eilrechtsschutz.
+- § 50 SG: Verlust der Rechte als Soldat – höchstrichterliche Klärung beim BVerwG.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Rechtsmittelart bestimmen.** Berufung in WDO-Sachen (§ 23a WDO); Antrag auf gerichtliche Entscheidung in § 21 WBO-Sachen; Beschwerde gegen Beschluss des TDG.
+2. **Frist sichern.** 1 Monat ab Zustellung des TDG-Urteils bzw. des Beschwerdebescheids.
+3. **Anwaltspflicht.** Vor dem BVerwG besteht Vertretungszwang durch Rechtsanwalt nach § 67 IV VwGO entsprechend.
+4. **Schriftsatz.** Tatsachenvortrag, rechtliche Würdigung, konkrete Anträge, Beweisangebote (Zeugen, Urkunden, Sachverständige).
+5. **Zulassungsgründe.** Bei Revision: grundsätzliche Bedeutung, Divergenz, Verfahrensmangel substantiieren.
+6. **Eilantrag prüfen.** Bei drohender Vollziehung – einstweilige Anordnung gegen Versetzung, Konkurrentenstreit, vorläufige Dienstenthebung.
+7. **Mündliche Verhandlung** oft erforderlich; schriftliches Verfahren möglich.
+8. **Urteil/Beschluss** mit Bindungswirkung; ggf. Verfassungsbeschwerde zum BVerfG (Art. 93 I Nr. 4a GG).
+
+## Trade-off-Matrix
+
+| Ausgangslage | BVerwG erste Instanz § 21 WBO | TDG-Berufungsweg |
+| --- | --- | --- |
+| Maßnahme BMVg/Inspekteur | Direkt BVerwG | nicht statthaft |
+| TDG-Urteil mit Maßnahme | – | Berufung § 23a WDO |
+| Konkurrentenstreit höhere Ebene | § 21 WBO + Eilantrag | – |
+| Grundsatzfrage | Revision § 132 VwGO | – |
+
+## Praxistipps
+
+- BVerwG entscheidet streng nach Akten – Tatsachenvortrag in den vorinstanzlichen Schriftsätzen muss bereits präzise sein.
+- "Ständige Rechtsprechung" der Wehrdienstsenate ist hochrelevant – Auswertung der BVerwG-Datenbank Pflicht. Konkrete Az. nur nach Verifikation zitieren.
+- Anwaltspflicht ab BVerwG-Verfahren – Selbstvertretung des Soldaten unzulässig.
+- Bei § 21 WBO-Verfahren: keine Vorbefassung des Truppendienstgerichts – Sprung in die Bundesgerichtsbarkeit.
+- Eilanträge mit konkreter Glaubhaftmachung der Eilbedürftigkeit (zB Versetzung in zwei Wochen).
+
+## Mustertexte
+
+**Berufungsschrift im disziplinargerichtlichen Verfahren:**
+"An das Bundesverwaltungsgericht, Wehrdienstsenat. Gegen das Urteil des Truppendienstgerichts [Süd/Nord], Az. [...], vom [Datum], zugestellt am [Datum], lege ich Berufung nach § 23a WDO ein. Es wird beantragt, das Urteil aufzuheben und [...]. Begründung folgt fristgerecht binnen [Frist]."
+
+**Antrag § 21 WBO erste Instanz:**
+"Gegen die Maßnahme des [Bundesministers/Inspekteurs/...] vom [Datum], zugegangen am [Datum], beantrage ich nach § 21 WBO i.V.m. § 17 WBO gerichtliche Entscheidung. Es wird beantragt: 1. Die Maßnahme aufzuheben. 2. Den Antragsgegner zu verpflichten, [...]. 3. Aussetzung der Vollziehung."
+
+## Typische Fehler
+
+- Frist 1 Monat versäumt – Zustellungsdatum ungeprüft.
+- Selbstvertretung ohne Anwalt – Schriftsatz wird als unzulässig zurückgewiesen.
+- Revisionszulassungsgründe nicht substantiiert.
+- Tatsachenvortrag erst beim BVerwG nachgeholt – Präklusion droht.
+- Verwechslung von erstinstanzlicher Zuständigkeit nach § 21 WBO und Berufungsweg nach § 23a WDO.
+
+## Querverweise
+
+- truppendienstgericht-zustaendigkeit-verfahren
+- wehrbeschwerdeordnung-beschwerde-frist-form
+- eilverfahren-konkurrentenstreit-wehrdienstsenat
+- weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht
+- gerichtliches-disziplinarverfahren-soldat
+- rechtsbeistand-im-disziplinarverfahren
+
+## Quellen Stand 06/2026
+
+- WBO §§ 17, 21 – Volltext gesetze-im-internet.de.
+- WDO § 23a – Volltext gesetze-im-internet.de.
+- VwGO §§ 67, 80a, 124 ff., 132 – Volltext gesetze-im-internet.de.
+- BVerwG Wehrdienstsenate – ständige Rechtsprechung; Entscheidungsdatenbank des BVerwG (bverwg.de).
+- Geschäftsverteilung BVerwG – jährlich publiziert.
+- Keine Kommentarstellen aus Modellwissen.

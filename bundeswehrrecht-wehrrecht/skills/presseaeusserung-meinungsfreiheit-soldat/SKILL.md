@@ -3,36 +3,92 @@ name: presseaeusserung-meinungsfreiheit-soldat
 description: "Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Presseäußerung Meinungsfreiheit Soldat
+# Presseäußerung und Meinungsfreiheit des Soldaten
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Der Soldat genießt die Meinungsfreiheit aus Art. 5 GG, die jedoch durch die soldatischen Pflichten aus dem SG eingeschränkt ist: Wahrheitspflicht (§ 13 SG), Verschwiegenheit (§ 14 SG), Mäßigungsgebot (§ 15 SG), Achtungs- und Vertrauenswürdigkeit (§ 17 SG). Presse- und Medienäußerungen sind ein häufiger Konfliktbereich: Interviews, Leserbriefe, Beiträge in Sozialen Medien, Bücher und Podcasts. Der Skill ordnet Genehmigungspflicht, Inhaltsgrenzen und Folgen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Presseäußerung Meinungsfreiheit Soldat: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Art der Äußerung (Interview, Buch, Blog, Podcast, Social Media)?
+- Inhalt (allgemeinpolitisch, dienstlich, Personal, Geheimschutz, Einsatz)?
+- Genehmigung der Dienststelle eingeholt?
+- Erkennbarkeit als Soldat (Name, Dienstgrad, Uniform, Truppenteil)?
+- Reichweite der Veröffentlichung?
+- Schon Reaktion der Dienststelle (Anhörung, Disziplinarvorgang)?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- Art. 5 I, II GG: Meinungs- und Pressefreiheit; Schranken der allgemeinen Gesetze.
+- § 10 IV SG: Vorgesetzter darf keine politische Werbung ausüben (Spiegelnorm).
+- § 13 SG: Wahrheitspflicht in dienstlichen Erklärungen.
+- § 14 SG: Verschwiegenheit über dienstliche Angelegenheiten.
+- § 15 SG: Mäßigung im politischen Bereich.
+- § 17 II SG: Achtungs- und Vertrauenswürdigkeit auch außer Dienst.
+- § 18 SG: Genehmigungspflichten für veröffentlichte dienstliche Mitteilungen.
+- ZDv A-2630/1 (Innere Führung) – nur nach Vorlage.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Inhalt klassifizieren.** Privatmeinung, dienstliche Information, geheimhaltungspflichtige Information, politisches Statement?
+2. **Genehmigungspflicht prüfen.** § 14 SG/§ 18 SG: Dienstliche Angelegenheiten benötigen Zustimmung.
+3. **Identifikationsgrad messen.** Klarname, Uniform, Truppenteil – verstärkt Bindung an SG-Pflichten.
+4. **Risikoanalyse.** Welche Pflicht ist potenziell verletzt? Mehrere parallel möglich.
+5. **Veröffentlichungsmuster.**
+   - Wahrheitsgemäß, faktenbasiert, ohne dienstliche Bewertung: in der Regel zulässig.
+   - Politische Werbung mit Bundeswehrbezug: hoch riskant.
+   - Innerdienstliche Missstände öffentlich: § 14 SG vs. Wehrbeauftragter parallel.
+6. **Strategie im Konflikt.** Sofortige Distanzierung, Löschung, Berichtigung. Schriftliche Stellungnahme.
+7. **Verfahrensgang.** Disziplinarmaßnahme einfacher Art, gerichtliches Disziplinarverfahren, ggf. WStG bei Geheimschutzverletzung.
+
+## Trade-off-Matrix
+
+| Äußerung | Privater Charakter | Risiko |
+| --- | --- | --- |
+| Buch über Einsatz, mit BMVg-Freigabe | Genehmigt | gering |
+| Interview ohne Freigabe zur Personalpolitik | Dienstlich | hoch |
+| Wehrbeauftragten kontaktieren | Geschützt nach WBeauftrG | gering |
+| Anonym leaken | Geheimschutz | sehr hoch |
+
+## Praxistipps
+
+- Wer Veröffentlichungen plant: vorab Pressestelle / Vorgesetzten konsultieren, Freigabe schriftlich.
+- Wehrbeauftragter (Art. 45b GG) ist privilegierter Kommunikationsweg – schützt vor § 14 SG.
+- "Privates" Buch über Einsatz ist regelmäßig dienstlich – § 14 SG erfasst auch Erinnerungen mit Geheimnischarakter.
+- Klarname-Posting mit Dienstgrad/Uniformbild: gilt als dienstliche Erklärung, § 13 SG anwendbar.
+- Distanzierung nach Veröffentlichung kann Maßnahme mildern, aber nicht ausschließen.
+
+## Mustertexte
+
+**Genehmigungsantrag für Medienauftritt:**
+"Sehr geehrte Damen und Herren, ich beabsichtige am [Datum] ein Interview mit [Medium] zum Thema [...]. Inhalt der geplanten Aussagen: [Stichworte]. Ich bitte um Genehmigung nach § 18 SG sowie um Mitteilung etwaiger Auflagen. Beigefügt sind die voraussichtlichen Antworten in schriftlicher Form."
+
+**Stellungnahme zur Anhörung wegen Presseäußerung:**
+"Die in Bezug genommene Äußerung erfolgte außerhalb des Dienstes, ohne Uniform und ohne Bezug auf konkrete dienstliche Tatsachen. Sie ist von Art. 5 GG gedeckt. § 14 SG steht nicht entgegen, weil ausschließlich öffentliche, nicht geheimhaltungspflichtige Informationen wiedergegeben wurden. Hilfsweise hat der Mandant die Äußerung am [Datum] entfernt und sich distanziert."
+
+## Typische Fehler
+
+- Dienstliche Inhalte ohne Freigabe öffentlich – auch bei "Privatcharakter" des Mediums.
+- Whistleblowing direkt an Presse statt erst Wehrbeauftragten – verliert Schutzwirkung.
+- Klarname-Postings mit Dienstgradkennzeichnung unterschätzen.
+- Geheimschutzrechtliche Folgen (Strafanzeige § 353b StGB, § 11 SÜG) übersehen.
+- Distanzierungserklärung erst nach Bekanntwerden – Glaubhaftigkeit fraglich.
+
+## Querverweise
+
+- politische-betaetigung-maessigung-neutralitaet
+- social-media-soldat-dienstpflichten
+- geheimschutz-sicherheitsueberpruefung-sueg
+- pflicht-zum-treuen-dienen-7-sg
+- mandantenbrief-soldat-verstaendlich
+- kameradschaft-achtungs-und-vertrauenspflicht
+
+## Quellen Stand 06/2026
+
+- Art. 5 GG.
+- §§ 13, 14, 15, 17, 18 SG – Volltext gesetze-im-internet.de.
+- BVerfG zu Meinungsfreiheit von Soldaten – ständige Rechtsprechung; Volltexte bundesverfassungsgericht.de.
+- BVerwG Wehrdienstsenate zu § 17 SG – ständige Rechtsprechung (Az. nach Verifikation).
+- WBeauftrG – Volltext gesetze-im-internet.de.
+- § 353b StGB, SÜG – Volltext gesetze-im-internet.de.

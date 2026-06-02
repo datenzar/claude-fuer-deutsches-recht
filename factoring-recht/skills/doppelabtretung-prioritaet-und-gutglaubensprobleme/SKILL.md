@@ -5,34 +5,99 @@ description: "Doppelabtretung Priorität und Gutglaubensprobleme: prüft die ein
 
 # Doppelabtretung Priorität und Gutglaubensprobleme
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Die Forderung gibt es nur einmal. Wird sie zweimal abgetreten, gewinnt regelmäßig der **Erstabnehmer** (Prioritätsprinzip prior tempore, potior iure). Der Zweitabnehmer geht leer aus, weil der Verkäufer im Moment der zweiten Abtretung nicht mehr Inhaber der Forderung war. **Gutgläubiger Erwerb von Forderungen kennt das BGB nicht** – anders als beim beweglichen Sachen-Recht (§§ 932 ff. BGB). Diese Regel macht die Reihenfolge der Abtretungen zur **wirtschaftlichen Existenzfrage** für jeden Factor.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Typische Konstellationen: Globalzession an Hausbank + Factoring; verlängerter Eigentumsvorbehalt + Factoring; Sicherungsabtretung an Lieferanten + Factoring. Dieser Skill ordnet, wer wann zuerst war, und wie man als Factor priorisiert.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Doppelabtretung Priorität und Gutglaubensprobleme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Sie nehmen ein neues Mandat auf, der Kunde hat einen Bankkredit mit Globalzession.
+- Im Streitfall behaupten Bank und Factor, ihnen stehe dieselbe Forderung zu.
+- Beim Lieferanten-EV soll eine bestimmte Forderung dem Factor verkauft werden.
+- In der Insolvenz konkurrieren mehrere Sicherungszessionare um die Forderung.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Wann und mit wem hat der Kunde welche Abtretung vereinbart?
+- Sind die Abtretungsverträge bestimmt genug (Bestimmbarkeit)?
+- Liegt ein Vorrangverzicht eines früheren Sicherungsnehmers vor?
+- Gibt es einen verlängerten Eigentumsvorbehalt im Liefervertrag?
+- Wann ist die Forderung entstanden (relevant für künftige Forderungen)?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **§ 398 BGB**: Abtretung – formfrei, Einigung zwischen Alt- und Neugläubiger.
+- **Prior tempore, potior iure**: bei mehreren Abtretungen gewinnt die früheste – st. Rspr.
+- **Kein gutgläubiger Forderungserwerb**: Anders als § 932 BGB bei beweglichen Sachen.
+- **Bestimmbarkeit künftiger Forderungen**: Forderung muss bei Entstehung bestimmbar sein – relevant für Globalzession (BGH NJW 2000, 276).
+- **§ 354a HGB**: Wirksamkeit trotz Abtretungsverbots beim Handelsgeschäft; nimmt der Konkurrenz nicht den Vorrang.
+- **§ 449 BGB**: Eigentumsvorbehalt – beim verlängerten EV gehört die Forderung dem Lieferanten.
+- **§ 161 InsO**: Insolvenzanfechtung – nachträglicher Konkurrenzangriff.
+- **BGH zur Reichweite des "verlängerten" EV** (st. Rspr.): Forderung aus Weiterverkauf von Vorbehaltsware geht dem Lieferanten zu.
+
+## Workflow / Schritt für Schritt
+
+1. **Zeitstrahl erstellen**: Welche Abtretung wurde wann vereinbart? Datum, Vertragspartner, Reichweite.
+2. **Bestimmbarkeit prüfen**: Ist jede Abtretung hinreichend bestimmt formuliert?
+3. **Bei künftigen Forderungen**: Wann ist die Forderung entstanden? Sie geht im Entstehungszeitpunkt auf den ersten bestimmbar Berechtigten über.
+4. **Verlängerten EV abgrenzen**: Welcher Lieferant hat Vorbehalt? Welche Forderung betrifft das? Branchenausnahme möglich.
+5. **Vorrangverzicht prüfen**: Hat ein früherer Berechtigter (Bank, Lieferant) ausdrücklich auf seinen Vorrang verzichtet?
+6. **Sicherheitenstruktur abgleichen**: Globalzession Bank kann oft mit Branchenausnahme für Factoring koexistieren.
+7. **Vertragsgestaltung anpassen**: Im Factoringvertrag erklärt der Kunde Garantie, keine vorrangigen Abtretungen.
+
+## Trade-off-Matrix
+
+| Konstellation | Vorrang | Lösung |
+|---|---|---|
+| Globalzession Bank vor Factoring | Bank | Vorrangverzicht der Bank einholen |
+| Globalzession Bank, aber Branchenausnahme | Bank für andere, Factor für Branche | Klare Abgrenzung im Bankvertrag |
+| Verlängerter EV Lieferant vor Factoring | Lieferant | Lieferantenzustimmung, Vorrangverzicht |
+| Zwei Factoringverträge nacheinander | Erster Factor | Zweiter erhält keine Forderung |
+| Künftige Forderung, beide Abtretungen vor Entstehung | Wer zuerst bestimmbar | Datierung beweisbar machen |
+| Sicherungsabtretung + offener Verkauf | Sicherungsabtretung wenn erste | Konflikt mit Faktor-Forderung |
+
+## Praxistipps
+
+- **Bankkredit prüfen**: Im Standardkreditvertrag deutscher Banken ist Globalzession verpflichtend. Vor Factoringaufnahme Vorrangverzicht oder Branchenausnahme einholen.
+- **Vorrangverzicht-Klausel**: Banken geben den Vorrang für Factoring-Forderungen typischerweise frei, wenn der Bankkredit anderweitig gesichert ist.
+- **Verlängerter EV verträgt sich oft mit Factoring**: Praxisüblich ist die Branchenausnahme im Factoringvertrag (Forderungen aus Weiterverkauf vorbehaltsbelasteter Ware werden ausgeschlossen).
+- **Bestimmbarkeit überprüfen**: BGH ist streng – "alle Forderungen aus laufender Geschäftsbeziehung" reicht; "alle künftigen Forderungen" ohne Eingrenzung ist riskant.
+- **Beweisbar dokumentieren**: Datum der Abtretung, idealerweise notariell oder per Zeitstempel beweisen.
+
+## Mustertexte
+
+**Klausel Garantie ohne Vorabtretung**
+
+"Der Kunde garantiert, dass die zum Ankauf angebotenen Forderungen frei von vorherigen Abtretungen und sonstigen Sicherungsrechten Dritter sind. Insbesondere bestehen keine Globalzessionen, Sicherungsabtretungen oder verlängerten Eigentumsvorbehalte, die mit dem Factoring kollidieren. Sollten solche Rechte bestehen, wird der Kunde dies dem Factor unverzüglich offenlegen."
+
+**Vorrangverzicht Bank**
+
+"Die [Bank] verzichtet hiermit auf den Vorrang ihrer Globalzession vom … aus dem Kreditvertrag Nr. … hinsichtlich der Forderungen, die der [Kunde] im Rahmen des Factoringvertrags mit der [Factor] vom … abtritt. Die [Bank] erkennt an, dass die Abtretung an die [Factor] vorrangig wirksam ist."
+
+**Branchenausnahme**
+
+"Die Globalzession erstreckt sich nicht auf Forderungen, die der Kunde aus Lieferungen und Leistungen seiner Tochtergesellschaft [X-GmbH] gegen die im Anhang aufgeführten Großdebitoren erlangt. Diese Forderungen kann der Kunde frei verfügen und insbesondere im Rahmen eines Factoringvertrags abtreten."
+
+## Typische Fehler
+
+- Annahme, der gute Glaube des Factors schütze – falsch, kein gutgläubiger Forderungserwerb.
+- Globalzession der Bank wird nicht geprüft – Bank ist regelmäßig erste Berechtigte.
+- Bestimmbarkeit der Globalzession nicht geprüft – wäre die nicht bestimmbar, wäre die Bank nicht vorrangig.
+- Verlängerter EV wird übersehen – Lieferant hat Vorrang.
+- Künftige Forderungen werden im Entstehungszeitpunkt anders zugeordnet als gedacht.
+
+## Querverweise
+
+- `globalzession-verlaengerte-eigentumsvorbehalte-prioritaetskonfli`
+- `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote`
+- `insolvenzanfechtung-globalzession-deckung-bargeschaeft`
+- `insolvenz-des-factoringkunden-aussonderung-absonderung`
+
+## Quellen Stand 06/2026
+
+- BGB §§ 398, 401, 449 zur Abtretung und zum Eigentumsvorbehalt.
+- BGH zum Prioritätsprinzip bei Mehrfachabtretung (st. Rspr.).
+- BGH zur Bestimmbarkeit von Globalzessionen (etwa BGH NJW 2000, 276 – Bezeichnungs-/Bestimmbarkeitsanforderungen).
+- BGH zum verlängerten Eigentumsvorbehalt und seinem Verhältnis zur Globalzession.
+- HGB § 354a zur Wirksamkeit der Abtretung im Handelsverkehr.

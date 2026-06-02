@@ -3,36 +3,91 @@ name: soldatenbeteiligung-vertrauensperson-sbg
 description: "Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Soldatenbeteiligung Vertrauensperson SBG
+# Soldatenbeteiligung – Vertrauensperson nach SBG
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Das Soldatenbeteiligungsgesetz (SBG) regelt die Mitbestimmung und Mitwirkung der Soldaten durch Vertrauenspersonen. Die Vertrauensperson ist das Pendant zum Personalrat – jedoch mit eingeschränkten Befugnissen wegen der besonderen Stellung des Soldaten. Sie ist zu wesentlichen personalrelevanten und sozialen Entscheidungen anzuhören oder mitbestimmungspflichtig zu beteiligen. Der Skill ordnet Wahl, Aufgaben und Beteiligungstatbestände.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welche Vertrauenspersonsebene (Kompanie, Bataillon, Regiment, Heimatschutz)?
+- Welche Maßnahme steht im Raum (Versetzung, Strafmaßnahme, Beurteilung, Urlaubsregelung, Arbeitszeit)?
+- Wurde die Vertrauensperson tatsächlich beteiligt? Anhörung vor Entscheidung?
+- Liegt eine Beteiligungspflicht oder ein bloßes Anhörungsrecht vor?
+- Ist eine Wahlanfechtung im Raum?
+- Steht ein Bezug zu Mobbing, sexueller Belästigung oder Gleichstellung?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- §§ 2 ff. SBG: Wahl der Vertrauensperson – allgemeine, freie, gleiche, geheime Wahl in der Kompanie / vergleichbaren Teileinheit.
+- § 18 SBG: Allgemeine Aufgaben der Vertrauensperson – Vertretung der Soldaten in Angelegenheiten des Innendienstes, der Ausbildung, der Fürsorge.
+- § 23 SBG: Beteiligungsrechte – Mitwirkung in personalrelevanten Entscheidungen (Versetzung, Beurteilung etc.).
+- § 24 SBG: Mitbestimmungsrechte in sozialen und innerdienstlichen Angelegenheiten.
+- § 25 SBG: Verfahren der Beteiligung – Anhörung vor der Entscheidung.
+- § 32 SBG: Wahlanfechtung.
+- Schnittstelle Gesamtvertrauenspersonenausschuss beim BMVg.
+- SBG/Frauenförderung: Gleichstellungsbeauftragte (§ 19 SoldGleiG).
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Beteiligungsebene zuordnen.** Welche Vertrauensperson ist zuständig (Kompanie/Bataillon/höhere Ebene)?
+2. **Maßnahme einordnen.**
+   - Anhörung (§ 23 SBG)?
+   - Mitwirkung (§ 24 SBG)?
+   - Mitbestimmung mit Einigungsstellenverfahren?
+3. **Verfahrensgang dokumentieren.** Wann wurde die Vertrauensperson informiert, gehört, ggf. zugestimmt oder widersprochen?
+4. **Beteiligungsfehler rügen.** Fehlende oder verspätete Beteiligung führt zur Aufhebung der Maßnahme im WBO-Verfahren.
+5. **Schutz der Vertrauensperson.** § 9 SBG i.V.m. § 8 BetrVG entsprechend – kein Benachteiligungsverbot.
+6. **Wahlanfechtung** §§ 32 ff. SBG – 12 Tage ab Bekanntgabe.
+7. **Beschwerdeweg WBO** für Soldaten, deren Recht auf ordnungsgemäße Beteiligung verletzt wurde.
+
+## Trade-off-Matrix
+
+| Maßnahme | Beteiligungspflicht | Rechtsfolge bei Verstoß |
+| --- | --- | --- |
+| Versetzung mit Standortwechsel | Anhörung § 23 SBG | aufhebbar im WBO |
+| Urlaubsplanung | Mitwirkung | korrigierbar |
+| Disziplinarmaßnahme einfacher Art | Anhörung individuell | unabhängig vom SBG |
+| Ausbildungsplan | Mitbestimmung soziale Angelegenheit | Maßnahme aussetzbar |
+
+## Praxistipps
+
+- Vertrauensperson hat Sitzungsanspruch und Freistellungsrecht. Vorgesetzter darf nicht zur Eile drängen.
+- "Beteiligung" ist nicht Zustimmung – aber gehörte Bedenken sind in der Entscheidung zu würdigen.
+- Bei strukturellen Problemen (Mobbing, Diskriminierung): Vertrauensperson informieren, ggf. Wehrbeauftragten einschalten.
+- Wahlanfechtungsfrist 12 Tage ist sehr kurz – Mandant frühzeitig instruieren.
+- Vertrauensperson erscheint in WBO-Verfahren als Beistand möglich (entsprechend § 90 WDO).
+
+## Mustertexte
+
+**Beanstandung fehlender Beteiligung:**
+"Die [Maßnahme: Versetzung/Beurteilung/...] vom [Datum] wurde ohne ordnungsgemäße Beteiligung der Vertrauensperson nach § 23 SBG getroffen. Dies ist ein wesentlicher Verfahrensfehler. Ich beantrage daher die Aufhebung der Maßnahme und Wiederherstellung des status quo ante."
+
+**Antrag der Vertrauensperson auf Einsicht in den Vorgang:**
+"In der Personalsache des Soldaten [Name] beantrage ich als Vertrauensperson Akteneinsicht nach § 25 SBG, um zur beabsichtigten Maßnahme [...] Stellung nehmen zu können. Eine Stellungnahme erfolgt binnen einer Woche nach Akteneinsicht."
+
+## Typische Fehler
+
+- Beteiligung nach Entscheidung statt vor Entscheidung – Verfahrensmangel.
+- Nur informelle Information statt formaler Beteiligung.
+- Vertrauensperson nicht zum schriftlichen Bekanntgeben einbezogen.
+- Fristen der Wahlanfechtung verpasst.
+- Verwechslung mit Personalrat (BPersVG) – beide Gremien arbeiten parallel für unterschiedliche Statusgruppen.
+
+## Querverweise
+
+- soldatengesetz-rechtsstellung-grundpflichten
+- mobbing-fuersorgepflicht-bundeswehr
+- sexuelle-belaestigung-beschwerde-schutzpflicht
+- gleichstellung-diskriminierung-soldatinnen-soldaten
+- personalvertretung-zivile-beschaeftigte-schnittstelle
+- versetzung-kommandierung-abordnung
+
+## Quellen Stand 06/2026
+
+- SBG – Volltext gesetze-im-internet.de.
+- SoldGleiG – Volltext gesetze-im-internet.de.
+- BVerwG Wehrdienstsenate – Rechtsprechung zur Beteiligungspflicht (Az. nach Verifikation).
+- Wehrbeauftragter des Deutschen Bundestages – Jahresberichte (bundestag.de/wehrbeauftragter).
+- Keine Kommentar- oder Aufsatzfundstellen aus Modellwissen.

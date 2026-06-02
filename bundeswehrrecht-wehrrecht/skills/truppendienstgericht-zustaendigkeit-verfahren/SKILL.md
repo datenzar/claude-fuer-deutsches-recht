@@ -3,36 +3,89 @@ name: truppendienstgericht-zustaendigkeit-verfahren
 description: "Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Truppendienstgericht Zuständigkeit Verfahren
+# Truppendienstgericht – Zuständigkeit und Verfahren
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Die Truppendienstgerichte (Süd in München, Nord in Münster) sind erstinstanzlich zuständig für gerichtliche Disziplinarverfahren gegen Soldaten und für Anträge auf gerichtliche Entscheidung nach WBO. Sie sind eigenständige Bundesgerichte unter Vorsitz von Berufsrichtern, ergänzt durch Beisitzer aus der Truppe. Der Skill ordnet ein, wann TDG zuständig ist, wie das Verfahren abläuft und welche Rechtsmittel bestehen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welche Verfahrensart liegt vor: WBO-Antrag, gerichtliches Disziplinarverfahren, vorläufige Maßnahmen?
+- Truppenteil und Standort des Mandanten – welches TDG (Süd/Nord) ist örtlich zuständig?
+- Bisheriger Verfahrensstand: Anhörung erfolgt? Disziplinarverfügung? Beschwerdebescheid?
+- Liegt ein Antrag auf Einleitung des gerichtlichen Disziplinarverfahrens vor?
+- Frist bereits gewahrt (2 Wochen nach § 17 WBO, § 42 WDO)?
+- Mündliche Verhandlung beantragt oder schriftliches Verfahren?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- §§ 68 ff. WDO: Errichtung und Besetzung der Truppendienstgerichte – Süd und Nord, jeweils mit Vorsitzendem Richter, weiteren Richtern und ehrenamtlichen Beisitzern aus der Truppe.
+- § 70 WDO: Geschäftsverteilung – Truppendienstkammern.
+- §§ 76 ff. WDO: Einleitung des gerichtlichen Disziplinarverfahrens durch Einleitungsbehörde (BMVg oder beauftragte Stelle).
+- §§ 90 ff. WDO: Hauptverhandlung – Anwesenheit, Verteidigung, Beweisaufnahme.
+- § 91 WDO: Mündliche Verhandlung als Regel.
+- § 17 WBO i.V.m. §§ 76 ff. WDO: Verfahren über Anträge auf gerichtliche Entscheidung.
+- § 22a WDO: Vorläufige Dienstenthebung und Einbehaltung von Bezügen durch das TDG.
+- § 23a WDO: Rechtsmittel – Berufung/Revision zum BVerwG (Wehrdienstsenat).
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Zuständigkeit prüfen.** Truppendienstgericht Süd (Standorte südlich der Mainlinie) bzw. Nord. Bei Auslandsverwendung – Standort des Stammteils.
+2. **Antrag/Schriftsatz vorbereiten.** Beim Antrag auf gerichtliche Entscheidung nach § 17 WBO: Beschwer, Tatsachenvortrag, Beweismittel, Anträge. Beim gerichtlichen Disziplinarverfahren: Verteidigungsschrift nach Anklage durch Einleitungsbehörde.
+3. **Frist sichern.** 2 Wochen nach Zustellung des Beschwerdebescheids (§ 17 WBO) bzw. 2 Wochen nach Anklageschrift.
+4. **Beweisanträge.** Zeugen, Sachverständige, Urkunden – schriftlich vor der Hauptverhandlung mit Beweisthema.
+5. **Akteneinsicht** umfassend; auch beigezogene Personalakten, ärztliche Gutachten, Beurteilungen.
+6. **Verteidigerbestellung.** Auf Antrag bei drohender hoher Maßnahme; Pflichtverteidiger nicht vorgesehen, aber Beistand zulässig.
+7. **Hauptverhandlung.** Erscheinen Pflicht; Beweisaufnahme; Schlussvortrag; Urteil mit Maßnahme oder Freispruch.
+8. **Rechtsmittel.** Berufung/Revision zum BVerwG nach § 23a WDO; 1 Monat ab Zustellung des Urteils.
+
+## Trade-off-Matrix
+
+| Verfahrenslage | Mündliche Verhandlung | Schriftliches Verfahren |
+| --- | --- | --- |
+| Tatsächlich streitig | Beweisaufnahme nötig | nicht sinnvoll |
+| Rein rechtliche Frage | nicht zwingend | schneller |
+| Maßnahmebemessung | Persönlicher Eindruck wertvoll | – |
+| Verfahrenseinstellung erwartet | – | nach § 108 WDO möglich |
+
+## Praxistipps
+
+- TDG ist kein klassisches Verwaltungsgericht. Beisitzer aus der Truppe haben Stimmrecht und Einfluss auf die Bemessung der Maßnahme.
+- Erscheinen des Mandanten ist Pflicht – Vorführung möglich bei unentschuldigtem Fernbleiben.
+- Wehrdisziplinaranwaltschaft (§ 84 WDO) verfolgt im gerichtlichen Verfahren; im Antragsverfahren nach WBO tritt sie als Beteiligte auf.
+- Beweisanträge nicht erst in der Hauptverhandlung stellen – vorbereitende Schriftsätze sind günstiger.
+- Bei vorläufiger Dienstenthebung (§ 22a WDO) eigener Eilantrag prüfen.
+
+## Mustertexte
+
+**Antragsschrift auf gerichtliche Entscheidung nach § 17 WBO:**
+"An das Truppendienstgericht [Süd/Nord], [Adresse]. Gegen den Beschwerdebescheid vom [Datum], zugestellt am [Datum], beantrage ich nach § 17 WBO gerichtliche Entscheidung. Es wird beantragt: 1. den Bescheid und die zugrunde liegende Maßnahme aufzuheben, 2. die Aussetzung der Vollziehung anzuordnen, 3. die Hinzuziehung der Personalakte und der Disziplinarvorgänge."
+
+**Verteidigungsschrift im gerichtlichen Disziplinarverfahren:**
+"In dem gerichtlichen Disziplinarverfahren gegen [Name], Az.: [...] nehme ich für den Soldaten Stellung: Die Anschuldigungsschrift vom [Datum] enthält folgende Tatvorwürfe: [...]. Eingeräumt wird: [...]. Bestritten wird: [...]. Es werden folgende Beweisanträge gestellt: 1. Vernehmung des Zeugen [...] zum Beweis von [...]. 2. Hinzuziehung des Personalaktenstücks [...]. 3. Sachverständigengutachten zur Frage [...]."
+
+## Typische Fehler
+
+- Falsches TDG angerufen – verzögert Verfahren.
+- Frist § 17 WBO mit der WBO-Beschwerdefrist verwechselt.
+- Beweisantrag erst in der Hauptverhandlung – nach § 244 StPO entsprechend kann abgewiesen werden.
+- Vorläufige Dienstenthebung nicht gesondert angegriffen.
+- Pflichtige Anwesenheit übersehen – Folge: Vorführung oder Verfahrensnachteile.
+
+## Querverweise
+
+- wehrbeschwerdeordnung-beschwerde-frist-form
+- gerichtliches-disziplinarverfahren-soldat
+- bundesverwaltungsgericht-wehrdienstsenate
+- vorlaeufige-dienstenthebung-einbehaltung-bezuege
+- eilverfahren-konkurrentenstreit-wehrdienstsenat
+- rechtsbeistand-im-disziplinarverfahren
+
+## Quellen Stand 06/2026
+
+- WDO §§ 68 ff., 90 ff. – Volltext gesetze-im-internet.de.
+- WBO § 17, § 21 – Volltext gesetze-im-internet.de.
+- Geschäftsverteilung Truppendienstgerichte – jährlich veröffentlicht beim BVerwG.
+- BVerwG Wehrdienstsenate – Rechtsprechung zu Verfahrensgrundsätzen vor dem TDG.
+- Keine Kommentarstellen oder Aufsätze aus Modellwissen.

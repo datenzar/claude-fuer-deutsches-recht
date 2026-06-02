@@ -3,36 +3,91 @@ name: ptbs-einsatzfolge-beweisfuehrung
 description: "PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# PTBS Einsatzfolge Beweisführung
+# PTBS als Einsatzfolge – Beweisführung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Erkrankung, die durch Extremereignisse im Einsatz ausgelöst werden kann (ICD-10 F43.1, ICD-11 6B40). Im Versorgungsrecht der Bundeswehr ist PTBS als Wehrdienstbeschädigung/Einsatzunfall anerkannt, wenn der Kausalzusammenhang nach den Versorgungsmedizinischen Grundsätzen wahrscheinlich gemacht ist. Der Skill ordnet Diagnose, Belastungsanamnese, Gutachten und Verfahren.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welche Diagnose (ICD-Code) wurde gestellt? Welche Fachärzte (Bundeswehrkrankenhaus, Vertragsarzt)?
+- Welches Belastungsereignis (Gefecht, Anschlag, Tod von Kameraden, Verletzung Zivilist, Unfall, Bedrohung)?
+- Zeitliche Lücke zwischen Belastung und Diagnose?
+- Sekundärfolgen (Depression, Suchterkrankung, Suizidalität, Erwerbsunfähigkeit)?
+- Versicherungsmedizinische Bewertung schon erfolgt? GdS festgesetzt?
+- Streitiger Punkt: Diagnose, Kausalität oder GdS-Höhe?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 81 SVG: Wehrdienstbeschädigung, einschließlich psychischer Schäden.
+- § 81a SVG: Einsatzunfall – PTBS als Folge des Einsatzgeschehens.
+- § 81e SVG: Einmalige Entschädigung bei GdS 50 v.H. und mehr.
+- § 81b SVG: Erweiterte Heilbehandlung, Pflege.
+- Versorgungsmedizinische Grundsätze (VMG) – Bewertung psychischer Störungen.
+- ICD-10 F43.1, ICD-11 6B40 – diagnostische Standards.
+- BSG-Rechtsprechung zur Kausalität psychischer Schäden – ständige Rechtsprechung.
+- Schnittstelle § 1 SGB IX (Teilhabe), Heilfürsorge der Bw.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Diagnose sichern.** Facharzt für Psychiatrie/Psychotherapie oder Psychotraumatologie; ICD-Code; Symptomerfassung (Intrusionen, Vermeidung, Hyperarousal, kognitive Veränderungen).
+2. **Belastungsanamnese.** Einsatzberichte, OPLAN, Kameradenberichte, eigene Tagebücher, ggf. Funkprotokolle.
+3. **Kausalkette aufbauen.** Belastungsereignis -> Symptombeginn -> Chronifizierung. Auch verzögerte PTBS (delayed-onset) anerkannt.
+4. **Antrag** beim BAPersBw auf Anerkennung als WDB/Einsatzunfall mit allen Befunden.
+5. **Begutachtung.** Vorzugsweise traumatherapeutisch erfahrener Gutachter. Eigene Stellungnahme/Gegengutachten.
+6. **GdS-Bewertung.** Nach VMG: Belastungssymptome, soziale/berufliche Funktionseinschränkung.
+7. **Berufsförderung und Reha** parallel beantragen (BFD/SVG).
+8. **Widerspruch und Klage** bei Unterbewertung (1 Monat).
+
+## Trade-off-Matrix
+
+| Konstellation | Strategie |
+| --- | --- |
+| Klares Kampfereignis, akute Symptome | Sofortantrag mit Befunden |
+| Delayed-onset Jahre später | Belastungsanamnese plus Zeugen plus Tagebücher |
+| Komorbide Depression/Sucht | Differenzialdiagnose; Mitverursachung |
+| Diagnose abgelehnt | Zweitgutachten; spezialisiertes Zentrum |
+| GdS zu niedrig | VMG-konforme Substantiierung |
+
+## Praxistipps
+
+- BVerwG/BSG: Wahrscheinlichkeitsmaß genügt. Vollbeweis nur der Schädigung (Diagnose) und der haftungsbegründenden Tatsache (Einsatzereignis).
+- Bundeswehr eigene Trauma-Zentren (BwKrhs Berlin, Hamburg, Westerstede). Gutachten dort ist nicht zwingend bindend.
+- Tagebücher und Briefe aus dem Einsatz sind häufig stärkste Beweismittel.
+- Suizidversuch oder -tod als Folge der PTBS: Hinterbliebenenversorgung (§ 88 SVG) kann ausgelöst werden.
+- BFD-Berufsförderung kombiniert mit Heilfürsorge – Reha vor Rente.
+
+## Mustertexte
+
+**Antrag auf Anerkennung PTBS als Einsatzunfall:**
+"Beim BAPersBw beantrage ich die Anerkennung einer PTBS (ICD-10 F43.1) als Einsatzunfall nach § 81a SVG. Belastungsereignis: Einsatz [Bezeichnung], [Datum/Ereignis]. Diagnose: durch Dr. [Name], BwKrhs [Standort], am [Datum]. Symptome: [...]. Beweismittel: 1. ärztlicher Bericht. 2. Einsatzbefehl / OPLAN-Auszug. 3. Kameradenbericht Stbsf [Name]. 4. Tagebuch des Mandanten. Beantragt werden: GdS 50 v.H. nach VMG, einmalige Entschädigung § 81e SVG, Heilbehandlung § 81b SVG."
+
+**Widerspruch gegen Ablehnung:**
+"Die Ablehnung stützt sich auf fehlende Kausalität. Tatsächlich genügt nach BSG-Rechtsprechung Wahrscheinlichkeit. Die Symptomatik begann zeitnah zum Einsatzereignis (Sept. [Jahr]). Delayed-onset-PTBS ist nach VMG ausdrücklich anerkannt. Es wird ein traumatherapeutisches Gutachten beantragt; vorgeschlagen werden Dr. [Name] oder das Trauma-Zentrum [...]."
+
+## Typische Fehler
+
+- Belastungsereignis pauschal, nicht datiert/dokumentiert.
+- Diagnose von nicht spezialisiertem Arzt – verteidigungsschwach im Widerspruch.
+- Komorbide Diagnosen unterschätzen – mindern den GdS.
+- VMG-Tabelle nicht zitiert – Bewertung scheint pauschal.
+- § 81e SVG-Einmalentschädigung nicht ausdrücklich beantragt.
+
+## Querverweise
+
+- soldatenversorgungsgesetz-beschaedigtenversorgung
+- einsatzunfall-wehrdienstbeschaedigung
+- einsatz-unfall-versorgung-dokumentenplan
+- aerztliche-begutachtung-dienstfaehigkeit
+- sanitaetsdienst-heilfuersorge
+- dienstunfaehigkeit-entlassung-zurruhesetzung
+
+## Quellen Stand 06/2026
+
+- SVG §§ 81, 81a, 81b, 81e – Volltext gesetze-im-internet.de.
+- VMG (Versorgungsmedizinische Grundsätze) – BMAS-Publikation.
+- ICD-10 F43.1, ICD-11 6B40 – WHO-Veröffentlichungen.
+- BSG zu Kausalität psychischer Schäden – ständige Rechtsprechung.
+- BAPersBw – Verwaltungspraxis.
+- Bundeswehrkrankenhäuser – Standorte und Fachabteilungen (bundeswehr.de).

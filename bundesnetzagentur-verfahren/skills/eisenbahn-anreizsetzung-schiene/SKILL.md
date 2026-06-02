@@ -3,36 +3,59 @@ name: eisenbahn-anreizsetzung-schiene
 description: "Eisenbahn / Anreizsetzung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht."
 ---
 
-# Eisenbahn: Anreizsetzung Schiene
+# Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Begleitung des Anreizsetzungssystems (ASS) für Pünktlichkeit und Zuverlässigkeit im Eisenbahnverkehr. Eisenbahninfrastrukturunternehmen (insbesondere DB InfraGO AG) müssen nach § 39 ERegG ein leistungsabhängiges Bonus-Malus-System gegenüber Eisenbahnverkehrsunternehmen (EVU) anwenden. Die Bundesnetzagentur prüft das System auf Diskriminierungsfreiheit, sachgerechte Kalibrierung der Schwellen und transparente Verrechnung. Anwaltliche Mandate: EVU bei Streit über Malus-Berechnung; EIU bei Verteidigung der eigenen Systemausgestaltung; Verbände bei Konsultationen.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Beteiligte Unternehmen (EVU, EIU).
+- Aktuell geltendes Anreizsystem (Schienennetz-Benutzungsbedingungen SNB).
+- Konkrete Streitpunkte (Schwellenwerte, Verspätungs- und Stornierungsdefinition, Datengrundlage, Sanktionierung).
+- Verfahrensstand bei der BNetzA (Konsultation, Festlegungsentwurf, Beschluss).
+- Schnittstellen zu Trassenpreissystem und Stationspreissystem.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- § 39 ERegG (Anreizsetzung im Eisenbahnverkehr).
+- §§ 26–32 ERegG (Schienennetz-Benutzungsbedingungen SNB).
+- §§ 45 ff. ERegG (Entgeltregulierung).
+- §§ 66–68 ERegG (Beschwerdeverfahren und einstweilige Anordnung der BNetzA).
+- § 76 ERegG (Genehmigungsvorbehalt für Entgelte).
+- § 79 ERegG (sofortige Vollziehbarkeit).
+- Anhang VI RL (EU) 2012/34 (SERA-Richtlinie, performance scheme).
+- DVO (EU) 2015/909 (direkte Kosten).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Eisenbahn / Anreizsetzung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Klassifizierung des ASS prüfen.** Anwendungsbereich (Personen- und Güterverkehr unterschiedlich), Verspätungsdefinition (in Deutschland regelmäßig ab 6 Minuten), Ausnahmen (höhere Gewalt, Streik, gegenseitige Verursachung).
+2. **Datenbasis prüfen.** Quelle (Leit- und Steuerungssystem, automatisierte Erfassung), Datenqualität, Audit.
+3. **Bonus-Malus-Logik prüfen.** Symmetrie (Bonus bei pünktlichem EIU vs. Malus bei verspätetem EVU), Kappung, Übergangsfristen, sektorbezogene Differenzierung (Personenfern, Personennah, Güter).
+4. **Diskriminierungsfreiheit Art. 56 RL 2012/34/EU.** Gleichbehandlung verschiedener EVU, kein Vorteil für integrierte Wettbewerber.
+5. **Verfahren bei der BNetzA.** Konsultation der SNB nach § 26 ERegG, Festlegung und Genehmigung; Beschwerde nach § 66 ERegG bei EVU-Konstellationen.
+6. **Stellungnahme entwerfen.** Tatsachen-Substantiierung (Belastung im konkreten Geschäftsjahr), Vergleich zu Best Practice in anderen EU-Mitgliedstaaten, Verhältnismäßigkeitsgrenzen.
+7. **Eilverfahren.** § 68 ERegG (einstweilige Anordnung BNetzA); VG Köln § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit.
+8. **Schnittstellen.** Auswirkungen auf Trassenpreis (§ 31 ERegG), Stationsentgelte (§ 33 ERegG), Kapazitätszuweisung (§§ 51 ff. ERegG).
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- EVU-Beschwerde nach § 66 ERegG gegen Malus-Berechnung mit Datentabellen.
+- EIU-Stellungnahme im Konsultationsverfahren mit Datenbasis und Verteilungsmodell.
+- Antrag auf einstweilige Anordnung § 68 ERegG bzw. § 80 Abs. 5 VwGO VG Köln.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- ERegG aktueller Stand.
+- RL (EU) 2012/34 und DVO (EU) 2015/909 aus EUR-Lex.
+- BNetzA-Beschlüsse, Az. (z. B. BK10-XX-XXX-XX) generisch; konkretes Az. vom Anwender zu verifizieren.
+- BVerwG/VG Köln-Rechtsprechung mit Datum, Az., freier Fundstelle.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Stellungnahme oder Beschwerde (10–25 Seiten).
+- Datenanlagen (Verspätungsdaten, Malus-Tabellen).
+- Risikoampel: Erfolgsaussicht beim BNetzA-Verfahren und beim VG Köln.
+
+## Beispiele
+- EVU rügt unverhältnismäßigen Malus bei Verspätungen, die durch Bautätigkeit des EIU verursacht wurden. Bezug auf § 39 i. V. m. Verursacherprinzip.
+- EIU verteidigt Differenzierung Personen- vs. Güterverkehr mit unterschiedlichen Pünktlichkeitsmetriken.
+- Verband BNE oder mofair stellt im Konsultationsverfahren Vergleich zu österreichischem oder schweizerischem System dar.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+ASS-Definition und Verspätungs-Schwellen klar? Datenbasis vor Streitwert genau beziffert? Diskriminierungs-Maßstab vergleichend belegt? Verfahrensstand bei der BNetzA korrekt eingeordnet? Eil-Optionen § 68 ERegG / VG Köln benannt?

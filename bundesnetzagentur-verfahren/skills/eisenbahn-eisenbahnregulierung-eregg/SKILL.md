@@ -3,36 +3,57 @@ name: eisenbahn-eisenbahnregulierung-eregg
 description: "Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht."
 ---
 
-# Eisenbahn: Eisenbahnregulierung ERegG
+# Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltlicher Allgemein-Skill für Mandate nach dem Eisenbahnregulierungsgesetz (ERegG). Das ERegG setzt die SERA-Richtlinie (RL 2012/34/EU) um und ordnet die regulatorische Aufsicht der Bundesnetzagentur über die Eisenbahninfrastruktur, das Trassen- und Entgeltsystem und die Wettbewerbsneutralität zwischen integrierten und nicht-integrierten EVU. Der Skill steuert die Erfassung des Mandats, die Wahl des passenden Spezialskills (Trassenzugang, Entgelte, Serviceeinrichtungen, Beschwerde EVU gegen EIU usw.) und die Sicherung der Fristen.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Mandantenrolle (EVU, EIU, Halter, Trassenbörse, Verband, Aufgabenträger ÖPNV, Speditions-Kunde).
+- Sektor (Personenfern, Personennah, Güter, Werks- und Anschlussbahnen).
+- Regulierungsanliegen (Zugang, Entgelt, Diskriminierung, Sperrpause, Anreizsystem, Genehmigung).
+- Verfahrensstand bei BNetzA, EBA, EuGH.
+- Vertragslage (Infrastrukturnutzungsvertrag INV, Trassenvereinbarung, Bahnhofs-Nutzungsvertrag).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- ERegG vom 29. August 2016 in der jeweils aktuellen Fassung.
+- Allgemeines Eisenbahngesetz (AEG); §§ 5a, 14, 14f AEG.
+- RL (EU) 2012/34 (SERA, einheitlicher europäischer Eisenbahnraum); RL (EU) 2016/2370 (vierter Eisenbahnpaket, market pillar).
+- DVO (EU) 2015/909 (direkte Kosten); DVO (EU) 2015/10 (Antragsberechtigte); VO (EU) 2017/2177 (Serviceeinrichtungen); VO (EU) 2018/545 (Fahrzeuggenehmigung); VO (EU) 2017/2225 (Lizenzen).
+- §§ 102 ff. GWB (Vergaberecht bei Beschaffungen für Eisenbahninfrastruktur).
+- Eisenbahnbundesamt (EBA) als Sicherheits- und Aufsichtsbehörde (§ 5 AEG).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Mandatsstruktur erfassen.** Rolle, Streitwert, Zeithorizont, Konflikt mit DB-Konzern oder regionalem Betreiber.
+2. **Verfahrensschiene wählen.** Konsultation der Schienennetz-Benutzungsbedingungen (§§ 26 ff. ERegG), Beschwerde § 66 ERegG, Genehmigungsverfahren Entgelte § 76 ERegG, einstweilige Anordnung § 68 ERegG.
+3. **EU-Rechtsbezug klären.** SERA-Konformität, EuGH-Auslegung, Schnittstelle zu RailNetEurope-Standards.
+4. **Schnittstelle EBA und sonstige Behörden.** Sicherheits- und Aufsichtsfragen (EBA), Genehmigungen, Schnittstelle zu Aufgabenträgern (Bestellerentgelte SPNV).
+5. **Vertrags-Layer.** Welche Klauseln im INV sind Streitthema? Schnittstelle zu §§ 280, 281 BGB-Schadensersatz bei vertraglicher Trassenzusage.
+6. **Wettbewerbsrechtlicher Parallelweg.** § 19 GWB (marktbeherrschender Infrastrukturbetreiber), § 20 GWB (Diskriminierungsverbot), private Durchsetzung beim LG.
+7. **Akteneinsicht und Schwärzungen.** § 71 i. V. m. § 67 ERegG; Bezug zum Skill aktenzugang-geschaeftsgeheimnisse-schwaerzung.
+8. **Rechtsschutz.** Klage VG Köln gegen BNetzA-Entscheidungen; § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit; Vorlage EuGH bei unklarer SERA-Auslegung.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Mandats-Triage-Memo: Rolle, Sachverhalt, Spezialskill-Routing, Frist, erste Maßnahmen.
+- Beschwerde § 66 ERegG (Grobgliederung).
+- Stellungnahme im Konsultationsverfahren §§ 26, 56 ERegG.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- ERegG, AEG, einschlägige Durchführungsverordnungen aus dem amtlichen Quellen (BGBl., BAnz, EUR-Lex).
+- BNetzA-Marktuntersuchung Eisenbahn (Jahresbericht).
+- BNetzA-Beschluss-Az. (z. B. BK10-XX-XXX-XX) generisch; konkrete Beschlüsse vom Anwender zu verifizieren.
+- BVerwG, OVG Münster, VG Köln, EuGH mit Datum, Az., freier Fundstelle.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Triage-Memo (1–3 Seiten).
+- Routing-Empfehlung in den Spezialskill des Plugins (Trassenzugang, Entgelte, Serviceeinrichtungen, Stationszugang, Beschwerde EVU gegen EIU, Sperrpausen, Netznutzungsbedingungen, Anreizsetzung, Kapazitätskonflikt).
+- Erste Maßnahmenliste (Fristen, Beweissicherung, Konsultations-Stellungnahme).
+
+## Beispiele
+- Personenfern-EVU bittet um Erstkontakt zur Streitlage Trassen 2026. Triage: Routing in Spezialskill eisenbahn-trassenzugang.
+- Aufgabenträger SPNV bittet um Memo zu Stationsentgelten. Triage: Routing in eisenbahn-stationszugang.
+- Schienengüter-EVU bittet um Erstkontakt wegen Bonus-Malus. Triage: Routing in eisenbahn-anreizsetzung-schiene.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Mandantenrolle eindeutig? Spezialskill-Routing klar? Frist sofort kalendarisiert? Konsultations- und Konflikt-Statuspunkt erfasst? EuGH-Vorlagerisiko reflektiert?

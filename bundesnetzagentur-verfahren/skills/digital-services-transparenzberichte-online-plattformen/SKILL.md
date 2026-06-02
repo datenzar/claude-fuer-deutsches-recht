@@ -3,36 +3,57 @@ name: digital-services-transparenzberichte-online-plattformen
 description: "Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Transparenzberichte Online-Plattformen
+# Transparenzberichte nach DSA: Art. 15, 24, 42
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Begleitung der Erstellung, Prüfung und Auswertung von DSA-Transparenzberichten. Drei Stufen sind zu unterscheiden: Art. 15 DSA (allgemeine Berichtspflicht aller Vermittlungsdienste, jährlich); Art. 24 DSA (zusätzliche Pflichten für Online-Plattformen, alle 6 Monate Nutzerzahlen); Art. 42 DSA (zusätzliche Pflichten für VLOPs/VLOSEs, halbjährliche Detailberichte einschl. Risikoindikatoren). Der Skill betreut Plattformen bei der Compliance, Verbände bei der Auswertung und die BNetzA-Schnittstelle bei Auskunftsverlangen zur Datengrundlage.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Plattform-Klassifizierung (Hosting, Online-Plattform, VLOP/VLOSE).
+- Berichtszeitraum.
+- Datenquellen: Moderationssysteme, Beschwerdesysteme, Behördenanordnungen, Trusted-Flagger-Meldungen.
+- Format-Anforderungen (Kommissions-Templates, maschinenlesbar, Open Data).
+- Konkrete Anlässe (Auskunftsverlangen BNetzA, Mängelrüge eines Verbands).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- Art. 15 DSA (Berichte aller Vermittlungsdienste).
+- Art. 24 DSA (Berichte Online-Plattformen; durchschnittliche monatliche Nutzer).
+- Art. 42 DSA (Berichte VLOPs/VLOSEs; halbjährlich; Risikoindikatoren; Audit Art. 37).
+- Art. 33 DSA (Schwellenwert 45 Mio. EU-Nutzer).
+- Durchführungsverordnung der Kommission gem. Art. 15 Abs. 3 DSA (Berichtstemplates; vom Anwender im EUR-Lex zu verifizieren).
+- §§ 12, 18, 19, 24 DDG.
+- § 7 BNetzAG, § 30 VwVfG (Beschlüsse, Akteneinsicht).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Klassifizierung verifizieren.** Anzahl der durchschnittlichen monatlichen aktiven Nutzer in der EU; Berechnungsmethode nach Kommissions-Leitlinien zu Art. 24 Abs. 2 DSA.
+2. **Datenarchitektur aufsetzen.** Source-Systeme, Aggregationsverfahren, Audit-Trail, Pseudonymisierung.
+3. **Berichts-Bestandteile.** Anordnungen von Behörden (Art. 9, 10 DSA), Meldungen Art. 16 DSA, eigeninitiative Moderationsmaßnahmen, Beschwerden Art. 20 DSA, automatisierte Moderation, Trainingsdaten, Streitbeilegung Art. 21 DSA, Suspendierungen Art. 23 DSA.
+4. **Format-Konformität.** Maschinenlesbarkeit, EU-Templates, mehrsprachige Verfügbarkeit, Veröffentlichungsstelle (eigene Webseite + Kommissionsdatenbank).
+5. **VLOP-Spezifika.** Risikoindikatoren nach Art. 34 DSA, Effektivitätsmessung der Minderungsmaßnahmen Art. 35, Audit-Bericht Art. 37 DSA (extern, jährlich).
+6. **Plausibilisierung.** Konsistenz mit dem Werbe-Repository Art. 39 DSA, mit der "Transparency Database" der Kommission und mit eigenen Quartalsberichten.
+7. **Aufsichtsschnittstelle.** Reaktion auf BNetzA-Auskunftsverlangen § 18 DDG bei vermuteten Berichtsmängeln; Begründung bei Schwärzungen (Sicherheit, Geheimnisschutz).
+8. **Sanktion.** § 24 DDG-Bußgelder bei unrichtigen oder unvollständigen Berichten; Höchstrahmen bis 6 Prozent des Jahresumsatzes.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Gliederungs-Template für Art. 15-Bericht: Sachverhalt, Daten, Auswertung, methodische Anmerkungen.
+- Audit-Begleitnotiz (Plattform an externen Auditor) mit Datengrundlage und Geheimhaltungsklausel.
+- Stellungnahme an die BNetzA bei beanstandetem Bericht: Daten-Heritage, Aggregationsmethode, Nachreichung.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- EUR-Lex (DSA-Originaltext und Durchführungsverordnungen).
+- Veröffentlichte Berichte sehr großer Plattformen als Vergleichsmaßstab.
+- BNetzA-Mitteilungen, Kommissions-Reports.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Compliance-Memo zur Berichtspflicht (10–20 Seiten).
+- Audit-Checkliste für externe Prüfer.
+- Stellungnahme an die BNetzA.
+
+## Beispiele
+- Online-Plattform veröffentlicht ihren ersten Art. 15-Bericht. Anwaltliche Begleitung der Aggregation und Schwärzung.
+- BNetzA fordert ergänzende Erklärung zur Berechnung der monatlichen Nutzer (Art. 24 Abs. 2 DSA). Methodikbeschreibung mit statistischer Begründung.
+- VLOP erhält Audit-Bericht nach Art. 37 DSA mit Beanstandungen. Erstellung der Action-Pläne nach Art. 37 Abs. 6 DSA.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Klassifizierung verifiziert? Datenquellen vollständig? Schwellenwerte korrekt berechnet? Format-Konformität (Kommissions-Template) geprüft? Veröffentlichungsstelle und -datum dokumentiert? Audit-Trail für jede Zahl vorhanden?

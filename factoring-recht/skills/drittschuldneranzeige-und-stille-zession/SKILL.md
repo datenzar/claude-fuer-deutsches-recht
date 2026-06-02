@@ -5,34 +5,97 @@ description: "Drittschuldneranzeige und stille Zession: prüft die einschlägige
 
 # Drittschuldneranzeige und stille Zession
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Eine **stille Zession** ist eine Forderungsabtretung, von der der Drittschuldner (Debitor) nichts weiß. Wirtschaftliches Motiv: Diskretion – der Markt soll nicht erfahren, dass der Kunde Forderungen verkauft (Liquiditätsindiz). Rechtlich ist die stille Zession zulässig und wirksam; § 398 BGB verlangt keine Anzeige. Die Anzeige ist nach § 409 BGB nur **Schutzinstrument für den Schuldner**: Er darf bis Kenntnis an den Altgläubiger zahlen mit befreiender Wirkung (§ 407 BGB).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Die Praxis kennt vier Modelle: (1) **stille Zession dauerhaft**, (2) **stille Zession mit Trigger** (Anzeige bei Krise), (3) **halboffene Zession** (Bankverbindung Factor, ohne Erläuterung), (4) **offene Zession** (vollständige Anzeige). Dieser Skill ordnet die Modelle und prüft die Risiken jedes Modells.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Drittschuldneranzeige und stille Zession: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Sie strukturieren ein Factoring, das vom Kunden vertraulich behandelt werden soll.
+- Bei stiller Zession zahlt der Debitor weiter an den Kunden – Zahlungsumlenkung muss geregelt werden.
+- Im Krisenszenario erwägen Sie, die stille Zession aufzudecken.
+- DSGVO Art. 14: Information bei stiller Zession – ist das vereinbar?
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Warum stille Zession? (Diskretion, Marketing, Kundenwunsch)
+- Wer kassiert die Zahlungen? (Kunde mit Weiterleitungspflicht, Treuhandkonto)
+- Welche Trigger sind im Vertrag definiert für die Aufdeckung?
+- Wie wird der Debitor letztlich informiert, falls nötig?
+- Was passiert in der Insolvenz des Kunden?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **§ 398 BGB**: Abtretung – formfrei, Wirksamkeit unabhängig von Anzeige.
+- **§ 407 BGB**: Leistung an Altgläubiger wirkt befreiend bis zur Kenntnis.
+- **§ 409 BGB**: Anzeige der Abtretung – schützt Schuldner.
+- **§ 410 BGB**: Schuldner kann Vorlage Abtretungsurkunde verlangen.
+- **§ 354a HGB**: Trotz Abtretungsverbots wirksam, aber Debitor kann an Altgläubiger zahlen.
+- **§ 80 InsO**: Verfügungsbeschränkung im Insolvenzverfahren – relevant bei späterer Aufdeckung.
+- **DSGVO Art. 14**: Informationspflicht bei Erhebung aus dritter Hand – Art. 14 Abs. 5 lit. b kennt Ausnahmen.
+- **§ 91 InsO**: Erwerb in der Insolvenz unwirksam.
+
+## Workflow / Schritt für Schritt
+
+1. **Modell wählen**: Stille Zession, halboffene Zession, offene Zession.
+2. **Zahlungskanal definieren**: Bei stiller Zession leitet der Kunde weiter, idealerweise über Treuhandkonto.
+3. **Trigger für Aufdeckung festlegen**: Krise, Reklamationsspitze, Verzug.
+4. **Aufdeckungsverfahren vorbereiten**: Notifikationsschreiben mit Belegen, Vollmachtsnachweis.
+5. **DSGVO-Risiko prüfen**: Art. 14 Information – Ausnahmen prüfen.
+6. **Insolvenzrisiko abwägen**: Bei stiller Zession und Krise des Kunden Sondersituation (§ 80 InsO, § 91 InsO).
+7. **Dokumentation**: Stille-Zessions-Vereinbarung, Treuhandvertrag, Trigger-Klausel.
+
+## Trade-off-Matrix
+
+| Modell | Diskretion | Sicherheit Factor | Aufwand |
+|---|---|---|---|
+| Stille Zession dauerhaft | Hoch | Niedrig (§ 407 BGB-Risiko) | Niedrig |
+| Stille Zession mit Trigger | Hoch bis Trigger | Mittel | Mittel |
+| Halboffene Zession (nur Bankverbindung Factor) | Mittel | Mittel | Niedrig |
+| Offene Zession | Niedrig | Hoch | Hoch (Notifikationsmasse) |
+
+## Praxistipps
+
+- **Treuhandkonto vorhalten**: Bei stiller Zession kassiert idealerweise ein gemeinsames Treuhandkonto, auf das der Factor Zugriff hat.
+- **Bankvollmacht Backup**: Vollmacht des Kunden für sein eigenes Konto, damit der Factor im Krisenfall direkt zugreifen kann.
+- **Trigger eng definieren**: Reklamationsquote über 5 Prozent, Verzug über 30 Tage, Anzeichen einer Insolvenz.
+- **Aufdeckungsbrief vorbereiten**: Im Vertrag bereits hinterlegt, sodass im Triggerfall sofort versendbar.
+- **DSGVO-Ausnahme dokumentieren**: Wenn Art. 14-Information unverhältnismäßig wäre, schriftlich begründen.
+
+## Mustertexte
+
+**Klausel stille Zession**
+
+"Die Abtretung erfolgt zunächst still im Sinne des § 398 BGB. Der Kunde behält die Einziehungsbefugnis. Eingehende Zahlungen werden auf das Treuhandkonto IBAN … (Inhaber Treuhänder) eingezogen. Der Factor ist berechtigt, jederzeit, insbesondere bei Reklamationsquote über 5 Prozent in einem Monat, bei Verzug einzelner Debitoren über 30 Tage, bei Krisensignalen des Kunden oder bei Anhaltspunkten für Insolvenzantragspflicht, die Abtretung offen zu legen und die Debitoren direkt zu notifizieren."
+
+**Treuhandvertrag (Auszug)**
+
+"Der Treuhänder eröffnet auf seinen Namen ein Treuhandkonto, auf das sämtliche Zahlungen der Debitoren des [Kunde] eingezahlt werden. Eingehende Beträge werden binnen drei Werktagen an den Factor weitergeleitet, soweit sie auf angekaufte Forderungen entfallen, und an den Kunden, soweit sie auf nicht angekaufte Forderungen entfallen. Der Treuhänder unterliegt der Schweigepflicht gegenüber Dritten."
+
+**Aufdeckungsschreiben (Trigger)**
+
+"Sehr geehrte Damen und Herren, in Sachen der Forderung gegen Sie aus Rechnung Nr. … vom … zeigen wir Ihnen gemäß § 409 BGB an, dass diese Forderung an die [Factor] abgetreten wurde. Bitte zahlen Sie ab sofort ausschließlich auf das Konto der [Factor], IBAN: …. Die Geschäftsbeziehung zu [Kunde] bleibt unverändert."
+
+## Typische Fehler
+
+- Stille Zession ohne Zahlungsumlenkung – Debitor zahlt an Kunde, Kunde verbraucht das Geld, Factor hat Anspruch nur gegen den Kunden.
+- Keine Trigger-Klausel – im Krisenfall fehlt Aufdeckungsrecht.
+- DSGVO Art. 14 ignoriert – Aufsichtsrisiko.
+- Insolvenz des Kunden vor Aufdeckung – § 91 InsO blockiert nachträgliche Zugriffe.
+- Treuhandkonto fehlt – kein Schutz vor Vermengung mit Kundenkonten.
+
+## Querverweise
+
+- `debitorenkommunikation-und-abtretungsanzeige`
+- `einziehungsbefugnis-debitoren-zahlungskanaele-treuhandkonto`
+- `insolvenz-des-factoringkunden-aussonderung-absonderung`
+- `datenschutz-debitorendaten-dsgvo-informationspflichten`
+
+## Quellen Stand 06/2026
+
+- BGB §§ 398, 407, 409, 410 zur Abtretung und Schuldnerschutz.
+- HGB § 354a zur Wirksamkeit trotz Abtretungsverbots.
+- InsO §§ 80, 91 zur Verfügungsbeschränkung im Insolvenzverfahren.
+- DSGVO Art. 14, insbesondere Abs. 5 lit. b zur Ausnahme von der Informationspflicht.
+- BGH zur Wirksamkeit der stillen Zession und zur Auslegung der Anzeige (st. Rspr.).

@@ -5,34 +5,102 @@ description: "Echtes und unechtes Factoring Risikoverteilung: prüft die einschl
 
 # Echtes und unechtes Factoring Risikoverteilung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Die wichtigste Grundunterscheidung des Factoringrechts: **echtes Factoring** versus **unechtes Factoring**. Der Unterschied liegt im **Bonitätsrisiko** (Delkredere): Übernimmt der Factor das Risiko, dass der Debitor nicht zahlen kann (echt), oder bleibt das Risiko beim Kunden (unecht)? Diese Differenzierung entscheidet über die zivilrechtliche Vertragsnatur, die bilanzielle Behandlung, die steuerliche Behandlung und die Insolvenzwirkungen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+**BGH-Leitsätze**: Echtes Factoring ist Kauf nach § 433 BGB; unechtes Factoring ist Darlehen mit Sicherungsabtretung. Aus dieser Einordnung folgen unterschiedliche Rechtsfolgen für Vertragsstörungen, Insolvenzwirkungen, Bilanzierung (True Sale versus Verbleib) und steuerliche Behandlung (§ 4 Nr. 8c UStG).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Echtes und unechtes Factoring Risikoverteilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Sie strukturieren einen neuen Factoringvertrag und müssen die Risikoverteilung festlegen.
+- Im Streitfall ist die zivilrechtliche Einordnung umstritten (Kauf oder Kredit?).
+- Bilanzielle Frage: Soll Off-Balance erreicht werden (echtes Factoring) oder reicht Liquiditätszufluss (unechtes Factoring)?
+- Insolvenzfall des Kunden: Kann der Factor die Forderungen aussondern (echtes) oder absondern (unechtes)?
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Wer trägt das Bonitätsrisiko (Factor oder Kunde)?
+- Wie ist die Rückgriffsmöglichkeit ausgestaltet (uneingeschränkt, eingeschränkt auf bestimmte Konstellationen)?
+- Welche bilanzielle Behandlung wird angestrebt?
+- Welche Insolvenzlage ist relevant (Kunde, Debitor)?
+- Soll der Vertrag steuerlich umsatzsteuerfrei sein (§ 4 Nr. 8c UStG)?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **§ 433 BGB**: Kaufvertrag – beim echten Factoring; Verkäufer haftet für Verität, nicht für Bonität.
+- **§ 488 BGB**: Darlehensvertrag – beim unechten Factoring; Käufer "leiht" Geld gegen Sicherungsabtretung.
+- **§ 437 BGB**: Mängelhaftung des Verkäufers – Veritätsmängel beim echten Factoring.
+- **§ 365 BGB**: Haftung des Übertragenden bei Hingabe an Erfüllungs statt – relevant für unechtes Factoring.
+- **§ 4 Nr. 8c UStG**: Umsatzsteuerbefreiung des Forderungskaufs (echtes Factoring) – nicht für unechtes Factoring.
+- **BGH-st. Rspr.** zur Abgrenzung: Übergang des Bonitätsrisikos ist entscheidend.
+- **§ 47 InsO**: Aussonderungsrecht des Factors beim echten Factoring.
+- **§ 51 InsO**: Absonderungsrecht beim unechten Factoring.
+- **HGB § 246**: Bilanzielle Behandlung (Vermögensgegenstand).
+
+## Workflow / Schritt für Schritt
+
+1. **Vertragstyp festlegen**: Echtes oder unechtes Factoring?
+2. **Rückgriffsklauseln formulieren**: Veritätshaftung ja, Bonitätshaftung nein (echt) oder ja (unecht).
+3. **Risikoabgrenzung präzisieren**: Was ist Bonitätsausfall, was ist Veritätsmangel?
+4. **Bilanzielle Folge prüfen**: True-Sale-Test (HGB, IFRS) – echtes Factoring führt zu Ausbuchung.
+5. **USt-Behandlung prüfen**: § 4 Nr. 8c UStG bei echtem Factoring; Beratungsleistung bei unechtem.
+6. **Insolvenzfolge planen**: Aussonderung (echt) versus Absonderung (unecht).
+7. **AGB-Kontrolle**: Klausel "Voll-Rückgriff im echten Factoring" wäre Vertragstyp-widrig.
+
+## Trade-off-Matrix
+
+| Aspekt | Echtes Factoring | Unechtes Factoring |
+|---|---|---|
+| Bonitätsrisiko | Factor | Kunde |
+| Veritätsrisiko | Kunde | Kunde |
+| Zivilrechtliche Natur | Kauf § 433 BGB | Darlehen § 488 BGB |
+| Bilanzielle Ausbuchung | Ja (True Sale) | Nein |
+| Insolvenzrecht | Aussonderung § 47 InsO | Absonderung § 51 InsO |
+| Umsatzsteuer | Steuerfrei § 4 Nr. 8c UStG | Steuerbar als Leistung |
+| Risikoprämie | Hoch | Niedrig |
+| Kundenattraktivität | Hoch | Niedrig (Risiko bleibt) |
+
+## Praxistipps
+
+- **Hybridmodelle prüfen**: In der Praxis gibt es Mischformen mit Rückgriff nur bei bestimmten Ausfallgründen (Insolvenz des Debitors versus Reklamationen).
+- **Bonitätsbegriff klar definieren**: Was ist Bonität (Insolvenz, dauerhafte Zahlungsunfähigkeit, Verzug über 90 Tage)?
+- **Verzichtbar im Vertrag**: BGH lässt freie Vertragsgestaltung zu, soweit klar erkennbar, welches Risiko übernommen wird.
+- **AGB-Kontrolle bei Mischformen**: Wenn echtes Factoring deklariert, aber Bonitätsrisiko durch Rückbelastung beim Kunden landet, droht § 307 BGB.
+- **Umsatzsteuer mit Berater klären**: Die § 4 Nr. 8c UStG-Befreiung ist beim echten Factoring etabliert, aber Detailfragen (Servicegebühr, Inkasso) gesondert prüfen.
+
+## Mustertexte
+
+**Klausel echtes Factoring (Kaufvertrag)**
+
+"Der Factor erwirbt die abgetretenen Forderungen mit allen Chancen und Risiken. Das Bonitätsrisiko des Debitors (insbesondere Insolvenz, dauerhafte Zahlungsunfähigkeit, Verzug länger als 120 Tage) geht vollständig auf den Factor über. Der Verkäufer haftet ausschließlich für die Verität der Forderungen (Bestand, Einredefreiheit, vereinbarte Höhe). Eine Bonitätshaftung des Verkäufers wird ausdrücklich ausgeschlossen."
+
+**Klausel unechtes Factoring (Darlehen mit Sicherungsabtretung)**
+
+"Die Übertragung der Forderungen erfolgt als Sicherungsabtretung zur Sicherung des durch den Factor an den Kunden gewährten Vorschusses. Bei Zahlungsausfall des Debitors – aus welchem Grund auch immer – ist der Factor berechtigt, den Vorschuss vom Kunden zurückzufordern (Rückgriffsrecht). Der Kunde haftet vollumfänglich für Bonität und Verität."
+
+**Klausel Hybridmodell**
+
+"Der Factor übernimmt das Bonitätsrisiko bei Insolvenz des Debitors. Bei sonstigen Zahlungsstörungen (Reklamation, Verzug ohne Insolvenz, Strittigstellung der Forderung) bleibt das Risiko beim Kunden, der zur Rückerstattung des Kaufpreises gegen Rückabtretung verpflichtet ist."
+
+## Typische Fehler
+
+- Vertrag deklariert echtes Factoring, schreibt aber faktisch Voll-Rückgriff vor – widersprüchlich.
+- Unklare Definition des Bonitätsausfalls – Streit, ob Insolvenz, Verzug, Bestreiten.
+- Bilanzierung mit echtem Factoring, obwohl Vertrag Voll-Rückgriff vorsieht – Ausbuchung fehlerhaft.
+- USt-Behandlung übersehen – echtes Factoring ist § 4 Nr. 8c UStG-steuerfrei, unechtes nicht.
+- Insolvenzfolgen falsch antizipiert – Aussonderung versus Absonderung.
+
+## Querverweise
+
+- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
+- `bilanzierung-true-sale-ausbuchung-wirtschaftliches-risiko`
+- `factoringtyp-true-false-reverse-maturity`
+- `insolvenz-des-factoringkunden-aussonderung-absonderung`
+
+## Quellen Stand 06/2026
+
+- BGB §§ 433, 437, 488, 365 zur Abgrenzung Kauf und Darlehen.
+- BGH-st. Rspr. zur Abgrenzung echtes/unechtes Factoring (Übergang des Bonitätsrisikos als entscheidendes Kriterium).
+- UStG § 4 Nr. 8c zur Umsatzsteuerbefreiung des Forderungskaufs.
+- HGB § 246 zur bilanziellen Zurechnung.
+- InsO §§ 47, 51 zu Aussonderungs- und Absonderungsrechten.

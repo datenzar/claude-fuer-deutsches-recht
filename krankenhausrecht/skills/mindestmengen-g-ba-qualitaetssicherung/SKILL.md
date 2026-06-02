@@ -1,38 +1,74 @@
 ---
 name: mindestmengen-g-ba-qualitaetssicherung
-description: "Mindestmengen G-BA Qualitätssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung."
 ---
 
-# Mindestmengen G-BA Qualitätssicherung
+# Mindestmengen G-BA Qualitaetssicherung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Fuer bestimmte planbare Eingriffe (z. B. Knie-TEP, Bauchspeicheldruesen-OP, Fruehgeborene < 1250 g, Lebertransplantation, Stammzelltransplantation) verlangt § 136b SGB V Mindestmengen pro Standort und Jahr. Bei Unterschreiten gilt grundsaetzlich ein Erbringungsverbot.
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welcher Mindestmengen-Tatbestand betrifft die Klinik (OPS-Liste der G-BA-Mm-R)?
+- Liegen Prognose-/Negativfeststellung des Landes vor?
+- Wird Ausnahme nach G-BA-Mm-R § 5 (z. B. fuer Versorgungssicherstellung) beansprucht?
+- Welche Mengen wurden erbracht (Vorjahr, Prognose)?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **SGB V § 136b Abs. 1 Nr. 2** Mindestmengen-Festlegung durch G-BA.
+- **G-BA Mindestmengenregelungen (Mm-R)** in der jeweils aktuellen Fassung.
+- **SGB V § 137 Abs. 3** Datenmeldung an Land/G-BA.
+- **Landeskrankenhausgesetze** Pruefung der Prognose durch Landesbehoerde.
+- **G-BA-Beschluesse** zu Aufnahme/Streichung von Mindestmengen-Tatbestaenden.
+- **BVerfG** zu Berufsausuebungsfreiheit und Mindestmengen (Verhaeltnismaessigkeit).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Mindestmengen G-BA Qualitätssicherung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Mindestmengen-Tatbestand identifizieren:** OPS-Liste Mm-R Anlage.
+2. **Vorjahresmengen ausweisen:** § 137 SGB V-Meldung.
+3. **Prognose fuer Folgejahr erstellen:** Plausibilitaet, Versorgungsbedarf, Personalplanung.
+4. **Negativfeststellung pruefen:** Landesbehoerde stellt fest, ob Prognose haltbar.
+5. **Ausnahmetatbestand pruefen:** Sicherstellung, Versorgungsluecke, atypische Lage.
+6. **Rechtsschutz:** Widerspruch/Klage gegen Negativfeststellung; einstweiliger Rechtsschutz.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Lage | Strategie | Folge |
+|---|---|---|
+| Mindestmenge knapp erfuellt | Prognose plausibel begruenden | Fortfuehrung |
+| Mindestmenge nicht erreicht | Ausnahme beantragen (Sicherstellung) | aufschiebende Wirkung pruefen |
+| Mehrere Standorte | Konzentrierung an Hauptstandort | Strukturkosten reduziert |
+| dauerhafte Unterschreitung | LG abgeben | Konzentration auf andere LG |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- Prognose ist keine bloße Schaetzung; sie braucht eine plausible Anknuepfung an Vorjahre, Personalbestand und Versorgungsauftrag.
+- Erbringungsverbot greift in Regel zum Folgejahr; einstweiliger Rechtsschutz § 80 Abs. 5 VwGO zum Verwaltungsgericht.
+- Ausnahmen sind eng auszulegen (BSG; BVerfG: Mm sind verfassungsrechtlich grundsaetzlich zulaessig).
+- Mindestmengen wirken parallel zu LG-Strukturmerkmalen; LG kann ohne Mm-Tatbestand nicht ausgehoehlt werden.
+
+## Mustertexte
+**Begruendung der Prognose Knie-TEP:**
+> Im Vorjahr [Datum] wurden [N] Knie-TEP-Eingriffe am Standort durchgefuehrt. Personalbestand und OP-Kapazitaeten erlauben fuer das Folgejahr eine Prognose von [N+x]. Begruendung: stabile Auslastung, Personalfortbildung, Versorgungsauftrag laut LG [Nr.].
+
+**Widerspruch gegen Negativfeststellung:**
+> Gegen die Negativfeststellung vom [Datum] wird Widerspruch eingelegt. Die Prognose ist plausibel ausweislich (Anlage 1-3). Hilfsweise: Ausnahme nach G-BA-Mm-R § 5 wegen Versorgungssicherstellung im Raum [Region], Begruendung … 
+
+## Typische Fehler
+- Prognose mit Vorjahres-Ist-Werten gleichsetzen (G-BA fordert begruendete Vorausschau).
+- Ausnahmetatbestand zu weit interpretieren (Sicherstellung verlangt Versorgungsluecke).
+- Frist fuer Negativfeststellungsanzeige verpassen.
+- Mindestmenge mit Vorhalteanteil/LG verwechseln.
+
+## Querverweise
+- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
+- `qualitaets-und-strukturvorgaben-intake`
+- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
+- `notfallstufen-und-sicherstellungszuschlaege`
+- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
+- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
+
+## Quellen Stand 06/2026
+- SGB V § 136b.
+- G-BA Mindestmengenregelungen (Mm-R) in aktueller Fassung (Live-Check g-ba.de/richtlinien/38/).
+- BSG, staend. Rspr. zur Mindestmengen-Prognose.
+- BVerfG zu Verfassungsmaessigkeit von Mindestmengen.
+- Landeskrankenhausgesetze 16 Laender zur Aufsicht und Negativfeststellung.

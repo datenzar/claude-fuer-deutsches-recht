@@ -3,36 +3,90 @@ name: status-soldat-beamter-zivilbeschaeftigter-klaeren
 description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären."
 ---
 
-# Status Soldat Beamter Zivilbeschäftigter klären
+# Status klären: Soldat, Beamter oder Zivilbeschäftigter
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Innerhalb der Bundeswehr arbeiten drei Statusgruppen mit unterschiedlichen Rechtsregimen: Soldaten (SG, WBO, WDO), Beamte der Bundeswehrverwaltung (BBG, BDG, BLV) und Tarifbeschäftigte (TVöD-Bund, BPersVG). Verfahrenswege, Disziplinarrecht, Versorgung und Mitbestimmung unterscheiden sich grundsätzlich. Der Skill ordnet den Mandantenstatus zu, klärt parallel laufende Rechtswege und schützt vor Falschadressierung.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Status Soldat Beamter Zivilbeschäftigter klären..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welche Berufsbezeichnung steht im aktuellen Vertrag/Bescheid?
+- Wann erfolgten Ernennung oder Einstellung?
+- Welche Dienststelle (Truppenteil, Bundesamt für Personalmanagement, BAAINBw, Bundesamt für Infrastruktur)?
+- Liegt ein paralleles Statusverhältnis vor (Reservedienst neben Beamtenstatus, Soldat auf Zeit nach Beamtenlaufbahn)?
+- Welches Rechtsproblem ist im Raum (Disziplinar, Versetzung, Versorgung, Mitbestimmung)?
+- Welche Frist läuft – und welche Beschwerdeordnung gilt dafür?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 1 SG: Soldateneigenschaft – Berufssoldat, Soldat auf Zeit, freiwilliger Wehrdienstleistender, Reservist im Dienstverhältnis.
+- BBG, BLV: Bundesbeamtenrecht für Beamte der Bundeswehrverwaltung.
+- TVöD-Bund: Arbeitsverhältnisse mit dem Bund als Arbeitgeber.
+- BPersVG: Mitbestimmung der zivilen Beschäftigten.
+- SBG: Beteiligungsrechte der Soldaten (Vertrauensperson).
+- § 17 SG, § 7 SG: Soldatische Treuepflicht – gilt nur für Soldaten.
+- Truppendienstgericht (WDO/WBO) vs. Verwaltungsgericht (VwGO) vs. Arbeitsgericht (ArbGG) – Rechtsweg je nach Status.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Status feststellen.** Ernennungs- oder Einstellungsurkunde, Arbeitsvertrag, Personalausweis (Truppenausweis vs. Dienstausweis).
+2. **Reservistenstatus prüfen.** Beamte/Tarifbeschäftigte können gleichzeitig Reservisten sein (UWBO, WPflG, Reservistendienst). Bei Heranziehung gilt SG zeitweise neben Beamten-/Tarifrecht.
+3. **Rechtsweg zuordnen.**
+   - Soldat: WBO/WDO + Truppendienstgericht + BVerwG.
+   - Beamter Bundeswehrverwaltung: BDG/BBG + Verwaltungsgericht.
+   - Tarifbeschäftigter: TVöD + Arbeitsgericht.
+4. **Mitbestimmung.** Soldat: SBG-Vertrauensperson. Beamter/Beschäftigter: BPersVG-Personalrat. Mischverhältnisse beachten.
+5. **Versorgungsregime.** Soldat: SVG, BeamtVG (Versorgungslückenausgleich). Beamter: BeamtVG. Beschäftigter: gesetzliche Rente + ZVK.
+6. **Disziplinarregime.** Soldat: WDO (Verweis bis Entfernung aus dem Dienstverhältnis). Beamter: BDG (Verweis bis Entfernung). Beschäftigter: Arbeitsrecht (Abmahnung, Kündigung).
+7. **Doppelstatus dokumentieren.** Manche Soldaten wechseln in die Verwaltung – Übergangsregelungen prüfen.
+
+## Trade-off-Matrix
+
+| Mandat | Rechtsweg | Erste Maßnahme |
+| --- | --- | --- |
+| Versetzung Soldat | WBO § 17 → TDG | Beschwerde 1 Monat |
+| Versetzung Beamter | VwGO § 42 → VG | Widerspruch 1 Monat |
+| Kündigung Beschäftigter | KSchG → ArbG | Klage 3 Wochen |
+| Reservist heranziehbar | WPflG/UWBO | Widerspruch |
+
+## Praxistipps
+
+- Erste Frage immer: "Sind Sie verbeamtet, Soldat oder im Tarifvertrag beschäftigt?" – Mandanten verwechseln häufig "Bundeswehrangehöriger" und "Soldat".
+- Reservisten unterliegen während des Dienstes SG; sonst nur Reservistenrecht.
+- Tarifbeschäftigte sind keine Soldaten – aber Sicherheitsüberprüfung (SÜG) gilt häufig auch.
+- Bei doppeltem Mandat: getrennte Akten und Schriftsätze, klarer Hinweis im Briefkopf.
+- Im Streit über den Status: Statusklage zum jeweiligen Gericht (VG oder ArbG; Statusklage beim TDG nicht statthaft).
+
+## Mustertexte
+
+**Statusfrage an Mandant:**
+"Zur Klärung Ihres Rechtsstatus bitte ich um folgende Unterlagen: 1. Ernennungs- bzw. Einstellungsurkunde, 2. aktueller Arbeits-/Dienstvertrag, 3. Truppen- oder Dienstausweis (Kopie), 4. ggf. Reservistenbescheid und Heranziehungsbescheide, 5. Mitteilung über die zuständige Personalbearbeitungsstelle."
+
+**Klarstellender Schriftsatz bei Statusunklarheit:**
+"Vorsorglich weise ich darauf hin, dass mein Mandant zum maßgeblichen Zeitpunkt Soldat auf Zeit nach § 1 III SG war. Die [angerufene Stelle] ist daher zur Entscheidung nicht zuständig. Zuständig ist [...]. Hilfsweise bitte ich um Verweisung nach § 17a GVG entsprechend."
+
+## Typische Fehler
+
+- Soldatischen Mandanten beim Verwaltungsgericht klagen lassen – Klage unzulässig.
+- Reservisten als reine Zivilbeschäftigte behandeln – während Heranziehung gilt SG.
+- BDG-Vorschriften auf Soldaten anwenden – WDO ist abschließend.
+- Personalrat statt Vertrauensperson einschalten oder umgekehrt.
+- Versorgungsansprüche nach BeamtVG statt SVG prüfen.
+
+## Querverweise
+
+- soldatengesetz-rechtsstellung-grundpflichten
+- beamtenrecht-bundeswehrverwaltung-abgrenzung
+- arbeitsrecht-zivile-bundeswehrbeschaeftigte
+- personalvertretung-zivile-beschaeftigte-schnittstelle
+- soldatenbeteiligung-vertrauensperson-sbg
+- reservistendienst-dienstleistungspflicht
+
+## Quellen Stand 06/2026
+
+- SG, WBO, WDO, SBG, SVG, WPflG – Volltexte gesetze-im-internet.de.
+- BBG, BDG, BLV, BeamtVG – Volltexte gesetze-im-internet.de.
+- BPersVG – Volltext gesetze-im-internet.de.
+- TVöD-Bund – aktuelle Fassung beim Bundesinnenministerium.
+- BVerwG zu Statusfragen – ständige Rechtsprechung (Az. nur verifiziert).

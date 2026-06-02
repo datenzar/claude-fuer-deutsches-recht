@@ -1,38 +1,76 @@
 ---
 name: landesaufsicht-krankenhausaufsicht-beanstandung
-description: "Landesaufsicht Krankenhausaufsicht Beanstandung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Landesaufsicht ueber Krankenhaeuser nach Landeskrankenhausgesetzen: Beanstandungen, Ersatzvornahme, Schliessungsanordnung, Klage und einstweiliger Rechtsschutz."
 ---
 
 # Landesaufsicht Krankenhausaufsicht Beanstandung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Die Landeskrankenhausaufsicht prueft strukturelle Maengel, Versorgungssicherheit, Hygiene, Personal- und Geraeteausstattung. Werkzeuge: Beanstandung, Auflagen, Anordnung, Bussgeld, im Extremfall Schliessung oder Herausnahme aus dem Krankenhausplan.
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welche Aufsichtsbehoerde (Bezirksregierung, Landesministerium, Gesundheitsamt) handelt?
+- Was ist Gegenstand (Hygiene, Personal, Bauzustand, MDK-Strukturpruefung, OP-Bereich, Patientensicherheit)?
+- Liegt eine schriftliche Beanstandung mit Frist und Rechtsbehelfsbelehrung vor?
+- Welche Folgemassnahmen drohen (Auflage, Bussgeld, Schliessung)?
+- Wurden Anhoerungs- und Verteidigungsrechte gewahrt?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **Landeskrankenhausgesetze** (z. B. § 32 ff. KHGG NRW, BayKrG, GKKG BW) — Aufsichtskompetenzen.
+- **VwVfG / Landes-VwVfG §§ 28, 35 ff., 48, 49** Verwaltungsakte, Anhoerung.
+- **IfSG §§ 23, 36** Hygieneueberwachung durch Land/Gesundheitsamt.
+- **SGB V § 137** Qualitaetssicherung.
+- **KHG § 8** Versorgungsauftrag und Foerderungsvoraussetzungen.
+- **VwGO §§ 42, 80** Klagen und einstweiliger Rechtsschutz.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Landesaufsicht Krankenhausaufsicht Beanstandung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Aufsichtsbehoerde und Anlass identifizieren:** Routineprueung, Beschwerde, MD-Bericht, Vorfall?
+2. **Anhoerung wahrnehmen:** Sachverhaltsdarstellung, Gegendarstellung, Sachverstaendigenstellungnahme.
+3. **Bescheid pruefen:** Auflage, Anordnung, Bussgeld, Schliessungsdrohung; Ermessen und Verhaeltnismaessigkeit.
+4. **Frist sichern:** Widerspruch (wenn vorgesehen) oder Klage binnen 1 Monat.
+5. **Massnahmen umsetzen:** Auflagen erfuellen, Nachweis fuehren, Aufsichtsdialog suchen.
+6. **Rechtsschutz:** Klage VG, ggf. einstweiliger Rechtsschutz § 80 Abs. 5 VwGO (insbesondere bei Sofortvollzug).
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Massnahme Aufsicht | Reaktion | Risiko |
+|---|---|---|
+| Beanstandung mit Frist | Anhoerungsstellungnahme + Plan | i. d. R. heilbar |
+| Anordnung mit Sofortvollzug | einstweiliger Rechtsschutz | Verfahrensdauer |
+| Bussgeld | Einspruch (OWiG) | Bestaetigung droht |
+| Schliessungsdrohung | Klage + Eil-Antrag | existenzielle Wirkung |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- Anhoerung ist zentrale Phase — fruehzeitig substanziell stellungnehmen, Sachverstaendige einsetzen.
+- Aufsichtsdialog meist konstruktiver als Eskalation; Auflagen erfuellen und dokumentieren.
+- Bei Sofortvollzug § 80 Abs. 2, 5 VwGO der einzige Weg gegen sofortige Wirksamkeit.
+- Hygienevorfaelle, Personalmaengel, OP-Komplikationen interne Ursachenanalyse + Korrekturplan, das ueberzeugt die Aufsicht.
+- Schliessungsanordnung ist Ultima Ratio; oft milder Mittel (Teilschliessung, Auflagen) durchsetzbar.
+
+## Mustertexte
+**Stellungnahme auf Anhoerung:**
+> Sehr geehrte Damen und Herren, zu Ihrer Beanstandung vom [Datum] nehmen wir wie folgt Stellung. Die festgestellten Maengel sind teilweise abgestellt: 1. … (Belege Anlage A). Verbleibende Massnahmen erfolgen bis [Frist]. Wir bitten von belastenden Anordnungen abzusehen und um Aufsichtsdialog.
+
+**Klage VG mit Eilantrag:**
+> Klageantrag: Der Bescheid vom [Datum] wird aufgehoben. Eilantrag § 80 Abs. 5 VwGO: Die aufschiebende Wirkung der Klage wird wiederhergestellt. Begruendung: 1. Bescheid ist rechtswidrig (Sachverhalt, Ermessensfehler) … 2. Aussetzungsinteresse ueberwiegt …
+
+## Typische Fehler
+- Anhoerung formelhaft beantwortet — Sachverhalt nicht widerlegt.
+- Frist Widerspruch/Klage versaeumt — Bestandskraft.
+- Sofortvollzug uebersehen — Massnahme wird umgesetzt.
+- Aufsichtsdialog verweigert — Eskalation zur Schliessungsanordnung.
+
+## Querverweise
+- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
+- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
+- `krankenhaushygiene-ifsg-landesrecht`
+- `patientenbeschwerde-und-risikomanagement`
+- `personaluntergrenzen-pflege-ppugv`
+- `triage-notaufnahme-ueberlastung-dokumentation`
+
+## Quellen Stand 06/2026
+- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- Landes-VwVfG / Bundes-VwVfG §§ 28, 35 ff., 48, 49.
+- IfSG §§ 23, 36.
+- BVerwG, staend. Rspr. zu Aufsichtsmassnahmen und Verhaeltnismaessigkeit.
+- VwGO §§ 42, 80, 113.

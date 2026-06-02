@@ -3,42 +3,91 @@ name: datenminimierung-edge-cloud
 description: "Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention."
 ---
 
-# Datenminimierung Edge Cloud
+# Datenminimierung in der Edge/Cloud-Architektur
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+## Worum geht es konkret
 
-## Start
+Robotik-Architekturen verteilen Datenverarbeitung typischerweise auf Edge (im Roboter), Fog (lokales Netzwerk, Steuerstand) und Cloud (Telemetrie, KI-Training, Predictive Maintenance). Datenminimierung (Art. 5 Abs. 1 lit. c DSGVO) und Privacy-by-Design (Art. 25 DSGVO) verlangen, dass möglichst wenige Daten möglichst spät und möglichst kurz fließen. Dieser Skill prüft das Datenflussmodell, identifiziert vermeidbare Übertragungen, schlägt Aggregations- und Anonymisierungsschritte vor und liefert Klauseln für Drittanbieter und Mitarbeiter.
 
-Kläre knapp:
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
+1. **Rolle:** Hersteller, Betreiber, DSB, CISO, Cloud-Anbieter.
+2. **Architektur:** Edge-only, Edge+Cloud, Federated, Cloud-only? Welche Verarbeitungen jeweils?
+3. **Datenkategorien:** Sensorrohdaten, Bewegungsmuster, Audio, Video, biometrische Templates, Telemetrie?
+4. **Zwecke:** Sicherheit, Wartung, Performance, KI-Training, Marketing?
+5. **Anlass:** DSFA, Audit, Aufsichtsanfrage, Architekturentscheidung, Vertragsverhandlung mit Cloud-Anbieter.
 
-## Prüfspur
+## Rechtlicher Rahmen
 
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
+- **DSGVO** Art. 5 (Grundsätze), Art. 25 (Privacy by Design/Default), Art. 28 (Auftragsverarbeitung), Art. 32 (Sicherheit), Art. 35 (DSFA), Art. 44 ff. (Drittlandtransfer); EDPB-Leitlinien zu Drittlandtransfer und Anonymisierung.
+- **KI-VO** Art. 10 Datenqualität; Art. 15 Cybersecurity.
+- **CRA** VO (EU) 2024/2847 für vernetzte Komponenten.
+- **Data Act** VO (EU) 2023/2854 zu Datenfluss und Cloud-Switching.
+- **TTDSG** (in D ab 01.12.2021) bei Endgeräte-Zugriff (z. B. App).
+- **BSI Cloud Security Cloud Computing Compliance Criteria Catalogue (C5)**, ISO/IEC 27001/27017/27018.
 
-## Spezifischer Fokus
+## Workflow Schritt für Schritt
 
-Dieser Skill fokussiert: **Prüft lokale Verarbeitung, Edge/Cloud-Aufteilung, Telemetrie, Anonymisierung, Zugriffskontrolle und Retention.**
+1. **Datenfluss-Diagramm.** Quellen, Verarbeitung, Speicherorte, Übertragungen, Empfänger.
+2. **Klassifizierung.** Personenbezogen / besondere Kategorie / nicht-personenbezogen.
+3. **Edge-First.** Welche Daten können im Roboter aggregiert/anonymisiert/verworfen werden, bevor sie ihn verlassen?
+4. **Zweckbindung.** Pro Datenkategorie konkreten Zweck; nicht Allzweck-Telemetrie.
+5. **Rechtsgrundlage.** Art. 6/9 DSGVO; bei Beschäftigten § 26 BDSG bzw. BV.
+6. **Anonymisierung vs. Pseudonymisierung.** EDPB-Test: Re-Identifikationsrisiko sachgerecht.
+7. **Retention.** Maximale Speicherdauer je Kategorie; automatische Löschroutinen.
+8. **Drittlandtransfer.** Art. 44 ff. DSGVO; SCC, TIA, ergänzende Maßnahmen.
+9. **AVV** Art. 28 mit Cloud-Anbieter; Sub-Auftragsverarbeiter dokumentieren.
+10. **Sicherheit.** Verschlüsselung in transit/at rest, IAM, Logging, Schlüssel-Management.
 
-Quellen-/Normenanker: DSGVO Art. 5, 25, 32; Data Act; Vertrag.
+## Trade-off-Matrix
 
-## Ergebnisformat
+| Architektur-Entscheidung | Pro | Contra | Empfehlung |
+|---|---|---|---|
+| Edge-only Inferenz | Datenschutz, Latenz | beschränkte Modelle | für Echtzeit-Steuerung Standard |
+| Federated Learning | Daten bleiben lokal | Implementierungsaufwand | bei KI-Modellen mit Personendaten |
+| Cloud Training Roh-Daten | beste Performance | DSGVO-/Trade-Secret-Risiko | nur synthetisch oder aggregiert |
+| Audio in Cloud | Sprachsteuerung-Komfort | TTDSG, DSGVO | on-device ASR mit Wake-Word-Filter |
 
-Liefere je nach Auftrag eines der folgenden Formate:
+## Praxistipps
 
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
+- **Roh-Video** verlässt den Roboter nie; nur Ereignis-Snippets.
+- **Hash + Templates** statt Klartext-IDs.
+- **Telemetrie-Schemata** versionieren; "kann ich auf das Feld verzichten?" bei jedem Release.
+- **Logs**: Performance ≠ Personen; getrennte Pipelines.
+- **AVV-Audit**: TIA aktualisieren bei jedem Cloud-Anbieter-Wechsel.
 
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+## Mustertexte
+
+**AVV-Klausel zu Datenminimierung (Auszug):**
+
+> Der Auftragsverarbeiter erhält ausschließlich die in Anlage 1 abschließend aufgeführten Datenkategorien zur Erfüllung der dort genannten Zwecke. Die Verarbeitung erfolgt im Geltungsbereich der DSGVO; ein Drittlandtransfer ist nur mit gesonderter schriftlicher Zustimmung des Verantwortlichen und nach Durchführung eines Transfer Impact Assessment (TIA) zulässig. Roh-Sensordaten verlassen das Edge-Gerät nur in aggregierter Form mit einer Latenz von mindestens 60 Sekunden. Die Speicherdauer beträgt 30 Tage für Telemetrie und 6 Monate für Sicherheitsereignisse.
+
+**Mitarbeiterhinweis Telemetrie (Auszug):**
+
+> Der Cobot überträgt zur Wartung Vibrations-, Strom- und Temperatur-Aggregate pro 5-Minuten-Fenster an den Hersteller-Cloud-Service. Eine Übertragung personenbezogener Daten findet nicht statt; das Modell der Aggregation und die Datenpunkte sind in Anlage 2 abschließend beschrieben. Die Übertragung erfolgt verschlüsselt (TLS 1.3) an einen Server in Frankfurt am Main.
+
+## Typische Fehler
+
+- **"Vorsorgliches" Logging** aller Daten – Datenminimierungs-Verstoß.
+- **Cloud-Training auf Roh-Daten** ohne TIA und SCC.
+- **Sprachsteuerung in Cloud** ohne TTDSG-Prüfung.
+- **Anonymisierungs-Anspruch** ohne Re-ID-Test.
+- **Keine Löschroutine** technisch implementiert.
+
+## Querverweise
+
+- `data-act-roboterdaten`
+- `beschaeftigtendatenschutz-cobot`
+- `cra-produkt-mit-digitalen-elementen`
+
+## Quellen Stand 06/2026
+
+- DSGVO Art. 5, 25, 28, 32, 35, 44 ff.
+- BDSG § 26.
+- TTDSG.
+- VO (EU) 2024/1689 (KI-VO), Art. 10, 15.
+- VO (EU) 2024/2847 (CRA).
+- VO (EU) 2023/2854 (Data Act).
+- BSI C5; ISO/IEC 27001/27017/27018.
+- EDPB Guidelines on Anonymisation (in Bearbeitung 2024-2026); EDPB Recommendations 01/2020 Supplementary Measures.
+- Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, BfDI, bsi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.

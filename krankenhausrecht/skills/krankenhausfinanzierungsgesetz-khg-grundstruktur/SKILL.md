@@ -1,38 +1,72 @@
 ---
 name: krankenhausfinanzierungsgesetz-khg-grundstruktur
-description: "Krankenhausfinanzierungsgesetz KHG Grundstruktur: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Grundstruktur des KHG nach Reform 2025: duale Finanzierung, Landesplanung, Investitionsfoerderung, Leistungsgruppen und Bund-Laender-Aufgabenteilung im Ueberblick."
 ---
 
 # Krankenhausfinanzierungsgesetz KHG Grundstruktur
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Das KHG ist das organisatorische Grundgesetz des Krankenhauswesens. Es regelt die **duale Finanzierung** (Investitionen vom Land, Betrieb von den Kassen), die **Landeskrankenhausplanung**, die **Leistungsgruppen** (KHVVG 2025) und das Schiedsstellenwesen. Es ist Voraussetzung fuer KHEntgG, BPflV und SGB-V-Versorgung.
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Geht es um Plankrankenhausstatus, Investitionsfoerderung, Versorgungsauftrag?
+- Steht eine Bund-Laender-Frage an (Reform, Foerderpriorisierung)?
+- Welche Norm im KHG ist konkret relevant (§§ 1, 6, 6a, 8, 9, 17, 17b, 17d, 18a)?
+- Ist die Klinik Plan-, Hochschul-, Vertrags- oder Sicherstellungskrankenhaus?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **KHG § 1** Zweck: bedarfsgerechte Versorgung, sozial tragbare Entgelte.
+- **KHG § 6** Krankenhausplan, Aufnahme/Herausnahme von Kliniken.
+- **KHG § 6a** Leistungsgruppen (eingefuegt durch KHVVG 12/2024).
+- **KHG § 8** Voraussetzungen Foerderung, Krankenhausplan, Versorgungsvertrag.
+- **KHG § 9** Investitionsfoerderung (Einzel, Pauschal, Pauschal-Investition).
+- **KHG § 17, 17b, 17d** Pflegesatz, DRG, PEPP.
+- **KHG § 18a** Schiedsstelle.
+- **Landeskrankenhausgesetze** konkretisieren Foerderung, Aufnahme, Versorgungsauftrag.
+- **SGB V § 108, 109** Zulassung von Krankenhaeusern als GKV-Versorger.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Krankenhausfinanzierungsgesetz KHG Grundstruktur: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Status klaeren:** Plan, Hochschul, Vertrag (§ 108 SGB V), Sicherstellung?
+2. **Relevante KHG-Norm identifizieren:** Plan/§ 6, Foerderung/§ 9, Verguetung/§ 17 ff.
+3. **Bund-/Landesebene trennen:** KHG Bundesrecht; Landeskrankenhausgesetze konkretisieren.
+4. **KHVVG-Auswirkung pruefen:** Welche Aenderung greift bereits, was ist Konvergenz?
+5. **Output formen:** Memo, Stellungnahme, Antrag, Klagebegruendung.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Status | Vorteil | Pflicht |
+|---|---|---|
+| Plankrankenhaus | Investitionsfoerderung, Versorgungsauftrag | Strukturvorgaben, LG-Bindung |
+| Hochschulklinik | Sonderfinanzierung Forschung/Lehre | hohe Anforderungen, Landesgesetz |
+| Vertragsklinik § 108 Nr. 3 | flexible Versorgungsausrichtung | keine Investitionsfoerderung |
+| Sicherstellungshaus | Zuschlaege § 17b Abs. 1a KHEntgG | besondere Pruefung Bedarf |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- KHG ist Bund, Landeskrankenhausgesetz konkretisiert; bei Konflikt: Bundesrecht bricht Landesrecht nur, wo abschliessend geregelt.
+- Foerderbescheid des Landes ist Verwaltungsakt mit Rechtsbehelf, Frist 1 Monat.
+- KHVVG hat die Plansystematik tiefgreifend geaendert: alte Versorgungsauftraege werden in LG ueberfuehrt.
+- Hochschulklinik: zusaetzlich landesrechtliche Hochschulgesetze beachten.
+
+## Mustertexte
+**Aufnahmeantrag in den Krankenhausplan:**
+> An [zustaendige Behoerde]. Wir beantragen die Aufnahme der Klinik [Name] in den Krankenhausplan des Landes [Land] gemaess § 6 KHG i. V. m. § … LKHG. Beigefuegt: Bedarfsbegruendung, Strukturqualitaetsnachweis, LG-Profil, Wirtschaftlichkeitsdarstellung.
+
+## Typische Fehler
+- KHG ohne Bezug zu Landeskrankenhausgesetz pruefen — Foerderdetails dort.
+- Plankrankenhausstatus mit GKV-Versorgungsvertrag verwechseln (§ 108 SGB V).
+- KHVVG-Aenderungen nicht in laufende Foerderbescheide einarbeiten.
+
+## Querverweise
+- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
+- `investitionsfoerderung-einzelfoerderung-pauschalfoerderung`
+- `krankenhausreform-leistungsgruppen-routing`
+- `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
+- `kommunale-klinik-beihilfe-und-eu-beihilfen`
+- `landesaufsicht-krankenhausaufsicht-beanstandung`
+
+## Quellen Stand 06/2026
+- KHG i. d. F. KHVVG 12/2024.
+- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- SGB V §§ 108, 109.
+- BSG, staend. Rspr. zu Versorgungsauftrag, Plankrankenhaus, Foerderung.
+- BVerwG, staend. Rspr. zur Aufnahmeentscheidung Krankenhausplan.

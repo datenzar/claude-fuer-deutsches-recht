@@ -5,30 +5,84 @@ description: "Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Revers
 
 # Fundraising und Vertrieb: Teaser bis Subscription
 
-## Wofür dieser Skill da ist
+## Worum geht es konkret
 
-Der Skill verhindert, dass Vertrieb vor Regulierungs- und Compliance-Freigabe losläuft.
+Der Skill verhindert, dass Vertrieb vor Regulierungs- und Compliance-Freigabe losläuft. Kernprüfung: KAGB-Vertriebsregime (§§ 293 ff. für inländische AIF, §§ 320 ff. für EU-AIF, § 330 ff. für ausländische AIF), Reverse-Solicitation-Doktrin, MiFID-Geeignetheitsprüfung, MAR-relevante Marketing-Vermerke und Greenwashing-Risiken nach SFDR.
 
-## Rechts- und Praxisanker
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-KAGB-Vertriebsregime, MiFID/WpHG, GwG, Prospekt-/Marketingkommunikation, Greenwashing.
+1. Welcher Fonds soll vertrieben werden (DE Spezial-AIF, EU-AIF mit Pass, Drittstaaten-AIF)?
+2. Welche Anlegerkategorie wird angesprochen (professionell, semiprofessionell, retail)?
+3. Welche Jurisdiktion(en) Ziel? Vertriebsanzeige BaFin und/oder Notifizierung in Ziel-MS?
+4. Welche Marketingmaterialien existieren (Teaser, PPM, Pitch Deck, DDQ, Datenraum)?
+5. Reverse-Solicitation-Vorgehen geplant?
+6. Placement Agent eingeschaltet? Erlaubnispflichtig?
+7. ESG-/Sustainability-Aussagen im Marketingmaterial (SFDR-Konsistenz)?
+8. Datenschutz: AVV mit VDR und Placement Agent?
 
-## Workflow
+## Rechtlicher und transaktionaler Rahmen
 
-1. Rolle, Parteiperspektive, Deal-Phase und Zeitdruck klären.
-2. Vorliegende Unterlagen benennen und fehlende Dokumente als konkrete Nachforderungsliste erfassen.
-3. Rechtsrahmen, wirtschaftlichen Hebel und Entscheidungspunkt trennen.
-4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
-5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
+KAGB §§ 293–311 (Vertrieb inländischer AIF an semiprofessionelle Anleger), §§ 312, 316 (an Privatanleger), §§ 320–321 (EU-AIF mit Pass), §§ 322–331 (Drittstaaten-AIF, National Private Placement Regime); § 295 KAGB Marketing-Kommunikations-Anforderungen; MiFID II Art. 24 ff., WpHG §§ 63 ff., 87 (Geeignetheitsprüfung); PRIIPs (VO 1286/2014) bei Retail-Vertrieb; SFDR Marketing-Kommunikation-Konsistenz (Art. 13 SFDR i.V.m. ESMA-Guidelines); Reverse-Solicitation-Doktrin (ESMA-Q&A AIFMD; BaFin-Auslegungshinweis vom Anwender zu prüfen); Wettbewerbsrecht (UWG, Greenwashing-Klauseln).
 
-## Output
+## Workflow / Schritt für Schritt
 
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
+1. Vertriebsregime klären: § 293 (inländischer AIF, semiprofessionell) — kurzer Anzeigepfad bei BaFin (3 Wochen Stillhalte); § 312 (Retail) — erfordert Vertriebsanzeige mit Anlagebedingungen und Verkaufsprospekt.
+2. Marketingmaterialien gegen § 295 KAGB prüfen: korrekte Risikohinweise, keine Performance-Garantie-Ansätze, "as a marketing communication" Kennzeichnung.
+3. SFDR-Konsistenz: Aussagen im PPM müssen mit Disclosure-Dokumenten (Pre-Contractual Disclosure, Website) übereinstimmen.
+4. Placement Agent: KAGB-Erlaubnis (oder MiFID-Pass) prüfen; Vertrag mit Conduct- und IDD-Klauseln.
+5. Reverse Solicitation: dokumentierte Anlegerinitiierung; "Pull"-Doktrin streng prüfen.
+6. Datenraum-Set-up mit Vertraulichkeitsmanagement, Watermarking, Audit-Trail.
+7. Closing-Workflow: Sub-Doc-Eingang, KYC-Komplettierung, Anlegerklassifizierung, Side-Letter-Aushandlung.
 
-## Qualitätsgate
+## Trade-off-Matrix
 
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+| Vertriebsanzeige (Pass) | National Private Placement Regime | Reverse Solicitation |
+| --- | --- | --- |
+| Aktive Marketingrechte EU-weit | Limitierte Reichweite, häufig nur professionelle | Kein aktives Marketing, nur Anleger-initiiert |
+| 4–8 Wochen Vorlauf | 4–12 Wochen pro MS | Sofort, aber engste Linie |
+| AIFMD-Compliance erforderlich | Manche MS verlangen zusätzliche Bedingungen | Hohes Dokumentationsrisiko |
+| Standardstrategie für EU-Sponsoren | Drittstaaten-AIF | Notfall- und Add-On-Lösung |
+
+## Praktikertipps Big-Law-PE
+
+- Reverse Solicitation ist 2024/2025 zunehmend eng ausgelegt — ESMA/BaFin verlangen klare Anleger-Initiation Dokumentation; bloße Folge-E-Mail-Konversation reicht oft nicht.
+- PPM darf keine "Track Record"-Aussagen ohne saubere Datenkonsistenz enthalten; "verified GIPS"-Aussagen prüfen lassen.
+- Greenwashing: ESMA und BaFin haben 2024/2025 mehrere Bußgelder verhängt; "ESG"-Aussagen mit SFDR-Klassifizierung konsistent halten.
+- Placement-Agent-Verträge mit Erfolgsfee enthalten häufig kein "tail fee" — Verhandlung sinnvoll, falls Anleger erst nach Vertragsende zeichnet.
+- Datenraum-Index pre-launch sauber strukturieren; Watermarking pro Investor und Trail-Logs (für spätere Confidentiality-Disputes).
+- AIFMD-II ab April 2026: Pre-Marketing-Regime wird stringenter, Notifizierung nach Pre-Marketing wird erweitert.
+
+## Mustertexte / SPA-Klauseln
+
+Reverse-Solicitation-Erklärung (im Sub-Doc):
+
+> Der Anleger bestätigt, dass er aus eigener Initiative ohne vorhergehende Aufforderung oder Anwerbung durch den Fonds, die KVG, deren verbundene Unternehmen oder einen Placement Agent an die Initiatoren herangetreten ist und Informationen zum Fonds angefragt hat.
+
+Marketing-Disclaimer (PPM):
+
+> Diese Marketing-Mitteilung dient ausschließlich zur Information professioneller und semiprofessioneller Anleger i.S.v. § 1 Abs. 19 Nr. 32, 33 KAGB. Sie stellt kein Angebot und keine Aufforderung zur Zeichnung von Fondsanteilen dar. Maßgeblich sind ausschließlich die Anlagebedingungen, der LPA und das Subscription Agreement.
+
+## Typische Fehler
+
+- "Pre-Marketing" ohne saubere Pre-Marketing-Anzeige nach § 306b KAGB.
+- ESG-Aussagen ohne SFDR-Konsistenz.
+- Track-Record-Daten ohne Verifizierung.
+- Sub-Doc-Versand vor abgeschlossener KYC-Prüfung.
+
+## Querverweise
+
+- pe-004 für KAGB-Scope und Fund Formation.
+- pe-005 für Spezial-AIF.
+- pe-006 für ELTIF.
+- pe-011 für Subscription-Paket.
+- pe-018 für ESG/SFDR.
+- pe-019 für KYC/GwG.
+
+## Quellen Stand 06/2026
+
+- KAGB §§ 293–311, 312, 316, 320–321, 322–331, 306b (Pre-Marketing).
+- AIFMD (RL 2011/61/EU); AIFMD-II (RL (EU) 2024/927, Anwendung ab April 2026).
+- MiFID II (RL 2014/65/EU); WpHG §§ 63 ff., 87.
+- PRIIPs-VO (EU) 1286/2014.
+- SFDR (VO (EU) 2019/2088); ESMA Greenwashing-Bericht (Stand vom Anwender zu prüfen).
+- UWG-Greenwashing-Rechtsprechung (BGH ständige Rspr., konkrete Az. vom Anwender zu verifizieren).

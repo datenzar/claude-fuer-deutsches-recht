@@ -3,36 +3,61 @@ name: digital-services-digital-services-coordinator-ddg
 description: "Digital Services / Digital Services Coordinator DDG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Digital Services Coordinator DDG
+# Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Steuerung von anwaltlichen Verfahren gegenüber der Bundesnetzagentur in ihrer Rolle als Digital Services Coordinator (DSC) nach § 12 DDG. Der DSC ist die zentrale Stelle für die Durchsetzung des Digital Services Act in Deutschland und koordiniert mit der Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ), der/dem Bundesbeauftragten für den Datenschutz (BfDI), den Landesmedienanstalten und der EU-Kommission. Typische Anwendungen: Eingaben gegen rechtswidrige Aufsichtsverfügungen, Stellungnahmen in Verfahren nach Art. 51 DSA, Auskunftsersuchen § 18 DDG, Anhörung vor Bußgeldverhängung § 24 DDG, Klagen vor dem VG Köln.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Konkretes Verfahren der BNetzA (Az., Verfahrensgegenstand, Verfahrensstand).
+- Rolle des Mandanten: betroffene Plattform, Hosting-Anbieter, Suchmaschine, Trusted Flagger, Streitbeilegungsstelle, Beschwerdeführer.
+- Nationale Kooperationsfrage (gemeinsame Untersuchung mit BzKJ, BfDI, Landesmedienanstalten).
+- EU-Schnittstelle (Sitzlandprinzip Art. 56 DSA, EU-Kommissions-Befugnisse über VLOPs).
+- Frist (Stellungnahmefrist § 28 VwVfG, Beschwerdefrist Art. 53 DSA).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- §§ 12–30 DDG (Digitale-Dienste-Gesetz, in Kraft seit 14.05.2024).
+- §§ 12, 14 DDG (Zuständigkeit und Aufgaben der BNetzA als DSC).
+- § 16 DDG (Beirat).
+- § 17 DDG (gemeinsame Aufsicht mit BzKJ und BfDI bei spezifischen Pflichten).
+- § 18 DDG (Auskunftsverlangen, Vor-Ort-Untersuchungen).
+- § 19 DDG (Untersagungsbefugnisse, Anordnung von Abhilfemaßnahmen).
+- § 23 DDG (Zusammenarbeit mit anderen Behörden).
+- § 24 DDG (Bußgeldvorschriften; Höchstbetrag 6 Prozent des Vorjahresumsatzes).
+- VO (EU) 2022/2065 (DSA), insbesondere Art. 49–63 (DSC-System) und Art. 64–88 (Aufsicht über VLOPs durch EU-Kommission).
+- §§ 51 Abs. 1 Nr. 7 VwGO, § 6 VwVfG (Zuständigkeit VG Köln für BNetzA-Sachen).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Digital Services Coordinator DDG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Verfahrensphase einordnen.** Vorermittlung, formelles Aufsichtsverfahren, Anhörung, Untersagung, Bußgeld. Verfahrensphase steuert die Beteiligungsrechte.
+2. **Zuständigkeitsfragen.** Sitzlandprinzip (Art. 56 DSA): Welcher Mitgliedstaat ist primär zuständig? Bei VLOP: ausschließliche EU-Kommissionszuständigkeit für Pflichten aus Kap. III Abschnitt 5 DSA.
+3. **Nationale Kooperation prüfen.** Beteiligungsrechte BzKJ (Jugendmedienschutz), BfDI (Datenschutz nach Art. 27 DSGVO i. V. m. DSA), Landesmedienanstalten (Sendebezug, JMStV).
+4. **Anhörung nach § 28 VwVfG vorbereiten.** Sachverhaltsdarstellung, rechtliche Würdigung, Verpflichtungszusagen-Vorschlag (Art. 73 DSA), Alternativvorschläge.
+5. **Verpflichtungszusagen.** Art. 73 DSA erlaubt einvernehmliche Lösungen mit Verbindlichmachung; Kommissions-Praxis aus dem Wettbewerbsrecht ist Auslegungsanker (Art. 9 VO 1/2003).
+6. **Bußgeldverteidigung.** § 24 DDG bei Verstoß gegen Auskunftspflicht; nemo tenetur; Verhältnismäßigkeitskontrolle.
+7. **Akteneinsicht und Geheimnisschutz.** Schwärzungsstrategie für Konkurrentenbeteiligung; Bezug zum Schwärzungs-Skill im selben Plugin.
+8. **Rechtsschutz.** Anfechtungsklage VG Köln; Eilantrag § 80 Abs. 5 VwGO; Beschwerde an EU-Gremium über DSC-Praxis (Art. 64 DSA).
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Stellungnahme an den DSC: Sachverhaltsteil, Rechtsteil mit Gliederung nach DSA-Pflichten, Verpflichtungszusagen-Vorschlag.
+- Antrag auf Akteneinsicht nach § 29 VwVfG i. V. m. § 18 DDG mit Schwärzungstabelle.
+- Verteidigungsschriftsatz gegen Bußgeldbescheid (§ 67 OWiG; sofortige Einspruch beim AG, anwaltliche Strategie vorab).
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- DDG-Originaltext aus BGBl. 2024 I Nr. 149.
+- DSA-Originaltext und delegierte Rechtsakte aus EUR-Lex.
+- BNetzA-DSC-Veröffentlichungen (Webseite, Jahresberichte nach § 16 DDG).
+- VG Köln-Entscheidungen mit Az., Datum, Fundstelle.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Verfahrenslandkarte mit Behördenrollen.
+- Stellungnahme-Schriftsatz (10–30 Seiten je nach Verfahren).
+- Eskalationsplan zur EU-Kommission (für VLOP-relevante Mandate).
+
+## Beispiele
+- Hosting-Anbieter erhält Auskunftsverlangen nach § 18 DDG. Strategie: zügige Lieferung mit klarem Schutz von Geschäftsgeheimnissen.
+- Online-Plattform wird Untersagung gem. § 19 DDG angedroht wegen fehlender Notice-and-Action-Schnittstelle. Verpflichtungszusagen-Vorschlag nach Art. 73 DSA.
+- Verband stellt eine Anzeige nach Art. 53 DSA, DSC eröffnet Vorermittlung, anwaltliche Plattform-Begleitung.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Zuständigkeit DSC vs. Kommission geklärt? Nationale Behördenbeteiligung berücksichtigt? Verpflichtungszusagen geprüft? Anhörungsrechte gewahrt? Bußgeldrisiken quantifiziert (Umsatzbasis)?

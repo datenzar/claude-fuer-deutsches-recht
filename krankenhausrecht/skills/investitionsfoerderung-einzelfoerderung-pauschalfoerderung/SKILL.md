@@ -1,38 +1,78 @@
 ---
 name: investitionsfoerderung-einzelfoerderung-pauschalfoerderung
-description: "Investitionsförderung Einzelförderung Pauschalförderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung."
 ---
 
-# Investitionsförderung Einzelförderung Pauschalförderung
+# Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern zu (§ 9 KHG). Es bestehen zwei Foerderwege: **Einzelfoerderung** fuer grosse Vorhaben (Bau, Generalsanierung) und **Pauschalfoerderung** fuer wiederkehrende Investitionen (Geraete, kleinere Massnahmen). Daneben Transformationsfonds (KHVVG) und KHZG-Digitalisierungsmittel.
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welches Land foerdert, welches Landeskrankenhausgesetz gilt?
+- Geht es um Neu-/Umbau, Geraete, IT oder Transformationsfondsantrag?
+- Liegt Foerderbescheid (positiv/negativ) vor, drohen Frist oder Rueckforderung?
+- Wie hoch ist Kofinanzierungsanteil des Traegers?
+- Sind Vergabe- und Bauplanungsrecht parallel beruehrt?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **KHG § 9** Investitionsfoerderung: Einzel-, Pauschal-, Investitionspauschale.
+- **Landeskrankenhausgesetze** konkretisieren Foerderverfahren (z. B. § 18 KHGG NRW, BayKrG, GKKG BW).
+- **KHZG** (Krankenhauszukunftsgesetz): Bundes-/Landeskofinanzierung Digitalisierung.
+- **KHVVG-Transformationsfonds** 50 Mrd. EUR ueber 10 Jahre (Bund/Land 50:50, GKV-Anteil).
+- **Subventionsrecht**, Vergaberecht (GWB, VgV, UVgO), Beihilfenrecht EU.
+- **VwVfG §§ 48, 49** Aufhebung/Rueckforderung Foerderbescheid.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Investitionsförderung Einzelförderung Pauschalförderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Foerdertyp identifizieren:** Einzel, Pauschal, KHZG, Transformationsfonds.
+2. **Foerderfaehigkeit pruefen:** Plankrankenhausstatus, Bedarfsbegruendung, Wirtschaftlichkeit.
+3. **Bauplanung pruefen:** Baugenehmigung, ggf. Planfeststellung (Bauordnungs-/Bauplanungsrecht).
+4. **Antrag stellen:** Landesformular, Anlagen (Kostenberechnung, Bedarfsplan, Wirtschaftlichkeitsuntersuchung).
+5. **Bescheid pruefen:** Nebenbestimmungen § 36 VwVfG, Auflagen, Befristungen.
+6. **Verwendungsnachweis fuehren:** Frist meist 6-12 Monate nach Massnahmenende.
+7. **Rueckforderung abwehren** ( §§ 48, 49 VwVfG): Anhoerung, Vertrauensschutz, Ermessen.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Foerderweg | Vorteil | Nachteil |
+|---|---|---|
+| Einzelfoerderung | hoher Foerderbetrag | langes Verfahren, Bedarfsbegruendung |
+| Pauschalfoerderung | schnell, formlos | begrenzt der Hoehe nach |
+| KHZG | Digitalisierungsschub | Fristen, technische Reifekriterien |
+| Transformationsfonds | grosse Volumina | Strukturveraenderung erforderlich, Bund-Land-Steuerung |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- Foerderbescheid ist Verwaltungsakt mit Nebenbestimmungen; Rechtsbehelfsfrist 1 Monat.
+- Vertrauensschutz § 48 Abs. 2 VwVfG steht Rueckforderung entgegen, soweit Bewilligungsempfaenger nicht boesglaeubig war.
+- Vergaberechtsverstoesse fuehren regelmaeßig zu Foerderkorrekturen (10-25 %).
+- Beihilfenrechtliche Pruefung bei kommunalen Krankenhaeusern (Altmark-Trans, DAWI).
+- KHZG-Mittel waren bis 2024 abgerufen werden; Verlaengerungen pruefen.
+
+## Mustertexte
+**Foerderantrag Einzelmassnahme:**
+> Wir beantragen die Einzelfoerderung nach § 9 KHG i. V. m. § … LKHG fuer das Vorhaben [Name]. Kostenberechnung: … EUR. Bedarfsbegruendung: … Wirtschaftlichkeitsuntersuchung: … Anlagen: Baubeschreibung, Statik, Kostenvoranschlaege.
+
+**Verteidigungsschreiben gegen Rueckforderung:**
+> Gegen die beabsichtigte Rueckforderung tragen wir vor: 1. Vertrauensschutz nach § 48 Abs. 2 VwVfG (keine Bekanntmachung der Fehleinschaetzung). 2. Ermessensfehler … 3. Verwendungsnachweise vollstaendig erbracht. Beweismittel: …
+
+## Typische Fehler
+- Foerderbescheid ohne Nebenbestimmungen pruefen — Pflichten uebersehen.
+- Vergaberecht uebersehen (GWB/VgV); Verstoss fuehrt zu Korrektur.
+- Transformationsfondsantrag ohne Strukturveraenderungskonzept — Antrag nicht foerderfaehig.
+- KHZG-Frist verpasst, keine Verlaengerung beantragt.
+
+## Querverweise
+- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
+- `krankenhausdigitalisierung-khzg-it-sicherheit`
+- `vergaberecht-krankenhaus-einkauf-bau-it`
+- `klinikverbund-fusion-kartell-vergabe-planungsrecht`
+- `landeskrankenhausplan-aufnahme-herausnahme-aenderung`
+- `kommunale-klinik-beihilfe-und-eu-beihilfen`
+
+## Quellen Stand 06/2026
+- KHG § 9 i. d. F. KHVVG.
+- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- KHZG (Live-Check BMG, BAS).
+- KHVVG Transformationsfonds (Live-Check BMG).
+- BVerwG, staend. Rspr. zur Investitionsfoerderung; BSG zum Versorgungsauftrag.
+- EU-Beihilfenrecht: Altmark-Trans (EuGH C-280/00), Freistellung DAWI.

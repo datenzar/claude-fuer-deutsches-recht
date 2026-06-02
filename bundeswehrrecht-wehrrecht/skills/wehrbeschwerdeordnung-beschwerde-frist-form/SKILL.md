@@ -3,36 +3,94 @@ name: wehrbeschwerdeordnung-beschwerde-frist-form
 description: "Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Wehrbeschwerdeordnung Beschwerde Frist Form
+# Wehrbeschwerdeordnung – Beschwerde, Frist und Form
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten gegen truppendienstliche Maßnahmen, Befehle, Beurteilungen, Versetzungen, Verwendungsentscheidungen und sonstige Beeinträchtigungen seiner Rechtsstellung. Sie ist verbindlich und im Regelfall ausschließlich – ein direkter Verwaltungsgerichtsweg ist gesperrt. Der Skill führt durch Statthaftigkeit, Frist, Form, Zuständigkeit und Stufen der WBO.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Was wird angegriffen (Befehl, Maßnahme, Verhalten, Beurteilung, Versetzung, ablehnende Personalentscheidung)?
+- Wann ist die Maßnahme bekannt geworden? Beweis des Zugangsdatums?
+- Wer ist Beschwerdegegner – nächster Disziplinarvorgesetzter? Höherer Truppenvorgesetzter?
+- Bisheriger Verfahrensstand: bereits Beschwerde eingelegt? Bescheid ergangen? Weitere Beschwerde?
+- Eilbedürfnis? Konkurrentenstreit, vorläufige Dienstenthebung, kurzfristige Versetzung?
+- Soll Wirkung der Maßnahme einstweilig ausgesetzt werden (§ 3 WBO Aussetzung)?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 1 WBO: Statthaftigkeit der Beschwerde – gegen Beeinträchtigung in Rechten durch Vorgesetzte oder Dienststelle.
+- § 3 WBO: Aufschiebende Wirkung – grundsätzlich keine, Aussetzung der Vollziehung in Ausnahmen.
+- § 5 WBO: Beschwerderecht und persönliches Einlegen, Schriftform oder zur Niederschrift.
+- § 6 WBO: Beschwerdefrist – 1 Monat ab Kenntnis.
+- § 9 WBO: Entscheidung über Beschwerde durch Beschwerdestelle.
+- § 16 WBO: Weitere Beschwerde – 2 Wochen ab Zustellung des Beschwerdebescheids.
+- § 17 WBO: Antrag auf gerichtliche Entscheidung – Truppendienstgericht.
+- § 21 WBO: Antrag auf gerichtliche Entscheidung beim BVerwG (bei truppendienstlicher Erstmaßnahme höherer Vorgesetzter).
+- § 22 WBO: Aufschiebende Wirkung der gerichtlichen Anfechtung in eng begrenzten Fällen.
+- § 23 WBO: Mündliche Verhandlung beim Truppendienstgericht.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Statthaftigkeit prüfen.** Ist die Maßnahme eine Beschwer iSd § 1 WBO? Befehle, Beurteilungen, ablehnende Personalentscheidungen sind statthafte Beschwerdegegenstände. Disziplinarmaßnahmen einfacher Art werden im WDO-Weg angegriffen.
+2. **Frist berechnen.** § 6 WBO: 1 Monat ab Kenntnis. Bei mehrtägiger Maßnahme – Beginn der Frist? Zugang nachweisbar? Schutzschrift mit Vorbehalt der Begründung möglich.
+3. **Form wählen.** Schriftlich oder zur Niederschrift bei der nächsten Dienststelle. Per Fax oder elektronisch nach den Maßgaben der jeweiligen Dienststellen-Empfangswege.
+4. **Adressat.** Bei einfachen Beschwerden: nächster Disziplinarvorgesetzter des Beschwerdegegners. Bei höhergradigen Vorgesetzten: nächsthöhere Stelle.
+5. **Aussetzung beantragen,** wenn Eilbedürfnis besteht (§ 3 II WBO).
+6. **Begründung.** Auch nachreichbar; Frist erst durch Begründung gewahrt? Nein – Beschwerde gilt mit Fristwahrung eingelegt, Begründung als Schriftsatz nachreichbar.
+7. **Beschwerdebescheid prüfen.** Form, Zustellung, Begründung. Bei Erfolglosigkeit: weitere Beschwerde oder Antrag auf gerichtliche Entscheidung (§§ 16, 17 WBO).
+8. **Gerichtliches Verfahren** beim Truppendienstgericht – 2-Wochen-Antragsfrist nach Zustellung des letzten Beschwerdebescheids.
+
+## Trade-off-Matrix
+
+| Konstellation | Sofortige Beschwerde | Beschwerde nach Akteneinsicht |
+| --- | --- | --- |
+| Klare Frist-Auslaufgefahr | Ja, fristwahrend ohne Begründung | Risiko Fristablauf |
+| Komplexer Sachverhalt | Schutzschrift mit Vorbehalt | Begründete Beschwerde |
+| Konkurrentenstreit | Eilantrag § 21 WBO | Hauptsacheantrag |
+| Vorläufige Dienstenthebung | § 3 II WBO Aussetzung | nur in Ausnahmen sinnvoll |
+
+## Praxistipps
+
+- Beschwerde immer per Schriftstück mit Eingangsbestätigung – formlose mündliche Beschwerde zum Disziplinarvorgesetzten unsicher.
+- Postlaufzeiten einkalkulieren. Bei Auslandsverwendung Einlegung über Feldpostadresse oder konsularisch.
+- Akteneinsicht (§ 29 SG, § 99 VwGO entsprechend) parallel beantragen.
+- Aufschiebende Wirkung der Beschwerde ist Ausnahme; ohne Aussetzungsantrag bleibt die Maßnahme vollziehbar.
+- Auch unterhalb der Beschwerdeschwelle: Petition (Art. 17 GG) und Eingabe beim Wehrbeauftragten (Art. 45b GG, WBeauftrG) sind parallele Instrumente.
+
+## Mustertexte
+
+**Fristwahrende WBO-Beschwerde:**
+"Hiermit lege ich gegen die [Maßnahme: Versetzung/Befehl/Beurteilung] vom [Datum], zugegangen am [Datum], fristwahrend Beschwerde nach § 1 WBO ein. Die Begründung erfolgt nach Akteneinsicht. Ich beantrage gleichzeitig die Aussetzung der Vollziehung nach § 3 II WBO, weil ein erheblicher Nachteil droht, der nicht mehr rückgängig zu machen ist."
+
+**Antrag auf gerichtliche Entscheidung:**
+"Hiermit beantrage ich nach § 17 WBO gerichtliche Entscheidung gegen den Beschwerdebescheid vom [Datum], zugestellt am [Datum]. Ich beantrage,
+1. den Beschwerdebescheid sowie die Ausgangsmaßnahme aufzuheben,
+2. die Aussetzung der Vollziehung anzuordnen,
+3. ein Sachverständigengutachten einzuholen über [...]."
+
+## Typische Fehler
+
+- Frist verpasst, weil Zugang der Maßnahme nicht dokumentiert.
+- Beschwerde an die falsche Stelle gerichtet – fristwahrend ist nur die Einlegung bei der zuständigen Stelle; jedoch: jede militärische Dienststelle ist verpflichtet, die Beschwerde weiterzuleiten.
+- Aussetzung der Vollziehung nicht beantragt – Maßnahme wird vollzogen, Anliegen erledigt sich faktisch.
+- Vermengung von WBO (Maßnahmen) und WDO (Disziplinar) – falscher Rechtsweg.
+- Verwaltungsgericht angerufen statt Truppendienstgericht – Klage als unzulässig abzuweisen.
+
+## Querverweise
+
+- soldatengesetz-rechtsstellung-grundpflichten
+- truppendienstgericht-zustaendigkeit-verfahren
+- bundesverwaltungsgericht-wehrdienstsenate
+- eilverfahren-konkurrentenstreit-wehrdienstsenat
+- weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht
+- fristenkalender-bundeswehrrecht
+
+## Quellen Stand 06/2026
+
+- WBO – Volltext gesetze-im-internet.de.
+- BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Auslegung der Beschwer in § 1 WBO und zur Fristberechnung (Az. nur verifiziert zitieren).
+- WBeauftrG – Volltext gesetze-im-internet.de, Berichte des Wehrbeauftragten beim Deutschen Bundestag.
+- Truppendienstgerichte Süd/Nord – Verfahrensordnung und Geschäftsverteilungspläne (publik bei BVerwG/Truppendienstgerichten).
+- Bundeswehrhandbücher und ZDv nur nach Mandantenvorlage zitieren.

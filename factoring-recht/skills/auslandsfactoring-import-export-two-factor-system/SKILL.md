@@ -5,34 +5,107 @@ description: "Auslandsfactoring Import Export Two-Factor-System: prüft die eins
 
 # Auslandsfactoring Import Export Two-Factor-System
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Auslandsfactoring ist Forderungsankauf mit **grenzüberschreitendem Element**: deutscher Exporteur, ausländischer Debitor (Export Factoring) oder ausländischer Exporteur, deutscher Debitor (Import Factoring). Das deutsche Factoring stößt hier an Grenzen – Sprache, Rechtsordnung, Inkasso, Bonitätsbewertung. Antwort der Branche: **Two-Factor-System** der internationalen Factoring-Netzwerke (Factors Chain International FCI, IFG). Ein Factor im Land des Exporteurs (Export Factor) arbeitet mit einem Factor im Land des Debitors (Import Factor) zusammen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Rechtlich entstehen die schwierigen Fragen aus dem **internationalen Privatrecht der Forderungsabtretung** (Rom I Art. 14, UNIDROIT/UNCITRAL-Konventionen) sowie aus den **devisen- und aufsichtsrechtlichen Vorgaben** des Importlandes. Dieser Skill prüft die typischen Stolperfallen.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Ein deutscher Mittelständler exportiert in die EU/Drittstaat und überlegt, Export-Forderungen zu factorieren.
+- Ein deutscher Factor will Forderungen eines ausländischen Lieferanten gegen deutsche Abnehmer ankaufen (Import Factoring).
+- Two-Factor-Vereinbarung mit ausländischem Partner-Factor steht zur Prüfung.
+- Streit über das anwendbare Recht der Abtretung (Verkäufersitz, Debitorensitz, Forderungsrecht).
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Welche Länder sind beteiligt (Verkäufer, Käufer, Factor)?
+- Liegt schon ein FCI/IFG-Korrespondenzpartner vor?
+- Welches Recht regelt den zugrundeliegenden Vertrag (Liefervertrag)?
+- Gibt es Devisenkontrollen, Sanktionen, Exportkontroll-Restriktionen?
+- Wie ist der Zahlungsweg geplant (Inkasso, SWIFT, Treuhand)?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **Rom I-Verordnung Art. 14**: IPR der Forderungsabtretung – Verhältnis Zedent/Zessionar nach gewähltem Recht, Verhältnis zum Debitor und Drittwirkung umstritten (UNCITRAL-Konvention 2001, Stand der EU-Verordnung 2022).
+- **EU-Verordnung über das auf die Drittwirkung von Forderungsabtretungen anzuwendende Recht** (Vorschlag COM 2018/96): künftig einheitliche Regelung; bis Inkrafttreten Rückgriff auf nationale Kollisionsregeln.
+- **UN-Convention on the Assignment of Receivables in International Trade** (New York 2001): noch nicht in Kraft, aber Auslegungsmaterial.
+- **EGBGB Art. 33** (alte Fassung): bis Rom I subsidiär.
+- **Outgoing Letters of Credit (UCP 600), URDG 758**: bei Akkreditiv- und Garantietransaktionen.
+- **GFI Rules** der Factors Chain International: Vertragsregeln für Two-Factor-Geschäfte (interfactor agreement, GFI – General Rules for International Factoring).
+- **AWG / AWV**: Außenwirtschaftsrecht, Genehmigungs- und Meldepflichten.
+- **EU-Sanktionsregime**: VO (EU) 833/2014, 269/2014 etc. – Russland, Iran, Belarus.
+
+## Workflow / Schritt für Schritt
+
+1. **Länder und Vertragstyp klären**: Sitz Verkäufer, Debitor, Factor. Lieferkette skizzieren.
+2. **Rechtswahl im Liefervertrag prüfen**: Welches Recht regelt die zugrundeliegende Forderung?
+3. **Anwendbares Recht der Abtretung bestimmen**: Rom I Art. 14, ggf. nationale Kollisionsnorm.
+4. **Two-Factor-Struktur einrichten** (sofern angezeigt): Export Factor und Import Factor benennen, GFI-Vertrag schließen.
+5. **Aufsichts- und Steuerfragen prüfen**: KWG-Erlaubnis des Importfactors, USt-Behandlung grenzüberschreitender Faktorleistungen.
+6. **Sanktions- und Embargoprüfung**: EU-Sanktionsliste prüfen, AWV-Meldung beachten.
+7. **Vertragsdokumentation**: Notifikation in Landessprache, Zahlungsweg, Konfliktlösungsklauseln.
+
+## Trade-off-Matrix
+
+| Modell | Vorteil | Nachteil |
+|---|---|---|
+| Two-Factor-System (FCI/IFG) | Lokaler Partner, Inkasso vor Ort, Risikoabdeckung | Höhere Kosten, Doppelmargen |
+| Direct Export Factoring (ohne Import Factor) | Geringere Kosten | Risiko, Recht und Inkasso im Land des Debitors |
+| Forfaitierung mit Kreditversicherung | Klar abgrenzbar, einmalig | Keine laufende Lösung, nur für große Tickets |
+| Reverse Factoring (Käuferinitiiert) | Bonität des Käufers trägt | Setzt Bonität des Käufers voraus |
+
+## Praxistipps
+
+- **Rechtswahl gezielt setzen**: Im Factoringvertrag möglichst deutsches Recht, im Interfactor-Agreement das Recht des stärkeren Marktteilnehmers (oft englisches Recht).
+- **Notifikation in Landessprache**: Debitoren in Frankreich, Italien, Spanien zahlen erfahrungsgemäß nur, wenn die Abtretungsanzeige in der Landessprache und mit lokalem Inkasso versehen ist.
+- **Devisenkontrollen prüfen**: In manchen Ländern (z. B. Türkei, Argentinien) gelten Kapitalverkehrsbeschränkungen, die das Inkasso erschweren.
+- **Sanktionsscreening**: Vor jedem grenzüberschreitenden Ankauf prüfen, ob Debitor, Verkäufer oder Beteiligte auf EU-Sanktionslisten stehen.
+- **Steuerliche Klarheit**: Factoringleistungen sind nach § 4 Nr. 8c UStG steuerbefreit – Achtung bei grenzüberschreitenden Leistungen (Ortsregel, Reverse Charge).
+
+## Mustertexte
+
+**Klausel Rechtswahl im Two-Factor-Vertrag**
+
+"Dieser Vertrag und alle aus ihm folgenden Verpflichtungen unterliegen englischem Recht unter Ausschluss seines Kollisionsrechts. Die UN-Convention on the International Sale of Goods (CISG) findet keine Anwendung. Gerichtsstand ist London."
+
+**Notifikation an französischen Debitor (Auszug)**
+
+"Madame, Monsieur, par les présentes, nous vous notifions que notre créance issue de la facture n° … en date du … pour un montant de … EUR a été cédée à [Factor] conformément aux dispositions des articles 1321 et suivants du Code civil. Tout paiement libératoire devra être effectué sur le compte de [Factor], IBAN …"
+
+**Klausel im Factoringvertrag (Export)**
+
+"Der Factor übernimmt die Forderung gegen den Debitor mit Sitz im Ausland im Rahmen des Two-Factor-Systems der Factors Chain International. Der Factor wird einen Korrespondenz-Factor im Land des Debitors einschalten. Inkasso, Bonitätsprüfung und Mahnwesen erfolgen über den Korrespondenz-Factor nach Maßgabe der GFI – General Rules for International Factoring."
+
+## Typische Fehler
+
+- Annahme, Rom I Art. 14 regle auch die Drittwirkung der Abtretung – das ist gerade umstritten und national unterschiedlich.
+- Fehlende Notifikation in Landessprache mit Folge, dass der Debitor an den Altgläubiger zahlt.
+- Unterschätzen von Devisenkontrollen und Sanktionsrisiken.
+- Falsche umsatzsteuerliche Behandlung grenzüberschreitender Factoringleistungen.
+- Direct Factoring in Schwellenländer ohne lokalen Partner – Inkassorisiko explodiert.
+
+## Edge Cases und Sonderkonstellationen
+
+- **Schweizer Debitoren**: Schweiz ist Drittland im DSGVO-Sinn, aber Angemessenheitsbeschluss vorhanden – Datentransfer ohne SCC zulässig.
+- **UK nach Brexit**: Angemessenheitsbeschluss der EU-Kommission besteht für UK; Standard Contractual Clauses (SCC) für Datentransfer nicht erforderlich.
+- **USA und Schrems-II**: Datentransfer in die USA nur mit ergänzenden Schutzmaßnahmen oder unter EU-US Data Privacy Framework (2023) zulässig.
+- **CISG-Anwendbarkeit**: Im internationalen Warenkauf gilt das UN-Kaufrecht (CISG) automatisch, soweit nicht ausgeschlossen; das beeinflusst Mängelrechte und damit Veritätsrisiko.
+- **Akkreditiv-basiertes Geschäft**: Bei L/C-Geschäften ist die Forderung gegen die avisierende Bank gerichtet – andere Risikostruktur, oft niedrigerer Diskont.
+- **Forfaitierung versus Factoring**: Einmaliger Verkauf einer Großforderung mit aval einer Bank – aufsichtsrechtlich anders behandelt, kein laufendes Geschäft.
+- **Geldwäscherisiko grenzüberschreitend**: GwG-Pflichten gelten für jeden Geschäftsabschluss, besondere Sorgfalt bei Auslandsbezug; PEPs-Screening.
+
+## Querverweise
+
+- `gerichtsstand-rechtswahl-schiedsvereinbarung`
+- `factoringtyp-true-false-reverse-maturity`
+- `geldwaesche-verdachtsmeldung-monitoring`
+- `debitorenkommunikation-und-abtretungsanzeige`
+
+## Quellen Stand 06/2026
+
+- Rom I-Verordnung (VO 593/2008) Art. 14.
+- EU-Vorschlag COM(2018) 96 zur Drittwirkung von Forderungsabtretungen.
+- UN-Convention on the Assignment of Receivables in International Trade (New York 2001).
+- General Rules for International Factoring (GRIF/GFI) der FCI – Factors Chain International.
+- AWG/AWV in der jeweils gültigen Fassung; EU-Sanktionsverordnungen.

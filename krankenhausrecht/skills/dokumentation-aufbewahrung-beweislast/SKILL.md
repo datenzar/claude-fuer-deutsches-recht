@@ -1,38 +1,82 @@
 ---
 name: dokumentation-aufbewahrung-beweislast
-description: "Dokumentation Aufbewahrung Beweislast: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Krankenhaus-Dokumentation, Aufbewahrungsfristen und Beweislast: § 630f BGB, RoeV/StrlSchV, BO-Aerzte, GoBD, DSGVO, Aufbewahrung 10 bis 30 Jahre und elektronische Patientenakte (ePA)."
 ---
 
 # Dokumentation Aufbewahrung Beweislast
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Die Krankenhausdokumentation ist Pflicht (§ 630f BGB, MBO-Aerzte), Verguetungsgrundlage (MD-Pruefung), Compliance-Schutz und im Streit oft die einzige Verteidigung. Aufbewahrungsfristen liegen zwischen 10 Jahren (Standard) und 30 Jahren (Strahlentherapie, Bluttransfusion), je nach Materie.
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welche Doku-Pflicht ist betroffen (Aerztlich, Pflege, Aufklaerung, Strahlentherapie, Blut)?
+- Ist analog/digital gefuehrt? Liegen Manipulationssicherung und Versionierung vor?
+- Welche Aufbewahrungsfrist gilt (10, 15, 30 Jahre)?
+- Wird die Akte fuer Patient, MD, Gericht oder Aufsicht verlangt?
+- Drohen Beweislastnachteile bei Behandlungsfehlerklage (§ 630h BGB)?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **BGB § 630f** Dokumentationspflicht des Behandelnden, Sofort, dauerhaft, vollstaendig.
+- **BGB § 630h Abs. 3** Beweislastumkehr bei Dokumentationsfehlern (vermutet: nicht durchgefuehrt).
+- **MBO-Aerzte § 10** Aufbewahrungspflicht 10 Jahre, ggf. laenger.
+- **RoeV § 28 Abs. 3 StrlSchG, § 85 StrlSchV** 30 Jahre Roentgen/Strahlentherapie.
+- **TFG (Transfusionsgesetz)** Aufbewahrung Blutprodukte-Dokumentation 30 Jahre (§ 14 Abs. 3 TFG).
+- **GoBD** elektronische Buchfuehrung (Patientenakte ist auch Geschaeftsunterlage).
+- **DSGVO Art. 5, 17, 18** Datenschutz, Speicherbegrenzung, Loeschpflicht nach Ablauf.
+- **SGB X § 84** Aufbewahrung sozialrechtliche Unterlagen.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Dokumentation Aufbewahrung Beweislast: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Aktenklassen identifizieren:** Aerztlich, Pflege, Aufklaerung, Bildgebung, OP, Anaesthesie, Blut, Labor.
+2. **Aufbewahrungsfrist je Klasse:** Standard 10 Jahre, Roentgen/Strahlentherapie 30 Jahre, Blut 30 Jahre, Geburten 30 Jahre (haftungsrechtlich BGH).
+3. **Form pruefen:** Analog vs. digital, ePA-Anbindung, Manipulationssicherheit.
+4. **Versionierung sichern:** Aenderungen § 630f Abs. 2 BGB nachvollziehbar.
+5. **Loeschplan nach Frist:** DSGVO-konforme Vernichtung.
+6. **Beweislastpruefung bei Streit:** Lueche zur Pflichtdoku → § 630h Abs. 3 BGB Beweislastumkehr.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Aktenklasse | Mindestfrist | Praxisfrist |
+|---|---|---|
+| Allg. aerztliche Doku | 10 Jahre (§ 630f Abs. 3) | 30 Jahre wegen Verjaehrung (BGH) |
+| Roentgen, Strahlentherapie | 30 Jahre (StrlSchV) | 30 Jahre |
+| Transfusion Blut | 30 Jahre (TFG) | 30 Jahre |
+| Geburten | empfohlen 30 Jahre | mind. bis Volljaehrigkeit + 3 Jahre |
+| Wahlleistungen, Vertraege | 6/10 Jahre (HGB/AO) | 10 Jahre |
+| Forschungsdaten (klinische Studie) | 10-25 Jahre (GCP) | je nach Pruefer |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- Lange Verjaehrungsfrist Behandlungsfehler (§ 199 BGB: 3 Jahre ab Kenntnis, Hoechstfrist 30 Jahre); deshalb Praxis 30 Jahre archivieren.
+- Digitale Akte muss revisionssicher sein (GoBD), inkl. Zeitstempel und Berechtigungskonzept.
+- Aerztliche und pflegerische Doku zeitnah, nicht retrospektiv "geglaettet".
+- Aufklaerungsdoku ist Schlachtfeld bei Haftungsstreit — Vordrucke + handschriftliche Notiz schaffen Authentizitaet.
+- DSGVO: Loeschung nach Frist Pflicht; Aufbewahrungspflicht bricht aber Loeschanspruch (Art. 17 Abs. 3 lit. b).
+
+## Mustertexte
+**Internes Memo zur Aufbewahrungspflicht:**
+> Klassifizierung Krankenhausakten. Klasse A (allg. aerztlich): 30 Jahre. Klasse B (Roentgen, Strahlentherapie): 30 Jahre. Klasse C (Transfusion Blut): 30 Jahre. Klasse D (Geburten): 30 Jahre. Klasse E (Wahlleistungen/Vertraege): 10 Jahre. Verantwortlich: Archivleitung, Vertretung: …
+
+**Verteidigung gegen Doku-Vorwurf:**
+> Die in der Klagebegruendung behauptete Dokumentationsluecke besteht nicht. Anlage A enthaelt den vollstaendigen Pflegebericht; Anlage B den Aerztlichen Verlauf; Anlage C die Aufklaerungsdokumentation. Eine Beweislastumkehr nach § 630h Abs. 3 BGB liegt nicht vor.
+
+## Typische Fehler
+- Aufbewahrung nur 10 Jahre — bei Spaetfaellen Beweisnot.
+- Digitale Akte ohne Manipulationssicherheit.
+- Aufklaerungsdokumente nicht in Patientenakte integriert.
+- Loeschen nach Frist ohne Pruefung etwa laufender Verfahren.
+- Pflegedokumentation lueckenhaft — § 630h-Risiko.
+
+## Querverweise
+- `patientenrechte-behandlungsvertrag-aufklaerung`
+- `datenschutz-krankenhaus-patientenakte-forschung`
+- `haftpflichtfall-krankenhaus-gutachtenstrategie`
+- `blutprodukte-transfusionsrecht-dokumentation`
+- `strahlenschutz-radiologie-nuklearmedizin`
+- `md-pruefung-krankenhausabrechnung-pruefverfahrensvereinbarung`
+
+## Quellen Stand 06/2026
+- BGB §§ 630a-630h.
+- StrlSchG § 28, StrlSchV § 85.
+- TFG § 14.
+- MBO-Aerzte § 10.
+- BGH, staend. Rspr. zur Aufbewahrungsdauer (Haftungsverjaehrung).
+- GoBD, DSGVO Art. 5, 17, 18.

@@ -3,36 +3,60 @@ name: digital-services-online-werbung-transparenz-dsa
 description: "Digital Services / Online-Werbung Transparenz DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Online-Werbung Transparenz DSA
+# Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Arbeit an den DSA-Transparenzpflichten für Online-Werbung. Plattformen müssen jede Werbung als solche kennzeichnen, den Werbetreibenden offenlegen, die Hauptparameter der Zielausrichtung erklären (Art. 26 DSA) und – im Fall sehr großer Online-Plattformen und Suchmaschinen – ein durchsuchbares, mindestens ein Jahr archiviertes Werbe-Repository unterhalten (Art. 39 DSA). Daneben gelten Verbote für werbliche Profilbildung bei Minderjährigen (Art. 28 Abs. 2 DSA) und für die Nutzung sensibler personenbezogener Daten (Art. 26 Abs. 3 DSA).
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Plattform-Typ (Online-Plattform, VLOP).
+- Werbeangebot (Format, Zielgruppenparameter, Werbenetzwerk).
+- Datenkategorien zur Profilbildung (sensitiv i. S. v. Art. 9 DSGVO?).
+- Bezug zu Minderjährigen (Plausibilität der Altersangaben, Altersverifikation).
+- Werbe-Repository (Art. 39 DSA: Vollständigkeit, Suchbarkeit, Aktualisierung).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- Art. 26 DSA (Werbung auf Online-Plattformen, Transparenz und Beschränkung).
+- Art. 28 DSA (Schutz Minderjähriger, Verbot gezielter Werbung an Minderjährige).
+- Art. 39 DSA (Werbe-Repository für VLOPs/VLOSEs).
+- Art. 9 DSGVO (besondere Kategorien personenbezogener Daten).
+- Art. 22 DSGVO (automatisierte Einzelfallentscheidung).
+- § 25 TDDDG (Cookies).
+- §§ 5, 5a UWG (Irreführung), § 6 UWG (Kennzeichnung von Werbung).
+- § 6 MStV i. V. m. JMStV (Trennungsgrundsatz, Kennzeichnungspflicht in Telemedien).
+- DDG-Anker §§ 12, 18, 19 (DSC-Befugnisse BNetzA).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Online-Werbung Transparenz DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Werbedefinition prüfen.** Was zählt als Werbung i. S. v. Art. 3 Buchst. r DSA? Auch Affiliate-Marketing, Sponsored Content, In-App-Boost. Influencer-Inhalte sind grundsätzlich gesondert nach § 5a UWG/MStV zu prüfen.
+2. **Kennzeichnung Art. 26 Abs. 1 DSA.** Klar und eindeutig erkennbar als Werbung, im Kontext jedes Werbeexemplars, mit Identität des Werbetreibenden.
+3. **Targeting-Transparenz Art. 26 Abs. 1 Buchst. d DSA.** Hauptparameter und ggf. die Funktion zum Ändern dieser Parameter.
+4. **Verbote.** Art. 26 Abs. 3 DSA: kein Targeting auf sensible Daten. Art. 28 Abs. 2 DSA: keine profilbasierte Werbung an Minderjährige. Art. 25 DSA: keine Dark Patterns.
+5. **Repository Art. 39 DSA.** Bei VLOP/VLOSE: API-zugängliches, durchsuchbares Repository; Speicherdauer 1 Jahr nach Ende der Werbeschaltung; Inhalte: Werbung, Werbetreibender, Bezahlender, Zeitraum, Zielparameter, Reichweite.
+6. **Compliance-Pfad.** Werbeprüfungs-Checkliste, Trainingsmaterial, technische Implementierung der Kennzeichnung und Targeting-Disclosure.
+7. **Aufsichts- und Sanktionsverfahren.** BNetzA: § 18 DDG-Auskunft, § 19 DDG-Untersagung, § 24 DDG-Bußgeld. EU-Kommission bei VLOP/VLOSE für Art. 39 DSA.
+8. **Rechtsschutz.** Plattform: VG Köln. Beschwerdeführer: Art. 53 DSA-Beschwerde an DSC, Untätigkeitsklage § 75 VwGO.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Werbekennzeichnungs-Template für Plattform-AGB.
+- Art. 26-Disclosure-Box: Werbetreibender, Bezahlender, Targeting-Parameter, Änderungs-Link.
+- Anzeige an die BNetzA als DSC über fehlende Kennzeichnung mit Screenshot-Anlage.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- DSA-Originaltext aus EUR-Lex.
+- Kommissions-Leitlinien zu Art. 26, 28, 39 DSA.
+- Datenbankzugang zum Repository einzelner VLOPs verifizieren.
+- EuGH-Rechtsprechung zu Werbung und Datenschutz nur mit Az., Datum, Fundstelle.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Compliance-Memo für die Plattform.
+- Werbeanzeige-Audit-Bericht.
+- Beschwerde an DSC.
+
+## Beispiele
+- Online-Marktplatz schaltet Werbung ohne klare Kennzeichnung. Anzeige BNetzA, parallel UWG-Abmahnung.
+- VLOP betreibt Werbe-Repository, das nur 6 Monate speichert. Nachforderung Repository-Update bis 12 Monate (Art. 39 Abs. 1 DSA).
+- Plattform schaltet altersbezogene Werbung an minderjährige Nutzer (Profiling). Untersagungsverlangen nach § 19 DDG; Bezug Art. 28 Abs. 2 DSA und Art. 8 DSGVO.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Werbedefinition korrekt? Kennzeichnung in jedem Exemplar (nicht nur in den AGB)? Targeting-Disclosure einsehbar? Repository-Vollständigkeit geprüft? Minderjährigen-Plausibilität auditiert?

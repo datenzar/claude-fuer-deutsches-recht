@@ -1,38 +1,79 @@
 ---
 name: landeskrankenhausplan-aufnahme-herausnahme-aenderung
-description: "Landeskrankenhausplan Aufnahme Herausnahme Änderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR."
+description: "Landeskrankenhausplan: Aufnahme, Herausnahme oder Aenderung des Plankrankenhausstatus, Beteiligungs- und Anhoerungsrechte, Klage und einstweiliger Rechtsschutz gegen Planentscheidungen."
 ---
 
-# Landeskrankenhausplan Aufnahme Herausnahme Änderung
+# Landeskrankenhausplan Aufnahme Herausnahme Aenderung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Krankenhausrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
+Der Krankenhausplan des Landes weist Plankrankenhaus-Status zu, definiert Versorgungsauftrag, Bettenkapazitaeten und (mit KHVVG) Leistungsgruppen. Aufnahme, Herausnahme oder Aenderung sind Verwaltungsakte mit grundrechtsrelevanten Folgen — Klage zum VG ist regelmaeßig zulaessig.
 
-**Fachlicher Fokus:** Krankenhausrecht zwischen KHG, KHEntgG, SGB V, Landeskrankenhausrecht, G-BA-Vorgaben, Krankenhausreform, MD-Prüfung, Budgetverhandlung und Klinik-Compliance.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+- Welcher Verfahrensschritt steht an (Aufnahmeantrag, Herausnahme, Strukturaenderung)?
+- Liegt ein Bescheid mit Rechtsbehelfsbelehrung vor?
+- Welches Landesgesetz gilt (NRW: KHGG NRW; Bayern: BayKrG; BW: GKKG; …)?
+- Gibt es Anhoerungs-/Beteiligungsrechte (Land, Kassen, Krankenhausgesellschaft)?
+- Sind grundrechtsrelevante Folgen erkennbar (Schliessungseffekt, Versorgungsluecke)?
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtlicher Rahmen
+- **KHG § 6** Krankenhausplan (Bundesrecht).
+- **Landeskrankenhausgesetze** konkretisieren Aufnahme/Herausnahme.
+- **KHG § 6a** Leistungsgruppen seit KHVVG (eingegliedert in Planungssystem).
+- **GG Art. 12 Abs. 1, Art. 3 Abs. 1** Berufsausuebung, Gleichbehandlung (BVerfG).
+- **VwGO §§ 42, 80, 113** Anfechtungs-, Verpflichtungs-, einstweiliger Rechtsschutz.
+- **VwVfG §§ 28 (Anhoerung), 39 (Begruendung), 48/49 (Aufhebung)**.
+- **EU-Beihilfenrecht** bei oeffentlich gefoerderten Kliniken.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Landeskrankenhausplan Aufnahme Herausnahme Änderung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Workflow / Schritt fuer Schritt
+1. **Verfahrensstand klaeren:** Anhoerung, Bescheid-Entwurf, Bescheid, Widerspruchsverfahren, Klage?
+2. **Bedarfslage darlegen:** Versorgungsbedarf, demographische Entwicklung, Erreichbarkeit, Krankheitsspektrum.
+3. **Eigene Strukturqualitaet beweisen:** Personal, Geraete, Notfallstufe, LG-Profil.
+4. **Beteiligungsrechte ausueben:** Stellungnahme zur Anhoerung, ggf. mit Sachverstaendigengutachten.
+5. **Bescheid pruefen:** Ermessen (§ 40 VwVfG), Begruendung, Sachverhaltsfeststellung.
+6. **Rechtsbehelf:** Widerspruch (wenn vom Land vorgesehen), Klage zum VG (§ 42 VwGO), einstweiliger Rechtsschutz § 80 Abs. 5 VwGO bei sofortvollziehbarer Herausnahme.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Trade-off-Matrix
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+| Lage | Strategie | Erfolgswahrscheinlichkeit |
+|---|---|---|
+| Aufnahmebescheid mit weniger LG als beantragt | Widerspruch zur erweiterten LG-Zuweisung | mittel, wenn Strukturqualitaet erfuellt |
+| Herausnahme aus Versorgungsbedarfsgruenden | Klage + einstweiliger Rechtsschutz | abhaengig von Versorgungsluecke |
+| Strukturveraenderung erforderlich | konstruktive Verhandlung mit Land | hoch bei realistischer Anpassungsplan |
+| Beihilferechtliche Bedenken kommunaler Klinik | EU-Beihilfen-Notifizierung | hoch, formal aufwendig |
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Praxistipps
+- Bedarfsanalyse muss aktuell und differenziert sein (Demografie, ICD-Spektrum, Verbund-Versorgung).
+- Anhoerung ist die wichtigste Phase — substanzielle Stellungnahme einreichen.
+- BVerfG (1 BvR 1167/14) hat fuer Plankrankenhaus-Auswahlentscheidungen Auswahlkriterien definiert (Qualitaet, Wirtschaftlichkeit, Vielfalt der Traegerschaft).
+- Sicherstellungsausnahme nach Landeskrankenhausgesetz pruefen.
+- Einstweiliger Rechtsschutz § 80 Abs. 5 VwGO greift, wenn Sofortvollzug angeordnet ist.
+
+## Mustertexte
+**Stellungnahme zur Anhoerung:**
+> Sehr geehrte Damen und Herren, in Ihrer Anhoerung vom [Datum] beabsichtigen Sie die Herausnahme der Klinik aus dem Krankenhausplan. Wir nehmen wie folgt Stellung: 1. Versorgungsbedarf ist durch [Daten] belegt. 2. Strukturqualitaet erfuellt LG-Anforderungen. 3. Erreichbarkeitsanalyse Land zeigt … Wir beantragen, von der Herausnahme abzusehen.
+
+**Klage Verwaltungsgericht (Antrag):**
+> Klageantrag: Den Bescheid vom [Datum] aufzuheben und das beklagte Land zu verpflichten, die Klaegerin als Plankrankenhaus … fortzufuehren. Begruendung: 1. Sachverhaltsfeststellung fehlerhaft, 2. Ermessensfehler, 3. Verstoss gegen Verhaeltnismaessigkeit …
+
+## Typische Fehler
+- Anhoerungsstellungnahme zu spaet oder unsubstanziell.
+- Bedarfsdaten veraltet (Demografie, ICD).
+- Strukturqualitaetsnachweise unvollstaendig.
+- Sofortvollzug uebersehen — Klinik wird abgewickelt, bevor Klage entschieden ist.
+- Beihilfenrecht nicht beruecksichtigt bei kommunaler Klinik.
+
+## Querverweise
+- `krankenhausfinanzierungsgesetz-khg-grundstruktur`
+- `leistungsgruppen-und-qualitaetskriterien-reformlogik`
+- `krankenhausreform-leistungsgruppen-routing`
+- `klage-gegen-budgetbescheid-oder-schiedsstellenentscheidung`
+- `landesaufsicht-krankenhausaufsicht-beanstandung`
+- `notfallstufen-und-sicherstellungszuschlaege`
+
+## Quellen Stand 06/2026
+- KHG §§ 6, 6a.
+- Landeskrankenhausgesetze 16 Laender (Live-Check Landesministerien).
+- BVerfG, staend. Rspr. zu Plankrankenhaus-Auswahlentscheidung.
+- BVerwG, staend. Rspr. zu Bedarfsplanung und Ermessensgrenzen.
+- BSG, staend. Rspr. zu Versorgungsauftrag (§ 109 SGB V).
+- VwGO §§ 42, 80, 113.

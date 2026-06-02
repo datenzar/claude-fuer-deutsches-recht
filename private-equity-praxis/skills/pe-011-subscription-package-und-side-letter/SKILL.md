@@ -5,30 +5,82 @@ description: "Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fau
 
 # Subscription Package und Side Letter
 
-## Wofür dieser Skill da ist
+## Worum geht es konkret
 
-Fokus auf LP-Rechte, Gleichbehandlung, Side-Letter-Kollisionen und spätere Durchsetzbarkeit.
+Der Skill arbeitet das vollständige Subscription-Paket ab: Beitrittserklärung (Subscription Agreement), Anlegerklassifizierungsbogen, KYC-Anhang, FATCA/CRS-Selbstauskunft, AnlV-Bescheinigung bei Versicherern, ESG-Erklärung und Side Letter mit MFN-Logik. Fokus auf LP-Rechte, Gleichbehandlung, Side-Letter-Kollisionen und spätere Durchsetzbarkeit.
 
-## Rechts- und Praxisanker
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-KAGB-Anlagebedingungen, Gesellschaftsvertrag, Side Letter, Datenschutz, GwG.
+1. Welche LP-Kategorie zeichnet (institutionell, Family Office, semiprofessionell)?
+2. Ticketgröße (entscheidet MFN-Tier)?
+3. Welche Side-Letter-Wünsche bringen die LP-Vertreter (MFN, Reporting, ESG, Excuse, Co-Invest, Key Person, No-Fault Divorce)?
+4. Anwendbares Recht des LPA und der Anlagebedingungen (DE / LUX / Cayman)?
+5. Bestehen existierende Investorengruppen (Anchor LPs) mit Sonderkonditionen?
+6. Steuerstatus des LP (Tax-Exempt, Pension Plan, Sovereign Wealth Fund)?
+7. Gibt es interne Approval-Hürden des LPs (IC Memo, Beirat, Compliance)?
+8. Closing-Termin und KYC-Frist?
 
-## Workflow
+## Rechtlicher und transaktionaler Rahmen
 
-1. Rolle, Parteiperspektive, Deal-Phase und Zeitdruck klären.
-2. Vorliegende Unterlagen benennen und fehlende Dokumente als konkrete Nachforderungsliste erfassen.
-3. Rechtsrahmen, wirtschaftlichen Hebel und Entscheidungspunkt trennen.
-4. Risikopunkte nach Deal Value, Closing-Fähigkeit, Haftung und Verhandlungshebel priorisieren.
-5. Verwertbaren Output erzeugen und offene Annahmen sichtbar markieren.
+KAGB § 67 (Anlagebedingungen), §§ 281 ff. (Spezial-AIF), § 162 KAGB (Berichts- und Informationspflichten); BGB §§ 305 ff. AGB-Recht; GwG §§ 10 ff. (KYC, UBO); FATCA-Abkommen DE-USA und §§ 138 ff. AO; FKAustG (CRS); VAG/AnlV für Versicherer; SFDR Pre-Contractual Disclosure (Art. 6, 8, 9); MFN-Doktrin als ILPA-Standard; § 162 KAGB Reporting-Pflichten; Datenschutz Art. 6, 28 DSGVO.
 
-## Output
+## Workflow / Schritt für Schritt
 
-- Kurz-Memo mit Ergebnis, Annahmen und nächstem Schritt.
-- Issues List oder Checkliste mit Owner, Frist, Beleg und Risikoampel.
-- Bei Entwurfsaufgaben: erster Draft mit Platzhaltern für fehlende Informationen.
+1. Subscription Agreement Draft mit Anlegerstammdaten, Commitment, Anlegerklassifizierung, FATCA/CRS, AnlV-Erklärung, ESG-Negativliste, Datenschutzhinweis.
+2. KYC-Anhang: UBO-Kette, Quellenachweis (Wealth Source, Funds Source), Sanktionserklärung, PEP-Erklärung.
+3. Side-Letter-Verhandlung: jeden Wunsch in eine MFN-Kategorie einsortieren (typisch Tier-A >= 100 Mio. EUR, Tier-B 25–100 Mio. EUR, Tier-C < 25 Mio. EUR).
+4. MFN-Election-Process nach Final Closing: alle LPs erhalten redaktierte Liste der gewährten Rechte zur Wahl.
+5. Conflict-Check: Side-Letter-Rechte mit LPA-Standard und anderen Side Lettern abgleichen.
+6. Eskalationspfad bei Disput: Sponsor-Counsel vs. LP-Counsel, ggf. Anchor-LP-Comfort-Letter.
+7. Closing-Pack: signiertes Sub-Doc, KYC-Komplett, Side Letter, Capital Call Notice für Initial Funding.
 
-## Qualitätsgate
+## Trade-off-Matrix
 
-- Keine Blindzitate: Rechtsprechung, Behördenpraxis und Schwellenwerte vor tragender Aussage live anhand amtlicher oder frei zugänglicher Quellen prüfen.
-- Keine LMA-, Banken- oder Fondsformularsprache nacherzählen: Nutzer soll das aktuelle Dokument hochladen; der Skill arbeitet dann am konkreten Text.
-- Jede Annahme sichtbar markieren, insbesondere Zahlen, Fristen, regulatorische Rollen, Genehmigungsstand und Parteiperspektive.
+| Strikt standardisiert (kein Side Letter) | Stark individualisierte Side Letter | Tiering mit MFN |
+| --- | --- | --- |
+| Maximaler Schutz vor Kollision | Maximale LP-Bindung | Beste Praxis |
+| Aber: Anchor-LP-Verlust droht | Side-Letter-Hölle bei Final Closing | Klare Erwartungssteuerung |
+| Realistisch nur bei Mid-Cap-Fonds | Nur bei Single-Anchor-LP | Marktstandard für Multi-LP-Fonds |
+
+## Praktikertipps Big-Law-PE
+
+- Side Letter mit Sovereign Wealth Funds und Pension Plans enthalten häufig "regulatory carve-outs" — proaktiv in MFN-Modul ausschließen.
+- ESG-Negativlisten der LPs sammeln und in einem "Master-Excuse-Schedule" konsolidieren; spart bei jedem Capital Call Zeit.
+- Reporting-Side-Letter (zusätzliche ILPA-Templates, individuelle Quartalsberichte) sind häufig der größte Operations-Treiber — Aufwand mit Administrator vorab klären.
+- "Key Person Clause" bei Reduzierung der Investment Period (typisch 12 Monate Suspension Period) ist hart verhandelt.
+- "No-Fault Divorce" / Removal of GP mit 75–80 Prozent Supermajority ist ILPA-Standard; bei Sponsor-Strukturen Übergangsregeln präzise verhandeln.
+- AnlV-Bescheinigung wird häufig erst zum Final Closing nachgereicht — Sub-Doc enthält Erklärung "wird beigebracht bis zum Final Closing".
+
+## Mustertexte / SPA-Klauseln
+
+MFN-Mechanik (Sub-Doc):
+
+> Nach Final Closing erhält jeder Limited Partner eine redaktierte Liste sämtlicher von der KVG mit anderen LPs gewährter Side-Letter-Rechte. Jeder LP kann innerhalb von 30 Bankarbeitstagen die Anwendung beanspruchen, soweit (i) seine Tier-Klassifizierung dies zulässt, (ii) das Recht nicht ausgeschlossen ist (Regulatory Carve-Out, Tax-Specific Provision) und (iii) das Recht nicht ein individueller Vorteil aufgrund spezifischer LP-Anforderungen ist.
+
+Key Person Suspension (LPA):
+
+> Bei Ausscheiden von mehr als 50 Prozent der Key Persons innerhalb eines Zwölfmonatszeitraums tritt automatisch eine Investment Suspension ein. Während der Suspension darf der Fonds keine neuen Investments tätigen. Die Suspension endet (i) durch LPAC-Mehrheitsbeschluss nach Nachbesetzung oder (ii) 12 Monate nach Eintritt, sofern keine Suspension-Aufhebung erfolgt.
+
+## Typische Fehler
+
+- Side-Letter mit Vetorechten gewähren — kippt LPA-Governance.
+- MFN ohne Tiering — Kaskade von Nachverhandlungen nach Final Closing.
+- KYC-Lücke beim Anchor-LP — Initial Closing rutscht.
+- Datenschutzhinweis fehlt — AVV-Lücke gegenüber Administrator.
+
+## Querverweise
+
+- pe-005 für Spezial-AIF-Setup.
+- pe-013 für Capital Calls.
+- pe-014 für Carry/Waterfall.
+- pe-018 für ESG-Reporting.
+- pe-019 für KYC/GwG.
+
+## Quellen Stand 06/2026
+
+- KAGB §§ 67, 162, 281 ff.
+- GwG §§ 10 ff.; § 138 AO; FKAustG; FATCA-Abkommen DE-USA.
+- BGB §§ 305 ff. AGB-Recht; AGG bei Anlegerausschlüssen.
+- SFDR (VO (EU) 2019/2088) Pre-Contractual Disclosure.
+- ILPA Principles 3.0 (Stand vom Anwender zu prüfen).
+- DSGVO Art. 6, 28.

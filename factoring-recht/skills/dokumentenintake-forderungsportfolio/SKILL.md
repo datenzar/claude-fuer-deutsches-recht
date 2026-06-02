@@ -5,34 +5,101 @@ description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im
 
 # Dokumentenintake Forderungsportfolio
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Vor jedem Forderungsankauf, vor jedem Portfolio-Audit und vor jeder Sonderprüfung steht der **Dokumentenintake**: das geordnete Einlesen, Strukturieren und Klassifizieren der Unterlagen, die der Kunde zur Verfügung stellt. Beim Mengen-Geschäft (mehrere Tausend Forderungen pro Monat) entscheidet die Qualität des Intake-Prozesses über die spätere Beweisbarkeit jeder einzelnen Forderung.
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Dieser Skill standardisiert den Intake: einheitliche Datenformate, Pflichtfelder pro Forderung, Belegklassifikation, Eingangskontrollen, automatisierte Plausibilitätschecks (Rechnungsnummer eindeutig, Lieferschein vorhanden, Betrag stimmig), DSGVO-Konformität. Ziel: kein Forderungsankauf ohne vollständigen Intake-Datensatz.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Dokumentenintake Forderungsportfolio..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Sie nehmen ein neues Factoring-Mandat auf und bauen die Intake-Pipeline.
+- Bei einem bestehenden Kunden ändert sich das ERP-System, die Intake-Schnittstelle muss angepasst werden.
+- Im Portfolio-Verkauf brauchen Sie einen reproduzierbaren Intake-Standard für den Investor.
+- Im Streitfall fehlen plötzlich Belege – der Intake-Prozess muss nachvollziehbar dokumentiert sein.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Welches ERP nutzt der Kunde (SAP, DATEV, Sage, individuelle Lösung)?
+- Welche Schnittstellen sind möglich (DATEV-Export, CSV, REST-API, SAP-IDOC)?
+- Wie viele Forderungen pro Monat im Durchschnitt?
+- Welche Belegtypen sind nötig (Bestellung, AB, LS, Rechnung, Abnahme)?
+- Wie ist die Datenqualität historisch (Vollständigkeitsquote, Fehlerquote)?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **HGB §§ 238, 239**: Buchführungsgrundsätze – ordnungsgemäße Erfassung aller Geschäftsvorfälle.
+- **§ 257 HGB**: Aufbewahrungspflichten 6–10 Jahre, je nach Dokument.
+- **GoBD (Grundsätze ordnungsgemäßer Buchführung in elektronischer Form)**: Unveränderbarkeit, Vollständigkeit, Nachvollziehbarkeit.
+- **§ 14 UStG**: Pflichtangaben einer Rechnung.
+- **DSGVO Art. 5, 6, 28, 32**: Datenverarbeitung im Intake.
+- **BGB § 666**: Auskunftspflicht im Geschäftsbesorgungsverhältnis.
+- **AO §§ 145, 147**: Steuerliche Aufzeichnungs- und Aufbewahrungspflichten.
+- **BSI IT-Grundschutz**: für sichere Intake-Pipelines (kein zwingendes Recht, aber Stand der Technik).
+
+## Workflow / Schritt für Schritt
+
+1. **Schnittstellen definieren**: ERP-Export, CSV-Schema, API-Endpoint mit Authentifizierung.
+2. **Pflichtfelder festlegen**: Forderungs-ID, Debitor-ID, Rechnungsnummer, Rechnungsdatum, Fälligkeit, Betrag (netto/brutto/USt), Leistungszeitraum, Auftragsnummer.
+3. **Belegtypen definieren**: Welche Dokumente müssen pro Forderung vorliegen?
+4. **Plausibilitätschecks**: Doppelte Rechnungsnummern, Betragsdifferenzen Brutto/Netto, fehlende Lieferscheine, Datumssprünge.
+5. **Eingangskontrolle**: Vier-Augen-Prinzip bei Großforderungen, Reklamationsbestand abgleichen.
+6. **DSGVO-Compliance**: Daten in geschützter Umgebung, AVV mit IT-Hostern, Löschkonzept.
+7. **Reporting**: Wöchentlicher Intake-Bericht mit Vollständigkeitsquote, Fehlerquote, Abweichungen.
+
+## Trade-off-Matrix
+
+| Intake-Modus | Vorteil | Nachteil |
+|---|---|---|
+| Vollautomatisiert per API | Schnell, fehlerarm | Setup-Aufwand, ERP-abhängig |
+| CSV-Batch täglich | Robust, einfach | Verzögerung 24h |
+| Manuelle Einzelmeldung | Flexibel | Skaliert nicht |
+| Datenraum-Upload durch Kunden | Klar abgegrenzt | Setzt Kundendisziplin voraus |
+| Direkt-Anbindung ERP (Read-Only) | Aktuell, vollständig | Hohe IT-Anforderungen |
+
+## Praxistipps
+
+- **Pflichtfelder hart durchsetzen**: Forderungen ohne komplette Belege werden nicht angekauft, sondern in "Pending"-Status gestellt.
+- **Doppelten Eingang verhindern**: Eindeutige Rechnungs-ID + Debitor-ID als Primärschlüssel.
+- **Eingangsbestätigung versenden**: Kunde erhält automatisierte Quittung mit Hash-Wert über das eingegangene Datenpaket.
+- **GoBD-Konformität sicherstellen**: Unveränderbarkeit der Originalbelege beweissicher dokumentieren.
+- **Versionierung**: Bei Rechnungskorrekturen alte und neue Version archivieren, Versionshistorie nachvollziehbar.
+
+## Mustertexte
+
+**Klausel im Factoringvertrag (Intake-Pflichten Kunde)**
+
+"Der Kunde übermittelt jede zum Ankauf angebotene Forderung im definierten Datenformat (CSV nach Anlage 5) mit folgenden Pflichtfeldern: Forderungs-ID, Debitor-ID, Rechnungsnummer (eindeutig), Rechnungsdatum, Fälligkeitsdatum, Bruttobetrag, USt-Satz, Leistungszeitraum, Auftragsbestätigungs-ID. Zusätzlich übermittelt der Kunde die Belegkette (Bestellung, AB, Lieferschein, Rechnung, Abnahmebestätigung) als PDF/A im Datenraum. Forderungen ohne vollständige Belegkette werden nicht angekauft."
+
+**Datenformat-Spezifikation (Auszug)**
+
+```
+forderungs_id;debitor_id;rechnungsnummer;rechnungsdatum;faelligkeit;betrag_netto;ust_betrag;betrag_brutto;leistung_von;leistung_bis;auftrags_id
+F-2026-001;D-12345;R-2026-0089;2026-05-15;2026-06-15;10000,00;1900,00;11900,00;2026-05-01;2026-05-14;A-2026-0234
+```
+
+**Eingangsquittung an Kunden (automatisiert)**
+
+"Sehr geehrte Damen und Herren, wir bestätigen den Eingang Ihrer Forderungsmeldung vom … mit folgenden Kennzahlen: Eingangsdatum/Uhrzeit, Anzahl Forderungen … , Gesamtvolumen … EUR, Hash-Wert SHA-256 … . Plausibilitätsprüfung läuft, Sie erhalten innerhalb von zwei Werktagen Rückmeldung. Forderungen, die Plausibilitätskriterien nicht erfüllen, werden separat ausgewiesen."
+
+## Typische Fehler
+
+- Intake ohne Pflichtfelder-Disziplin – Forderungen ohne Belege werden angekauft.
+- Doppelte Rechnungsnummern unentdeckt – führt zu Streit über tatsächlich angekaufte Forderungen.
+- GoBD-Verstoß durch nachträgliche Veränderung der Originalbelege.
+- Eingangsquittung fehlt – Streit über Datum und Inhalt der Meldung.
+- DSGVO-Compliance unklar – Datenexporte ungeschützt.
+
+## Querverweise
+
+- `checkliste-forderungsdatenraum-factoring`
+- `auditrechte-stichproben-forderungspruefung`
+- `kaltstart-factoring-mandat`
+- `factoring-plattformmodelle-fintech-und-api`
+
+## Quellen Stand 06/2026
+
+- HGB §§ 238, 239, 257 zu Buchführung und Aufbewahrung.
+- AO §§ 145, 147 zu steuerlichen Aufzeichnungspflichten.
+- GoBD-Schreiben des BMF in aktueller Fassung.
+- DSGVO Art. 5, 6, 28, 32 zur Datenverarbeitung.
+- UStG § 14 zu Rechnungsanforderungen.

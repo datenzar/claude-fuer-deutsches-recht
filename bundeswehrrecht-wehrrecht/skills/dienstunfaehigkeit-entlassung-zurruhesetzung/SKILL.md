@@ -3,36 +3,93 @@ name: dienstunfaehigkeit-entlassung-zurruhesetzung
 description: "Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Dienstunfähigkeit Entlassung Zurruhesetzung
+# Dienstunfähigkeit – Entlassung und Zurruhesetzung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Folgen je nach Statusgruppe: Soldat auf Zeit – Entlassung; Berufssoldat – Zurruhesetzung mit Ruhegehalt nach BeamtVG/SVG. Maßstab ist die Wehrdienstfähigkeit (Tauglichkeitsgrade T1–T5) und die spezifische Verwendungsfähigkeit. Der Skill ordnet medizinische Begutachtung, Verfahren der Statusentscheidung, Versorgung und Rechtsbehelfe.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Status: Berufssoldat, Soldat auf Zeit, FWDL?
+- Diagnose, Behandlung, Heilungsperspektive?
+- Vorläufige oder dauernde Dienstunfähigkeit?
+- Bisherige Begutachtungen (Truppenarzt, Bundeswehrkrankenhaus, fachärztlich)?
+- Steht Wiedereingliederung im Raum (Begrenzte Dienstfähigkeit)?
+- Welche Versorgungsfolgen (Ruhegehalt, Beschädigtenversorgung)?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 44 III SG: Dienstunfähigkeit des Berufssoldaten – Zurruhesetzung.
+- § 55 II SG: Entlassung des Soldaten auf Zeit wegen Dienstunfähigkeit.
+- § 47 SG: Begrenzte Dienstfähigkeit (analog BeamtStG).
+- § 18 SVG i.V.m. BeamtVG: Ruhegehalt des Berufssoldaten.
+- §§ 81 ff. SVG: Beschädigtenversorgung bei WDB-Kausalität.
+- ZDv A-1340/1 (ärztliche Begutachtung) – nur nach Vorlage.
+- Tauglichkeitsgrade T1–T5 nach Wehrmedizinischer Dienstvorschrift.
+- WBO-Beschwerderecht und § 17 WBO Verfahren.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Sachstand klären.** Diagnose, Behandlungsplan, Verlauf, Prognose.
+2. **Begutachtung.** Truppenarzt - BwKrhs - Spezialist. Eigenes Gutachten möglich.
+3. **Statusfolge prüfen.**
+   - Berufssoldat: Zurruhesetzung § 44 III SG plus Ruhegehalt.
+   - Soldat auf Zeit: Entlassung § 55 II SG plus ggf. Übergangsgebührnisse.
+   - Begrenzte Dienstfähigkeit: § 47 SG analog – Weiterverwendung mit reduzierter Belastung.
+4. **WDB-Frage.** Ist die Dienstunfähigkeit Folge einer Wehrdienstbeschädigung / eines Einsatzunfalls? Wenn ja: § 81 ff. SVG-Versorgung zusätzlich.
+5. **Verfahrensgang.** Anhörung des Soldaten, Stellungnahme, ärztliche Kontrolluntersuchung, Verfügung mit Rechtsbehelfsbelehrung.
+6. **Beschwerde** § 1 WBO – 1 Monat. Eilantrag bei vorläufiger Maßnahme.
+7. **Versorgungsrechnung.** Mindestversorgung, Ruhegehaltssatz nach Dienstzeit, Erhöhung bei Dienstbeschädigung.
+8. **Wiedereingliederung** parallel: Reha, Berufsförderungsdienst (BFD).
+
+## Trade-off-Matrix
+
+| Status | Folge | Versorgung |
+| --- | --- | --- |
+| Berufssoldat dauerhaft unfähig | Zurruhesetzung § 44 III SG | Ruhegehalt § 18 SVG + ggf. WDB |
+| SaZ dauerhaft unfähig | Entlassung § 55 II SG | Übergangsgebührnisse, BFD |
+| Begrenzt dienstfähig | Weiterverwendung § 47 SG | volles Gehalt mit Reduzierung |
+| WDB-bedingt | Zusätzlich SVG-Versorgung | Beschädigtenrente |
+
+## Praxistipps
+
+- Begutachtung möglichst durch Spezialisten – Truppenärzte sind Generalisten.
+- "Verwendungsfähigkeit für besondere Auslandseinsätze" ist Sonderkriterium – Tauglichkeit T2 reicht häufig nicht.
+- Vor Zurruhesetzung Wiedereingliederung versuchen (§ 47 SG analog) – Erhalt des Status hat erhebliche Versorgungsvorteile.
+- Ruhegehalt setzt 5 Dienstjahre voraus (§ 4 BeamtVG entsprechend) – darunter Mindestversorgung oder Anrechnung in gesetzliche Rente.
+- WDB-Kausalität verdoppelt häufig die Versorgungsbasis (Schadenausgleich + Grundversorgung).
+
+## Mustertexte
+
+**Stellungnahme zum Zurruhesetzungsverfahren:**
+"Zur beabsichtigten Zurruhesetzung nehme ich wie folgt Stellung: 1. Diagnose, Therapie und Prognose siehe ärztliche Berichte Anl. 1–3. 2. Begrenzte Dienstfähigkeit nach § 47 SG ist möglich; vorgeschlagen wird Verwendung [...]. 3. Hilfsweise: Zurruhesetzung mit gleichzeitiger WDB-Feststellung nach § 81 SVG, weil die Dienstunfähigkeit Folge des Einsatzes [...] vom [Datum] ist."
+
+**WBO-Beschwerde gegen Entlassungsverfügung:**
+"Gegen die Entlassungsverfügung vom [Datum] lege ich fristwahrend Beschwerde ein. Rügen: 1. Begutachtung lückenhaft – Spezialgutachten nicht eingeholt. 2. Begrenzte Dienstfähigkeit (§ 47 SG analog) nicht geprüft. 3. WDB-Kausalität übersehen – § 81 SVG-Verfahren parallel einzuleiten. Antrag: Aufhebung der Entlassungsverfügung, hilfsweise Zurruhesetzung mit Anerkennung der WDB."
+
+## Typische Fehler
+
+- Truppenärztliche Beurteilung pauschal akzeptiert.
+- Begrenzte Dienstfähigkeit nicht geprüft – sofortige Zurruhesetzung statt Erhalt des Status.
+- WDB-Kausalität getrennt vom Statusverfahren prüfen – Versorgungslücke.
+- Übergangsgebührnisse SaZ nicht beantragt.
+- Frist § 6 WBO verpasst.
+
+## Querverweise
+
+- soldatenversorgungsgesetz-beschaedigtenversorgung
+- aerztliche-begutachtung-dienstfaehigkeit
+- entlassung-auf-eigenen-antrag
+- ptbs-einsatzfolge-beweisfuehrung
+- einsatzunfall-wehrdienstbeschaedigung
+- dienstzeit-soldat-auf-zeit-berufssoldat-fwdl
+
+## Quellen Stand 06/2026
+
+- §§ 44, 47, 55 SG – Volltext gesetze-im-internet.de.
+- SVG, BeamtVG – Volltexte gesetze-im-internet.de.
+- ZDv A-1340/1 – nur nach Vorlage.
+- BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Dienstunfähigkeit (Az. nach Verifikation).
+- BAPersBw – Verwaltungspraxis und Formulare.
+- Versorgungsmedizinische Grundsätze – BMAS.
