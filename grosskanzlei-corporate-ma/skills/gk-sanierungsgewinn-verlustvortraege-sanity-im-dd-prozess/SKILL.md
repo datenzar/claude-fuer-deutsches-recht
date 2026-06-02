@@ -82,7 +82,7 @@ Erfahrene Tax-Partner schauen im Distressed-DD zuerst auf drei Zahlen: kumuliert
 - Plugin `insolvenzrecht`: Wirkung des Insolvenzplans auf Verlustvorträge.
 - Plugin `grosskanzlei-corporate-ma`:
   - `grosskanzlei-corporate-ma-due-diligence-legal`
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-mandant-q-minus-zwoelf`
+  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
   - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
   - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`
 

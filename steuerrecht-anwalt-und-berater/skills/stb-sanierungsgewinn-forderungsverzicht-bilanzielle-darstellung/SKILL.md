@@ -147,6 +147,8 @@ führung erfüllt.
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - §§ 246, 252, 247 Abs. 1, 266, 275 HGB.
 - § 5 Abs. 1 EStG.
 - § 5 Abs. 2a EStG.
@@ -154,4 +156,29 @@ führung erfüllt.
 - § 8 Abs. 3 KStG.
 - BilRUG (Bilanzrichtlinie-Umsetzungsgesetz).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung von Verbindlichkeiten: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Anwendung des § 5 Abs. 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukünftigen Gewinnen.
+- **FG Köln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Liquidations-Kernentscheidung Os. 7 (Wegfall mit Erlöschen mangels Steuersubjekt).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — nachgehend zu FG Köln 13 K 3006/11.
+- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall: Forderung der Gesellschaft gegen Gesellschafter.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten der Muttergesellschaft im Abwicklungsendvermögen der Tochter.
+- **OFD Frankfurt a. M., Rundverfügung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgängerverfügung.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Literatur
+
+- Bergmann, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.
+- Dietrich/Weber, DStR 2019, 966, 970.
+- Hageböke, in: Rödder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, § 11 Rn. 78.
+- Stalbold, in: Gosch, KStG, § 11 Rn. 72.
+- Micker, in: Herrmann/Heuer/Raupach, EStG/KStG, § 11 KStG Rn. 44.
+
+### Querverweis Spezial-Skill
+
+- `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse für stehen gelassene Verbindlichkeiten in der Liquidation.

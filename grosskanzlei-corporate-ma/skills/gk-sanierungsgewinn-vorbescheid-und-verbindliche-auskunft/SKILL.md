@@ -114,7 +114,7 @@ Drei Beobachtungen zur verbindlichen Auskunft im Sanierungskontext:
 - Plugin `steuerrecht-anwalt-und-berater`: § 89 AO im Detail; verfahrensrechtliche Begleitung.
 - Plugin `grosskanzlei-corporate-ma`:
   - `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-mandant-q-minus-zwoelf`
+  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
   - `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
   - `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
   - `gk-sanierungsgewinn-stille-reserven-klausel-8c-iv-kstg`

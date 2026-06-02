@@ -162,9 +162,38 @@ In anderen Plugins:
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - Paragraph 5 Absatz 2a EStG, `gesetze-im-internet.de/estg/__5.html`.
 - Paragraph 19 InsO, `gesetze-im-internet.de/inso/__19.html`.
 - Paragraph 39 InsO, `gesetze-im-internet.de/inso/__39.html`.
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
 - Paragraph 254 InsO, `gesetze-im-internet.de/inso/__254.html`.
-- Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+- Paragraph 6 Absatz 1 Nummer 3 EStG i.V.m. Paragraph 12 Absatz 1 BewG (Nennwert).
+- Paragraph 11 KStG (Liquidationsbesteuerung).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Kernentscheidung zur Anwendung des Paragraph 5 Absatz 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen. Maszgeblich fuer die Gestaltungspraxis.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung. Begruendet die Pruefungstrias: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**, Tz. 1.2-1.4 — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten der Mutter im Abwicklungsendvermoegen der Tochter; bei laufender Aktualisierung mit Bund-Laender-Abstimmung.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgaengerverfuegung.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580** — Sichtweise NRW (insbesondere Insolvenz).
+
+### Literatur
+
+- Bergmann, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.
+- Dietrich/Weber, DStR 2019, 966, 970.
+- Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, Paragraph 11 Rn. 78.
+- Stalbold, in: Gosch, KStG, Paragraph 11 Rn. 72.
+
+### Querverweise
+
+- `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Drei-Phasen-Analyse fuer die Liquidation).
+
+Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

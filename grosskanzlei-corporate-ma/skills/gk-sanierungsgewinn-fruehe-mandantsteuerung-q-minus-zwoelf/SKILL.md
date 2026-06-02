@@ -1,5 +1,5 @@
 ---
-name: gk-sanierungsgewinn-fruehe-mandantsteuerung-mandant-q-minus-zwoelf
+name: gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf
 description: "Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adressat ist die Sozietät als Sparringspartner des CFO und Tax Director. Liefert Zeitachse Q-12 bis Q+6, Stakeholder-Map, Mandantenmemo und Beratungs-Roadmap. Quellen Stand 06/2026."
 ---
 

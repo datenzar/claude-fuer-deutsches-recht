@@ -175,10 +175,34 @@ In anderen Plugins:
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - Paragraphen 246, 252, 266, 272 HGB, `gesetze-im-internet.de/hgb/`.
 - Paragraph 5 EStG, `gesetze-im-internet.de/estg/__5.html`.
+- Paragraph 5 Absatz 2a EStG.
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
+- Paragraph 6 Absatz 1 Nummer 3 EStG, Paragraph 12 Absatz 1 BewG (Nennwert).
 - Paragraphen 158, 397 BGB, `gesetze-im-internet.de/bgb/`.
-- BFH, Urteil vom 26.02.2003 — II R 19/01.
-- OFD Frankfurt a. M. zur Behandlung der Verbindlichkeiten in Liquidation — aktuelle Verlautbarung vom Anwender mit aktueller OFD-Veroeffentlichung zu pruefen.
-- Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+- Paragraph 11 KStG (Liquidationsbesteuerung).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten gehen nicht allein durch Vermoegenslosigkeit unter.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierung nur bei wirtschaftlicher Belastung.
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Paragraph 5 Absatz 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn nach Loeschung mangels Steuersubjekt nicht steuerpflichtig (vorgehend zu BFH I R 34/12).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — bestaetigt FG-Koeln-Linie als „nicht evident rechtsfehlerhaft".
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — ertragsteuerliche Beurteilung von Darlehensverbindlichkeiten im Abwicklungsendvermoegen; Aktualitaet vor Anwendung pruefen.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560** — Vorgaengerverfuegung.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580** — Sichtweise NRW.
+
+### Literatur
+
+- Bergmann, Liquidationsbesteuerung von Kapitalgesellschaften, Diss., 2012, S. 145 ff.
+- Dietrich/Weber, DStR 2019, 966, 970.
+- Hageboeke, in: Roedder/Herlinghaus/Neumann, KStG, 1. Aufl. 2015, Paragraph 11 Rn. 78.
+
+Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

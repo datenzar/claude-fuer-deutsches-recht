@@ -101,7 +101,7 @@ Im Mandantengespräch sind drei Aussagen wichtig:
 - Plugin `steuerrecht-anwalt-und-berater`: Detailberatung zu § 3a EStG einschließlich Streitfragen.
 - Plugin `insolvenzrecht`: § 3a EStG im Insolvenzplan.
 - Plugin `grosskanzlei-corporate-ma`:
-  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-mandant-q-minus-zwoelf`
+  - `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
   - `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
   - `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
   - `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
