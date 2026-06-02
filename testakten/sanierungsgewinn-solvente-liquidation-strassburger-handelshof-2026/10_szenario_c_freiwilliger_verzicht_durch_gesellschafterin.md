@@ -129,10 +129,34 @@ Steuerlich vergleichbar mit Szenario B. Unterschied: Der Ertrag entsteht **zeitl
 
 ## 9. Quellenverzeichnis
 
+### Normen
+
 - § 397 BGB.
 - § 17 EStG, § 17 Abs. 2a EStG (Reform 2019), § 17 Abs. 4 EStG.
 - § 3 Nr. 40c EStG; § 3c Abs. 2 EStG (Teileinkuenfteverfahren).
-- BFH, Urteil v. 11.07.2017 — IX R 36/15, BStBl. II 2019, 208 (Aenderung der Eigenkapitalersatzregeln in § 17 EStG-Kontext; vor Anwendung auf Mandantenfall verifizieren).
 - § 8 Abs. 3 KStG (verdeckte Einlage).
+- § 5 Abs. 2a EStG (Abgrenzung).
+- § 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG.
 - § 11 KStG.
 - § 7b GewStG.
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 11.07.2017 — IX R 36/15, BStBl. II 2019, 208** (Aenderung der Eigenkapitalersatzregeln § 17 EStG; vor Anwendung auf Mandantenfall verifizieren).
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (Abgrenzung zu Szenario C: Verzicht statt Rangruecktritt).
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung.
+- **BFH, Urt. v. 16.05.2015 — IX R 28/14, BFH/NV 2015, 1679** — umgekehrter Fall (Forderung Gesellschaft gegen Gesellschafter).
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Os. 7 (gilt fuer Szenario A, nicht fuer C, da hier ausdruecklicher Verzicht).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3.
+- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** — Verzicht muss ausdruecklich erklaert sein (anders als bei reiner Liquidation).
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+
+### Literatur
+
+- H.-F. Mueller, in: Muenchener Kommentar GmbHG, 3. Aufl. 2018, § 74 Rz. 34 — zur zivilrechtlichen Wirkung von Verzicht und Liquidation.
+- Haas, in: Noack/Servatius/Haas, GmbHG, 23. Aufl. 2022, § 71 Rz. 28.
+- Bergmann, Diss. 2012, S. 145 ff.

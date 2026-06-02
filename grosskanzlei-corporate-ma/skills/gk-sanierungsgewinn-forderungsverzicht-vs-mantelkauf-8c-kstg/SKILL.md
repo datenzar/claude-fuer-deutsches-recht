@@ -118,9 +118,29 @@ Drei Beobachtungen aus jahrzehntelanger Restrukturierungspraxis:
 
 ## Quellen Stand 06/2026
 
-- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8c Abs. 1a KStG; § 8c Abs. 4 KStG; § 8d KStG; § 10a GewStG – gesetze-im-internet.de.
-- BMF-Schreiben vom 27.04.2017 – Verifizierung im Bundessteuerblatt Stand 06/2026.
-- BVerfG, Beschluss vom 29.03.2017 – 2 BvL 6/11 (Verfassungswidrigkeit § 8c Satz 1 KStG a. F. für Anteilseignerwechsel zwischen 25 % und 50 %) – prüfbar über bundesverfassungsgericht.de.
-- EuG zur EU-beihilferechtlichen Würdigung der Sanierungsklausel – ständige Rspr.; Verifizierung über curia.europa.eu.
-- BFH zur Anwendung § 8c und § 8d KStG – ständige Rspr.; Verifizierung über bundesfinanzhof.de.
-- FG Köln, Urteil vom 04.11.2025 – 12 K 1413/25 – dejure.org und NWB.
+### Normen
+
+- § 3a EStG; § 3a Abs. 3 EStG; § 7b GewStG; § 8c KStG; § 8c Abs. 1a KStG; § 8c Abs. 4 KStG; § 8d KStG; § 10a GewStG; § 5 Abs. 2a EStG; § 11 KStG – gesetze-im-internet.de.
+- § 2 Abs. 4 UmwStG (Rueckwirkungszeitraum); § 12 Abs. 3 i.V.m. § 4 Abs. 2 Satz 2 UmwStG (Verlustvortrag).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
+- **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum (Streitjahr 2008; fuer Umwandlungen ab 06.06.2013 § 2 Abs. 4 Satz 3 ff. UmwStG).
+- **FG Duesseldorf, Urt. v. 22.12.2021 — 7 K 101/18 F, BeckRS 2021, 48318** — Gestaltungsmissbrauch § 42 AO bei „Hin- und Herbuchen" zwecks Tilgung Gesellschafterdarlehen; Rev. anh. BFH I R 11/22.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend BFH I R 34/12) — Liquidationsausstieg bei stehen gelassenen Verbindlichkeiten.
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3.
+- **BVerfG, Beschl. v. 29.03.2017 – 2 BvL 6/11** (Verfassungswidrigkeit § 8c Satz 1 KStG a. F.).
+- **FG Koeln, Urt. v. 04.11.2025 – 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG.
+
+### Verwaltungsauffassung
+
+- BMF-Schreiben vom 27.04.2017 — Verifizierung im Bundessteuerblatt Stand 06/2026.
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Querverweis Liquidation
+
+- `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse fuer stehen gelassene Verbindlichkeiten in der Liquidation als Plan-B-Pfad zum Mantelkauf-Szenario.

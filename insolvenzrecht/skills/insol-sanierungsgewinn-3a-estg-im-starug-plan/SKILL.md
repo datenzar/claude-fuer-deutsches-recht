@@ -173,11 +173,35 @@ In anderen Plugins:
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - Paragraph 3a EStG, `gesetze-im-internet.de/estg/__3a.html`.
+- Paragraph 5 Absatz 2a EStG.
 - Paragraph 7b GewStG, `gesetze-im-internet.de/gewstg/__7b.html`.
+- Paragraph 11 KStG (Liquidationsbesteuerung, fuer Plan-B-Pfade).
 - Paragraphen 4 ff. StaRUG, `gesetze-im-internet.de/starug/`.
 - Paragraph 29 StaRUG, `gesetze-im-internet.de/starug/__29.html`.
 - Paragraph 49 StaRUG, `gesetze-im-internet.de/starug/__49.html`.
 - Paragraphen 89, 222, 227, 251 AO, `gesetze-im-internet.de/ao_1977/`.
-- FG Koeln, Urteil vom 04.11.2025 — 12 K 1413/25 — Antragstellung. Verifikation ueber `dejure.org`.
-- Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (Kernentscheidung fuer DES und Rangruecktritte im StaRUG-Plan).
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen Passivierung (wirtschaftliche Belastung).
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung; relevant fuer Plan-B-Pfade.
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3: Streitstand nicht evident rechtsfehlerhaft.
+- **FG Koeln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragstellung Paragraph 3a Abs. 4 EStG.
+- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Frankfurt v. 27.12.2018, BeckVerw 447487** — Einsprueche Mindestbesteuerung ruhend.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Querverweis Liquidations-Pfad
+
+- `steuerrecht-anwalt-und-berater/stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse fuer stehen gelassene Verbindlichkeiten in der Liquidation (Plan-B-Pfad bei Scheitern des StaRUG-Plans).
+
+Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.

@@ -88,6 +88,8 @@ Dr. Vogelweid ergaenzt:
 - StB Werner ist Steuerberater Pellbach seit 2018. Solide, aber wenig Sanierungserfahrung. StB Vogelweid begleitet steuerlich.
 - DES-Werthaltigkeit ist Hauptstreitpunkt. Vorsicht bei eigenen Schaetzungen — WP-Gutachten zwingend.
 - § 8c KStG-Risiko ist real; § 8d KStG-Antrag muss vor Anteilsuebertragung stehen.
+- **Bilanzielle Passivierung Bankforderung 5 Mio EUR (Stundung):** Stundung ist nach **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** weiterhin als Verbindlichkeit zu passivieren — Verpflichtungsinhalt unveraendert, Durchsetzbarkeit gegeben, wirtschaftliche Belastung bleibt. § 5 Abs. 2a EStG (**BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279**) greift bei reiner Stundung nicht, weil der Tilgungsvorbehalt nicht ausschliesslich an zukuenftige Gewinne anknuepft. Keine bilanzielle Wirkung.
+- **Plan-B-Pfad Liquidation (für den Fall des Plan-Scheiterns):** Sollte der Plan in der Abstimmungsversammlung scheitern, ware ggf. Liquidation oder Folgeinsolvenz zu erwaegen. Im Liquidationsfall sind stehen gelassene Verbindlichkeiten bis zur Loeschung passiviert zu fuehren (**FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977**, vorgehend zu **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014**); rechtstheoretischer Gewinn aus Wegfall mangels Steuersubjekt nicht festsetzbar. Im Plan-B-Pfad das Mandat ggf. um den Spezial-Skill `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` ergaenzen.
 
 **Naechster Termin:** Mittwoch, 03.04.2026, 10:00 Uhr, Sozietaet Reinkeller Berlin. Tagesordnung: Antraege § 3a IV, § 7b GewStG, § 8d KStG, verbindliche Auskunft § 89 AO.
 

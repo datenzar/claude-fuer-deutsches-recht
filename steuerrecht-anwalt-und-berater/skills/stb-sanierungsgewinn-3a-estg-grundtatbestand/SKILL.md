@@ -165,10 +165,31 @@ beachtet; parallel § 7b GewStG-Antrag.
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - § 3a Abs. 1, 2, 3, 4 EStG.
 - § 8 Abs. 1 KStG.
 - § 3c Abs. 4 EStG.
+- § 5 Abs. 2a EStG.
 - § 7b GewStG.
+- § 11 KStG (Liquidationsbesteuerung).
 - BMF-Schreiben vom 27.04.2017 — vor Verwendung Stand prüfen.
 - IDW S 6 (Sanierungskonzept).
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangrücktritt.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Passivierungsvoraussetzungen.
+- **FG Köln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung Os. 7.
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3: Streitstand nicht evident rechtsfehlerhaft.
+- **FG Düsseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18 (ausgesetzt wegen BVerfG 2 BvL 19/14, Vorlage BFH I R 59/12).
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfügung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und **v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+- **OFD Frankfurt, Verfügung v. 27.12.2018, BeckVerw 447487** — Einsprüche zur Mindestbesteuerung ruhend zu stellen.
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**.
+
+### Querverweis Liquidations-Spezial-Skill
+
+- `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Drei-Phasen-Analyse zur Behandlung stehen gelassener Verbindlichkeiten in der Liquidation.

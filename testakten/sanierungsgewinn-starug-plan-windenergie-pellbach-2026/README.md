@@ -93,17 +93,36 @@ sanierungsgewinn-starug-plan-windenergie-pellbach-2026/
 
 ## Quellennachweis (Rechtsnormen und Rechtsprechung)
 
+### Normen
+
 - § 3a EStG — Steuerfreiheit Sanierungsertrag: https://dejure.org/gesetze/EStG/3a.html
 - § 3a Abs. 3 EStG — zwingende Verrechnungsreihenfolge
 - § 3a Abs. 4 EStG — Antrag und Bindungswirkung
+- § 5 Abs. 2a EStG — Passivierungsverbot bei Rangruecktritt
+- § 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG (Nennwertbewertung)
 - § 7b GewStG i.V.m. § 36 Abs. 2c GewStG — gewerbesteuerliche Parallelregelung: https://dejure.org/gesetze/GewStG/7b.html
 - § 8c KStG — schaedlicher Beteiligungserwerb: https://dejure.org/gesetze/KStG/8c.html
 - § 8c Abs. 1a KStG — Sanierungsklausel
 - § 8d KStG — fortfuehrungsgebundener Verlustvortrag: https://dejure.org/gesetze/KStG/8d.html
+- § 11 KStG — Liquidationsbesteuerung
 - §§ 4 ff. StaRUG — Restrukturierungsplan: https://dejure.org/gesetze/StaRUG
 - § 31 StaRUG — Anzeige des Restrukturierungsvorhabens
 - § 89 AO — Verbindliche Auskunft: https://dejure.org/gesetze/AO/89.html
 - § 18 InsO — drohende Zahlungsunfaehigkeit: https://dejure.org/gesetze/InsO/18.html
-- FG Koeln, Urteil v. 04.11.2025 — 12 K 1413/25 (zur Antragstellung § 3a IV EStG)
-- BFH, Urteil v. 26.02.2003 — II R 19/01 (Verbindlichkeiten bleiben ueber Liquidation hinaus)
-- OFD Frankfurt a. M. (Liquidationsbeschluss kein konkludenter Verzicht)
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung; wirtschaftliche Belastung
+- **BFH, Urt. v. 26.02.2003 — II R 19/01** — Verbindlichkeiten bleiben ueber Liquidation hinaus
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** — Os. 7: Wegfall mit Erloeschen mangels Steuersubjekt; vorgehend zu BFH I R 34/12
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Streitstand nicht evident rechtsfehlerhaft
+- **FG Koeln, Urt. v. 04.11.2025 — 12 K 1413/25** — Antragsfristen § 3a Abs. 4 EStG
+- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18 (ausgesetzt BVerfG 2 BvL 19/14)
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**
+- **OFD Frankfurt v. 27.12.2018, BeckVerw 447487** — Einsprueche Mindestbesteuerung ruhend
+- **OFD Nordrhein-Westfalen, Kurzinformation ESt Nr. 46/2014, akt. 22.09.2017, DB 2017, 2580**

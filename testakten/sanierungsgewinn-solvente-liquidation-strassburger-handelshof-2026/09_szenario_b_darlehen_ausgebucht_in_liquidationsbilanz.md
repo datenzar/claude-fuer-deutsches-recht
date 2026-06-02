@@ -138,10 +138,33 @@ Hinzu kommen Nebenfolgen:
 
 ## 9. Quellenverzeichnis
 
+### Normen
+
 - § 5 Abs. 2a EStG.
+- § 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG.
 - § 3a EStG; § 3a Abs. 2, 3 EStG.
 - § 10d Abs. 2 EStG (Mindestbesteuerung), § 8 Abs. 1 KStG.
 - § 11 KStG.
 - § 7b GewStG; § 36 Abs. 2c GewStG.
-- BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279 (zur Anwendung des § 5 Abs. 2a EStG bei qualifiziertem Rangruecktritt).
-- BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450 (zur wirtschaftlichen Belastung als Passivierungsvoraussetzung).
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — Anwendung § 5 Abs. 2a EStG bei qualifiziertem Rangruecktritt.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — wirtschaftliche Belastung als Passivierungsvoraussetzung.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Os. 7 (gegenlaeufig zu Szenario B).
+- **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014** — Ls. 3.
+- **FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019** — Mindestbesteuerung Definitiveffekt; Rev. anh. BFH I R 36/18 (ausgesetzt BVerfG 2 BvL 19/14, Vorlage BFH I R 59/12).
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
+- **OFD Frankfurt, Verfuegung v. 27.12.2018, BeckVerw 447487** — Einsprueche Mindestbesteuerung ruhend stellen.
+
+### Literatur
+
+- Bergmann, Diss. 2012, S. 145 ff.; Dietrich/Weber, DStR 2019, 966, 970; Stalbold, in: Gosch, KStG, § 11 Rn. 72 — herrschende Linie (gegen Ausbuchung vor Loeschung).
+- S. Neumann, Ubg 2016, 256, 257 f.; Brinkmann, StBp 2021, 246, 250 — Gegenposition.
+
+### Definitiveffekt-Argument
+
+Bei Anwendung der Mindestbesteuerung in Szenario B entsteht ein **Definitiveffekt**, weil die GmbH mit Loeschung den verbleibenden Verlustvortrag verliert. Dies ist verfassungsrechtlich fragwuerdig (Art. 3 Abs. 1 GG). Einspruch ruhend stellen (OFD Frankfurt v. 27.12.2018; FG Duesseldorf 6 K 454/15 K).

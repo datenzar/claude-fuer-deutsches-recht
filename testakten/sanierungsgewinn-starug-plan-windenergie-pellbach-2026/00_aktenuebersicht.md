@@ -66,3 +66,16 @@ Die Sanierung ist ohne Steuerbelastung tragfaehig.
 ## Querverweis Akte 1 (Grossbach)
 
 Die Pellbach-Akte ist die "saubere Variante": Antrag § 3a IV EStG rechtzeitig, Bestaetigung erwartet. Der Streitpunkt ist hier die DES-Steuerstruktur, nicht die Antragstellung-Verspaetung wie in Akte 1 (Grossbach).
+
+## Querverweis Akte 3 (Strassburger Liquidation) und Plan-B-Pfad
+
+Falls der StaRUG-Plan scheitert oder eines der bestehenden Bankendarlehen nicht in den Plan einbezogen werden kann (z.B. wegen Nachrang) und die Schuldnerin in eine Liquidation uebergehen muesste, gelten fuer stehen gelassene Verbindlichkeiten die folgenden verifizierten Quellen:
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt mit Tilgungsvorbehalt aus zukuenftigen Gewinnen. Maszgebend fuer die Frage, ob die Verbindlichkeit bilanziell ausgebucht werden muss.
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung: bestimmter Verpflichtungsinhalt, durchsetzbar, wirtschaftliche Belastung.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu **BFH, Beschl. v. 05.02.2014 — I R 34/12, BFH/NV 2014, 1014**) — Os. 7: Rangruecktrittsbehaftete Verbindlichkeit bleibt bis Loeschung passiviert; rechtstheoretisch entstehender Gewinn mangels Steuersubjekt nicht festsetzbar.
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782** und Vorgaengerverfuegung vom 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560.
+
+**Definitiveffekt-Argument (Mindestbesteuerung):** Bei verbleibendem Sanierungsertrag und unzureichendem Verlustvortrag droht ein verfassungsrechtlich fragwuerdiger Definitiveffekt (Art. 3 Abs. 1 GG). Einsprueche gegen KSt-Festsetzungen sollten ruhend gestellt werden (**FG Duesseldorf, Urt. v. 18.09.2018 — 6 K 454/15 K, DStRE 2019**; Rev. anh. BFH I R 36/18 ausgesetzt wegen BVerfG 2 BvL 19/14, Vorlage BFH I R 59/12; **OFD Frankfurt v. 27.12.2018, BeckVerw 447487**).
+
+Vertieft in Spezial-Skill `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` (Plugin `steuerrecht-anwalt-und-berater`).

@@ -151,14 +151,33 @@ nerin gem. § 364 BGB durch Konfusion.
 
 ## Quellen Stand 06/2026
 
+### Normen
+
 - §§ 55, 56 GmbHG.
 - §§ 182, 183 AktG.
 - §§ 217, 225a InsO.
 - § 9 StaRUG.
-- § 5 EStG.
+- § 5 EStG, § 5 Abs. 2a EStG.
+- § 6 Abs. 1 Nr. 3 EStG i.V.m. § 12 Abs. 1 BewG.
 - § 8 Abs. 3 KStG.
 - § 8b KStG.
 - § 8c, § 8d KStG.
 - § 3a EStG.
+- § 11 KStG (Liquidationsbesteuerung).
 - BMF-Schreiben vom 27.04.2017 — Stand prüfen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; Quelle vor Ausgabe protokollieren.
+
+### Rechtsprechung (verifiziert)
+
+- **BFH, Urt. v. 19.08.2020 — XI R 32/18, BStBl. II 2021, 279** — § 5 Abs. 2a EStG bei Rangruecktritt (relevant fuer Abgrenzung DES vs. Verzicht vs. Rangruecktritt).
+- **BFH, Urt. v. 30.11.2011 — I R 100/10, DStR 2012, 450** — Voraussetzungen der Passivierung; wirtschaftliche Belastung.
+- **BFH, Urt. v. 17.11.2020 — I R 2/18, BStBl. II 2021, 580** — kein § 42 AO bei Gewinn-auf-Verlust-Verschmelzung im Rueckwirkungszeitraum.
+- **FG Koeln, Urt. v. 06.03.2012 — 13 K 3006/11, GmbHR 2012, 977** (vorgehend zu BFH I R 34/12) — Liquidations-Kernentscheidung.
+
+### Verwaltungsauffassung
+
+- **OFD Frankfurt a. M., Rundverfuegung v. 26.07.2021 — S 2743 A-12-St 523, BeckVerw 556782**.
+- **OFD Frankfurt a. M., Rundverfuegung v. 03.08.2018 — S 2743 A-12-St 525, DStR 2019, 560**.
+
+### Querverweis Spezial-Skill
+
+- `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` — Liquidations-Alternative zum DES, wenn Restrukturierung scheitert.
