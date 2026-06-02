@@ -1,0 +1,65 @@
+---
+name: fachanwalt-sozialrecht-laienhilfe-klage-sozialgericht-einfach
+description: "Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+---
+
+> Opencode-Port von `fachanwalt-sozialrecht/skills/laienhilfe-klage-sozialgericht-einfach/SKILL.md`. Urspruenglicher Skill-Name: `laienhilfe-klage-sozialgericht-einfach`.
+
+# Laienhilfe: Klage Sozialgericht Einfach
+
+## Worum es geht
+
+Dieser Skill erklaert **Klage Sozialgericht Einfach** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
+
+## Norm- und Praxisanker
+
+- Klagefrist: § 87 SGG – einen Monat ab Zustellung Widerspruchsbescheid; drei Monate bei fehlender/fehlerhafter Belehrung § 66 SGG.
+- Klagearten: Anfechtungsklage § 54 Abs. 1 SGG (gegen Verwaltungsakt), Verpflichtungsklage § 54 Abs. 1 (auf Erlass VA), Leistungsklage § 54 Abs. 5 (auf konkrete Leistung), Feststellungsklage § 55 SGG.
+- Sachliche Zustaendigkeit: § 51 SGG – Sozialgericht (SG) erstinstanzlich; ortliche Zustaendigkeit § 57 SGG (Wohnsitz Klaeger).
+- Klage zu Protokoll: § 90 SGG – Klage auch zur Niederschrift der Geschaeftsstelle moeglich (besondere Erleichterung Selbstvertreter).
+- Postulationsfaehigkeit: § 73 SGG – vor SG kein Anwaltszwang (vor LSG/BSG anders, § 73 Abs. 4 SGG).
+- Gerichtskostenfreiheit: § 183 SGG – Versicherte, Leistungsempfaenger und Behinderte sind gerichtskostenfrei; nur Anwaltskosten.
+- Praxis-Tipp: Klage in einfacher Sprache moeglich – mindestens: "Ich klage gegen den Bescheid vom XX.XX.XXXX, Az. XXX, in Gestalt des Widerspruchsbescheids vom XX.XX.XXXX. Ich beantrage [konkret], weil [Sachverhalt/Argumente]." Belege beifuegen. Bei Selbstvertretung Skill "selbstvertreter-sozialgericht" nutzen; bei Beweisbedarf Antrag nach § 109 SGG (Gutachter eigener Wahl) im Hinterkopf behalten.
+
+## Erst sortieren
+
+1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?
+2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht?
+3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
+4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
+5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
+
+## Arbeitsweise
+
+- Schwierige Woerter erst in einfache Sprache uebersetzen.
+- Fristen immer sichtbar ausgeben.
+- Zwischen sicher, unklar und zu beweisen unterscheiden.
+- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
+- Keine falschen Versprechen machen.
+
+## Ausgabe
+
+**Kurz erklaert**
+- Was bedeutet das Schreiben?
+- Was ist das Risiko?
+- Was muss als naechstes getan werden?
+
+**Unterlagenliste**
+| Unterlage | Warum wichtig? | Vorhanden? |
+| --- | --- | --- |
+| ... | ... | ... |
+
+**Naechster Schritt**
+Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, Aktenzeichen, Datum, Anlagenliste und Frist.
+
+## Fehler vermeiden
+
+- Keine Frist verstreichen lassen.
+- Telefonate direkt mit Datum, Uhrzeit und Namen notieren.
+- Nie Originale ohne Kopie abgeben.
+- Nicht nur Gefuehle schildern, sondern konkrete Tatsachen und Belege.
+- Bei Existenznot, Wohnung, Krankenversicherung, Pflege oder Schulbegleitung immer Eilrechtsschutz mitdenken.
+
+## Qualitaetsgate
+
+Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?

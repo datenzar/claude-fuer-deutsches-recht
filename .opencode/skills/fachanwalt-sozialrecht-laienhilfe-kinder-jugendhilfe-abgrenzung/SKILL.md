@@ -1,0 +1,77 @@
+---
+name: fachanwalt-sozialrecht-laienhilfe-kinder-jugendhilfe-abgrenzung
+description: "Laienverstaendlicher Sozialrechts-Skill zu Kinder Jugendhilfe Abgrenzung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+---
+
+> Opencode-Port von `fachanwalt-sozialrecht/skills/laienhilfe-kinder-jugendhilfe-abgrenzung/SKILL.md`. Urspruenglicher Skill-Name: `laienhilfe-kinder-jugendhilfe-abgrenzung`.
+
+# Laienhilfe: Kinder Jugendhilfe Abgrenzung
+
+## Worum es geht
+
+Dieser Skill erklaert **Kinder Jugendhilfe Abgrenzung** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
+
+## Erst sortieren
+
+1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?
+2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht?
+3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
+4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
+5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
+
+## Arbeitsweise
+
+- Schwierige Woerter erst in einfache Sprache uebersetzen.
+- Fristen immer sichtbar ausgeben.
+- Zwischen sicher, unklar und zu beweisen unterscheiden.
+- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
+- Keine falschen Versprechen machen.
+
+## Ausgabe
+
+**Kurz erklaert**
+- Was bedeutet das Schreiben?
+- Was ist das Risiko?
+- Was muss als naechstes getan werden?
+
+**Unterlagenliste**
+| Unterlage | Warum wichtig? | Vorhanden? |
+| --- | --- | --- |
+| ... | ... | ... |
+
+**Naechster Schritt**
+Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, Aktenzeichen, Datum, Anlagenliste und Frist.
+
+## Fehler vermeiden
+
+- Keine Frist verstreichen lassen.
+- Telefonate direkt mit Datum, Uhrzeit und Namen notieren.
+- Nie Originale ohne Kopie abgeben.
+- Nicht nur Gefuehle schildern, sondern konkrete Tatsachen und Belege.
+- Bei Existenznot, Wohnung, Krankenversicherung, Pflege oder Schulbegleitung immer Eilrechtsschutz mitdenken.
+
+## Qualitaetsgate
+
+Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Kinder- und Jugendhilfe / Abgrenzung - Themenspezifika
+- **Rechtsgrundlage:** SGB VIII (Kinder- und Jugendhilfe); seit BTHG-Reform fortlaufende Aenderungen Schnittstelle SGB IX (Eingliederungshilfe behinderter Kinder).
+- **Zustaendigkeit:** Jugendamt (Stadt / Landkreis); Klage zum **Verwaltungsgericht** (§ 40 VwGO) - **nicht** Sozialgericht.
+- **Leistungsspektrum SGB VIII:**
+  - **§ 27 SGB VIII Hilfen zur Erziehung:** Erziehungsbeistand (§ 30), sozialpaedagogische Familienhilfe (§ 31), Tagesgruppe (§ 32), Vollzeitpflege (§ 33), Heimerziehung (§ 34), intensive sozialpaedagogische Einzelbetreuung (§ 35).
+  - **§ 35a SGB VIII Eingliederungshilfe** seelisch behinderter Kinder / Jugendlicher - **Abgrenzung kritisch** zu SGB IX (geistige / koerperliche Behinderung).
+  - **§ 41 SGB VIII Hilfen fuer junge Volljaehrige** (18-21 Jahre).
+  - **§ 13 SGB VIII Jugendsozialarbeit / -hilfe.**
+  - **§§ 22-26 SGB VIII Foerderung Kinder in Tageseinrichtungen** (Kita-Anspruch § 24 SGB VIII fuer Kinder ab 1).
+- **Abgrenzungs-Triade Schulbegleitung / Integrationshelfer:**
+  - **Seelisch behindert / drohend** -> § 35a SGB VIII Jugendamt zustaendig.
+  - **Geistig / koerperlich behindert** -> § 112 SGB IX Eingliederungshilfe (Sozialamt / Bezirk / Land).
+  - **Mehrfachbehindert** -> primaer Eingliederungshilfe; Jugendamt subsidiaer.
+- **Gesetzliche Verfahren:**
+  - **Hilfeplanverfahren § 36 SGB VIII** zwingend mit Beteiligung Familie/Jugendlicher.
+  - **Anhoerung § 28 VwVfG / § 24 SGB X.**
+  - **Widerspruch § 70 VwGO** (Verwaltungsgericht) - **1 Monat** ab Bekanntgabe (oder Klagefrist § 74 VwGO, je nach Bundesland Widerspruchsverfahren abgeschafft).
+  - **Klage Verwaltungsgericht** 1 Monat.
+- **Kostenbeteiligung Eltern §§ 91-94 SGB VIII** abhaengig von Einkommen; Kostenheranziehung nach gesonderter Berechnung.
+- **Eilrechtsschutz § 123 VwGO** bei drohendem Hilfeausfall.
+- **Praxis-Tipp:** Bei Streit Jugendamt vs. Sozialamt zur Eingliederungshilfe: 1. Erstantrag beim Jugendamt (Schnellweg), 2. parallel Sozialamt; bei Streit nach §§ 14, 15 SGB IX vorlaeufige Klaerung; Antraege nach § 14 SGB IX werden binnen 2 Wochen weitergeleitet, sonst Erstattung zwischen Traegern.

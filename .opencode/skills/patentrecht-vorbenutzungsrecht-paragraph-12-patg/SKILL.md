@@ -1,0 +1,48 @@
+---
+name: patentrecht-vorbenutzungsrecht-paragraph-12-patg
+description: "Prüft Vorbenutzungsrecht nach § 12 PatG: Besitzstand vor Anmeldung/Priorität, Benutzung oder ernsthafte Veranstaltungen, Inland, Redlichkeit, Umfang, Beweisführung und Prozessstrategie."
+---
+
+> Opencode-Port von `patentrecht/skills/vorbenutzungsrecht-paragraph-12-patg/SKILL.md`. Urspruenglicher Skill-Name: `vorbenutzungsrecht-paragraph-12-patg`.
+
+# Vorbenutzungsrecht § 12 PatG
+
+## Prüfraster
+
+1. **Zeitpunkt:** vor Anmelde- oder Prioritätstag.
+2. **Inland:** Benutzung oder Veranstaltungen im Inland.
+3. **Besitzstand:** tatsächliche Benutzung oder ernsthafte und greifbare Vorbereitung.
+4. **Erfindungsidentität:** Benutzung muss die spätere geschützte Lehre betreffen.
+5. **Redlichkeit:** keine unredliche Kenntniserlangung.
+6. **Umfang:** Schutz nur im bisherigen oder durch Vorbereitung angelegten Umfang.
+7. **Beweise:** alte Zeichnungen, Bestellungen, Laborbücher, Prototypen, Rechnungen, E-Mails, Zeugen, Lieferanten.
+
+## Aktenarbeit
+
+Baue eine Chronologie:
+
+| Datum | Ereignis | Dokument/Zeuge | Beweisqualität | Bedeutung |
+| --- | --- | --- | --- | --- |
+
+## Output
+
+- Vorbenutzungs-Memo.
+- Beweismatrix.
+- Risiken für Unterlassung und Auskunft.
+- Vergleichs- und Prozessstrategie.
+
+## Vorsicht
+
+Vorbenutzungsrecht ist kein allgemeiner Freibrief. Es schützt nicht automatisch spätere Weiterentwicklungen, andere Konzernunternehmen oder neue Produktgenerationen.
+
+## Pflicht-Normen und Praxisprobleme
+
+- **§ 12 Abs. 1 PatG:** Wer die Erfindung im Inland vor dem Anmeldetag/Prioritätstag in Benutzung genommen oder die dazu erforderlichen Veranstaltungen getroffen hat, hat ein persönliches Recht zur Weiterbenutzung. Persönliches Recht — nicht übertragbar (§ 12 Abs. 2 PatG).
+- **§ 12 Abs. 2 S. 2 PatG Ausnahme:** Im Falle der Veräußerung oder Verpachtung des Geschäftsbetriebs geht das Vorbenutzungsrecht auf den Erwerber/Pächter über.
+- **"Im Inland":** § 12 PatG erfordert Inlandsbenutzung. Bei EP-Bundle: Vorbenutzung im jeweiligen Validierungsland; Einheitspatent UP: Vorbenutzung im jeweiligen UPC-Land Art. 28 UPCA.
+- **"Ernsthafte Veranstaltungen":** mehr als bloße interne Vorbereitung; konkrete Produktentwicklung, Bestellungen, Werkzeugbau. BGH "Wundverband" GRUR 2010, 47 als Leitlinie (Az. live verifizieren).
+- **Umfang § 12 Abs. 1 S. 2 PatG:** Nur im Umfang der bestehenden oder angelegten Benutzung. Erweiterungen ohne Erweiterung der Veranstaltungen sind nicht gedeckt.
+- **Beweislast:** Vorbenutzer trägt sie. Schwierigkeitsgrad steigt mit zeitlichem Abstand.
+- **Vorbenutzungsrecht als Einrede im Verletzungsprozess:** in § 12 PatG verankert; Vorbenutzungsrecht ist KEIN Nichtigkeitsgrund.
+- **Internationale Strategie:** Im Schutzrechtsprozess das Vorbenutzungsrecht als prozessuale Einrede ausspielen; parallel die Nichtigkeitsklage erwägen (§ 22 PatG Nichtigkeit / EPÜ Einspruch).
+- Falle: Konzern-internes Joint Venture als "ein Geschäftsbetrieb" einstufen — § 12 Abs. 2 PatG eng auslegen; Auseinanderfallen rechtlicher und wirtschaftlicher Zuordnung gefährdet Vorbenutzungsrecht.

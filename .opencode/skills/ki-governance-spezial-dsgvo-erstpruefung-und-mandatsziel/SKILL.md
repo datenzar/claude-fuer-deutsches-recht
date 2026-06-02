@@ -1,0 +1,51 @@
+---
+name: ki-governance-spezial-dsgvo-erstpruefung-und-mandatsziel
+description: "DSGVO: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+---
+
+> Opencode-Port von `ki-governance/skills/spezial-dsgvo-erstpruefung-und-mandatsziel/SKILL.md`. Urspruenglicher Skill-Name: `spezial-dsgvo-erstpruefung-und-mandatsziel`.
+
+# DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `ki-governance`. Ausgangspunkt ist: EU-KI-VO + DSGVO – Use-Case-Triage, KI-Inventar, AIA/DPIA, Vendor-Review, Drift-Monitoring der KI-Richtlinie.
+
+Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld **DSGVO**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **DSGVO im KI-Kontext** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## DSGVO-KI-Erstprüfung: 5-Schritte-Matrix
+1. **Liegt eine Verarbeitung personenbezogener Daten vor?** (Art. 4 Nr. 1 DSGVO) — bei KI oft schon im Prompt/Trainingsdatensatz; Anonymisierung selten technisch belastbar.
+2. **Rechtsgrundlage Art. 6 DSGVO:** Einwilligung Art. 6 Abs. 1 lit. a, Vertrag lit. b, gesetzliche Pflicht lit. c, lebenswichtige Interessen lit. d, öffentliche Aufgabe lit. e, berechtigtes Interesse lit. f.
+3. **Besondere Datenkategorien Art. 9?** Gesundheit, Religion, ethnische Herkunft, biometrische ID — meistens zusätzlicher Rechtsgrund nötig.
+4. **Automatisierte Entscheidungen Art. 22 DSGVO:** Bei voll automatisierter Entscheidung mit rechtlicher Wirkung oder erheblicher Beeinträchtigung — Verbot mit Ausnahmen Abs. 2; menschliche Aufsicht.
+5. **DSFA Art. 35 DSGVO:** bei voraussichtlich hohem Risiko; KI-Anwendungen mit Profiling/Scoring/Bewertung sind regelmäßig DSFA-pflichtig.
+
+## Trade-off
+Einwilligung als Rechtsgrundlage für KI ist verlockend (klar und einfach), aber widerrufbar (Art. 7 Abs. 3 DSGVO) — bei laufendem Modelltraining und gespeicherten Vektoren technisch oft nicht rückbaubar. Berechtigtes Interesse (Art. 6 Abs. 1 lit. f) ist robuster, aber abwägungsanfällig — sorgfältige LIA (Legitimate Interest Assessment) erforderlich.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.

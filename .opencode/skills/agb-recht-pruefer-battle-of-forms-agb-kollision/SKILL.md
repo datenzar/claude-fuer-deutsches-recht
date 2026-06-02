@@ -1,0 +1,67 @@
+---
+name: agb-recht-pruefer-battle-of-forms-agb-kollision
+description: "Norm- und Dogmatik-Skill für Battle of Forms AGB Kollision: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+---
+
+> Opencode-Port von `agb-recht-pruefer/skills/battle-of-forms-agb-kollision/SKILL.md`. Urspruenglicher Skill-Name: `battle-of-forms-agb-kollision`.
+
+# Battle of Forms AGB Kollision
+
+## Wann verwenden
+
+Nutze diesen Skill für **Battle of Forms AGB Kollision** im deutschen AGB-Recht, wenn eine Klausel geprüft, entworfen, redlined, verhandelt oder prozessual verteidigt werden soll.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus Battle of Forms (B2B - § 310 Abs. 1 BGB, §§ 154, 155 BGB):**
+   - **Grundregel (deutsches Recht):** Bei Kollision verdrängen sich die AGB der Vertragspartner gegenseitig in den kollidierenden Punkten ("Restgültigkeitslehre" / "Knock-out-Rule" - BGH, ständige Rechtsprechung). An ihre Stelle tritt das dispositive Gesetzesrecht.
+   - **Abweichende Theorie ("Last-Shot"):** In einigen ausländischen Rechtsordnungen gilt: Die zuletzt versandten AGB sind maßgeblich. In Deutschland gilt diese Regel grundsätzlich nicht; Ausnahme nur, wenn die zuletzt versandten AGB ausdrücklich akzeptiert wurden.
+   - **CISG (UN-Kaufrecht):** Bei internationalen Warenkäufen gilt - nach h.M. - ebenfalls die Knock-out-Rule (Art. 19 CISG); in der älteren Rechtsprechung teilweise Mirror-Image-Rule.
+   - **Abwehrklauseln ("AGB des Vertragspartners gelten nicht"):** Treffen abwehrende und entgegenstehende AGB aufeinander, verdrängen sich beide. Eine Abwehrklausel hindert nicht die Verdrängung eigener Klauseln durch entgegenstehende AGB des Kunden.
+   - **Konkrete Strategie:**
+     - **Individuelle Verhandlung dokumentieren** zu allen wesentlichen Punkten (Haftung, Mängelrechte, Zahlung, Eigentumsvorbehalt). § 305b BGB: Individualabrede > AGB.
+     - **Auftragsbestätigung** mit ausdrücklicher Bezugnahme auf eigene AGB; Auftraggeber darf nicht widersprechen.
+     - **Bei Schweigen:** Kein Last-Shot, aber Annahme ggf. nach kaufmännischem Bestätigungsschreiben (B2B).
+   - **Praxis-Tipp:** Kritische Klauseln (Haftung, Gerichtsstand, Rechtswahl) im Verhandlungsprotokoll individualvertraglich vereinbaren - überspielt jede AGB-Kollision.
+6. **Rechtsfolge:** Knock-out: dispositives Recht gilt für die kollidierenden Bereiche; übrige AGB-Bestandteile bleiben jeweils wirksam, soweit sie sich nicht widersprechen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+### Praktische Faustregel
+
+> Wenn beide Seiten die "letzte Bestellbestätigung" für ihre AGB beanspruchen: Im deutschen Recht gilt für die strittigen Punkte das Gesetz. Wer Klarheit will, muss ausdrücklich verhandeln und das schriftlich festhalten (§ 305b BGB).
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.

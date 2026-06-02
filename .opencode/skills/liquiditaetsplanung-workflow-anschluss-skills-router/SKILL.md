@@ -1,0 +1,45 @@
+---
+name: liquiditaetsplanung-workflow-anschluss-skills-router
+description: "Anschluss-Skills Router im Plugin liquiditaetsplanung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor."
+---
+
+> Opencode-Port von `liquiditaetsplanung/skills/workflow-anschluss-skills-router/SKILL.md`. Urspruenglicher Skill-Name: `workflow-anschluss-skills-router`.
+
+# Anschluss-Skills Router
+
+## Aufgabe
+Dieser Workflow-Skill für `liquiditaetsplanung` Anschluss-Skills Router im Plugin liquiditaetsplanung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
+
+## Kaltstart
+Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
+
+1. Wer fragt in welcher Rolle?
+2. Was ist das gewünschte Ergebnis?
+3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
+4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
+
+## Arbeitsworkflow
+1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
+2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
+3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
+4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
+
+## Output-Standard
+- Kurzbild: worum es geht, was gesichert ist, was offen ist.
+- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
+- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
+- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
+
+## Routing Liquiditätsplanung
+- **Zahlungsunfähigkeit § 17 InsO im Verdacht:** Liquiditätsstatus nach BGH-Schwellen erstellen (Deckungslücke < 10 % Zahlungsstockung; ≥ 10 % grds. Zahlungsunfähigkeit).
+- **§ 18 InsO drohende Zahlungsunfähigkeit (StaRUG-Zugang):** 24-Monatsplan mit Annahmenkatalog und Sensitivitäten. Anschluss: Plugin `krisenfrueherkennung-starug`.
+- **§ 19 InsO Überschuldung:** 12-Monats-Fortbestehensprognose. Anschluss: Plugin `fortbestehensprognose`.
+- **Sanierungsfahrplan/Sanierungskonzept IDW S 6:** Bei Bankenverhandlung oder externer Begutachtung. Datenfundament: rollierender 13-Wochen-Plan plus 24-Monatsplan.
+- **Steuer- und SV-Rückstände:** Sonderfall! § 266a StGB bei nicht abgeführten Arbeitnehmer-SV-Beiträgen ist persönliche Strafbarkeit; Stundungsanträge dokumentieren.
+- **Trade-off:** Kurzfristige Maßnahmen (Factoring, Sale-and-lease-back) entlasten Liquidität, aber belasten Bilanz und Anfechtungsrisiko (§§ 130 ff. InsO).
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Unsicherheiten und Annahmen ausdrücklich markieren.

@@ -1,0 +1,66 @@
+---
+name: fachanwalt-sozialrecht-laienhilfe-fristenkalender
+description: "Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+---
+
+> Opencode-Port von `fachanwalt-sozialrecht/skills/laienhilfe-fristenkalender/SKILL.md`. Urspruenglicher Skill-Name: `laienhilfe-fristenkalender`.
+
+# Laienhilfe: Fristenkalender
+
+## Worum es geht
+
+Dieser Skill erklaert **Fristenkalender** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
+
+## Norm- und Praxisanker
+
+- Widerspruchsfrist: § 84 SGG – einen Monat ab Bekanntgabe. Bei fehlerhafter Belehrung 1 Jahr (§ 66 SGG).
+- Klagefrist: § 87 SGG – einen Monat ab Zustellung Widerspruchsbescheid.
+- Berufungsfrist: § 151 SGG – einen Monat ab Zustellung Urteil; Nichtzulassungsbeschwerde § 145 SGG ebenfalls 1 Monat.
+- Revision: § 164 SGG – ein Monat ab Zustellung.
+- Fristberechnung: § 64 SGG – Monatsfrist endet am gleichen Tag des Folgemonats; faellt der auf Samstag/Sonntag/Feiertag → naechster Werktag.
+- Bekanntgabefiktion: § 37 Abs. 2 SGB X – Brief gilt am vierten Tag nach Aufgabe zur Post als zugegangen (PostModG seit 1.1.2025; vorher drei Tage). Gegenbeweis durch Empfaenger moeglich.
+- Wiedereinsetzung: § 67 SGG – binnen einer Woche ab Wegfall des Hindernisses (Krankheit, Postversaeumnis, etc.) mit Glaubhaftmachung.
+- Praxis-Tipp: Fristen sofort in mindestens drei Kanaelen sichern (Papierkalender + Smartphone-Alarm + Erinnerung 3 Tage vor Fristablauf). Briefumschlag mit Eingangsstempel sammeln. Bei Eilantraegen sofort und nicht erst gegen Fristende einreichen. Frist immer "worst case" rechnen (Tag des Bescheid + 4 Tage Bekanntgabefiktion + Monat = Frist).
+
+## Erst sortieren
+
+1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?
+2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht?
+3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
+4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
+5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
+
+## Arbeitsweise
+
+- Schwierige Woerter erst in einfache Sprache uebersetzen.
+- Fristen immer sichtbar ausgeben.
+- Zwischen sicher, unklar und zu beweisen unterscheiden.
+- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
+- Keine falschen Versprechen machen.
+
+## Ausgabe
+
+**Kurz erklaert**
+- Was bedeutet das Schreiben?
+- Was ist das Risiko?
+- Was muss als naechstes getan werden?
+
+**Unterlagenliste**
+| Unterlage | Warum wichtig? | Vorhanden? |
+| --- | --- | --- |
+| ... | ... | ... |
+
+**Naechster Schritt**
+Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, Aktenzeichen, Datum, Anlagenliste und Frist.
+
+## Fehler vermeiden
+
+- Keine Frist verstreichen lassen.
+- Telefonate direkt mit Datum, Uhrzeit und Namen notieren.
+- Nie Originale ohne Kopie abgeben.
+- Nicht nur Gefuehle schildern, sondern konkrete Tatsachen und Belege.
+- Bei Existenznot, Wohnung, Krankenversicherung, Pflege oder Schulbegleitung immer Eilrechtsschutz mitdenken.
+
+## Qualitaetsgate
+
+Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?

@@ -1,0 +1,69 @@
+---
+name: agb-recht-pruefer-inhaltskontrolle-307-generalklausel
+description: "Norm- und Dogmatik-Skill für Inhaltskontrolle 307 Generalklausel: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung."
+---
+
+> Opencode-Port von `agb-recht-pruefer/skills/inhaltskontrolle-307-generalklausel/SKILL.md`. Urspruenglicher Skill-Name: `inhaltskontrolle-307-generalklausel`.
+
+# Inhaltskontrolle 307 Generalklausel
+
+## Wann verwenden
+
+Nutze diesen Skill für **Inhaltskontrolle 307 Generalklausel** im deutschen AGB-Recht, wenn eine Klausel geprüft, entworfen, redlined, verhandelt oder prozessual verteidigt werden soll.
+
+## Minimal-Intake
+
+- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
+- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
+- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
+- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
+- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
+
+## Prüfpfad
+
+1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
+2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
+3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
+4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
+5. **Spezialfokus § 307 BGB als Generalklausel und Auffangtatbestand:**
+   - **Prüfungsreihenfolge:** Erst § 309 BGB (absolute Klauselverbote, B2C), dann § 308 BGB (Klauselverbote mit Wertungsmöglichkeit, B2C), dann § 307 BGB. Im B2B nur § 307 BGB unter Berücksichtigung der Klauselverbote als Wertungsmaßstab.
+   - **Tatbestand § 307 Abs. 1 S. 1 BGB:** Unangemessene Benachteiligung entgegen Treu und Glauben. Indizien: Abweichung von dispositivem Recht zulasten des Kunden, Risikoverlagerung, einseitige Bestimmungsrechte des Verwenders, fehlende Reziprozität.
+   - **Auslegungshilfen § 307 Abs. 2 BGB:**
+     - **Nr. 1:** Abweichung von wesentlichen Grundgedanken der gesetzlichen Regelung (Leitbildwiderspruch). Beispiel: Verschuldensunabhängige Schadensregeln statt § 280 Abs. 1 S. 2 BGB.
+     - **Nr. 2:** Einschränkung wesentlicher Rechte oder Pflichten, die sich aus der Natur des Vertrages ergeben, sodass Vertragszweck gefährdet wird (Kardinalpflichtenrechtsprechung).
+   - **§ 307 Abs. 3 BGB:** Klauseln, die nur die Hauptleistung oder das Entgelt regeln, unterliegen nur der Transparenzkontrolle (Abs. 1 S. 2 BGB). Aber: Nebenabreden über Hauptleistung (Preisnebenabreden, Zusatzentgelte) sind voll kontrollfähig.
+   - **B2B (§ 310 Abs. 1 BGB):** § 307 BGB gilt voll; §§ 308, 309 BGB nur als Wertungsmaßstab. BGH-Linie: Die Wertungen der §§ 308, 309 BGB strahlen ausstrahlend ins B2B aus, soweit keine Geschäftsgebräuche oder typische Risikoallokationen abweichen rechtfertigen (ständige Rechtsprechung).
+6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
+7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
+
+### Prüfschema § 307 BGB im Quick-Check
+
+> 1. Ist die Klausel eine Hauptleistungsbestimmung (§ 307 Abs. 3 BGB)? Wenn ja: nur Transparenz prüfen.
+> 2. Weicht sie von dispositivem Recht zulasten des Kunden ab? Wenn ja: § 307 Abs. 2 Nr. 1 BGB greift Indiz.
+> 3. Werden wesentliche Vertragspflichten eingeschränkt? Wenn ja: § 307 Abs. 2 Nr. 2 BGB.
+> 4. Strahlt ein Klauselverbot der §§ 308, 309 BGB aus? Im B2C greift es direkt; im B2B als Wertungsmaßstab.
+> 5. Wenn unwirksam: § 306 BGB Folge - kein Inhaltsabschluss, keine Reduktion.
+
+## Output
+
+| Punkt | Befund |
+| --- | --- |
+| Klauselzweck | ... |
+| AGB-Kontrolle | ja/nein/unklar, warum |
+| Hauptangriff | ... |
+| Verteidigung | ... |
+| Risiko | Grün/Gelb/Rot |
+| Bessere Fassung | ... |
+| offene Tatsachen | ... |
+
+## Qualitätsregeln
+
+- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
+- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
+- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
+- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
+- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
+
+## Quellenanker
+
+Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.

@@ -1,0 +1,69 @@
+---
+name: fachanwalt-sozialrecht-laienhilfe-eingliederungshilfe-erwachsene
+description: "Laienverstaendlicher Sozialrechts-Skill zu Eingliederungshilfe Erwachsene. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung."
+---
+
+> Opencode-Port von `fachanwalt-sozialrecht/skills/laienhilfe-eingliederungshilfe-erwachsene/SKILL.md`. Urspruenglicher Skill-Name: `laienhilfe-eingliederungshilfe-erwachsene`.
+
+# Laienhilfe: Eingliederungshilfe Erwachsene
+
+## Worum es geht
+
+Dieser Skill erklaert **Eingliederungshilfe Erwachsene** so, dass auch Menschen ohne juristische Vorkenntnisse handlungsfaehig werden. Er ersetzt keine Beratung, verhindert aber typische Fehler: Fristen uebersehen, falsche Stelle anschreiben, Unterlagen ungeordnet schicken, zu viel oder zu wenig sagen, Begriffe missverstehen.
+
+## Erst sortieren
+
+1. Welcher Bescheid, Brief, Anruf oder Termin liegt vor?
+2. Von welcher Stelle kommt er: Jobcenter, Krankenkasse, Pflegekasse, Rentenversicherung, Sozialamt, Jugendamt, Berufsgenossenschaft oder Sozialgericht?
+3. Welches Datum steht auf dem Schreiben und wann ist es angekommen?
+4. Was will die Person erreichen: Geld, Leistung, Hilfsmittel, Pflegegrad, GdB, Fristverlaengerung, Akteneinsicht, Eilentscheidung oder einfach Verstehen?
+5. Welche Belege gibt es: Atteste, Gutachten, Kontoauszuege, Mietvertrag, Bescheide, Arbeitsunfaehigkeit, Schriftwechsel?
+
+## Arbeitsweise
+
+- Schwierige Woerter erst in einfache Sprache uebersetzen.
+- Fristen immer sichtbar ausgeben.
+- Zwischen sicher, unklar und zu beweisen unterscheiden.
+- Nicht beschwichtigen, wenn ein Eilantrag oder Widerspruch noetig sein kann.
+- Keine falschen Versprechen machen.
+
+## Ausgabe
+
+**Kurz erklaert**
+- Was bedeutet das Schreiben?
+- Was ist das Risiko?
+- Was muss als naechstes getan werden?
+
+**Unterlagenliste**
+| Unterlage | Warum wichtig? | Vorhanden? |
+| --- | --- | --- |
+| ... | ... | ... |
+
+**Naechster Schritt**
+Formuliere bei Bedarf einen einfachen Brief oder eine E-Mail mit klarer Bitte, Aktenzeichen, Datum, Anlagenliste und Frist.
+
+## Fehler vermeiden
+
+- Keine Frist verstreichen lassen.
+- Telefonate direkt mit Datum, Uhrzeit und Namen notieren.
+- Nie Originale ohne Kopie abgeben.
+- Nicht nur Gefuehle schildern, sondern konkrete Tatsachen und Belege.
+- Bei Existenznot, Wohnung, Krankenversicherung, Pflege oder Schulbegleitung immer Eilrechtsschutz mitdenken.
+
+## Qualitaetsgate
+
+Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise? Sind die Begriffe aus SGB und SGG erklaert? Sind Umlaute und Namen sauber uebernommen? Sind offene Punkte sichtbar markiert?
+
+## Eingliederungshilfe Erwachsene - Themenspezifika
+- **Rechtsgrundlage:** SGB IX Teil 2 (§§ 90-150 SGB IX); seit BTHG-Reform 2020 nicht mehr im SGB XII. Zustaendig regelmaessig **Traeger der Eingliederungshilfe** (Bezirk in Bayern, Landschaftsverband in NRW, Land in anderen Bundeslaendern).
+- **Personenkreis § 99 SGB IX:** Menschen mit (drohender) wesentlicher Behinderung; "wesentlich" = erhebliche Beeintraechtigung der Teilhabe in mindestens 5 von 9 Lebensbereichen (ICF-Bereiche).
+- **Leistungsformen:**
+  - **Soziale Teilhabe § 113 SGB IX** (Assistenz § 78 SGB IX, Hilfsmittel, Mobilitaet, betreutes Wohnen).
+  - **Teilhabe Bildung § 112 SGB IX** (Studienassistenz, Schulbegleitung).
+  - **Teilhabe Arbeitsleben § 111 SGB IX** (WfbM, BBE, Andere Anbieter, Budget fuer Arbeit § 61 SGB IX).
+  - **Medizinische Reha** wenn kein vorrangiger Traeger (§ 109 SGB IX).
+- **Persoenliches Budget § 29 SGB IX:** Wahlrecht; Kostenobergrenze gleich Sachleistung; Zielvereinbarung verpflichtend.
+- **Einkommens- und Vermoegensanrechnung § 135 ff. SGB IX:** seit BTHG erheblich entschaerft - Arbeitseinkommen Werkstattbeschaeftigter frei; Vermoegen bis 65.880 EUR (Stand 2024, jaehrlich Anpassung) geschuetzt; ggf. Beitrag aus Einkommen oberhalb Grenzen.
+- **Gesamtplanverfahren § 117 SGB IX:** Bedarfsermittlung mit ICF; Beteiligung des Leistungsberechtigten verpflichtend; Verfahrensfehler ist Bescheidmangel.
+- **Eil-Rechtsschutz** bei Versorgungsluecke z. B. Assistenz, drohendem Heimwechsel; § 86b II SGG.
+- **Praxis-Tipp:** Genau dokumentierter Bedarf in den Lebensbereichen (ADL-Beobachtungen, Pflegetagebuch, Aussagen Bezugspersonen); ggf. Antrag auf Persoenliches Budget zur Steigerung Selbstbestimmung.

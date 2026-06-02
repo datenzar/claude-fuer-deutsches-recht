@@ -67,6 +67,37 @@ Die vollständige Plugin-Liste findest du in [`.claude-plugin/marketplace.json`]
 
 Alternativ: über die Claude-Desktop-/Cowork-GUI unter **Customize → Skills / Plugins** → ZIP aus dem [aktuellen Release](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) hochladen. Schritt-für-Schritt unter [Schnellstart](#schnellstart), [Für Einsteiger](#für-einsteiger-schritt-für-schritt-anleitung) und besonders für Mac-Probleme in [INSTALLATION_EINFACH.md](./INSTALLATION_EINFACH.md).
 
+## Quickstart mit opencode.ai
+
+Dieses Repository enthaelt zusaetzlich eine native opencode-Projektkonfiguration:
+
+```text
+opencode .
+```
+
+Die relevanten Dateien sind:
+
+- [`AGENTS.md`](./AGENTS.md) — native opencode-Instruktionen fuer Sprache, Methodik, Quellenpflicht und Arbeitsweise.
+- [`opencode.json`](./opencode.json) — Projektkonfiguration mit Schema, Instruktionsdateien, generiertem Skill-Pfad, sicheren Ask-Permissions und deaktivierten Remote-MCP-Servern.
+- [`.opencode/skills/`](./.opencode/skills) — generierte, namespacete opencode-Skills. Beispiel: `arbeitsrecht-allgemein` statt nur `allgemein`.
+- [`.opencode/agent/`](./.opencode/agent) — generierte opencode-Subagenten aus den vorhandenen Plugin-Agenten.
+- [`.opencode/MCP.md`](./.opencode/MCP.md) — Inventar der zusammengefuehrten Remote-MCP-Server.
+- [`.opencode/profile/`](./.opencode/profile) — lokaler Zielort fuer fruehere Claude-Profilpfade wie `~/.claude/plugins/config/.../<plugin>/CLAUDE.md`.
+
+Regenerieren nach Aenderungen an Claude-Quellskills, Plugin-Agenten oder `.mcp.json`:
+
+```text
+node scripts/generate-opencode-assets.mjs
+node scripts/validate-opencode.mjs
+```
+
+Wichtig fuer opencode:
+
+- Die bestehenden Claude-Dateien bleiben Quelle der Wahrheit; generierte Dateien unter `.opencode/skills/` und `.opencode/agent/` nicht manuell pflegen.
+- Gleichnamige Skills aus verschiedenen Plugins werden fuer opencode automatisch mit Plugin-Prefix versehen, damit keine Skill-Namenskollisionen entstehen.
+- Remote-MCP-Server sind in `opencode.json` absichtlich mit `enabled: false` eingetragen. Vor Aktivierung muessen Anbieterfreigabe, Datenschutz, Berufsrecht, Mandatsgeheimnis und konkrete Mandatsgovernance geprueft werden.
+- Nach Aenderungen an `opencode.json`, `.opencode/skills/` oder `.opencode/agent/` opencode beenden und neu starten; laufende Sessions laden die Konfiguration nicht automatisch nach.
+
 ## 🚨 KEINE Aussage über Berufsrecht, Datenschutz, KI-VO oder Beschlagnahmeverbote
 
 **Lesen, bevor irgendetwas davon eingesetzt wird.** Dieses Repository ist ausschließlich ein technisches Experiment. Es trifft **keinerlei Aussage** darüber, ob der Einsatz dieser Skills in einer konkreten Praxisumgebung berufs-, datenschutz- oder KI-rechtlich zulässig ist. Alle nachstehenden Fragen muss **jede Nutzerin und jeder Nutzer in eigener Verantwortung** vor der ersten Nutzung prüfen – das Repository, seine Autorin / sein Autor und alle Mitwirkenden übernehmen dafür keinerlei Verantwortung oder Haftung:

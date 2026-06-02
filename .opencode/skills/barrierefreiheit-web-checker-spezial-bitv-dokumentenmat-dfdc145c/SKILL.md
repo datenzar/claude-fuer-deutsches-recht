@@ -1,0 +1,65 @@
+---
+name: barrierefreiheit-web-checker-spezial-bitv-dokumentenmat-dfdc145c
+description: "BITV: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+---
+
+> Opencode-Port von `barrierefreiheit-web-checker/skills/spezial-bitv-dokumentenmatrix-und-lueckenliste/SKILL.md`. Urspruenglicher Skill-Name: `spezial-bitv-dokumentenmatrix-und-lueckenliste`.
+
+# BITV: Dokumentenmatrix, Lückenliste und Nachforderung
+
+## Aufgabe
+Dieser Skill ist ein konkreter Fachbaustein für `barrierefreiheit-web-checker`. Ausgangspunkt ist: Web-Barrierefreiheits-Checker für BFSG, BFSGV, BITV 2.0, EN 301 549 und WCAG: Scope, Audit, Tastatur, Screenreader, Formulare, PDFs, Erklärung, Roadmap und Abnahme.
+
+Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfeld **BITV**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+## Kaltstart
+Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
+
+1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
+2. Welches konkrete Ziel soll erreicht oder verhindert werden?
+3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
+4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
+5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
+
+## Arbeitsworkflow
+1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
+2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **BITV 2.0** prüfen.
+3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
+4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
+5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
+
+## BITV-Dokumentenmatrix für öffentliche Stellen
+- **BITV 2.0 erfasst:** öffentliche Stellen des Bundes (Verwaltung, Behörden, Gerichte, Sozialleistungsträger Bund, soweit nicht Hoheitsverwaltung der Länder/Kommunen → Landes-BITV/Landesgesetze).
+- **Pflichten:**
+  - **§ 12a BGG** Voraussetzung: barrierefreie Gestaltung von Websites, mobilen Anwendungen, Intranet, Dokumenten.
+  - **BITV 2.0 § 3:** Anwendung WCAG 2.1 AA via EN 301 549.
+  - **BITV § 4 i.V.m. § 12b BGG:** Erklärung zur Barrierefreiheit (mit Feedback-Mechanismus, Datum, Anwendungsbereich, Hinweis auf Schlichtungsstelle Bund).
+  - **BITV-Test/BIK BITV-Test:** standardisierter Test, durchgeführt durch DIAS GmbH bzw. Prüfer der BFIT-Bund.
+- **Standarddokumente Pflicht-/Belegmatrix:**
+  - Erklärung zur Barrierefreiheit (öffentlich, im Footer der Webseite).
+  - Audit-Bericht mit Datum, Geltungsbereich, Methodik, BITV-Test-Punkte.
+  - Maßnahmenkatalog mit Behebungsfristen.
+  - Feedback-Postfach, Schlichtungsstelle-Hinweis.
+  - Aktualisierungsplan.
+
+## Lückenliste typischer Pflicht-Versäumnisse
+- Keine Erklärung zur Barrierefreiheit ODER veraltete Erklärung (mehr als 1 Jahr alt) → § 4 BITV-Verstoß.
+- Audit ohne Geltungsbereichbeschreibung → trägt keine Generalaussage.
+- Fehlender Schlichtungsstelle-Hinweis → § 4 Abs. 5 BITV.
+- Keine PDF-Konformität trotz BITV § 1 → häufiger Mangel.
+- Feedback-Postfach ohne SLA → Nutzerbeschwerden bleiben unbeantwortet.
+
+## Praxis-Tipp
+Vor jeder Behördenprüfung (z. B. BFIT-Bund) zuerst die Erklärung zur Barrierefreiheit aktualisieren und prominent platzieren — schon das verbessert die Erstindrücke deutlich. Audit-Bericht erst danach prüfen lassen.
+
+## Output-Standard
+- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
+- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
+- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
+
+## Quellenregel
+- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
+- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
+- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
