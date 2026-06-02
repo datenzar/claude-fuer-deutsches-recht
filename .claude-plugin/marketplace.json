@@ -873,6 +873,15 @@
       "version": "57.0.3"
     },
     {
+      "name": "normenkontrollrat-nkr",
+      "source": "./normenkontrollrat-nkr",
+      "description": "Plugin fuer den Nationalen Normenkontrollrat (NKR): Pruefung von Referentenentwuerfen Formulierungshilfen und Gesetzentwuerfen auf Erfuellungsaufwand Erforderlichkeit Verhaeltnismaessigkeit One-in-one-out Digitalcheck Mittelstandsfreundlichkeit und Praktikabilitaet im Vollzug.",
+      "author": {
+        "name": "Klotzkette"
+      },
+      "version": "57.0.0"
+    },
+    {
       "name": "normenkontrolle-bauleitplanung",
       "source": "./normenkontrolle-bauleitplanung",
       "description": "Freistehendes Plugin für die Prüfung und Anfechtung von Bebauungsplänen, Flächennutzungsplänen und örtlichen Bauvorschriften nach § 47 VwGO vor BayVGH und OVG. Mandatsperspektive Antragstellervertretung.",
