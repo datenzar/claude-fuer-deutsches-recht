@@ -1,6 +1,6 @@
 # arbeitsrecht
 
-**81 Skills** · Stand `v68.0.0`
+**81 Skills** · Stand `v69.0.0`
 
 - [← Zurueck zur Gesamtuebersicht](../SKILLS.md)
 - [Plugin-README](https://github.com/Klotzkette/claude-fuer-deutsches-recht/blob/main/arbeitsrecht/README.md)

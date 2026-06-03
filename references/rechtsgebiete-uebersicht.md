@@ -20,6 +20,7 @@
 | `bgb-at-pruefer` | BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingung, Fristen und Verjährung | BGB §§ 104-218 |
 | `vertragsrecht` | Vertragsrecht, AGB, NDA, SaaS, Vertrieb | BGB, HGB, AGG, EU-Lieferketten-RL |
 | `versammlungsrecht` | Versammlungsfreiheit und Versammlungsrecht: Anzeige öffentlicher Versammlungen unter freiem Himmel, Landesrecht, Behörde, Spontan- und Eilversammlung, Ordner, Auflagen, Verbot und Eilrechtsschutz | Art. 8 GG, VersG, Landesversammlungsgesetze, VwGO §§ 80, 123 |
+| `wahlkampfrecht-praxis` | Wahlkampfrecht und Wahlkampfpraxis: Strategie, Plakatierung, Social Media, politische Werbung, Parteienfinanzierung, Datenschutz, Desinformation, Wahltag und Compliance | GG Art. 5, 21, 38; BWahlG, BWO, EuWG, EuWO, PartG, StGB §§ 107 ff., DSGVO/BDSG, VO (EU) 2024/900 |
 | `verwaltete-agentenrezepte` | Vorlagen für Multi-Agent-Abläufe | – |
 
 ## Neu im deutschen Repository

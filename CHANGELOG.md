@@ -1,3 +1,17 @@
+# v69.0.0 — Wahlkampfrecht Praxis
+
+## Neu
+
+- Neues Plugin `wahlkampfrecht-praxis` mit 118 Skills für demokratischen Wahlkampf: Strategie, Plakatierung, Ground Game, Social Media, politische Werbung nach VO (EU) 2024/900, Datenschutz, Parteienfinanzierung, Desinformation, Podien, Schulen, Wahltag und Compliance.
+- Neue Arbeitsakte `wahlkampfrecht-landtagswahl-morgenstadt-2026` mit Markdown, EML, DOCX, XLSX, PDF, CSV, JPEG-Screenshots und Gesamt-PDF.
+
+## Synchronisiert
+
+- Repo-Stand auf 167 Plugins, 14160 Skills, 160 Testakten und v69.0.0 synchronisiert.
+- Marketplace, Plugin-Manifeste, README, Testakten-Übersicht, Asset-Index, Skills-Index und Downloadsektionen aktualisiert.
+
+---
+
 # v68.0.0 — Solo-Selbstständige und HOAI-Leistungsphasen
 
 ## Neu

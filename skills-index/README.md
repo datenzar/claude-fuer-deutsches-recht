@@ -1,6 +1,6 @@
 # Skills-Index: Detailseiten pro Plugin
 
-Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v68.0.0`.
+Eine Detailseite pro Plugin mit allen Skills, Beschreibungen und Einzel-Downloads. Stand: `v69.0.0`.
 
 Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeilen abstuerzt oder die Seite endlos neu laedt.
 
@@ -168,6 +168,7 @@ Die Aufteilung verhindert, dass GitHubs Markdown-Renderer bei 2600+ Tabellenzeil
 - [versammlungsrecht](./versammlungsrecht.md) (54 Skills)
 - [vertragsausfueller](./vertragsausfueller.md) (54 Skills)
 - [vertragsrecht](./vertragsrecht.md) (54 Skills)
+- [wahlkampfrecht-praxis](./wahlkampfrecht-praxis.md) (118 Skills)
 - [wandeldarlehen-lebenszyklus](./wandeldarlehen-lebenszyklus.md) (50 Skills)
 - [weg-hausverwaltung](./weg-hausverwaltung.md) (54 Skills)
 - [word-legal-ai-plugin-and-skill-for-german-lawyers](./word-legal-ai-plugin-and-skill-for-german-lawyers.md) (50 Skills)

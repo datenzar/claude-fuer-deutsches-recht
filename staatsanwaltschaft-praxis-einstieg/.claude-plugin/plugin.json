@@ -1,6 +1,6 @@
 {
   "name": "staatsanwaltschaft-praxis-einstieg",
-  "version": "68.0.0",
+  "version": "69.0.0",
   "description": "Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungsverfahren, Polizei, RiStBV, Vermerke, Beschlagnahme, digitale Beweise, Anklage, Strafbefehl, Hauptverhandlung, Plädoyer und Rechtsmittel.",
   "license": "Apache-2.0 OR MIT",
   "author": {

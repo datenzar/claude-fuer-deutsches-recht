@@ -1,7 +1,6 @@
 # Normenkontrolle Bauleitplanung — § 47 VwGO
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
-
 ## ⬇️ Sofort-Downloads
 
 Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).

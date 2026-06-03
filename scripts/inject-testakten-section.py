@@ -100,6 +100,7 @@ PLUGIN_TESTAKTEN: dict[str, list[str]] = {
     ],
     "verkehr-infrastrukturrecht": ["verkehr-infrastrukturrecht-strassenbahn-ladezonen"],
     "verkehrsowi-verteidiger": ["verkehrsowi-rotlicht-tempo"],
+    "wahlkampfrecht-praxis": ["wahlkampfrecht-landtagswahl-morgenstadt-2026"],
     "verlagsredaktion": ["verlagsredaktion-morgenlage-fachverlag"],
     "vertragsausfueller": ["vertragsausfueller-bsag-kiosk-huckelriede"],
     "vertragsrecht": ["sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger"],
