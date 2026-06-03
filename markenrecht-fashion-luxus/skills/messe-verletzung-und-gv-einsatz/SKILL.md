@@ -82,12 +82,11 @@ Brezelmann Discount KG präsentiert auf einer Düsseldorfer Modemesse Schal-Koll
 ### Konstellation 3: Ausländischer Aussteller auf Pitti Uomo Florenz
 Chinesischer Hersteller zeigt auf der Pitti Uomo in Florenz klôtzzkètté-Kopien. Zuständigkeit: Tribunale di Firenze (italienische Zuständigkeit). Abstimmung mit Whitman Brennan Forsythe NYC für US-Parallelvorgehen; Kooperation mit Mailänder Korrespondenzkanzlei für IT-Enforcement.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, §§ 14/18/19 Rn. 1 ff.
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 400 ff. (Rechtsfolgen)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

@@ -76,12 +76,11 @@ Brezelmann Discount KG meldet in Klasse 25 an. Widerspruch von klôtzzkètté au
 ### Konstellation 3: Bösgläubige Vorratsanmeldung durch Händler
 Ein ehemaliger Vertragshändler meldet "klotzkette" in Klasse 35 beim DPMA an — kurz nachdem die Geschäftsbeziehung gekündigt wurde. Nichtigkeitsantrag gem. § 50 II Nr. 4 MarkenG i.V.m. § 8 II Nr. 14 MarkenG (bösgläubige Anmeldung). Beweislage: Kündigungsschreiben, Zeitpunkt der Anmeldung, fehlende eigene Nutzungsabsicht.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 42/43/49/50 (jeweils vollständig)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 42 Rn. 1 ff.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

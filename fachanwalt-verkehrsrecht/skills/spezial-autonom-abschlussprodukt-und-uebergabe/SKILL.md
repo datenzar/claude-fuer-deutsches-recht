@@ -1,6 +1,6 @@
 ---
 name: spezial-autonom-abschlussprodukt-und-uebergabe
-description: "Autonom: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Autonom: Abschlussprodukt und Übergabe im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Autonom: Abschlussprodukt und Übergabe
@@ -9,6 +9,15 @@ description: "Autonom: Abschlussprodukt und Übergabe: konkreter Spezialworkflow
 Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.
 
 Er führt durch **Abschlussprodukt und Übergabe** im Themenfeld **Autonom**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Autonom.
+- **Arbeitsfokus:** Abschlussprodukt und Übergabe.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

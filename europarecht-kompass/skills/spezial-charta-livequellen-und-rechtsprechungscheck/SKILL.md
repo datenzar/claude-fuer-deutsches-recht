@@ -1,6 +1,6 @@
 ---
 name: spezial-charta-livequellen-und-rechtsprechungscheck
-description: "Charta: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Charta: Livequellen- und Rechtsprechungscheck im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Charta: Livequellen- und Rechtsprechungscheck
@@ -9,6 +9,15 @@ description: "Charta: Livequellen- und Rechtsprechungscheck: konkreter Spezialwo
 Dieser Skill ist ein konkreter Fachbaustein für `europarecht-kompass`. Ausgangspunkt ist: Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen, Vorlageverfahren und EU-Drafting.
 
 Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Charta**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Charta.
+- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
+- **Plugin-Rahmen:** Freistehendes Europarecht-Plugin gegen deutsche Denkfehler: Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Charta, Grundfreiheiten, Beihilfen....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

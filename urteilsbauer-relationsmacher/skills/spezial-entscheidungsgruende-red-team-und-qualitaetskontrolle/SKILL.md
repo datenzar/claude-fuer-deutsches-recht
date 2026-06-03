@@ -1,6 +1,6 @@
 ---
 name: spezial-entscheidungsgruende-red-team-und-qualitaetskontrolle
-description: "Entscheidungsgruende: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Entscheidungsgruende: Red-Team und Qualitätskontrolle im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Entscheidungsgruende: Red-Team und Qualitätskontrolle
@@ -9,6 +9,15 @@ description: "Entscheidungsgruende: Red-Team und Qualitätskontrolle: konkreter 
 Dieser Skill ist ein konkreter Fachbaustein für `urteilsbauer-relationsmacher`. Ausgangspunkt ist: Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbestandsmerkmale Tenor Tatbestand Entscheidungsgründe Rechtsmittelbelehrung. Erzeugt DOCX nach Paragraf 313 ZPO.
 
 Er führt durch **Red-Team und Qualitätskontrolle** im Themenfeld **Entscheidungsgruende**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Entscheidungsgruende.
+- **Arbeitsfokus:** Red-Team und Qualitätskontrolle.
+- **Plugin-Rahmen:** Urteils- und Beschluss-Werkstatt für Amts- Land- und Familienrichter sowie Rechtspfleger. Aktenintake Relation Beweiswürdigung mit Richter-Input Tatbest....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

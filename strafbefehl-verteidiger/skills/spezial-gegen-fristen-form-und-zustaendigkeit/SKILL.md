@@ -1,6 +1,6 @@
 ---
 name: spezial-gegen-fristen-form-und-zustaendigkeit
-description: "Gegen: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Gegen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Gegen: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -18,6 +18,15 @@ Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **
 - Zustellung: §§ 36 ff. StPO i.V.m. §§ 166 ff. ZPO; Ersatzzustellung möglich. Bei nicht ordnungsgemäßer Zustellung läuft Einspruchsfrist nicht.
 - Wiedereinsetzung: § 44 StPO – Frist eine Woche ab Wegfall des Hindernisses, mit Begründung und Glaubhaftmachung (§ 45 StPO).
 - Praxis-Tipp: Einspruchsfrist sofort prozessual sichern – falls Zustellungsmängel unklar, blanker Einspruch + hilfsweise Wiedereinsetzung in einem Schriftsatz; Begründung kann nachgereicht werden, da § 410 Abs. 1 StPO keine Begründungspflicht kennt.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Gegen.
+- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
+- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

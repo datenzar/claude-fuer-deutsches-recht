@@ -3,36 +3,57 @@ name: digital-services-nationale-koordinierung-dsa-behoerden
 description: "Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Nationale Koordinierung DSA Behörden
+# Nationale Koordinierung der DSA-Behörden in Deutschland
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Steuerung anwaltlicher Verfahren entlang der zersplitterten Zuständigkeitsstruktur in Deutschland zur Durchsetzung des DSA. Während die Bundesnetzagentur Digital Services Coordinator (DSC) ist, sind weitere Behörden für spezifische DSA-Pflichten zuständig: Bundeszentrale für Kinder- und Jugendmedienschutz (BzKJ) für jugendschutzbezogene Pflichten; Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) für datenschutzbezogene Pflichten; Landesmedienanstalten für medienrechtliche Bezüge (JMStV, MStV). Mandate erfordern oft parallele Anzeigen und Stellungnahmen.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Konkrete DSA-Pflicht und ihr regulatorischer Anker.
+- Sachverhalt mit Jugend-, Datenschutz- oder Medienbezug.
+- Bestehende Verfahren bei anderen Behörden (BfDI, Landesmedienanstalt, BzKJ).
+- Rolle: Plattform, Beschwerdeführer, Verband, Behörde.
+- Frist (in jedem Verfahren separat).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- §§ 12, 14, 17, 23 DDG (BNetzA als DSC, Zuständigkeitsverteilung, Zusammenarbeit).
+- § 17 DDG (gemeinsame Aufsicht mit BzKJ und BfDI; "ins Benehmen setzen" und "Einvernehmen").
+- §§ 24a, 24b JuSchG (BzKJ-Befugnisse, "altersgerechte Voreinstellungen").
+- §§ 19, 21 JMStV (Landesmedienanstalten, KJM).
+- §§ 6 ff. BDSG, Art. 27 DSGVO i. V. m. DSA (BfDI, Aufsichtskoordination).
+- §§ 92 ff. MStV (Landesmedienanstalten, Telemedien).
+- VO (EU) 2022/2065 Art. 49 (DSC-Stellung) und Art. 60 (gemeinsame Untersuchungen).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **DSA-Pflichten kartieren.** Welche DSA-Norm ist verletzt? Daraus folgt die behördliche Zuständigkeit nach DDG.
+2. **Federführende Stelle bestimmen.** DSC (BNetzA) führt grundsätzlich; bei Jugendmedienschutz: BzKJ bzw. KJM-Mitwirkung; bei Datenschutz: BfDI-Beteiligung.
+3. **Konsultationspflicht klären.** § 17 DDG verlangt für bestimmte Pflichten "Einvernehmen" oder "Benehmen"; bei fehlender Einigung Eskalation.
+4. **Parallel-Verfahren steuern.** Risiko widersprüchlicher Maßnahmen; präventive Konsolidierung über Verpflichtungszusagen Art. 73 DSA.
+5. **Stellungnahmen koordinieren.** Identische Sachverhaltsbasis, behördenspezifische Rechtsausführungen, klare Zitierung der jeweiligen Zuständigkeit.
+6. **Schnittstelle zur EU-Kommission.** Bei VLOPs (Art. 33 ff. DSA) ist die EU-Kommission ausschließlich zuständig für Pflichten Kap. III Abschn. 5 DSA; nationale Behörden werden nur unterstützend tätig.
+7. **Gemeinsame Untersuchungen.** Art. 60 DSA und § 23 DDG erlauben behördenübergreifende Aktionen; anwaltliche Aufgabe ist die Forderung nach klarer Zuständigkeitsklärung.
+8. **Rechtsschutz.** Pro Behörde gesondert: VG Köln (BNetzA), VG des Sitzbundeslandes (Landesmedienanstalt), VG Köln (BfDI). Gefahr von Parallelklagen.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Anzeige an BNetzA mit zeitgleicher Cc an BzKJ und Landesmedienanstalt.
+- Stellungnahme einer Plattform an BNetzA mit Verweis auf gemeinsame Aufsicht § 17 DDG.
+- Antrag auf Konsolidierung der Verfahren (Verpflichtungszusagen-Vorschlag).
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- DDG-Originaltext (BGBl. 2024 I Nr. 149).
+- BNetzA- und BzKJ-Webseite, KJM-Spruchpraxis, BfDI-Tätigkeitsbericht.
+- VG Köln, VG Berlin, VG des Bundeslandes des Landesmedienanstalt-Sitzes – Entscheidungen mit Az., Datum, Fundstelle.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Zuständigkeitsmatrix.
+- Stellungnahme oder Anzeige pro betroffener Behörde.
+- Eskalationsplan und Kommunikationspfad.
+
+## Beispiele
+- Plattform bietet altersinkompatible Werbung. Federführung BzKJ, Mitwirkung BNetzA und Landesmedienanstalt; Verfahrenskonsolidierung über Verpflichtungszusagen.
+- Soziales Netzwerk bei Werbeprofilbildung. Federführung BfDI (DSGVO), Mitwirkung BNetzA (Art. 26 DSA).
+- VLOP-Verfahren mit nationaler Ergänzung: BNetzA stellt nur informationelle Anfragen, EU-Kommission führt das Hauptverfahren.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Zuständigkeitsmatrix vollständig? § 17 DDG-Beteiligungsrechte gewahrt? Parallel-Risiko adressiert (z. B. Rangfolge der Stellungnahmen)? Mandant über alle Beschwerdewege informiert?

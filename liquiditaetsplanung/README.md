@@ -16,81 +16,12 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [`testakte-beispielakte-edelholz-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+| **Forschungszulage Riedblick Sensorik GmbH** (`forschungszulage-sensorik-startup-taunus`) | [Gesamt-PDF lesen](../testakten/forschungszulage-sensorik-startup-taunus/gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) | [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
 | **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 **Eigenständiges Power-Plugin** für wochenaktuelle Liquiditätsvorschauen nach deutschem Recht (§§ 17, 18, 19 InsO; § 1 StaRUG; BGH-Schema Passiva II). Funktioniert allein. Ergänzt sich optional mit `insolvenzrecht` und `steuerrecht-anwalt-und-berater`, hängt aber nicht von ihnen ab.
-
----
-
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| **Liquiditätsplanung** (`liquiditaetsplanung`, dieses Plugin) | [liquiditaetsplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
-| insolvenzrecht | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
-| steuerrecht-anwalt-und-berater | [steuerrecht-anwalt-und-berater.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
-
-Die URLs sind **stabil** und zeigen immer auf die neueste Version. Alle weiteren Plugins (Vertragsrecht, Datenschutz, Arbeitsrecht, …) sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-Hinweis: Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus **Code → Download ZIP** verwenden.
-
-### Lokale Voraussetzungen für Excel-Export
-
-Das Werkzeug `skills/liquiditaetsvorschau-3-6-12-monate/werkzeuge/build_liquiditaetsplan.py` erzeugt die gerichtsfeste `.xlsx`-Datei mit Formeln und bedingter Formatierung. **Es braucht kein `pip install`** — der XLSX-Schreiber ist in reiner Python-Standardbibliothek (`zipfile`, `xml.etree`) implementiert und läuft auf jedem Python 3.8+ direkt:
-
-```bash
-python3 werkzeuge/build_liquiditaetsplan.py --eingabe mandant.yaml --ausgabe plan.xlsx
-```
-
-PyYAML wird automatisch genutzt wenn vorhanden, sonst greift ein eingebauter Mini-YAML-Parser. JSON-Eingaben funktionieren ohnehin ohne Zusatzpaket.
-
-### Zum Ausprobieren: Beispielakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-[testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip)
-
-Enthält Firmenstammblatt, BWA, SuSa, OPOS, Bankauszüge, Steuer-/SV-Lage und einen fertigen Liquiditätsplan der fiktiven Edelholz Manufaktur Berlin GmbH.
-
-Alternativ als ganzes Marketplace:
-
-```bash
-# Marketplace-Manifest aus dem Release ziehen
-curl -L -O https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json
-```
 
 ---
 
@@ -193,26 +124,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `liquiditaetsvorschau-3-6-12-monate` | Rollierende Liquiditaetsvorschau fuer 3/6/12 Monate mit Fortfuehrungsprognose, Wochenraster, Excel-Export und Quellenhygiene. Rechtsprechung nur nach Live-Pruefung. |
 | `liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung. |
 | `liquiditaetsvorschau-insolvenzrechtlich` | Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `spezial-ampel-zahlen-schwellen-und-berechnung` | Ampel: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ausgabengruppen-fristennotiz-und-naechster-schritt` | Ausgabengruppen: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dokumentationspaket-compliance-dokumentation-und-akte` | Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-excel-behoerden-gericht-und-registerweg` | Excel: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-export-schriftsatz-brief-und-memo-bausteine` | Export: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-forecast-risikoampel-und-gegenargumente` | Forecast: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fortbestehensprognose-international-schnittstellen` | Fortbestehensprognose: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenzrecht-formular-portal-und-einreichung` | Insolvenzrecht: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-liqui-sonderfall-und-edge-case` | Liqui: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-liquiditaetsplanung-erstpruefung-und-mandatsziel` | Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-ampel-zahlen-schwellen-und-berechnung` | Ampel: Zahlen, Schwellenwerte und Berechnung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ausgabengruppen-fristennotiz-und-naechster-schritt` | Ausgabengruppen: Fristennotiz und nächster Schritt im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dokumentationspaket-compliance-dokumentation-und-akte` | Dokumentationspaket: Compliance-Dokumentation und Aktenvermerk im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-excel-behoerden-gericht-und-registerweg` | Excel: Behörden-, Gerichts- oder Registerweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-export-schriftsatz-brief-und-memo-bausteine` | Export: Schriftsatz-, Brief- und Memo-Bausteine im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-forecast-risikoampel-und-gegenargumente` | Forecast: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fortbestehensprognose-international-schnittstellen` | Fortbestehensprognose: Internationaler Bezug und Schnittstellen im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-insolvenzrecht-formular-portal-und-einreichung` | Insolvenzrecht: Formular, Portal und Einreichungslogik im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-liqui-sonderfall-und-edge-case` | Liqui: Sonderfall und Edge-Case-Prüfung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-liquiditaetsplanung-erstpruefung-und-mandatsziel` | Liquiditaetsplanung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-liquiditaetsstatus-quellenbelege` | Liquiditätsstatus nur aus belastbaren Quellenbelegen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-live-mandantenkommunikation-entscheidungsvorlage` | Live: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-luecken-livequellen-und-rechtsprechungscheck` | Luecken: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-quote-verhandlung-vergleich-und-eskalation` | Quote: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsprechung-red-team-und-qualitaetskontrolle` | Rechtsprechung: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verifikation-beweislast-und-darlegungslast` | Verifikation: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vorschau-dokumentenmatrix-und-lueckenliste` | Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wochen-fristen-form-und-zustaendigkeit` | Wochen: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-live-mandantenkommunikation-entscheidungsvorlage` | Live: Mandantenkommunikation und Entscheidungsvorlage im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-luecken-livequellen-und-rechtsprechungscheck` | Luecken: Livequellen- und Rechtsprechungscheck im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-quote-verhandlung-vergleich-und-eskalation` | Quote: Verhandlung, Vergleich und Eskalation im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsprechung-red-team-und-qualitaetskontrolle` | Rechtsprechung: Red-Team und Qualitätskontrolle im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verifikation-beweislast-und-darlegungslast` | Verifikation: Beweislast, Darlegungslast und Substantiierung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vorschau-dokumentenmatrix-und-lueckenliste` | Vorschau: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wochen-fristen-form-und-zustaendigkeit` | Wochen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin liquiditaetsplanung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin liquiditaetsplanung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin liquiditaetsplanung: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

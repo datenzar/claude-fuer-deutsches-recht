@@ -3,36 +3,57 @@ name: digital-services-datenzugang-forscher-dsa
 description: "Digital Services / Datenzugang Forscher DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Datenzugang Forscher DSA
+# Datenzugang für Forschung nach Art. 40 DSA
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Begleitung des Datenzugangsverfahrens für unabhängige Forschung gem. Art. 40 DSA gegenüber sehr großen Online-Plattformen (VLOPs) und sehr großen Online-Suchmaschinen (VLOSEs). Adressat des Antrags ist der Digital Services Coordinator (DSC) am Sitz der Plattform oder am Sitz der Forschungsorganisation. In Deutschland ist die Bundesnetzagentur DSC (§ 12 DDG). Anwaltliche Rollen: Beratung der antragstellenden Forschungseinrichtung, Beratung der angefragten Plattform (Schutz von Geschäftsgeheimnissen, Datenschutz, Sicherheit), Beratung der BNetzA-Schnittstelle (selten direkt).
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Antragstellerstatus (akkreditierter Forscher i. S. v. Art. 40 Abs. 8 DSA, Forschungsorganisation, NGO).
+- Forschungsfrage und Bezug zu Systemrisiken nach Art. 34 DSA.
+- Art und Umfang der gewünschten Daten (öffentlich zugängliche Daten Art. 40 Abs. 12 DSA vs. interne Plattformdaten Art. 40 Abs. 4 DSA).
+- Datenschutzschema, Sicherheitsmaßnahmen, Ethikvotum.
+- Plattform (VLOP/VLOSE-Status verifizieren).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- Art. 40 DSA (Datenzugang für Forschung).
+- Art. 34/35 DSA (Systemrisiken; nur diese Risiken sind zulässiger Forschungsgegenstand für den qualifizierten Zugang).
+- Delegierte Verordnung Art. 40 Abs. 13 DSA (Modalitäten; konkret vom Anwender im EUR-Lex zu verifizieren).
+- §§ 12, 18, 22 DDG (BNetzA-Befugnisse als DSC).
+- Art. 5, 6, 9, 25, 32, 89 DSGVO (Datenschutz, Forschungsprivileg).
+- §§ 17, 19 GeschGehG (Geschäftsgeheimnisse).
+- Art. 13 GRCh (Freiheit der Wissenschaft).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Datenzugang Forscher DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Status klären.** Akkreditierte Forscher müssen unabhängig, qualifiziert und an einer wissenschaftlichen Einrichtung tätig sein und ein Forschungsethikvotum vorlegen.
+2. **Anfrage-Stufen.** Stufe 1: öffentlich verfügbare Daten via Schnittstelle Art. 40 Abs. 12 DSA (Echtzeit-Inhalte, ohne Akkreditierung). Stufe 2: qualifizierter Zugang zu sensiblen Daten Art. 40 Abs. 4 DSA (mit Akkreditierung über DSC).
+3. **Forschungsdesign.** Forschungsfrage muss Bezug zu Systemrisiken nach Art. 34 DSA (rechtswidrige Inhalte, Grundrechtsrisiken, demokratische Prozesse, Minderjährigenschutz) haben.
+4. **Antrag formulieren.** Datenkatalog, Methodik, Sicherheitsplan, Anonymisierungsplan, Veröffentlichungsplan, Speicherort.
+5. **Plattform-Stellungnahme.** Plattform kann nach Art. 40 Abs. 5 DSA Modifikation oder Ablehnung verlangen, wenn schwerwiegende Sicherheits- oder Vertraulichkeitsrisiken bestehen.
+6. **DSC-Entscheidung.** BNetzA stellt nach §§ 12, 22 DDG eine Anordnung an die Plattform aus; Verfahren ist neu und derzeit in Aufbau.
+7. **Schutzauflagen.** Pseudonymisierung, technische Zugangsbeschränkung (Clean Room, Sandbox), Verbot von Re-Identifizierung, Veröffentlichungsklausel.
+8. **Rechtsschutz.** Plattform: VG Köln gegen Anordnung; Forscher: Untätigkeitsklage § 75 VwGO oder Verpflichtungsklage.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Antrag der Forschungseinrichtung an den DSC: Identität, Akkreditierungsnachweis, Forschungsfrage, Methodik, Datenkatalog, Schutzkonzept, Ethikvotum.
+- Stellungnahme der Plattform: Risiken, vorgeschlagene Modifikation, Alternativ-Datensatz, Pseudonymisierungsvorschlag.
+- DSC-Anordnung (Entwurf für interne Kommentierung): Adressat, Datenset, Modalitäten, Schutzauflagen, Berichtspflichten, Sanktionen bei Verstoß.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- EUR-Lex-Originaltext der DSA-VO und der delegierten Verordnungen.
+- Mitteilungen der EU-Kommission und Berichte des Europäischen Gremiums (Art. 64 DSA).
+- BNetzA-Praxis vom Anwender zu verifizieren.
+- Zitierweise gemäß `references/zitierweise.md`.
+
+## Ausgabeformat
+- Datenzugangs-Antragsdossier (15–40 Seiten inkl. Anlagen).
+- Schutzkonzept (separat als Anlage).
+- Risikomatrix (Datenschutz, Geheimnisschutz, Sicherheit).
+
+## Beispiele
+- Universität untersucht Empfehlungsdynamik im Vorfeld einer Wahl. Antrag bezieht sich auf Art. 34 Abs. 1 lit. c DSA (negative Auswirkungen auf Wahlprozesse).
+- Forschungsverbund will Werbedaten zu Minderjährigenwerbung analysieren. Bezug Art. 34 Abs. 1 lit. d DSA.
+- Plattform schlägt vor, Daten in einer Clean Room-Umgebung der Plattform bereitzustellen. Forscher widerspricht wegen Unabhängigkeitsbedenken; DSC vermittelt.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Akkreditierung sichergestellt? Bezug zu Art. 34 DSA explizit? Datenschutzfolgenabschätzung vorgenommen? Geheimnisschutzkonzept implementierbar? Veröffentlichungsplan transparent?

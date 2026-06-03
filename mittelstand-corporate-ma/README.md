@@ -19,30 +19,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Share Deal Pellbach Werkzeugbau GmbH & Co. KG — Familiennachfolge mit PE-Beteiligung, Earn-Out, MAC** (`share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge`) | [Gesamt-PDF lesen](../testakten/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge/gesamt-pdf/share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-share-deal-familienunternehmen-pellbach-werkzeugbau-passau-nachfolge.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Technischer Plugin-Name: `mittelstand-corporate-ma`.
 
 Dies ist das freistehende Corporate/M&A-Plugin für mittelständische Kanzleien für den gesamten Transaktionslebenszyklus: Intake, Aktenanlage, Konflikt-/GwG-/Sanktionscheck, Datenraum, Due Diligence, Tabellenreview, Liquiditätsvorschau, Insolvenzreife, Q&A, SPA/APA, Disclosure Schedules, Signing, Closing, W&I, Public M&A, Fusionskontrolle, Investitionskontrolle, Umwandlungsrecht, Umwandlungssteuerrecht, KG/GmbH & Co. KG, StaRUG, Insolvenzplan, Distressed M&A, Board Paper, PMI, Deal-PMO, Billing, XRechnung/ZUGFeRD-Vorbereitung, GoBD-Protokoll und Closing Bible.
 
 **Wichtig:** Dieses Plugin funktioniert vollständig allein. Alle Kernabläufe, Hilfstabellen, Prüfungsschablonen und Workflows liegen im Plugin selbst; für die hier beschriebenen M&A-Workflows ist keine Zusatzinstallation nötig.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Mittelständische Kanzlei Corporate/M&A (`mittelstand-corporate-ma`) | [mittelstand-corporate-ma.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/mittelstand-corporate-ma.zip) |
 
 ## Installation
 
@@ -146,11 +127,51 @@ Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 94 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Mittelstand Corporate Ma-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeit... |
+| `beirat-abgrenzung-aufsichtsrat` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-amtszeit-und-rotation` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beratungsfunktion` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beschlussfassung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-beschlussmaengel` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-bestellung-und-abberufung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-budget-und-businessplan` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-compliance-und-internal-investigation` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-entscheidungsbefugnisse` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-fakultativer-aufsichtsrat-52-gmbhg` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-familiengesellschaft` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Familiengesellschaft; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsfuehrerabberufung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Geschaeftsfuehrerabberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsfuehrerbestellung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Geschaeftsfuehrerbestellung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-geschaeftsordnung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Geschaeftsordnung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-haftung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-informationsrechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-insolvenznaehe` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-interessenkonflikte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-kaltstart-und-zielbild` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Kaltstart Und Zielbild; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-katalog-wesentlicher-geschaefte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Katalog Wesentlicher Geschaefte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-kontrollfunktion` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Kontrollfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-mitbestimmung-abgrenzung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-musterklauseln` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-nachfolge` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-private-equity-investor` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-red-team-satzung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Red Team Satzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-register-und-notar` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-satzungsgrundlage` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Satzungsgrundlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-sitzung-und-protokoll` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Sitzung Und Protokoll; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-startup-investor-director` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-streit-gesellschafter` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Streit Gesellschafter; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-transaktionen-ma` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Transaktionen M&A; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verguetung` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verguetung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-verschwiegenheit` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Verschwiegenheit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-veto-rechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Veto Rechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
+| `beirat-zustimmungsvorbehalte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Zustimmungsvorbehalte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `mittelstand-corporate-ma-automation-monitoring` | Mandant oder Kanzlei will Deal-Aktivitaeten automatisch tracken: Datenraum-Neuzugaenge Fristen Q&A MAR-Signale PMI-Aufgaben. Normen MAR VO 596/2014 §§ 35-44 GWB Insiderlisten. Prüfraster Datenraum-Monitor CP-Deadline-Kalender Register-Up... |
 | `mittelstand-corporate-ma-billing-narratives` | Kanzlei erstellt Rechnung für M&A-Mandat und braucht praezise zeitgerechte Leistungsbeschreibungen: Time Narratives Phasenbudgets Workstream-Rechnungen Cap/Success-Fee-Berechnung. Normen RVG §§ 1 ff. BRAO § 49b AO-Steuerrecht. Prüfraster... |
 | `mittelstand-corporate-ma-board-paper-business-judgment` | Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informations... |

@@ -19,26 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Insolvenzforderungsanmeldungsprüfung Phoenix Solar Montage GmbH** (`insolvenzforderungsanmeldungspruefung-phoenix-solar`) | [Gesamt-PDF lesen](../testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/gesamt-pdf/insolvenzforderungsanmeldungspruefung-phoenix-solar_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Freistehendes Cowork-Plugin für die Prüfung von Insolvenzforderungen vom Eingang bis zur Tabellenfeststellung. Es ist ein vollständiger Arbeitsraum für Verwalterbüro, Sachwaltung, Forderungsmanagement und Prozessnachlauf: Anmeldung erfassen, Mängel erkennen, Belege nachfordern, Grund, Betrag und Rang prüfen, Entscheidung dokumentieren, Tabelle befüllen, Prüfungstermin vorbereiten, Bestreiten oder Feststellung ausgeben und streitige Forderungen bis zur Verteilung nachhalten.
-
-## Direkt herunterladen
-
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzforderungsanmeldungspruefung.zip)
-- [Testakte Phoenix Solar](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip)
-- [Vorschau lokal öffnen](./assets/vorschau/index.html)
 
 ## Wofür das Plugin gedacht ist
 
@@ -123,25 +104,25 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `ifap-tabellenimport-175` | Tabelleneintrag und Tabellenimport nach § 175 InsO: Anwendungsfall Forderungen sind geprüft und muessen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. § 175 InsO Tabelle, § 176 InsO Pr... |
 | `ifap-vbuh-pruefung` | Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstra... |
 | `ifap-verteilung-bestrittene-189` | Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. § 189 InsO Berücksichtigu... |
-| `spezial-belege-dokumentenmatrix-und-lueckenliste` | Belege: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bestreiten-mehrparteien-konflikt-und-interessen` | Bestreiten: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-betrag-behoerden-gericht-und-registerweg` | Betrag: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-feststellung-internationaler-bezug-und-schnittstellen` | Feststellung: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-belege-dokumentenmatrix-und-lueckenliste` | Belege: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bestreiten-mehrparteien-konflikt-und-interessen` | Bestreiten: Mehrparteienkonflikt und Interessenmatrix im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-betrag-behoerden-gericht-und-registerweg` | Betrag: Behörden-, Gerichts- oder Registerweg im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-feststellung-internationaler-bezug-und-schnittstellen` | Feststellung: Internationaler Bezug und Schnittstellen im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-forderungsgrund-rang-und-belegpruefung` | Forderungsgrund, Rang und Belegprüfung zur Tabelle: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-grund-risikoampel-und-gegenargumente` | Grund: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ifap-mandantenkommunikation-entscheidungsvorlage` | Ifap: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-inso-fristen-form-und-zustaendigkeit` | InsO: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenzforderungsanmeldungspruefung-erstpruefung` | Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-intake-tatbestand-beweis-und-belege` | Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanalcheck-beweislast-und-darlegungslast` | Kanalcheck: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-masseverbindlichkeit-sonderfall-und-edge-case` | Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-nachforderungen-livequellen-und-rechtsprechungscheck` | Nachforderungen: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pruefungstermin-compliance-dokumentation-und-akte` | Pruefungstermin: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rang-schriftsatz-brief-und-memo-bausteine` | Rang: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-tabellenauszug-formular-portal-und-einreichung` | Tabellenauszug: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-tabellenimport-zahlen-schwellen-und-berechnung` | Tabellenimport: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Vbuh: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verteilung-red-team-und-qualitaetskontrolle` | Verteilung: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-grund-risikoampel-und-gegenargumente` | Grund: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ifap-mandantenkommunikation-entscheidungsvorlage` | Ifap: Mandantenkommunikation und Entscheidungsvorlage im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-inso-fristen-form-und-zustaendigkeit` | InsO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-insolvenzforderungsanmeldungspruefung-erstpruefung` | Insolvenzforderungsanmeldungspruefung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austau... |
+| `spezial-intake-tatbestand-beweis-und-belege` | Intake: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanalcheck-beweislast-und-darlegungslast` | Kanalcheck: Beweislast, Darlegungslast und Substantiierung im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-masseverbindlichkeit-sonderfall-und-edge-case` | Masseverbindlichkeit: Sonderfall und Edge-Case-Prüfung im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-nachforderungen-livequellen-und-rechtsprechungscheck` | Nachforderungen: Livequellen- und Rechtsprechungscheck im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pruefungstermin-compliance-dokumentation-und-akte` | Pruefungstermin: Compliance-Dokumentation und Aktenvermerk im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rang-schriftsatz-brief-und-memo-bausteine` | Rang: Schriftsatz-, Brief- und Memo-Bausteine im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tabellenauszug-formular-portal-und-einreichung` | Tabellenauszug: Formular, Portal und Einreichungslogik im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tabellenimport-zahlen-schwellen-und-berechnung` | Tabellenimport: Zahlen, Schwellenwerte und Berechnung im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vbuh-verhandlung-vergleich-und-eskalation` | Vbuh: Verhandlung, Vergleich und Eskalation im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verteilung-red-team-und-qualitaetskontrolle` | Verteilung: Red-Team und Qualitätskontrolle im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin insolvenzforderungsanmeldungspruefung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin insolvenzforderungsanmeldungspruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin insolvenzforderungsanmeldungspruefung: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

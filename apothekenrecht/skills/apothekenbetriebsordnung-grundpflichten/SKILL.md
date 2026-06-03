@@ -5,34 +5,102 @@ description: "Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen
 
 # Apothekenbetriebsordnung Grundpflichten
 
-## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
+Die Apothekenbetriebsordnung (ApBetrO) regelt sämtliche operative Pflichten beim Betrieb einer öffentlichen Apotheke: Räume, Personal, Sortiment, Beratung, Dokumentation, Qualitätsmanagement (QMS), Hygiene, Defektur und Rezeptur. Dieser Skill fasst die zwölf zentralen Grundpflichten in einer Checkliste zusammen, die zur Selbstüberprüfung oder zur Antwort auf eine Apothekenrevision dient.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Apothekenbetriebsordnung Grundpflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Vorbereitung einer Apothekenrevision durch die Landesaufsicht.
+- Übernahme einer Apotheke und Bestandsaufnahme.
+- Anhörung wegen Beanstandung (z. B. fehlende Plausibilitätsprüfung, Hygienemängel).
+- Neu zugelassener Apotheker, der die Mindeststandards rekapitulieren muss.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+Eingaben:
+- Letzter Revisionsbericht (sofern vorhanden).
+- Aktuelles QM-Handbuch der Apotheke, SOP-Liste, Schulungsnachweise.
+- Inventar Räume (Offizin, Labor, Nachtdienstraum, Lager, Beratungszone).
+- Personalstruktur (Apotheker, PTA, PKA, Auszubildende, Boten).
+- Sortimentsstruktur (Rx, OTC, BtM, apothekenpflichtige, freiverkäufliche Waren, apothekenübliche Waren).
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Rechtlicher Rahmen
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+- **§ 1a ApBetrO:** Begriffsbestimmungen.
+- **§ 2 ApBetrO:** Apothekenleiter (Aufgaben, Verantwortung, Vertretung).
+- **§ 2a ApBetrO:** Qualitätsmanagementsystem (QMS) — Pflicht zur SOP-Dokumentation, Selbstinspektion.
+- **§ 3 ApBetrO:** Apothekenpersonal (Apotheker, PTA, PKA; Vertretung; Schulungen).
+- **§ 4 ApBetrO:** Beschaffenheit, Größe und Einrichtung der Apothekenbetriebsräume; Mindestgrundfläche.
+- **§ 5 ApBetrO:** Hygienemaßnahmen.
+- **§ 6 ApBetrO:** Allgemeine Vorschriften über die Herstellung und Prüfung.
+- **§§ 7–8 ApBetrO:** Rezeptur und Defektur.
+- **§ 11 ApBetrO:** Sonderregelungen für die Abgabe (z.B. Notfall, Versand).
+- **§ 12 ApBetrO:** Verschreibung und Abgabe (Form, Plausibilitätsprüfung am Rezept).
+- **§ 16 ApBetrO:** Lagerung — Ordnung, Trennung, Temperaturkontrolle, Kühlkette.
+- **§ 17 ApBetrO:** Erwerb und Abgabe von Arzneimitteln.
+- **§ 18 ApBetrO:** Dokumentationspflichten Rezeptur, Defektur, BtM.
+- **§ 20 ApBetrO:** Information und Beratung beim Abgabevorgang.
+- **§ 21 ApBetrO:** Apothekenübliche Dienstleistungen (z.B. pharmazeutische Dienstleistungen).
+- **§ 25 ApBetrO:** Apothekenübliche Waren (Abgrenzungskatalog).
+- **§§ 34 ff. ApBetrO:** Krankenhausapotheken (Personal § 28, Räume § 29).
+
+## Workflow / Schritt für Schritt
+
+1. **Räume (§ 4 ApBetrO):** Offizin, Laboratorium, ausreichender Lagerraum und Nachtdienstzimmer; Gesamt-Grundfläche der Betriebsräume mindestens 110 Quadratmeter (§ 4 Abs. 2 Satz 3 ApBetrO). Keine fixe Einzelflächenvorgabe pro Raum; Laboratorium mit Abzug/Absaugvorrichtung. Behindertenzugang; abschliessbarer BtM-Schrank.
+2. **Personal (§ 3 ApBetrO, § 7 ApoG):** Apothekerleitung anwesend oder vertretungsbefugt. PTA-Tätigkeit unter Apothekeraufsicht; Vertretungsregelung dokumentiert.
+3. **QMS (§ 2a ApBetrO):** Schriftliches QM-Handbuch, SOPs für alle relevanten Prozesse (Annahme, Lagerung, Abgabe, Beratung, Notfall, Defektur, Rezeptur, Reklamation, Rückruf); regelmäßige Selbstinspektion.
+4. **Beratung (§ 20 ApBetrO):** Pflicht zur Information und Beratung bei jeder Abgabe. Bei Rx zusätzlich Plausibilitätsprüfung nach § 12 ApBetrO (Vollständigkeit der Verschreibung, Dosierung, Wechselwirkungen).
+5. **Dokumentation (§ 18 ApBetrO):** Prüfprotokoll für jede Rezeptur und jede Defektur. BtM-Buchführung (siehe Skill `btm-rezept-betaeubungsmittel-dokumentation`).
+6. **Lagerhaltung (§ 16 ApBetrO):** Trennung, FIFO, Temperaturkontrolle dokumentiert; Kühlkette nachweisbar (siehe Skill `kuehlkette-temperaturmonitoring-gdp`).
+7. **Sortiment (§ 25 ApBetrO):** Trennung Rx, OTC, apothekenpflichtig, apothekenüblich. Keine Drogeriewaren über apothekenüblichen Katalog hinaus.
+8. **Hygiene (§ 5 ApBetrO):** Reinigung dokumentiert, Hygieneplan nach RKI-Empfehlung.
+9. **Revisionsfähigkeit:** Alle Dokumente an einem Ort, drei Jahre Aufbewahrung (BtM zehn Jahre, § 13 BtMVV).
+
+## Trade-off-Matrix
+
+| Aspekt | Mindeststandard | Empfohlener Praxisstandard | Riskante Lücke |
+|---|---|---|---|
+| QM-Handbuch | vorhanden | jährlich aktualisiert | älter als drei Jahre, keine Datierung |
+| Plausibilitätsprüfung | dokumentiert | digitales Tool mit Audit-Trail | nur mündliche Plausibilisierung |
+| Temperatur Kühlkette | manuell zweimal täglich | digitale Logger mit Alarm | keine Lückenfüllung dokumentiert |
+| BtM-Buch | handschriftlich/elektronisch | elektronisches BtM-System | keine tägliche Saldierung |
+| Notfallplan | vorhanden | regelmässig geübt | nur Vorlage, nie geübt |
+
+## Praxistipps
+
+- Vor Revision Checkliste der letzten drei Revisionen abarbeiten — wiederkehrende Beanstandungen werden besonders kritisch geprüft.
+- Schulungen aller Mitarbeiter mindestens einmal jährlich dokumentieren; nicht nur Teilnahmebestätigung, sondern Inhalt und Schulungsdauer.
+- SOPs sollen kurz und verständlich sein, nicht jede ist sechs Seiten lang; lieber zehn klare als drei perfekte.
+- Behördliche Hinweisschreiben (z. B. BfArM-Rote-Hand-Briefe) im QM-System ablegen mit Eingangsdatum und Empfangsbestätigung.
+
+## Mustertexte
+
+### Stellungnahme zur Revisionsfeststellung "Plausibilitätsprüfung unzureichend" (Auszug)
+"Die in der Beanstandung vom [Datum] angesprochene Plausibilitätsprüfung bei der Abgabe vom [Datum] ist im System unter [Vorgangsnummer] dokumentiert. Geprüft wurden gemäss § 7 ApBetrO Indikation, Dosierung, Kontraindikation und Interaktion. Eine Sichtdokumentation als PDF-Export liegt als Anlage [Nr.] bei. Die Apothekenleitung hat zusätzlich am [Datum] eine SOP-Aktualisierung veranlasst (Anlage [Nr.])."
+
+### SOP-Kopfzeile (Vorlage)
+"SOP-Nr. [XX], Titel: [Prozess], Version: [n.n], Stand: [Datum], gültig ab: [Datum], Verantwortlich: [Name], freigegeben durch: [Apothekenleitung], Revisionszyklus: jährlich."
+
+## Typische Fehler
+
+- QM-Handbuch ist alt, SOPs verweisen auf Software, die nicht mehr genutzt wird.
+- Plausibilitätsprüfung wird mündlich erledigt, aber nicht dokumentiert; Behörde sieht keinen Nachweis.
+- Apothekenübliche Waren werden über § 25 ApBetrO hinaus angeboten (z. B. Tee, Lebensmittel ohne Indikation).
+- Temperaturlücke in der Kühlkette wird nicht dokumentiert; bei Audit als nicht GDP-konform beanstandet.
+- Personalengpass führt zu kurzfristiger Schliessung ohne Dienstbereitschaftsmeldung an die Aufsicht.
+
+## Querverweise
+
+- `apothekenrevision-vorbereitung-antwort` (Revisionsablauf)
+- `qualitaetsmanagement-qms-sops` (QMS-Tiefe)
+- `personal-pharmazeutisch-nichtpharmazeutisch-vertretung` (Personalstruktur)
+- `raeume-ausstattung-rezeptur-defektur-labor` (Räume)
+- `arzneimittelabgabe-verschreibungspflicht` (Abgabevorgang)
+- `apothekenuebliche-waren-abgrenzung` (Sortimentsgrenzen)
+
+## Quellen Stand 06/2026
+
+- ApBetrO, aktueller Stand zur Recherche im Bundesgesetzblatt.
+- BfArM-Bekanntmachungen zu Lieferengpässen, Hygiene, GDP — konkrete Bezeichnung vom Anwender zu verifizieren.
+- ABDA-Leitlinien und Empfehlungen (Bundesvereinigung Deutscher Apothekerverbände) — beratend, nicht verbindlich.
+- BGH und OVG-Rspr. zur Apothekenaufsicht, staend. Rspr.
+- Landesapothekerkammer-Merkblätter und Revisionsleitfäden (vom Anwender zu verifizieren).

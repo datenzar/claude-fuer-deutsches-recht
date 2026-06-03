@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Scheidung Wagenknecht / Luetzelberg — Patchwork, Wechselmodell-Streit, Zugewinn** (`scheidung-trennungsdrama-wagenknecht-luetzelberg`) | [Gesamt-PDF lesen](../testakten/scheidung-trennungsdrama-wagenknecht-luetzelberg/gesamt-pdf/scheidung-trennungsdrama-wagenknecht-luetzelberg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-scheidung-trennungsdrama-wagenknecht-luetzelberg.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Familienrecht (`fachanwalt-familienrecht`, dieses Plugin) | [fachanwalt-familienrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -132,26 +111,26 @@ Automatisch generierte Komplett-Liste aller 109 Skills in diesem Plugin. Beschre
 | `scheidungsverbund-va-fristenplan` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Scheidungsverbund VA Fristenplan. |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Scheidungsantrag, Unterhaltsklage, Sorgerechtsantrag, VA-Beschwerde: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
 | `soldatenversorgung-bundeswehr-schnittstelle` | Soldatenversorgung Bundeswehr Schnittstelle: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgun... |
-| `spezial-duesseldorfer-abschlussprodukt-und-uebergabe` | Duesseldorfer: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ehevertrag-red-team-und-qualitaetskontrolle` | Ehevertrag: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-eingetragene-mandantenkommunikation-entscheidungsvorlage` | Eingetragene: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ergaenzend-sonderfall-und-edge-case` | Ergaenzend: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-famfg-livequellen-und-rechtsprechungscheck` | Famfg: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-familiengericht-verhandlung-vergleich-und-eskalation` | Familiengericht: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-familienrecht-tatbestand-beweis-und-belege` | Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fristen-behoerden-gericht-und-registerweg` | Fristen: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-lebenspartnerschaft-beweislast-und-darlegungslast` | Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-literatur-schriftsatz-brief-und-memo-bausteine` | Literatur: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-mandate-risikoampel-und-gegenargumente` | Mandate: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sorge-compliance-dokumentation-und-akte` | Sorge: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-umgang-mehrparteien-konflikt-und-interessen` | Umgang: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-unterhalt-internationaler-bezug-und-schnittstellen` | Unterhalt: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-duesseldorfer-abschlussprodukt-und-uebergabe` | Duesseldorfer: Abschlussprodukt und Übergabe im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ehevertrag-red-team-und-qualitaetskontrolle` | Ehevertrag: Red-Team und Qualitätskontrolle im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-eingetragene-mandantenkommunikation-entscheidungsvorlage` | Eingetragene: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ergaenzend-sonderfall-und-edge-case` | Ergaenzend: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-famfg-livequellen-und-rechtsprechungscheck` | Famfg: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-familiengericht-verhandlung-vergleich-und-eskalation` | Familiengericht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-familienrecht-tatbestand-beweis-und-belege` | Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fristen-behoerden-gericht-und-registerweg` | Fristen: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-lebenspartnerschaft-beweislast-und-darlegungslast` | Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-literatur-schriftsatz-brief-und-memo-bausteine` | Literatur: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-mandate-risikoampel-und-gegenargumente` | Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sorge-compliance-dokumentation-und-akte` | Sorge: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-umgang-mehrparteien-konflikt-und-interessen` | Umgang: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-unterhalt-internationaler-bezug-und-schnittstellen` | Unterhalt: Internationaler Bezug und Schnittstellen im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik im Plugin fachanwalt familienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `steuerliche-folgen-externe-teilung` | Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgera... |
 | `tod-eines-ehegatten-anpassung-37-ff-versausglg` | Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Ver... |
 | `tod-nach-rechtskraft-vor-umsetzung` | Tod nach Rechtskraft vor Umsetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgera... |

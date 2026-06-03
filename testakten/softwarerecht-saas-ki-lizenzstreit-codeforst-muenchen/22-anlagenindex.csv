@@ -1,0 +1,8 @@
+Nr;Datei;Zweck;Status;Risiko
+A1;SaaS Master Agreement;Vertragliche Grundlage;liegt unterschrieben vor;Affiliate-/Audit-Lücke
+A2;Order Form;Lizenzmetrik und Preis;liegt vor;Named User unklar
+A3;SBOM;OSS-Prüfung;vorläufig;AGPL-Fund
+A4;Git Export;Rechtekette/Beweis;angefordert;private Vorarbeiten möglich
+A5;US Contractor Agreement;US-Rechtekette;liegt auszugsweise vor;Assignment fehlt
+A6;DPA;Datenschutz;nicht vollständig;Produktverbesserung unklar
+A7;Escrow Annex;Exit/Quellcode;liegt als Anlage vor;Trigger zu weich

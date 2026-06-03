@@ -1,17 +1,17 @@
 ---
 name: zitat-kommentar-randnummer
-description: "Kommentar mit Bearbeiter und Randnummer zitieren: Palandt/Gruenberg, BGB, 84. Aufl. 2025, § 433 Rn. 12. Bei Loseblatt-Kommentar Stand-Datum. Beispiele MueKo, BeckOK, Erfurter Kommentar."
+description: "Kommentar mit Bearbeiter und Randnummer nur bei vorliegender Nutzerquelle oder lizenziertem Live-Zugriff zitieren: Bearbeiter, Werk, aktuelle Auflage/Stand, Norm, Randnummer. Keine Kommentar-Rn. aus Modellwissen."
 ---
 
 # Kommentar mit Rn. zitieren
 
 ## Aufgabe
-Kommentar mit Bearbeiter und Randnummer zitieren: Palandt/Gruenberg, BGB, 84.
+Kommentarfundstellen nur dann sauber formatieren, wenn der konkrete Auszug, Datenbankexport oder ein dokumentierter Live-Zugriff vorliegt. Ohne Quelle nur einen Recherchehinweis ausgeben, keine Randnummer erfinden.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `zitierweise-deutsches-recht` zum Thema `zitat-kommentar-randnummer`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Kommentar mit Bearbeiter und Randnummer zitieren: Palandt/Gruenberg, BGB, 84. Aufl. 2025, § 433 Rn. 12. Bei Loseblatt-Kommentar Stand-Datum. Beispiele MueKo, BeckOK, Erfurter Kommentar..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `zitierweise-deutsches-recht` zum Thema `zitat-kommentar-randnummer`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Kommentar mit Bearbeiter und Randnummer zitieren: Grüneberg/Bearbeiter, BGB, aktuelle Auflage, § 433 Rn. 12. Bei Loseblatt-Kommentar Stand-Datum. Beispiele MueKo, BeckOK, Erfurter Kommentar..
 
 Arbeite deshalb fallnah:
 

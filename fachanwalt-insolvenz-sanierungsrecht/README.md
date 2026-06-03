@@ -19,26 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Großbach Druckguss & Präzision GmbH & Co. KG — Schutzschirm und StaRUG-Optionen** (`starug-schutzschirm-grossbach-druckguss-erfurt`) | [Gesamt-PDF lesen](../testakten/starug-schutzschirm-grossbach-druckguss-erfurt/gesamt-pdf/starug-schutzschirm-grossbach-druckguss-erfurt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-starug-schutzschirm-grossbach-druckguss-erfurt.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14 (idF nach Aufnahme StaRUG-Bereiche). Orientierung, Gläubigerantrag, Restrukturierungsplan StaRUG, Insolvenzanfechtung. Schnittstellen zum Plugin `insolvenzrecht` (operativ) und `steuerrecht-anwalt-und-berater`.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Insolvenz- und Sanierungsrecht (`fachanwalt-insolvenz-sanierungsrecht`, dieses Plugin) | [fachanwalt-insolvenz-sanierungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
 
 ## Installation in Claude Code
 
@@ -64,12 +45,15 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 57 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Insolvenz Sanierungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen k... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Insolvenz- und Restrukturierungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
+| `fa-inso-drittstaaten-anerkennung-registervollzug` | Fachanwaltlicher Spezialskill für Drittstaateninsolvenz in Deutschland: Anerkennung nach §§ 335 ff., 343 InsO, Inzidentprüfung, office holder, debtor in possession, GmbH-Anteile, Grundbuch, Handelsregister und Nachweispaket. |
+| `fa-insolvenz-npl-und-distressed-debt` | Prüft NPL-Kauf, distressed debt, Kreditdienstleister, Gläubigerstellung, Planmehrheiten, Anfechtung und Loan-to-own. |
+| `fa-insolvenz-schuldschein-und-lma` | Prüft Schuldschein- und LMA-Finanzierungen in Sanierung, Eigenverwaltung, StaRUG und Insolvenzplan. |
 | `fachanwalt-insolvenz-glaeubigerverhandlung-sanierung` | Sanierungs-Verhandlung mit Gläubigern vor und in der Insolvenz nach StaRUG und InsO. Anwendungsfall Schuldner will außergerichtlichen Vergleich oder InsO-Plan mit Gläubigern verhandeln. Normen § 270d InsO Schutzschirm §§ 4-65 StaRUG Rest... |
 | `fachanwalt-insolvenz-idw-s6-sanierungskonzept` | Erstellt und prüft Sanierungskonzepte auf IDW-S-6-Niveau aus anwaltlicher Sicht. Führt durch Fortbestehensprognose, Sanierungsfähigkeit, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpakete, integrierte Planung, kleinere... |
 | `fachanwalt-insolvenz-krypto-verwertung` | Workflow-Skill zu fachanwalt insolvenz krypto verwertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -86,30 +70,30 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `insanw-konzerninsolvenz-koordination-spezial` | Spezialfall Konzerninsolvenz §§ 3a ff. InsO: Gruppen-Gerichtsstand, Koordinationsverfahren, Konzern-Anfechtung. Pruefraster fuer mehrstufige Konzerne und auslaendische Tochtergesellschaften. |
 | `inso-anfechtung-zahlungsstrom-banken` | Spezialfall Insolvenzanfechtung Zahlungsstrom Banken: Konto-Korrent-Wirkung, Stehenlassen Kontokorrent, Verrechnung mit eigenen Forderungen, § 96 InsO. Pruefraster typischer Bankenfaelle und BGH-Linie 2024 ff. Schriftsatzbausteine. |
 | `inso-arbeitnehmer-und-betriebsuebergang` | Arbeitnehmer und Insolvenz: Insolvenzgeld bis 3 Monate, Sozialplan Hoechstgrenzen § 123 InsO, § 113 InsO Kuendigungsmaximum 3 Monate, Betriebsuebergang § 613a BGB im Insolvenz-Asset-Deal. Pruefraster und Mustertexte. Schnittstelle Arbeit... |
-| `inso-grenzueberschreitend-eu-eir` | Grenzueberschreitende Insolvenz nach EuInsVO 2015/848: Hauptverfahren und Sekundaerverfahren, COMI-Vermutung, Anerkennung, Verfahrenskoordination. Pruefraster fuer Konzern (Group Coordination Proceedings). Mustertexte fuer Antrag in DE w... |
+| `inso-grenzueberschreitend-eu-eir` | Grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und Abgrenzung zu Drittstaaten: Hauptverfahren, Sekundaerverfahren, COMI, automatische Anerkennung, Verwalterbefugnisse, Drittstaaten-Anerkennung nach §§ 335 ff., 343 InsO und Registe... |
 | `inso-grundzuege-verfahrenstypen` | Grundzuege Insolvenz- und Sanierungsverfahrenstypen: Regelinsolvenz, Eigenverwaltung mit oder ohne Schutzschirm, Insolvenzplan, StaRUG-Restrukturierungsplan, Verbraucherinsolvenz. Pro Typ: Schwelle, Antragsrecht, Akteure, Ablauf, typisch... |
 | `inso-kommunikation-glaeubiger` | Kommunikation mit Glaeubigern im Insolvenz- und StaRUG-Verfahren: Information, Verhandlung, Vergleichsangebot, Glaeubigerversammlung, Pruefungstermin. Strategie nach Glaeubigergruppen (Bank, Lieferant, Arbeitnehmer, Finanzamt, Sozialvers... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Insolvenzantrag, Anfechtungsklage, StaRUG-Restrukturierungsantrag: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-antragspflicht-schriftsatz-brief-und-memo-bausteine` | Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-berater-red-team-und-qualitaetskontrolle` | Berater: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-chronologie-abschlussprodukt-und-uebergabe` | Chronologie: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-eroeffnung-behoerden-gericht-und-registerweg` | Eroeffnung: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-glaeubigerantrag-verhandlung-vergleich-und-eskalation` | Glaeubigerantrag: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-inso-risikoampel-und-gegenargumente` | InsO: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenz-tatbestand-beweis-und-belege` | Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenzanfechtung-compliance-dokumentation-und-akte` | Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenzrecht-internationaler-bezug-und-schnittstellen` | Insolvenzrecht: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-krypto-mandantenkommunikation-entscheidungsvorlage` | Krypto: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsquellen-sonderfall-und-edge-case` | Rechtsquellen: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-restrukturierungsplan-zahlen-schwellen-und-berechnung` | Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sanierungsrecht-fristen-form-und-zustaendigkeit` | Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-starug-livequellen-und-rechtsprechungscheck` | StaRUG: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-steuerrecht-formular-portal-und-einreichung` | Steuerrecht: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-antragspflicht-schriftsatz-brief-und-memo-bausteine` | Antragspflicht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-berater-red-team-und-qualitaetskontrolle` | Berater: Red-Team und Qualitätskontrolle im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-chronologie-abschlussprodukt-und-uebergabe` | Chronologie: Abschlussprodukt und Übergabe im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-eroeffnung-behoerden-gericht-und-registerweg` | Eroeffnung: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-glaeubigerantrag-verhandlung-vergleich-und-eskalation` | Glaeubigerantrag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-inso-risikoampel-und-gegenargumente` | InsO: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-insolvenz-tatbestand-beweis-und-belege` | Insolvenz: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-insolvenzanfechtung-compliance-dokumentation-und-akte` | Insolvenzanfechtung: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprü... |
+| `spezial-insolvenzrecht-internationaler-bezug-und-schnittstellen` | Insolvenzrecht: Internationaler Bezug und Schnittstellen im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-krypto-mandantenkommunikation-entscheidungsvorlage` | Krypto: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-livecheck-fristennotiz-und-naechster-schritt` | Livecheck: Fristennotiz und nächster Schritt im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsquellen-sonderfall-und-edge-case` | Rechtsquellen: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-restrukturierungsplan-zahlen-schwellen-und-berechnung` | Restrukturierungsplan: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sanierungsrecht-fristen-form-und-zustaendigkeit` | Sanierungsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstellen-mehrparteien-konflikt-und-interessen` | Schnittstellen: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-starug-livequellen-und-rechtsprechungscheck` | StaRUG: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-steuerrecht-formular-portal-und-einreichung` | Steuerrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verwertung-beweislast-und-darlegungslast` | Verwertung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `starug-spezial-restrukturierungsplan` | StaRUG-Restrukturierungsplan im Detail: Planinhalt, Gruppenbildung, Cross-Class-Cram-Down nach § 26 StaRUG, gerichtliche Bestaetigung. Pruefraster fuer Plan, der nicht alle Glaeubigergruppen umfasst. Schnittstellen zu Insolvenzplan und v... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Insolvenz- und Restrukturierungsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-insolvenz-sanierungsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |

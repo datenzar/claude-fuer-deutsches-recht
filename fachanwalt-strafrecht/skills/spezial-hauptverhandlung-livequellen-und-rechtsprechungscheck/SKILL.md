@@ -1,6 +1,6 @@
 ---
 name: spezial-hauptverhandlung-livequellen-und-rechtsprechungscheck
-description: "Hauptverhandlung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Hauptverhandlung: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Hauptverhandlung: Livequellen- und Rechtsprechungscheck
@@ -19,6 +19,15 @@ Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Hauptv
 - Verständigung: § 257c StPO – formelles Verfahren, Mitteilung in HV § 243 Abs. 4 StPO, Aufzeichnung im Protokoll § 273 Abs. 1a StPO.
 - Hauptverhandlung Pausen/Unterbrechung: § 229 StPO – Unterbrechung höchstens 3 Wochen, sonst Neubeginn.
 - Praxis-Tipp: Strategiekarte HV in vier Phasen: (1) Eröffnung – Belastung minimieren durch Einlassung oder Schweigen, (2) Beweisaufnahme – Beweisanträge frühzeitig, mit hinreichender Substanz, (3) Schlussvorträge – konkrete Strafmaßforderung mit § 46 StGB-Argumenten, (4) letztes Wort – aktive Reue/Verantwortung kommunizieren, wenn Strategie. Protokollführung mitlaufen lassen, weil § 274 StPO nur das Protokoll als Beweis akzeptiert.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Hauptverhandlung.
+- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

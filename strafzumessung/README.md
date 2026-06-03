@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Strafzumessung Bankert — Untreue, LG Frankfurt / BGH Revision** (`strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung`) | [Gesamt-PDF lesen](../testakten/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung/gesamt-pdf/strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafzumessung-vermoegensdelikt-bankert-frankfurt-untreue-haupt-und-revisionsverhandlung.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin für die **Strafzumessung nach deutschem Strafrecht** — vom Strafbefehl bis zur großen Strafkammer. Adressaten: Strafverteidiger und Staatsanwaltschaft.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Strafzumessung (`strafzumessung`, dieses Plugin) | [strafzumessung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafzumessung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Worum geht es?
 
@@ -152,22 +131,22 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `orientierung-strafzumessung-triage` | Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilf... |
 | `paragraph-46-stgb-grundsatz-strafzumessung` | Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3).... |
 | `regelbeispiele-rechtsprechung` | Regelbeispielkataloge im Strafrecht. § 243 StGB Diebstahl (Einbruch, Bandentat, Gewerbsmaessigkeit, Sache von erheblichem Wert). § 263 Abs. 3 StGB Betrug (Gewerbsmaessigkeit, hoher Vermoegensverlust, Anschlag auf das Vermoegen, Wirtschaf... |
-| `spezial-besonders-formular-portal-und-einreichung` | Besonders: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bewaehrung-mehrparteien-konflikt-und-interessen` | Bewaehrung: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-freiheitsstrafe-compliance-dokumentation-und-akte` | Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-geldstrafe-zahlen-schwellen-und-berechnung` | Geldstrafe: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-grossen-risikoampel-und-gegenargumente` | Grossen: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-besonders-formular-portal-und-einreichung` | Besonders: Formular, Portal und Einreichungslogik im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bewaehrung-mehrparteien-konflikt-und-interessen` | Bewaehrung: Mehrparteienkonflikt und Interessenmatrix im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-deutschem-tatbestand-beweis-und-belege` | Deutschem: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-freiheitsstrafe-compliance-dokumentation-und-akte` | Freiheitsstrafe: Compliance-Dokumentation und Aktenvermerk im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-geldstrafe-zahlen-schwellen-und-berechnung` | Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-grossen-risikoampel-und-gegenargumente` | Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rechtsmittel-und-gesamtstrafenfolgen` | Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-regelbeispiele-internationaler-bezug-und-schnittstellen` | Regelbeispiele: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schwerer-red-team-und-qualitaetskontrolle` | Schwerer: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-stgb-schriftsatz-brief-und-memo-bausteine` | Stgb: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafkammer-behoerden-gericht-und-registerweg` | Strafkammer: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafrecht-fristen-form-und-zustaendigkeit` | Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafzumessung-erstpruefung-und-mandatsziel` | Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafzumessungstatsachen-vergleich-eskalation` | Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-tagessatz-livequellen-und-rechtsprechungscheck` | Tagessatz: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-regelbeispiele-internationaler-bezug-und-schnittstellen` | Regelbeispiele: Internationaler Bezug und Schnittstellen im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schwerer-red-team-und-qualitaetskontrolle` | Schwerer: Red-Team und Qualitätskontrolle im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-stgb-schriftsatz-brief-und-memo-bausteine` | Stgb: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafkammer-behoerden-gericht-und-registerweg` | Strafkammer: Behörden-, Gerichts- oder Registerweg im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafrecht-fristen-form-und-zustaendigkeit` | Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafzumessung-erstpruefung-und-mandatsziel` | Strafzumessung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafzumessungstatsachen-vergleich-eskalation` | Strafzumessungstatsachen: Verhandlung, Vergleich und Eskalation im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tagessatz-livequellen-und-rechtsprechungscheck` | Tagessatz: Livequellen- und Rechtsprechungscheck im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahrensstadium-strafbefehl-bis-kammer` | Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `strafbefehl-strafzumessung-407-stpo` | Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schae... |
 | `strafmilderung-49-stgb-zwingend-fakultativ` | Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfael... |

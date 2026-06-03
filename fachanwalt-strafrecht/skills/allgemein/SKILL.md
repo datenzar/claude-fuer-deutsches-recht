@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Strafrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Strafrecht-Plugin. Startet nicht nur Beratung und Strategie, sondern auch die tägliche Strafprozess-Durchführung: Fristenlog, Aktenlog, U-Haft, Akteneinsicht, Hauptverhandlungs-Tagesmappe, Antragslog, Mandanteninstruktionen, Rechtsmittel und Revisionssicherung. Bei Dokument-Upload ohne Begleittext ordnet der Skill das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
 ---
 
 <!-- konvers-stil-v1 -->
@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Strafre
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Fachanwalt Strafrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
+**Plugin-Fokus:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Berufung Revision Verfassungsbeschwerde plus tägliche Prozessführung: Fristen, Aktenlog, Haft, Akteneinsicht, HV-Organisation, Anträge, Mandantenkommunikation, Rechtsmittel, Vollstreckung. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -87,6 +87,27 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
 
+### 3a. Strafprozess-Operations-Modus
+
+Wenn der Nutzer nicht nur eine Rechtsfrage stellt, sondern eine laufende Strafakte führen will, schalte sofort in den Operations-Modus. Der Skill behandelt die Akte wie ein lebendes Verteidigungsprojekt: Heute sichern, morgen vorbereiten, nächste Woche sauber nachhalten.
+
+**Priorität bei jeder Strafakte:**
+
+1. **Freiheit und Frist:** U-Haft, Vorführung, Durchsuchung, Vernehmungstermin, Strafbefehl, Urteil, Beschluss, Rechtsmittel, Zustellung.
+2. **Akte und Beweise:** Akteneinsicht, Nachlieferungen, Sonderbände, digitale Datenträger, Asservate, Gutachten, Zeugen, Protokolle.
+3. **Mandant und Kommunikation:** Schweigerecht, Verhalten gegenüber Polizei/StA/Gericht, Familie/Arbeitgeber/Presse/Social Media, Haftbesuch.
+4. **Hauptverhandlung:** Tagesmappe, Sitzungsplan, Einlassung, Fragelisten, Beweisanträge, Widersprüche, Protokollierung, Revisionssicherung.
+5. **Abschluss:** Urteil, Rechtsmittelentscheidung, Bewährung, Auflagen, Zahlungen, Vollstreckung, Führungszeugnis, Mandantenbrief.
+
+**Standardausgabe im Operations-Modus:**
+
+- **Heute zuerst:** [ein bis drei zwingende Handlungen]
+- **Fristen/Wiedervorlagen:** [Datum, Norm, Verantwortlicher, Vorfrist]
+- **Aktenlog:** [neuer Eingang, Bedeutung, fehlende Teile]
+- **Verteidigungslinie:** [aktuelle Arbeitsannahme, nicht endgültige Bewertung]
+- **Nächster Skill:** `strafprozess-cockpit-taegliche-kanzleifuehrung` oder spezieller Strafprozess-Skill
+- **Eine Rückfrage:** nur wenn ohne sie ein falscher Schritt droht.
+
 ### 4. Antwortformat für den Einstieg
 
 Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
@@ -114,10 +135,23 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
+| `strafprozess-cockpit-taegliche-kanzleifuehrung` | Wenn eine laufende Strafakte nicht nur geprüft, sondern täglich gesteuert werden muss: Verfahrensstand, Fristen, Haft, Akteneinsicht, offene Anträge, Mandantenkommunikation, Termine und nächste Schritte in einer Verteidigungsübersicht. |
+| `strafprozess-aktenlog-fristen-und-wiedervorlagen` | Wenn Eingangspost, beA/EGVP, Ladungen, Beschlüsse, Strafbefehle, Urteile oder Nachlieferungen in ein belastbares Fristenbuch und Aufgabenlog überführt werden müssen. |
+| `strafprozess-ermittlungsverfahren-sofortmassnahmen` | Wenn Vorladung, Durchsuchung, Beschlagnahme, Festnahme, StA-/Polizeikontakt oder die erste Schweigerechts- und Akteneinsichtsstrategie sofort sitzen müssen. |
+| `strafprozess-akteneinsicht-nachlieferungen-und-sonderbaende` | Wenn Akteneinsicht nicht nur beantragt, sondern auf Vollständigkeit, Teilversagung, U-Haft-Mindestinformationen, Sonderbände, Asservate und digitale Beweise kontrolliert werden muss. |
+| `strafprozess-pflichtverteidigung-beiordnung-und-wechsel` | Wenn notwendige Verteidigung, Beiordnung, Vorschlagsrecht, Eilbestellung, Verteidigerwechsel oder Entpflichtung operativ durchgesetzt werden sollen. |
+| `strafprozess-haft-und-besuchsmanagement` | Wenn U-Haft, Haftprüfung, Haftbeschwerde, Haftverschonung, Besuch, Telefon, Post, Familie, Arbeitgeber und Beschleunigungskontrolle parallel organisiert werden müssen. |
+| `strafprozess-hv-tagesmappe-und-sitzungsplan` | Wenn eine Hauptverhandlung als Arbeitstag vorbereitet wird: Zeitplan, Zeugenprogramm, Fragelisten, Einlassungsentscheidung, Antragsentwürfe, Pausenstrategie und Nachbereitung. |
+| `strafprozess-antragslog-beweisantraege-und-widerspruch` | Wenn Beweisanträge, Beweisermittlungsanträge, Widersprüche, § 257-StPO-Erklärungen, Ablehnungsbeschlüsse und Revisionssicherung sauber nachgehalten werden müssen. |
+| `strafprozess-sitzungsprotokoll-und-revisionssicherung` | Wenn während oder nach der Hauptverhandlung Protokollierung, Verständigung, Belehrungen, Anträge, letztes Wort und mögliche Revisionsrügen gesichert werden müssen. |
+| `strafprozess-mandantenkommunikation-und-instruktionen` | Wenn der Mandant klare, knappe Verhaltensanweisungen zu Schweigen, Vernehmung, Haft, Hauptverhandlung, Arbeitgeber, Presse, Social Media oder Bewährung braucht. |
+| `strafprozess-rechtsmittel-und-notfristencockpit` | Wenn Strafbefehl, Berufung, Revision, sofortige Beschwerde, einfache Beschwerde, Wiedereinsetzung, Zustellung oder Empfangsbekenntnis fristensicher bearbeitet werden müssen. |
+| `strafprozess-verhandlungslog-sta-gericht-nebenklage` | Wenn Gespräche mit Staatsanwaltschaft, Gericht, Nebenklage, Bewährungshilfe oder Sachverständigen dokumentiert und taktisch sauber weitergeführt werden müssen. |
+| `strafprozess-abschluss-urteil-bewaehrung-vollstreckung` | Wenn nach Urteil, Einstellung oder Verständigung Rechtsmittel, Bewährung, Auflagen, Zahlungen, Vollstreckung, Führungszeugnisfolgen und Aktenabschluss organisiert werden müssen. |
 | `akteneinsicht-strafrecht-auswerten` | Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit… |
 | `erstgespraech-mandatsannahme` | Erstgespraeach und Mandatsannahme im Strafrecht: Anwendungsfall Beschuldigter oder Verdaechtiger meldet sich nach Polizeivorladung oder Festnahme und Strafverteidiger muss Mandat strukturiert aufnehmen. § 136 StPO… |
 | `fachanwalt-strafrecht-adhaesionsverfahren` | Adhaesionsverfahren § 403 StPO im Strafverfahren vorbereiten: Anwendungsfall Opfer will im Strafverfahren gleichzeitig Schmerzensgeld oder Schadensersatz geltend machen ohne separaten Zivilprozess. §§ 403-406c StPO… |
-| `fachanwalt-strafrecht-akteneinsicht-beantragen` | Akteneinsicht § 147 StPO durch Verteidiger jederzeit waehrend Ermittlungsverfahren und nach Abschluss. Versagungsgründe § 147 Abs. 2 StPO Gefaehrdung Untersuchungszweck. Beschuldigter selbst nur durch Verteidiger § 147… |
+| `fachanwalt-strafrecht-akteneinsicht-beantragen` | Akteneinsicht § 147 StPO sauber beantragen und gegen Teilversagung absichern: Verteidigerrecht, U-Haft-Mindestinformationen, nicht verteidigter Beschuldigter, Verletzteneinsicht, elektronische Akte und gerichtliche Entscheidung. |
 | `fachanwalt-strafrecht-anklage-reaktion` | Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO… |
 | `fachanwalt-strafrecht-chatcontrol-csam-anwaltsgeheimnis-53-stpo` | Chat-Control CSAM Anwaltsgeheimnis und § 53 StPO Zeugnisverweigerungsrecht: Anwendungsfall Kanzlei prüft ob Chat-Control-Massnahmen Anwaltsgeheimnis verletzen oder Mandatskommunikation abhoeren koennten. § 53 StPO… |
 | `fachanwalt-strafrecht-einlassung-vorbereiten` | Schriftliche Einlassung des Beschuldigten vorbereiten oder Schweigen § 136 StPO. Schweigerecht ist Grundrecht und darf nicht nachteilig gewertet werden BGH st. Rspr. Aber Teilschweigen kann gewürdigt werden. Strategie… |
@@ -145,3 +179,12 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 ---
 
 Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake und Routing strukturiert; die fachliche Endverantwortung bleibt beim zuständigen Menschen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

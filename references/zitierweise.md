@@ -1,4 +1,4 @@
-# Deutsche juristische Zitierweise und Quellenprüfung (v4.0)
+# Deutsche juristische Zitierweise und Quellenprüfung (v4.1)
 
 > Diese Datei ist die zentrale Referenz für alle Skills, Agenten und Cookbooks in diesem Repository. Sie ersetzt die frühere kommentar- und aufsatzfreundliche Fassung.
 >
@@ -11,7 +11,7 @@ Diese Regeln sind verbindlich:
 1. **Kein BeckRS aus dem Modell heraus.** `BeckRS 2024, 12345` darf nur übernommen werden, wenn der Nutzer die Fundstelle selbst liefert oder ein lizenzierter Live-Zugriff sie verifiziert. Sonst weglassen.
 2. **Keine Kommentar-Blindzitate.** Keine Rn. aus Grüneberg, MüKo, BeckOK, Staudinger, Erman, ErfK, Schaub, HWK, Maunz/Dürig, BeckOGK usw. erfinden.
 3. **Keine Aufsatz-Blindzitate.** Keine NJW-, NZA-, ZIP-, GRUR-, MMR-, ZD-, DStR- oder sonstigen Aufsatzfundstellen behaupten, wenn der konkrete Beitrag nicht vorliegt.
-4. **Kein aktueller Palandt/Pahlen.** Der frühere Palandt heißt seit der 81. Auflage 2022 Grüneberg. Historische Palandt-Zitate nur verwenden, wenn genau diese Altauflage vom Nutzer bereitgestellt wurde. `Pahlen` ist kein Ersatz.
+4. **Kein aktueller Palandt/Pahlen.** Der frühere Palandt heißt seit der 81. Auflage 2022 Grüneberg. Historische Palandt-Zitate nur verwenden, wenn genau diese Altauflage vom Nutzer bereitgestellt wurde. `Pahlen` ist kein Ersatz. In neu erzeugten Arbeitsergebnissen wird nicht mehr auf `Palandt` umgestellt, nur weil Alttexte das so vormachen.
 5. **Keine Rechtsprechung ohne Mindestdaten.** Gericht, Entscheidungsform, Datum und Aktenzeichen sind Pflicht. Fehlt eines davon, nicht als gesichertes Zitat ausgeben.
 6. **Keine Datenbanknummer als Ersatz für Prüfung.** BeckRS, juris, openJur, dejure oder sonstige Datenbankhinweise ersetzen nicht Datum und Aktenzeichen.
 7. **Keine erfundenen Parallelfundstellen.** NJW, NZA, ZIP, GRUR usw. nur als Parallelfundstelle nennen, wenn sie sicher bekannt oder verifiziert ist.
@@ -81,6 +81,7 @@ Kommentare, Handbücher, Monographien und Aufsätze bleiben in der deutschen Pra
 - aus dem Modell eine Randnummer zu Grüneberg, MüKo, BeckOK, Staudinger usw. zu erzeugen,
 - eine Auflage oder Edition zu behaupten, ohne sie geprüft zu haben,
 - einen Aufsatz mit Jahrgang/Seite zu zitieren, wenn der Beitrag nicht vorliegt.
+- ein Rechercheergebnis so zu formulieren, als sei ein Kommentar- oder Aufsatzzitat bereits geprüft, obwohl nur eine Erinnerungs- oder Modellwissensspur besteht.
 
 **Zulässiger Recherchehinweis:**
 
@@ -145,7 +146,17 @@ Gerichtsebene:
 - [ ] Gesetzesstand und Übergangsvorschriften geprüft?
 - [ ] Offene Unsicherheit ausdrücklich markiert?
 
-## 10. Kurzregel für Skills
+## 10. Skill-Hardening gegen Scheinpräzision
+
+Jeder Skill, der juristische Aussagen ausgibt, trennt drei Ebenen:
+
+1. **Gesichert:** Normtext, Nutzerdokument, amtliche/freie Quelle oder dokumentierter Livezugriff.
+2. **Plausibel, aber zu prüfen:** bekannte Linie oder Arbeitshypothese ohne gerade geöffneten Volltext.
+3. **Nicht verwenden:** Datenbanknummer, Kommentar-Randnummer, Aufsatzfundstelle oder Parallelfundstelle aus bloßem Modellwissen.
+
+Wenn eine Entscheidung, Fundstelle oder Behördenpraxis nicht gerade geprüft wurde, ist die Ausgabe als Prüfpunkt zu formulieren. Das ist kein Makel, sondern saubere anwaltliche Arbeitsweise.
+
+## 11. Kurzregel für Skills
 
 Wenn ein Skill juristische Quellen ausgibt, gilt:
 

@@ -19,19 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **KI-Richtlinie Musterkanzlei** (`ki-richtlinie-musterkanzlei`) | [Gesamt-PDF lesen](../testakten/ki-richtlinie-musterkanzlei/gesamt-pdf/ki-richtlinie-musterkanzlei_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-richtlinie-musterkanzlei.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Dieses Plugin erstellt und pflegt eine berufsrechtskonforme KI-Nutzungsrichtlinie für Kanzleien und Rechtsabteilungen mit Anwältinnen und Anwälten sowie Syndikus-Anwältinnen und Syndikus-Anwälten. Es beruht auf BRAO, BORA, DSGVO, KI-Verordnung sowie den Hinweisen der BRAK (Dezember 2024) und der DAV-Stellungnahme Nr. 32/2025.
 
 ---
@@ -148,21 +135,21 @@ Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschrei
 | `richtlinien-skelett-erzeugen` | KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO K... |
 | `richtlinien-update-zyklus` | KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neu... |
 | `schatten-ki-aufdeckung` | Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datensch... |
-| `spezial-anwaelten-behoerden-gericht-und-registerweg` | Anwaelten: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-berufsrechtskonforme-tatbestand-beweis-und-belege` | Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-beruht-verhandlung-vergleich-und-eskalation` | Beruht: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bora-zahlen-schwellen-und-berechnung` | Bora: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-brak-internationaler-bezug-und-schnittstellen` | Brak: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-brao-livequellen-und-rechtsprechungscheck` | Brao: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dsgvo-compliance-dokumentation-und-akte` | DSGVO: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hinweisen-formular-portal-und-einreichung` | Hinweisen: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzleien-dokumentenmatrix-und-lueckenliste` | Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-nutzungsrichtlinie-fristen-form-und-zustaendigkeit` | Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pflegt-erstpruefung-und-mandatsziel` | Pflegt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsabteilungen-risikoampel-und-gegenargumente` | Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-richtlinie-red-team-und-qualitaetskontrolle` | Richtlinie: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-syndikus-schriftsatz-brief-und-memo-bausteine` | Syndikus: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verordnung-mehrparteien-konflikt-und-interessen` | Verordnung: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-anwaelten-behoerden-gericht-und-registerweg` | Anwaelten: Behörden-, Gerichts- oder Registerweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-berufsrechtskonforme-tatbestand-beweis-und-belege` | Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-beruht-verhandlung-vergleich-und-eskalation` | Beruht: Verhandlung, Vergleich und Eskalation im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bora-zahlen-schwellen-und-berechnung` | Bora: Zahlen, Schwellenwerte und Berechnung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-brak-internationaler-bezug-und-schnittstellen` | Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-brao-livequellen-und-rechtsprechungscheck` | Brao: Livequellen- und Rechtsprechungscheck im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dsgvo-compliance-dokumentation-und-akte` | DSGVO: Compliance-Dokumentation und Aktenvermerk im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hinweisen-formular-portal-und-einreichung` | Hinweisen: Formular, Portal und Einreichungslogik im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzleien-dokumentenmatrix-und-lueckenliste` | Kanzleien: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-nutzungsrichtlinie-fristen-form-und-zustaendigkeit` | Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pflegt-erstpruefung-und-mandatsziel` | Pflegt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsabteilungen-risikoampel-und-gegenargumente` | Rechtsabteilungen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-richtlinie-red-team-und-qualitaetskontrolle` | Richtlinie: Red-Team und Qualitätskontrolle im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-syndikus-schriftsatz-brief-und-memo-bausteine` | Syndikus: Schriftsatz-, Brief- und Memo-Bausteine im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verordnung-mehrparteien-konflikt-und-interessen` | Verordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `transparenz-mandanten` | Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO... |
 | `urheberrecht-bausteine` | Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geist... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin ki-richtlinie-kanzleien: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |

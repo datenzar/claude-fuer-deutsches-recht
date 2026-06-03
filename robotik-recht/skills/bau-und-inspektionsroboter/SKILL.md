@@ -5,40 +5,85 @@ description: "Prüft Bau-, Inspektions- und Wartungsroboter: Baustelle, Arbeitss
 
 # Bau- und Inspektionsroboter
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+## Worum geht es konkret
 
-## Start
+Bau- und Inspektionsroboter (Vermessungs-Roboter, Mauerwerks-, 3D-Druck-, Schweiß-, Tunnel-Inspektion, Rohrleitungs-Crawler, Drohnen-Vermessung, Fassaden-Reinigungsroboter) bewegen sich in einem Spannungsfeld zwischen BaustellV/SiGeKo, MaschinenVO, Arbeitsschutzrecht, Bauvertragsrecht (VOB/B), Versicherungsrecht und – bei Drittschäden – allgemeinem Deliktsrecht (§ 823 BGB) sowie Verkehrssicherungspflichten. Dieser Skill ordnet die Pflichten der Akteure (Bauherr, Generalunternehmer, Subunternehmer, Verleiher des Roboters), liefert Vorlagen für Baustellenanweisungen und gibt Hilfen zur Beweissicherung bei Vorfällen.
 
-Kläre knapp:
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
+1. **Rolle:** Bauherr, Generalunternehmer, Subunternehmer, Verleiher des Roboters, Hersteller, SiGeKo, Versicherer, Geschädigter.
+2. **Robotertyp:** 3D-Druck-Roboter Beton, Mauer-Robot, Tunnel-Inspektion, Brücken-Inspektion, Schweißroboter, Demontage-Roboter mit Hochdruckwasserstrahl.
+3. **Standort:** Baustelle mit weiteren Gewerken, Tunnel, Brücke, Hochhaus, Industriestandort, öffentlicher Raum.
+4. **Anlass:** Inverkehrbringen, Mietvertrag, Vorfall (Personenschaden, Sachbeschädigung am Bauwerk Dritter, Schaden am Baugrund), Schiedsverfahren, Versicherungsregress.
+5. **Unterlagen:** Risikobeurteilung, SiGePlan, Bauvertrag, Liefer- und Mietverträge, Wartungs- und Inspektionsprotokolle, Telematik-Logs, Versicherungspolicen.
 
-## Prüfspur
+## Rechtlicher Rahmen
 
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
+- **MaschinenVO** VO (EU) 2023/1230 für Inverkehrbringen ab 20.01.2027 (vorher Maschinen-RL 2006/42/EG).
+- **BaustellV** § 3 Koordinator (SiGeKo); RAB 31 (Regeln zum Arbeitsschutz auf Baustellen).
+- **ArbSchG, BetrSichV, BauStellV, BGV/DGUV**: zu Baurobotik einschlägige Sicherheitsregelungen.
+- **VOB/B** § 4 Ausführung, § 13 Mängelansprüche; ergänzend BGB Werkvertragsrecht §§ 631 ff., insb. § 633 Sach- und Rechtsmangel.
+- **§ 823 BGB / § 836 BGB / § 906 BGB** für Drittschäden, Immissionen, Lärm, Erschütterungen.
+- **ProdHaftG / VO (EU) 2024/2853** Hersteller, ggf. Quasi-Hersteller des Integrators.
+- **KI-VO** bei autonomer Wahrnehmung; bei sicherheitskritischer Erkennung ggf. Hochrisiko Anhang III KI-VO.
 
-## Spezifischer Fokus
+## Workflow Schritt für Schritt
 
-Dieser Skill fokussiert: **Prüft Bau-, Inspektions- und Wartungsroboter: Baustelle, Arbeitsschutz, Drittschäden, Betreiberorganisation und Beweissicherung.**
+1. **Rollenmatrix.** Wer ist Hersteller, wer Integrator, wer Vermieter, wer Betreiber, wer Bauherr? Wer haftet im Außenverhältnis?
+2. **Risikobeurteilung baustellenspezifisch.** Neben der Hersteller-Risikobeurteilung eine baustellenbezogene Beurteilung mit SiGeKo; Aufstellort, Bewegungsradius, Notabschaltung, Vandalismusrisiko.
+3. **Koordination mit anderen Gewerken.** Schichtpläne, Sperrzonen, Lichtsignal, Funkkanäle, Eskalation.
+4. **Drittschutz.** Absperrung; bei Außeneinsatz Verkehrssicherung; Lärm- und Erschütterungsmessungen vorab.
+5. **Versicherung.** Bau-Betriebshaftpflicht prüfen; spezielle Robotik-Klausel; Selbstbehalt; Übermittlung der Risikoinformationen vor Einsatz.
+6. **Vertragliche Pflichten.** Lieferverträge: Performance-Aufrüstung, Service-Level, Ersatzgeräte; Mietverträge: Wartungsstand, Übergabeprotokoll mit Fotos und Logauszug.
+7. **Beweissicherung bei Vorfällen.** Logs unverzüglich sichern (Schreibsperre, Hash), Fotos, Augenzeugen, Notarprotokoll falls nötig, Sachverständiger zur Sicherung.
+8. **Kommunikation.** Pressemeldung nur abgestimmt; gegenüber Polizei/Behörden sachlich und faktenbasiert.
 
-Quellen-/Normenanker: Maschinenverordnung; Arbeitsschutz; BGB deliktisch; Vertrag.
+## Trade-off-Matrix
 
-## Ergebnisformat
+| Spannungsfeld | Konservativ | Aggressiv | Empfehlung |
+|---|---|---|---|
+| Sperrzone | groß | knapp | Sperrzone ausreichend für Worst-Case-Bewegung plus Reaktionszeit |
+| Telematik-Daten an Bauherr | offen | restriktiv | Live-Dashboard für Sicherheit, datensparsam für Performance |
+| Personalbesetzung | Operator vor Ort | Remote | Bei autonomem Betrieb mind. ein Operator im 30-Sekunden-Eingriff |
+| Mietzeitraum kurz | flexibel, höhere Kosten | lang, billiger | bei häufigem Standortwechsel kurz, bei einem Großprojekt lang |
 
-Liefere je nach Auftrag eines der folgenden Formate:
+## Praxistipps
 
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
+- **SiGeKo früh einbeziehen** – auch bei Sub-Sub-Verträgen.
+- **Wartungsplan dokumentieren** – Lückenlosigkeit ist Beweismittel.
+- **Notfallübung** je Standort.
+- **DSGVO bei Kamera-Sensorik**: Hinweisschild und Speicher-Konzept.
+- **Klimaeinflüsse**: Sensoren unter Regen/Schnee unzuverlässig – Stilllegungsschwellen festlegen.
 
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+## Mustertexte
+
+**Baustellenanweisung (Auszug):**
+
+> Für den Einsatz des Roboters Typ Z auf Baustelle [BV-Nr.] gilt: Aufstellbereich gemäß Anlage 1 markiert (rot). Während Betriebs in diesem Bereich kein anderes Gewerk; Sperrgitter und Warnleuchten. Notabschaltung am Bediengerät und an drei festen Pulten. Im Vorfeld jedes Einsatzes Logauslese und Sichtkontrolle dokumentieren. Ansprechpartner Operator: Hr. Müller (+49…); Ansprechpartner SiGeKo: Fr. Schulz (+49…).
+
+**Vertragsklausel (Mietvertrag Roboter):**
+
+> Der Vermieter stellt den Roboter in einem MaschinenVO-konformen Zustand zur Verfügung; die EU-Konformitätserklärung, die Risikobeurteilung und die Betriebsanleitung in deutscher Sprache sind Bestandteil dieses Vertrages. Der Mieter stellt sicher, dass nur unterwiesenes Personal den Roboter bedient. Bei Vorfall mit Personenschaden hat der Mieter binnen 24 Stunden alle Logs und Wartungsprotokolle zu sichern und dem Vermieter zur Verfügung zu stellen.
+
+## Typische Fehler
+
+- **Hersteller-Risikobeurteilung als Baustellen-Beurteilung** verwendet.
+- **Keine Sperrzone**, sondern nur visuelle Markierung.
+- **SiGeKo nicht eingebunden** bei kurzem Einsatz.
+- **Logs überschrieben** nach 24 h – Beweisverlust.
+- **Wartung extern, aber ohne Übergabeprotokoll**.
+
+## Querverweise
+
+- `arbeitsschutz-betrsichv-robotik`
+- `betreiber-mitverschulden-und-fehlbedienung`
+- `deliktische-haftung-paragraph-823-bgb`
+
+## Quellen Stand 06/2026
+
+- VO (EU) 2023/1230 (MaschinenVO).
+- BaustellV; RAB 31; ArbSchG; BetrSichV.
+- VOB/B; BGB §§ 631 ff., §§ 823 ff.
+- VO (EU) 2024/2853 (neue ProdHaftRL).
+- VO (EU) 2024/1689 (KI-VO).
+- Live-Verifikation auf baua.de, bundesanzeiger.de, eur-lex.europa.eu; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.

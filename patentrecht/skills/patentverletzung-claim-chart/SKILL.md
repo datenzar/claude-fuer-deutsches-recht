@@ -46,3 +46,12 @@ Bewertung: erfüllt, nicht erfüllt, unklar, nur äquivalent denkbar, Beleg fehl
 - **Beweisqualität:** Mandantenangabe < Foto/Video < Demonstration vor Notar/Sachverständigen < Marktproduktprüfung im Labor < unabhängiger Sachverständiger.
 - **Geheimnisschutz:** Bei Reverse Engineering § 23 GeschGehG beachten; In-camera-Verfahren UPC oder §§ 16-20 GeschGehG.
 - Falle: Claim Chart ohne Anspruchsversion und Stand-Verifikation (DPMA/EPA-Register-Abrufdatum) — bei Einspruch/Beschränkung kann sich der maßgebliche Anspruchstext ändern.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

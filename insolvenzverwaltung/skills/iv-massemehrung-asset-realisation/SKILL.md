@@ -47,6 +47,12 @@ Der Skill arbeitet freistehend. Er setzt keine anderen Plugins voraus. Wenn Mate
 - Prozesskosten ohne Deckung
 - Interessenkonflikt beim Verkauf
 - Vergleich ohne Massevorteil
+- Ausländischer office holder will deutsches Asset verwerten, ohne Verfahrenseröffnung, Amt und konkrete Befugnis in deutscher Vollzugsform nachzuweisen
+- Verwechslung von Konzernkontrolle mit Eigentum: Insolvenz der ausländischen Mutter bedeutet nicht automatisch Verfügungsbefugnis über Vermögen der deutschen Tochter
+
+## Cross-Border-Asset-Hinweis
+
+Bei US debtor in possession, US trustee, kanadischem trustee/monitor/receiver oder sonstigem ausländischem office holder immer `iv-cross-border-assets-trustee-registervollzug` hinzuziehen. Der Skill klärt Anerkennung, Inzidentprüfung, GmbH-Anteile, Grundbuch, Register, Nachweispaket und Masseinteresse.
 
 ## Interne Vorlagen
 

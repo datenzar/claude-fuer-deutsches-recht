@@ -1,6 +1,6 @@
 ---
 name: discounter-und-graumarkt-brezelmann
-description: "Workflow-Skill zu discounter und graumarkt brezelmann. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft."
 ---
 
 # Erschöpfung, Graumarkt und Brezelmann-Strategie
@@ -56,12 +56,11 @@ Importeur bringt klôtzzkètté-Parfum aus der Schweiz (nicht EWR) nach Deutschl
 ### Konstellation 3: Umverpackung Parallelimport UK (post-Brexit)
 Nach Brexit: UK-Ware ist nicht mehr EWR-Ware. Parallelimport UK → DE: Keine Erschöpfung. Aber: Umverpackung für DE-Markt (Etiketten auf Deutsch)? BGH BMS/Paranova-Grundsätze: Nur wenn (1) notwendig für Marktzugang, (2) Herkunft angegeben, (3) Neuzustand klar, (4) keine Schädigung des Rufs, (5) vorherige Ankündigung an Markeninhaber.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 24 Rn. 1 ff. (Erschöpfung)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 24 Rn. 1 ff.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

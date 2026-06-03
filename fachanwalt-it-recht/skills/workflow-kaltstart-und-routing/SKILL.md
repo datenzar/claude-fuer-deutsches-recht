@@ -24,7 +24,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Routing-Diagnose IT-Recht
 - **"Software-Erstellung individuell / Werkvertrag"** → §§ 631 ff. BGB, Pflichtenheft, Abnahme § 640 BGB, Gefahrtragung, ggf. Erfüllungsanspruch + Nacherfüllung §§ 634 ff.
-- **"Kauf von Standardsoftware (dauerhaft)"** → §§ 433 ff. BGB analog, BGH NJW 2007, 2394.
+- **"Kauf von Standardsoftware (dauerhaft)"** → §§ 433 ff. BGB analog, BGH-Entscheidung zur rechtlichen Einordnung von Standardsoftware; vor Ausgabe mit Datum/Az. und freier Quelle verifizieren.
 - **"SaaS / Cloud (laufend)"** → Mietrechtsähnliche Pflichten (§§ 535 ff. BGB), SLA, AVV nach Art. 28 DSGVO, Datentransfer Art. 44 ff. DSGVO; bei US-Cloud DPF/SCC/TIA.
 - **"Open Source / Lizenzfragen"** → GPL/MIT/Apache, Copyleft-Effekt; UrhG, EuGH C-666/18 (IT-Development Software).
 - **"Domain / Markenkonflikt"** → MarkenG, DENIC-Bedingungen, UDRP/.eu-ADR.

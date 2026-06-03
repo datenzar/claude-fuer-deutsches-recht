@@ -15,32 +15,12 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Kita Mühlenhof Lichtenrade - HOAI-Leistungsphasen und Bauüberwachung 2026** (`hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026`) | [Gesamt-PDF lesen](../testakten/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026/gesamt-pdf/hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026_gesamt.pdf) | [`testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hoai-leistungsphasen-kita-muehlenhof-lichtenrade-2026.zip) |
 | **Baurecht — Werkmangel & kontaminierter Baugrund, Saalbau Wendelstein gGmbH / Bauer-Hoch GmbH & Co. KG** (`werkmangel-kontaminierter-baugrund-saalbau-rosenheim`) | [Gesamt-PDF lesen](../testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) | [`testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Baurecht — Werkmangel & kontaminierter Baugrund, Saalbau Wendelstein gGmbH / Bauer-Hoch GmbH & Co. KG** (`werkmangel-kontaminierter-baugrund-saalbau-rosenheim`) | [Gesamt-PDF lesen](../testakten/werkmangel-kontaminierter-baugrund-saalbau-rosenheim/gesamt-pdf/werkmangel-kontaminierter-baugrund-saalbau-rosenheim_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-werkmangel-kontaminierter-baugrund-saalbau-rosenheim.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Bau- und Architektenrecht. Orientierung BGB Werkvertragsrecht §§ 650a ff. Bauvertrag VOB-A VOB-B VOB-C HOAI Bauordnungsrecht der Länder. Schnittstellen Vergaberecht und Verwaltungsrecht.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Bau Architektenrecht (`fachanwalt-bau-architektenrecht`, dieses Plugin) | [fachanwalt-bau-architektenrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bau-architektenrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -91,26 +71,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `mandat-triage-bau-architektenrecht` | Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Ba... |
 | `nachtragsmanagement-650b` | Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. O... |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baure... |
-| `spezial-abnahme-livequellen-und-rechtsprechungscheck` | Abnahme: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-architektenrecht-tatbestand-beweis-und-belege` | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bauordnungsrecht-behoerden-gericht-und-registerweg` | Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine` | Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bgb-fristen-form-und-zustaendigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-einfuehrung-formular-portal-und-einreichung` | Einfuehrung: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hoai-risikoampel-und-gegenargumente` | Hoai: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-mehrparteien-konflikt-und-interessen` | Kanzlei: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-maengelhaftung-verhandlung-vergleich-und-eskalation` | Maengelhaftung: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-mandat-mandantenkommunikation-entscheidungsvorlage` | Mandat: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsquellen-fristennotiz-und-naechster-schritt` | Rechtsquellen: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schiedsgutachten-international-schnittstellen` | Schiedsgutachten: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-triage-beweislast-und-darlegungslast` | Triage: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vergaberecht-zahlen-schwellen-und-berechnung` | Vergaberecht: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vertragstypen-red-team-und-qualitaetskontrolle` | Vertragstypen: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-werkvertrag-dokumentenmatrix-und-lueckenliste` | Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-abnahme-livequellen-und-rechtsprechungscheck` | Abnahme: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-architektenrecht-tatbestand-beweis-und-belege` | Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bauordnungsrecht-behoerden-gericht-und-registerweg` | Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine` | Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bgb-fristen-form-und-zustaendigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-einfuehrung-formular-portal-und-einreichung` | Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hoai-risikoampel-und-gegenargumente` | Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-mehrparteien-konflikt-und-interessen` | Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-maengelhaftung-verhandlung-vergleich-und-eskalation` | Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-mandat-mandantenkommunikation-entscheidungsvorlage` | Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsquellen-fristennotiz-und-naechster-schritt` | Rechtsquellen: Fristennotiz und nächster Schritt im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schiedsgutachten-international-schnittstellen` | Schiedsgutachten: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-triage-beweislast-und-darlegungslast` | Triage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vergaberecht-zahlen-schwellen-und-berechnung` | Vergaberecht: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vertragstypen-red-team-und-qualitaetskontrolle` | Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-werkvertrag-dokumentenmatrix-und-lueckenliste` | Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlun... |
 | `werkmangel-vob-bgb-pruefen` | Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Verg... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-bau-architektenrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |

@@ -249,3 +249,12 @@ Ein Alleinstellungsmerkmal ist die Einbindung offizieller Mietspiegel-Quellen fu
   - BGH, Urt. v. 24.09.2025 – Az. VIII ZR 289/23 — Anforderungen an Eigenbedarfsbegruendung § 573 Abs. 3 BGB; Eigenbedarf wirksam auch bei spaeterem Verkauf.
   - BGH, Urt. v. 27.11.2024 – Az. VIII ZR 159/23 — qES-Wohnraumkuendigung und Zugang (siehe schriftform-und-textform-bgb).
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318): ab 01.01.2026 § 23 GVG i.V.m. neuen Wertgrenzen wirkt auf Raeumungsklagen und mietrechtliche Zahlungsklagen; AG bleibt aber fuer Wohnraummietsachen ohne Streitwertgrenze zustaendig (§ 23 Nr. 2a GVG).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -1,6 +1,6 @@
 ---
 name: spezial-glaeubigerantrag-verhandlung-vergleich-und-eskalation
-description: "Glaeubigerantrag: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Glaeubigerantrag: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt insolvenz sanierungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Glaeubigerantrag: Verhandlung, Vergleich und Eskalation
@@ -9,6 +9,15 @@ description: "Glaeubigerantrag: Verhandlung, Vergleich und Eskalation: konkreter
 Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-insolvenz-sanierungsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturierungsplan. Insolvenzanfechtung §§ 129 ff. InsO. Schnittstellen insolvenzrecht und steuerrecht-anwalt-und-berater.
 
 Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Glaeubigerantrag**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Glaeubigerantrag.
+- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Insolvenz- und Sanierungsrecht nach FAO § 14. InsO Eroeffnung Antragspflicht § 15a Gläubigerantrag § 14 InsO. StaRUG Restrukturier....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

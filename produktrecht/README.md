@@ -1,4 +1,4 @@
-# Produktrecht-Plugin
+# Produkthaftung und Produktrecht (Plugin `produktrecht`)
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
@@ -15,52 +15,27 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
+| **Projekt Isarlicht — Kernfusion und Transrapid am Starnberger See** (`kernfusion-transrapid-starnberger-see`) | [Gesamt-PDF lesen](../testakten/kernfusion-transrapid-starnberger-see/gesamt-pdf/kernfusion-transrapid-starnberger-see_gesamt.pdf) | [`testakte-kernfusion-transrapid-starnberger-see.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kernfusion-transrapid-starnberger-see.zip) |
 | **Produkthaftung Frischwind Mobility GmbH — Akku-Brände E-Bike Wind-X7, Produktrückruf, Strafverfahren** (`produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt`) | [Gesamt-PDF lesen](../testakten/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt/gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf) | [`testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
+Rechtliche Abläufe für Produktteams, Hersteller, Händler und Kanzleien: Produktsicherheit, Produkthaftung, Produktbeobachtung, Rückruf, Marktüberwachung, Software-/OTA-Updates, Right to Repair und Launch-Review. Der Ordner heißt weiter `produktrecht`, damit bestehende Links stabil bleiben; inhaltlich ist das Plugin jetzt ausdrücklich auch ein Produkthaftungs- und Produktlebenszyklus-Plugin.
 
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Produkthaftung Frischwind Mobility GmbH — Akku-Brände E-Bike Wind-X7, Produktrückruf, Strafverfahren** (`produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt`) | [Gesamt-PDF lesen](../testakten/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt/gesamt-pdf/produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-produkthaftung-akku-brand-e-bike-frischwind-mobility-erfurt.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
-Rechtliche Abläufe für Produktteams: Launch-Review, Werbeaussagen-Prüfung, Feature-Risikobewertung und schnelle "Ist-das-ein-Problem?"-Triage. Das Plugin baut auf einer Risikokalibrierung auf, die aus tatsächlichen Launch-Reviews gelernt wird – was bei *Ihrem* Unternehmen blockiert, nicht was generisch riskant wäre.
+Es trennt sauber zwischen Produktsicherheit/Behördenpflichten, verschuldensunabhängiger Produkthaftung, deliktischer Produzentenhaftung, vertraglicher Gewährleistung, digitalem Kaufrecht und künftigen Reparaturpflichten. Gerade bei vernetzten Waren wird nicht mehr gefragt “Hardware oder App?”, sondern: Welche Funktion hängt an Firmware, Cloud, Konto, Sensorik, Update oder Reparaturzugang?
 
 **Alle Ausgaben sind Entwürfe zur anwaltlichen Prüfung – zitiert, markiert und abgesichert – keine rechtlichen Schlussfolgerungen.** Das Plugin erledigt die Arbeit: liest Dokumente, wendet Ihr Playbook an, findet Probleme, erstellt das Memo. Ein Anwalt prüft, verifiziert und entscheidet. Zitate sind nach Quelle gekennzeichnet. Berufsrechtliche Verschwiegenheitspflichten (§ 43a Abs. 2 BRAO, § 203 StGB) werden konservativ angewendet. Folgenreiche Maßnahmen – Abmahnungen, Einreichungen, Vertragsunterzeichnungen – sind durch explizite Bestätigung gesichert.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Produktrecht (`produktrecht`, dieses Plugin) | [produktrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/produktrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
-
 
 ## Für wen ist dieses Plugin?
 
 | Rolle | Hauptworkflows |
 |---|---|
-| **Produktjurist / Syndikusanwalt** | Launch-Review, Feature-Risikobewertung, Kalibrierungspflege |
-| **Produktmanager** | "Ist-das-ein-Problem?"-Triage in Eigenregie |
+| **Produktjurist / Syndikusanwalt** | Launch-Review, Produktsicherheit, GPSR, Rückruf, Repair-/Update-Policy |
+| **Produkthaftungsanwalt** | ProdHaftG, § 823 BGB, Produzentenhaftung, Beweisakte, Serienfehler, Regress |
+| **Produktmanager / Engineering** | "Ist-das-ein-Problem?"-Triage, Software-/OTA-Änderungen, Repair-by-design |
 | **Marketing / Brand** | Werbeaussagen-Prüfung vor Veröffentlichung |
-| **GC / Leiter Rechtsabteilung** | Feature-Risikobewertung für eskalierte Punkte |
+| **GC / Leiter Rechtsabteilung** | Eskalierte Produktfälle, Marktüberwachung, Behördenkommunikation, Krisenstab |
 
 ## Erster Start: das Kaltstart-Interview
 
@@ -151,7 +126,11 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/pro
 - **BGB §§ 305 ff.** (AGB-Kontrolle, Einbeziehung, Inhaltskontrolle)
 - **DDG** (vormals TMG – Impressumspflicht §§ 5, 6, Haftung §§ 7 ff.)
 - **TDDDG** (Cookie-Einwilligung, § 25 TDDDG)
-- **ProdSG / GPSR** (Produktsicherheit, Marktüberwachung)
+- **ProdHaftG / § 823 BGB** (verschuldensunabhängige Produkthaftung und deliktische Produzentenhaftung)
+- **ProdSG / GPSR VO (EU) 2023/988** (Produktsicherheit, Marktüberwachung, Rückverfolgbarkeit, Safety Business Gateway)
+- **BGB §§ 327 ff., 434, 475b, 475c, 475e, 476, 477** (digitale Produkte, Waren mit digitalen Elementen, Updatepflichten, Beweislast, Verjährung)
+- **Richtlinie (EU) 2024/1799** (Recht auf Reparatur; Umsetzungsstand jeweils live prüfen)
+- **Richtlinie (EU) 2024/2853** (neue Produkthaftungsrichtlinie; Umsetzung und zeitliche Anwendbarkeit live prüfen)
 - **MarkenG** (Markenverletzung, Benutzungsmarken, Verwechslungsgefahr)
 - **AGG** (Diskriminierungsverbot, Benachteiligung)
 - **EU-Verordnungen:** DSA, DMA, KI-VO (AI Act, EU 2024/1689)
@@ -161,6 +140,8 @@ Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/pro
 - Die Kalibrierungstabelle ist das Herzstück. Wenn sie falsch ist, ist jeder Review falsch. Neu ausführen wenn sich Ihre Risikoposition ändert (neues Regulierungsumfeld, neuer GC, neue Bußgeld-Entscheidung).
 - `ist-das-ein-problem` ist so konzipiert, dass PMs es eigenständig nutzen können. Es antwortet schnell und leitet zu einer echten Prüfung weiter, wenn nötig.
 - Feature-Risikobewertung ist für die 10% der Launches, die Tiefe benötigen. Die meisten tun es nicht – keine unnötige Dokumentenpflege.
+- GPSR ist VO (EU) 2023/988. Die BatterieVO ist VO (EU) 2023/1542 und nur bei Batterie-/Akkubezug einschlägig.
+- Right to Repair und neue Produkthaftungsrichtlinie sind in Übergang und Umsetzung zu behandeln. Tragende Aussagen zum deutschen Umsetzungsstand immer live verifizieren.
 
 ## Voraussetzungen
 
@@ -175,14 +156,14 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-re
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Produktrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei D... |
 | `ce-kennzeichnung-routenplan` | CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konf... |
 | `dual-use-produktrecht` | Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraste... |
-| `eu-produktsicherheitsverordnung-gpsr` | EU-Produktsicherheitsverordnung GPSR (VO 2023 1542) in der Praxis: Geltung ab Dezember 2024, Pflichten fuer Hersteller, Importeure, Haendler, Online-Marktplaetze. Ausweitung gegenueber GPSD. Konkrete Aenderungen fuer Webshops, Etikettier... |
+| `eu-produktsicherheitsverordnung-gpsr` | EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten fuer Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway. |
 | `feature-risikobewertung` | 'Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich wenn der Launch-Review etwas gefunden hat das mehr als eine Tabellenzeile braucht. Strukturierte Analyse: was könnte schiefgehen, wie wahrscheinlich, wie sc... |
 | `impressum-pflicht` | Prüft die Impressumspflicht für Websites, Apps und Social-Media-Profile nach §§ 5 und 6 DDG und § 18 MStV, erstellt konforme Impressumstexte und identifiziert typische Abmahnrisiken nach UWG. Lädt bei Fragen zu Anbieterkennzeichnung, Imp... |
 | `ist-das-ein-problem` | 'Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung f... |
@@ -196,32 +177,38 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `prodr-produkthaftung-bauleiter` | Bauleiter Produkthaftung ProdHaftG und § 823 BGB Produktsicherheit: Fehlerbegriff, Hersteller-, Quasi-Hersteller- und Importeurshaftung. Pruefraster fuer Schadensregulierung. |
 | `prodr-produktrueckruf-leitfaden` | Leitfaden Produktrueckruf: Pflicht zur Sicherheitsmassnahme nach ProdSG / GPSR, Meldung an Marktueberwachungsbehoerde, Kommunikation. Pruefraster fuer Hersteller. |
 | `produktbeobachtung-feldueberwachung` | Produktbeobachtung und Feldueberwachung nach § 4 ProdSG und GPSR: aktive Beobachtung des Marktes nach Inverkehrbringen, Reklamationen, Schadensmeldungen, Reparaturdaten, Social-Media-Monitoring. Ableitung von Massnahmen (Information, Mod... |
-| `produktbeobachtung-software-ota` | Spezialfall Software- und OTA-Updates: Produktbeobachtungspflicht erstreckt sich auf Software, Verpflichtung zu Sicherheitsupdates nach § 327f BGB fuer digitale Produkte, GPSR-Pflichten zu Cybersicherheit. Pflichtenkatalog Hersteller und... |
-| `produkthaftung-grundlagen` | Grundlagen Produkthaftung einfuehrend: Produkthaftungsgesetz ProdHaftG (verschuldensunabhaengig) gegenueber deliktischer Produzentenhaftung § 823 BGB (mit Verschulden). Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshoechstgrenzen,... |
+| `produktbeobachtung-software-ota` | Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung. |
+| `produkthaftung-digital-software-pld-2024-2853` | Prüft die neue EU-Produkthaftungsrichtlinie 2024/2853 für Software, KI-Systeme, digitale Fertigungsdateien, relevante digitale Dienste, Updates, Beweiserleichterungen und erweiterte Anspruchsgegner. |
+| `produkthaftung-grundlagen` | Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. |
+| `produkthaftung-produktsicherheit-gpsr-korrektur` | Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung. |
+| `produkthaftung-reparatur-update-und-lifecycle` | Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates. |
 | `produktrecht-anpassen` | 'Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Worksp... |
 | `produktrecht-kaltstart-interview` | Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennze... |
 | `produktrecht-mandat-arbeitsbereich` | Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsb... |
+| `repair-by-design-software-locks-ersatzteile` | Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen. |
+| `reparaturpflicht-hersteller-nach-gewaehrleistung` | Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforder... |
+| `right-to-repair-produktrecht-2024-1799` | Prüft das EU-Recht auf Reparatur nach Richtlinie (EU) 2024/1799, Umsetzungsstand, Hersteller-/Repairerpflichten, Reparaturformular, Reparaturplattform, Ersatzteile und Grenzen software- oder hardwareseitiger Reparaturhindernisse. |
 | `rueckruf-strategie-konzern` | Konzern-Rueckrufstrategie bei sicherheitsrelevanten Maengeln: Krisenstab, Information der Behoerde Safety Business Gateway, Pressemitteilung, Haendlerinformation, Kundenidentifizierung ueber Seriennummern, Kostenuebernahme, Versicherung.... |
-| `spezial-belegmatrix-mandantenkommunikation-entscheidungsvorlage` | Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bewertungen-behoerden-gericht-und-registerweg` | Bewertungen: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-chronologie-red-team-und-qualitaetskontrolle` | Chronologie: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-impressumspflicht-dokumentenmatrix-und-lueckenliste` | Impressumspflicht: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-launch-tatbestand-beweis-und-belege` | Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-livecheck-formular-portal-und-einreichung` | Livecheck: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-machinery-compliance-dokumentation-und-akte` | Machinery: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pangv-risikoampel-und-gegenargumente` | Pangv: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-prodr-zahlen-schwellen-und-berechnung` | Prodr: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-produktbeobachtung-verhandlung-vergleich-und-eskalation` | Produktbeobachtung: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-produktlaunch-beweislast-und-darlegungslast` | Produktlaunch: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-belegmatrix-mandantenkommunikation-entscheidungsvorlage` | Belegmatrix: Mandantenkommunikation und Entscheidungsvorlage im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bewertungen-behoerden-gericht-und-registerweg` | Bewertungen: Behörden-, Gerichts- oder Registerweg im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-chronologie-red-team-und-qualitaetskontrolle` | Chronologie: Red-Team und Qualitätskontrolle im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-impressumspflicht-dokumentenmatrix-und-lueckenliste` | Impressumspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-launch-tatbestand-beweis-und-belege` | Launch: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-livecheck-formular-portal-und-einreichung` | Livecheck: Formular, Portal und Einreichungslogik im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-machinery-compliance-dokumentation-und-akte` | Machinery: Compliance-Dokumentation und Aktenvermerk im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pangv-risikoampel-und-gegenargumente` | Pangv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-prodr-zahlen-schwellen-und-berechnung` | Prodr: Zahlen, Schwellenwerte und Berechnung im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-produktbeobachtung-verhandlung-vergleich-und-eskalation` | Produktbeobachtung: Verhandlung, Vergleich und Eskalation im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-produktlaunch-beweislast-und-darlegungslast` | Produktlaunch: Beweislast, Darlegungslast und Substantiierung im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-produktlaunch-rechtscheck` | Produktlaunch-Rechtscheck von Impressum bis Marktüberwachung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `spezial-produktnutzung-und-claimcheck` | Produktnutzung, Werbeclaim und Sicherheitsversprechen prüfen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-produktrecht-schriftsatz-brief-und-memo-bausteine` | Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-produktrechtliche-erstpruefung-und-mandatsziel` | Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtscheck-sonderfall-und-edge-case` | Rechtscheck: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsquellen-internationaler-bezug-und-schnittstellen` | Rechtsquellen: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-regulation-mehrparteien-konflikt-und-interessen` | Regulation: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-review-fristen-form-und-zustaendigkeit` | Review: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-software-livequellen-und-rechtsprechungscheck` | Software: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-produktrecht-schriftsatz-brief-und-memo-bausteine` | Produktrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-produktrechtliche-erstpruefung-und-mandatsziel` | Produktrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtscheck-sonderfall-und-edge-case` | Rechtscheck: Sonderfall und Edge-Case-Prüfung im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsquellen-internationaler-bezug-und-schnittstellen` | Rechtsquellen: Internationaler Bezug und Schnittstellen im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-regulation-mehrparteien-konflikt-und-interessen` | Regulation: Mehrparteienkonflikt und Interessenmatrix im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-review-fristen-form-und-zustaendigkeit` | Review: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-software-livequellen-und-rechtsprechungscheck` | Software: Livequellen- und Rechtsprechungscheck im Plugin produktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `werbeaussagen-pruefung` | 'Prüfung von Werbeaussagen auf Irreführungs- und Wettbewerbsrechtsrisiken nach deutschem und europäischem Recht. Lädt, wenn der Nutzer "Werbetext prüfen", "Marketingaussagen freigeben", "UWG-Prüfung", "Health Claims", "klimaneutral prüfe... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin produktrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin produktrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |

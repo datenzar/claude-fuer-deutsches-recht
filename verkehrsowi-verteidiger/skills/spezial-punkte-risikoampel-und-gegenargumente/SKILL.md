@@ -1,6 +1,6 @@
 ---
 name: spezial-punkte-risikoampel-und-gegenargumente
-description: "Punkte: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Punkte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Punkte: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -18,6 +18,15 @@ Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Theme
 - Fahreignungsseminar: § 4a StVG – freiwillige Punktreduktion (-1 Punkt) bei 1-5 Punkten, einmal in fünf Jahren.
 - Akteneinsicht KBA: § 30 StVG – jeder Eingetragene kann FAER-Auszug anfordern (kostenfrei).
 - Praxis-Tipp: Vor Mandatsstrategie immer aktuellen KBA-Auszug einsehen. Bei knapper Punktezahl (5-7) Strategie: Einspruch gegen Bescheid mit Aussicht auf Punkt-Reduktion oder -Wegfall; ggf. Fahreignungs­seminar planen, um vor Folgeverstoß Punktstand zu senken. Bei Schwellenüberschreitung (8 Punkte) ist Entzug zwingend (gebundene Entscheidung), kein Ermessen der FE-Behörde.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Punkte.
+- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
+- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -46,3 +55,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: Messdaten, Messakte und faires Verfahren
+
+- **Verifizierter Leitanker:** BVerfG, Beschluss vom 12.11.2020 - 2 BvR 1616/18. Bei standardisierten Messverfahren darf die Verteidigung nicht mit bloßer Behördenroutine abgespeist werden; vorhandene, nicht aktenkundige Messinformationen können für ein faires Verfahren zugänglich sein, wenn sie konkret und rechtzeitig verlangt werden.
+- **Praktische Übersetzung:** Niemals nur pauschal „Messung bestreiten“. Immer präzise anfordern: Falldatei/Rohmessdaten, Messreihe soweit vorhanden und relevant, Token/Passwort, Eichschein, Gebrauchsanweisung, Schulungsnachweise, Wartungs-/Reparaturhinweise, Standort-/Beschilderungsunterlagen, Statistik und Auswerteprotokoll.
+- **Angriffslinie:** Standardisiertes Messverfahren ist eine Beweiserleichterung, kein Denkverbot. Der Skill muss aus Unterlagen konkrete Einwendungen machen: falsches Gerät, fehlende Eichung, fehlerhafte Bedienung, unklare Fahreridentität, unplausible Messreihe, fehlende Einsicht, Frist-/Gehörsproblem.
+- **Output-Pflicht:** Immer ein kurzes Anforderungsschreiben oder einen gerichtsfesten Begründungsbaustein anbieten, wenn Akteneinsicht, Messunterlagen oder Fristwahrung Thema sind.

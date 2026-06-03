@@ -1,6 +1,6 @@
 ---
 name: spezial-fruehwarnsystem-behoerden-gericht-und-registerweg
-description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg
@@ -9,6 +9,15 @@ description: "Fruehwarnsystem: Behörden-, Gerichts- oder Registerweg: konkreter
 Dieser Skill ist ein konkreter Fachbaustein für `krisenfrueherkennung-starug`. Ausgangspunkt ist: Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschäftsführerhaftung, drohende Zahlungsunfähigkeit, integrierte Planung, Restrukturierungsplan und Stabilisierungsanordnung.
 
 Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Fruehwarnsystem**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Fruehwarnsystem.
+- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
+- **Plugin-Rahmen:** Krisenfrüherkennung und Krisenmanagement nach StaRUG: Pflicht zum 24-Monats-Frühwarnsystem nach § 1 StaRUG, § 102 StaRUG Warnpflicht der Berater, Geschä....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

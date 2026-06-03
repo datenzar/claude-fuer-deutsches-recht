@@ -11,7 +11,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- |
 | **Dieses Plugin** (`ecommerce-recht`) | [`ecommerce-recht.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ecommerce-recht.zip) |
 
-Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Nachtfalter Studio: Capsule Collection, Lieferkette, Influencer und Plattformkopien** (`fashion-law-moderecht-nachtfalter-kollektion-2026`) | [Gesamt-PDF lesen](../testakten/fashion-law-moderecht-nachtfalter-kollektion-2026/gesamt-pdf/fashion-law-moderecht-nachtfalter-kollektion-2026_gesamt.pdf) | [`testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fashion-law-moderecht-nachtfalter-kollektion-2026.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 

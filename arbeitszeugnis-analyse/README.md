@@ -19,57 +19,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Arbeitszeugnis-Analyse — aus dem blühenden Leben** (`arbeitszeugnis-analyse-bluehendes-leben`) | [Gesamt-PDF lesen](../testakten/arbeitszeugnis-analyse-bluehendes-leben/gesamt-pdf/arbeitszeugnis-analyse-bluehendes-leben_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 Dieses Plugin analysiert deutsche Arbeitszeugnisse nach dem Ampelsystem (Rot/Orange/Grün). Es decodiert den Geheimcode der deutschen Zeugnissprache, identifiziert notenrelevante Sätze und klassifiziert sie mit vollständiger Interpretation der versteckten Bewertung.
 
 Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder verbessern wollen, an Rechtsanwälte, die Zeugnisstreitigkeiten begleiten, und an Personalverantwortliche, die Zeugnisse professionell ausstellen oder prüfen möchten.
 
 **Hinweis:** Im Repository liegt ergänzend die Testakte `testakten/arbeitszeugnis-analyse-bluehendes-leben/` mit zehn realistisch ausgearbeiteten Zeugnisfällen. Jede Ausgabe ist ein Analyse-Entwurf zur eigenverantwortlichen Prüfung — kein Ersatz für anwaltliche Beratung im Einzelfall.
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **arbeitszeugnis analyse bluehendes leben** | [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-|---|---|
-| Arbeitszeugnis-Analyse (`arbeitszeugnis-analyse`, dieses Plugin) | [arbeitszeugnis-analyse.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/arbeitszeugnis-analyse.zip) |
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Alle 33 Skills sind sofort verfügbar.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Arbeitszeugnis-Analyse — aus dem blühenden Leben** ([`testakten/arbeitszeugnis-analyse-bluehendes-leben/`](../testakten/arbeitszeugnis-analyse-bluehendes-leben/)).
-
-Direkt-Download als ZIP: [testakte-arbeitszeugnis-analyse-bluehendes-leben.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitszeugnis-analyse-bluehendes-leben.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Ampelsystem
 
@@ -197,17 +151,17 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `rote-flaggen-katalog` | Katalog klassischer roter Warnsignale im deutschen Arbeitszeugnis: Formulierungen, die trotz positiv klingendem Wortlaut eine schlechte Beurteilung kodieren. Umfasst alle Note-4- und Note-5-Signale mit Erklärung und Alternativformulierun... |
 | `satzweise-notenmatrix` | Bewertet jeden notenrelevanten Satz eines Arbeitszeugnisses mit Schulnote 1 bis 5. Anwendungsfall notenrelevante Saetze wurden identifiziert und sollen systematisch bewertet werden. Normen § 109 GewO Bewertungsmassstab BAG-Linie zur Zeug... |
 | `schlussformel-bewertung` | Workflow-Skill zu schlussformel bewertung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `spezial-ampelsystem-dokumentenmatrix-und-lueckenliste` | Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-analyse-erstpruefung-und-mandatsziel` | Analyse: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-arbeitszeugnisse-fristen-form-und-zustaendigkeit` | Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-codeworte-compliance-dokumentation-und-akte` | Codeworte: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-deutscher-tatbestand-beweis-und-belege` | Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-drift-livequellen-und-rechtsprechungscheck` | Drift: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-geheimcodes-schriftsatz-brief-und-memo-bausteine` | Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gruen-behoerden-gericht-und-registerweg` | Gruen: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-negative-zahlen-schwellen-und-berechnung` | Negative: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-orange-risikoampel-und-gegenargumente` | Orange: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schaufenster-verhandlung-vergleich-und-eskalation` | Schaufenster: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-ampelsystem-dokumentenmatrix-und-lueckenliste` | Ampelsystem: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-analyse-erstpruefung-und-mandatsziel` | Analyse: Erstprüfung, Rollenklärung und Mandatsziel im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-arbeitszeugnisse-fristen-form-und-zustaendigkeit` | Arbeitszeugnisse: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-codeworte-compliance-dokumentation-und-akte` | Codeworte: Compliance-Dokumentation und Aktenvermerk im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-deutscher-tatbestand-beweis-und-belege` | Deutscher: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-drift-livequellen-und-rechtsprechungscheck` | Drift: Livequellen- und Rechtsprechungscheck im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-geheimcodes-schriftsatz-brief-und-memo-bausteine` | Geheimcodes: Schriftsatz-, Brief- und Memo-Bausteine im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gruen-behoerden-gericht-und-registerweg` | Gruen: Behörden-, Gerichts- oder Registerweg im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-negative-zahlen-schwellen-und-berechnung` | Negative: Zahlen, Schwellenwerte und Berechnung im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-orange-risikoampel-und-gegenargumente` | Orange: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schaufenster-verhandlung-vergleich-und-eskalation` | Schaufenster: Verhandlung, Vergleich und Eskalation im Plugin arbeitszeugnis analyse; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `steigerungsadverbien-katalog` | Vollständige Referenzliste aller Steigerungsadverbien der Zeugnissprache mit Notenwert. Ein Adverb fehlt, eine Note faellt. Trennt echte Steigerer (stets, jederzeit, vollkommen, hoechst) von scheinbaren Steigerern (regelmäßig, ueberwiege... |
 | `verbesserungsvorschlaege-formulieren` | Formuliert konkrete Verbesserungsvorschläge für orange und rote Zeugnissätze. Zeigt, wie aus einer Note-4-Formulierung eine Note-2-Formulierung wird — mit Gegenüberstellung Original/Vorschlag und Begründung der sprachlichen Änderung. |
 | `verhaltensbeurteilung-analyse` | Analysiert Verhaltensbeurteilungen im Arbeitszeugnis: Verhalten zu Vorgesetzten, Kollegen und Kunden. Decodiert die Reihenfolge der Genannten, Qualifikationswörter und die Bedeutung von Auslassungen als versteckte Signale. |

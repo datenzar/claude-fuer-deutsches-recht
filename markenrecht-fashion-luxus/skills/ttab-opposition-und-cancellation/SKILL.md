@@ -83,14 +83,11 @@ Bestehende US-Registrierung "KLOTZKETTE" blockiert klôtzzkètté-Anmeldung. Can
 ### Konstellation 3: Fraud — Wann ist es sinnvoll?
 klôtzzkètté vermutet, Gegner hat im Specimen falsche Use-in-Commerce-Behauptung gemacht (Foto zeigt erkennbar staged Setup ohne echten Commerce). In re Bose-Standard: Bewusstes Täuschen erforderlich. Risiko: Gegenklage; hohe Beweislast. Nur bei klaren Indizien für absichtlichen Fraud.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 3, §§ 20-23 (TTAB-Verfahren)
-- TBMP (Trademark Trial and Appeal Board Manual of Procedure), ed. 2023
-- In re E.I. du Pont de Nemours & Co., 476 F.2d 1357 — DuPont Factors
-- In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009) — Fraud Standard TTAB
-- Moseley v. V Secret Catalogue Inc., 537 U.S. 418 (2003) — pre-TDRA Dilution (historisch)
-- Louis Vuitton Malletier SA v. Haute Diggity Dog LLC, 507 F.3d 252 (4th Cir. 2007) — Dilution Parody
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 
@@ -154,3 +151,12 @@ Bevor die Opposition eingelegt wird, klaere:
 > **Coach Services, Inc. v. Triumph Learning LLC, 668 F.3d 1356 (Fed. Cir. 2012):** Der Bekanntheitsschutz nach § 43(c) Lanham Act (Federal Dilution) erfordert, dass die Marke "widely recognized by the general consuming public"; Nischen-Luxusmarken koennen diesen Standard schwer erfuellen, wenn kein substantieller US-Marktanteil besteht.
 
 > **In re Bose Corp., 580 F.3d 1240 (Fed. Cir. 2009):** Fraud on the PTO erfordert nachgewiesene subjektive Taeuschungsabsicht; blosse Ungenauigkeiten im Benutzungsnachweis begruenden keinen Fraud, solange der Anmelder gutglaeubig an die Richtigkeit seiner Erklaerung glauben durfte.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

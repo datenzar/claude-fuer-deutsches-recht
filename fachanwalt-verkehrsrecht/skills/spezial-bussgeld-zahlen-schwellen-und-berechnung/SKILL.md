@@ -1,6 +1,6 @@
 ---
 name: spezial-bussgeld-zahlen-schwellen-und-berechnung
-description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Bussgeld: Zahlen, Schwellenwerte und Berechnung
@@ -19,6 +19,15 @@ Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Bussge
 - Punkte: § 4 StVG, BußgKatV Anlage – Punkte je nach Tatbestand; Punktestand abrufen § 30 StVG.
 - Strafzumessung Tagessätze (§ 315c, § 316 StGB): § 40 StGB Tagessatzsystem (Nettoeinkommen/30).
 - Praxis-Tipp: Standardtabelle BußgKatV als Anker, aber bei Sonderfällen (Probefahrt, Berufskraftfahrer, mehrere Verstöße eines Ereignisses) Abweichungen prüfen. Bei wirtschaftlich starken Betroffenen § 17 Abs. 3 OWiG-Erhöhung droht; bei Beweisproblemen Reduzierung über § 47 OWiG (Opportunität) anstreben.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Bussgeld.
+- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

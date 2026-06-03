@@ -18,8 +18,8 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 
 PAIRS = [
-    (REPO / "references" / "methodik-deutsches-recht.md",
-     REPO / "methodenlehre-deutsches-recht" / "references" / "methodik-deutsches-recht.md"),
+    (REPO / "references" / "methodik-buergerliches-recht.md",
+     REPO / "methodenlehre-buergerliches-recht" / "references" / "methodik-buergerliches-recht.md"),
     (REPO / "references" / "zitierweise.md",
      REPO / "zitierweise-deutsches-recht" / "references" / "zitierweise.md"),
 ]

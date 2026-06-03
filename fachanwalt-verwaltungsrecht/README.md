@@ -15,57 +15,19 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung** (`beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/gesamt-pdf/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung_gesamt.pdf) | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) |
+| **Landesamt Weserbrücke - Beförderungskaskade und Wunschkandidat** (`beamtenrecht-befoerderungskaskade-landesamt-weserbruecke`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke/gesamt-pdf/beamtenrecht-befoerderungskaskade-landesamt-weserbruecke_gesamt.pdf) | [`testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-befoerderungskaskade-landesamt-weserbruecke.zip) |
+| **Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung** (`beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/gesamt-pdf/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei_gesamt.pdf) | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) |
+| **Dr. Ottilie Mondsee und die verschwundene R-Besoldung** (`beamtenrecht-richterlaufbahn-besoldung-mondsee`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) | [`testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
+| **Schulleitung Gymnasium am Maschsee-Nord Hannover - Konkurrentenstreit** (`beamtenrecht-schulleitung-hannover-konkurrentenstreit`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-schulleitung-hannover-konkurrentenstreit/gesamt-pdf/beamtenrecht-schulleitung-hannover-konkurrentenstreit_gesamt.pdf) | [`testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-schulleitung-hannover-konkurrentenstreit.zip) |
 | **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** (`bvg-widerspruchsstelle-abschleppen-mobg`) | [Gesamt-PDF lesen](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf) | [`testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
+| **KDV-Verfahren Malte Eberhard Rabenow / Berlin-Köln 2026** (`kriegsdienstverweigerung-gewissensantrag-berlin-2026`) | [Gesamt-PDF lesen](../testakten/kriegsdienstverweigerung-gewissensantrag-berlin-2026/gesamt-pdf/kriegsdienstverweigerung-gewissensantrag-berlin-2026_gesamt.pdf) | [`testakte-kriegsdienstverweigerung-gewissensantrag-berlin-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kriegsdienstverweigerung-gewissensantrag-berlin-2026.zip) |
+| **Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel** (`schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof`) | [Gesamt-PDF lesen](../testakten/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof/gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) | [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
 | **Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [`testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** (`bvg-widerspruchsstelle-abschleppen-mobg`) | [Gesamt-PDF lesen](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/gesamt-pdf/bvg-widerspruchsstelle-abschleppen-mobg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
-| **Windpark-Drittanfechtung Bürgerinitiative Uckermark** (`windpark-drittanfechtung-buergerinitiative-uckermark`) | [Gesamt-PDF lesen](../testakten/windpark-drittanfechtung-buergerinitiative-uckermark/gesamt-pdf/windpark-drittanfechtung-buergerinitiative-uckermark_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-windpark-drittanfechtung-buergerinitiative-uckermark.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Verwaltungsrecht. Orientierung VwGO VwVfG Bundesland-VwVfG. Anfechtungs- und Verpflichtungsklage Eilrechtsschutz Normenkontrolle Polizei- und Ordnungsrecht. Schnittstellen Migrations- und Sozialrecht.
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **bebauungsplan augsburg bahnhofsareal** | [testakte-bebauungsplan-augsburg-bahnhofsareal.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bebauungsplan-augsburg-bahnhofsareal.zip) |
-| **bvg widerspruchsstelle abschleppen mobg** | [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Verwaltungsrecht (`fachanwalt-verwaltungsrecht`, dieses Plugin) | [fachanwalt-verwaltungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-verwaltungsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **BVG-Widerspruchsstelle — Abschleppen nach MobG BE** ([`testakten/bvg-widerspruchsstelle-abschleppen-mobg/`](../testakten/bvg-widerspruchsstelle-abschleppen-mobg/)).
-
-Direkt-Download als ZIP: [testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bvg-widerspruchsstelle-abschleppen-mobg.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation in Claude Code
 
@@ -107,7 +69,7 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -128,26 +90,27 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-verwaltungsrecht-widerspruchsschrift` | Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), §... |
 | `mandat-triage-verwaltungsrecht` | Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untätigkeitsklage 3 Monate).... |
 | `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Prüfraster: Tatsa... |
-| `spezial-anfechtungs-risikoampel-und-gegenargumente` | Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-anordnung-livequellen-und-rechtsprechungscheck` | Anordnung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-anfechtungs-risikoampel-und-gegenargumente` | Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-anordnung-livequellen-und-rechtsprechungscheck` | Anordnung: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-eilrechtsschutz-80-abs-5-vwgo` | Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-eilrechtsschutz-schriftsatz-brief-und-memo-bausteine` | Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-einstweilige-verhandlung-vergleich-und-eskalation` | Einstweilige: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-normenkontrolle-zahlen-schwellen-und-berechnung` | Normenkontrolle: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ordnungsrecht-mehrparteien-konflikt-und-interessen` | Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-polizei-compliance-dokumentation-und-akte` | Polizei: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstelle-internationaler-bezug-und-schnittstellen` | Schnittstelle: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verpflichtungsklage-behoerden-gericht-und-registerweg` | Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-eilrechtsschutz-schriftsatz-brief-und-memo-bausteine` | Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-einstweilige-verhandlung-vergleich-und-eskalation` | Einstweilige: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-normenkontrolle-zahlen-schwellen-und-berechnung` | Normenkontrolle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ordnungsrecht-mehrparteien-konflikt-und-interessen` | Ordnungsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-orientierung-sonderfall-und-edge-case` | Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-polizei-compliance-dokumentation-und-akte` | Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb` | Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung... |
+| `spezial-rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstelle-internationaler-bezug-und-schnittstellen` | Schnittstelle: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verpflichtungsklage-behoerden-gericht-und-registerweg` | Verpflichtungsklage: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verwaltungsakt-rechtsbehelf-vorverfahren` | Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-verwaltungsrecht-tatbestand-beweis-und-belege` | Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verwr-red-team-und-qualitaetskontrolle` | Verwr: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vorlaeufiger-mandantenkommunikation-entscheidungsvorlage` | Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vwgo-fristen-form-und-zustaendigkeit` | VwGO: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vwvfg-dokumentenmatrix-und-lueckenliste` | Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-verwaltungsrecht-tatbestand-beweis-und-belege` | Verwaltungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verwr-red-team-und-qualitaetskontrolle` | Verwr: Red-Team und Qualitätskontrolle im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vorlaeufiger-mandantenkommunikation-entscheidungsvorlage` | Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vwgo-fristen-form-und-zustaendigkeit` | VwGO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vwvfg-dokumentenmatrix-und-lueckenliste` | Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), B... |
 | `verwr-folgenbeseitigung-spezial` | Spezialfall Folgenbeseitigungsanspruch: Grundlage Art. 20 Abs. 3 GG, Voraussetzungen rechtswidriger Eingriff, fortdauernde Beeintraechtigung, Wiederherstellungsmoeglichkeit. Pruefraster fuer Klage. |
 | `verwr-planfeststellung-grossvorhaben-spezial` | Spezialfall Planfeststellung Grossvorhaben: §§ 72 ff. VwVfG, oeffentliche Auslegung, Einwendungen, Aboerterungstermin, Planfeststellungsbeschluss. Pruefraster fuer Einwender. |

@@ -19,26 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Hausarbeit BGB Übung Fortgeschrittene — Pohlmann / Leipzig / SS 26** (`hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung`) | [Gesamt-PDF lesen](../testakten/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung/gesamt-pdf/hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-hausarbeit-bgb-uebung-fortgeschrittene-pohlmann-leipzig-ss26-vertragsbruch-aufrechnung.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Freistehendes Plugin für Studierende der Rechtswissenschaft, das durch das Erstellen einer **Hausarbeit oder Seminararbeit lernfördernd** hindurchführt. Es liefert **keine fertigen Lösungen**, sondern stellt Fragen, gibt Strukturen, Methoden-Hinweise und Zitierweise — Du subsumierst selbst.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| hausarbeitenmacher | [hausarbeitenmacher.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
 
 ## Installation
 
@@ -282,24 +263,24 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `rechtstheorie-rechtsphilosophie-anbindung` | Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordn... |
 | `selbstkontrolle-vor-abgabe` | Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkl... |
 | `seminararbeit-modus` | Student schreibt Seminararbeit mit persoenlicher Lekture durch Lehrkraft: Forschungsfrage Literaturschau eigene These Disputation. Unterschied zur Hausarbeit hoehere Eigenständigkeit wissenschaftliche Tiefe Vortragspflicht. Normen Wissen... |
-| `spezial-adressaten-formular-portal-und-einreichung` | Adressaten: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ausfluegen-compliance-dokumentation-und-akte` | Ausfluegen: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-durch-schriftsatz-brief-und-memo-bausteine` | Durch: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-europarecht-mehrparteien-konflikt-und-interessen` | Europarecht: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fertigen-sonderfall-und-edge-case` | Fertigen: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fuehrt-risikoampel-und-gegenargumente` | Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hausarbeiten-fristen-form-und-zustaendigkeit` | Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-juristische-tatbestand-beweis-und-belege` | Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-liefert-beweislast-und-darlegungslast` | Liefert: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Oeffentliches: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtstheorie-internationaler-bezug-und-schnittstellen` | Rechtstheorie: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schleimerei-mandantenkommunikation-entscheidungsvorlage` | Schleimerei: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-seminararbeiten-dokumentenmatrix-und-lueckenliste` | Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sokratisch-behoerden-gericht-und-registerweg` | Sokratisch: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafrecht-zahlen-schwellen-und-berechnung` | Strafrecht: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strategie-red-team-und-qualitaetskontrolle` | Strategie: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-zivilrecht-verhandlung-vergleich-und-eskalation` | Zivilrecht: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-adressaten-formular-portal-und-einreichung` | Adressaten: Formular, Portal und Einreichungslogik im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ausfluegen-compliance-dokumentation-und-akte` | Ausfluegen: Compliance-Dokumentation und Aktenvermerk im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-durch-schriftsatz-brief-und-memo-bausteine` | Durch: Schriftsatz-, Brief- und Memo-Bausteine im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-europarecht-mehrparteien-konflikt-und-interessen` | Europarecht: Mehrparteienkonflikt und Interessenmatrix im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fertigen-sonderfall-und-edge-case` | Fertigen: Sonderfall und Edge-Case-Prüfung im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fuehrt-risikoampel-und-gegenargumente` | Fuehrt: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hausarbeiten-fristen-form-und-zustaendigkeit` | Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-juristische-tatbestand-beweis-und-belege` | Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-liefert-beweislast-und-darlegungslast` | Liefert: Beweislast, Darlegungslast und Substantiierung im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-oeffentliches-livequellen-und-rechtsprechungscheck` | Oeffentliches: Livequellen- und Rechtsprechungscheck im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtstheorie-internationaler-bezug-und-schnittstellen` | Rechtstheorie: Internationaler Bezug und Schnittstellen im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schleimerei-mandantenkommunikation-entscheidungsvorlage` | Schleimerei: Mandantenkommunikation und Entscheidungsvorlage im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-seminararbeiten-dokumentenmatrix-und-lueckenliste` | Seminararbeiten: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sokratisch-behoerden-gericht-und-registerweg` | Sokratisch: Behörden-, Gerichts- oder Registerweg im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafrecht-zahlen-schwellen-und-berechnung` | Strafrecht: Zahlen, Schwellenwerte und Berechnung im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strategie-red-team-und-qualitaetskontrolle` | Strategie: Red-Team und Qualitätskontrolle im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zivilrecht-verhandlung-vergleich-und-eskalation` | Zivilrecht: Verhandlung, Vergleich und Eskalation im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `strafrecht-tatbestand-rechtswidrigkeit-schuld` | Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB K... |
 | `subsumtion-schritt-fuer-schritt` | Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfrast... |
 | `verfassungsrecht-grundrechtspruefung` | Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schr... |

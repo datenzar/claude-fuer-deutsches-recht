@@ -1,0 +1,16 @@
+{
+  "name": "berufsrecht-notare",
+  "version": "70.0.0",
+  "description": "Plugin für Notarrecht: BNotO, BeurkG, DONot, Dienstaufsicht, Urkundspflichten, Neutralität, Verwahrung, Amtspflichten, Vertreter/Verwalter, Disziplinarverfahren und notarielle Berufspraxis.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "notare",
+    "berufsrecht",
+    "kammer",
+    "aufsicht"
+  ]
+}

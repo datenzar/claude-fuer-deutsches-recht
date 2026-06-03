@@ -1,0 +1,94 @@
+---
+name: verl-email-konvolute-zu-fachbeitrag
+description: "Verwertet einen E-Mail-Wechsel als Sachverhaltsquelle und Belegmaterial fuer eine Urteilsanmerkung oder einen Praxisbericht, mit Anonymisierung und Chronologie."
+---
+
+# E-Mail-Konvolute zu Fachbeitrag
+
+## Worum geht es konkret
+
+Manchmal liefert eine Autorin den Sachverhalt eines geplanten Beitrags als E-Mail-Wechsel: Mandant - Anwalt - Behoerde - Gericht. Daraus wird ein Praxisbericht, eine Anmerkung zu einer Behoerdenpraxis oder eine Fallanalyse. Sie muessen den Wust anonymisieren, chronologisieren, zitierbar machen und entscheiden, was tatsaechlich in den Druck soll.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+Sie brauchen ihn, wenn E-Mails als Sachverhaltsbasis fuer einen Verlagsbeitrag dienen sollen. Klaeren Sie:
+
+1. Liegt das Einverstaendnis aller Mailbeteiligten zur Verwertung vor?
+2. Mandantenname, Aktenzeichen, Behoerdenname - was muss anonymisiert werden?
+3. Welche Mails sind tatsaechlich relevant, welche sind Rauschen?
+4. Zielformat (Praxisbericht, Anmerkung, Fallstudie)?
+
+## Material- bzw. Sachrahmen
+
+- .eml / .msg / .pst oder ausgedruckte Mails als PDF.
+- Anlagen (Bescheide, Vertraege).
+- Hinweise der Autorin zu Vertraulichkeit.
+- Bei Anwaltsmandaten: Mandantenfreigabe schriftlich.
+
+## Praxisleitfaden / Schritt fuer Schritt
+
+1. **Vertraulichkeit klaeren.** Ohne schriftliche Freigabe der Mandantin oder anonymisierte Verwertung mit hinreichender Verfremdung: stop. § 43a Abs. 2 BRAO, § 203 StGB.
+2. **Chronologie aufbauen.** Mails nach Sendedatum sortieren. Bei verschachtelten Threads: jede Mail als eigenes Element.
+3. **Beteiligten-Tabelle.** Wer schreibt, wer empfaengt, welche Rolle? Pseudonymisieren (M = Mandantin, A = Anwalt, B = Behoerde, Az.-Code).
+4. **Inhaltliche Verdichtung.** Mails sind oft 80 % Hoeflichkeitsfloskel - die 20 % Substanz extrahieren.
+5. **Wortlautzitate sparsam.** Wo eine Behoerdenformulierung tragend ist, woertlich zitieren mit Anonymisierung der Beteiligten.
+6. **Anlagen pruefen.** Bescheide, Vertraege - getrennt anonymisieren (Schwaerzungen sichtbar, nicht "weisse Flecken").
+7. **Sachverhalt formulieren.** Aus dem Konvolut einen klassischen Tatsachenabsatz im Beitragsstil bauen. Mails werden zur Belegunterlage, nicht zum Druckinhalt.
+
+## Trade-off-Matrix
+
+| Pfad | A: Mails als Belegteil drucken | B: Nur Sachverhalt destillieren | Empfehlung |
+|------|--------------------------------|--------------------------------|------------|
+| Authentizitaet | hoch | mittel | A nur bei expliziter Freigabe und voller Anonymisierung |
+| Lesbarkeit | gering (Brueche durch Formate) | hoch | B im Regelfall |
+| Datenschutz / Berufsrecht | riskant | beherrschbar | B Standard |
+
+## Praxistipps der alten Redaktion
+
+- "Mailwechsel im Druck wirken selten gut. Lieber den Sachverhalt nacherzaehlen und nur eine zentrale Behoerdenpassage zitieren."
+- Originalmails als Belegunterlage im Verlagsarchiv aufbewahren (Audit), aber nicht drucken.
+- Anonymisierung: Personennamen, Adressen, Aktenzeichen, Bankverbindungen, Telefonnummern, IBAN, E-Mail-Adressen.
+- Bei Mandantenmails: jede Verwendung im Beitrag braucht Mandantenfreigabe - die Anwaltin entscheidet das, nicht der Verlag.
+
+## Mustertexte / Vorlagen
+
+**Freigabe-Anschreiben an Autorin:**
+
+> Sehr geehrter Herr Dr. Anwalt, fuer den Praxisbericht zur Behoerdenpraxis in Sachen [X] verwerten wir den uebersandten E-Mail-Wechsel als Sachverhaltsquelle. Wir benoetigen vor Druck: (1) die schriftliche Freigabe Ihrer Mandantin, (2) Bestaetigung der Anonymisierung (siehe Beleg-Anhang, anonymisierte Beteiligten-Tabelle), (3) Hinweis, ob die woertliche Wiedergabe der Behoerdenpassage vom 12.04.2026 im Druck erscheinen darf. Bitte bis 26.06.2026.
+
+**Anonymisierungs-Schablone:**
+
+```
+M     = Mandantin (privat, Mitte 50, NRW)
+A     = Anwalt (Verfasser des Beitrags)
+B     = Bauamt (Mittelstadt)
+Az.   = [Az. anonymisiert, 4-stellig: XXXX/24]
+Datum = im Wortlaut erhalten
+Ort   = Stadt verfremdet ("Mittelstadt, NRW")
+EUR   = Betraege auf 1.000 EUR gerundet, wenn Identifikation droht
+```
+
+## Typische Fehler / Pitfalls
+
+- Mandantenname stehen geblieben - Berufsrechtsverstoss.
+- Bankverbindung / IBAN nicht entfernt.
+- Anonymisierung so duenn, dass aus Kontext klar ist, wer gemeint ist.
+- Mails als Originalformat (Schriftverkehr) ungeprueft in Layout uebernommen - Layout-Bruch.
+- Chronologie verschoben durch Threading-Anzeigen aus Outlook.
+
+## Querverweise
+
+- `verl-roh-research-zu-essay` - aehnlicher Verwertungsprozess.
+- `rechtecheck-urhg-verlg` - Rechte an fremden Mails.
+- `quellen-zitate-fundstellencheck` - fuer Belegbehandlung.
+- `verl-aussagensicherheit-pruefung` - "darf das so im Druck?".
+- `workflow-dokumentenintake` - Intake.
+
+## Quellen Stand 06/2026
+
+- BRAO § 43a Abs. 2 (Verschwiegenheit), [https://www.gesetze-im-internet.de/brao/](https://www.gesetze-im-internet.de/brao/).
+- StGB § 203, [https://www.gesetze-im-internet.de/stgb/](https://www.gesetze-im-internet.de/stgb/).
+- DSGVO Art. 6, Art. 9.
+- UrhG § 51 (Zitatschranke), § 63 (Quellenangabe).
+- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

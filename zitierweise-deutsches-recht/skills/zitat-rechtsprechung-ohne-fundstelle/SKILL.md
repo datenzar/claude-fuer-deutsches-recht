@@ -1,12 +1,12 @@
 ---
 name: zitat-rechtsprechung-ohne-fundstelle
-description: "Rechtsprechung ohne offizielle Fundstelle: nur juris- oder BeckRS-Eintrag. Loesungen: dejure.org-Permalink, Gericht/Datum/Aktenzeichen + 'juris', alternativ BeckRS-Eintrag mit klarer Angabe. Vermeiden: 'BeckRS allein' fuer wichtige Argumente."
+description: "Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden."
 ---
 
 # Rechtsprechung ohne amtl. Fundstelle
 
 ## Aufgabe
-Rechtsprechung ohne offizielle Fundstelle: nur juris- oder BeckRS-Eintrag.
+Rechtsprechung ohne amtliche oder frei zugängliche Fundstelle so behandeln, dass keine Scheinsicherheit entsteht: Gericht, Entscheidungsform, Datum und Aktenzeichen sichern, freie Quelle suchen und Datenbanknummern nur als vom Nutzer gelieferte oder live lizenzierte Fundspur kennzeichnen.
 
 
 ## Fachlicher Arbeitskern

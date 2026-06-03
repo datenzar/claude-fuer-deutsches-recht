@@ -32,7 +32,7 @@ Sieben-Fragen-Diagnose:
 - **EuGH C-300/21 Oesterreichische Post** (Urteil 04.05.2023): Kein blosser Verstoss reicht; konkreter Schaden notwendig; keine Erheblichkeitsschwelle.
 - **EuGH C-340/21 Bulgarian Sofia** (Urteil 14.12.2023): Auch blosse Sorge vor Datenmissbrauch kann immaterieller Schaden sein; Verantwortlicher hat TOM-Pflicht und Beweislast fuer Geeignetheit; Hackerangriff allein entlastet nicht.
 - **EuGH C-687/21 MediaMarkt** (Urteil 25.01.2024): Befuerchtungen Betroffener koennen Schaden begruenden; konkretes Ausmass und Kausalitaet sind zu pruefen.
-- **EuGH C-741/21 juris** (Urteil 11.04.2024): Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Hoehe nach nationalem Recht, aber unter Beachtung Effektivitaet und Aequivalenz.
+- **EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH):** Verschulden und Schaden — Art. 82 DSGVO setzt Verschulden voraus; Hoehe nach nationalem Recht, aber unter Beachtung Effektivitaet und Aequivalenz.
 - **EuGH C-456/22 VX/Saale** (Urteil 14.12.2023): Schadensersatz hat kompensatorische und keine Straffunktion; auch geringe Schadenshoehen moeglich.
 - **BGH VI ZR 1148/22** (Urteil 18.11.2024): Bei DSGVO-Verstoss zeitnah Kontrollverlust und Folgen darzulegen; pauschale Behauptung reicht nicht.
 - **Art. 79 II DSGVO** Gerichtsstand am Sitz des Verantwortlichen oder gewoehnlichen Aufenthaltsort des Betroffenen.
@@ -118,6 +118,15 @@ Sieben-Fragen-Diagnose:
 - EuGH C-300/21 Oesterreichische Post, Urteil 04.05.2023.
 - EuGH C-340/21 Bulgarian Sofia, Urteil 14.12.2023.
 - EuGH C-687/21 MediaMarkt, Urteil 25.01.2024.
-- EuGH C-741/21 juris, Urteil 11.04.2024.
+- EuGH, Urt. v. 11.04.2024 - C-741/21 (juris GmbH), vor Ausgabe über curia.europa.eu verifizieren.
 - EuGH C-456/22 VX gegen Saale, Urteil 14.12.2023.
 - Keine Aufsatzfundstellen aus Modellwissen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

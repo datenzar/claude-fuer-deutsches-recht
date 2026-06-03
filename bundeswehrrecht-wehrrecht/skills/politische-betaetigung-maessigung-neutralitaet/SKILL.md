@@ -3,36 +3,96 @@ name: politische-betaetigung-maessigung-neutralitaet
 description: "Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Politische Betätigung Mäßigung Neutralität
+# Politische Betätigung – Mäßigungsgebot und Neutralität
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+§ 15 SG bindet den Soldaten an ein Mäßigungs- und Neutralitätsgebot. Während des Dienstes ist jede Werbung für oder gegen politische Richtungen untersagt; außerhalb des Dienstes hat sich der Soldat so zu mäßigen, dass das Vertrauen in seine Pflichterfüllung und die Achtung in seiner dienstlichen Stellung nicht ernsthaft beeinträchtigt werden. Der Skill ordnet die Grenze zwischen Meinungsfreiheit (Art. 5 GG) und § 15 SG, insbesondere im Social-Media-Zeitalter.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Politische Betätigung Mäßigung Neutralität: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welche Äußerung (mündlich, schriftlich, Social Media, Versammlungsteilnahme)?
+- Ort und Zeit (im Dienst, außer Dienst, Uniform getragen?)?
+- Adressatenkreis (geschlossener Kreis, halböffentlich, öffentlich, viral)?
+- Politische Richtung (verfassungswidrige Parteien? Gewaltverherrlichung? Diskriminierung?)?
+- Liegt bereits ein Hinweis, eine Anhörung, ein Vorgang vor?
+- Gibt es Schnittstellen zu § 7 SG (Treuepflicht), § 8 SG (Demokratie), § 17 SG (Achtungspflicht)?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 15 I SG: Politische Betätigung im Dienst – Verbot.
+- § 15 II SG: Mäßigungsgebot außer Dienst – Vertrauensbeeinträchtigung verboten.
+- § 7 SG: Treuepflicht zur fdGO.
+- § 8 SG: Eintreten für demokratische Grundordnung.
+- § 17 SG: Achtungs- und Vertrauenswürdigkeit.
+- Art. 5 GG: Meinungs- und Pressefreiheit – Grundrechtsausstrahlung.
+- BVerfG zu Soldaten und politischer Meinungsfreiheit – ständige Rechtsprechung zur Verhältnismäßigkeit.
+- BVerwG Wehrdienstsenate – ständige Rechtsprechung zur Auslegung von § 15 SG, häufig zugespitzt bei Social-Media-Posts und Reichsbürger-/Extremismusnähe.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Äußerung präzise dokumentieren.** Wortlaut, Datum, Plattform, Reichweite, Uniform, Dienstbezug.
+2. **Kontext einordnen.** Dienstlicher oder außerdienstlicher Rahmen? Geschlossener oder offener Kreis?
+3. **Inhaltsprüfung.**
+   - Werbung für politische Richtung im Dienst → § 15 I SG.
+   - Außer Dienst: Vertrauensbeeinträchtigung? Achtungswürdigkeit § 17 SG?
+   - Treuepflicht § 7/8 SG bei verfassungswidrigen oder extremistischen Inhalten.
+4. **Verfahrensstufe.** Innerdienstliche Belehrung – einfache Disziplinarmaßnahme – gerichtliches Disziplinarverfahren – ggf. Entlassung nach § 55 V SG.
+5. **Verteidigungsbausteine.**
+   - Art. 5 GG-Würdigung,
+   - keine Identifizierbarkeit als Soldat,
+   - bloße Faktendarstellung statt politischer Werbung,
+   - Rückzug, Löschung, Distanzierung.
+6. **Anhörung.** Schweigen bis Akteneinsicht.
+7. **Bei Extremismusverdacht** parallel: sicherheitsrechtliche Verfahren, MAD-Beteiligung, Sicherheitsüberprüfung (SÜG).
+
+## Trade-off-Matrix
+
+| Äußerung | Risiko |
+| --- | --- |
+| Wahlplakat im Garten, ohne Uniform | gering |
+| Social-Media-Post mit Foto in Uniform | hoch |
+| Teilnahme an Demonstration mit fdGO-feindlichem Charakter | sehr hoch (§§ 7, 8 SG) |
+| Like / Share eines extremistischen Beitrags | mittel-hoch (Indiz für Gesinnung) |
+
+## Praxistipps
+
+- Uniform bei privater politischer Betätigung tabu – Vertrauensbeeinträchtigung praktisch immer angenommen.
+- Reichweite ist wichtig: 5000 Follower wirken wie eine Versammlung – Mäßigungsgebot greift.
+- Distanzierung und Löschung können in der Verteidigung helfen, beseitigen aber nicht die Tatbestandsverwirklichung.
+- Mitgliedschaft in extremistischen Organisationen → § 7 SG + § 8 SG, oft Entlassungsgrund.
+- Whistleblowing zu Missständen – andere Bewertung: § 13 SG Wahrheitspflicht und § 14 SG Verschwiegenheit, ggf. Wehrbeauftragter (Art. 45b GG).
+
+## Mustertexte
+
+**Stellungnahme zur Anhörung:**
+"Zur Anhörung vom [Datum] nehme ich wie folgt Stellung: Die in Bezug genommene Äußerung erfolgte außerhalb des Dienstes, ohne Uniform und ohne dienstlichen Bezug. Sie ist von der Meinungsfreiheit aus Art. 5 GG gedeckt. Eine Vertrauensbeeinträchtigung iSd § 15 II SG liegt nicht vor, weil [...]. Hilfsweise: Der Mandant hat die Äußerung am [Datum] entfernt und sich distanziert."
+
+**Beratungshinweis an Soldatenmandant:**
+"Ich rate dringend: 1. Keine politischen Posts in Uniform oder mit Bundeswehr-Bezug. 2. Keine Teilnahme an Versammlungen, die verfassungswidrigen Inhalten dienen. 3. Likes/Shares zählen als Äußerung. 4. Private Accounts mit dienstlichem Namen vermeiden."
+
+## Typische Fehler
+
+- "Privater Account" als Schutzbehauptung – Reichweite und Identifikationsmerkmale entscheiden.
+- Like-/Share-Bagatellisierung – wird als Äußerung gewertet.
+- Sofortige Einlassung zur Sache in der Anhörung.
+- Verwechslung von Treuepflicht (§ 7 SG) und Mäßigungsgebot (§ 15 SG).
+- Distanzierung erst nach Beginn des Verfahrens – Glaubhaftigkeit fraglich.
+
+## Querverweise
+
+- soldatengesetz-rechtsstellung-grundpflichten
+- presseaeusserung-meinungsfreiheit-soldat
+- social-media-soldat-dienstpflichten
+- extremismus-verdachtsfall-sicherheitsrecht
+- pflicht-zum-treuen-dienen-7-sg
+- geheimschutz-sicherheitsueberpruefung-sueg
+
+## Quellen Stand 06/2026
+
+- § 15 SG – Volltext gesetze-im-internet.de.
+- Art. 5 GG.
+- BVerfG zu Meinungsfreiheit von Soldaten – ständige Rechtsprechung; Volltexte bundesverfassungsgericht.de.
+- BVerwG Wehrdienstsenate – ständige Rechtsprechung zu § 15 SG und Social Media (Az. nach Verifikation).
+- Wehrbeauftragter – Jahresberichte zu Extremismusfällen (bundestag.de/wehrbeauftragter).
+- ZDv A-2630/1 (innere Führung) – nur nach Vorlage.

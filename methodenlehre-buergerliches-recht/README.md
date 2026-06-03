@@ -16,23 +16,10 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
+| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
 | **Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)** (`methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim`) | [Gesamt-PDF lesen](../testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) | [`testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
-| **Methodenlehre im Bürgerlichen Recht — Fall Tannenmoor/Radarwarner (Meckenheim)** (`methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim`) | [Gesamt-PDF lesen](../testakten/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim/gesamt-pdf/methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-methodenlehre-falldiskurs-radarwarner-werkstattvertrag-tannenmoor-meckenheim.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 
 Deutsche juristische Methodenlehre und Falllösung aus anwaltlicher Perspektive. Gutachtenstil mit Anspruchsgrundlagen-Reihenfolge. Auslegung Wortlaut Systematik Historie Telos ohne starre Rangfolge — pragmatische Gewichtung wie in der BGH-Praxis. Generalklauseln und Rechtsfortbildung als reale Werkzeuge. Anwaltliche Strategie statt richterliche Selbstbindung.
 
@@ -52,7 +39,7 @@ Das Plugin liefert die **methodische Klammer** für jede zivilrechtliche Bewertu
 - **Memo-Standardstruktur**: Sachverhalt → Frage(n) → Kurzantwort → rechtliche Bewertung → Gesamtergebnis → Risiken → Quellenverzeichnis nach Hauszitierweise.
 - **Selbstprüfungs-Checkliste vor jeder Ausgabe**: acht Fragen, mit denen jede zivilrechtliche Antwort durchläuft, bevor sie ausgeliefert wird.
 
-Das Plugin verzichtet bewusst darauf, eine methodendebatten-getriebene Position zu beziehen (Rüthers-Warnung vor zu freier Teleologie, Friedrich Müller, Strukturierende Rechtslehre etc.). Es bildet ab, was Senate des BGH und Berufungsinstanzen **tatsächlich** tun, nicht was die Methodenlehre als Idealtypus fordert.
+Das Plugin verzichtet bewusst darauf, eine methodendebatten-getriebene Position zu beziehen. Es nimmt die Warnung vor zu freier Teleologie, Scheinobjektivität und verdeckter richterlicher Normsetzung ernst, bildet aber zugleich ab, was Senate des BGH und Berufungsinstanzen **tatsächlich** tun, nicht was die Methodenlehre als Idealtypus fordert.
 
 
 ## Perspektiv-Skills: freiheitlich, konservativ, postfaktisch-resistent
@@ -64,14 +51,6 @@ Neu hinzugekommen sind kontrollierte Perspektiv-Skills, die bewusst **keine Ideo
 - **postfaktisch-resistent:** Narrative, Anekdoten, erfundene Marktüblichkeit und Scheinempirie erkennen; Tatsache, Wertung, Normzweck und Beweis strikt trennen.
 
 Der Zweck ist nicht, ein gewünschtes Ergebnis zu produzieren, sondern eine zivilrechtliche Lösung methodisch ehrlicher, belastbarer und angreifbarer zu machen.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Methodenlehre bürgerliches Recht (`methodenlehre-buergerliches-recht`, dieses Plugin) | [methodenlehre-buergerliches-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/methodenlehre-buergerliches-recht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -145,20 +124,31 @@ Apache-2.0 OR MIT — Auswahl beim Empfänger.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 66 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 86 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
+| `abwaegung-gewichtung-intensitaet` | Gewichtet kollidierende Positionen nach Intensität, Rang, Normzweck, Eingriffstiefe, Schutzbedarf und praktischer Folgenlage. |
+| `abwaegung-material-auswahl` | Wählt das rechtlich zulässige Abwägungsmaterial aus und trennt Normzweck, Tatsachen, Interessen, Grundrechtspositionen, Folgen und bloße Rhetorik. |
+| `abwaegungslast-non-liquet` | Prüft, wer das Risiko unaufklärbarer Wertungs-, Prognose- oder Tatsachenzweifel trägt, wenn eine Abwägung nicht eindeutig aufgeht. |
+| `abwaegungszustaendigkeit-institutionen` | Bestimmt, wer legitimerweise abwägen darf: Gesetzgeber, Gericht, Verwaltung, Privatautonomie, Verband, Schiedsgericht oder Wissenschaft. |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klar... |
 | `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogi... |
 | `argumentum-figuren-e-contrario-a-maiore-a-fortiori` | Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-B... |
+| `auslegung-rechtsfortbildung-grenzprotokoll` | Zieht die Grenze zwischen Auslegung, Analogie, teleologischer Reduktion und offener Rechtsfortbildung mit Rechtsstaats- und Demokratiecheck. |
 | `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-p... |
 | `empirie-im-zivilrecht-quellenkritik` | Prüft empirische, technische und ökonomische Behauptungen in zivilrechtlichen Argumenten auf Belegqualität, Relevanz und rechtliche Anschlussfähigkeit. |
+| `eu-auslegung-autonom-mehrsprachig` | Prüft autonome unionsrechtliche Auslegung, Mehrsprachigkeit, Systematik, Telos und nationale Anschlussfähigkeit. |
+| `folgenorientierte-auslegung-empirie` | Prüft Folgenargumente, Prognosen und empirische Behauptungen in zivilrechtlichen Auslegungsfragen. |
 | `freiheitlicher-paternalismus-check-vertrag` | Prüft, ob eine Vertragskorrektur wirklich rechtlich geboten ist oder die Privatautonomie ohne ausreichende Normgrundlage verdrängt. |
+| `generalklauseln-abwaegungslenkung` | Macht Generalklauseln wie Treu und Glauben, Sittenwidrigkeit und gute Sitten zu abwägungslenkenden Normen statt bloßen Bauchentscheidungen. |
+| `gesetzgebung-justiz-wissenschaft-rollen` | Analysiert die Aufgabenteilung zwischen Gesetzgebung, Rechtsprechung und Wissenschaft bei dogmatischer Rechtsfortbildung. |
 | `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellun... |
 | `institutionelle-folgen-und-regelbindung` | Bewertet zivilrechtliche Lösungen danach, ob sie verallgemeinerbar, vorhersagbar und institutionell tragfähig sind. |
 | `interessenjurisprudenz-heck` | Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: rati... |
+| `kodifikationsalterung-und-lueckendisziplin` | Prüft, ob eine alte Kodifikationsnorm angepasst ausgelegt, fortgebildet oder dem Gesetzgeber überlassen werden muss. |
 | `konservative-methodenkritik-gesetzesbindung` | Prüft Auslegung und Rechtsfortbildung aus einer gesetzesgebundenen, institutionell vorsichtigen Perspektive: Text, System, demokratische Verantwortung, Kontinuität und Vertrauensschutz. |
+| `kontrolle-abwaegungsentscheidungen` | Entwirft Kontrollmaßstäbe für Abwägungsentscheidungen: voll prüfbar, vertretbar, evident fehlerhaft, Begründungsdefizit oder Zuständigkeitsfehler. |
 | `legal-realism-und-critical-legal-studies` | American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Sys... |
 | `libertaere-methodenkritik-privatautonomie` | Prüft zivilrechtliche Argumente aus einer freiheitlichen, privatautonomiebetonten Perspektive, ohne Gesetzesbindung, Schutzpflichten, zwingendes Recht oder Grundrechte zu übergehen. |
 | `meth-anspruchsgrundlage-pyramide-bauleiter` | Bauleiter Anspruchsgrundlagen-Pyramide BGB: vertraglich, vertragsaehnlich, dinglich, deliktisch, bereicherungsrechtlich. Pruefraster Reihenfolge der Pruefung mit Beispielen. |
@@ -166,40 +156,49 @@ Automatisch generierte Komplett-Liste aller 66 Skills in diesem Plugin. Beschrei
 | `meth-richterrecht-rechtsfortbildung-spezial` | Spezialfall Richterrecht und Rechtsfortbildung praeter legem und contra legem: BVerfG-Vorgaben, Methodengrenzen, Beispiele BGH. Pruefraster Schriftsatz mit ungewoehnlichem Argument. |
 | `meth-verfassungskonforme-auslegung-spezial` | Spezialfall verfassungskonforme Auslegung: Grenzen, Vorrang der Verfassung, Vorlagepflicht Art. 100 GG, EuGH-Vorlage. Pruefraster fuer Verteidiger und Klaeger. |
 | `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Si... |
+| `methodenehrlichkeit-ideologiekritik-check` | Prüft, ob eine zivilrechtliche Lösung ihre Wertung offenlegt oder politische, ökonomische oder moralische Entscheidungen als angeblich zwingende Methode tarnt. |
 | `methodenlehre-anwenden` | Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch... |
 | `methodenstreit-red-team-gutachten` | Simuliert mehrere methodische Lesarten eines BGB-Problems und destilliert daraus eine robuste, ehrliche Argumentation. |
+| `methodenwahl-offenlegen-schriftsatz` | Macht die Methodenwahl im Anwaltsschriftsatz sichtbar, ohne den Schriftsatz akademisch oder angreifbar zu überladen. |
+| `methodischer-demokratiecheck` | Prüft, ob eine Lösung demokratische Gesetzesbindung, richterliche Aufgabe, Gewaltenteilung und Rechtssicherheit ausreichend respektiert. |
 | `narrativkritik-und-subsumtion` | Verhindert, dass eine schöne Geschichte die Subsumtion ersetzt; baut aus Erzählungen saubere Tatbestandsmerkmale, Belege und Rechtsfolgen. |
+| `obersatzbildung-wertungsoffen` | Bildet tragfähige Obersätze bei unbestimmten Rechtsbegriffen, Typusbegriffen und Generalklauseln, ohne die spätere Abwägung zu verstecken. |
 | `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im de... |
 | `originalismus-und-gesetzgebungsmaterialien-deutschland` | Nutzt Gesetzgebungsmaterialien methodisch sauber, ohne US-Originalismus unkritisch auf deutsches Recht zu übertragen. |
 | `pandekten-und-begriffsjurisprudenz` | Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkun... |
 | `positivismus-und-rueckbindung-an-den-text` | Nutzt rechtspositivistische Methodendisziplin für BGB-Fälle: Geltendes Recht zuerst, Moral und Zweck nur mit Normanknüpfung, keine verdeckte Ersatzgesetzgebung. |
 | `postfaktische-argumente-red-team` | Erkennt postfaktische oder pseudoempirische Muster in zivilrechtlicher Argumentation und zwingt zur Trennung von Tatsache, Wertung, Normzweck, Lebenserfahrung und Beweis. |
+| `praezedenz-distinguishing-overruling-deutsch` | Überträgt Präjudizienarbeit in deutsche Schriftsätze: ratio, tragender Grund, Vergleichbarkeit, Abgrenzung, Fortführung oder Aufgabe. |
 | `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transna... |
+| `rechtsvergleichung-methodisch-sauber` | Nutzt Rechtsvergleichung als methodisches Argument, ohne fremde Lösungen blind in deutsches Recht zu importieren. |
 | `richterliche-zurueckhaltung-und-rechtsfortbildung` | Prüft, ob Analogie, teleologische Reduktion oder richterliche Rechtsfortbildung noch methodisch vertretbar sind oder die Grenze zur Ersatzgesetzgebung überschreiten. |
-| `rueckwirkende-methodenehrlichkeit-ruthers-check` | Prüft, ob eine zivilrechtliche Lösung ihre Wertung offenlegt oder politische, ökonomische oder moralische Entscheidungen als angeblich zwingende Methode tarnt. |
+| `richtlinienkonforme-auslegung-grenzen` | Prüft richtlinienkonforme Auslegung, überschießende Umsetzung, Anwendungsvorrang, horizontale Grenzen und contra-legem-Risiken. |
+| `sachverhalt-als-wertungsprodukt` | Prüft, wie Sachverhaltsfeststellung, Beweiswürdigung und rechtliche Wertung ineinandergreifen, ohne Tatsachen und Normen zu vermischen. |
 | `savigny-vier-auslegungsmethoden` | Savignys klassischer Vierer-Kanon der Auslegung (grammatikalisch, logisch-systematisch, historisch, teleologisch). Theoretische Grundlage, Werkstand, Anwendung im BGB, Verhaeltnis zur modernen pragmatischen Auslegung. Klaert, warum die B... |
-| `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Anspruchsgrundlagen: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste` | Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-auslegung-verhandlung-vergleich-und-eskalation` | Auslegung: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-buergerlichen-fristen-form-und-zustaendigkeit` | Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-buergerliches-abschlussprodukt-und-uebergabe` | Buergerliches: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gutachtenstil-risikoampel-und-gegenargumente` | Gutachtenstil: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-historie-compliance-dokumentation-und-akte` | Historie: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-lueckenfuellung-sonderfall-und-edge-case` | Lueckenfuellung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-methodenlehre-erstpruefung-und-mandatsziel` | Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pragmatisch-internationaler-bezug-und-schnittstellen` | Pragmatisch: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsanwendung-tatbestand-beweis-und-belege` | Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Reihenfolge: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-starren-formular-portal-und-einreichung` | Starren: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-system-zahlen-schwellen-und-berechnung` | System: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-telos-mehrparteien-konflikt-und-interessen` | Telos: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-unionsrechtskonforme-beweislast-und-darlegungslast` | Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage` | Verfassungs: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verjaehrung-fristennotiz-und-naechster-schritt` | Verjaehrung: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vorrang-red-team-und-qualitaetskontrolle` | Vorrang: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wortlaut-livequellen-und-rechtsprechungscheck` | Wortlaut: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Anspruchsgrundlagen: Behörden-, Gerichts- oder Registerweg im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste` | Anwaltsperspektive: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardp... |
+| `spezial-auslegung-verhandlung-vergleich-und-eskalation` | Auslegung: Verhandlung, Vergleich und Eskalation im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-buergerlichen-fristen-form-und-zustaendigkeit` | Buergerlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-buergerliches-abschlussprodukt-und-uebergabe` | Buergerliches: Abschlussprodukt und Übergabe im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gutachtenstil-risikoampel-und-gegenargumente` | Gutachtenstil: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardpr... |
+| `spezial-historie-compliance-dokumentation-und-akte` | Historie: Compliance-Dokumentation und Aktenvermerk im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-lueckenfuellung-sonderfall-und-edge-case` | Lueckenfuellung: Sonderfall und Edge-Case-Prüfung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-methodenlehre-erstpruefung-und-mandatsziel` | Methodenlehre: Erstprüfung, Rollenklärung und Mandatsziel im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pragmatisch-internationaler-bezug-und-schnittstellen` | Pragmatisch: Internationaler Bezug und Schnittstellen im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsanwendung-tatbestand-beweis-und-belege` | Rechtsanwendung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüf... |
+| `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Reihenfolge: Schriftsatz-, Brief- und Memo-Bausteine im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-starren-formular-portal-und-einreichung` | Starren: Formular, Portal und Einreichungslogik im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-system-zahlen-schwellen-und-berechnung` | System: Zahlen, Schwellenwerte und Berechnung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-telos-mehrparteien-konflikt-und-interessen` | Telos: Mehrparteienkonflikt und Interessenmatrix im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-unionsrechtskonforme-beweislast-und-darlegungslast` | Unionsrechtskonforme: Beweislast, Darlegungslast und Substantiierung im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standard... |
+| `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage` | Verfassungs: Mandantenkommunikation und Entscheidungsvorlage im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verjaehrung-fristennotiz-und-naechster-schritt` | Verjaehrung: Fristennotiz und nächster Schritt im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vorrang-red-team-und-qualitaetskontrolle` | Vorrang: Red-Team und Qualitätskontrolle im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wortlaut-livequellen-und-rechtsprechungscheck` | Wortlaut: Livequellen- und Rechtsprechungscheck im Plugin methodenlehre buergerliches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `systematische-auslegung` | Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Kon... |
+| `systemkritik-begriffsfallen` | Erkennt, wann juristische Begriffe nur scheinbar lösen, tatsächlich aber Wertungen, Politik oder Folgenfragen verdecken. |
 | `systemtheorie-luhmann-rechtssystem-autopoiese` | Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtscha... |
+| `technische-begriffe-neutralitaetscheck` | Prüft technische oder dogmatische Neutralitätsrahmen darauf, ob sie Streitfragen verdecken statt klären. |
 | `teleologische-auslegung` | Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegun... |
 | `topik-viehweg-vs-systemdenken` | Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz un... |
 | `verfassungs-und-unionsrechtskonforme-auslegung` | Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung v... |

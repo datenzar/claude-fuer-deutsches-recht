@@ -1,6 +1,6 @@
 ---
 name: spezial-einstellung-compliance-dokumentation-und-akte
-description: "Einstellung: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Einstellung: Compliance-Dokumentation und Aktenvermerk im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Einstellung: Compliance-Dokumentation und Aktenvermerk
@@ -18,6 +18,15 @@ Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Ei
 - § 154 StPO Beschränkung bei mehreren Tatkomplexen; § 154a StPO bei mehreren Tatbeständen einer Tat.
 - Im Strafbefehlsverfahren: § 411 Abs. 3 StPO – Gericht kann Einstellung nach §§ 153, 153a StPO auch nach Einspruch beschließen, sofern Voraussetzungen vorliegen.
 - Praxis-Tipp: Antrag auf Einstellung mit konkreter Begründung (geringe Schuld, geringes öffentliches Interesse, ausgeglichene Wiedergutmachung) und ggf. Vorschlag für Auflagen-Höhe (i.d.R. 10-30 Tagessätze als Zahlung). Mandant über Folgen aufklären: keine Verurteilung, aber Zahlung/Auflage muss erfüllt werden, sonst Wiederaufleben des Verfahrens.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Einstellung.
+- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
+- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

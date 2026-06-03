@@ -62,3 +62,12 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Nebenkostenabrechnung:** Erstattung Nachzahlung als KdU im Monat des Zuflusses; Guthaben mindert KdU im Folgemonat.
 - **Eilrechtsschutz § 86b II SGG:** bei drohender Wohnungsloskeit zwingend; Anordnungsanspruch (KdU-Anspruch) und Anordnungsgrund (Raeumungsklage / Kuendigung) glaubhaft machen.
 - **Praxis-Tipp:** Bei Umzug aus Kostengruenden vorherige Zusicherung § 22 IV SGB II einholen; sonst keine Uebernahme erhoehter Kosten.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

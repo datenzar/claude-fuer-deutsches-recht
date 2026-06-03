@@ -1,6 +1,6 @@
 ---
 name: spezial-strafverteidigung-tatbestand-beweis-und-belege
-description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Strafverteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -17,6 +17,15 @@ Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfel
 - Beweisverwertungsverbote: BGH ständige Rspr. zu §§ 136 Abs. 1 S. 2, 136a StPO (Belehrung, verbotene Vernehmungsmethoden); bei rechtswidriger Beweisgewinnung Abwägungslehre.
 - Beweisantrag in der HV: § 244 Abs. 3-6 StPO – Ablehnungsgründe genau prüfen, sonst Revisionsrüge nach § 338 Nr. 8 StPO drohend.
 - Praxis-Tipp: "Lückenliste" je Tatbestandsmerkmal führen – Spalten: Merkmal, Belegtatsache, Beweismittel, Beweiskraft (sicher/streitig/lückenhaft), Verteidigungslinie.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Strafverteidigung.
+- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
+- **Plugin-Rahmen:** Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie;....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Betreuungsrecht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Betreuungsrecht-Plugin für ehrenamtliche Familienbetreuer, Berufsbetreuer, Angehörige, Betroffene und anwaltliche Begleiter. Fragt Rolle, Aufgabenkreise, Fristen, Unterlagen, Risiken, Wunsch der betreuten Person und Ziel-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
 ---
 
 <!-- konvers-stil-v1 -->
@@ -22,7 +22,18 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Betreuungsrecht-Pl
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Betreuungsrecht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.
+**Plugin-Fokus:** Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer und professionelle Betreuung: erster Monat, Scan-Akte, Kalender/Reminder, Gerichtskommunikation, Wunschermittlung, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse, Verdachtsverträge und Schutzplan nach BtOG und BGB.
+
+### Ehrenamtlicher Familienbetreuer-Modus
+
+Wenn der Nutzer als Angehöriger, Familienbetreuer oder erstmaliger ehrenamtlicher Betreuer schreibt, führe besonders niedrigschwellig:
+
+1. **Beruhigen und ordnen:** Erst klären, ob überhaupt schon ein Beschluss vorliegt und welche Aufgabenkreise genau gelten.
+2. **Nicht überfordern:** keine juristische Gesamtabhandlung, sondern drei Ebenen: `heute`, `diese Woche`, `laufend beobachten`.
+3. **Schutz der betreuten Person:** Wunschermittlung nach § 1821 BGB, mildestes Mittel, keine automatische Bevormundung.
+4. **Gerichtstaugliche Ordnung:** Scans, Belege, Aktenzeichen, Fristen, Jahresbericht, Vermögensverzeichnis.
+5. **Hilfe aktivieren:** Betreuungsgericht, Betreuungsbehörde, Betreuungsverein, Verhinderungsbetreuung und anwaltliche Hilfe an den richtigen Stellen.
+6. **Überforderung ernst nehmen:** Bei Immobilien, Erbe, hohem Vermögen, Familienkonflikt, freiheitsentziehenden Maßnahmen, Zwangsbehandlung oder verworrener Vermögenslage früh eskalieren.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -59,7 +70,9 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
-| Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Rolle | Wer fragt: betreute Person, Angehöriger/Familienbetreuer, ehrenamtlicher Betreuer, Berufs-/Vereinsbetreuer, Betreuungsbehörde, Anwalt? | Perspektive, Ton und Hilfen bestimmen. |
+| Aufgabenkreise | Welche Aufgabenkreise stehen im Beschluss: Vermögenssorge, Gesundheitssorge, Wohnen, Behörden, Post, Aufenthalt? | Nur innerhalb des Aufgabenkreises handeln. |
+| Wunsch | Was will die betreute Person selbst, heute oder früher erkennbar? | § 1821 BGB ist der Kern der Betreuung. |
 | Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
 | Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
 | Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
@@ -114,11 +127,21 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. Aktualisierte Eckpfeiler 2025: BGH 24.09.2025 - XII ZB 513/24 (Wunsch des Betreuten auf Angehörige hat Vorrang vor Berufsbetreuer; § 26 FamFG); BGH 12.02.2025 - XII ZB 433/24 (Bestimmtheitsanforderungen Zwangsbehandlungsbeschluss). |
+| `ehrenamtlicher-betreuer-erster-monat` | Wenn ein Angehöriger oder ehrenamtlicher Betreuer neu bestellt ist und einen handhabbaren 30-Tage-Plan braucht. |
+| `familienbetreuer-alltagscockpit` | Wenn Post, Pflege, Bank, Heim, Arzt, Gericht und Behörden in einen Wochenplan gebracht werden sollen. |
+| `dokumentenscan-aktenablage-und-belegmappe` | Wenn Scans, Fotos, E-Mails, Kontoauszüge und Bescheide unsortiert vorliegen. |
+| `kalender-reminder-und-fristenmanagement` | Wenn Termine, Berichtspflichten, Bescheidfristen, Zahlungen und Routinekontakte in Reminder übersetzt werden sollen. |
+| `betreuungsgericht-kommunikation-fuer-angehoerige` | Wenn ein knapper Brief, eine Rückfrage, Fristverlängerung oder Genehmigungsanfrage ans Gericht benötigt wird. |
+| `wunschermittlung-unterstuetzte-entscheidung` | Wenn unklar ist, was die betreute Person will oder wie ihr Wunsch dokumentiert werden soll. |
+| `betreuungsverein-behoerde-hilfe-holen` | Wenn der ehrenamtliche Betreuer Unterstützung, Einführung, Fortbildung oder Anbindung braucht. |
+| `ueberforderung-verhinderung-und-abgabe` | Wenn der Betreuer merkt, dass Zeit, Krankheit, Konflikt oder Komplexität die Betreuung gefährden. |
+| `schutzplan-betreute-person-risikoampel` | Wenn Gesundheits-, Wohn-, Vermögens-, Digitalbetrugs- oder Pflegerisiken schnell priorisiert werden müssen. |
+| `familienkonflikt-grenzen-und-rollen` | Wenn Angehörige streiten, Auskunft verlangen, Druck machen oder Eigeninteressen im Raum stehen. |
+| Rechtsprechung live prüfen | Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der… |
 | `betreuungsrecht-kaltstart-interview` | Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer /… |
 | `genehmigungspflicht-pruefung` | Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung,… |
-| `jahresbericht-betreuungsgericht` | Jahresbericht für Betreuungsgericht nach § 1840 BGB erstellen: Anwendungsfall Betreuer muss jaehrlichen Rechenschaftsbericht über persoenliche und wirtschaftliche Verhältnisse der betreuten Person beim… |
+| `jahresbericht-betreuungsgericht` | Jahresbericht, Anfangsbericht oder Schlussbericht nach § 1863 BGB erstellen und sauber von Vermögensverzeichnis/Rechnungslegung trennen. |
 | `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: Anwendungsfall Betreuer oder Betreuungsgericht hat Verdacht auf ungewöhnliche Zahlungen verdächtige Dauerverträge oder Anlagegeschäfte zum… |
 | `vermoegensverzeichnis-pruefung` | Vermögensverzeichnis für Betreuung prüfen und erstellen: Anwendungsfall Betreuer muss nach § 1835 BGB Vermögensverzeichnis aufnehmen oder bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. § 1835 BGB… |
 
@@ -126,13 +149,15 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das Betreuungsrecht regelt die rechtliche Fuersorge fuer Erwachsene, die ihre Angelegenheiten ganz oder teilweise nicht selbst besorgen koennen. Seit der Reform zum 01.01.2023 gilt das Betreuungsorganisationsgesetz (BtOG) neben den materiellen Normen der §§ 1814 ff. BGB. Das Reformgesetz staerkt das Selbstbestimmungsrecht der betreuten Person, praezisiert die Pflichten des Betreuers und regelt erstmals umfassend die Registrierung und Verguetung beruflicher Betreuer.
 
-Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie deren Rechtsbeistande bei der taeglich anfallenden Dokumentations-, Berichts- und Genehmigungsarbeit gegenueber dem Betreuungsgericht.
+Dieses Plugin unterstützt ehrenamtliche Familienbetreuer, berufliche Betreuer, Vereins- und Behördenbetreuer sowie deren Rechtsbeistände bei der täglich anfallenden Schutz-, Organisations-, Dokumentations-, Berichts- und Genehmigungsarbeit gegenüber betreuter Person, Betreuungsgericht, Behörden, Banken, Heimen, Ärzten und Pflegekassen.
 
 ## Wann brauchen Sie diese Skill?
 
-- Sie sind neu im Betreuungsrecht und moechten einen strukturierten Einstieg in Zustaendigkeiten, Aufgabenkreise und Pflichten.
+- Sie sind als Angehöriger oder ehrenamtlicher Betreuer neu bestellt und wollen nichts falsch machen.
+- Sie müssen Post scannen, Bescheide verstehen, Fristen notieren und mit Gericht, Bank, Heim oder Pflegekasse kommunizieren.
+- Sie sind neu im Betreuungsrecht und möchten einen strukturierten Einstieg in Zuständigkeiten, Aufgabenkreise und Pflichten.
 - Sie sind bereits Betreuer und wollen pruefen, welches Rechtsgeschaeft genehmigungspflichtig ist.
-- Sie muessen den jaehrlichen Rechenschaftsbericht nach § 1840 BGB fuer das Betreuungsgericht erstellen.
+- Sie müssen den Jahresbericht nach § 1863 BGB für das Betreuungsgericht erstellen.
 - Sie haben Zweifel, ob Kontobewegungen oder Vertraege der betreuten Person auf Missbrauch hindeuten.
 - Sie moechten wissen, ob Sie als Berufsbetreuer testamentarisch bedacht werden duerfen.
 
@@ -143,16 +168,18 @@ Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie 
 - **Berufsbetreuer** — registrierter Betreuer nach §§ 23 ff. BtOG, der Betreuungen entgeltlich fuehrt und bestimmte Sachkundeanforderungen erfuellt.
 - **Genehmigungsvorbehalt** — Rechtsgeschaefte, die der Betreuer nur mit vorheriger Zustimmung des Betreuungsgerichts vornehmen darf (§§ 1848 ff. BGB).
 - **Vermögensverzeichnis** — Aufstellung aller Vermoegensgegenstaende und Verbindlichkeiten der betreuten Person bei Amtsuebernahme (§ 1835 BGB).
-- **Jahresbericht** — jaehrliche Rechenschaftspflicht des Betreuers gegenueber dem Betreuungsgericht (§ 1840 BGB).
-- **VBVG** — Verguetung beruflicher Betreuer nach dem Vormuendervergueturgsgesetz; stundenbasierte Pauaschaelen je nach Vermoegenslage und Wohnort der betreuten Person.
+- **Jahresbericht** — jährliche Berichtspflicht des Betreuers gegenüber dem Betreuungsgericht (§ 1863 Abs. 3 BGB).
+- **Betreuungsverein** — anerkannte Stelle, die ehrenamtliche Betreuer einführt, fortbildet, berät und unterstützen kann (§ 15 BtOG).
+- **VBVG** — Vergütung beruflicher Betreuer nach dem Vormünder- und Betreuervergütungsgesetz.
 
 ## Rechtsgrundlagen
 
-- § 1814 BGB — Betreuerbestellung
+- § 1814 BGB — Voraussetzungen der Betreuung
 - §§ 1816 ff. BGB — Auswahl und Eignung des Betreuers
+- § 1821 BGB — Pflichten des Betreuers und Wünsche der betreuten Person
 - §§ 1835 ff. BGB — Vermögensverzeichnis und Rechnungslegung
-- §§ 1839-1841 BGB — Rechnungslegungspflichten
-- § 1840 BGB — Jahresbericht
+- § 1863 BGB — Anfangsbericht, Jahresbericht und Schlussbericht
+- §§ 15, 21, 22 BtOG — Unterstützung, Eignung und Anbindung ehrenamtlicher Betreuer
 - §§ 1848 ff. BGB — Genehmigungspflichtige Rechtsgeschaefte
 - § 30 BtOG — Verbot des Erwerbs von Vermoegensvorteilen
 - §§ 23 ff. BtOG — Registrierung als Berufsbetreuer
@@ -160,7 +187,7 @@ Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie 
 
 ## Schritt-fuer-Schritt: Einstieg ins Plugin
 
-1. Mandantenkonstellation klaeren: Handelt es sich um einen Berufsbetreuer, einen ehrenamtlichen Betreuer oder um Angehoerige, die einen Betreuer einsetzen lassen wollen?
+1. Rolle klären: betreute Person, Angehöriger, ehrenamtlicher Betreuer, Berufsbetreuer, Verein/Behörde oder anwaltliche Begleitung?
 2. Phase des Mandats bestimmen: Ersteinrichtung (Registrierung, Vermögensverzeichnis), laufende Betreuung (Jahresbericht, Genehmigungen) oder Krisenfall (Missbrauchsverdacht, Erbschaftsfragen)?
 3. Passenden Skill auswaehlen (siehe Skill-Tour unten).
 4. Eilfristen pruefen: Genehmigungsantraege nach §§ 1848 ff. BGB sind vor der Massnahme einzuholen; Jahresbericht hat gerichtliche Einreichungsfristen.
@@ -168,10 +195,16 @@ Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie 
 
 ## Skill-Tour (was gibt es hier?)
 
+- `ehrenamtlicher-betreuer-erster-monat` — erste 30 Tage nach Bestellung: Beschluss, Hilfe-System, Akte, Fristen, Gericht.
+- `familienbetreuer-alltagscockpit` — Wochensteuerung für Post, Pflege, Bank, Arzt, Heim, Behörden und Gericht.
+- `dokumentenscan-aktenablage-und-belegmappe` — macht aus Scans und Fotos eine gerichtstaugliche Belegmappe.
+- `kalender-reminder-und-fristenmanagement` — baut aus Bescheiden, Gerichtspost und Routinepflichten einen Reminderplan.
+- `betreuungsgericht-kommunikation-fuer-angehoerige` — formuliert knappe Rückfragen, Sachstandsmitteilungen und Genehmigungsanfragen.
+- `wunschermittlung-unterstuetzte-entscheidung` — dokumentiert Wünsche, Präferenzen und unterstützte Entscheidungen nach § 1821 BGB.
 - `betreuungsrecht-kaltstart-interview` — Ersteinrichtung des Plugins: Praxisprofil mit Betreuerrolle, Gericht und Aufgabenkreisen anlegen.
 - `betreuer-registrierung` — Erklaert Registrierungsweg, Sachkundeanforderungen und Berufshaftpflicht fuer Berufsbetreuer nach BtOG.
 - `genehmigungspflicht-pruefung` — Prueft, ob ein konkretes Rechtsgeschaeft der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB).
-- `jahresbericht-betreuungsgericht` — Erstellt den vollstaendigen Jahresbericht nach § 1840 BGB fuer das Betreuungsgericht.
+- `jahresbericht-betreuungsgericht` — Erstellt den vollständigen Jahresbericht nach § 1863 BGB für das Betreuungsgericht.
 - `vermoegensverzeichnis-pruefung` — Erstellt und prueft das Vermögensverzeichnis nach § 1835 BGB bei Amtsuebernahme oder Kontrollpruefung.
 - `kontodaten-vertragsverdacht-pruefung` — Forensische Pruefung von Kontobewegungen und Vertraegen auf Missbrauch zum Nachteil der betreuten Person.
 - `betreuer-als-erbe` — Beraet zur Zulaessigkeit testamentarischer Zuwendungen an Berufsbetreuer nach § 30 BtOG.
@@ -179,14 +212,14 @@ Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie 
 ## Worauf besonders achten
 
 - **Genehmigung vor der Massnahme**: Genehmigungspflichtige Rechtsgeschaefte (§§ 1848 ff. BGB) darf der Betreuer erst nach Erteilung der Genehmigung vornehmen; ein nachtraegliches Genehmigungsverfahren ist nur in engen Ausnahmefaellen moeglich.
-- **Sachkundenachweis bei Berufshaftpflicht**: Berufsbetreuer muessen 250.000 EUR Deckung je Schadensfall und 1.000.000 EUR jaehrlich nachweisen (§ 23 BtOG); Luecken in der Versicherung gefaehrden die Registrierung.
 - **Subsidiaritaet**: Ein Berufsbetreuer darf nur bestellt werden, wenn geeignete ehrenamtliche oder Angehoerigenbetreuer nicht zur Verfuegung stehen (§ 1816 Abs. 5 BGB).
-- **Trennung von Betreuervermoegen und eigenem Vermoegen**: Einnahmen und Ausgaben der betreuten Person sind lueckenlos zu dokumentieren; Verminschung mit eigenem Vermoegen ist ein Haftungsrisiko nach § 1833 BGB.
+- **Unterstützung vor Vertretung**: Erst die betreute Person zur eigenen Entscheidung befähigen; Vertretungsmacht nur nutzen, soweit erforderlich (§ 1821 Abs. 1 BGB).
+- **Trennung von Betreuervermoegen und eigenem Vermoegen**: Einnahmen und Ausgaben der betreuten Person sind lückenlos zu dokumentieren; Vermischung mit eigenem Vermögen ist ein Haftungsrisiko (§ 1836 BGB).
 - **§ 30 BtOG-Verbot**: Berufsbetreuer duerfen sich von der betreuten Person keine Vermoegensvorteile versprechen oder gewähren lassen; Verstoss ist berufsrechtlich relevant.
 
 ## Typische Fehler
 
-- Jahresbericht und Rechnungslegung werden zusammengeworfen: § 1840 BGB (Jahresbericht zur persoenlichen Situation) und §§ 1841 ff. BGB (Rechnungslegung ueber das Vermoegen) sind getrennte Pflichten.
+- Jahresbericht, Vermögensverzeichnis und Rechnungslegung werden zusammengeworfen: § 1863 BGB, § 1835 BGB und Vermögens-/Rechnungslegungspflichten sind sauber zu trennen.
 - Genehmigungen werden nach der Massnahme beantragt: Insbesondere bei Grundstuecksveraeusserungen und Heimvertraegen laeuft der Betreuer in eine Unwirksamkeitsfalle.
 - Vermögensverzeichnis wird bei Amtsantritt vergessen oder unvollstaendig aufgestellt: Das Gericht kann spaeter keine Veraenderungen mehr nachvollziehen.
 - Berufsrechtliche Konsequenzen von § 30 BtOG werden unterschaetzt: Ein Testament zugunsten des Betreuers ist zivilrechtlich nicht automatisch nichtig (OLG Nuernberg 19.07.2023), kann aber berufsrechtliche Folgen nach § 27 BtOG ausloesen.
@@ -200,7 +233,7 @@ Dieses Plugin unterstuetzt Berufsbetreuer, Vereins- und Behoerdenbetreuer sowie 
 
 ## Quellen und Aktualitaet
 
-- Stand: 05/2026
+- Stand: 06/2026
 - BGB §§ 1814 ff. in der Fassung ab 01.01.2023 (BtOG-Reform)
 - BtOG in der Fassung ab 01.01.2023
 - VBVG in der aktuellen Fassung

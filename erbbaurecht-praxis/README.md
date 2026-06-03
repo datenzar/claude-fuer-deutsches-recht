@@ -1,0 +1,114 @@
+# Erbbaurecht Praxis
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`erbbaurecht-praxis`) | [`erbbaurecht-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/erbbaurecht-praxis.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Lindenwerder Erbbaurecht - Erbbauzins, Heimfall und Kita-Finanzierung** (`erbbaurecht-erbbauzins-heimfall-lindenwerder-2026`) | [Gesamt-PDF lesen](../testakten/erbbaurecht-erbbauzins-heimfall-lindenwerder-2026/gesamt-pdf/erbbaurecht-erbbauzins-heimfall-lindenwerder-2026_gesamt.pdf) | [`testakte-erbbaurecht-erbbauzins-heimfall-lindenwerder-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbbaurecht-erbbauzins-heimfall-lindenwerder-2026.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
+Ein Spezialplugin für das Recht des Erbbaurechts: vom ersten Vertragsentwurf über Erbbauzins und Heimfall bis zu Finanzierung, Zustimmung, Versteigerung und Erbbaugrundbuch. Es erklärt die Sache auch für Menschen, die sonst nur Eigentum oder Miete kennen.
+
+## Wofür dieses Plugin da ist
+
+Dieses Plugin ist ein Praxiswerkzeug. Es fragt zuerst die Lage ab, baut dann eine Dokumenten- und Vollzugsmatrix und erzeugt schließlich das konkrete Arbeitsprodukt: Nachreichung, Beanstandungsantwort, Beschwerdegerüst, Mandantenbrief, Checkliste, Fristenlog oder Vertrags-/Urkundenreview. Es ersetzt keine Berufsträgerentscheidung, aber es verhindert, dass ein formeller Nachweis, ein Rang, eine Abteilung-II-Belastung oder eine Registerfolge in der Hektik untergeht.
+
+## Kaltstart
+
+Starte mit dem allgemeinen Skill `erbbaurecht-allgemeiner-kaltstart`. Lade danach möglichst den aktuellen Register- oder Grundbuchauszug, das Gerichtsschreiben, die Anmeldung/Bewilligung, den Vertragsentwurf und vorhandene Anlagen hoch. Das Plugin sortiert erst, dann prüft es.
+
+## Quellen- und Halluzinationsschutz
+
+- Normen werden als Prüfanker verwendet, nicht als Schmuck.
+- Rechtsprechung wird nur ausgegeben, wenn Gericht, Datum, Aktenzeichen und ein frei zugänglicher Fundlink geprüft sind.
+- Unsichere Register-/Grundbuchstände werden nicht geraten; das Plugin fordert aktuelle Auszüge oder Nachweise an.
+
+## Amtliche Startquellen
+
+- [ErbbauRG](https://www.gesetze-im-internet.de/erbbauv/)
+- [GBO](https://www.gesetze-im-internet.de/gbo/)
+- [GBV](https://www.gesetze-im-internet.de/gbvfg/)
+- [BGB Sachenrecht](https://www.gesetze-im-internet.de/bgb/)
+- [FamFG](https://www.gesetze-im-internet.de/famfg/)
+
+## Typische Ergebnisse
+
+- Prüfmatrix und Vollzugsfahrplan
+- Entwurf für Nachreichung oder Antwort an das Gericht/Amt
+- Mandantenbrief in normalem Deutsch
+- Fristen- und Ranglog
+- Beschwerde- oder Eilrechtsschutz-Skizze
+- Liste fehlender Originale, Nachweise und Formmängel
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `entschaedigung-bei-heimfall-und-ablauf` | Prüft Entschädigung bei Heimfall, Zeitablauf, Wohnzweck, Marktwert, Bewertungsunterlagen und Sicherheiten. |
+| `erbbau-beschwerde-grundbuchamt` | Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde. |
+| `erbbaugrundbuch-lesen` | Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen. |
+| `erbbaurecht-ablauf-laufzeitende-exitplan` | Prüft die letzten zehn Jahre eines Erbbaurechts: Verlängerung, Neubestellung, Entschädigung, Rückbau, Finanzierungsauslauf, Mieter-/Betreiberkommunikation und Verhandlungsstrategie. |
+| `erbbaurecht-aktenstruktur` | Sortiert Vertrag, Grundbuch, Zins, Zustimmung, Bau, Bank, Kommunikation und Streit chronologisch. |
+| `erbbaurecht-allgemeiner-kaltstart` | Führt durch Grundstück, Erbbauberechtigte, Eigentümer, Laufzeit, Bauwerk, Erbbauzins, Heimfall, Finanzierung, Zustimmung und Grundbuchvollzug. |
+| `erbbaurecht-altlasten-und-rueckbau` | Ordnet Baugrund, Kontamination, Rückbaupflicht, Kostenverteilung und Beweissicherung. |
+| `erbbaurecht-betreiberwechsel` | Prüft Zustimmung, Bonität, Nutzungsänderung, Gewährleistung und Weitergabeklauseln. |
+| `erbbaurecht-change-of-control-bei-erbbauberechtigtem` | Prüft, ob Anteilsübertragung, Verschmelzung, Formwechsel oder Kontrollwechsel beim Erbbauberechtigten Zustimmungspflichten oder Heimfallrechte auslösen. |
+| `erbbaurecht-dingliche-vorkaufsrechte` | Prüft vertragliche und dingliche Vorkaufsrechte, Ausübungsfall, Rang und Löschung. |
+| `erbbaurecht-erbbauzinsrang-vor-finanzierungsbank` | Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen. |
+| `erbbaurecht-fristen-und-reminder` | Baut Kalender für Zinsanpassung, Laufzeitende, Baupflicht, Versicherungen, Zustimmung und Berichtspflichten. |
+| `erbbaurecht-gewerbepark` | Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit. |
+| `erbbaurecht-indexklausel-inflation` | Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel. |
+| `erbbaurecht-instandhaltung-versicherung-betriebspflichten` | Prüft Gebäudeunterhaltung, Verkehrssicherung, Versicherung, Nachweispflichten, Brandschutz, Betreiberpflichten und Sanktionen bei Pflichtverstößen. |
+| `erbbaurecht-investoren-q-and-a` | Bereitet Antworten zu Laufzeit, Zins, Heimfall, Finanzierung, Exit und Grundbuch auf. |
+| `erbbaurecht-kauf-und-due-diligence` | Baut DD-Liste: Vertrag, Grundbuch, Laufzeit, Zins, Zustimmung, Heimfall, Bank, Bauzustand und Exit. |
+| `erbbaurecht-kita-sozialimmobilie` | Prüft kommunale Zwecke, Betreiberwechsel, Fördermittel, Zustimmung, Rückbau und Ausfallrisiko. |
+| `erbbaurecht-kommunale-beschlussvorlage` | Erstellt Gemeinderatsvorlage für Bestellung, Änderung, Verlängerung oder Heimfallentscheidung. |
+| `erbbaurecht-mandantenbrief` | Erklärt Lage, Risiken und nächste Schritte ohne Fachchinesisch und mit Entscheidungsoptionen. |
+| `erbbaurecht-nachhaltigkeit-und-baupflicht` | Prüft Bauverpflichtung, energetische Standards, Fördermittel, Verzögerung und Sanktionen. |
+| `erbbaurecht-notar-und-grundbuchkosten` | Ordnet Kosten bei Bestellung, Änderung, Verlängerung, Übertragung, Belastung, Löschung, Heimfall und Zwangsversteigerung und erklärt sie mandantenverständlich. |
+| `erbbaurecht-nutzungszweckwechsel-wohnen-gewerbe-sozial` | Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel. |
+| `erbbaurecht-qualitygate-vertrag` | Checkt, ob ein Entwurf investierbar, vollziehbar, finanzierbar und konfliktfest ist. |
+| `erbbaurecht-rangruecktritt-bank` | Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation. |
+| `erbbaurecht-rueckbau-am-laufzeitende` | Ordnet Rückbaupflicht, Entschädigung, Zustandserfassung, Sicherheiten und Konfliktstrategie. |
+| `erbbaurecht-schieds-und-gerichtsstand` | Prüft Schiedsklausel, Gerichtsstand, Beweisverfahren, Gutachterklausel und Vergleichsmechanik. |
+| `erbbaurecht-sicherheiten-buergschaft-depot-lastschrift` | Prüft Bürgschaft, Kaution, Rückbausicherheit, Lastschrift, Patronat, Step-in-Recht und Berichtspflichten als mildere Mittel zum Heimfall. |
+| `erbbaurecht-steuern-und-grunderwerbsteuer` | Markiert GrESt-, Ertragsteuer-, USt- und Bewertungsfragen als Schnittstellen mit steuerlicher Prüfungspflicht. |
+| `erbbaurecht-teilerbbaurecht-und-aufteilung` | Prüft Aufteilung, Wohnungserbbaurecht, Teilungserklärung, Sondernutzungsrechte, Zustimmung, Grundbuchblätter und Finanzierungsfolgen. |
+| `erbbaurecht-und-photovoltaik` | Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. |
+| `erbbaurecht-untererbbaurecht-und-weitergabe` | Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen. |
+| `erbbaurecht-verjaehrung-verwirkung-duldung` | Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird. |
+| `erbbaurecht-verkauf-spa-klauseln` | Entwirft SPA-Klauseln zu Zustimmung, Zinsrückstand, Heimfallrisiko, Belastungen, Garantien und Closing. |
+| `erbbaurecht-vorlage-zustimmungsantrag` | Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung. |
+| `erbbaurecht-vs-eigentum-vs-miete` | Erklärt den dogmatischen Unterschied zu Eigentum, Miete, Nießbrauch, Dienstbarkeit und WEG. |
+| `erbbaurechtsvertrag-pflichtinhalt` | Prüft Grundstück, Bauwerk, Laufzeit, Nutzung, Erbbauzins, Heimfall, Zustimmung, Versicherung, Instandhaltung und Entschädigung. |
+| `erbbauzins-rueckstand-mahnung` | Erstellt Mahnung, Zahlungsplan, Sicherheitencheck, Heimfallvorprüfung und Vergleichsvorschlag. |
+| `erbbauzins-struktur-und-reallast` | Prüft dingliche Sicherung, Fälligkeit, Wertsicherung, Anpassung, Rückstände und Rang. |
+| `erbbauzinsanpassung-paragraph-9a` | Prüft Anpassungsmechanik, Billigkeit, Verbraucher-/Wohnzwecknähe, Index, Streitwert und Dokumentationslogik. |
+| `finanzierung-erbbaurecht-bankfaehigkeit` | Prüft Beleihbarkeit, Rang, Laufzeitrest, Heimfallrisiko, Erbbauzinsrückstände und Bankauflagen. |
+| `gemeinde-kirche-stiftung-als-eigentuemer` | Prüft Beschluss, Genehmigung, Gemeinwohlbindung, Vergabe-/Beihilfefragen und Zustimmungspraxis. |
+| `heimfall-gruende-und-verfahren` | Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug. |
+| `heimfall-verteidigung` | Entwickelt Einwendungen, Nachholung, Verhältnismäßigkeit, Vergleich, Finanzierungslösung und Eilstrategie. |
+| `insolvenz-erbbauberechtigter` | Ordnet Erbbauzins, Heimfall, Verwertung, Masse, Finanzierung und Grundbuchvollzug. |
+| `laufzeit-verlaengerung-und-neubestellung` | Prüft Verlängerung, Neubestellung, Rang, Zustimmung der Gläubiger und kommunale Beschlusslage. |
+| `rechtsprechung-erbbaurecht-live-verifizieren` | Sichert, dass Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freiem Link genutzt werden. |
+| `wohnungs-erbbaurecht-und-weg` | Prüft WEG-Struktur, Teilungserklärung, Erbbaugrundbuch, Sondernutzungsrechte und Verwalterzustimmung. |
+| `zustimmung-veraeusserung-belastung` | Prüft Zustimmungserfordernis, Versagungsgründe, Frist, Ersatz durch Gericht und Bankfähigkeit. |
+| `zwangsversteigerung-erbbaurecht` | Prüft Versteigerung des Erbbaurechts, Rang, Erbbauzins, Heimfall, Eigentümerrechte und Erwerberrisiko. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

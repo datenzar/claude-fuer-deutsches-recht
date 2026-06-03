@@ -1,6 +1,6 @@
 ---
 name: spezial-aktenaufbereiter-beweislast-und-darlegungslast
-description: "Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Aktenaufbereiter: Beweislast, Darlegungslast und Substantiierung
@@ -19,6 +19,15 @@ Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld
 - Belastungs- vs. Entlastungstatsachen: § 160 Abs. 2 StPO verpflichtet StA bereits im Ermittlungsverfahren zu beidem; Verteidigung kann durch Beweisanregungen § 163a StPO aktiv mitwirken.
 - Verteidigerstrategien bei Beweislücken: (1) Schweigen, (2) Bestreiten mit Substantiierung, (3) Alternativhypothese präsentieren, (4) Beweisverwertungsverbot prüfen (§§ 136a, 252 StPO).
 - Praxis-Tipp: Aktenmatrix Beweislage: Spalten Tatbestandsmerkmal, Belastungs­indiz/-beweis, Bewertung Beweiskraft (klar/streitig/lückenhaft), Entlastungs­hypothese, Beweisantrag. Bei lückenhafter Beweislage gezielt Beweisantrag stellen, weil Aufklärungs­pflicht­verletzung § 244 Abs. 2 StPO Revisionsrelevanz hat (BGH ständige Rspr.).
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Aktenaufbereiter.
+- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

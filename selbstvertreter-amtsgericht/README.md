@@ -19,51 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Akte Selbstvertreter Amtsgericht — Küchentisch Kaufpreis** (`selbstvertreter-amtsgericht-kuechentisch-kaufpreis`) | [Gesamt-PDF lesen](../testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/gesamt-pdf/selbstvertreter-amtsgericht-kuechentisch-kaufpreis_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
-## Direkt-Download
-
-| Datei | Download |
-| --- | --- |
-| Plugin-ZIP (`selbstvertreter-amtsgericht`) | [selbstvertreter-amtsgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht.zip) |
-| Kleine Testakte "Küchentisch Kaufpreis" | [testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip) |
-
-Die Testakte liegt im Repository unter [`testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/`](../testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/) und wird im Release als separates ZIP bereitgestellt. Sie ist **kein Teil des Plugins**, sondern nur Material zum Ausprobieren.
-
-### Installation
-
-1. `selbstvertreter-amtsgericht.zip` herunterladen.
-2. Claude Code oder Claude Desktop/Cowork öffnen.
-3. **Customize Plugins** bzw. **Personal plugins** öffnen.
-4. **Install from .zip** wählen und `selbstvertreter-amtsgericht.zip` hochladen.
-
-Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
-
-Plugin für Bürgerinnen und Bürger, die sich vor dem Amtsgericht **ohne Rechtsanwalt** selbst vertreten wollen. Es ist als geführter Begleiter gebaut: erst Fristen und Gericht klären, dann Streitwert, Antrag, Beweise und Kosten ordnen, dann den passenden Schriftsatz oder Terminplan vorbereiten.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Selbstvertreter Amtsgericht — Küchentisch Kaufpreis** ([`testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/`](../testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/)).
-
-Direkt-Download als ZIP: [testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Für wen?
 
 - Sie wollen eine Geldforderung bis zur Wertgrenze des § 23 Nr. 1 GVG einklagen (seit 01.01.2026: **10.000 EUR**, Anhebung von 5.000 EUR durch das Justizstandort-Stärkungsgesetz).

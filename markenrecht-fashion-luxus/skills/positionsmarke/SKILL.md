@@ -1,6 +1,6 @@
 ---
 name: positionsmarke
-description: "Workflow-Skill zu positionsmarke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung."
 ---
 
 # Positionsmarken
@@ -54,14 +54,11 @@ Das charakteristische Flechtmuster der "Sac Maillé"-Kollektion. Analogie zu Bot
 ### Konstellation 3: Adidas-Analogie — Schutz paralleler Nähte
 Zwei parallele Kontrastnähte an der Schulterpartie aller klôtzzkètté-Jacken. Problem: Adidas-Rechtsprechung zeigt, dass einfache Streifen schwer schutzfähig sind. Empfehlung: Mustermarke (ggf. als Bildmarke eingetragen) kombiniert mit Positionsmarke; Verkehrsdurchsetzung zentraler Angriffspunkt.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 200 ff. (Positionsmarken)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 220 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- EUIPO BoA, Entsch. R 2592/2011-4 (Bottega Veneta — Intrecciato)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

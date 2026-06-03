@@ -66,13 +66,11 @@ Brezelmann reicht Beschwerde beim Bundeskartellamt ein: klôtzzkètté-Händler 
 ### Konstellation 3: Online vs. Offline — Dual Pricing nach VGG 2022
 klôtzzkètté möchte Online-Händler EUR 50 mehr je Produkt zahlen lassen als stationäre Händler. Problem: Art. 4 lit. e Vertikal-GVO 2022 — Dual Pricing kann Hardcore-Beschränkung sein, wenn es Händler faktisch vom Online-Verkauf abhält. Alternative: Unterschiedliche Konditionen auf Basis tatsächlicher Mehrkosten (z.B. Versandkosten, Retourenquote) — nicht als pauschale Online-Preis-Erhöhung.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Vertikal-GVO (EU) 2022/720, ABl. L 134 v. 11.05.2022
-- Vertikalleitlinien der Kommission 2022/C 248, Rn. 100-220 (Preisbindung)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bundeskartellamt, Jahresbericht 2022 (UPE-Problematik im Luxusgüterbereich)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

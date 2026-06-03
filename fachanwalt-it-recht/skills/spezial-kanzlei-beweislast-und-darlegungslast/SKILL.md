@@ -1,6 +1,6 @@
 ---
 name: spezial-kanzlei-beweislast-und-darlegungslast
-description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Kanzlei: Beweislast, Darlegungslast und Substantiierung
@@ -9,6 +9,15 @@ description: "Kanzlei: Beweislast, Darlegungslast und Substantiierung: konkreter
 Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-it-recht`. Ausgangspunkt ist: Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plugin datenschutzrecht ki-governance kanzlei-allgemein.
 
 Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld **Kanzlei**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Kanzlei.
+- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Informationstechnologierecht. SaaS Software-Lizenz DSGVO BDSG TTDSG TKG NIS2 DDG DSA DMA EU-KI-VO Open-Source. Schnittstellen Plug....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -28,7 +37,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## Beweislast und Substanziierung IT-Recht
 - **Werkvertrag § 631 BGB**:
-  - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH NJW 2011, 1437).
+  - **Vor Abnahme**: Unternehmer trägt Mangelfreiheits-Beweis (BGH-Linie zur Beweislast vor Abnahme; vor Ausgabe mit Datum/Az. und freier Quelle verifizieren).
   - **Nach Abnahme**: Besteller trägt Mangel-Beweis und Beweis zum Zeitpunkt der Abnahme.
 - **SaaS § 535 BGB analog**: Mietminderung — Besteller darlegt konkrete Verfügbarkeitsmängel; Bemessung anhand SLA-Klauseln.
 - **AGB-Inhaltskontrolle §§ 305 ff.**:

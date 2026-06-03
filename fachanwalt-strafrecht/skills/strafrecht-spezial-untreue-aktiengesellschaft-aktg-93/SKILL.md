@@ -97,3 +97,12 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 - BGH staendige Rspr. zur Anwendung der Business Judgment Rule in Strafverfahren.
 - BGH-Linie zur Mannesmann-Entscheidung (Aufsichtsratspflicht bei Praemienentscheidungen) als Anknuepfungspunkt.
 - BVerfG 23.06.2010 - 2 BvR 2559/08 (Bestimmtheitsgebot der Untreue, gilt auch im AG-Recht).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

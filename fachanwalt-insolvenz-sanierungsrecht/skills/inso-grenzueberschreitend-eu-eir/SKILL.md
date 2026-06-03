@@ -1,17 +1,17 @@
 ---
 name: inso-grenzueberschreitend-eu-eir
-description: "Grenzueberschreitende Insolvenz nach EuInsVO 2015/848: Hauptverfahren und Sekundaerverfahren, COMI-Vermutung, Anerkennung, Verfahrenskoordination. Pruefraster fuer Konzern (Group Coordination Proceedings). Mustertexte fuer Antrag in DE waehrend Hauptverfahren in EU-Drittland."
+description: "Grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und Abgrenzung zu Drittstaaten: Hauptverfahren, Sekundaerverfahren, COMI, automatische Anerkennung, Verwalterbefugnisse, Drittstaaten-Anerkennung nach §§ 335 ff., 343 InsO und Register-/Grundbuchvollzug."
 ---
 
-# InsO: Grenzueberschreitend
+# InsO: Grenzüberschreitend — EuInsVO und Drittstaaten-Abgrenzung
 
 ## Aufgabe
-Grenzueberschreitende Insolvenz nach EuInsVO 2015/848: Hauptverfahren und Sekundaerverfahren, COMI-Vermutung, Anerkennung, Verfahrenskoordination.
+Grenzüberschreitende Insolvenz nach EuInsVO 2015/848: Hauptverfahren und Sekundärverfahren, COMI-Vermutung, Anerkennung, Verfahrenskoordination. Zusätzlich grenzt der Skill Drittstaatenfälle ab, in denen Deutschland kein Chapter-15-artiges Anerkennungsvorverfahren kennt, sondern Anerkennung und Befugnis häufig im konkreten Vollzug inzident geprüft werden.
 
 
 ## Fachlicher Arbeitskern
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-insolvenz-sanierungsrecht` zum Thema `inso-grenzueberschreitend-eu-eir`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Grenzueberschreitende Insolvenz nach EuInsVO 2015/848: Hauptverfahren und Sekundaerverfahren, COMI-Vermutung, Anerkennung, Verfahrenskoordination. Pruefraster fuer Konzern (Group Coordination Proceedings). Mustertexte fuer Antrag in DE waehrend Hauptverfahren in EU-Drittland..
+Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `fachanwalt-insolvenz-sanierungsrecht` zum Thema `inso-grenzueberschreitend-eu-eir`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: grenzueberschreitende Insolvenz nach EuInsVO 2015/848 und ihre saubere Abgrenzung zu Drittstaatenfaellen nach §§ 335 ff., 343 InsO, insbesondere bei COMI, Hauptverfahren, Sekundaerverfahren, Anerkennung, Verwalterbefugnissen, Registervollzug und Grundbuchvollzug.
 
 Arbeite deshalb fallnah:
 
@@ -40,6 +40,35 @@ Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
 2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
 3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
 4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
+
+## EU oder Drittstaat — nicht vermischen
+
+### EuInsVO-Fälle
+
+- EU-Mitgliedstaaten ohne Dänemark: EuInsVO prüfen.
+- Hauptverfahren am COMI; Sekundärverfahren am Niederlassungsort.
+- Anerkennung des Hauptverfahrens erfolgt unionsrechtlich automatisch; die praktische Befugnis des Insolvenzverwalters muss dennoch gegenüber der deutschen Vollzugsstelle nachgewiesen werden.
+- Auch im EU-Fall bleiben deutsches Sachen-, Grundbuch-, Register- und Formrecht für deutsche Vollzugshandlungen relevant.
+
+### Drittstaatenfälle
+
+- Für USA, Kanada, Vereinigtes Königreich, Schweiz und sonstige Drittstaaten gilt deutsches internationales Insolvenzrecht, insbesondere §§ 335 ff. InsO.
+- Es gibt kein zwingendes deutsches Anerkennungsverfahren nach Art eines US Chapter 15. § 343 InsO ordnet die Anerkennung der Verfahrenseröffnung grundsätzlich an, sofern deutsche Zuständigkeitsmaßstäbe und ordre public nicht entgegenstehen.
+- In der Praxis prüft die deutsche Stelle die Wirkung inzident: Notar, Registergericht, Grundbuchamt, Bank, Käufer, Drittschuldner oder Prozessgericht.
+- Ausländische Amtsbezeichnungen sind nicht austauschbar: debtor in possession, trustee, monitor, receiver, administrator und liquidator brauchen jeweils einen konkreten Nachweis von Amt, Befugnis und Grenzen.
+
+## Vollzug deutscher Assets
+
+| Asset | Prüfung |
+| --- | --- |
+| GmbH-Anteile | § 15 GmbHG, Satzung/Consent, office-holder-Befugnis, notarielle Abtretung, Gesellschafterliste § 40 GmbHG |
+| Grundstück | §§ 873, 925, 311b BGB, § 29 GBO, ggf. § 346 InsO und Antrag an zuständiges Insolvenzgericht |
+| Bankkonto/Forderung | Legitimation, Abtretbarkeit, Drittrechte, Kontosperre, AML/Sanktionen |
+| Deutsche Tochtergesellschaft | Trennung von Anteilseigentum und Vermögen der Tochter; Mutterinsolvenz ersetzt nicht Organhandeln der Tochter |
+
+## Anschluss-Skill
+
+Bei Drittstaaten und Register-/Grundbuchvollzug vorrangig `fa-inso-drittstaaten-anerkennung-registervollzug` nutzen.
 
 ## Plugin-Kontext
 Dieser Skill gehoert zum Plugin `fachanwalt-insolvenz-sanierungsrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.

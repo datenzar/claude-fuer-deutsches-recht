@@ -1,6 +1,6 @@
 ---
 name: spezial-stvg-fristen-form-und-zustaendigkeit
-description: "Stvg: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Stvg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Stvg: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -19,6 +19,15 @@ Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **
 - Zuständigkeit Bußgeldverfahren: AG Strafrichter (§ 68 OWiG); Rechtsbeschwerde zum OLG nach § 79 OWiG (Zulassungsschwelle § 80 OWiG: Geldbuße > 250 EUR oder Nebenfolge wie Fahrverbot).
 - Verkehrsunfall-Zivil: AG bis 5.000 EUR (§ 23 GVG), LG ab 5.000 EUR (§ 71 GVG); örtlich Wohnsitz Beklagter (§§ 12, 13 ZPO) oder Tatort (§ 32 ZPO).
 - Praxis-Tipp: Frühen Akteneinsichts­antrag nach § 49 OWiG / § 147 StPO stellen – verschafft Zeitvorteil bei Einspruchsfrist (Hemmung § 33 Abs. 1 Nr. 14 OWiG durch Akten­anforderungs­antrag möglich, Detail prüfen). Verjährungsdaten in Mandats­akte sichtbar markieren, weil 3-Monats-Frist sehr knapp ist.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Stvg.
+- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

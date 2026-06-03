@@ -1,6 +1,6 @@
 ---
 name: spezial-chronologie-internationaler-bezug-und-schnittstellen
-description: "Chronologie: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Chronologie: Internationaler Bezug und Schnittstellen im Plugin insolvenzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Chronologie: Internationaler Bezug und Schnittstellen
@@ -9,6 +9,15 @@ description: "Chronologie: Internationaler Bezug und Schnittstellen: konkreter S
 Dieser Skill ist ein konkreter Fachbaustein für `insolvenzrecht`. Ausgangspunkt ist: Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
 
 Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **Chronologie**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Chronologie.
+- **Arbeitsfokus:** Internationaler Bezug und Schnittstellen.
+- **Plugin-Rahmen:** Insolvenzrechtliche Skills zu Zahlungsunfähigkeit, Überschuldung, Antragspflicht und Gläubigerantrag.
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -36,10 +45,13 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **EuInsVO 2015/848 (für EU-Mitgliedstaaten ohne Dänemark):** Hauptverfahren am Mittelpunkt der hauptsächlichen Interessen (COMI; Vermutung Sitz juristische Person, Art. 3 Abs. 1 Unterabs. 2); Nebenverfahren am Niederlassungsort.
 - **COMI-Verschiebung:** Bei Verlagerung des COMI in den letzten 3 Monaten vor Antragstellung greift Vermutung nicht (Art. 3 Abs. 1 Unterabs. 3, 4 EuInsVO).
 - **Konzerninsolvenzen:** Art. 56 ff. EuInsVO Kooperationsmechanismen; deutsches Recht §§ 269a ff. InsO Gruppen-Gerichtsstand (Stand prüfen).
-- **Drittstaaten:** UNCITRAL-Modellgesetz nicht in Deutschland umgesetzt; § 343 InsO Anerkennung ausländischer Verfahren grds. möglich, sofern ordentliches Verfahren und kein ordre-public-Verstoß.
+- **Drittstaaten:** UNCITRAL-Modellgesetz nicht in Deutschland umgesetzt; Deutschland kennt kein zwingendes Anerkennungsverfahren nach Art eines US Chapter 15. Die Eröffnung eines ausländischen Insolvenzverfahrens wird nach § 343 InsO grundsätzlich anerkannt, wenn die ausländische Zuständigkeit nach deutschen Maßstäben tragfähig ist und kein ordre-public-Verstoß vorliegt. In der Praxis prüfen Notar, Grundbuchamt, Handelsregister, Bank oder Prozessgericht diese Wirkung häufig inzident.
+- **Office holder / DIP / trustee:** Nicht die Amtsbezeichnung entscheidet, sondern das konkrete ausländische Insolvenzstatut und der nachgewiesene Befugnisumfang. US debtor in possession, US trustee, kanadischer trustee/monitor/receiver und andere Verfahrenspersonen sind jeweils einzeln zu identifizieren; court approval, stay, plan restrictions und ordinary-course-Grenzen prüfen.
+- **Deutsche Assets:** Anerkennung ersetzt nicht deutsches Form-, Sachen- und Registerrecht. GmbH-Anteile brauchen § 15 GmbHG, Gesellschafterlisten § 40 GmbHG; Grundstücke brauchen §§ 873, 925, 311b BGB und grundbuchtaugliche Nachweise nach § 29 GBO.
 - **Schnittstellen Steuerrecht:** Insolvenzgeld § 165 SGB III (Vorfinanzierung über Bank); USt-Behandlung von Forderungsverzichten (§ 17 UStG Berichtigung); Sanierungsertrag § 3a EStG.
 - **Schnittstellen Strafrecht:** §§ 283 ff. StGB Bankrott und Insolvenzdelikte; § 266a StGB Vorenthalten SV-Beiträge; § 263 StGB Eingehungsbetrug bei späterer Insolvenz.
-- **Praxis:** Bei grenzüberschreitenden Sachverhalten immer EuInsVO-Anwendbarkeit prüfen; bei Holdingstrukturen Reihenfolge der Anträge planen (regelmäßig zuerst Top-Holding, dann Töchter).
+- **Praxis:** Bei grenzüberschreitenden Sachverhalten immer zuerst EuInsVO/Drittstaat trennen. Bei Holdingstrukturen nicht „Konzernkontrolle“ mit Rechtsmacht über deutsche Tochter-Assets verwechseln: Der ausländische office holder kann regelmäßig Gesellschafterrechte der insolventen Mutter ausüben, aber nicht ohne Weiteres Vermögen der deutschen Tochter veräußern.
+- **Anschluss-Skills:** `internationales-insolvenzrecht-drittstaaten-inzidentpruefung` und `auslaendischer-insolvenzverwalter-register-und-grundbuch`.
 
 ## Quellenregel
 - Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.

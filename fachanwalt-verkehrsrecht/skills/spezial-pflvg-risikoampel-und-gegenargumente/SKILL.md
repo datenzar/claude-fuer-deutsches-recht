@@ -1,6 +1,6 @@
 ---
 name: spezial-pflvg-risikoampel-und-gegenargumente
-description: "Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Pflvg: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -19,6 +19,15 @@ Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Theme
 - Verjährung: § 195 BGB drei Jahre; bei Direktanspruch § 115 Abs. 2 VVG analog Sachverhalt.
 - Unbekannter / nichtversicherter Schädiger: § 12 PflVG – Entschädigungsfonds (Verkehrsopferhilfe).
 - Praxis-Tipp: Bei Unfallregulierung immer parallel an Schädiger UND Haftpflicht­versicherer adressieren (Direktanspruch nicht verspielen). Bei Regress­drohung des Versicherers (Alkohol, Unfallflucht): Obliegen­heits­verletzung prüfen, gegen Mandant Regressbegrenzung nach AKB (max. 5.000 EUR bei vorsätzlicher Obliegenheits­verletzung) durchsetzen.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Pflvg.
+- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

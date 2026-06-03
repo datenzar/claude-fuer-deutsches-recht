@@ -145,12 +145,12 @@ Nach dem Interview: gemeinsame Erstellung einer Prioritäten-Matrix:
 ### Konstellation 3: Krisenmandat nach Fälschungswelle
 klôtzzkètté SA kommt mit akutem Problem (Fälschungswelle auf Donauzon). Parallelspor: (1) sofortiger Krisenmodus mit DSA-Meldungen und Eilanträgen; (2) gleichzeitig strukturiertes IP-Audit um Schutzlücken zu schließen.
 
-## Belege & Kommentare
+## Quellen- und Livecheck-Logik
 
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, Einleitung Rn. 1 ff. (Markenrechts-Überblick)
-- Eisenmann/Jautz, Grundriss des gewerblichen Rechtsschutzes, 10. Aufl. 2015 (Gesamtüberblick IP)
-- EUIPO, Leitfaden für Rechteinhaber: IP Management Best Practices, 2024
-- DPMA, Merkblatt Markenrecht für Anmelder, 2023
+- Registerdaten immer live prüfen: DPMAregister, EUIPO eSearch plus, WIPO Global Brand Database/Madrid Monitor und USPTO TSDR.
+- Amtsabläufe, Gebühren, Formulare, Klassenbegriffe und Fristen nicht aus Modellwissen behaupten, sondern gegen DPMA, EUIPO, WIPO oder USPTO nachziehen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle verwenden.
+- Literatur, Kommentare und Aufsätze nicht zitieren, solange sie nicht vom Nutzer bereitgestellt oder im konkreten Arbeitsschritt lizenzfrei zugänglich sind.
 
 ## Templates
 

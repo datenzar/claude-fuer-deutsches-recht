@@ -1,0 +1,5 @@
+Asset,Typ,Owner,Kritikalität,Nachweis
+SAP S4,ERP,IT Betrieb,hoch,CMDB
+LKW AirTags,Tracker,Logistik,mittel,nur Excel
+Code Signing CA,PKI,Engineering,hoch,unvollständig
+Slack,SaaS,IT Collaboration,hoch,Security Memo

@@ -117,3 +117,12 @@ Wenn das AG zugelassen hat: Sie koennen Berufung normal einlegen. Frist 1 Monat 
 ## Quellen und Aktualitaet
 
 Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (Justizstandort-Staerkungsgesetz vom 08.12.2025, BGBl. I Nr. 318). Uebergangsregel § 47 EGZPO: Alte Wertgrenze 600 EUR gilt fort fuer Verfahren mit anzufechtender Entscheidung bis 31.12.2025 bzw. mit bis dahin geschlossener muendlicher Verhandlung. Zulassung erfolgt ausschliesslich durch das erstinstanzliche Gericht (AG). Eine eigenstaendige Zulassungs-Beschwerde zum LG sieht § 511 ZPO nicht vor.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

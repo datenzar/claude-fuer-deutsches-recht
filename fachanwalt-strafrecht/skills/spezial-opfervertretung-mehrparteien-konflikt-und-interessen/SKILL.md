@@ -1,6 +1,6 @@
 ---
 name: spezial-opfervertretung-mehrparteien-konflikt-und-interessen
-description: "Opfervertretung: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Opfervertretung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Opfervertretung: Mehrparteienkonflikt und Interessenmatrix
@@ -18,6 +18,15 @@ Er führt durch **Mehrparteienkonflikt und Interessenmatrix** im Themenfeld **Op
 - Zeugen-Schutz: § 68a StPO Schutz Identität bei Vernehmung; § 247a StPO Videovernehmung bei schwerer Belastung; § 58a StPO Videoaufzeichnung bei kindlichen Opfern.
 - Adhäsion: §§ 403 ff. StPO – zivilrechtliche Ansprüche, Vollstreckungstitel.
 - Praxis-Tipp: Frühe Interessensicherung: (1) Strafanzeige mit Beweisangeboten, (2) Nebenklageanschluss § 396 StPO falls statthaft, (3) Beistandsbeiordnung § 397a StPO prüfen, (4) Akteneinsicht § 406e StPO, (5) Adhäsion früh ankündigen. Bei Mehropfer-Konflikt (z.B. häusliche Gewalt) Interessenkollision § 146 StPO beachten – ein Anwalt pro Opfer. Schutzanordnungen GewSchG parallel im Auge behalten.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Opfervertretung.
+- **Arbeitsfokus:** Mehrparteienkonflikt und Interessenmatrix.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

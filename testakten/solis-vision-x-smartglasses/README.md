@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 145 KB) | PDF | [`gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf`](gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 144 KB) | PDF | [`gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf`](gesamt-pdf/solis-vision-x-smartglasses_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-solis-vision-x-smartglasses.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solis-vision-x-smartglasses.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -60,7 +60,7 @@ Die Beklagte wendet ein, ihre AGB sehen Schweizer Recht und Gerichtsstand Züric
 | Ordner | Inhalt |
 |---|---|
 | `eingang/` | Klagschrift, Klageerwiderung, Replik, Duplik, Schriftsatznachreichungen |
-| `gerichtsakte/` | Aktenübersicht, Verfügungen, Protokoll muendliche Verhandlung, Beweisbeschluss |
+| `gerichtsakte/` | Aktenübersicht, Verfügungen, Protokoll mündliche Verhandlung, Beweisbeschluss |
 | `beweismittel/` | AGB beide Parteien, Bestellbestätigung mit FOB Galway, Gutachten, Screenshots, Gerät-Spezifikation |
 | `output/` | Hier landen Relationsgutachten, Tenorentwurf, Urteilsentwurf, DOCX/PDF |
 | `referenzen/` | CISG-Volltext (Verweis), Rom-I-Verweis, DSGVO-Verweis, Workflow-Vermerk |

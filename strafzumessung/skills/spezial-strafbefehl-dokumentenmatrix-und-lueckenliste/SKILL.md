@@ -1,6 +1,6 @@
 ---
 name: spezial-strafbefehl-dokumentenmatrix-und-lueckenliste
-description: "Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung
@@ -18,6 +18,15 @@ Er führt durch **Dokumentenmatrix, Lückenliste und Nachforderung** im Themenfe
 - Einspruch: § 410 StPO 2 Wochen – beschränkt einlegbar (z.B. nur Tagessatzhöhe, nur Fahrverbot, § 410 Abs. 2 StPO).
 - Hauptverhandlung nach Einspruch: §§ 411 f. StPO; Verschärfungsrisiko (§ 411 Abs. 4 StPO Bindung an Strafbefehl nicht gegeben).
 - Praxis-Tipp: Dokumentenmatrix Strafbefehl: (1) Strafbefehl mit Erlassdatum, Zustellungsdatum, Einspruchsfrist, (2) Anhörungsprotokoll oder Einlassung (falls vorhanden), (3) BZR-Auszug, (4) Mandant-Einkommensnachweise für Tagessatzhöhe, (5) Belege Schadenswiedergutmachung/TOA, (6) Strafanzeige und Polizei-Protokoll. Lückenliste: was hat die StA nicht erfasst? Mildernde Umstände nach § 46 Abs. 2 StGB substantiiert nachreichen.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Strafbefehl.
+- **Arbeitsfokus:** Dokumentenmatrix, Lückenliste und Nachforderung.
+- **Plugin-Rahmen:** Strafzumessung nach deutschem Strafrecht vom Strafbefehl bis zur grossen Strafkammer. § 46 StGB Strafzumessungstatsachen Tagessatz Geldstrafe Freiheitss....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -46,3 +55,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: Strafrahmen, Schuldprinzip und Gesamtstrafe
+
+- **Verifizierte Rechtsprechungsanker:** BGH, Beschluss vom 14.05.2024 - 6 StR 502/23 zur Strafrahmenlogik/Sperrwirkung und gerechten Schuldstrafe; BGH, Beschluss vom 23.01.2024 - 3 StR 455/23 zum Doppelverwertungsverbot und Begründungsanforderungen; BGH, Beschluss vom 24.04.2024 - 5 StR 123/24 sowie BGH, Beschluss vom 03.06.2025 - 2 StR 333/24 zur nachträglichen Gesamtstrafenbildung, Zäsurwirkung und Härteausgleich.
+- **Prüfreihenfolge:** Nie sofort ein „gefühltes Strafmaß“ bilden. Erst Tatbestand und anwendbares Recht, dann Strafrahmen, minder/ besonders schwerer Fall, vertypte Milderung, § 49 StGB, Doppelverwertungsverbot, § 46 StGB, Nebenfolgen, Bewährung, Gesamtstrafe.
+- **§ 55-StGB-Disziplin:** Bei Vorverurteilungen immer Tatzeiten, Entscheidungsdaten, Rechtskraft, Vollstreckungsstand, erledigte/nicht erledigte Strafen und Zäsurwirkung als Tabelle verlangen. Unklare Gesamtstrafenlagen nicht glattbügeln, sondern als Risiko mit Alternativen ausgeben.
+- **Output-Pflicht:** Strafzumessungsmemo mit Strafrahmenbaum, Zumessungstatsachen pro/contra, Revisionsrisiken und nächstem taktischem Schritt; bei Aktenbezug zusätzlich BZRG-/Urteils-/Vollstreckungsdaten-Lückenliste.

@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Ökolandbau-Förderrückforderung / Hofgemeinschaft Driessen — Niederrhein** (`oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein`) | [Gesamt-PDF lesen](../testakten/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein/gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Düngeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Agrarrecht (`fachanwalt-agrarrecht`, dieses Plugin) | [fachanwalt-agrarrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-agrarrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -92,26 +71,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `mandat-triage-agrarrecht` | Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzens... |
 | `sammelantrag-gap-checkliste` | Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-S... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage/Widerspruch im Agrarverwaltungs- oder Pachtprozess: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-agrarrecht-tatbestand-beweis-und-belege` | Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-anerbenrecht-risikoampel-und-gegenargumente` | Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bgb-verhandlung-vergleich-und-eskalation` | BGB: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-compliance-compliance-dokumentation-und-akte` | Compliance: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-cross-zahlen-schwellen-und-berechnung` | Cross: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-direktzahlungen-livequellen-und-rechtsprechungscheck` | Direktzahlungen: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-duengeverordnung-mehrparteien-konflikt-und-interessen` | Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erbrecht-beweislast-und-darlegungslast` | Erbrecht: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-forstrecht-red-team-und-qualitaetskontrolle` | Forstrecht: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hoefe-sonderfall-und-edge-case` | Hoefe: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hoefeo-dokumentenmatrix-und-lueckenliste` | Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hoeferecht-fristen-form-und-zustaendigkeit` | Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-laender-behoerden-gericht-und-registerweg` | Laender: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-landpachtrecht-schriftsatz-brief-und-memo-bausteine` | Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pachtvertrag-abschlussprodukt-und-uebergabe` | Pachtvertrag: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pflanzenschutz-internationaler-bezug-und-schnittstellen` | Pflanzenschutz: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstelle-mandantenentscheidung` | Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-tierschutz-formular-portal-und-einreichung` | Tierschutz: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-uebergabe-fristennotiz-und-naechster-schritt` | Uebergabe: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-agrarrecht-tatbestand-beweis-und-belege` | Agrarrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-anerbenrecht-risikoampel-und-gegenargumente` | Anerbenrecht: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bgb-verhandlung-vergleich-und-eskalation` | BGB: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-compliance-compliance-dokumentation-und-akte` | Compliance: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-cross-zahlen-schwellen-und-berechnung` | Cross: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-direktzahlungen-livequellen-und-rechtsprechungscheck` | Direktzahlungen: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-duengeverordnung-mehrparteien-konflikt-und-interessen` | Duengeverordnung: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erbrecht-beweislast-und-darlegungslast` | Erbrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-forstrecht-red-team-und-qualitaetskontrolle` | Forstrecht: Red-Team und Qualitätskontrolle im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hoefe-sonderfall-und-edge-case` | Hoefe: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hoefeo-dokumentenmatrix-und-lueckenliste` | Hoefeo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hoeferecht-fristen-form-und-zustaendigkeit` | Hoeferecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-laender-behoerden-gericht-und-registerweg` | Laender: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-landpachtrecht-schriftsatz-brief-und-memo-bausteine` | Landpachtrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pachtvertrag-abschlussprodukt-und-uebergabe` | Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pflanzenschutz-internationaler-bezug-und-schnittstellen` | Pflanzenschutz: Internationaler Bezug und Schnittstellen im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstelle-mandantenentscheidung` | Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tierschutz-formular-portal-und-einreichung` | Tierschutz: Formular, Portal und Einreichungslogik im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-uebergabe-fristennotiz-und-naechster-schritt` | Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Agrar-, Forst- und Lebensmittelrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-agrarrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-agrarrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |

@@ -1,14 +1,23 @@
 ---
 name: spezial-literatur-formular-portal-und-einreichung
-description: "Literatur: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Literatur: Formular, Portal und Einreichungslogik
 
 ## Aufgabe
-Dieser Skill ist ein konkreter Fachbaustein für `zitierweise-deutsches-recht`. Ausgangspunkt ist: Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Dieser Skill ist ein konkreter Fachbaustein für `zitierweise-deutsches-recht`. Ausgangspunkt ist: Deutsche juristische Hauszitierweise v4.1: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Literatur**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Literatur.
+- **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
+- **Plugin-Rahmen:** Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine Beck....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -37,3 +46,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: Anti-Blindzitat und gerichtsfeste Fundstellen
+
+- **Mindeststandard Rechtsprechung:** Gericht, Entscheidungsform, Datum, Aktenzeichen, frei prüfbarer Link und ein eigener kurzer Satz zur tragenden Aussage. Ohne diese fünf Punkte wird ein Zitat als ungeprüft markiert oder weggelassen.
+- **Verbotene Routine:** Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Solche Angaben sind nur zulässig, wenn die Nutzerin/der Nutzer den Text oder lizenzierten Live-Zugriff bereitstellt; dann aber nicht als frei verifizierte Quelle ausgeben.
+- **Quellenhierarchie:** Amtliche Gerichtsseiten zuerst, danach rechtsprechung-im-internet.de, dejure/openJur/landesrechtliche Datenbanken als freie Kontrollquellen. Presseberichte und Kanzleiblogs nur als Suchhinweis, nicht als tragender Beleg.
+- **Output-Pflicht:** Bei jeder problematischen Fundstelle eine Bereinigungsmatrix liefern: Originalzitat, Problem, verifizierbarer Ersatz, tragende Aussage, Unsicherheitsvermerk.

@@ -1,0 +1,9 @@
+{
+  "name": "preussisches-allgemeines-landrecht-pralr",
+  "version": "70.0.3",
+  "description": "PrALR-Plugin zum Allgemeinen Landrecht für die Preußischen Staaten: Quellenkritik, Textzeugen, Zivilrecht, Staats-/Polizeirecht, Strafrecht, Ständerecht, Aufopferung und Rezeptionsgeschichte.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: spezial-inso-fristen-form-und-zustaendigkeit
-description: "InsO: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "InsO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin insolvenzforderungsanmeldungspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # InsO: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -9,6 +9,15 @@ description: "InsO: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezi
 Dieser Skill ist ein konkreter Fachbaustein für `insolvenzforderungsanmeldungspruefung`. Ausgangspunkt ist: Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung.
 
 Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **InsO**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** InsO.
+- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
+- **Plugin-Rahmen:** Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimpor....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

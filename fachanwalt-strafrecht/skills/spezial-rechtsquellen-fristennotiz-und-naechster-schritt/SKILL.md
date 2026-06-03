@@ -1,6 +1,6 @@
 ---
 name: spezial-rechtsquellen-fristennotiz-und-naechster-schritt
-description: "Rechtsquellen: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Rechtsquellen: Fristennotiz und nächster Schritt im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Rechtsquellen: Fristennotiz und nächster Schritt
@@ -9,6 +9,15 @@ description: "Rechtsquellen: Fristennotiz und nächster Schritt: konkreter Spezi
 Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-strafrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage Opfervertretung Zeugenbeistand Adhaesion Insolvenzantrag StA. Ergaenzt aktenaufbereiter-strafrecht und kanzlei-allgemein.
 
 Er führt durch **Fristennotiz und nächster Schritt** im Themenfeld **Rechtsquellen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Rechtsquellen.
+- **Arbeitsfokus:** Fristennotiz und nächster Schritt.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -63,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
   - **Nach Anklageerhebung:** Akteneinsicht § 147 StPO; Einwaende § 201 StPO; Hilfsbeweisantraege.
   - **Nach Eroeffnungsbeschluss:** Hauptverhandlungsvorbereitung; Verstaendigungssondierung; Beweisantraege.
   - **Nach Urteil:** Rechtsmittel pruefen (Berufung 1 Woche § 314 StPO, Revision 1 Woche / 1 Monat §§ 341, 345 StPO).
-  - **Nach U-Haft-Eroeffnung:** Haftbeschwerde § 117 StPO; Aussetzung § 116 StPO; OLG-Pruefung 6 Monate § 121 StPO.
+  - **Nach U-Haft-Eroeffnung:** Haftprüfung § 117 StPO, mündliche Verhandlung §§ 118, 118a StPO, Haftbeschwerde § 304 StPO, Aussetzung § 116 StPO, OLG-Pruefung 6 Monate § 121 StPO.
   - **Nach Strafvollstreckung:** Strafaussetzung § 57 StGB; Bewaehrungswiderruf § 56f.
 - **Live-Quellen:**
   - gesetze-im-internet.de (BMJV) - Gesetzestexte.

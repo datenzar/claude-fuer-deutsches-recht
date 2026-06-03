@@ -66,7 +66,7 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 
 **Kritik aus der Topik (Viehweg):** Wertungsjurisprudenz unterstellt einen Konsens darueber, was die "richtige Wertung" ist. In Wahrheit wird die Wertung im juristischen Diskurs ausgehandelt — Topoi statt System (siehe Skill `topik-viehweg-vs-systemdenken`).
 
-**Kritik von Bernd Ruethers ("Die unbegrenzte Auslegung" 1968 ff., "Rechtstheorie" 1999):** Wertungsjurisprudenz kann zu Richterrecht ohne Grenze fuehren. Wer alles als wertend ausdeutet, gibt die Gesetzesbindung auf.
+**Methodenkritik:** Wertungsjurisprudenz kann zu Richterrecht ohne Grenze fuehren, wenn sie jede gewuenschte Korrektur als objektive Wertung ausgibt. Wer alles als wertend ausdeutet, gibt die Gesetzesbindung auf.
 
 **Kritik aus Critical Legal Studies (siehe Skill `legal-realism-und-critical-legal-studies`):** Wertungen sind nicht "objektiv", sondern Ausdruck politischer und sozialer Interessen.
 
@@ -87,9 +87,18 @@ Die Wertungsjurisprudenz ist die heute herrschende Methodenposition der deutsche
 - Claus-Wilhelm Canaris, Systemdenken und Systembegriff in der Jurisprudenz, 1969.
 - Claus-Wilhelm Canaris, Die Feststellung von Luecken im Gesetz, 1964.
 - Claus-Wilhelm Canaris, Vertrauenshaftung im deutschen Privatrecht, 1971.
-- Bernd Ruethers, Die unbegrenzte Auslegung, 1968.
+- Methodenkritische Literatur nur verwenden, wenn sie vom Nutzer bereitgestellt oder live verifiziert ist; keine Literatur-Blindzitate.
 - BVerfGE 7, 198 — Lueth (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%207%2C%20198).
 - BVerfGE 89, 214 — Buergschaft (dejure.org/dienste/vernetzung/rechtsprechung?Text=BVerfGE%2089%2C%20214).
 - §§ 138, 242, 305 ff., 307, 437 BGB (gesetze-im-internet.de).
 
 Stand: Mai 2026.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

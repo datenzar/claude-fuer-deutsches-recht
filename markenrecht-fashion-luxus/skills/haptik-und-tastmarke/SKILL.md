@@ -1,6 +1,6 @@
 ---
 name: haptik-und-tastmarke
-description: "Workflow-Skill zu haptik und tastmarke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse."
 ---
 
 # Tastmarken und Haptik-Marken
@@ -89,14 +89,11 @@ Die gestrichelte Mikro-Haptik des K°°-Flakons wird als eingetragenes Design be
 ### Konstellation 3: Brezelmann kopiert Gewebestruktur
 Brezelmann Discount KG (Bad Mergentheim) verkauft Schals mit identischer Webestruktur wie K°° Touch Royal. UWG § 4 Nr. 3 Klage: (1) wettbewerbliche Eigenart des Originals (Alleinstellungsmerkmale der Webstruktur, Marktbekanntheit), (2) nachgemachte Struktur (Textilanalyse-Gutachten), (3) besondere Umstände (bewusste Anlehnung, unlauterer Wettbewerb). Streitwert: ca. EUR 50.000.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- USPTO, Reg. Nr. 3.896.100 (David Yurman) — Haptik-Marke Schmuck
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 150 ff. (nichtvisuelle Marken)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

@@ -22,6 +22,15 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Zusatzzweig: Wahlrechtliche Erledigungsgefahr
+
+Interne Wahlanfechtungen sind besonders rechtsschutzsensibel, weil Wahlperioden kurz sind und Wahlvorschläge häufig schnell bei Wahlleitungen liegen. Deshalb immer zusätzlich prüfen:
+
+- Wann wird die Wahl oder Kandidatenaufstellung extern relevant: Einreichung, Zulassung, Stimmzetteldruck, Wahltermin?
+- Welche innerparteiliche Instanz kann bis dahin real entscheiden?
+- Muss der Antrag eine einstweilige Anordnung, vorläufige Nichtweiterleitung oder hilfsweise eine dokumentierte Verzögerungsrüge enthalten?
+- Welche Protokolle, Stimmzettel, Wahlberechtigtenlisten und Einladungsnachweise müssen sofort gesichert werden?
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

@@ -90,12 +90,11 @@ Examining Attorney zitiert ältere US-Marke "KLOTZKE" in Klasse 25. Koordination
 ### Konstellation 3: Section 66(a)-Anmeldung via Madrid
 klôtzzkètté nutzt bestehende EUIPO-Registrierung als Basis für Madrid-Protokoll-Designation USA (Section 66(a)). Verfahren beim USPTO läuft parallel zur Regular Application; aber: Section 66(a) hat strengere SOU-Anforderungen. Koordination mit Whitman Brennan Forsythe LLP.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 1-4 (führendes US-Markenrechts-Kommentarwerk)
-- TMEP (Trademark Manual of Examining Procedure), ed. 2400 (aktuell)
-- 15 U.S.C. §§ 1051-1141 (Lanham Act vollständig)
-- In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001) — Specimen of Use-Anforderungen
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 
@@ -157,3 +156,12 @@ Bevor die TEAS-Anmeldung eingereicht wird, klaere:
 > **Qualitex Co. v. Jacobson Products Co., 514 U.S. 159 (1995):** Farben koennen als Marken eingetragen werden, wenn sie durch Benutzung Secondary Meaning erworben haben; der Supreme Court bestatigte, dass Lanham Act keine kategorischen Ausschluesse fuer nicht-traditionelle Markenarten kennt.
 
 > **In re Nett Designs Inc., 236 F.3d 1339 (Fed. Cir. 2001):** Ein Zeichen ist "merely descriptive" nach § 2(e)(1) Lanham Act, wenn es eine Eigenschaft oder Qualitaet der Waren unmittelbar beschreibt; bei Phantasiewoertern im Luxusbereich ist die Beschreibungsschranke in der Regel kein Hindernis, solange keine offensichtliche laudatory Bedeutung vorliegt.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -19,27 +19,10 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Juristischer Mandantenbrief in Einfacher und Leichter Sprache** (`einfache-leichte-sprache-jura-mandantenbrief`) | [Gesamt-PDF lesen](../testakten/einfache-leichte-sprache-jura-mandantenbrief/gesamt-pdf/einfache-leichte-sprache-jura-mandantenbrief_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 Freistehendes Plugin für die Übertragung juristischer Texte in **Einfache
 Sprache** oder **Leichte Sprache**. Es richtet sich an Kanzleien, Behörden,
 Beratungsstellen, Legal-Design-Teams und alle, die rechtliche Informationen
 verständlich, respektvoll und rechtlich belastbar erklären müssen.
-
-## Direkt herunterladen
-
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/einfache-leichte-sprache-jura.zip)
-- [Beispielakte Mandantenbrief](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-einfache-leichte-sprache-jura-mandantenbrief.zip)
 
 ## Showcase-Hinweis
 
@@ -124,26 +107,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `ls-juristisches-glossar-bauen` | Juristisches Glossar fuer Einfache und Leichte Sprache aufbauen: Schlagwort, Schwerverstaendliche Definition, Variante Einfache Sprache, Variante Leichte Sprache. Pro Eintrag Beispielssatz. Strukturierter CSV-Output und Mustertext fuer 3... |
 | `ls-justizportal-pruefen-spezial` | Spezialfall Justizportal in Leichte Sprache pruefen: Bayerisches Justizportal, JustizOnline, beA-Frontend. Konkrete Verbesserungsvorschlaege fuer Navigation, Wegleitsysteme, Antragsformulare. Pruefraster nach Inclusion Europe Regeln. |
 | `ls-strafprozess-rechte-erklaeren-spezial` | Spezialfall Strafprozess-Rechte in Leichte Sprache erklaeren: § 136 StPO Belehrung, Recht zur Aussage und zum Schweigen, Pflichtverteidiger, Akteneinsicht. Mustertext und Pruefsiegel. Bedeutung fuer JVA-Insassen und Migrantinnen. |
-| `spezial-annaeherung-livequellen-und-rechtsprechungscheck` | Annaeherung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bauen-fristennotiz-und-naechster-schritt` | Bauen: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-einfache-fristen-form-und-zustaendigkeit` | Einfache: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-experimentelle-schriftsatz-brief-und-memo-bausteine` | Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-glossar-sonderfall-und-edge-case` | Glossar: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-jura-mandantenkommunikation-entscheidungsvorlage` | Jura: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-juristisches-beweislast-und-darlegungslast` | Juristisches: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-klaeren-compliance-dokumentation-und-akte` | Klaeren: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-leichte-risikoampel-und-gegenargumente` | Leichte: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-nutzen-red-team-und-qualitaetskontrolle` | Nutzen: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-qualitaetsgate-formular-portal-und-einreichung` | Qualitaetsgate: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsinhalt-mehrparteien-konflikt-und-interessen` | Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sichern-internationaler-bezug-und-schnittstellen` | Sichern: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sprache-dokumentenmatrix-und-lueckenliste` | Sprache: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-standard-verhandlung-vergleich-und-eskalation` | Standard: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-texte-tatbestand-beweis-und-belege` | Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-uebertragen-behoerden-gericht-und-registerweg` | Uebertragen: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-annaeherung-livequellen-und-rechtsprechungscheck` | Annaeherung: Livequellen- und Rechtsprechungscheck im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bauen-fristennotiz-und-naechster-schritt` | Bauen: Fristennotiz und nächster Schritt im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-einfache-fristen-form-und-zustaendigkeit` | Einfache: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-experimentelle-schriftsatz-brief-und-memo-bausteine` | Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-glossar-sonderfall-und-edge-case` | Glossar: Sonderfall und Edge-Case-Prüfung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-jura-mandantenkommunikation-entscheidungsvorlage` | Jura: Mandantenkommunikation und Entscheidungsvorlage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-juristisches-beweislast-und-darlegungslast` | Juristisches: Beweislast, Darlegungslast und Substantiierung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-klaeren-compliance-dokumentation-und-akte` | Klaeren: Compliance-Dokumentation und Aktenvermerk im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-leichte-risikoampel-und-gegenargumente` | Leichte: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-nutzen-red-team-und-qualitaetskontrolle` | Nutzen: Red-Team und Qualitätskontrolle im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-qualitaetsgate-formular-portal-und-einreichung` | Qualitaetsgate: Formular, Portal und Einreichungslogik im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsinhalt-mehrparteien-konflikt-und-interessen` | Rechtsinhalt: Mehrparteienkonflikt und Interessenmatrix im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sichern-internationaler-bezug-und-schnittstellen` | Sichern: Internationaler Bezug und Schnittstellen im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sprache-dokumentenmatrix-und-lueckenliste` | Sprache: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-standard-verhandlung-vergleich-und-eskalation` | Standard: Verhandlung, Vergleich und Eskalation im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-texte-tatbestand-beweis-und-belege` | Texte: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-uebertragen-behoerden-gericht-und-registerweg` | Uebertragen: Behörden-, Gerichts- oder Registerweg im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zielgruppe-sprachniveau-rechtsinhalt` | Zielgruppe, Sprachniveau und gesicherter Rechtsinhalt: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-zielgruppe-zahlen-schwellen-und-berechnung` | Zielgruppe: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-zielgruppe-zahlen-schwellen-und-berechnung` | Zielgruppe: Zahlen, Schwellenwerte und Berechnung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin einfache-leichte-sprache-jura: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin einfache-leichte-sprache-jura: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin einfache-leichte-sprache-jura: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

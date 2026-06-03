@@ -61,14 +61,11 @@ Die fünf-Ton-Harfensequenz der Runway-Eröffnung für Klasse 41 (Modeschauen-Di
 ### Konstellation 3: Animiertes Doppel-K-Logo als Bewegungsmarke
 Die animierte Version des Doppel-K-Signets (2 Sek. Rotation und Aufleuchten) als Bewegungsmarke. EUIPO-Anmeldung mit MP4-Datei und Frame-by-Frame-Beschreibung. Gute Chancen: Die Bewegung ist eigenständig gestaltet und nicht trivial.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 100 ff. (Hörmarken) und Rn. 180 ff. (Bewegungsmarken)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 180 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- EUIPO-Leitlinien zur Prüfung, Teil B Kap. 5 (Hörmarken/Multimediamarken), Stand 2023
-- DPMA, Merkblatt Hörmarken (aktualisiert 2019)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

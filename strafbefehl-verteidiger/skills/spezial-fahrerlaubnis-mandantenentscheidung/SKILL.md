@@ -1,6 +1,6 @@
 ---
 name: spezial-fahrerlaubnis-mandantenentscheidung
-description: "Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage
@@ -18,6 +18,15 @@ Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfel
 - Vorläufige Entziehung: § 111a StPO – Beschwerde nach § 304 StPO statthaft.
 - Punkte/Fahreignungsregister: §§ 4, 28 ff. StVG, FeV; bei 8 Punkten Entzug, parallel zu strafrechtlicher Entscheidung.
 - Praxis-Tipp: Entscheidungsvorlage mit Mandant: Einspruch hinnehmen (Fahrverbot kürzer, Sperrzeit überstehen) vs. Einspruch (mit Risiko der Verschärfung)? Existenzfragen (LKW-Fahrer, Außendienst) und Härtefall-Argumente nach § 44 StGB schriftlich abwägen. Bei Sperrfrist ggf. § 69a Abs. 7 StGB (vorzeitige Aufhebung) prüfen.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Fahrerlaubnis.
+- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
+- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -19,18 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Europarecht-Kompass – Beihilfe, Richtlinie und Vorlagefrage** (`europarecht-kompass-beihilfe-richtlinie`) | [Gesamt-PDF lesen](../testakten/europarecht-kompass-beihilfe-richtlinie/gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 Großes, freistehendes Plugin für deutsche Juristinnen und Juristen, die Europarecht nicht als deutsches Verwaltungsrecht mit Brüsseler Briefkopf missverstehen wollen. Es erklärt Vorrang, unmittelbare Wirkung, Richtlinien, Verordnungen, Beschlüsse, Soft Law, Charta, Grundfreiheiten, Beihilfen, Wettbewerbsrecht, Vorlageverfahren und Durchsetzung aus der Eigenlogik des Unionsrechts.
 
 Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugins, keine externen Agenten und keine Kanzleisoftware. Wenn keine Datenbank, kein DMS, kein Übersetzungstool, keine Rechercheplattform oder kein Behördenzugang angeschlossen ist, arbeitet es mit manuellen Uploads oder einem ausdrücklich markierten Simulationsmodus.
@@ -94,11 +82,6 @@ Dieses Plugin ist **vollständig freistehend**. Es benötigt keine anderen Plugi
 - [European Parliament: ordinary legislative procedure](https://www.europarl.europa.eu/olp/en/ordinary-legislative-procedure/overview)
 - [EUR-Lex](https://eur-lex.europa.eu/)
 
-## Download
-
-- Plugin-ZIP: [europarecht-kompass.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/europarecht-kompass.zip)
-- Akte: [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip)
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
@@ -131,26 +114,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung... |
 | `europarecht-vorrang-unmittelbare-wirkung` | Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare W... |
 | `europarecht-wettbewerb-kartell` | Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellun... |
-| `spezial-anrufung-red-team-und-qualitaetskontrolle` | Anrufung: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-beihilfen-compliance-dokumentation-und-akte` | Beihilfen: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-charta-livequellen-und-rechtsprechungscheck` | Charta: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-denkfehler-fristen-form-und-zustaendigkeit` | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-drafting-internationaler-bezug-und-schnittstellen` | Drafting: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-anrufung-red-team-und-qualitaetskontrolle` | Anrufung: Red-Team und Qualitätskontrolle im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-beihilfen-compliance-dokumentation-und-akte` | Beihilfen: Compliance-Dokumentation und Aktenvermerk im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-charta-livequellen-und-rechtsprechungscheck` | Charta: Livequellen- und Rechtsprechungscheck im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-denkfehler-fristen-form-und-zustaendigkeit` | Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-drafting-internationaler-bezug-und-schnittstellen` | Drafting: Internationaler Bezug und Schnittstellen im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-eu-rechtsquellen-und-vorlageweiche` | EU-Rechtsquellen, Charta und Vorlageweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-europarecht-erstpruefung-und-mandatsziel` | Europarecht: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gegen-tatbestand-beweis-und-belege` | Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-grundfreiheiten-zahlen-schwellen-und-berechnung` | Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kommissionsverfahren-formular-portal-und-einreichung` | Kommissionsverfahren: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-petitionsausschuss-mandantenentscheidung` | Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsquellen-beweislast-und-darlegungslast` | Rechtsquellen: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-richtlinien-schriftsatz-brief-und-memo-bausteine` | Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-unmittelbare-risikoampel-und-gegenargumente` | Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verordnungen-verhandlung-vergleich-und-eskalation` | Verordnungen: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vorlageverfahren-mehrparteien-konflikt-und-interessen` | Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vorrang-dokumentenmatrix-und-lueckenliste` | Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-europarecht-erstpruefung-und-mandatsziel` | Europarecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gegen-tatbestand-beweis-und-belege` | Gegen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-grundfreiheiten-zahlen-schwellen-und-berechnung` | Grundfreiheiten: Zahlen, Schwellenwerte und Berechnung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kommissionsverfahren-formular-portal-und-einreichung` | Kommissionsverfahren: Formular, Portal und Einreichungslogik im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-petitionsausschuss-mandantenentscheidung` | Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsquellen-beweislast-und-darlegungslast` | Rechtsquellen: Beweislast, Darlegungslast und Substantiierung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-richtlinien-schriftsatz-brief-und-memo-bausteine` | Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-unmittelbare-risikoampel-und-gegenargumente` | Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verordnungen-verhandlung-vergleich-und-eskalation` | Verordnungen: Verhandlung, Vergleich und Eskalation im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vorlageverfahren-mehrparteien-konflikt-und-interessen` | Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vorrang-dokumentenmatrix-und-lueckenliste` | Vorrang: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vorrang-unmittelbare-wirkung-effet-utile` | Vorrang, unmittelbare Wirkung und effet utile in nationalen Fällen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-wirkung-behoerden-gericht-und-registerweg` | Wirkung: Behörden-, Gerichts- oder Registerweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin europarecht-kompass: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin europarecht-kompass: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin europarecht-kompass: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

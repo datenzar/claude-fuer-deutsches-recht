@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Zitierweise Deutsches Recht-Plugin. Setzt v4.0 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quellenlage und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel, Quellenlage und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan."
 ---
 
 <!-- konvers-stil-v1 -->
@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Zitierweise Deutsc
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Zitierweise Deutsches Recht**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Deutsche juristische Zitierweise v4.0. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, `Az.`, Aktenzeichen und verifizierbarer Quelle. BeckRS, juris-Nummern, Kommentarstellen und Aufsatzfundstellen werden nicht aus Modellwissen erzeugt. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
+**Plugin-Fokus:** Deutsche juristische Zitierweise v4.1. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, `Az.`, Aktenzeichen und verifizierbarer Quelle. BeckRS, juris-Nummern, Kommentarstellen und Aufsatzfundstellen werden nicht aus Modellwissen erzeugt. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -114,7 +114,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
-| `zitierweise-anwenden` | Wende die Hauszitierweise v4.0 an: Rechtsprechung mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
+| `zitierweise-anwenden` | Wende die Hauszitierweise v4.1 an: Rechtsprechung mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
 
 ## Qualitätsversprechen
 

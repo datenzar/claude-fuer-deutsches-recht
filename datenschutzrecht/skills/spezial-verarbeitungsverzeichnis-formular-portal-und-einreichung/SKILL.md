@@ -1,6 +1,6 @@
 ---
 name: spezial-verarbeitungsverzeichnis-formular-portal-und-einreichung
-description: "Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik im Plugin datenschutzrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik
@@ -9,6 +9,15 @@ description: "Verarbeitungsverzeichnis: Formular, Portal und Einreichungslogik: 
 Dieser Skill ist ein konkreter Fachbaustein für `datenschutzrecht`. Ausgangspunkt ist: DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA und Behördenpaket.
 
 Er führt durch **Formular, Portal und Einreichungslogik** im Themenfeld **Verarbeitungsverzeichnis**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Verarbeitungsverzeichnis.
+- **Arbeitsfokus:** Formular, Portal und Einreichungslogik.
+- **Plugin-Rahmen:** DSGVO/BDSG/TDDDG – PIA/DPIA, AVV-Review, Auskunft Art. 15, Datenpanne Art. 33/34, Drittlandstransfer Art. 44 ff. inkl. US-Transfer, DPF, SCC, TIA und Be....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

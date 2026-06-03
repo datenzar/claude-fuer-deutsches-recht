@@ -1,12 +1,12 @@
 ---
 name: zitat-monografie-handbuch
-description: "Monografie/Handbuch zitieren: Verfasser, Titel, Auflage Jahr, Seitenzahl. Bei Handbuch mit mehreren Bearbeitern: Bearbeiter in Hauptverfasser, Titel, Auflage Jahr, Kapitel/§, Rn. Beispiel: Schmitz, in: Beck'sches Handbuch GmbH, 6. Aufl. 2024, § 5 Rn. 42."
+description: "Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen."
 ---
 
 # Monografie/Handbuch zitieren
 
 ## Aufgabe
-Monografie/Handbuch zitieren: Verfasser, Titel, Auflage Jahr, Seitenzahl.
+Monografie- und Handbuchfundstellen nur dann in Zitatform bringen, wenn die Quelle vorliegt. Ohne Quelle nur Recherchehinweis, keine Seiten- oder Randnummern behaupten.
 
 
 ## Fachlicher Arbeitskern

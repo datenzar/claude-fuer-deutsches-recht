@@ -220,3 +220,12 @@ Das Plugin richtet sich an ein internes Rechts-Ops-Publikum: Entscheider in Rech
 - **Produkthaftungs-RL (EU) 2024/2853** — Neue Produkthaftungsrichtlinie; Umsetzungsfrist in nationales Recht **bis 09.12.2026**, gilt für Produkte, die **nach dem 09.12.2026** in Verkehr gebracht oder in Betrieb genommen werden; weitgefasster Produktbegriff (auch Software, digitale Konstruktionsunterlagen, Elektrizität, Rohstoffe); Streichung des 500-EUR-Selbstbehalts und der 85-Mio-EUR-Obergrenze; Haftung auch von Importeuren, Beauftragten, Fulfillment-Dienstleistern und bestimmten Online-Plattform-Anbietern — [EUR-Lex 32024L2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj).
 - **KI-VO (EU) 2024/1689** in der geltenden Fassung; Verbote Art. 5 anwendbar seit 02.02.2025; Allgemeine KI-Modelle (GPAI) ab 02.08.2025; Hochrisiko-KI-Pflichten in der Hauptanwendung ab **02.08.2026** — [EUR-Lex 32024R1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj).
 - **Maschinenverordnung (EU) 2023/1230** — anwendbar ab 20.01.2027.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

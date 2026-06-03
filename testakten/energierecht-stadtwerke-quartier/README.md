@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 226 KB) | PDF | [`gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf`](gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 194 KB) | PDF | [`gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf`](gesamt-pdf/energierecht-stadtwerke-quartier_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-energierecht-stadtwerke-quartier.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-energierecht-stadtwerke-quartier.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -116,7 +116,7 @@ Die Finanzierung des Projekts (Gesamtinvestitionsvolumen ca. 14,6 Mio. Euro) sol
 | [README.md](README.md) | Gesamtüberblick, Sachverhalt, Eckdaten, Zeitleiste, Dateiverzeichnis |
 | [01_intake/email_mandant_stadtwerke.txt](01_intake/email_mandant_stadtwerke.txt) | Erste E-Mail des Mandanten mit Projektanfrage |
 | [01_intake/mandatsnotiz_erstgespraech.md](01_intake/mandatsnotiz_erstgespraech.md) | Interner Aktenvermerk zum Erstgespräch vom 15.03.2024 |
-| [02_projekt/quartier_waerme_strom_konzept.md](02_projekt/quartier_waerme_strom_konzept.md) | Vollständige Konzeptskizze mit technischen Eckdaten, Varianten, Offene-Punkte-Liste |
+| [02_projekt/quartier_wärme_strom_konzept.md](02_projekt/quartier_waerme_strom_konzept.md) | Vollständige Konzeptskizze mit technischen Eckdaten, Varianten, Offene-Punkte-Liste |
 | [03_netzanschluss/netzanschluss_sonderkonstellation.md](03_netzanschluss/netzanschluss_sonderkonstellation.md) | Rechtlicher Vermerk: Netzanschluss, Kundenanlage vs. GVN, Messkonzept |
 | [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.md](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.md) | Netzanschlussbegehren vom 14.11.2024 (Schreiben SWKK an Netzbetreiber) |
 | [03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx](03_netzanschluss/netzanschlussbegehren_SWKK_2024-11.docx) | DOCX-Version des Netzanschlussbegehrens |

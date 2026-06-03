@@ -1,6 +1,6 @@
 ---
 name: spezial-verkehr-fristennotiz-und-naechster-schritt
-description: "Verkehr: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Verkehr: Fristennotiz und nächster Schritt im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Verkehr: Fristennotiz und nächster Schritt
@@ -9,6 +9,15 @@ description: "Verkehr: Fristennotiz und nächster Schritt: konkreter Spezialwork
 Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-verkehrsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein.
 
 Er führt durch **Fristennotiz und nächster Schritt** im Themenfeld **Verkehr**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Verkehr.
+- **Arbeitsfokus:** Fristennotiz und nächster Schritt.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -67,6 +76,6 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Live-Quellen:**
   - gesetze-im-internet.de (Bundesnormen).
   - BVerfG-Rechtsprechung (Akteneinsicht / fair trial).
-  - BGH NJW / DAR / SVR (Verkehrsrechts-Sammlungen) - bei Lizenz; sonst Onlinequellen.
+  - BGH-Entscheidungen nur mit Gericht, Datum, Aktenzeichen und freier/amtlicher Quelle; Zeitschriftenfundstellen nur bei Lizenz oder Nutzerquelle.
   - openJUR (frei) - Sammlungen Urteile.
 - **Praxis-Tipp:** Bei mehreren Saeulen parallel: Mandantenuebersicht mit Frist-Matrix erstellen; Wiedervorlagesystem mit kanzleieigenem Fristenkalender.

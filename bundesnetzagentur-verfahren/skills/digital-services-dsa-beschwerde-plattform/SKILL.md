@@ -3,36 +3,60 @@ name: digital-services-dsa-beschwerde-plattform
 description: "Digital Services / DSA Beschwerde Plattform: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: DSA Beschwerde Plattform
+# DSA-Beschwerde gegen eine Online-Plattform
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Begleitung einer Beschwerde nach Art. 53 DSA i. V. m. § 18 DDG, die gegen eine Online-Plattform bei der Bundesnetzagentur als Digital Services Coordinator (DSC) eingereicht wird. Beschwerdebefugt sind nach Art. 53 DSA Empfänger des Dienstes sowie Stellen, Organisationen und Vereinigungen, die mit deren Rechten auf der Grundlage des DSA betraut sind. Anwaltliche Mandate bestehen typischerweise: Verbraucherzentralen, Mitbewerber, Verbände, betroffene Nutzer, Trusted Flagger. Der Skill leitet die Beschwerde, ihre Begründung und das spätere Aufsichtsverfahren.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Plattform (Name, EU-Vertreter Art. 13 DSA, Mitgliedstaat des Niederlassungsorts).
+- Konkrete Pflichtverletzung (Norm und Sachverhalt).
+- Beschwerdeführer-Rolle und Aktivlegitimation (Nutzer, Verband, Verbraucherzentrale, Mitbewerber).
+- Verfahrensvorgeschichte (interne Beschwerde Art. 20 DSA, Art. 21-Streitbeilegung).
+- Beweismaterial (Screenshots, URLs, Zeitstempel, Korrespondenz).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- Art. 53 DSA (Beschwerderecht beim DSC).
+- Art. 11–17 DSA (allgemeine Pflichten Hosting-Anbieter).
+- Art. 18–24 DSA (Pflichten Online-Plattform).
+- Art. 25–48 DSA (zusätzliche Pflichten Online-Marktplätze und VLOPs).
+- § 18 DDG (Beschwerde- und Auskunftsbefugnis BNetzA).
+- § 19 DDG (Untersagung und Abhilfe).
+- Art. 56 DSA (Sitzlandprinzip), Art. 60 DSA (gemeinsame Untersuchungen).
+- § 4 UKlaG (Liste qualifizierter Einrichtungen für Verbände).
+- §§ 51 Abs. 1 Nr. 7, 75 VwGO (VG Köln, Untätigkeitsklage).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / DSA Beschwerde Plattform: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Aktivlegitimation prüfen.** Nutzer: persönliche Betroffenheit. Verband: Eintragung als qualifizierte Einrichtung. Mitbewerber: konkrete Marktstellung.
+2. **Sachverhalt strukturieren.** Tatsachenkern in 1–3 Seiten, chronologisch, mit Beweissicherungstags (Screenshots datiert, URLs mit Zeitstempel, ggf. Web Archive).
+3. **Pflichtenrückbezug.** Genau bezeichnen, welche DSA-Pflicht verletzt sein soll (z. B. Art. 14 AGB, Art. 16 Notice-and-Action, Art. 17 Begründungspflicht, Art. 20 internes Beschwerdesystem, Art. 24 Transparenzberichte, Art. 25 Dark Patterns, Art. 26 Werbung, Art. 28 Minderjährige).
+4. **Zuständigkeitskaskade.** Sitzlandprinzip: BNetzA leitet ggf. an Sitzland-DSC weiter; bei VLOP-Pflichten Kap. III Abschnitt 5 ggf. an EU-Kommission.
+5. **Konkrete Anträge.** Untersagung, Anordnung von Abhilfemaßnahmen, Zwangsgeld, Bußgeld, Verpflichtungszusagen.
+6. **Anschlussverfahren.** Verpflichtungszusagen Art. 73 DSA, Aufsichtsverfahren mit Anhörung der Plattform, Entscheidung des DSC.
+7. **Untätigkeitsklage.** § 75 VwGO bei BNetzA-Inaktivität; Frist und Sachgrund prüfen.
+8. **EU-Eskalation.** Art. 64 DSA: Beschwerde bei Europäischem Gremium für digitale Dienste, falls grenzüberschreitender Bezug.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Beschwerdeschrift an die BNetzA als DSC: Beschwerdeführer, Plattform, behauptete Pflichtverletzung, Sachverhalt, Anträge, Beweismittel.
+- Stellungnahme als beigeladener Verband: Klagebefugnis nach § 4 UKlaG, Substantiierung der Verbandsfunktion.
+- Untätigkeitsklage VG Köln nach § 75 VwGO: Bezugnahme auf die Beschwerde, Frist, Anträge.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- DSA-Originaltext aus EUR-Lex.
+- DDG-Originaltext aus BGBl. 2024 I Nr. 149.
+- BNetzA-DSC-Praxis vom Anwender zu verifizieren.
+- VG Köln-Rechtsprechung mit Datum und Az.
+- Zitierweise gemäß `references/zitierweise.md`.
+
+## Ausgabeformat
+- Beschwerdeschrift (3–10 Seiten) mit Anlagenverzeichnis.
+- Risikomatrix (Erfolgsaussicht, Verfahrensdauer, Kostenrisiko).
+- Eskalationsplan (DSC, EU-Gremium, Untätigkeitsklage, parallele UWG-Klage).
+
+## Beispiele
+- Nutzer beschwert sich gegen Sperrung wegen behauptetem AGB-Verstoß. Beschwerde stützt sich auf Art. 17 DSA (Begründungspflicht) und Art. 20 DSA (internes Beschwerdesystem).
+- Verband (vzbv) beschwert sich gegen unklare Werbekennzeichnung auf einer Plattform. Beschwerde stützt sich auf Art. 26 DSA.
+- Mitbewerber beschwert sich gegen mangelhafte Händlerverifikation auf einem Online-Marktplatz. Beschwerde stützt sich auf Art. 30 DSA (Rückverfolgbarkeit von Händlern).
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Aktivlegitimation tragfähig? Pflichtenzuordnung präzise (genaue DSA-Artikel)? Beweismittel datiert und verifizierbar? Sitzland-Zuständigkeit geklärt? Verbandseintrag aktuell? Vergleichsbereitschaft des Mandanten dokumentiert?

@@ -1,6 +1,6 @@
 ---
 name: duftmarke-und-geschmacksmarke
-description: "Workflow-Skill zu duftmarke und geschmacksmarke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen."
 ---
 
 # Duftmarken und Geschmacksmarken
@@ -66,14 +66,11 @@ Nach der UMV-Reform 2017 möchte die Comtesse Beatrice de Klotzzkettie einen Ver
 ### Konstellation 3: Parfumhaus-Zukauf — Due Diligence
 klôtzzkètté erwägt Kauf eines kleinen Nischenparfumeurs. IP-Due-Diligence: Sind die Rezepturen als Geschäftsgeheimnisse gesichert? Exist Patente? Sind Flakons als 3D-Marken eingetragen? Werden Wortmarken der Duftlinien genutzt und verteidigt?
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 140 ff. (Riechmarken)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Fezer, Markenrecht, 4. Aufl. 2009, § 3 Rn. 150 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

@@ -1,6 +1,6 @@
 ---
 name: spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck
-description: "Jahresabrechnung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Jahresabrechnung: Livequellen- und Rechtsprechungscheck im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Jahresabrechnung: Livequellen- und Rechtsprechungscheck
@@ -9,6 +9,15 @@ description: "Jahresabrechnung: Livequellen- und Rechtsprechungscheck: konkreter
 Dieser Skill ist ein konkreter Fachbaustein für `weg-hausverwaltung`. Ausgangspunkt ist: Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.
 
 Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Jahresabrechnung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Jahresabrechnung.
+- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
+- **Plugin-Rahmen:** Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Ha....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -27,7 +36,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
 
 ## Materielle Weichen Jahresabrechnung
-- **Rechtsgrundlage:** § 28 Abs. 2 WEG (neue Fassung seit WEG-Reform 2020). Die GdWE beschließt nur noch über die Einforderung von Nachschüssen und die Anpassung der Vorschüsse aus der Jahresabrechnung. Die Abrechnung selbst ist Verwaltungsmaßnahme, kein Beschlussgegenstand mehr (BGH ständige Rspr. zur Reform).
+- **Rechtsgrundlage:** § 28 Abs. 2 WEG (neue Fassung seit WEG-Reform 2020). Die GdWE beschließt nur noch über die Einforderung von Nachschüssen und die Anpassung der Vorschüsse aus der Jahresabrechnung. Die Abrechnung selbst ist Verwaltungsmaßnahme, kein Beschlussgegenstand mehr; Fehler tragen die Anfechtung nur, wenn sie sich auf die Abrechnungsspitze und damit auf die Zahlungspflicht auswirken (BGH, Urteil vom 20.09.2024 - V ZR 195/23, vor Ausgabe frei verifizieren).
 - **Anfechtungsfrist § 45 WEG:** Beschluss über Nachschuss/Anpassung kann nur innerhalb eines Monats ab Beschlussfassung angefochten werden. Versäumung: materielle Bestandskraft, Fehler heilen.
 - **Inhalt der Abrechnung:** Einnahmen-/Ausgaben-Übersicht, Stand der Rücklage, Vermögensbericht (§ 28 Abs. 4 WEG), Heizkostenabrechnung nach HeizKV.
 - **Typische Fehler:** Vermischung Erhaltungsrücklage und laufende Bewirtschaftung, fehlerhafter Verteilungsschlüssel (§ 16 Abs. 2 WEG vs. Beschlussabweichung), keine Plausibilisierung Vorjahr/Vorvorjahr, fehlende Belegseinsicht (§ 18 Abs. 4 WEG).
@@ -44,3 +53,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: WEG-Reform, Beschlussgegenstand und Abrechnungsspitze
+
+- **Verifizierte Rechtsprechungsanker:** BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung tragen die Ungültigerklärung nur, wenn sie sich auf Abrechnungsspitze und Zahlungspflicht auswirken. BGH, Urteil vom 14.02.2025 - V ZR 236/23 und V ZR 128/23: Kostenverteilung nach § 16 Abs. 2 WEG verlangt Beschlusskompetenz, Sachgrund und saubere Belastungslogik. Bei jeder Ausgabe vor Zitat freie Quelle erneut prüfen.
+- **Reformlogik:** Seit der WEG-Reform ist nicht „die Jahresabrechnung als Zahlenwerk“ der Beschlussgegenstand, sondern Nachschüsse und Anpassung der Vorschüsse nach § 28 Abs. 2 WEG. Das ist die zentrale Weiche für Anfechtung, Bestimmtheit und Fehlerrelevanz.
+- **Praktische Prüfung:** Beschlusskompetenz, Bestimmtheit, Ladung/Tagesordnung, Stimmrecht, Verteilungsschlüssel, Belegprüfung, Rücklage/Vermögensbericht, HeizKV, Umsatzsteuer/Vorsteuer und Anfechtungsfrist getrennt prüfen.
+- **Output-Pflicht:** Für Verwaltung/Eigentümer immer eine Beschluss- oder Anfechtungsmatrix liefern: Beschlusswortlaut, Rechtsgrundlage, Fehler, Zahlungsrelevanz, Beleg, Frist, Heilungs- oder Neufassungsoption.

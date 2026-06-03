@@ -43,3 +43,12 @@ Erfinder ist, wer einen schöpferischen Beitrag zur technischen Lehre geleistet 
 - **Spezialfälle:** Hochschulerfindungen § 42 ArbEG (Hochschullehrer); Universitäten haben 30 % Vergütungsanteil; Veröffentlichungsfreiheit zu wahren.
 - **Vergütung Routinearbeit:** § 9 ArbEG-Logik nicht auf "freie" Erfindungen anwendbar — Trennung sauber ziehen.
 - Falle: Bei Konzernlizenzen IP-Inhaberschaft live im DPMA-Register prüfen; "wirtschaftliche" Zuordnung reicht nicht; Diensterfinderbenennung darf nicht zur Familienangelegenheit werden — § 8 PatG Vindikationsanspruch droht.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

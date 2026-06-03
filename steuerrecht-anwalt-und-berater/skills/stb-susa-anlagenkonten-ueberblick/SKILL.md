@@ -132,3 +132,12 @@ Stand: 05/2026.
 - Hinweis: § 7g EStG Sonder-AfA 40 Prozent und IAB 50 Prozent seit JStG 2020 stabil.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 10 Marker aufgeloest: 8 bestaetigt (§ 7b bis 2029, GWG 800 EUR stabil, Sammelposten 250-1000 EUR stabil, § 7g 40%/50% stabil, BMF AfA-Tabelle AV 15.12.2000), 2 ersetzt (DATEV-Kontonummern-Hinweise ohne Marker neu formuliert) -->
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

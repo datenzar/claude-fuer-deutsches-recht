@@ -191,3 +191,12 @@ Das Plugin unterstuetzt zudem den Aufbau kanzleieigener Klagemuster und ermoegli
 - § 23 Nr. 1 GVG in der Fassung des Gesetzes zur Aenderung des Zustaendigkeitsstreitwerts der Amtsgerichte (BGBl. 2025 I Nr. 318 vom 11.12.2025): Amtsgerichts-Streitwertgrenze 10.000 EUR ab 01.01.2026; § 511 Abs. 2 ZPO Berufungssumme 1.000 EUR; § 47 EGZPO Uebergangsvorschrift.
 - Basiszinssatz § 247 BGB zum 01.01.2026: 1,27 Prozent (Bundesbank-Bekanntmachung); B2C-Verzugszins 6,27 Prozent, B2B-Verzugszins 10,27 Prozent. Quelle: https://www.bundesbank.de/de/presse/pressenotizen/bekanntgabe-des-basiszinssatzes-zum-1-januar-2026-basiszinssatz-bleibt-unveraendert-bei-1-27--973974
 - BGB und ZPO in aktuell geltender Fassung.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

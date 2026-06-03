@@ -1,6 +1,6 @@
 ---
 name: spezial-infrastrukturrecht-tatbestand-beweis-und-belege
-description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -9,6 +9,15 @@ description: "Infrastrukturrecht: Tatbestandsmerkmale, Beweisfragen und Beleglag
 Dieser Skill ist ein konkreter Fachbaustein für `verkehr-infrastrukturrecht`. Ausgangspunkt ist: Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende.
 
 Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Infrastrukturrecht**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Infrastrukturrecht.
+- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
+- **Plugin-Rahmen:** Freistehendes Verkehrs- und Infrastrukturrecht-Plugin für Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Parkraum und Verkehrswende.
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -79,11 +79,11 @@ Ein älteres Mailänder Luxushaus "Klothé SRL" erhebt Widerspruch gegen klôtzz
 ### Konstellation 3: Art. 8 V — Bekanntheitsschutz für klôtzzkètté
 klôtzzkètté legt Widerspruch gegen Anmeldung "KLOTZ-KT" für Klasse 9 (Technologie) ein — warenunähnliche Klasse. Grundlage: Art. 8 V UMV (Bekanntheitsschutz). Voraussetzung: klôtzzkètté ist im Luxussegment in DE/FR/IT bekannt. Nachweis durch Meinungsumfrage und Pressebelege.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Hasselblatt (Hrsg.), Münchener Anwaltshandbuch GRS, 5. Aufl., Kap. Widerspruchsverfahren EUIPO
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

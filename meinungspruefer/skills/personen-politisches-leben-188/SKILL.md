@@ -47,3 +47,12 @@ Gib ein §-188-Prüfblatt aus:
 - **Verhältnis Art. 5 GG:** BVerfG ständige Rspr. — Machtkritik im politischen Diskurs hat erhöhten Schutz; pauschale Anwendung § 188 StGB ohne Abwägung verstößt regelmäßig gegen Art. 5 I GG.
 - **Strafverteidigung:** Sachbezug herausarbeiten; bei kommunaler Politik Auseinandersetzung mit der Amtsführung dokumentieren; bei Soziale-Medien-Posts Kontext (Thread, Kommentarstrang) sichern.
 - Falle: Frühe Annahme § 188 ohne Subsumtion der Eignungs-Voraussetzung führt regelmäßig zu Aufhebung. Sorgfältig prüfen: Wäre der Mandatsträger ohne diese Äußerung weiterhin in seinem Wirken nennenswert beeinträchtigt?
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -1,6 +1,6 @@
 ---
 name: workflow-fristen-und-risikoampel
-description: "Fristen- und Risikoampel im Plugin fachanwalt-strafrecht: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen."
+description: "Fristen- und Risikoampel im Plugin fachanwalt-strafrecht: macht aus Strafbefehl, Urteil, Beschluss, Ladung, Haftbefehl, beA-/EGVP-Eingang oder Aktennachlieferung eine Sofortampel für Frist, Zuständigkeit, U-Haft, Rechtsmittel, Eilbedarf und fehlende Unterlagen."
 ---
 
 # Fristen- und Risikoampel
@@ -37,11 +37,11 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 ## Strafverteidigung-Fristen-Speziallage
 - **Einspruch Strafbefehl § 410 StPO: 2 Wochen** ab Zustellung.
 - **Berufung § 314 StPO: 1 Woche** ab Verkuendung; Begruendung freiwillig, aber empfohlen.
-- **Revision §§ 341, 345 StPO: 1 Woche Einlegung, 1 Monat Begruendung** ab Zustellung der schriftlichen Urteilsausfertigung.
+- **Revision §§ 341, 345 StPO:** Einlegung binnen 1 Woche; Revisionsanträge und Begründung grundsätzlich binnen 1 Monat nach Ablauf der Einlegungsfrist, bei späterer Urteilszustellung ab Zustellung; Verteidiger-/Anwaltsunterschrift für die Begründung beachten.
 - **Beschwerde § 311 StPO: 1 Woche** ab Zustellung (sofortige Beschwerde) bzw. unbefristet (einfache Beschwerde § 304 StPO).
-- **Haftbeschwerde § 117 StPO** jederzeit; Haftpruefung § 118 StPO; OLG-automatische Haftpruefung nach 6 Monaten § 121 StPO.
+- **U-Haft:** Haftprüfung nach § 117 StPO jederzeit beantragbar; mündliche Verhandlung nach §§ 118, 118a StPO prüfen; Haftbeschwerde als Beschwerde nach § 304 StPO einordnen; OLG-Haftprüfung nach sechs Monaten § 121 StPO vormerken.
 - **Klageerzwingungsverfahren § 172 StPO:** Beschwerde 2 Wochen, Antrag OLG 1 Monat ab Bescheid GenStA.
-- **Akteneinsicht § 147 StPO** im Ermittlungsverfahren regelmaessig erst nach Abschluss; nach Anklageerhebung Anspruch.
+- **Akteneinsicht § 147 StPO:** Verteidigerrecht nach Abs. 1; im laufenden Ermittlungsverfahren nur bei konkreter Gefährdung des Untersuchungszwecks einschränkbar; bei U-Haft oder beantragter vorläufiger Festnahme sind haftrelevante Informationen in geeigneter Weise zugänglich zu machen, regelmäßig durch Akteneinsicht (§ 147 Abs. 2 S. 2 StPO).
 - **Notwendige Verteidigung §§ 140-141 StPO:** sofort bei U-Haft, Verbrechen, Hauptverhandlung Schwurgericht; Pflichtverteidigerbestellung.
 - **Wiedereinsetzung § 44 StPO:** 1 Woche ab Wegfall, Bewilligung unanfechtbar.
 - **Risikoampel:** Rot bei Frist Rechtsmittel, U-Haft, drohendem Bewaehrungswiderruf § 56f StGB; Gelb bei unklarer Beweislage; Gruen bei dokumentierter Strategie.

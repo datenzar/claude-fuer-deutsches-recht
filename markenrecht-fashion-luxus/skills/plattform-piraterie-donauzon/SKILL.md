@@ -1,6 +1,6 @@
 ---
 name: plattform-piraterie-donauzon
-description: "Workflow-Skill zu plattform piraterie donauzon. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation."
 ---
 
 # Plattform-Piraterie und Notice-and-Action nach DSA
@@ -75,11 +75,11 @@ Donauzon-Empfehlungs-Algorithmus schiebt Fälschungen bei der Suche "klôtzzkèt
 ### Konstellation 3: Anbieter "Style4All GmbH" nutzt Marke als Keyword
 Donauzon-Händler "Style4All GmbH" (Duisburg) verkauft Eigenware und bewirbt diese mit Keyword "klôtzzkètté" in der Produktbeschreibung ohne Markenverletzung bei der Ware selbst. Abmahnung an Style4All direkt; DSA-Notice gegen das Keyword in der Produktbeschreibung.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- VO (EU) 2022/2065 (Digital Services Act), ABl. L 277 v. 27.10.2022
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

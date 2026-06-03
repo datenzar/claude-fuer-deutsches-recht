@@ -1,6 +1,6 @@
 ---
 name: spezial-rbst-mandantenkommunikation-entscheidungsvorlage
-description: "Rbst: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Rbst: Mandantenkommunikation und Entscheidungsvorlage im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Rbst: Mandantenkommunikation und Entscheidungsvorlage
@@ -9,6 +9,15 @@ description: "Rbst: Mandantenkommunikation und Entscheidungsvorlage: konkreter S
 Dieser Skill ist ein konkreter Fachbaustein für `rechtsberatungsstelle`. Ausgangspunkt ist: Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
 
 Er führt durch **Mandantenkommunikation und Entscheidungsvorlage** im Themenfeld **Rbst**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Rbst.
+- **Arbeitsfokus:** Mandantenkommunikation und Entscheidungsvorlage.
+- **Plugin-Rahmen:** Pro-Bono- und Rechtsberatungsstellen (RDG-konform): Mandantenintake, Fristenkontrolle, Übergabe am Semesterende, mandantenfreundliche Briefe.
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

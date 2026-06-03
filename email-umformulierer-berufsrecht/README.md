@@ -19,24 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Eskalations-E-Mails Mandantenstreit — Erbengemeinschaft Aufhauser-Trenkler vs. Kanzlei Rosenmühle & Partner** (`eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle`) | [Gesamt-PDF lesen](../testakten/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle/gesamt-pdf/eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-eskalations-emails-mandantenstreit-aufhauser-kanzlei-rosenmuehle.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Formuliert unfreundliche, emotionale oder unsachliche E-Mails in höfliche, sachliche und berufsrechtskonform formulierte Texte um. Der Fokus liegt auf dem anwaltlichen Berufsrecht (BRAO/BORA), mit spezialisierten Modi für Steuerberater (StBerG/BOStB), Notare (BNotO) und allgemeine berufliche Korrespondenz.
-
-## Download
-
-[email-umformulierer-berufsrecht.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/email-umformulierer-berufsrecht.zip)
 
 ## Enthaltene Skills
 
@@ -148,25 +131,25 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `persoenlichen-angriff-entschaerfen` | Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Prüfraster: persoenliche Angriffe Beleidigungen herabsetzende Formulierungen.... |
 | `sachlichkeitsgebot-anwendung` | Sachlichkeitsgebot nach § 26 BORA auf konkrete Korrespondenz anwenden und Verbesserungen vornehmen. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: unsachliche Formulierungen Emotionalisierung Abwertungen Versachlichungspotenzial. Output:... |
 | `sachverhalt-neutral-darstellen` | Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output... |
-| `spezial-allgemeine-sonderfall-und-edge-case` | Allgemeine: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-berufliche-fristennotiz-und-naechster-schritt` | Berufliche: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-berufsrechtskonform-verhandlung-vergleich-und-eskalation` | Berufsrechtskonform: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bora-internationaler-bezug-und-schnittstellen` | Bora: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-brao-mehrparteien-konflikt-und-interessen` | Brao: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-emotionale-fristen-form-und-zustaendigkeit` | Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fokus-compliance-dokumentation-und-akte` | Fokus: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-formuliert-erstpruefung-und-mandatsziel` | Formuliert: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-formulierte-livequellen-und-rechtsprechungscheck` | Formulierte: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hoefliche-behoerden-gericht-und-registerweg` | Hoefliche: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-konformitaet-formular-portal-und-einreichung` | Konformitaet: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-mails-risikoampel-und-gegenargumente` | Mails: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-notare-beweislast-und-darlegungslast` | Notare: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sachliche-schriftsatz-brief-und-memo-bausteine` | Sachliche: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-steuerberater-mandantenentscheidung` | Steuerberater: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-texte-zahlen-schwellen-und-berechnung` | Texte: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-unfreundliche-tatbestand-beweis-und-belege` | Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-unsachliche-dokumentenmatrix-und-lueckenliste` | Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-varianten-red-team-und-qualitaetskontrolle` | Varianten: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-allgemeine-sonderfall-und-edge-case` | Allgemeine: Sonderfall und Edge-Case-Prüfung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-berufliche-fristennotiz-und-naechster-schritt` | Berufliche: Fristennotiz und nächster Schritt im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-berufsrechtskonform-verhandlung-vergleich-und-eskalation` | Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bora-internationaler-bezug-und-schnittstellen` | Bora: Internationaler Bezug und Schnittstellen im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-brao-mehrparteien-konflikt-und-interessen` | Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-emotionale-fristen-form-und-zustaendigkeit` | Emotionale: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fokus-compliance-dokumentation-und-akte` | Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-formuliert-erstpruefung-und-mandatsziel` | Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-formulierte-livequellen-und-rechtsprechungscheck` | Formulierte: Livequellen- und Rechtsprechungscheck im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hoefliche-behoerden-gericht-und-registerweg` | Hoefliche: Behörden-, Gerichts- oder Registerweg im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-konformitaet-formular-portal-und-einreichung` | Konformitaet: Formular, Portal und Einreichungslogik im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-mails-risikoampel-und-gegenargumente` | Mails: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-notare-beweislast-und-darlegungslast` | Notare: Beweislast, Darlegungslast und Substantiierung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sachliche-schriftsatz-brief-und-memo-bausteine` | Sachliche: Schriftsatz-, Brief- und Memo-Bausteine im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-steuerberater-mandantenentscheidung` | Steuerberater: Mandantenkommunikation und Entscheidungsvorlage im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-texte-zahlen-schwellen-und-berechnung` | Texte: Zahlen, Schwellenwerte und Berechnung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-unfreundliche-tatbestand-beweis-und-belege` | Unfreundliche: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-unsachliche-dokumentenmatrix-und-lueckenliste` | Unsachliche: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-varianten-red-team-und-qualitaetskontrolle` | Varianten: Red-Team und Qualitätskontrolle im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Ver... |
 | `umform-anwaltsbrief-an-gegner-spezial` | Spezialfall Anwaltsbrief an Gegner: anwaltliche Sorgfaltspflicht, kein unsachlicher Vorwurf, klare Forderung mit Frist. Pruefraster fuer Risikomanagement. |
 | `umform-eilgespraech-zusammenfassung-spezial` | Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster fuer Mandant. |

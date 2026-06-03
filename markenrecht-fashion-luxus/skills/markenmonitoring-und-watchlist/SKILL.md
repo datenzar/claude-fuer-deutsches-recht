@@ -100,12 +100,11 @@ WIPO-Alert: Neue Madrid IR-Anmeldung mit Designation USA. US-Notifikation an USP
 ### Konstellation 3: Domain "klotzkette.shop" registriert
 Domain-Monitor meldet: "klotzkette.shop" soeben registriert, Inhaber anonym (Privacy Shield). Sofortiger UDRP-Antrag bei WIPO (für .shop-Domain): klôtzzkètté hat ältere Marke, Domain ist verwechslungsfähig, bösgläubige Registrierung vermutet.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- EUIPO, Watch-Leitfaden fuer Markeninhaber, 2024
-- WIPO, Madrid Monitor User Guide, Stand 2024
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 42 Rn. 5 ff. (Widerspruchsfrist)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Aktuelle Rechtsprechung zum Markenmonitoring
 

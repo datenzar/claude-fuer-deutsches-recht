@@ -1,0 +1,18 @@
+{
+  "name": "hochschulrecht-laender",
+  "version": "70.0.0",
+  "description": "Hochschulrecht der Länder: Hochschulgesetze, Satzungen, Gremien, Zulassung, Exmatrikulation, Berufung, Drittmittel, Promotion und Aufsicht.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "hochschulrecht",
+    "hochschulgesetz",
+    "universität",
+    "wissenschaftsfreiheit",
+    "berufung",
+    "drittmittel"
+  ]
+}

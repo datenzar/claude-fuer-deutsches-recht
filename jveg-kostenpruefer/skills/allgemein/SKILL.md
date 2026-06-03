@@ -251,3 +251,12 @@ Das Plugin ist mandatsneutral: Es wird sowohl von Sachverstaendigen genutzt, die
 - JVEG in der geltenden Fassung. Quelle: https://www.gesetze-im-internet.de/jveg/
 - Anlage 1 JVEG (Honorargruppen und Stundensaetze) in der durch das Kosten- und Betreuungsrechtsaenderungsgesetz 2025 (KostRAeG 2025) zum 01.06.2025 geaenderten Fassung; pauschale Erhoehung der Sachverstaendigen-Stundensaetze um 9 Prozent (nur fuer Auftraege ab 01.06.2025). Synopse: https://ifsforum.de/fileadmin/user_upload/Aktuelles/Synopse_JVEG__2025.pdf
 - Saetze fuer Zeugen (§§ 19 bis 22 JVEG) durch KostRAeG 2025 unveraendert; Kilometerpauschale Zeugen 0,35 EUR (§ 5 Abs. 2 JVEG), Sachverstaendige 0,42 EUR (§ 5 Abs. 1 JVEG).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

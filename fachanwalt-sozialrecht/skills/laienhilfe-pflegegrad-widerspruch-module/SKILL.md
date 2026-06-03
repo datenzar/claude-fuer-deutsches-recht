@@ -70,3 +70,12 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
   - **Selbststaendigkeit-Skala** (selbststaendig / ueberwiegend selbststaendig / ueberwiegend unselbststaendig / unselbststaendig) je Modulkriterium konkret durchgehen.
 - **Klage SG** nach erfolglosem Widerspruch (1 Monat § 87 SGG); **§ 109 SGG** Wahl-Sachverstaendiger.
 - **Praxis-Tipp:** Bei demenzkranken Personen Module 2, 3, 5, 6 detailliert dokumentieren; bei orthopaedischen / neurologischen Erkrankungen Module 1 und 4; objektivierende Hilfsmittel zur Beweisstaerkung (Bewegungsmessungen, Verbrauchsdokumentation Inkontinenz).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

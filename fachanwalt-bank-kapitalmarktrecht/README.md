@@ -16,31 +16,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **Cybertrading-Anlagebetrug Wittfeldt – Bremen** (`cybertrading-anlagebetrug-wittfeldt-bremen`) | [Gesamt-PDF lesen](../testakten/cybertrading-anlagebetrug-wittfeldt-bremen/gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) | [`testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
+| **Projekt Nachtfalter — Private Equity Buyout, Schuldschein und NPL-Portfolio** (`private-equity-buyout-schuldschein-npl-heidelberg`) | [Gesamt-PDF lesen](../testakten/private-equity-buyout-schuldschein-npl-heidelberg/gesamt-pdf/private-equity-buyout-schuldschein-npl-heidelberg_gesamt.pdf) | [`testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-private-equity-buyout-schuldschein-npl-heidelberg.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Cybertrading-Anlagebetrug Wittfeldt – Bremen** (`cybertrading-anlagebetrug-wittfeldt-bremen`) | [Gesamt-PDF lesen](../testakten/cybertrading-anlagebetrug-wittfeldt-bremen/gesamt-pdf/cybertrading-anlagebetrug-wittfeldt-bremen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cybertrading-anlagebetrug-wittfeldt-bremen.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Bank- und Kapitalmarktrecht. Orientierung KWG ZAG WpHG WpIG MiFID-II MAR Marktmissbrauch MiCAR Verbraucherkredit Vermögensanlage Beratungshaftung. Schnittstellen gesellschaftsrecht und regulatorisches-recht.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Bank Kapitalmarktrecht (`fachanwalt-bank-kapitalmarktrecht`, dieses Plugin) | [fachanwalt-bank-kapitalmarktrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-bank-kapitalmarktrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -91,26 +71,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `mandat-triage-bank-kapitalmarktrecht` | Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjährung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Prüfraster Sachgebiets-Zuordnung... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage auf Schadensersatz aus Falschberatung, Widerrufsklage Verbraucherdarlehen: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-bank-tatbestand-beweis-und-belege` | Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-bank-tatbestand-beweis-und-belege` | Bank: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bankaufsicht-erlaubnis-und-vertrieb` | Bankaufsichtliche Erlaubnis-, Vertriebs- und Organisationsrisiken: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-beratungshaftung-zahlen-schwellen-und-berechnung` | Beratungshaftung: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-emissionsprospekt-mandantenentscheidung` | Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fehlerhaft-fristennotiz-und-naechster-schritt` | Fehlerhaft: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gesellschaftsrecht-mehrparteien-konflikt-und-interessen` | Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-haftung-beweislast-und-darlegungslast` | Haftung: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-immobiliendarlehen-red-team-und-qualitaetskontrolle` | Immobiliendarlehen: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kapitalmarktrecht-fristen-form-und-zustaendigkeit` | Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-micar-schriftsatz-brief-und-memo-bausteine` | Micar: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-mifid-behoerden-gericht-und-registerweg` | Mifid: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-prip-sonderfall-und-edge-case` | Prip: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-regulatorisches-internationaler-bezug-und-schnittstellen` | Regulatorisches: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verbraucherkredit-verhandlung-vergleich-und-eskalation` | Verbraucherkredit: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck` | Vermoegensanlage: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-widerrufsjoker-formular-portal-und-einreichung` | Widerrufsjoker: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wphg-dokumentenmatrix-und-lueckenliste` | Wphg: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wpig-risikoampel-und-gegenargumente` | Wpig: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-beratungshaftung-zahlen-schwellen-und-berechnung` | Beratungshaftung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-emissionsprospekt-mandantenentscheidung` | Emissionsprospekt: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardpr... |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fehlerhaft-fristennotiz-und-naechster-schritt` | Fehlerhaft: Fristennotiz und nächster Schritt im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gesellschaftsrecht-mehrparteien-konflikt-und-interessen` | Gesellschaftsrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-haftung-beweislast-und-darlegungslast` | Haftung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-immobiliendarlehen-red-team-und-qualitaetskontrolle` | Immobiliendarlehen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kapitalmarktrecht-fristen-form-und-zustaendigkeit` | Kapitalmarktrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-micar-schriftsatz-brief-und-memo-bausteine` | Micar: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-mifid-behoerden-gericht-und-registerweg` | Mifid: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-prip-sonderfall-und-edge-case` | Prip: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-regulatorisches-internationaler-bezug-und-schnittstellen` | Regulatorisches: Internationaler Bezug und Schnittstellen im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstellen-compliance-dokumentation-und-akte` | Schnittstellen: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verbraucherkredit-verhandlung-vergleich-und-eskalation` | Verbraucherkredit: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vermoegensanlage-livequellen-und-rechtsprechungscheck` | Vermoegensanlage: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-widerrufsjoker-formular-portal-und-einreichung` | Widerrufsjoker: Formular, Portal und Einreichungslogik im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wphg-dokumentenmatrix-und-lueckenliste` | Wphg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wpig-risikoampel-und-gegenargumente` | Wpig: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bank kapitalmarktrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Bank-, Kapitalmarkt- und Wertpapierrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `widerrufsjoker-immobiliendarlehen` | Workflow-Skill zu widerrufsjoker immobiliendarlehen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-bank-kapitalmarktrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |

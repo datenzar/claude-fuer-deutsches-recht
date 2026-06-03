@@ -1,6 +1,6 @@
 ---
 name: selektiver-vertrieb-coty
-description: "Workflow-Skill zu selektiver vertrieb coty. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung."
 ---
 
 # Selektiver Vertrieb für Luxusgüter nach Coty
@@ -60,12 +60,11 @@ Brezelmann Discount KG beantragt Aufnahme ins Händlernetz. Ablehnung auf Basis 
 ### Konstellation 3: Online-Pure-Player beantragt Partnerschaft
 Reines Online-Unternehmen ohne physischen Store beantragt Händlerpartnerschaft. Nach Coty: Eigener Online-Shop zulässig; aber: Selektion nach Qualitätskriterien für Online-Präsentation (eigene Domain, klôtzzkètté-konforme Produktpräsentation, kein Mischsortiment auf Landing Page). Partnerschaft möglich bei Erfüllung der Qualitätskriterien für Online-Vertrieb.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bundeskartellamt, Fallbericht Asics 2015 (Plattformverbot vor Coty)
-- Europäische Kommission, Vertikalleitlinien 2022/C 248, Rn. 210 ff. (selektiver Vertrieb)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

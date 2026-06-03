@@ -1,0 +1,20 @@
+From: Ephraim Caldwell <ephraim@caldwell-routing.example>
+To: Jost Reimers <jost.reimers@codeforst.example>
+Cc: kira.nordhoff@codeforst.example
+Subject: Re: matcher code ownership
+Date: Tue, 02 Jun 2026 06:58:00 +0000
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Jost,
+
+I need to be careful here. My understanding was that I licensed the matcher r=
+outines to Codeforst for RouteLuchs, not that I assigned all rights. The agre=
+ement says work made for hire, but my accountant flagged that I was an indepe=
+ndent contractor and the code uses a library I had before the project.
+
+I am not trying to block the customer release, but please do not tell investo=
+rs that I assigned everything without us agreeing on the paperwork.
+
+Ephraim

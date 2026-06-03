@@ -15,7 +15,7 @@ Dieser Workflow-Skill verlangt vor jeder Zitatfreigabe einen Live-Check in einer
 - **EuGH / EuG:** `curia.europa.eu` (Rechtssache C-/T-Nummer, ECLI als Permalink).
 - **Verwaltungsbehörden (BaFin, BKartA, BfDI):** offizielle Verlautbarungen mit Datum und Aktenzeichen.
 - **Zeitschriften (NJW, NZG, GRUR, ZIP, BB):** Heft, Anfangsseite, ggf. Verlagsdatenbank (Beck-Online, juris) -- nur als Volltext über lizenzierten Zugriff zitierbar.
-- **Kommentare (MüKo, Staudinger, Palandt/Grüneberg, Schönke/Schröder):** Bearbeiter, Werk, Auflage, Jahr, Norm, Rn. -- nur mit lizenziertem Zugriff oder vom Mandanten gelieferter Quelle.
+- **Kommentare (MüKo, Staudinger, Grüneberg, Schönke/Schröder):** Bearbeiter, Werk, Auflage, Jahr, Norm, Rn. -- nur mit lizenziertem Zugriff oder vom Mandanten gelieferter Quelle.
 - **Aufsätze:** Anfangsseite + konkrete Seite "(549)" und Autor + Zeitschrift.
 
 ## Verifizierungsregeln

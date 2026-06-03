@@ -7,7 +7,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 502 KB) | PDF | [`gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf`](gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 501 KB) | PDF | [`gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf`](gesamt-pdf/oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-oekolandbau-foerderprueckforderung-hofgemeinschaft-driessen-niederrhein.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

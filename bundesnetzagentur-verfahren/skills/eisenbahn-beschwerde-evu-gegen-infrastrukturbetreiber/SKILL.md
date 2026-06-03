@@ -3,36 +3,62 @@ name: eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber
 description: "Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht."
 ---
 
-# Eisenbahn: Beschwerde EVU gegen Infrastrukturbetreiber
+# Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Führung einer Beschwerde eines Eisenbahnverkehrsunternehmens (EVU) oder eines Zugangsberechtigten gegen ein Eisenbahninfrastrukturunternehmen (EIU) bei der Bundesnetzagentur nach § 66 ERegG. Typische Streitgegenstände: Diskriminierung beim Trassenzugang, beim Zugang zu Serviceeinrichtungen, beim Stationszugang, in den Schienennetz-Benutzungsbedingungen, bei Entgelten und Bonus-Malus-Anwendung. Adressat ist die BNetzA als Regulierungsstelle Eisenbahn (Spartenkammer für Eisenbahn nach BNetzAG; konkrete BK-Bezeichnung vom Anwender zu verifizieren).
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Beschwerdeführer (EVU, Zugangsberechtigter, Halterverband, Schienenpersonenverkehr-Besteller).
+- Beschwerdegegner (DB InfraGO, regionaler Betreiber, Halterstation-Betreiber, Wartungseinrichtung).
+- Konkreter Streitgegenstand und Datum der Maßnahme.
+- Vorprozessuale Schritte (interne Reklamation, Schlichtung).
+- Bestehende Verträge (Infrastruktur-Nutzungs-Vertrag INV, Trassen-Vereinbarung).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- §§ 66–73 ERegG (Beschwerdeverfahren der BNetzA).
+- § 66 ERegG (Beschwerderecht der Zugangsberechtigten).
+- § 67 ERegG (Auskunfts- und Prüfungsrechte BNetzA).
+- § 68 ERegG (einstweilige Anordnung).
+- § 73 ERegG (Verpflichtung des EIU, BNetzA-Entscheidungen umzusetzen).
+- § 76 ERegG (Genehmigungsvorbehalt Entgelte).
+- § 79 ERegG (sofortige Vollziehbarkeit).
+- RL (EU) 2012/34 (SERA-Richtlinie), VO (EU) 2017/2177 (Serviceeinrichtungen).
+- §§ 5a, 14, 14f AEG (Aufsicht EBA als Schnittstelle).
+- §§ 19, 20 GWB (Diskriminierungs- und Behinderungsverbote als Parallelweg).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Aktivlegitimation prüfen.** EVU mit Sicherheitsbescheinigung, Halter, Trassenanmelder mit eigenem Recht; § 1 Abs. 12 ERegG-Definition prüfen.
+2. **Verfahrensgegenstand strukturieren.** Konkrete Maßnahme (Ablehnung Trasse, Entgeltforderung, Sperrpausen-Anordnung, AGB-Klausel SNB).
+3. **Tatsachenbasis dokumentieren.** Datum, Korrespondenz, Trassen-Anmeldung, Antworten EIU, alternative Marktdaten.
+4. **Diskriminierungs-Vergleich.** Vergleich zu konzernverbundenen EVU (DB-Konzern); Bündelungs- und Vorzugsbehandlungs-Indikatoren.
+5. **Konkrete Anträge.** Untersagung, Modifikation, Festsetzung des Entgelts, Verpflichtung zur Zuweisung, einstweilige Anordnung § 68 ERegG.
+6. **Parallel-Verfahren.** Kartellrechtliche Klage nach §§ 19, 20 GWB beim LG bzw. OLG Frankfurt für Kartellbeschwerden; nicht durch ERegG ausgeschlossen.
+7. **Akteneinsicht.** § 71 i. V. m. § 67 ERegG; Schwärzungs-Streit (siehe Schwärzungs-Skill im selben Plugin).
+8. **Rechtsschutz.** Klage VG Köln gegen ablehnende BNetzA-Entscheidung; § 80 Abs. 5 VwGO gegen § 79 ERegG-Vollziehbarkeit.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Beschwerdeschrift § 66 ERegG: Beschwerdeführer, Beschwerdegegner, Sachverhalt, Diskriminierungs-/Verstoß-Beleg, Anträge, Beweismittel.
+- Eilantrag § 68 ERegG mit Glaubhaftmachung.
+- Stellungnahme des EIU als Beschwerdegegner: Verteidigung der Entscheidung, Verhältnismäßigkeit, Alternativvorschläge.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- ERegG aktueller Stand.
+- BNetzA-Berichte (Marktuntersuchungen Eisenbahn, Jahresbericht Eisenbahn).
+- Az. BNetzA-Beschlüsse generisch (z. B. BK10-XX-XXX-XX); konkretes Az. vom Anwender zu verifizieren.
+- VG Köln, OVG Münster, BVerwG mit Datum, Az., freier Fundstelle.
+- EuGH zu RL 2012/34 mit konkretem Datum und Az.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Beschwerdeschrift (15–40 Seiten).
+- Datenanlagen (Trassen-Anfragen, Antworten, Vergleichswerte).
+- Eilantrag (separat oder im Beschwerde-Schriftsatz).
+
+## Beispiele
+- Privates Güter-EVU rügt Ablehnung einer Trasse zugunsten DB Cargo. Beschwerde § 66 ERegG, Beweis durch Vergleich Trassen-Anfrage und -Bescheid.
+- EVU Personenverkehr rügt überhöhte Stationsentgelte. Beschwerde § 66 ERegG, gleichzeitig Genehmigungsverfahren § 33 ERegG.
+- Schienenersatzverkehr-Logistiker rügt Zugang zu Wartungseinrichtung. Beschwerde § 66 ERegG i. V. m. § 11 ERegG.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Aktivlegitimation tragfähig? Streitgegenstand präzise eingegrenzt? Diskriminierungs-Vergleich belegt? Eilfristen kalendarisiert? Parallelweg GWB-Klage abgewogen? Akteneinsicht/Schwärzungs-Strategie geklärt?

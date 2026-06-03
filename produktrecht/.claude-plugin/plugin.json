@@ -1,7 +1,8 @@
 {
   "name": "produktrecht",
-  "version": "56.0.0",
-  "description": "Produktrechtliche Skills für Launch-Review, Impressumspflicht nach DDG und PAngV sowie UWG-Bewertungen.",
+  "displayName": "Produkthaftung und Produktrecht",
+  "version": "70.0.0",
+  "description": "Produkthaftung und Produktrecht: Produktsicherheit, GPSR, ProdHaftG, deliktische Produzentenhaftung, Right to Repair, Software-/OTA-Updates, digitale Produktlebenszyklen, Rückruf, Marktüberwachung und Launch-Review.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

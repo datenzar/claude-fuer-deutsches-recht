@@ -1,0 +1,7 @@
+Komponente;Version;Lizenz;Einsatz;Befund;Owner
+GraphWeaver;3.4.1;AGPL-3.0;Routen-Preprocessor produktiv;kritisch: Netzwerk-/SaaS-Frage, Ersatz prüfen;Backend Jost
+MapTiles Lite;2.8.0;Apache-2.0;Kartenkacheln;Notice fehlt in Kundenpaket;Frontend Pamina
+FleetSim Core;1.9.7;GPL-2.0-only;Simulation im CI;unklar, ob build artifact berührt;DevOps Rienhold
+OpenRouteMatrix;0.12;MIT;Routing-Heuristik;Notice ok, Patent Grant fehlt naturgemäß;Optimizer Mara
+SecureBox Gateway SDK;5.1;Commercial;LuchsBox Firmware;Lizenz nur für EU, UK-Rollout offen;Product Lea
+TensorLite Ranker;0.6;BSD-3-Clause;ML-Ranking;Notice in Web-App nicht sichtbar;AI Team

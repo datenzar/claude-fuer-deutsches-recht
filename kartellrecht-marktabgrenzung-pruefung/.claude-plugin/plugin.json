@@ -1,9 +1,21 @@
 {
   "name": "kartellrecht-marktabgrenzung-pruefung",
-  "version": "56.0.0",
-  "description": "Kritische kartellrechtliche Pruefinstanz fuer Marktabgrenzungen nach Paragraf 18 GWB sowie Art. 101 und 102 AEUV: SSNIP-Test, Nachfrage- und Angebotsumstellung, raeumlicher Markt, Evidenz, Konsistenz, Red Flags und Marktbeherrschung. Rechtsprechung nur nach Live-Verifikation.",
+  "version": "70.0.0",
+  "description": "Globales Kartellrecht/Competition Law: GWB, Art 101/102 AEUV, Fusionskontrolle, BKartA, DG Competition, FTC/DOJ, ICN-Jurisdiktionen, Dawn Raids, Marktabgrenzung, Missbrauch, Private Enforcement.",
+  "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
   },
-  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "kartellrecht",
+    "competition-law",
+    "antitrust",
+    "bundeskartellamt",
+    "dg-competition",
+    "ftc",
+    "doj",
+    "fusionskontrolle",
+    "marktabgrenzung"
+  ]
 }

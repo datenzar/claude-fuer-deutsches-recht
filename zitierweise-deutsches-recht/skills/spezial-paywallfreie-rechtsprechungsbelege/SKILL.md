@@ -6,7 +6,7 @@ description: "Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: f�
 # Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate
 
 ## Aufgabe
-Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `zitierweise-deutsches-recht`. Kontext des Plugins: Deutsche juristische Hauszitierweise v4.0: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
+Dieser Skill ersetzt einen zu groben Spezial-Slot durch einen konkreten Fachworkflow im Plugin `zitierweise-deutsches-recht`. Kontext des Plugins: Deutsche juristische Hauszitierweise v4.1: Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 
 Er arbeitet nicht lexikalisch, sondern fallbezogen: Er trennt zuerst Rollen, Ziel, Fristen, Zuständigkeiten und Belege, prüft dann die fachlichen Weichen und liefert ein Ergebnis, mit dem weitergearbeitet werden kann.
 

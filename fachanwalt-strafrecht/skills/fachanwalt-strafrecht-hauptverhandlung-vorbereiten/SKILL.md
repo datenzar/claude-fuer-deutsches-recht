@@ -71,10 +71,22 @@ Mit kollegialen Gruessen
 - Bei Verständigung: Belehrungspflicht § 257c Abs. 4 StPO im Hinterkopf
 - Vorbereitung Schlussvortrag mit klarer Antragstellung
 
+## Operativer Sitzungsplan
+
+Nutze diesen Skill nicht nur für die große Strategie, sondern auch für die Tagesarbeit vor und während der Hauptverhandlung.
+
+1. **Tagesmappe bauen:** Ladung, Besetzung, Sitzungsbeginn, Anreise, Mandantenbriefing, Zeugenreihenfolge, Beweisthemen, Aktenstellen, Notfallnummern.
+2. **Einlassungsfenster markieren:** Schweigen, Teileinlassung, schriftliche Erklärung oder spontane Reaktion nur nach Akten- und Beweislage.
+3. **Antragslog führen:** Jeder Beweisantrag, Widerspruch, § 257-StPO-Erklärung, Ablehnungsbeschluss und Wiederholungsbedarf bekommt Datum, Uhrzeit, Beweisthema, Entscheidung und Revisionsnotiz.
+4. **Protokoll sichern:** Bei wichtigen Vorgängen sofort prüfen, ob ein Antrag auf vollständige Protokollierung nach § 273 Abs. 3 StPO sinnvoll ist.
+5. **Nach dem Sitzungstag:** Mandantenkurzbrief, Fristen-/Wiedervorlagenupdate, offene Anträge, nächste Zeugen, mögliche Rechtsmittel- oder Verständigungsrisiken.
+
+**Anschluss-Skills:** `strafprozess-hv-tagesmappe-und-sitzungsplan`, `strafprozess-antragslog-beweisantraege-und-widerspruch`, `strafprozess-sitzungsprotokoll-und-revisionssicherung`, `strafprozess-verhandlungslog-sta-gericht-nebenklage`.
+
 ## Übergabe
 
 - Bei Verurteilung Berufungs- oder Revisionsfrist § 314 § 341 StPO — eine Woche ab Verkündung.
-- Bei Verfahrensverstößen Revisionsgründe § 338 StPO (absolute) und § 337 StPO (relative) sichern durch Sitzungsprotokoll-Beobachtung und Beanstandungen § 273 StPO.
+- Bei Verfahrensverstößen Revisionsgründe § 338 StPO (absolute) und § 337 StPO (relative) sichern durch Sitzungsprotokoll-Beobachtung, rechtzeitige Anträge/Widersprüche und bei Bedarf Protokollierungsantrag nach § 273 Abs. 3 StPO.
 - Bei Verständigungsversuch ergebnisoffen — Dokumentation der Belehrung.
 - Anschluss: Skill `fachanwalt-strafrecht-akteneinsicht-beantragen` ggf. nochmals für ergänzende Aktenbestandteile.
 

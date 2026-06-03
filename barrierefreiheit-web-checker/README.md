@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **BFSG-Verstoß Tannenkamp Mode-Versand GmbH — Online-Shop Barrierefreiheit Osnabrück** (`bfsg-online-shop-tannenkamp-mode-versand-osnabrueck`) | [Gesamt-PDF lesen](../testakten/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck/gesamt-pdf/bfsg-online-shop-tannenkamp-mode-versand-osnabrueck_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bfsg-online-shop-tannenkamp-mode-versand-osnabrueck.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Prüf- und Dokumentationsplugin für digitale Barrierefreiheit von Websites, Webshops, Portalen, Apps und eingebetteten Dokumenten. Es verbindet den rechtlichen Scope-Check mit praktischer Webprüfung: BFSG/BFSGV, BITV 2.0, Web Accessibility Directive, European Accessibility Act, EN 301 549, WCAG, Tastaturbedienung, Screenreader, Formulare, Checkout, PDFs, Barrierefreiheitserklärung und Remediation-Roadmap.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Barrierefreiheit Web Checker (`barrierefreiheit-web-checker`, dieses Plugin) | [barrierefreiheit-web-checker.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/barrierefreiheit-web-checker.zip) |
-
-Die URL ist stabil und zeigt nach dem nächsten Release auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Was das Plugin gut kann
 
@@ -104,26 +83,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `schulung-und-rolle-accessibility-champion` | Schulungsprogramm und Accessibility-Champion-Modell in der Organisation aufbauen: Rollendefinition, Aufgaben, Zeitbudget, Trainingsplan fuer Design, Entwicklung, QA, Content, Marketing. Pruefraster fuer Reifegrad und Schulungslevel. |
 | `scope-bfsg-bitv-wad` | Prüft den Rechtsrahmen digitaler Barrierefreiheit: BFSG, BFSGV, BITV 2.0, Web Accessibility Directive, European Accessibility Act, öffentlicher Sektor, B2C-E-Commerce, Kleinstunternehmen und freiwilliger Standard. Output: Scope-Memo. |
 | `screenreader-semantik-aria` | Prüft Screenreader-Nutzbarkeit, HTML-Semantik, Landmarken, Überschriften, Labels, Alt-Texte, ARIA, Live-Regionen, Fehlermeldungen und dynamische Komponenten. Output: Screenreader-Prüfprotokoll. |
-| `spezial-abnahme-formular-portal-und-einreichung` | Abnahme: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-audit-schriftsatz-brief-und-memo-bausteine` | Audit: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-barrierefreiheit-red-team-und-qualitaetskontrolle` | Barrierefreiheit: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-barrierefreiheits-erstpruefung-und-mandatsziel` | Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bfsg-tatbestand-beweis-und-belege` | BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bfsgv-fristen-form-und-zustaendigkeit` | Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bitv-dokumentenmatrix-und-lueckenliste` | BITV: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-checkout-beweislast-und-darlegungslast` | Checkout: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-ecommerce-mandantenkommunikation-entscheidungsvorlage` | Ecommerce: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erklaerung-mehrparteien-konflikt-und-interessen` | Erklaerung: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-formulare-zahlen-schwellen-und-berechnung` | Formulare: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pdfs-compliance-dokumentation-und-akte` | Pdfs: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pruefung-sonderfall-und-edge-case` | Pruefung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-roadmap-internationaler-bezug-und-schnittstellen` | Roadmap: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rolle-abschlussprodukt-und-uebergabe` | Rolle: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schulung-fristennotiz-und-naechster-schritt` | Schulung: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-scope-behoerden-gericht-und-registerweg` | Scope: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-screenreader-livequellen-und-rechtsprechungscheck` | Screenreader: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-tastatur-verhandlung-vergleich-und-eskalation` | Tastatur: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wcag-risikoampel-und-gegenargumente` | Wcag: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-abnahme-formular-portal-und-einreichung` | Abnahme: Formular, Portal und Einreichungslogik im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-audit-schriftsatz-brief-und-memo-bausteine` | Audit: Schriftsatz-, Brief- und Memo-Bausteine im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-barrierefreiheit-red-team-und-qualitaetskontrolle` | Barrierefreiheit: Red-Team und Qualitätskontrolle im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-barrierefreiheits-erstpruefung-und-mandatsziel` | Barrierefreiheits: Erstprüfung, Rollenklärung und Mandatsziel im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bfsg-tatbestand-beweis-und-belege` | BFSG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bfsgv-fristen-form-und-zustaendigkeit` | Bfsgv: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bitv-dokumentenmatrix-und-lueckenliste` | BITV: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-checkout-beweislast-und-darlegungslast` | Checkout: Beweislast, Darlegungslast und Substantiierung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-ecommerce-mandantenkommunikation-entscheidungsvorlage` | Ecommerce: Mandantenkommunikation und Entscheidungsvorlage im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erklaerung-mehrparteien-konflikt-und-interessen` | Erklaerung: Mehrparteienkonflikt und Interessenmatrix im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-formulare-zahlen-schwellen-und-berechnung` | Formulare: Zahlen, Schwellenwerte und Berechnung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pdfs-compliance-dokumentation-und-akte` | Pdfs: Compliance-Dokumentation und Aktenvermerk im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pruefung-sonderfall-und-edge-case` | Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-roadmap-internationaler-bezug-und-schnittstellen` | Roadmap: Internationaler Bezug und Schnittstellen im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rolle-abschlussprodukt-und-uebergabe` | Rolle: Abschlussprodukt und Übergabe im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schulung-fristennotiz-und-naechster-schritt` | Schulung: Fristennotiz und nächster Schritt im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-scope-behoerden-gericht-und-registerweg` | Scope: Behörden-, Gerichts- oder Registerweg im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-screenreader-livequellen-und-rechtsprechungscheck` | Screenreader: Livequellen- und Rechtsprechungscheck im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tastatur-verhandlung-vergleich-und-eskalation` | Tastatur: Verhandlung, Vergleich und Eskalation im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wcag-risikoampel-und-gegenargumente` | Wcag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `tastatur-fokus-navigation` | Prüft Tastaturbedienbarkeit, Fokusreihenfolge, sichtbaren Fokus, Skiplinks, Menüs, Modale, Cookie-Banner, Slider, Accordions und Tastaturfallen. Output: Tastaturprotokoll und Fix-Tickets. |
 | `ueberwachungsstelle-und-rechtsfolgen` | Marktueberwachung und Rechtsfolgen bei BFSG-Verstoss: zustaendige Stellen, Bussgeldrahmen bis 100.000 Euro, Vertriebsverbot, Verbandsklagen UKlaG, Abmahnungen UWG (umstritten). Pruefraster zu Verteidigungslinien und Vergleichsverhandlung... |
 | `usability-test-mit-betroffenen` | Usability-Test mit Betroffenen organisieren: Auswahl Teilnehmender (Sehbehinderung, Blindheit, motorische Einschraenkungen, Hoerbehinderung, kognitive Behinderung), Hilfsmittel, Aufgaben-Szenarien, Ethik-Einverstaendnis, Aufwandsentschae... |

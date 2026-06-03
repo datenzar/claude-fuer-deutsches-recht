@@ -1,6 +1,6 @@
 ---
 name: strafrecht-spezial-haeusliche-gewalt-im-strafverfahren
-description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafanzeige-Ruecknahme strafprozessual irrelevant, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung."
+description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: Tatbestandsbuendel (§ 223 KV, § 224 gefaehrliche KV, § 240 Noetigung, § 241 Bedrohung, § 238 Stalking, § 177 sexueller Uebergriff), Beweisproblematik der Aussage-gegen-Aussage-Konstellation, Glaubhaftigkeitspruefung methodisch korrekt (Hypothesen-gegen-Hypothesen), Strafantrag/oeffentliches Interesse bei § 223 StGB sauber pruefen, GewSchG-Schnittstelle, Schutzanordnungen, Polizei-Wegweisung, Schutzraum-Konzepte, Strafzumessung und Aussetzung."
 ---
 
 # Haeusliche Gewalt im Strafverfahren — Verteidigerleitfaden
@@ -26,7 +26,7 @@ description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: T
 
 ## Praktikertipps der Verteidigung
 
-- **Strafanzeige-Ruecknahme irrelevant**: § 223 StGB ist Offizialdelikt — die Strafanzeige kann nicht "zurueckgenommen" werden. Auch § 248a StGB (Strafantrag bei einfacher KV) wird wegen besonderem oeffentlichen Interesse fast immer durch die StA bejaht. Klient darueber unbedingt aufklaeren.
+- **Strafantrag und oeffentliches Interesse sauber trennen**: Bei reiner einfacher Koerperverletzung nach § 223 StGB gilt § 230 StGB. Die Tat wird grundsaetzlich nur auf Strafantrag verfolgt, es sei denn, die Staatsanwaltschaft haelt wegen besonderen oeffentlichen Interesses ein Einschreiten von Amts wegen fuer geboten. Deshalb zuerst klaeren: Strafantrag gestellt? Frist und Berechtigung? Ruecknahme nach § 77d StGB denkbar? Hat die StA das besondere oeffentliche Interesse ausdruecklich oder der Sache nach bejaht? § 248a StGB gehoert nicht hierher; er betrifft geringwertige Vermoegensdelikte, nicht Koerperverletzung.
 - **Aussage-gegen-Aussage**: regelmaessig methodische Glaubhaftigkeitspruefung erforderlich. Verteidigung sollte aussagepsychologisches SV-Gutachten anregen (§ 244 III StPO), wenn Realkennzeichen schwach sind oder Motiv zur Falschbelastung erkennbar (Trennungsdynamik, Sorgerechtsstreit).
 - **Polizeiprotokoll als Beweismittel**: Sturmprotokolle der Polizei, Wegweisungs-/Rueckkehrverbote nach Polizeigesetz Land sind oft Schluesselbeweise. Verteidiger holt Protokoll im Original; Verzerrungen durch Stresssituation und Wahrnehmungslueken kommen vor.
 - **Schutzraum-Akte**: Mandant darf wegen Aufnahme in Frauenhaus keine Annaeherung suchen. Adressfeststellung durch Verteidiger ueber Strafakte (§ 147 StPO) — diskret und ohne Verschriftlichung im Mandantenkontakt.
@@ -80,3 +80,12 @@ description: "Verteidigung in Verfahren mit dem Tatkomplex haeuslicher Gewalt: T
 - GewSchG, insb. §§ 1, 2, 4 GewSchG.
 - Polizeigesetze der Laender (Wegweisung/Rueckkehrverbot je nach Bundesland unterschiedlich — z.B. § 31 PolG NRW).
 - BGH staend. Rspr. zu Aussage-gegen-Aussage-Konstellation; methodische Standards der Aussagepsychologie BGH 30.07.1999 - 1 StR 618/98 (BGHSt 45, 164).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -1,6 +1,6 @@
 ---
 name: spezial-einspruch-risikoampel-und-gegenargumente
-description: "Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien
@@ -17,6 +17,15 @@ Er führt durch **Risikoampel, Gegenargumente und Verteidigungslinien** im Theme
 - Beschränkter Einspruch: § 410 Abs. 2 StPO – nur auf Tagessatzhöhe, Fahrverbot oder andere Rechtsfolgen; spart Hauptverhandlung über Schuld.
 - Verwerfung bei Ausbleiben: § 412 StPO – Folge wie rechtskräftiger Strafbefehl; Wiedereinsetzung nach § 44 StPO sorgfältig prüfen.
 - Praxis-Tipp: Risikoampel pro Vorwurf führen (grün=Einstellung wahrscheinlich nach §§ 153, 153a StPO; gelb=Reduktion Tagessätze realistisch; rot=Erhöhung droht). Vor Einlegung mit Mandant schriftlich besprechen, dass auch volles Verbleiben oder Verschärfung möglich ist.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Einspruch.
+- **Arbeitsfokus:** Risikoampel, Gegenargumente und Verteidigungslinien.
+- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

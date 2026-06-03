@@ -19,26 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Metallbau Hansa GmbH – Insolvenzplan und StaRUG-Restrukturierung** (`insolvenzplan-starug-planwerkstatt-metallbau-hansa`) | [Gesamt-PDF lesen](../testakten/insolvenzplan-starug-planwerkstatt-metallbau-hansa/gesamt-pdf/insolvenzplan-starug-planwerkstatt-metallbau-hansa_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Freistehendes Cowork-Plugin für die Erstellung, Prüfung und Härtung von Insolvenzplänen und StaRUG-Restrukturierungsplänen. Es führt vom Kaltstart über Datenraum, Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen- und Klassenbildung, darstellenden und gestaltenden Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, gerichtliche Schritte und Planvollzug bis zum Monitoring.
-
-## Direkt herunterladen
-
-- [Plugin-ZIP](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzplan-starug-planwerkstatt.zip)
-- [Testakte Metallbau Hansa](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-insolvenzplan-starug-planwerkstatt-metallbau-hansa.zip)
-- [Vorschau lokal öffnen](./assets/vorschau/index.html)
 
 ## Wofür das Plugin gedacht ist
 
@@ -133,21 +114,21 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `ipsplan-planstruktur-bauleiter` | Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster fuer Planerstellung. |
 | `ipsplan-prepack-plan-spezial` | Spezialfall Prepack-Plan und Eigenverwaltung: Plan vor Antrag, Sachwalter, Glaeubiger einbinden. Pruefraster fuer Krisenberater. |
 | `sanierungsmoderation-94-starug` | Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderations... |
-| `spezial-abstimmung-internationaler-bezug-und-schnittstellen` | Abstimmung: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-anlagen-mehrparteien-konflikt-und-interessen` | Anlagen: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-cram-formular-portal-und-einreichung` | Cram: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-darstellender-livequellen-und-rechtsprechungscheck` | Darstellender: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-down-red-team-und-qualitaetskontrolle` | Down: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gestaltender-zahlen-schwellen-und-berechnung` | Gestaltender: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gruppen-schriftsatz-brief-und-memo-bausteine` | Gruppen: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-insolvenzplan-erstpruefung-und-mandatsziel` | Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-intake-dokumentenmatrix-und-lueckenliste` | Intake: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-klassen-verhandlung-vergleich-und-eskalation` | Klassen: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-restrukturierungsplan-fristen-form-und-zustaendigkeit` | Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sanierungskonzept-risikoampel-und-gegenargumente` | Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-starug-tatbestand-beweis-und-belege` | StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-teil-compliance-dokumentation-und-akte` | Teil: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vergleichsrechnung-behoerden-gericht-und-registerweg` | Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-abstimmung-internationaler-bezug-und-schnittstellen` | Abstimmung: Internationaler Bezug und Schnittstellen im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-anlagen-mehrparteien-konflikt-und-interessen` | Anlagen: Mehrparteienkonflikt und Interessenmatrix im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-cram-formular-portal-und-einreichung` | Cram: Formular, Portal und Einreichungslogik im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-darstellender-livequellen-und-rechtsprechungscheck` | Darstellender: Livequellen- und Rechtsprechungscheck im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-down-red-team-und-qualitaetskontrolle` | Down: Red-Team und Qualitätskontrolle im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gestaltender-zahlen-schwellen-und-berechnung` | Gestaltender: Zahlen, Schwellenwerte und Berechnung im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gruppen-schriftsatz-brief-und-memo-bausteine` | Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-insolvenzplan-erstpruefung-und-mandatsziel` | Insolvenzplan: Erstprüfung, Rollenklärung und Mandatsziel im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-intake-dokumentenmatrix-und-lueckenliste` | Intake: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-klassen-verhandlung-vergleich-und-eskalation` | Klassen: Verhandlung, Vergleich und Eskalation im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-restrukturierungsplan-fristen-form-und-zustaendigkeit` | Restrukturierungsplan: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardpr... |
+| `spezial-sanierungskonzept-risikoampel-und-gegenargumente` | Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Stand... |
+| `spezial-starug-tatbestand-beweis-und-belege` | StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-teil-compliance-dokumentation-und-akte` | Teil: Compliance-Dokumentation und Aktenvermerk im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vergleichsrechnung-behoerden-gericht-und-registerweg` | Vergleichsrechnung: Behörden-, Gerichts- oder Registerweg im Plugin insolvenzplan starug planwerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin insolvenzplan-starug-planwerkstatt: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin insolvenzplan-starug-planwerkstatt: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin insolvenzplan-starug-planwerkstatt: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

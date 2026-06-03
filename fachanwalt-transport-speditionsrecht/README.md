@@ -15,32 +15,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
-| **CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kuehlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo** (`cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt`) | [Gesamt-PDF lesen](../testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
+| **CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kühlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo** (`cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt`) | [Gesamt-PDF lesen](../testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) | [`testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **CMR-Transportschaden Pharma Kühlkette / Schwarmstedt Logistik GmbH — Kuehlkettenbruch, Art. 29 CMR, Versicherungsstreit, Embargo** (`cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt`) | [Gesamt-PDF lesen](../testakten/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt/gesamt-pdf/cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-cmr-transportschaden-pharma-kuehlkette-spedition-schwarmstedt.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Transport- und Speditionsrecht. Orientierung HGB §§ 407 ff. Frachtvertrag §§ 425 ff. Haftung §§ 453 ff. Speditionsvertrag CMR COTIF Montrealer Übereinkommen Haager Visby Regeln ADSp.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Transport Speditionsrecht (`fachanwalt-transport-speditionsrecht`, dieses Plugin) | [fachanwalt-transport-speditionsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -84,26 +63,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `mandat-triage-transport-speditionsrecht` | Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Prüfraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport... |
 | `reklamationsschreiben-cmr-hgb` | Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB... |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern... |
-| `spezial-adsp-internationaler-bezug-und-schnittstellen` | Adsp: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-cotif-schriftsatz-brief-und-memo-bausteine` | Cotif: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-frachtfuehrerhaftung-fristennotiz-und-naechster-schritt` | Frachtfuehrerhaftung: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-frachtvertrag-risikoampel-und-gegenargumente` | Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-haager-zahlen-schwellen-und-berechnung` | Haager: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hgb-dokumentenmatrix-und-lueckenliste` | HGB: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kabotage-beweislast-und-darlegungslast` | Kabotage: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-red-team-und-qualitaetskontrolle` | Kanzlei: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-marktzugang-sonderfall-und-edge-case` | Marktzugang: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-montrealer-verhandlung-vergleich-und-eskalation` | Montrealer: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pruefen-abschlussprodukt-und-uebergabe` | Pruefen: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-regeln-mehrparteien-konflikt-und-interessen` | Regeln: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstelle-formular-portal-und-einreichung` | Schnittstelle: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-spedition-behoerden-gericht-und-registerweg` | Spedition: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-speditionsrecht-fristen-form-und-zustaendigkeit` | Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-trans-mandantenkommunikation-entscheidungsvorlage` | Trans: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-transport-tatbestand-beweis-und-belege` | Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-uebereinkommen-livequellen-und-rechtsprechungscheck` | Uebereinkommen: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-visby-compliance-dokumentation-und-akte` | Visby: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-adsp-internationaler-bezug-und-schnittstellen` | Adsp: Internationaler Bezug und Schnittstellen im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-cotif-schriftsatz-brief-und-memo-bausteine` | Cotif: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-frachtfuehrerhaftung-fristennotiz-und-naechster-schritt` | Frachtfuehrerhaftung: Fristennotiz und nächster Schritt im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-frachtvertrag-risikoampel-und-gegenargumente` | Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standar... |
+| `spezial-haager-zahlen-schwellen-und-berechnung` | Haager: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hgb-dokumentenmatrix-und-lueckenliste` | HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kabotage-beweislast-und-darlegungslast` | Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-red-team-und-qualitaetskontrolle` | Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-marktzugang-sonderfall-und-edge-case` | Marktzugang: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-montrealer-verhandlung-vergleich-und-eskalation` | Montrealer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pruefen-abschlussprodukt-und-uebergabe` | Pruefen: Abschlussprodukt und Übergabe im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-regeln-mehrparteien-konflikt-und-interessen` | Regeln: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstelle-formular-portal-und-einreichung` | Schnittstelle: Formular, Portal und Einreichungslogik im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-spedition-behoerden-gericht-und-registerweg` | Spedition: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-speditionsrecht-fristen-form-und-zustaendigkeit` | Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-trans-mandantenkommunikation-entscheidungsvorlage` | Trans: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-transport-tatbestand-beweis-und-belege` | Transport: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-uebereinkommen-livequellen-und-rechtsprechungscheck` | Uebereinkommen: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-visby-compliance-dokumentation-und-akte` | Visby: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `trans-cmr-frachtbrief-checkliste` | Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger. |
 | `trans-hgb-spedition-leitfaden` | Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber. |
 | `trans-kabotage-marktzugang-spezial` | Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht. Pruefraster Frachtfuehrer aus Drittstaat. |

@@ -1,6 +1,6 @@
 ---
 name: spezial-unfallregulierung-beweislast-und-darlegungslast
-description: "Unfallregulierung: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Unfallregulierung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Unfallregulierung: Beweislast, Darlegungslast und Substantiierung
@@ -19,6 +19,15 @@ Er führt durch **Beweislast, Darlegungslast und Substantiierung** im Themenfeld
 - Substantiierter Sachvortrag: § 138 ZPO – konkret zu Ort, Zeit, Hergang, Schadensposition. Bei Gegnerischer Bestreitung Beweisangebot (Zeugen, Sachverständigengutachten, Unfallpolizeibericht).
 - Schadenshöhe: § 249 BGB Naturalrestitution; konkrete oder fiktive Abrechnung; merkantiler Minderwert, Wertminderung; Sachverständigengutachten § 287 ZPO.
 - Praxis-Tipp: Beweissicherung vor Klage – Polizeibericht, Fotos, Werkstattgutachten, Zeugen­erklärungen sammeln. Bei Mitverschuldensquote frühe SV-Begutachtung (Unfallrekonstruktion) entscheidend, weil Anscheinsbeweis nach Erschütterung umstritten wird.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Unfallregulierung.
+- **Arbeitsfokus:** Beweislast, Darlegungslast und Substantiierung.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

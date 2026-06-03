@@ -5,34 +5,100 @@ description: "Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: pr
 
 # Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Wenn die Forderung abgetreten wird, ändert sich für den Debitor nur der Gläubiger – nicht der Inhalt der Forderung. Er behält alle **Einwendungen**, die ihm gegen den Altgläubiger zustanden (§ 404 BGB), und kann unter bestimmten Voraussetzungen weiter **aufrechnen** mit Gegenforderungen gegen den Altgläubiger (§ 406 BGB). Das ist eine der wichtigsten Stellschrauben des deutschen Debitorenschutzes – und für den Factor das wichtigste **Wertminderungsrisiko** außerhalb der Bonität.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Praktisch heißt das: Eine angekaufte Forderung kann beim Inkasso vom Debitor mit "Aber der Kunde schuldet mir noch …" konfrontiert werden. Der Factor muss dann gegen sich Forderungen aufrechnen lassen, die er nie erworben hat. Dieser Skill prüft die Reichweite des § 404 und § 406 BGB und zeigt Schutzmechanismen.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Ein Debitor verweigert Zahlung mit Hinweis auf Gegenforderungen oder Mangelrügen.
+- Im Streitverfahren beruft sich der Debitor auf § 404 BGB (Mangel der Leistung).
+- Sie strukturieren ein Factoring mit hohem Reklamationsrisiko und brauchen vertragliche Schutzmaßnahmen.
+- Beim Insolvenzfall des Kunden machen Debitoren Aufrechnungen geltend.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Welche konkrete Einwendung erhebt der Debitor (Sachmangel, Schlechtleistung, Schadenersatz)?
+- Wann ist die Einwendung entstanden – vor oder nach der Abtretung?
+- Welche Gegenforderung will der Debitor aufrechnen, gegenüber wem (Altgläubiger)?
+- Wurde die Abtretung dem Debitor angezeigt? Wann?
+- Gibt es im Liefervertrag Aufrechnungsverbote?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **§ 404 BGB**: Einwendungen des Schuldners – behält alle Einreden gegen den Anspruch, die zur Zeit der Abtretung gegen den bisherigen Gläubiger begründet waren.
+- **§ 406 BGB**: Aufrechnung – Debitor kann mit einer Forderung, die er gegen den bisherigen Gläubiger hat, gegenüber dem neuen Gläubiger aufrechnen, sofern die Forderung nicht erst nach Kenntnis von der Abtretung erworben wurde oder zur Zeit der Kenntnis noch nicht fällig war und später als die abgetretene Forderung wurde.
+- **§ 405 BGB**: Schuldurkunde – Einreden aus einer Urkunde.
+- **§ 407 BGB**: Leistung an Altgläubiger – wirkt befreiend bis zur Kenntnis von Abtretung.
+- **§ 410 BGB**: Verweigerungsrecht bei fehlendem Abtretungsnachweis.
+- **§ 437 BGB**: Mängelrechte – als Einrede gegen Forderung.
+- **§ 273 BGB**: Zurückbehaltungsrecht.
+- **§ 320 BGB**: Einrede des nicht erfüllten Vertrags.
+- **§ 354 BGB**: Bestimmung der Leistung durch eine Partei – relevant bei Boni.
+
+## Workflow / Schritt für Schritt
+
+1. **Einwendung klassifizieren**: Einrede gegen Bestand (Verjährung, Erfüllung), Einrede gegen Höhe (Mängel, Boni), Aufrechnung mit Gegenforderung.
+2. **Zeitpunkt prüfen**: Ist die Einwendung vor oder nach der Abtretung entstanden?
+3. **Bei § 406 BGB**: Konnte der Debitor die Gegenforderung schon vor der Abtretung gegen den Altgläubiger aufrechnen, oder erst später?
+4. **Anzeigedatum prüfen**: § 407 BGB Sperre, § 406 BGB Voraussetzungen.
+5. **Beweislage prüfen**: Wer trägt die Beweislast für die Einrede (typischerweise Debitor).
+6. **Verhandlungsspielraum nutzen**: Vergleich Factor-Debitor, ggf. mit Beteiligung des Kunden.
+7. **Rückgriff prüfen**: Bei berechtigter Einrede Rückbelastung an Kunden nach Veritätshaftung.
+
+## Trade-off-Matrix
+
+| Einrede | Tragfähig nach § 404? | Schutzmechanismus |
+|---|---|---|
+| Sachmangel an gelieferter Ware | Ja, soweit vor Abtretung entstanden | Vertragliche Rügepflicht beim Kunden |
+| Schadensersatz wegen Schlechtleistung | Ja, soweit Anspruch vor Abtretung begründet | Rückbelastungsklausel |
+| Gegenforderung aus anderem Vertrag | § 406 BGB – nur unter Voraussetzungen | Aufrechnungsverbot im Liefervertrag |
+| Verjährung | Ja, läuft gegen Neugläubiger weiter | Verjährungshemmung durch Mahnung |
+| Erfüllung an Altgläubiger nach Abtretung | Nur bei Unkenntnis (§ 407 BGB) | Schnelle Notifikation |
+| Skonto / Boni | Ja, soweit vor Abtretung verdient | Vorberechnung im Kaufpreis |
+
+## Praxistipps
+
+- **Aufrechnungsverbot im Liefervertrag**: Im B2B-Bereich grundsätzlich zulässig, aber im AGB-Bereich (§ 309 Nr. 3 BGB) Indizwirkung beachten. Klausel sollte sich auf streitige Gegenforderungen beschränken.
+- **Rügeklausel disziplinieren**: § 377 HGB ist die schärfste Waffe gegen verspätete Mangelrügen – Forderung darf nicht "rückwirkend" gemindert werden.
+- **Notifikation schnell**: Je früher die Abtretungsanzeige, desto enger das Fenster für § 406 BGB-Aufrechnungen.
+- **Reklamationsreserve einrechnen**: Strukturell Mängel-Einwendungen ins Pricing aufnehmen (10 Prozent).
+- **Direktverhandlung zur Klärung**: Bei Großdebitoren oft Vergleich Factor-Debitor sinnvoll, statt langwieriges Klageverfahren.
+
+## Mustertexte
+
+**Antwortbrief auf § 404 BGB-Einwendung**
+
+"Sehr geehrte Damen und Herren, Sie haben unsere Forderung mit Hinweis auf eine angebliche Schlechtleistung der [Kunde] zurückgehalten. Wir nehmen die Einwendung zur Kenntnis und bitten Sie, bis zum … zu konkretisieren: (1) Welche Lieferung welcher Rechnung ist mangelhaft? (2) Wann haben Sie die Mängel gerügt? (3) Welcher Schaden ist entstanden? Sollten Sie die Einwendung nicht substantiiert begründen, werden wir die Forderung gerichtlich geltend machen."
+
+**Klausel im Factoringvertrag (Schutz gegen § 406 BGB)**
+
+"Der Kunde garantiert, dass keine Gegenforderungen einzelner Debitoren bestehen, die nach § 406 BGB aufgerechnet werden könnten. Sollten dennoch Aufrechnungen erklärt werden, hat der Kunde dem Factor den entsprechenden Forderungsausfall innerhalb von 30 Tagen zu erstatten (Rückbelastung)."
+
+**Klausel im Liefervertrag (Aufrechnungsverbot)**
+
+"Aufrechnung mit Gegenforderungen ist nur statthaft, soweit die Gegenforderung unbestritten oder rechtskräftig festgestellt ist. Dies gilt nicht für Gegenforderungen aus demselben synallagmatischen Vertragsverhältnis."
+
+## Typische Fehler
+
+- Pauschales Aufrechnungsverbot in AGB – als unangemessen iSd § 307 BGB unwirksam.
+- Verkennen des § 406 BGB – Aufrechnung kann auch nach Abtretung noch möglich sein, wenn Voraussetzungen erfüllt.
+- Verzögerte Notifikation lässt das Aufrechnungsfenster weit offen.
+- Reklamationsreserve zu niedrig kalkuliert.
+- Mangelnde Beweisdokumentation der Lieferung – Debitor kann unsubstantiierte Mängel einwerfen.
+
+## Querverweise
+
+- `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko`
+- `abtretbarkeit-forderungen-398-bgb-und-abtretungsverbote`
+- `debitorenkommunikation-und-abtretungsanzeige`
+- `agb-kontrolle-factoringklauseln-b2b`
+
+## Quellen Stand 06/2026
+
+- BGB §§ 404, 405, 406, 407, 410.
+- BGB §§ 273, 320, 437 zu Einreden und Mängelrechten.
+- HGB § 377 zur Rügepflicht.
+- BGH zur Reichweite des § 406 BGB (st. Rspr., amtliche Sammlung).
+- BGB § 309 Nr. 3 zum Aufrechnungsverbot in AGB (B2C-Klauselverbot, im B2B Indizwirkung).

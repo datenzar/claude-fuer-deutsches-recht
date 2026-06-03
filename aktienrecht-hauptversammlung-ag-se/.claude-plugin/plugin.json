@@ -1,0 +1,10 @@
+{
+  "name": "aktienrecht-hauptversammlung-ag-se",
+  "version": "70.0.0",
+  "description": "Hauptversammlungs-Vorbereiter, Leitfaden-Ersteller und Durchführungsplugin für kleine AG, normale AG, börsennotierte AG und SE: Einberufung, Tagesordnung, virtuelle HV, Q&A, Abstimmung, Niederschrift, Anfechtungsrisiko und Post-HV.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

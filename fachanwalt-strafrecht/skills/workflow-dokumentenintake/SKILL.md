@@ -1,6 +1,6 @@
 ---
 name: workflow-dokumentenintake
-description: "Dokumentenintake im Plugin fachanwalt-strafrecht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte."
+description: "Dokumentenintake im Plugin fachanwalt-strafrecht: liest Uploads, sortiert Dokumentarten, markiert Fristen, erkennt U-Haft-, Akteneinsichts-, Rechtsmittel- und Hauptverhandlungsrisiken und baut eine knappe Arbeitsakte mit Anschluss-Skills."
 ---
 
 # Dokumentenintake
@@ -36,9 +36,9 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## Strafrecht-Intake-Bausteine
 - **Dokumentarten identifizieren:** Beschluss (Haftbefehl § 114 StPO, Durchsuchungsbeschluss § 105 StPO, Eroeffnungsbeschluss § 207 StPO, Strafbefehl § 408 StPO), Anklageschrift § 200 StPO, Bussgeldbescheid, Urteil, Strafvollstreckungsentscheidung, Vernehmungsprotokoll, Gutachten, Asservatenverzeichnis.
-- **Fristen extrahieren - rot markieren:** Berufung § 314 StPO 1 Woche, Revision §§ 341, 345 StPO 1 Woche / 1 Monat, Strafbefehl-Einspruch § 410 StPO 2 Wochen, Beschwerde § 311 StPO 1 Woche (sofortige) bzw. unbefristet (einfache), Wiedereinsetzung § 44 StPO 1 Woche.
-- **Vollmachten** § 138 StPO / § 137 StPO checken: Form Schriftform, Datum, Mandantenunterschrift; Vertretungsvollmacht fuer Hauptverhandlung § 411 II StPO bei Strafbefehl, § 232 StPO bei Verurteilung in Abwesenheit.
-- **Bei U-Haft Sofortpruefung:** Haftbefehl-Bestandsaufnahme; Haftpruefung § 117 StPO; Aussetzungsantrag § 116 StPO; Haftbeschwerde.
+- **Fristen extrahieren - rot markieren:** Berufung § 314 StPO 1 Woche, Revision § 341 StPO 1 Woche plus Revisionsbegründung § 345 StPO gesondert berechnen, Strafbefehl-Einspruch § 410 StPO 2 Wochen, Beschwerde § 311 StPO 1 Woche (sofortige) bzw. einfache Beschwerde § 304 StPO ohne diese Wochenfrist, Wiedereinsetzung § 44 StPO 1 Woche.
+- **Verteidigung/Vollmacht** §§ 137 ff. StPO checken: Wahlverteidigung, notwendige Verteidigung, Pflichtverteidigerantrag, Datum, Mandantenunterschrift; besondere Vertretungsvollmacht fuer Hauptverhandlung im Strafbefehlsverfahren § 411 Abs. 2 StPO und Abwesenheitskonstellationen gesondert markieren.
+- **Bei U-Haft Sofortpruefung:** Haftbefehl-Bestandsaufnahme; Haftprüfung § 117 StPO; mündliche Verhandlung §§ 118, 118a StPO; Aussetzungsantrag § 116 StPO; Haftbeschwerde nach § 304 StPO; Akteneinsicht auf haftrelevante Informationen nach § 147 Abs. 2 S. 2 StPO.
 - **Zustellungspruefung** § 37 StPO / §§ 166 ff. ZPO: Postzustellungsurkunde, Ersatzzustellung, ggf. Heilung § 189 ZPO.
 - **Beweismittelverzeichnis** § 200 II StPO bei Anklage sichten; vermisste Beweismittel reklamieren.
-- **Anschluss:** chronologie / belegmatrix / akteneinsicht beantragen § 147 StPO.
+- **Anschluss:** `strafprozess-aktenlog-fristen-und-wiedervorlagen`, `strafprozess-akteneinsicht-nachlieferungen-und-sonderbaende`, `strafprozess-rechtsmittel-und-notfristencockpit`, danach Chronologie / Belegmatrix / Akteneinsicht beantragen § 147 StPO.

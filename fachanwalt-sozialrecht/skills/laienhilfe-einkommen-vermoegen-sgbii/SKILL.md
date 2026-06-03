@@ -62,3 +62,12 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Beweislast:** Antragsteller traegt fuer leistungsbegruendende Tatsachen; Behoerde traegt fuer Vermoegen, das einer Anrechnung entgegensteht (Negativbeweis nicht zumutbar).
 - **Sanktion / Minderung:** bei Pflichtverletzungen § 31 ff. SGB II (1. Minderung 10 %, 2. 20 %, 3. 30 %); Anhoerung § 24 SGB X zwingend.
 - **Praxis-Tipp:** Kontoauszuege ab 3 Monate vor Antrag bereithalten; Selbstauskunft genau pruefen - falsche Angaben sind ordnungswidrig § 63 SGB II / strafbar § 263 StGB.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

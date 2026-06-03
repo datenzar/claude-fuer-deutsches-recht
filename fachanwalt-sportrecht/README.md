@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Doping-Verfahren Selin Uvalkanat — Meldonium-Befund, CAS Lausanne, Arbeitsrecht** (`doping-uvalkanat-handballerin-cas-lausanne`) | [Gesamt-PDF lesen](../testakten/doping-uvalkanat-handballerin-cas-lausanne/gesamt-pdf/doping-uvalkanat-handballerin-cas-lausanne_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-doping-uvalkanat-handballerin-cas-lausanne.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Sportrecht. Orientierung Verbandsrecht der Sportverbände DFB FIFA UEFA IOC DOSB CAS Schiedsverfahren Spielerverträge Doping WADA-Code NADA Sponsoring Persönlichkeitsrechte Sportler Veranstalterhaftung.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Sportrecht (`fachanwalt-sportrecht`, dieses Plugin) | [fachanwalt-sportrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -83,26 +62,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-sportrecht-vereinsstrafrecht` | Workflow-Skill zu fachanwalt sportrecht vereinsstrafrecht. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `mandat-triage-sportrecht` | Sportrechtliches Mandat eintrifft und muss strukturiert erfasst werden: Mandantenrolle Sachgebiet Sofort-Fristen. Verbandsfrist gegen Sanktion typisch 1-2 Wochen. Normen je nach Routing. Prüfraster Mandanten-Typ Sachgebiets-Zuordnung Fri... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage ordentliches Gericht/Sportgericht, CAS-/DIS-Schiedsantrag, Antidoping: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-athletenvertrag-fristennotiz-und-naechster-schritt` | Athletenvertrag: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-code-compliance-dokumentation-und-akte` | Code: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-doping-livequellen-und-rechtsprechungscheck` | Doping: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dosb-behoerden-gericht-und-registerweg` | Dosb: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fifa-dokumentenmatrix-und-lueckenliste` | Fifa: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gesellschaftsrecht-beweislast-und-darlegungslast` | Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-mandat-abschlussprodukt-und-uebergabe` | Mandat: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-nada-mehrparteien-konflikt-und-interessen` | Nada: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-persoenlichkeitsrechte-formular-portal-und-einreichung` | Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schiedsverfahren-schriftsatz-brief-und-memo-bausteine` | Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstelle-mandantenentscheidung` | Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-spielervertraege-verhandlung-vergleich-und-eskalation` | Spielervertraege: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sponsoring-internationaler-bezug-und-schnittstellen` | Sponsoring: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sportr-sonderfall-und-edge-case` | Sportr: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sportrecht-tatbestand-beweis-und-belege` | Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-uefa-risikoampel-und-gegenargumente` | Uefa: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-veranstalterhaftung-red-team-und-qualitaetskontrolle` | Veranstalterhaftung: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verbandsrecht-fristen-form-und-zustaendigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wada-zahlen-schwellen-und-berechnung` | Wada: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-athletenvertrag-fristennotiz-und-naechster-schritt` | Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-code-compliance-dokumentation-und-akte` | Code: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-doping-livequellen-und-rechtsprechungscheck` | Doping: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dosb-behoerden-gericht-und-registerweg` | Dosb: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fifa-dokumentenmatrix-und-lueckenliste` | Fifa: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gesellschaftsrecht-beweislast-und-darlegungslast` | Gesellschaftsrecht: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-mandat-abschlussprodukt-und-uebergabe` | Mandat: Abschlussprodukt und Übergabe im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-nada-mehrparteien-konflikt-und-interessen` | Nada: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-persoenlichkeitsrechte-formular-portal-und-einreichung` | Persoenlichkeitsrechte: Formular, Portal und Einreichungslogik im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schiedsverfahren-schriftsatz-brief-und-memo-bausteine` | Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstelle-mandantenentscheidung` | Schnittstelle: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-spielervertraege-verhandlung-vergleich-und-eskalation` | Spielervertraege: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sponsoring-internationaler-bezug-und-schnittstellen` | Sponsoring: Internationaler Bezug und Schnittstellen im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sportr-sonderfall-und-edge-case` | Sportr: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sportrecht-tatbestand-beweis-und-belege` | Sportrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-uefa-risikoampel-und-gegenargumente` | Uefa: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-veranstalterhaftung-red-team-und-qualitaetskontrolle` | Veranstalterhaftung: Red-Team und Qualitätskontrolle im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verbandsrecht-fristen-form-und-zustaendigkeit` | Verbandsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wada-zahlen-schwellen-und-berechnung` | Wada: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `sportr-anti-doping-praxis` | Anti-Doping in der Praxis: NADA-Code, WADA-Code, Strict Liability, Verfahrensgang vor Schiedsgericht der NADA und CAS in Lausanne. Aussetzungsgruende, mildernde Umstaende. Pruefraster und Mustertexte fuer Verteidigung. |
 | `sportr-arbeitsrecht-im-sport-leitfaden` | Leitfaden Arbeitsrecht im Sport: Spielervertrag als befristeter Arbeitsvertrag, Befristungsrecht BAG, Transferregeln FIFA / DFB, Trainerverträge. Schnittstelle zu Verbandsrecht. |
 | `sportr-athletenvertrag-bauleiter` | Bauleiter Athletenvertrag: Verguetung, Image- und Vermarktungsrechte, Trainingspflichten, Wettkampfteilnahme, Dopingklausel, Beendigung. Pruefraster Verband und Vereinsperspektive. |

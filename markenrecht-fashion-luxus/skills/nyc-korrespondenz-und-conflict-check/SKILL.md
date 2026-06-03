@@ -111,13 +111,11 @@ Whitman Brennan Forsythe LLP überschreitet monatliches Budget um 40 % ohne Pre-
 ### Konstellation 3: Interessenkonflikt mid-Mandat
 Whitman Brennan Forsythe LLP nimmt neues Mandat für Kering SA (Gucci) in einer USPTO-Angelegenheit an, die indirekt klôtzzkètté-Interessen berührt. MRPC Rule 1.7 und NYRPC Rule 1.7: Informed consent beider Mandanten erforderlich, wenn materieller Konflikt. Falls kein Consent möglich: Withdrawal von einem der Mandate.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- ABA Model Rules of Professional Conduct, Rules 1.5/1.6/1.7/1.9 (aktueller Stand)
-- New York Rules of Professional Conduct (NYRPC), 22 N.Y.C.R.R. Part 1200
-- Hickman v. Taylor, 329 U.S. 495 (1947) — Work Product Doctrine
-- Upjohn Co. v. United States, 449 U.S. 383 (1981) — Corporate Attorney-Client Privilege
-- BRAO §§ 43a ff. (Deutschland)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

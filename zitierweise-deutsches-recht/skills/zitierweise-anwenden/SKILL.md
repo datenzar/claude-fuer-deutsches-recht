@@ -1,11 +1,11 @@
 ---
 name: zitierweise-anwenden
-description: "Wende deutsche juristische Hauszitierweise v4.0 an. Rechtsprechung nur mit Gericht Entscheidungsform Datum Az. Aktenzeichen und verifizierbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Unverifizierte Entscheidungen als Prüfbedarf markieren oder weglassen. Keine aktuellen Palandt-/Pahlen-Zitate."
+description: "Wende deutsche juristische Hauszitierweise v4.1 an. Rechtsprechung nur mit Gericht Entscheidungsform Datum Az. Aktenzeichen und verifizierbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Unverifizierte Entscheidungen als Prüfbedarf markieren oder weglassen. Keine aktuellen Palandt-/Pahlen-Zitate."
 ---
 
-# Deutsche juristische Zitierweise anwenden (v4.0)
+# Deutsche juristische Zitierweise anwenden (v4.1)
 
-Dieser Skill verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.0. Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. Der Skill ist zuerst eine Halluzinationsbremse: keine Fundstelle ohne echte Quelle.
+Dieser Skill verkörpert die Klotzkette-Hauszitierweise in der Fassung v4.1. Aktiviere ihn, sobald juristische Quellen zitiert, geprüft oder umformatiert werden — in Memos, Schriftsätzen, Mandantenkommunikation oder Belegapparaten. Der Skill ist zuerst eine Halluzinationsbremse: keine Fundstelle ohne echte Quelle.
 
 ## Pragmatik vs. Wissenschaft (Vorbemerkung)
 
@@ -63,9 +63,9 @@ Wo kein Pinpoint vergeben ist, ist das Datum verpflichtend; eine Ziff./Abschnitt
 
 ## Aktuelle BGB-Kommentartitel und Schreibfehler
 
-Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen "Palandt". Der vormalige Palandt erscheint seit der 81. Auflage 2022 unter dem Titel Grüneberg, BGB.
+Es gibt kein aktuelles BGB-Kommentarwerk mit dem Namen "Palandt". Der frühere Palandt erscheint seit der 81. Auflage 2022 unter dem Titel Grüneberg, BGB.
 
-1. Taucht "Palandt" als aktuelle Quelle auf: nicht verwenden; nach Nutzerquelle oder Altauflage fragen.
+1. Taucht "Palandt" als aktuelle Quelle auf: als Alt-/Schreibweise markieren; für Auflagen ab 2022 auf Grüneberg umstellen, aber nur mit echter Quelle.
 2. Taucht "Pahlen" auf: als Schreib-/Quellenfehler markieren, nicht zitieren.
 3. Grüneberg nur zitieren, wenn der Nutzer die Quelle liefert oder ein lizenzierter Live-Zugriff besteht.
 

@@ -1,6 +1,6 @@
 ---
 name: dreidimensionale-marke
-description: "Workflow-Skill zu dreidimensionale marke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen."
 ---
 
 # Dreidimensionale Marken (3D-Formmarken)
@@ -59,12 +59,11 @@ klôtzzkètté will die charakteristische Schuhsilhouette (geschwungener Blockab
 ### Konstellation 3: Brezelmann-Kopierflakon
 Brezelmann Discount KG vertreibt Imitatparfum "KLOTZ NACHT" in einem Flakon, der dem K°°-Flakon zum Verwechseln ähnlich sieht. Verletzungsklage nach § 14 II MarkenG, § 4 Nr. 3 UWG; Eilantrag auf Unterlassung.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 3 Rn. 160-250 (3D-Marken)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 3 Rn. 50 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

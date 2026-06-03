@@ -1,6 +1,6 @@
 ---
 name: spezial-nebenklage-compliance-dokumentation-und-akte
-description: "Nebenklage: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Nebenklage: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Nebenklage: Compliance-Dokumentation und Aktenvermerk
@@ -19,6 +19,15 @@ Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Ne
 - Verletztenrechte: §§ 406d-406l StPO (Information, Schutzanordnungen, anwaltliche Beratung).
 - Adhäsionsverfahren: §§ 403-406c StPO – zivilrechtliche Ansprüche im Strafverfahren geltend machen; bei Ablehnung in der HV ggf. Verweis auf Zivilrechtsweg.
 - Praxis-Tipp: Nebenklage-Mandat klar dokumentieren: Anschluss schriftlich (mit Beiordnungsantrag falls anwendbar), Akteneinsicht früh, Beweisanträge zur Belastung formulieren, Adhäsion früh prüfen. Praktischer Fokus: Opferschutz § 68a StPO (Schutz der Identität bei Zeugenvernehmung), § 247a StPO (Videovernehmung bei besonderer Belastung).
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Nebenklage.
+- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

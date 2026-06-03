@@ -1,6 +1,6 @@
 ---
 name: agb-haendlervertrag-luxus
-description: "Workflow-Skill zu agb haendlervertrag luxus. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control."
 ---
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb
@@ -79,13 +79,11 @@ Brezelmann behauptet, klôtzzkètté diskriminiere Discounthändler kartellrecht
 ### Konstellation 3: Händler gibt AGB-widrige Unterlassungserklärung ab
 Nach Abmahnung wegen Plattformverkauf unterzeichnet Händler Unterlassungserklärung, die leicht von AGB abweicht. Prüfung: Ist abgegebene Erklärung ausreichend zur Beseitigung der Wiederholungsgefahr? Reicht sie nicht, ist neue Abmahnung + modifizierte Unterlassungserklärung erforderlich.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 150 ff. (Vertragsstrafe)
-- Europäische Kommission, Vertikalleitlinien 2022/C 248, Rn. 330-345 (MFN)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Bundeskartellamt, Beschl. B6-22/15 (MFN-Klauseln Booking.com) — breite MFN kartellwidrig
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

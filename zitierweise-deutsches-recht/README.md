@@ -1,4 +1,4 @@
-# Zitierweise deutsches Recht (v4.0)
+# Zitierweise deutsches Recht (v4.1)
 
 <!-- BEGIN plugin-sofort-download-section (autogen) -->
 ## ⬇️ Sofort-Downloads
@@ -15,40 +15,20 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Dr. Ottilie Mondsee und die verschwundene R-Besoldung** (`beamtenrecht-richterlaufbahn-besoldung-mondsee`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee/gesamt-pdf/beamtenrecht-richterlaufbahn-besoldung-mondsee_gesamt.pdf) | [`testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-richterlaufbahn-besoldung-mondsee.zip) |
 | **Zitierweise-Pruefkorpus — Kanzlei Roosendaal Birkenhainer Partners mbB — Kanzleihandbuch v4 mit 100 Fundstellen und Pruefvermerken** (`zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken`) | [Gesamt-PDF lesen](../testakten/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken/gesamt-pdf/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken_gesamt.pdf) | [`testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Zitierweise-Pruefkorpus — Kanzlei Roosendaal Birkenhainer Partners mbB — Kanzleihandbuch v4 mit 100 Fundstellen und Pruefvermerken** (`zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken`) | [Gesamt-PDF lesen](../testakten/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken/gesamt-pdf/zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-zitierweise-pruefkorpus-roosendaal-kanzleihandbuch-mit-100-fundstellen-und-pruefvermerken.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Fokus: belastbare, überprüfbare Quellen statt schöner, aber nicht verifizierbarer Fundstellen.
 
-## Was ist neu in v4.0
+## Was ist neu in v4.1
 
 1. **BeckRS-Sperre:** BeckRS-Fundstellen werden nicht mehr aus Modellwissen erzeugt. Sie dürfen nur übernommen werden, wenn der Nutzer sie liefert oder ein lizenzierter Live-Zugriff sie verifiziert.
 2. **Literatur-Sperre:** Kommentare, Handbücher, Monographien und Aufsätze werden nicht blind zitiert. Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
 3. **Rechtsprechungs-Mindeststandard:** Gericht, Entscheidungsform, Datum und Aktenzeichen sind Pflicht. Wo möglich kommt eine amtliche oder frei zugängliche Quelle dazu.
 4. **Keine Palandt-/Pahlen-Aktualzitate:** Der frühere Palandt heißt seit 2022 Grüneberg; historische Altauflagen nur bei konkreter Nutzerquelle.
 5. **Prüfvermerk statt Halluzination:** Unverifizierte Entscheidungen werden markiert oder weggelassen, nicht ausgeschmückt.
-
-## Direkt-Download
-
-| Datei | Direkt-Download |
-| --- | --- |
-| **Plugin-ZIP: Zitierweise deutsches Recht** | [zitierweise-deutsches-recht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/zitierweise-deutsches-recht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -63,7 +43,7 @@ Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills
 | Skill | Zweck |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Routing: klärt, ob ein Text Zitate erzeugen, glätten, prüfen oder sperren soll. |
-| `zitierweise-anwenden` | Wendet die Quellenregel v4.0 an: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
+| `zitierweise-anwenden` | Wendet die Quellenregel v4.1 an: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. |
 
 ## Kurzregel
 
@@ -82,27 +62,27 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 
 | Skill | Beschreibung |
 | --- | --- |
-| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Zitierweise Deutsches Recht-Plugin. Setzt v4.0 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel,... |
-| `spezial-aktenzeichen-schriftsatz-brief-und-memo-bausteine` | Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-aufsatz-mehrparteien-konflikt-und-interessen` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-beckrs-zahlen-schwellen-und-berechnung` | Beckrs: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-blindzitate-internationaler-bezug-und-schnittstellen` | Blindzitate: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-datum-behoerden-gericht-und-registerweg` | Datum: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-entscheidungsform-risikoampel-und-gegenargumente` | Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gericht-dokumentenmatrix-und-lueckenliste` | Gericht: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hauszitierweise-tatbestand-beweis-und-belege` | Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kommentar-compliance-dokumentation-und-akte` | Kommentar: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-literatur-formular-portal-und-einreichung` | Literatur: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-lizenziertem-mandantenkommunikation-entscheidungsvorlage` | Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-nutzerquelle-red-team-und-qualitaetskontrolle` | Nutzerquelle: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Zitierweise Deutsches Recht-Plugin. Setzt v4.1 durch: Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; keine BeckRS-, Kommentar- oder Aufsatz-Blindzitate. Fragt Ziel,... |
+| `spezial-aktenzeichen-schriftsatz-brief-und-memo-bausteine` | Aktenzeichen: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-aufsatz-mehrparteien-konflikt-und-interessen` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-beckrs-zahlen-schwellen-und-berechnung` | Beckrs: Zahlen, Schwellenwerte und Berechnung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-blindzitate-internationaler-bezug-und-schnittstellen` | Blindzitate: Internationaler Bezug und Schnittstellen im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-datum-behoerden-gericht-und-registerweg` | Datum: Behörden-, Gerichts- oder Registerweg im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-entscheidungsform-risikoampel-und-gegenargumente` | Entscheidungsform: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüf... |
+| `spezial-gericht-dokumentenmatrix-und-lueckenliste` | Gericht: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hauszitierweise-tatbestand-beweis-und-belege` | Hauszitierweise: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-juristische-erstpruefung-und-mandatsziel` | Juristische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kommentar-compliance-dokumentation-und-akte` | Kommentar: Compliance-Dokumentation und Aktenvermerk im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-literatur-formular-portal-und-einreichung` | Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-lizenziertem-mandantenkommunikation-entscheidungsvorlage` | Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-nutzerquelle-red-team-und-qualitaetskontrolle` | Nutzerquelle: Red-Team und Qualitätskontrolle im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-paywallfreie-rechtsprechungsbelege` | Paywallfreie, prüfbare Rechtsprechungsbelege ohne Blindzitate: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-quelle-livequellen-und-rechtsprechungscheck` | Quelle: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsprechung-fristen-form-und-zustaendigkeit` | Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verifizierbarer-verhandlung-vergleich-und-eskalation` | Verifizierbarer: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-zitierweise-fristennotiz-und-naechster-schritt` | Zitierweise: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-zugriff-sonderfall-und-edge-case` | Zugriff: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-quelle-livequellen-und-rechtsprechungscheck` | Quelle: Livequellen- und Rechtsprechungscheck im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsprechung-fristen-form-und-zustaendigkeit` | Rechtsprechung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verifizierbarer-verhandlung-vergleich-und-eskalation` | Verifizierbarer: Verhandlung, Vergleich und Eskalation im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zitierweise-fristennotiz-und-naechster-schritt` | Zitierweise: Fristennotiz und nächster Schritt im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zugriff-sonderfall-und-edge-case` | Zugriff: Sonderfall und Edge-Case-Prüfung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin zitierweise-deutsches-recht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin zitierweise-deutsches-recht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin zitierweise-deutsches-recht: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |
@@ -119,7 +99,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `zit-rechtsprechungszitierung-leitfaden` | Leitfaden Rechtsprechungszitierung BGH BVerfG EuGH: Gericht, Entscheidungsform, Datum, Aktenzeichen, frei pruefbarer Link dejure.org / openjur.de. Pruefraster fuer Memos. |
 | `zitat-amtliche-sammlung-vs-zeitschrift` | Amtliche Sammlung vs. Zeitschrift: Reihenfolge der Fundstellen. Amtliche Sammlung (BGHZ, BVerfGE) hat Vorrang, dann Parallelfundstelle Zeitschrift (NJW, JZ, ZIP). Beispiel BGHZ 240 S. 1 = NJW 2024 S. 1832. |
 | `zitat-archivierungspflicht` | Archivierungspflicht der zitierten Quelle: Screenshot mit Datum, PDF-Abruf, archive.org-Backup. Wichtig bei Schriftsaetzen, weil Online-Quellen veraendert werden. Empfehlung Kanzleiprozess. |
-| `zitat-aufsatz-zeitschrift` | Aufsatz in juristischer Zeitschrift: Verfasser, Aufsatztitel, Zeitschrift Jahr, Heft (falls relevant), Seite. Beispiel Mueller, Die neue Haftung des GmbH-Geschaeftsfuehrers, NZG 2024 S. 567. Bei Online-Zeitschrift: zusaetzlich URL. |
+| `zitat-aufsatz-zeitschrift` | Aufsatz in juristischer Zeitschrift nur bei vorliegendem Beitrag zitieren: Verfasser, Titel, Zeitschrift, Jahr, Heft/Seite und Pinpoint aus Nutzerquelle oder Live-Zugriff übernehmen. Keine Aufsatzfundstellen aus Modellwissen. |
 | `zitat-bag-bfh-bsg-bag` | Fachgerichtsbarkeit zitieren: BAG, BFH, BSG, BVerwG, BGH. Format Senat, Datum, Aktenzeichen, amtliche Sammlung sowie Parallel-Fundstelle. Beispiel BAG, Urt. v. 12.09.2023 9 AZR 372 aus 22, BAGE 178 S. 199 = NZA 2023 S. 1521. |
 | `zitat-bgh-entscheidung` | BGH-Entscheidung korrekt zitieren: Senat, Datum, Aktenzeichen, Fundstelle. Beispiel BGH, Urt. v. 11.04.2024 III ZR 168 aus 23, BGHZ 240 S. 1 = NJW 2024 S. 1832. Bei wichtiger Linie: Vor- und Folgeentscheidungen ergaenzen. |
 | `zitat-bverfg-entscheidung` | BVerfG-Entscheidung zitieren: Senatsnummer, Datum, Aktenzeichen, BVerfGE, ggf. Kammerbeschluss. Beispiel BVerfG, Urt. v. 17.01.2024 1 BvR 1841 aus 23, BVerfGE 167 S. 1. Kammerentscheidung BVerfG (K), Beschl. v. ... mit Hinweis 'Nichtanna... |
@@ -129,12 +109,12 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `zitat-instanzgerichte-strategisch` | Instanzgerichts-Entscheidungen strategisch zitieren: OLG-Entscheidungen, LG-Entscheidungen. Wann sinnvoll: Tendenzen, Lokal-Linien, Fehlen BGH-Rechtsprechung. Vermeiden: AG-Entscheidungen ausser bei sehr engen Fragen. |
 | `zitat-internationale-quellen` | Internationale Quellen: EuGH, EGMR, Common-Law-Faelle (in IPR-Kontext). Format mit ECLI bzw. Neutral Citation. Beispiel EGMR, Urt. v. 23.01.2024 - Nr. 12345/22, ECLI:CE:ECHR:2024:0123JUD001234522. |
 | `zitat-internet-quellen` | Internet-Quellen zitieren: Stand, URL, Abrufdatum. Bevorzugt: dejure.org, openjur.de, bundesgerichtshof.de, bundesverfassungsgericht.de, eur-lex. Vermeiden: anwalt24.de, BeckRS allein als einzige Fundstelle. |
-| `zitat-kommentar-randnummer` | Kommentar mit Bearbeiter und Randnummer zitieren: Palandt/Gruenberg, BGB, 84. Aufl. 2025, § 433 Rn. 12. Bei Loseblatt-Kommentar Stand-Datum. Beispiele MueKo, BeckOK, Erfurter Kommentar. |
+| `zitat-kommentar-randnummer` | Kommentar mit Bearbeiter und Randnummer nur bei vorliegender Nutzerquelle oder lizenziertem Live-Zugriff zitieren: Bearbeiter, Werk, aktuelle Auflage/Stand, Norm, Randnummer. Keine Kommentar-Rn. aus Modellwissen. |
 | `zitat-leitsatzentscheidung` | Leitsatz-Entscheidung mit Leitsatz zitieren: BGH, Urt. ..., Leitsatz 1 lautet: ... Original-Leitsatz im Wortlaut, dann Begruendung mit Rn. Format fuer Schriftsatz und Memo. |
-| `zitat-monografie-handbuch` | Monografie/Handbuch zitieren: Verfasser, Titel, Auflage Jahr, Seitenzahl. Bei Handbuch mit mehreren Bearbeitern: Bearbeiter in Hauptverfasser, Titel, Auflage Jahr, Kapitel/§, Rn. Beispiel: Schmitz, in: Beck'sches Handbuch GmbH, 6. Aufl.... |
-| `zitat-rechtsprechung-ohne-fundstelle` | Rechtsprechung ohne offizielle Fundstelle: nur juris- oder BeckRS-Eintrag. Loesungen: dejure.org-Permalink, Gericht/Datum/Aktenzeichen + 'juris', alternativ BeckRS-Eintrag mit klarer Angabe. Vermeiden: 'BeckRS allein' fuer wichtige Argum... |
+| `zitat-monografie-handbuch` | Monografie oder Handbuch nur bei vorliegender Quelle zitieren: Verfasser/Bearbeiter, Titel, Auflage/Stand, Jahr, Kapitel/Norm, Seite/Rn. Keine Handbuchfundstellen aus Modellwissen. |
+| `zitat-rechtsprechung-ohne-fundstelle` | Rechtsprechung ohne amtliche/freie Fundstelle behandeln: Gericht Datum Aktenzeichen sichern, freie Quelle suchen, Datenbanknummern nur als Nutzerquelle/Lizenzfund vermerken und nicht als tragenden Ersatz verwenden. |
 | `zitat-streitstand-darstellen` | Streitstand in Memo/Schriftsatz darstellen: h. M. (Rechtsprechung BGH + ueberwiegende Literatur), Gegenmeinung (Verfasser + Stellenangabe), eigene Loesung. Format mit klarer Position. |
 | `zitat-verboten-anwalt24-beckrs` | Verbotene Zitate vermeiden: anwalt24.de (kein primaerer Rechtsstand), BeckRS allein (interne Beck-Online-ID), 'lawblog'-Eintraege. Speziell bei Schriftsaetzen: Gericht prueft Originalquelle. Empfehlung: immer dejure.org oder Originalents... |
-| `zitierweise-anwenden` | Wende deutsche juristische Hauszitierweise v4.0 an. Rechtsprechung nur mit Gericht Entscheidungsform Datum Az. Aktenzeichen und verifizierbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur bei Nutzerq... |
+| `zitierweise-anwenden` | Wende deutsche juristische Hauszitierweise v4.1 an. Rechtsprechung nur mit Gericht Entscheidungsform Datum Az. Aktenzeichen und verifizierbarer Quelle. Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate. Literatur nur bei Nutzerq... |
 
 <!-- END SKILLS-OVERVIEW (auto-generated) -->

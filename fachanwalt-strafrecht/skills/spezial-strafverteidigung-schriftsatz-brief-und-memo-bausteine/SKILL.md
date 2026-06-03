@@ -1,6 +1,6 @@
 ---
 name: spezial-strafverteidigung-schriftsatz-brief-und-memo-bausteine
-description: "Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Strafverteidigung: Schriftsatz-, Brief- und Memo-Bausteine
@@ -19,6 +19,15 @@ Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Stra
 - Beweisantrag: § 244 Abs. 3-6 StPO – Form: Beweismittel, Beweistatsache, Konnex zu Tatbestandsmerkmal. Strukturierter Beweisantrag erhöht Ablehnungswiderstand.
 - Plädoyer-Aufbau: § 258 StPO – (1) Tatsachen, (2) Beweiswürdigung, (3) Subsumtion, (4) Strafzumessung § 46 StGB, (5) Antrag (Freispruch, Strafmaß).
 - Praxis-Tipp: Schriftsatz-Kanon: (1) Bestellungsanzeige + Vollmacht, (2) Akteneinsichts­antrag, (3) Schweigen-Anzeige (wenn Strategie), (4) Stellungnahme zur Anklage / Eröffnungsbeschluss, (5) Beweisanträge, (6) Plädoyer-Skript. Tonalität: präzise, höflich, mit konkretem Antrag; keine Polemik. Bei der StA-Korrespondenz freundlich, weil Einstellungsmöglichkeit nach §§ 153, 153a StPO bleibt.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Strafverteidigung.
+- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

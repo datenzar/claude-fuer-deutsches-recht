@@ -95,13 +95,11 @@ Examining Attorney: "COUTURE" ist beschreibend für Mode in Klasse 25. Response:
 ### Konstellation 3: Suspension Letter wegen pendenter Citiermarke
 USPTO suspendiert klôtzzkètté-Anmeldung wegen älterer, noch nicht eingetragener Anmeldung "KLOTZKET" (in Examination). Antwort: Monitor den Status der Citiermarke; bei Abandonment der Citiermarke: Response mit Argument für Aufhebung der Suspension.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 2, §§ 11-13 (Likelihood of Confusion/DuPont)
-- In re E.I. du Pont de Nemours & Co., 476 F.2d 1357 (C.C.P.A. 1973) — DuPont Factors
-- In re Nantucket, Inc., 677 F.2d 95 (C.C.P.A. 1982) — Primarily Merely a Surname
-- Abercrombie & Fitch Co. v. Hunting World, Inc., 537 F.2d 4 (2d Cir. 1976) — Distinctiveness Spectrum
-- TMEP §§ 1207 (Likelihood of Confusion) und 1209 (Descriptiveness)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 
@@ -161,3 +159,12 @@ Bevor die Response verfasst wird, klaere:
 > **In re Viterra Inc., 671 F.3d 1358 (Fed. Cir. 2012):** Die Aehnlichkeit zwischen Marken ist nach dem Gesamteindruck auf Erscheinung, Klang, Bedeutung und kommerzielle Impression zu beurteilen; es genuegt, wenn ein einziges dieser Elemente Verwechslungsgefahr begruendet.
 
 > **In re Gyulay, 820 F.2d 1216 (Fed. Cir. 1987):** Ein Begriff ist im Sinne von § 2(e)(1) Lanham Act "merely descriptive", wenn er unmittelbar eine Eigenschaft oder Merkmal der angemeldeten Waren beschreibt; er muss nicht ausschliesslich beschreibend sein — es genuegt, wenn er im Zusammenhang mit den Waren eine direkte beschreibende Aussage macht.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

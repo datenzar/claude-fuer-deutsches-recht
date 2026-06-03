@@ -1,0 +1,10 @@
+{
+  "name": "gesellschaftsrechtliche-treuepflicht",
+  "version": "70.0.0",
+  "description": "Großes Prüfplugin zur gesellschaftsrechtlichen Treuepflicht in GmbH, AG, SE, Personengesellschaft, Familiengesellschaft und Konzern: Stimmrecht, Minderheitenschutz, Gesellschafterliste, Einziehung, Ausschluss, Konkurrenz, Sanierung, Treuepflichtverletzung und Rechtsfolgen.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht"
+}

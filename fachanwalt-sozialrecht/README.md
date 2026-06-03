@@ -15,54 +15,15 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Hafenpolizei - Dienstunfall, Burnout und Wiedereingliederung** (`beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei/gesamt-pdf/beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei_gesamt.pdf) | [`testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-dienstunfall-burnout-wiedereingliederung-hafenpolizei.zip) |
 | **Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig** (`longcovid-erwerbsminderung-feldermann-leipzig`) | [Gesamt-PDF lesen](../testakten/longcovid-erwerbsminderung-feldermann-leipzig/gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) | [`testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) |
+| **Akte Lindenhof-Gymnasium - Inklusion, Ordnungsmaßnahme und Schulwechsel** (`schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof`) | [Gesamt-PDF lesen](../testakten/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof/gesamt-pdf/schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof_gesamt.pdf) | [`testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schulrecht-inklusion-ordnungsmasnahme-schulwechsel-lindenhof.zip) |
 | **Familie Tannenberg - vier Sozialrechtsverfahren parallel** (`sozialrecht-rollstuhl-tannenberg`) | [Gesamt-PDF lesen](../testakten/sozialrecht-rollstuhl-tannenberg/gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf) | [`testakte-sozialrecht-rollstuhl-tannenberg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Long-Covid + Erwerbsminderungsrente + GdB + SGB-II – Feldermann, Leipzig** (`longcovid-erwerbsminderung-feldermann-leipzig`) | [Gesamt-PDF lesen](../testakten/longcovid-erwerbsminderung-feldermann-leipzig/gesamt-pdf/longcovid-erwerbsminderung-feldermann-leipzig_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-longcovid-erwerbsminderung-feldermann-leipzig.zip) |
-| **Familie Tannenberg - vier Sozialrechtsverfahren parallel** (`sozialrecht-rollstuhl-tannenberg`) | [Gesamt-PDF lesen](../testakten/sozialrecht-rollstuhl-tannenberg/gesamt-pdf/sozialrecht-rollstuhl-tannenberg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Vollumfaengliches Plugin fuer Fachanwaltschaft Sozialrecht inkl. Kanzleioperative. Fachanwalt fuer Sozialrecht nach FAO § 11. Widerspruch, Klage, Eilantrag, SGB-II-Bescheid, Erwerbsminderungsrente, GdB-Schwerbehinderung, Pflegegrad, Hilfsmittel, Eingliederungshilfe. Kanzleioperative: Bescheidanalyse, Akteneinsicht, PKH, Fristenbuch, Mandanten-Intake, Mandantenbrief Leichte Sprache.
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **sozialrecht rollstuhl tannenberg** | [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Sozialrecht (`fachanwalt-sozialrecht`, dieses Plugin) | [fachanwalt-sozialrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Familie Tannenberg - vier Sozialrechtsverfahren parallel** ([`testakten/sozialrecht-rollstuhl-tannenberg/`](../testakten/sozialrecht-rollstuhl-tannenberg/)).
-
-Direkt-Download als ZIP: [testakte-sozialrecht-rollstuhl-tannenberg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sozialrecht-rollstuhl-tannenberg.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation in Claude Code
 

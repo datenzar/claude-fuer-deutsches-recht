@@ -22,6 +22,23 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Vertiefung: Parteigericht als echter Rechtsschutz
+
+§ 14 PartG privilegiert parteiinterne Schiedsgerichte nur, wenn sie mehr sind als ein Etikett. Dieser Skill prüft deshalb nicht nur, ob eine Schiedsgerichtsordnung existiert, sondern ob ihre Organisation im konkreten Fall rechtliches Gehör, gerechtes Verfahren, Befangenheitskontrolle und eine tatsächlich unabhängige Entscheidung ermöglicht.
+
+### Strukturcheck
+
+- **Besetzung:** Amtszeit, Wahl, Ausschluss von Vorstandsmitgliedern, Dienstverhältnissen und regelmäßigen Einkünften nach § 14 Abs. 2 PartG prüfen.
+- **Geschäftsstelle:** Wo liegt die Geschäftsstelle, wer führt Fristen, wer nimmt Schriftsätze entgegen, und besteht ein praktischer Loyalitätskonflikt zur beteiligten Parteiebene?
+- **Transparenz der Spruchkörper:** Sind Mitglieder, Ersatzmitglieder, Zuständigkeit und Geschäftsverteilung vorab erkennbar und nachträglich überprüfbar?
+- **Befangenheit:** Kann die betroffene Person vor der Entscheidung erkennen, wer entscheidet, und substantiiert ablehnen?
+- **Öffentlichkeit:** Bei mündlicher Verhandlung prüfen, ob Parteiöffentlichkeit oder allgemeine Öffentlichkeit vorgesehen, ausgeschlossen oder beantragt werden kann; Geheimhaltung darf effektiven Rechtsschutz nicht leerlaufen lassen.
+- **Instanzen und Dauer:** Wie viele parteigerichtliche Instanzen gibt es, welche Fristen gelten, und kann die Sache vor Erledigung der Wahl-/Organfrage entschieden werden?
+
+### Warnsignal
+
+Wenn Satzung und Praxis dazu führen, dass ein Mitglied jahrelang in internen Instanzen gebunden bleibt, während Wahlperioden, Kandidatenaufstellungen oder Organämter faktisch erledigt sind, muss der Skill ausdrücklich prüfen, ob der Vorrang der Parteigerichtsbarkeit noch tragfähig ist oder staatlicher Rechtsschutz wegen Unzumutbarkeit, Zeitablauf oder Eilbedürftigkeit eröffnet werden muss.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

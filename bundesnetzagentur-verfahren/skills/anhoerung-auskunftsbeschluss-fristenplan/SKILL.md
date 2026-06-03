@@ -3,36 +3,119 @@ name: anhoerung-auskunftsbeschluss-fristenplan
 description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan."
 ---
 
-# Anhörung Auskunftsbeschluss Fristenplan
+# Anhörung, Auskunftsbeschluss, Fristenplan
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Steuerung von Anhörungen und Auskunftsverlangen der Bundesnetzagentur. Die BNetzA fordert in fast jedem Verfahren strukturiert Auskünfte an: § 206 TKG (Auskunfts- und Prüfrechte), § 69 EnWG, § 45 PostG 2024, § 67 ERegG, § 18 DDG i. V. m. DSA. Daneben besteht die formale Anhörung nach § 28 VwVfG vor belastenden Verwaltungsakten. Anhörung, Auskunftsbeschluss und Verfahrensfrist greifen ineinander und müssen anwaltlich integriert geplant werden. Der Skill trägt den Fristenplan, die strategische Auswahl der Antworttiefe und die Verteidigungslinie für spätere gerichtliche Prüfung.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Beschlusskammer und Az. (BK1–BK11).
+- Art des Verlangens: schriftliche Anhörung, mündliche Anhörung, formloser Fragenkatalog, Auskunftsbeschluss mit Zwangsgeldandrohung.
+- Rechtsgrundlage des Verlangens (TKG, EnWG, PostG, ERegG, DDG).
+- Frist (Standardfrist 2–4 Wochen, in Eilfällen kürzer).
+- Vorliegende interne Unterlagen, Datenbestand, IT-Auszüge.
+- Vorgeschichte (Konsultationsphase, Marktdefinition, Marktanalyse, Entgeltprüfung, Aufsichtsverfahren).
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- § 28 VwVfG (allgemeine Anhörung vor Verwaltungsakt; Heilung nach § 45 Abs. 1 Nr. 3 VwVfG, Unbeachtlichkeit nach § 46 VwVfG nur bei klarer Alternativlosigkeit).
+- §§ 134 ff. BNetzAG, §§ 71–73 TKG, §§ 67–73 EnWG (Beschlusskammerverfahren).
+- § 206 TKG (Auskunfts- und Prüfrechte BNetzA, Selbstbelastungsschutz § 206 Abs. 3 TKG, Zwangsgeld § 206 Abs. 5 TKG).
+- § 69 EnWG (Auskunftsverlangen, Betretungsrechte, Mitwirkungspflicht).
+- § 45 PostG 2024, § 67 ERegG (Auskunftsverlangen Post bzw. Eisenbahn).
+- § 18 DDG i. V. m. Art. 67 ff. DSA (Auskunftsverlangen DSC; Befragung Art. 68 DSA; Vor-Ort-Untersuchung Art. 69 DSA).
+- § 17 OWiG, nemo tenetur, § 136 StPO analog: Schutz vor Selbstbelastung in bußgeldnahen Verfahren.
+- Art. 47 GRCh, Art. 6 EMRK (faires Verfahren, Selbstbelastungsschutz).
+- §§ 35 ff. VwVfG (Verwaltungsakt, Begründungspflicht, Anhörungspflicht).
+- § 1 Abs. 4 VwVfG (Anwendbarkeit auf BNetzA-Verfahren).
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Ablauf
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+1. **Frist sichern.**
+   - Frist in den Kalender, Eingangsbestätigung an BNetzA.
+   - Antrag auf Fristverlängerung mit konkreter Begründung (Datenmenge, Tochtergesellschaften, Konzernfreigabe).
+   - Bei Konzernen: Freigabe-Kette mit Compliance, Datenschutz, Geschäftsführung.
+
+2. **Rechtsgrundlage prüfen.**
+   - Stützt sich das Verlangen auf eine taugliche Norm (TKG, EnWG, PostG, ERegG, DDG)?
+   - Ist das Verfahren bereits bußgeldnah (dann § 206 Abs. 3 TKG, Selbstbelastungsschutz)?
+   - Ist die Beschlusskammer im Beschlusskammerverfahren oder die Abteilung im Aufsichtsverfahren tätig?
+
+3. **Verhältnismäßigkeit prüfen.**
+   - Erforderlichkeit der Daten.
+   - Bestimmtheit der Fragen.
+   - Zumutbarkeit der Datenaufbereitung.
+   - Bei Unbestimmtheit: Nachfrage, Eingrenzung, ggf. Stufung der Datenlieferung.
+
+4. **Datenbestand inventarisieren.**
+   - Quellen, Verantwortliche, Datenschutzfragen.
+   - Geschäftsgeheimnisse identifizieren.
+   - Konzernkommunikation und Anwaltskorrespondenz aussondern (Legal Privilege).
+
+5. **Antwortstrategie wählen.**
+   - Vollantwort, Teilantwort mit Schwärzung, Verweigerung mit Begründung.
+   - Verweigerungen sind nur bei Selbstbelastung, fehlender Rechtsgrundlage oder Unverhältnismäßigkeit tragfähig.
+   - Risiko der Beugehaft- bzw. Zwangsgeldverhängung gegen Geschäftsleitung beachten.
+
+6. **Anhörungstext entwerfen.** Sachverhalt, Tatsachenbasis, rechtliche Bewertung, Alternativvorschläge. Klare Trennung Tatsache/Bewertung.
+
+7. **Verteidigungslinie dokumentieren.** Was wurde gesagt, was bewusst nicht. Spätere Klage beim VG Köln stützt sich auf diese Akte.
+
+8. **Rechtsschutz parallel.**
+   - Gegen den Auskunftsbeschluss selbst ist Widerspruch (sofern nicht ausgeschlossen) und Klage zum VG Köln statthaft (§ 51 Abs. 1 Nr. 7 VwGO).
+   - Aufschiebende Wirkung kann nach § 80 Abs. 5 VwGO beantragt werden, sofern nicht spezialgesetzlich ausgeschlossen (vgl. § 137 TKG, § 76 EnWG, § 79 ERegG, § 22 DDG).
+   - Bei drohendem Zwangsgeld parallel Einspruch und Eilantrag.
+
+## Mustertexte
+
+- **Empfangsbestätigung mit Fristverlängerungsantrag (1 Seite).** Begründung mit Datenmenge, Konzernfreigabe, Urlaubszeit, Auslands-Tochtergesellschaften.
+- **Strukturierte Stellungnahme nach § 28 VwVfG** mit Gliederung A. Sachverhalt, B. Rechtliche Würdigung, C. Anträge, D. Beweismittel.
+- **Antwort auf Auskunftsverlangen** mit tabellarischem Antwortteil (Fragenummer, Antwort, Quelle, Schwärzung, Anlage). Begleitschreiben mit Schutzanträgen nach § 71 TKG / § 71 EnWG.
+- **Eilantrag VG Köln gegen Auskunftsbeschluss** (§ 80 Abs. 5 VwGO bzw. § 123 VwGO) mit Glaubhaftmachung der irreparablen Folgen.
+- **Verweigerungsschreiben mit Selbstbelastungsvorbehalt** bei bußgeldnahen Verfahren (§ 206 Abs. 3 TKG).
+
+## Quellenpflicht
+- Verweis auf aktuelle BNetzA-Verfahrensgrundsätze auf der BNetzA-Konsultationsseite.
+- BNetzA-Beschluss-Az. (BK-Format) nur generisch; konkrete Beschlüsse vom Anwender zu verifizieren.
+- VG Köln und BVerwG (insbesondere zu § 206 TKG und § 69 EnWG) nur mit konkretem Az., Datum und freier Fundstelle.
+- Zitierweise gemäß `references/zitierweise.md`.
+
+## Ausgabeformat
+
+- Fristenkalender mit Eskalationspunkten (Zwischenfristen für interne Freigabe, Datenextraktion, Schwärzungsprüfung).
+- Stellungnahme-Entwurf (3–10 Seiten je nach Komplexität).
+- Risikomatrix für Verweigerungsstrategien (Selbstbelastung, Unverhältnismäßigkeit, Datenschutzbedenken).
+- Anlagenverzeichnis mit Schwärzungs-Versionsstand.
+
+## Beispiele
+
+- **TK-Marktanalyse BK3.** BK3 fordert Marktdaten zum SMP-Test. Antwort: vollständige Datenlieferung unter Schwärzung der Margen, Begleitschreiben mit Bezug auf § 71 TKG.
+- **Energie-Anreizregulierung BK6.** BK6 verlangt Effizienzdaten für die ARegV-Erlösobergrenze. Antwort: vollständige Lieferung mit Geheimhaltungsantrag, Bezug auf § 71 EnWG.
+- **DSA-Plattform.** DSC fordert von einer Online-Plattform Algorithmen-Dokumentation nach Art. 27 DSA. Antwort: vollständige Beschreibung, Schwärzung sicherheitsrelevanter Details.
+- **Eisenbahn BK10.** BK10 fordert Trassen-Anmelddaten von DB InfraGO. Antwort: Lieferung im strukturierten Format, Bezug auf § 67 ERegG.
+- **Post BK10.** BK10 verlangt Briefporto-Kostenkalkulation. Antwort: Bandbreitendarstellung, Schwärzung der Margen.
+
+## Verhältnis zu anderen Skills im Plugin
+
+- Verzahnung mit `aktenzugang-geschaeftsgeheimnisse-schwaerzung` für Schwärzungsstrategie.
+- Verzahnung mit den Sektor-Skills (TK-Marktdefinition, Energie-ARegV, ERegG-Beschwerde, DSA) für die fachliche Tiefe.
+- Bei drohendem Bußgeld Übergabe an den Bußgeld-Verteidigungs-Skill im Plugin.
+
+## Häufige Fehler
+
+- Fristverlängerungsantrag pauschal ("Komplexität") ohne konkrete Angaben.
+- Unklare Trennung zwischen Tatsache und rechtlicher Wertung in der Stellungnahme.
+- Beifügung von Anlagen ohne Schwärzungsstrategie.
+- Selbstbelastung in bußgeldnahen Verfahren ohne Belehrung des Mandanten.
+- Zwangsgeld-Risiko unterschätzt; bei Verweigerung sind hohe Beträge je Tag möglich.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Absendung prüfen:
+- Frist gewahrt und im Kalender mehrfach gesichert?
+- Vollmacht im Original?
+- Konsistenz mit früheren Stellungnahmen?
+- Selbstbelastungsrisiko bewertet?
+- Schwärzungen begründet?
+- Anlagenverzeichnis vollständig?
+- Versandnachweis (Empfangsbestätigung)?

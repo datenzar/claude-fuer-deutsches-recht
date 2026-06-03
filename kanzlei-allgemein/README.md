@@ -17,22 +17,9 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- | --- |
 | **Akte Kanzlei-Allgemein-Plugin** (`kanzlei-allgemein-alltag`) | [Gesamt-PDF lesen](../testakten/kanzlei-allgemein-alltag/gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf) | [`testakte-kanzlei-allgemein-alltag.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
 | **Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH** (`sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger`) | [Gesamt-PDF lesen](../testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) | [`testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Akte Kanzlei-Allgemein-Plugin** (`kanzlei-allgemein-alltag`) | [Gesamt-PDF lesen](../testakten/kanzlei-allgemein-alltag/gesamt-pdf/kanzlei-allgemein-alltag_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
-| **Akte LG Regensburg — Sieglinger gegen Burgwald Energietechnik GmbH** (`sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger`) | [Gesamt-PDF lesen](../testakten/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger/gesamt-pdf/sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 
 Technischer Plugin-Name: `kanzlei-allgemein`.
 
@@ -41,37 +28,6 @@ Eigenständiges großes Kanzlei-Plugin für den gesamten Arbeitszyklus einer Kan
 Das Plugin deckt: edles Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Eingang, Intake, freundliche Menüführung, Mandatsannahme, Geldwäscheprüfung, KYC, PEP-Check, Kontoblatt, Schreib-Canvas, Klage- und Replik-Turbo, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, Qualitätsgate, Konfliktcheck, Aktenanlage, Fristen, Action-Items, beA-Nachrichtenjournal, elektronisches Empfangsbekenntnis, Kanzleikalender, HR, Urlaub, Krankheit, Payroll-Vorbereitung, granulare Zeiterfassung mit Narrative, Mandatsvereinbarung, Honorar, GoBD-nahe Rechnungsvorbereitung, Geschäftskonto, offene Posten, Zahlungseingangs-Matching, E-Rechnung, XRechnung, ZUGFeRD, UStVA-Vorbereitung, Simulation, Output und Versandkontrolle.
 
 Es ist **nicht** auf Großkanzleien beschränkt. Der Name meint den großen Kanzlei-Workflow: vom ersten Eingang bis zum versandfertigen Ergebnis.
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **sachverstaendigengutachten ki vorwurf lg regensburg sieglinger** | [testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sachverstaendigengutachten-ki-vorwurf-lg-regensburg-sieglinger.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Kanzlei-Lebenszyklus (`kanzlei-allgemein`, dieses Plugin) | [kanzlei-allgemein.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-allgemein.zip) |
-| Prozessrecht | [prozessrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/prozessrecht.zip) |
-
-Die URL ist stabil und zeigt auf die neueste Release-Version.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Kanzlei-Allgemein-Plugin** ([`testakten/kanzlei-allgemein-alltag/`](../testakten/kanzlei-allgemein-alltag/)).
-
-Direkt-Download als ZIP: [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation
 
@@ -83,13 +39,7 @@ Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eig
 
 Wichtig: Nicht das komplette Repository-ZIP hochladen. Das Upload-ZIP muss direkt `.claude-plugin/plugin.json`, `skills/` und `assets/` im ZIP-Root enthalten; `references/` ist optional, falls ein Plugin Referenzen mitliefert.
 
-### Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Kanzlei-Alltag** | [testakte-kanzlei-allgemein-alltag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kanzlei-allgemein-alltag.zip) |
+#
 
 ## Was das Plugin abbildet
 

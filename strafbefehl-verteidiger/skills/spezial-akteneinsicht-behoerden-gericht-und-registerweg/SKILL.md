@@ -1,6 +1,6 @@
 ---
 name: spezial-akteneinsicht-behoerden-gericht-und-registerweg
-description: "Akteneinsicht: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Akteneinsicht: Behörden-, Gerichts- oder Registerweg im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Akteneinsicht: Behörden-, Gerichts- oder Registerweg
@@ -17,6 +17,15 @@ Er führt durch **Behörden-, Gerichts- oder Registerweg** im Themenfeld **Akten
 - Bei Strafbefehl: Akte liegt bei Amtsgericht – Antrag an das zuständige AG. Vor Einspruchsentscheidung Einsicht regelmäßig zwingend, weil Beweislage erst dann beurteilbar.
 - Nebenklage-Akteneinsicht: § 406e StPO; bei Verletztenrechten gesonderter Pfad.
 - Praxis-Tipp: Antrag immer mit Vollmacht, Aktenzeichen und Übersendungsanschrift – elektronische Akteneinsicht über beA bevorzugen (§ 32f StPO). Bei Verzögerung Erinnerung mit Hinweis auf § 147 Abs. 5 StPO (gerichtliche Entscheidung) und Verfristungsrisiko des Einspruchs.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Akteneinsicht.
+- **Arbeitsfokus:** Behörden-, Gerichts- oder Registerweg.
+- **Plugin-Rahmen:** Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereins....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

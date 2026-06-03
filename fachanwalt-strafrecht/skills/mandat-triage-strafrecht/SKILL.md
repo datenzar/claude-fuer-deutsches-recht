@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-strafrecht
-description: "Strukturierte Eingangs-Abfrage für Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftbeschwerde § 117 StPO Haftprüfung § 117 § 118 StPO Akteneinsicht § 147 StPO. Eskalation Telefon-Sofort bei Untersuchungshaft binnen 24 Stunden. Routing zu akteneinsicht-strafrecht-auswerten."
+description: "Strukturierte Eingangs-Abfrage für Strafmandate. Klaert Verfahrensstadium (Ermittlungs- Zwischen- Hauptverfahren Vollstreckung) Tatvorwurf nach Strafrahmen (Vergehen Verbrechen) Haftsituation (Untersuchungshaft Vollzug Hausverbot) Beschuldigtenrechte § 136 § 137 § 140 § 141 StPO Pflichtverteidiger-Bestellung Mitbeschuldigte (Konflikt-Check § 43a BRAO § 146 StPO). Sofort-Fristen-Check Haftprüfung § 117 StPO, Haftbeschwerde § 304 StPO, Akteneinsicht § 147 StPO, Rechtsmittel und U-Haft-Eskalation. Routing zu Akteneinsicht, Haftmanagement und Strafprozess-Cockpit."
 ---
 
 # Mandat-Triage Strafrecht
@@ -61,7 +61,7 @@ Erstkontakt im Strafverfahren — oft mit hoher Eilbedürftigkeit (Festnahme U-H
 
 - Aktenstand nachgefragt?
 - Akteneinsicht beantragt § 147 StPO
-- Bei U-Haft Pflicht-Akteneinsicht Abs. 4
+- Bei U-Haft haftrelevante Informationen nach § 147 Abs. 2 S. 2 StPO sichern; in der Regel Akteneinsicht
 
 ### Frage 8 — Wirtschaftliche Verhältnisse / Pflichtverteidigung?
 
@@ -72,12 +72,12 @@ Erstkontakt im Strafverfahren — oft mit hoher Eilbedürftigkeit (Festnahme U-H
 
 | Verfahrensstadium | Folge-Skill | Frist-Sofort-Check |
 |---|---|---|
-| U-Haft | Haftbeschwerde § 117 StPO | Haftprüfungsantrag drei Monate § 121 StPO |
+| U-Haft | `strafprozess-haft-und-besuchsmanagement` | Haftprüfung § 117 StPO, Haftbeschwerde § 304 StPO, Sechs-Monats-Kontrolle § 121 StPO |
 | Vorfeld Durchsuchung | Beschwerde § 304 StPO | ggf. nicht statthaft wenn beendet — Feststellungsantrag |
 | Polizei-Vernehmung steht an | Verteidigerbeistand § 168c StPO | Termin verlegen oder begleiten |
 | Anklage zugestellt | Stellungnahme zur Eröffnung | Frist nach § 201 StPO |
 | Hauptverhandlung | `akteneinsicht-strafrecht-auswerten` | Beweisanträge vor Schluss Beweisaufnahme |
-| Berufung Revision | Rechtsmittel-Frist eine Woche § 314 StPO | Begründung eine Woche / ein Monat |
+| Berufung/Revision | `strafprozess-rechtsmittel-und-notfristencockpit` | Berufung/Revision Einlegung binnen 1 Woche; Revisionsbegründung § 345 StPO gesondert berechnen |
 
 ## Konflikt-Check
 
@@ -87,18 +87,18 @@ Erstkontakt im Strafverfahren — oft mit hoher Eilbedürftigkeit (Festnahme U-H
 
 ## Sofort-Fristen
 
-- **Haftbeschwerde** § 117 StPO — keine Frist aber sinnvoll sofort
 - **Haftprüfung** § 117 Abs. 1 StPO — jederzeit
+- **Haftbeschwerde** § 304 StPO — keine gesetzliche Wochenfrist wie bei sofortiger Beschwerde, aber praktisch sofort vorbereiten
 - **Sechs-Monats-Prüfung** OLG § 121 StPO
 - **Einspruch Strafbefehl** § 410 StPO zwei Wochen
 - **Berufung** § 314 StPO eine Woche
-- **Revision** § 341 StPO eine Woche; Begründung § 345 StPO ein Monat
+- **Revision** § 341 StPO eine Woche; Revisionsbegründung § 345 StPO grundsätzlich ein Monat nach Ablauf der Einlegungsfrist, bei späterer Urteilszustellung ab Zustellung
 
 ## Eskalationspfad
 
 - **Telefon-Sofort** Vorführung Untersuchungshaft Durchsuchung Vernehmung-Termin heute
 - **Binnen einer Stunde** Anfahrt zur Vernehmung — Verteidigerbeistand
-- **Heute** Akteneinsichtsantrag § 147 StPO Haftbeschwerde
+- **Heute** Akteneinsichtsantrag § 147 StPO, Haftprüfung § 117 StPO oder Haftbeschwerde § 304 StPO prüfen
 - **Diese Woche** Stellungnahme Anklage Berufungseinlegung
 
 ## Ausgabe

@@ -240,3 +240,12 @@ Zielgruppe sind Rechtsanwaelte und Verwalter, die als Zwangsverwalter bestellt s
 - Pfaendungsfreigrenzenbekanntmachung 2025 (BGBl. 2025 I Nr. 110) gilt vom 01.07.2025 bis 30.06.2026. Quelle: https://www.recht.bund.de/bgbl/1/2025/110/VO.html
 - Justizstandort-Staerkungsgesetz (BGBl. 2025 I Nr. 318 vom 11.12.2025): Wertgrenzenreform ab 01.01.2026 wirkt sich auf Beschwerdesummen aus; Uebergangsvorschrift § 47 EGZPO.
 - BGH V. ZS und VII. ZS aktuelle Linien zu Versteigerung und Zuschlag ueber https://www.bundesgerichtshof.de und https://dejure.org pruefen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

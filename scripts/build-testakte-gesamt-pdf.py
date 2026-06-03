@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Baut für jede Testakte ein 'gesamt-pdf/<name>_gesamt.pdf', das alle
 Aktenstücke (Markdown, TXT, EML, CSV, XLSX, DOCX, Bilder, PDF) in ein einziges,
-sauber gerendertes Dokument mit Cover, Inhaltsverzeichnis und Seitenzahlen
-zusammenfasst.
+sauber gerendertes Dokument mit kompaktem Aktenstart, Inhaltsverzeichnis und
+Seitenzahlen zusammenfasst.
 
 Aufruf:
   python3 scripts/build-testakte-gesamt-pdf.py                 # alle Testakten
@@ -515,26 +515,19 @@ def header_footer_factory(testakte_name: str):
     return hf
 
 
-def build_cover(name: str, readme_summary: str | None, h1: str | None = None) -> list:
+def no_header_footer(canv: canvas.Canvas, doc) -> None:
+    return None
+
+
+def build_cover(name: str, _readme_summary: str | None, h1: str | None = None) -> list:
     title = h1 if h1 else name
-    out = [
-        Spacer(1, 4 * cm),
-        Paragraph("Arbeitsakte", s_cover_label),
+    # Das Gesamt-PDF soll wie eine Akte aufgehen, nicht wie eine README oder
+    # Download-Seite. Download-, Release- und Testaktenhinweise bleiben in der
+    # README; im PDF steht am Anfang nur der Aktenname.
+    return [
         Paragraph(escape(title), s_cover_title),
-        Paragraph(escape(name), s_cover_meta),
-        Spacer(1, 0.6 * cm),
+        Spacer(1, 0.35 * cm),
     ]
-    if readme_summary:
-        out.append(Paragraph(escape(readme_summary), s_cover_sub))
-        out.append(Spacer(1, 0.8 * cm))
-    else:
-        out.append(Spacer(1, 0.8 * cm))
-    out.append(Paragraph(
-        "Diese Datei bündelt alle Aktenstücke in einem Dokument. "
-        "Die Einzeldateien liegen im Aktenordner ebenfalls vor.",
-        s_cover_meta,
-    ))
-    return out
 
 
 def extract_readme_summary(readme_path: Path) -> tuple[str | None, str | None]:
@@ -619,7 +612,6 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
         author="Kanzleiakte",
     )
     flow = list(cover)
-    flow.append(PageBreak())
 
     # Inhaltsverzeichnis (rudimentaer)
     toc_rows: list[list] = [["Teil", "Inhalt"]]
@@ -682,7 +674,7 @@ def build_text_pdf(testakte_dir: Path, files: dict[str, list[Path]], cover: list
 
     hf = header_footer_factory(testakte_dir.name)
     try:
-        doc.build(flow, onFirstPage=hf, onLaterPages=hf)
+        doc.build(flow, onFirstPage=no_header_footer, onLaterPages=hf)
     except Exception as e:
         print(f"  FEHLER beim Bauen: {e}")
         return False, pdf_attachments

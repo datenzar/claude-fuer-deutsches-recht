@@ -16,31 +16,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **KI-Training TDM Fotografin Windgassen Hamburg** (`ki-training-tdm-fotografin-windgassen-hamburg`) | [Gesamt-PDF lesen](../testakten/ki-training-tdm-fotografin-windgassen-hamburg/gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) | [`testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
+| **Akte Auerbach Soundworks / Nordlicht in Beton** (`urheberrecht-musik-ki-songstreit-auerbach`) | [Gesamt-PDF lesen](../testakten/urheberrecht-musik-ki-songstreit-auerbach/gesamt-pdf/urheberrecht-musik-ki-songstreit-auerbach_gesamt.pdf) | [`testakte-urheberrecht-musik-ki-songstreit-auerbach.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-urheberrecht-musik-ki-songstreit-auerbach.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **KI-Training TDM Fotografin Windgassen Hamburg** (`ki-training-tdm-fotografin-windgassen-hamburg`) | [Gesamt-PDF lesen](../testakten/ki-training-tdm-fotografin-windgassen-hamburg/gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Urheber- und Medienrecht. Orientierung UrhG VGG Verwertungsgesellschaften KUG Recht am eigenen Bild Presserecht Persönlichkeitsrecht Medienstaatsvertrag. EU-Bezug InfoSoc-RL DSM-RL. Schnittstellen gewerblicher-rechtsschutz und verlagsredaktion.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Urheber Medienrecht (`fachanwalt-urheber-medienrecht`, dieses Plugin) | [fachanwalt-urheber-medienrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -83,26 +63,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `gegendarstellung-presse` | Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Au... |
 | `mandat-triage-urheber-medienrecht` | Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnah... |
 | `schriftsatzkern-substantiierung` | Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag... |
-| `spezial-abmahnung-sonderfall-und-edge-case` | Abmahnung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bild-behoerden-gericht-und-registerweg` | Bild: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-eigenen-risikoampel-und-gegenargumente` | Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gegendarstellung-red-team-und-qualitaetskontrolle` | Gegendarstellung: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gewerblicher-compliance-dokumentation-und-akte` | Gewerblicher: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-lizenzvertrag-fristennotiz-und-naechster-schritt` | Lizenzvertrag: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-medienrecht-fristen-form-und-zustaendigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-medienstaatsvertrag-livequellen-und-rechtsprechungscheck` | Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-medienverfuegung-beweislast-und-darlegungslast` | Medienverfuegung: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-abmahnung-sonderfall-und-edge-case` | Abmahnung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bild-behoerden-gericht-und-registerweg` | Bild: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-eigenen-risikoampel-und-gegenargumente` | Eigenen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gegendarstellung-red-team-und-qualitaetskontrolle` | Gegendarstellung: Red-Team und Qualitätskontrolle im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gewerblicher-compliance-dokumentation-und-akte` | Gewerblicher: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-formular-portal-und-einreichung` | Kanzlei: Formular, Portal und Einreichungslogik im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-lizenzvertrag-fristennotiz-und-naechster-schritt` | Lizenzvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-medienrecht-fristen-form-und-zustaendigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-medienstaatsvertrag-livequellen-und-rechtsprechungscheck` | Medienstaatsvertrag: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-medienverfuegung-beweislast-und-darlegungslast` | Medienverfuegung: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-persoenlichkeitsrecht-medienverfuegung-und-abmahnung` | Persönlichkeitsrecht, Medienverfügung und Abmahnung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-persoenlichkeitsrecht-vergleich-eskalation` | Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-presse-mandantenkommunikation-entscheidungsvorlage` | Presse: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-presserecht-schriftsatz-brief-und-memo-bausteine` | Presserecht: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsschutz-mehrparteien-konflikt-und-interessen` | Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-urheber-tatbestand-beweis-und-belege` | Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-urhg-dokumentenmatrix-und-lueckenliste` | Urhg: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verlagsredaktion-international-schnittstellen` | Verlagsredaktion: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-persoenlichkeitsrecht-vergleich-eskalation` | Persoenlichkeitsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-presse-mandantenkommunikation-entscheidungsvorlage` | Presse: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-presserecht-schriftsatz-brief-und-memo-bausteine` | Presserecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsschutz-mehrparteien-konflikt-und-interessen` | Rechtsschutz: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-urheber-tatbestand-beweis-und-belege` | Urheber: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-urhg-dokumentenmatrix-und-lueckenliste` | Urhg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verlagsredaktion-international-schnittstellen` | Verlagsredaktion: Internationaler Bezug und Schnittstellen im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `urheber-abmahnung-pruefen` | Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenweh... |
 | `urhmr-deepfake-persoenlichkeitsrecht-spezial` | Spezialfall Deepfake und allgemeines Persoenlichkeitsrecht: Bildnisrechte §§ 22 ff. KUG, AI Act Transparenzpflicht, strafrechtliche Aspekte § 201a StGB. Pruefraster fuer Betroffene und Plattform. |
 | `urhmr-einfuehrung-rechtsfelder` | Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle. |

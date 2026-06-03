@@ -98,12 +98,11 @@ klôtzzkètté SA nutzt EUTM Reg.-Nr. [XY] als Basis. EUIPO reicht MM2 an WIPO e
 ### Konstellation 3: UK Subsequent Designation post-Brexit
 Nach Brexit mussten UK-Schutze neu beantragt werden (UKIPO). Subsequent Designation für UK durch MM4. UKIPO hat eigene Prüfungsstandards (sehr ähnlich wie EUIPO, aber eigenständig).
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- WIPO-Leitfaden Madrid System for the International Registration of Marks, 2024
-- McCarthy on Trademarks, Vol. 4, § 29 (International Registration)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 107-125 (IR-Marken)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

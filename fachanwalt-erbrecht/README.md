@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Erbstreit Edelmann — Multisig, Pflichtteil, Patchworkfamilie** (`erbstreit-krypto-multisig-edelmann-stuttgart`) | [Gesamt-PDF lesen](../testakten/erbstreit-krypto-multisig-edelmann-stuttgart/gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Erbrecht. Orientierung BGB Erbrecht §§ 1922 ff. Pflichtteil Testament Erbschein Erbauseinandersetzung Erbschaft- und Schenkungsteuer ErbStG EU-ErbVO. Schnittstellen steuerrecht-anwalt-und-berater und gesellschaftsrecht.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Erbrecht (`fachanwalt-erbrecht`, dieses Plugin) | [fachanwalt-erbrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-erbrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -92,26 +71,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `nachlassinsolvenz-erbenhaftung-begrenzen` | Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraen... |
 | `pflichtteil-berechnen` | Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Prüfraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit... |
 | `schriftsatzkern-substantiierung` | Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren. §§ 2303 2353 BGB §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Ab... |
-| `spezial-belegmatrix-sonderfall-und-edge-case` | Belegmatrix: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-berater-mehrparteien-konflikt-und-interessen` | Berater: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bgb-fristen-form-und-zustaendigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-chronologie-beweislast-und-darlegungslast` | Chronologie: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erbauseinandersetzung-textbausteine` | Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-belegmatrix-sonderfall-und-edge-case` | Belegmatrix: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-berater-mehrparteien-konflikt-und-interessen` | Berater: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bgb-fristen-form-und-zustaendigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-chronologie-beweislast-und-darlegungslast` | Chronologie: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erbauseinandersetzung-textbausteine` | Erbauseinandersetzung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-erbfall-intake-und-nachlassordnung` | Erbfall-Intake, Nachlassordnung und erste Fristen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-erbrecht-tatbestand-beweis-und-belege` | Erbrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erbschein-behoerden-gericht-und-registerweg` | Erbschein: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erbvo-livequellen-und-rechtsprechungscheck` | Erbvo: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-livecheck-mandantenkommunikation-entscheidungsvorlage` | Livecheck: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste` | Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pflichtteilsergaenzung-frist-naechster-schritt` | Pflichtteilsergaenzung: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-progressionsoptimierung-formular-portal-und-einreichung` | Progressionsoptimierung: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsquellen-red-team-und-qualitaetskontrolle` | Rechtsquellen: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-testament-risikoampel-und-gegenargumente` | Testament: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-erbrecht-tatbestand-beweis-und-belege` | Erbrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erbschaftsteuer-verhandlung-vergleich-und-eskalation` | Erbschaftsteuer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erbschein-behoerden-gericht-und-registerweg` | Erbschein: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erbvo-livequellen-und-rechtsprechungscheck` | Erbvo: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-livecheck-mandantenkommunikation-entscheidungsvorlage` | Livecheck: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pflichtteil-dokumentenmatrix-und-lueckenliste` | Pflichtteil: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pflichtteilsergaenzung-frist-naechster-schritt` | Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-progressionsoptimierung-formular-portal-und-einreichung` | Progressionsoptimierung: Formular, Portal und Einreichungslogik im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsquellen-red-team-und-qualitaetskontrolle` | Rechtsquellen: Red-Team und Qualitätskontrolle im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstellen-zahlen-schwellen-und-berechnung` | Schnittstellen: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-steuerrecht-compliance-dokumentation-und-akte` | Steuerrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-testament-risikoampel-und-gegenargumente` | Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt erbrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie V... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-erbrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-erbrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |

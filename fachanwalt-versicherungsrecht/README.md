@@ -20,29 +20,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **BU-Deckungsklage Pflegekraft Vogelweide Aachen** (`bu-deckungsklage-pflegekraft-vogelweide-aachen`) | [Gesamt-PDF lesen](../testakten/bu-deckungsklage-pflegekraft-vogelweide-aachen/gesamt-pdf/bu-deckungsklage-pflegekraft-vogelweide-aachen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bu-deckungsklage-pflegekraft-vogelweide-aachen.zip) |
-| **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Versicherungsrecht. Orientierung VVG VAG Berufsunfähigkeit private Krankenversicherung Lebens- und Rentenversicherung Sachversicherung Haftpflicht D-und-O. Schnittstellen kanzlei-allgemein und fachanwalt-verkehrsrecht.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Versicherungsrecht (`fachanwalt-versicherungsrecht`, dieses Plugin) | [fachanwalt-versicherungsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-versicherungsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -86,26 +64,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `klage-versicherer-strategie` | Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz. Anwendungsfall alle außergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Fälligkeit Verzu... |
 | `mandat-triage-versicherungsrecht` | Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjährung drei Jahre §§ 12 14 VVG Fälligk... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Deckungsklage, Klage BU/UB, Klage Sachversicherung, RSV-Deckungsklage: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-berufsunfaehigkeit-fristen-form-und-zustaendigkeit` | Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-deckungsklage-mehrparteien-konflikt-und-interessen` | Deckungsklage: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-berufsunfaehigkeit-fristen-form-und-zustaendigkeit` | Berufsunfaehigkeit: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-deckungsklage-mehrparteien-konflikt-und-interessen` | Deckungsklage: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-deckungspruefung-obliegenheiten-regress` | Deckungsprüfung, Obliegenheiten und Regressrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-einfuehrung-sonderfall-und-edge-case` | Einfuehrung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-haftpflicht-livequellen-und-rechtsprechungscheck` | Haftpflicht: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-compliance-dokumentation-und-akte` | Kanzlei: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-krankenversicherung-risikoampel-und-gegenargumente` | Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-lebens-behoerden-gericht-und-registerweg` | Lebens: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-leistungsablehnung-international-schnittstellen` | Leistungsablehnung: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-obliegenheitsverletzung-mandantenentscheidung` | Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-private-dokumentenmatrix-und-lueckenliste` | Private: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pruefen-formular-portal-und-einreichung` | Pruefen: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine` | Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sachversicherung-verhandlung-vergleich-und-eskalation` | Sachversicherung: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstelle-zahlen-schwellen-und-berechnung` | Schnittstelle: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-themen-fristennotiz-und-naechster-schritt` | Themen: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-versicherungsrecht-tatbestand-beweis-und-belege` | Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-versr-red-team-und-qualitaetskontrolle` | Versr: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-einfuehrung-sonderfall-und-edge-case` | Einfuehrung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-haftpflicht-livequellen-und-rechtsprechungscheck` | Haftpflicht: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kanzlei-compliance-dokumentation-und-akte` | Kanzlei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-krankenversicherung-risikoampel-und-gegenargumente` | Krankenversicherung: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standard... |
+| `spezial-lebens-behoerden-gericht-und-registerweg` | Lebens: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-leistungsablehnung-international-schnittstellen` | Leistungsablehnung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-obliegenheitsverletzung-mandantenentscheidung` | Obliegenheitsverletzung: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standard... |
+| `spezial-private-dokumentenmatrix-und-lueckenliste` | Private: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pruefen-formular-portal-und-einreichung` | Pruefen: Formular, Portal und Einreichungslogik im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsschutz-beweislast-und-darlegungslast` | Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine` | Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sachversicherung-verhandlung-vergleich-und-eskalation` | Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schnittstelle-zahlen-schwellen-und-berechnung` | Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-themen-fristennotiz-und-naechster-schritt` | Themen: Fristennotiz und nächster Schritt im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-versicherungsrecht-tatbestand-beweis-und-belege` | Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-versr-red-team-und-qualitaetskontrolle` | Versr: Red-Team und Qualitätskontrolle im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `versr-bu-anerkennt-was-spezial` | Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU. Beispielfall Streit ueber Anerkenntnis und Wiedereinsetzung der Leistung. |
 | `versr-bu-leistungspruefung-spezial` | Spezialfall BU-Leistungspruefung: Berufsbeschreibung, 50-Prozent-Grenze, Mitwirkungspflichten, Nachpruefungsverfahren. Pruefraster fuer Versicherungsnehmer mit psychischer und somatischer Erkrankung. |

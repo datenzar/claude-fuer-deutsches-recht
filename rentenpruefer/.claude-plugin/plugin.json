@@ -1,0 +1,9 @@
+{
+  "name": "rentenpruefer",
+  "version": "70.0.0",
+  "description": "Rentenprüfer für gesetzliche Rente, Versorgungswerk und internationale Versicherungszeiten: Kontenklärung, Rentenantrag, Nachversicherung, Auslandszeiten, Bescheide, Widerspruch und verständliche Dokumentation.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  }
+}

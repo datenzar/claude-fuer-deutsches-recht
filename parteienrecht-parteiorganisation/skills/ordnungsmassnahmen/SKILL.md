@@ -22,6 +22,13 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Zusatzzweig: Rechtsschutz gegen Ordnungsmaßnahmen
+
+- Sofort trennen: bloße Rüge, Amtsenthebung, Funktionsentzug, Ruhen von Rechten, vorläufige Maßnahme oder Ausschlussvorbereitung.
+- Satzungsgrundlage, zuständiges Organ, vorherige Anhörung, Begründung und Rechtsbehelf konkret aus der Parteisatzung ziehen.
+- Bei Eingriffen in Kandidatur, Stimmrecht, Delegiertenrecht oder Organamt prüfen, ob parteigerichtlicher Rechtsschutz schnell genug ist.
+- Antrag auf Aussetzung/Vorläufigregelung formulieren, wenn die Maßnahme vor Abschluss des Parteigerichtsverfahrens praktisch unumkehrbar wirkt.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

@@ -7,7 +7,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 478 KB) | PDF | [`gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf`](gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 477 KB) | PDF | [`gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf`](gesamt-pdf/erbstreit-krypto-multisig-edelmann-stuttgart_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-erbstreit-krypto-multisig-edelmann-stuttgart.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

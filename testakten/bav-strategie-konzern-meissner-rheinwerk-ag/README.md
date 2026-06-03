@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 723 KB) | PDF | [`gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf`](gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 722 KB) | PDF | [`gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf`](gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

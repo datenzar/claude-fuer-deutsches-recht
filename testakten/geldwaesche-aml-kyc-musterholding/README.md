@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 1181 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 1166 KB) | PDF | [`gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf`](gesamt-pdf/geldwaesche-aml-kyc-musterholding_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-geldwaesche-aml-kyc-musterholding.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-geldwaesche-aml-kyc-musterholding.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -108,8 +108,8 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | Datei | Inhalt |
 |---|---|
 | [README.md](README.md) | Diese Übersicht: Sachverhalt, Eckdaten, Zeitachse, Dateitabelle und Prüffokus |
-| [Fall_Uebersicht_Onepager.pdf](Fall_Uebersicht_Onepager.pdf) | One-Pager mit Stammdaten, Eckdaten und Beteiligten (Druckversion) |
-| [Fall_Uebersicht_Onepager.png](Fall_Uebersicht_Onepager.png) | One-Pager als PNG (Bildschirmversion) |
+| [Fall_Übersicht_Onepager.pdf](Fall_Uebersicht_Onepager.pdf) | One-Pager mit Stammdaten, Eckdaten und Beteiligten (Druckversion) |
+| [Fall_Übersicht_Onepager.png](Fall_Uebersicht_Onepager.png) | One-Pager als PNG (Bildschirmversion) |
 | [Fall_Zeitstrahl_AML_Musterholding.pdf](Fall_Zeitstrahl_AML_Musterholding.pdf) | Zeitstrahl der Ereignisse 07.04.–28.05.2026 (Druckversion) |
 | [Fall_Zeitstrahl_AML_Musterholding.png](Fall_Zeitstrahl_AML_Musterholding.png) | Zeitstrahl als PNG (Bildschirmversion) |
 | [01_intake/email_compliance_leitung.txt](01_intake/email_compliance_leitung.txt) | Eskalations-E-Mail Compliance-Abteilung an GF |
@@ -132,7 +132,7 @@ Die Geschäftsführung steht unter Zeitdruck, da der Distributor bereits erste A
 | [05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.png](05_ubo/UBO_Strukturchart_Danube_Blue_Harbor.png) | Strukturchart als PNG (Bildschirmversion) |
 | [06_pep_sanktionen/screening_treffer.md](06_pep_sanktionen/screening_treffer.md) | PEP/Sanktionslisten-Trefferbewertung Andrei Moldovan & Blue Harbor |
 | [06_pep_sanktionen/screening_log_2026.xlsx](06_pep_sanktionen/screening_log_2026.xlsx) | XLSX: Screening-Log 2026 (Treffer, Bewertung, Vier-Augen-Freigabe) |
-| [07_transaktionen/ungewoehnliche_zahlung.csv](07_transaktionen/ungewoehnliche_zahlung.csv) | Rohdaten Zahlungseingang Drittzahler |
+| [07_transaktionen/ungewöhnliche_zahlung.csv](07_transaktionen/ungewoehnliche_zahlung.csv) | Rohdaten Zahlungseingang Drittzahler |
 | [07_transaktionen/transaktionsmonitoring_alert.md](07_transaktionen/transaktionsmonitoring_alert.md) | Transaktionsmonitoring-Alert-Bericht (Drittzahlung 187.500 EUR) |
 | [07_transaktionen/transaktionshistorie_12monate_danube.xlsx](07_transaktionen/transaktionshistorie_12monate_danube.xlsx) | XLSX: 12-Monats-Transaktionshistorie Danube mit Anomalie-Flags |
 | [08_mittelherkunft/source_of_funds_antwort.txt](08_mittelherkunft/source_of_funds_antwort.txt) | Rohdaten Mittelherkunftsantwort |

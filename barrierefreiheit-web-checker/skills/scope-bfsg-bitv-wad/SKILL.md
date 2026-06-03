@@ -58,3 +58,12 @@ Nicht jede Website fällt automatisch unter das BFSG. Aber wenn eine Website Tei
 ## Marktüberwachung und Sanktionen
 - Zuständige Marktüberwachungsbehörde nach § 19 BFSG ist je nach Bundesland geregelt; bundesweit koordinierend ist die Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA) für Produkte; für Dienstleistungen das Eisenbahn-Bundesamt bzw. die Landesbehörden.
 - Bußgeld nach § 37 BFSG bis 100.000 EUR; bei Verstößen gegen Kennzeichnungspflichten bis 10.000 EUR.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

@@ -12,6 +12,7 @@ description: "Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. 
 3. **Hat der Mandant sich bereits gegenueber der Polizei gaeussert?** — Aussagen im Anhoerungsverfahren oder Vernehmung koennen belastend sein.
 4. **Anhoerungsbogen ausgefuellt oder unterschrieben?** — Nur schriftliche Bekanntgabe, kein Gestaendnis; Unterschrift kann als Einraeuming der Fahrereigenschaft ausgelegt werden.
 5. **Dauer der Hauptverhandlung und Ressourcen des Mandanten** — Einlassung mit Kostenpruefung abstimmen.
+6. **Smartphone-, Polizei- oder Versammlungsaufnahme?** — Bei Strafbefehl wegen Filmens/Audioaufnahme sofort `strafbefehl-polizeifilmerei-201-kug` hinzuziehen: § 201 StGB, § 201a StGB und KunstUrhG/KUG dürfen nicht vermischt werden.
 
 ## Zentrale Normen
 
@@ -21,6 +22,8 @@ description: "Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. 
 - **§ 244 StPO** — Beweisantragsrecht; Gericht muss jeden Beweisantrag bescheiden
 - **§ 257c StPO** — Verstaendigung (Deal); auch im vereinfachten Verfahren moeglich
 - **§ 46 StGB** — Strafzumessung; Gestaendnis als Milderungsgrund
+- **§§ 22, 23, 33 KunstUrhG/KUG** — Bildnisveröffentlichung; bloße Anfertigung von Bildern getrennt prüfen
+- **§§ 201, 201a StGB** — Tonaufnahmen und höchstpersönliche Bildinhalte; Nichtöffentlichkeit, Schutzbereich und Rechtfertigung sauber trennen
 
 ## Aktuelle Rechtsprechung
 

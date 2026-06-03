@@ -68,14 +68,11 @@ Donauzon Marketplace GmbH betreibt Konten, die KI-generierte Produktbilder von g
 ### Konstellation 3: Konkurrenzlabel wirbt mit "KI-optimiertes Design"
 Newcomer-Marke bewirbt sich mit "by Human & AI combined craftsmanship" für Mode in Klasse 25. Keine Markenverletzung von klôtzzkètté; aber Wettbewerbschance: Das klôtzzkètté-"100% Human"-Versprechen als Alleinstellungsmerkmal verstärken.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- EU AI Act VO (EU) 2024/1689, ABl. L 2024/1689 v. 12.07.2024 (insb. Art. 50: Transparenzpflichten)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 97 Rn. 1 ff. (Kollektivmarken)
-- EUIPO-Leitlinien zur Unionsgewährleistungsmarke, Art. 83 UMV (Certification Marks)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- Europäische Kommission, Leitlinien EU AI Act Art. 50 (KI-Transparenzpflichten, Stand 2025)
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

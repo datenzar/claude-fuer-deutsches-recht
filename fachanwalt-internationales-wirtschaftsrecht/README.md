@@ -19,28 +19,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Exportkontrolle / Dual-Use — Werkmann Anlagentechnik AG, Mannheim** (`exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim`) | [Gesamt-PDF lesen](../testakten/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim/gesamt-pdf/exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-exportkontrolle-dual-use-anlagentechnik-werkmann-mannheim.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Internationales Wirtschaftsrecht. Orientierung CISG Brüssel Ia Rom I Rom II grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL Investitionsschutz ICSID WTO EU-Außenhandel LkSG.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Internationales Wirtschaftsrecht (`fachanwalt-internationales-wirtschaftsrecht`, dieses Plugin) | [fachanwalt-internationales-wirtschaftsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
 
 ## Installation in Claude Code
 
@@ -92,26 +71,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `mandat-triage-iwr` | Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktion... |
 | `sanktions-compliance-pruefung` | Sanktions-Compliance: EU-Sanktionen (VO 269/2014 und 833/2014 Russland-Paket 1–14), US-OFAC SDN-Liste, UK-HMT/OFSI, UN-Sicherheitsrat-Resolutionen. Asset-Freeze, sektorale Embargos, Dienstleistungsverbote, Re-Export-Klauseln. AWG §§ 18–1... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-aussenhandel-zahlen-schwellen-und-berechnung` | Aussenhandel: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-bruessel-risikoampel-und-gegenargumente` | Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-cisg-dokumentenmatrix-und-lueckenliste` | Cisg: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-compliance-sonderfall-und-edge-case` | Compliance: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-embargo-fristennotiz-und-naechster-schritt` | Embargo: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-aussenhandel-zahlen-schwellen-und-berechnung` | Aussenhandel: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-bruessel-risikoampel-und-gegenargumente` | Bruessel: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Stand... |
+| `spezial-cisg-dokumentenmatrix-und-lueckenliste` | Cisg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-compliance-sonderfall-und-edge-case` | Compliance: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-embargo-fristennotiz-und-naechster-schritt` | Embargo: Fristennotiz und nächster Schritt im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüf... |
 | `spezial-grenzueberschreitender-vertragsstreit` | Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-icsid-livequellen-und-rechtsprechungscheck` | Icsid: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-internationales-tatbestand-beweis-und-belege` | Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-intwr-red-team-und-qualitaetskontrolle` | Intwr: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-investitionsschutz-verhandlung-vergleich-und-eskalation` | Investitionsschutz: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-lksg-compliance-dokumentation-und-akte` | Lksg: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage` | Sanktionen: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schiedsklausel-formular-portal-und-einreichung` | Schiedsklausel: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schiedsverfahren-behoerden-gericht-und-registerweg` | Schiedsverfahren: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schnittstelle-mehrparteien-konflikt-und-interessen` | Schnittstelle: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-trade-beweislast-und-darlegungslast` | Trade: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-uncitral-schriftsatz-brief-und-memo-bausteine` | Uncitral: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wirtschaftsrecht-fristen-form-und-zustaendigkeit` | Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-icsid-livequellen-und-rechtsprechungscheck` | Icsid: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-internationales-tatbestand-beweis-und-belege` | Internationales: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer St... |
+| `spezial-intwr-red-team-und-qualitaetskontrolle` | Intwr: Red-Team und Qualitätskontrolle im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-investitionsschutz-verhandlung-vergleich-und-eskalation` | Investitionsschutz: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardp... |
+| `spezial-kanzlei-internationaler-bezug-und-schnittstellen` | Kanzlei: Internationaler Bezug und Schnittstellen im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-lksg-compliance-dokumentation-und-akte` | Lksg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sanktionen-mandantenkommunikation-entscheidungsvorlage` | Sanktionen: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standar... |
+| `spezial-schiedsklausel-formular-portal-und-einreichung` | Schiedsklausel: Formular, Portal und Einreichungslogik im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüf... |
+| `spezial-schiedsverfahren-behoerden-gericht-und-registerweg` | Schiedsverfahren: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprü... |
+| `spezial-schnittstelle-mehrparteien-konflikt-und-interessen` | Schnittstelle: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardpr... |
+| `spezial-trade-beweislast-und-darlegungslast` | Trade: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-uncitral-schriftsatz-brief-und-memo-bausteine` | Uncitral: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wirtschaftsrecht-fristen-form-und-zustaendigkeit` | Wirtschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standa... |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Internationales Wirtschafts- und Schiedsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-internationales-wirtschaftsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-internationales-wirtschaftsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |

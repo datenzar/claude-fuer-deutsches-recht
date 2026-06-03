@@ -1,6 +1,6 @@
 ---
 name: spezial-sonderumlage-compliance-dokumentation-und-akte
-description: "Sonderumlage: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Sonderumlage: Compliance-Dokumentation und Aktenvermerk im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Sonderumlage: Compliance-Dokumentation und Aktenvermerk
@@ -9,6 +9,15 @@ description: "Sonderumlage: Compliance-Dokumentation und Aktenvermerk: konkreter
 Dieser Skill ist ein konkreter Fachbaustein für `weg-hausverwaltung`. Ausgangspunkt ist: Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Hausgeld, Sonderumlage, Betriebskosten, Handwerker, bauliche Veraenderungen, Steckersolar, Wallbox, Verwalter, Beirat und Anwalt-Eskalation.
 
 Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Sonderumlage**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Sonderumlage.
+- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
+- **Plugin-Rahmen:** Operatives WEG- und Hausverwaltungs-Plugin fuer Beschluesse, Eigentuemerversammlung, Protokoll, Beschlusssammlung, Wirtschaftsplan, Jahresabrechnung, Ha....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -46,3 +55,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: WEG-Reform, Beschlussgegenstand und Abrechnungsspitze
+
+- **Verifizierte Rechtsprechungsanker:** BGH, Urteil vom 20.09.2024 - V ZR 195/23: Fehler der Jahresabrechnung tragen die Ungültigerklärung nur, wenn sie sich auf Abrechnungsspitze und Zahlungspflicht auswirken. BGH, Urteil vom 14.02.2025 - V ZR 236/23 und V ZR 128/23: Kostenverteilung nach § 16 Abs. 2 WEG verlangt Beschlusskompetenz, Sachgrund und saubere Belastungslogik. Bei jeder Ausgabe vor Zitat freie Quelle erneut prüfen.
+- **Reformlogik:** Seit der WEG-Reform ist nicht „die Jahresabrechnung als Zahlenwerk“ der Beschlussgegenstand, sondern Nachschüsse und Anpassung der Vorschüsse nach § 28 Abs. 2 WEG. Das ist die zentrale Weiche für Anfechtung, Bestimmtheit und Fehlerrelevanz.
+- **Praktische Prüfung:** Beschlusskompetenz, Bestimmtheit, Ladung/Tagesordnung, Stimmrecht, Verteilungsschlüssel, Belegprüfung, Rücklage/Vermögensbericht, HeizKV, Umsatzsteuer/Vorsteuer und Anfechtungsfrist getrennt prüfen.
+- **Output-Pflicht:** Für Verwaltung/Eigentümer immer eine Beschluss- oder Anfechtungsmatrix liefern: Beschlusswortlaut, Rechtsgrundlage, Fehler, Zahlungsrelevanz, Beleg, Frist, Heilungs- oder Neufassungsoption.

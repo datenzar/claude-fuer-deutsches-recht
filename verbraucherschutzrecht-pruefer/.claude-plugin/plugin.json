@@ -1,0 +1,9 @@
+{
+  "name": "verbraucherschutzrecht-pruefer",
+  "version": "70.0.0",
+  "description": "Großer Verbraucherschutz-Prüfer für BGB, EGBGB, UWG, UKlaG, VSBG, E-Commerce, digitale Produkte, Reise, Finanzen, Energie, Gesundheit und Alltag.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  }
+}

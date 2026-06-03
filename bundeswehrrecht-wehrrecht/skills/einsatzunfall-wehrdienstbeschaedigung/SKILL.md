@@ -3,36 +3,91 @@ name: einsatzunfall-wehrdienstbeschaedigung
 description: "Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG."
 ---
 
-# Einsatzunfall Wehrdienstbeschädigung
+# Einsatzunfall und Wehrdienstbeschädigung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Der Einsatzunfall ist eine besonders qualifizierte Form der Wehrdienstbeschädigung: Schädigung während eines besonderen Auslandseinsatzes oder einer gleichgestellten Verwendung (§ 81a SVG). Folge sind höhere Leistungen, insbesondere eine einmalige Entschädigung nach Einsatzversorgungs-Verbesserungsgesetz und besondere Berufsförderungsansprüche. Der Skill ordnet die Voraussetzungen, dokumentiert die Tatfeststellung und führt durch das Verwaltungsverfahren.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Einsatzunfall Wehrdienstbeschädigung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welcher konkrete Einsatz (KFOR, EUFOR, Resolute Support, Sea Guardian, EUTM, sonstige Mission)?
+- Welche Verwendung (Truppe, Kontingent, Beobachter, Stab, NATO/EU)?
+- Was war das auslösende Ereignis – Gefecht, Anschlag, Unfall, dienstliche Tätigkeit im Lager?
+- Sofortige Meldung an Vorgesetzten erfolgt?
+- Welche ärztlichen Befunde liegen vor (truppenärztlich, im Einsatzland, in Deutschland)?
+- Ist die Verwendung als besonderer Einsatz nach § 63c SG anerkannt?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 81 SVG: Wehrdienstbeschädigung (Grundtatbestand).
+- § 81a SVG: Einsatzunfall – Schädigung durch oder bei einem besonderen Auslandseinsatz (§ 63c SG) oder einer dem Wehrdienst eigentümlichen Gefahr.
+- § 81e SVG: Einmalige Entschädigung – bis 150.000 Euro bei GdS 50 v.H. und mehr (Einsatzversorgungs-Verbesserungsgesetz).
+- § 81b SVG: Erweiterte Heilbehandlung und Pflege.
+- § 63c SG: Definition des besonderen Auslandseinsatzes.
+- Bundestagsmandat: Anlage zur jeweiligen Bundestagsbeteiligung – Voraussetzung für Anerkennung als besonderer Einsatz.
+- §§ 102 ff. SVG: Verwaltungsverfahren.
+- Versorgungsmedizinische Grundsätze (VMG).
+- Beweismaß: Vollbeweis Schädigung, Wahrscheinlichkeit der Kausalität.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Einsatzstatus klären.** Bundestagsmandat? Einsatz nach § 63c SG anerkannt? OPLAN/Einsatzbefehl beibringen.
+2. **Ereignisdokumentation.** Unfallmeldung, Funkspruch, Sanitätsbuch, Patientenkarte, Kameradenbericht, ggf. JET (Joint Operations Centre Logs).
+3. **Medizinische Befundkette.** Erstversorgung Einsatzland → Repatriierung → Bundeswehrkrankenhaus → Reha → Privatarzt.
+4. **Kausalität herausarbeiten.** Direkte Kampfhandlung? "Eigentümliche Gefahr" des Einsatzlandes (Tropen, Sprengfallen, Verkehr, psychische Belastung)?
+5. **Antrag auf Anerkennung als Einsatzunfall** beim BAPersBw mit allen Belegen.
+6. **Begutachtung** durch versorgungsmedizinische Stelle; eigene Stellungnahme/Gegengutachten.
+7. **GdS-Festsetzung** – ab 50 v.H. einmalige Entschädigung § 81e SVG; gestaffelt.
+8. **Berufsförderung.** §§ 4 ff. SVG i.V.m. einsatzversorgungsrechtlichen Regelungen.
+9. **Widerspruch** § 70 ff. VwGO entsprechend – 1 Monat. Klage Sozialgericht/Verwaltungsgericht.
+
+## Trade-off-Matrix
+
+| Konstellation | Strategie A | Strategie B |
+| --- | --- | --- |
+| Klare Kampfverletzung | Sofortantrag, hohe einmalige Entschädigung | Eilentscheidung beantragen |
+| Krankheit nach Tropenaufenthalt | Tropenmedizinisches Gutachten | Indizien aus Einsatzberichten |
+| PTBS Jahre später | Belastungsanamnese, Zeugen, Tagebücher | Spezialgutachten Psychotraumatologie |
+| Unfall im Lager / nicht Kampfhandlung | "Eigentümliche Gefahr" begründen | reguläre WDB statt Einsatzunfall |
+
+## Praxistipps
+
+- Bundestagsmandate sind nicht statisch – ein Einsatz kann anerkannt oder nicht anerkannt sein. Aktuelle Mandatsliste prüfen.
+- "Eigentümliche Gefahr" reicht aus – kein Direkttreffer erforderlich. Verkehrsunfall auf Patrouille, Malariainfektion, Hitzschlag im Lager fallen darunter.
+- Einmalige Entschädigung § 81e SVG ist neben Rente und Heilbehandlung möglich.
+- Bei kritischen Diagnosen Reha- und Pflegeleistungen früh beantragen (§ 81b SVG).
+- Vertraulichkeit der Einsatzberichte: Schwärzungen sind häufig – beantragen Sie nur die relevanten Teile.
+
+## Mustertexte
+
+**Antrag auf Anerkennung als Einsatzunfall:**
+"Beim BAPersBw beantrage ich die Anerkennung eines Einsatzunfalls nach § 81a SVG sowie Leistungen nach § 81e SVG. Sachverhalt: Mein Mandant war im Rahmen des Einsatzes [Bezeichnung] vom [Datum bis] in [Einsatzland] eingesetzt. Am [Datum] erlitt er [Diagnose] durch [Ereignis]. Beweismittel: 1. Einsatzbefehl/OPLAN-Auszug, 2. Sanitätsbuch (Anl. 2), 3. Berichte BwKrhs [...] (Anl. 3–5), 4. Zeugen Stbsf [Name], Hptm [Name]."
+
+**Widerspruch gegen Ablehnung des Einsatzunfallstatus:**
+"Der Bescheid ordnet die Schädigung als reguläre WDB ein. Tatsächlich liegt ein Einsatzunfall im Sinne des § 81a SVG vor: 1. Bundestagsmandat [Drucksache] erfasste die Verwendung. 2. Die Schädigung ist eine eigentümliche Gefahr des Einsatzes, weil [...]. 3. Die Versorgungsmedizinischen Grundsätze begründen einen GdS von [%]."
+
+## Typische Fehler
+
+- Reguläre WDB beantragen, obwohl Einsatzunfall einschlägig wäre.
+- Bundestagsmandat nicht beigebracht – Anerkennung als besonderer Einsatz scheitert.
+- Kausalität nur behauptet, nicht mit Zeugen/Berichten belegt.
+- Einmalige Entschädigung § 81e SVG nicht ausdrücklich beantragt.
+- GdS unter 50 v.H. akzeptiert, obwohl Folgeschäden den Wert erhöhen.
+
+## Querverweise
+
+- soldatenversorgungsgesetz-beschaedigtenversorgung
+- einsatz-unfall-versorgung-dokumentenplan
+- ptbs-einsatzfolge-beweisfuehrung
+- auslandseinsatz-mandat-einsatzregeln
+- aerztliche-begutachtung-dienstfaehigkeit
+- statusrechte-im-einsatz-urlaub-betreuung
+
+## Quellen Stand 06/2026
+
+- SVG §§ 81, 81a, 81b, 81e – Volltext gesetze-im-internet.de.
+- SG § 63c – Volltext gesetze-im-internet.de.
+- Bundestagsmandate – Drucksachen des Deutschen Bundestages, einsehbar bei bundestag.de.
+- Versorgungsmedizinische Grundsätze – BMAS.
+- BSG/BVerwG zu § 81a SVG – ständige Rechtsprechung; Az. nach Verifikation.

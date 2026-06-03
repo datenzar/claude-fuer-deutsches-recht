@@ -1,14 +1,14 @@
 From: dr.specht@specht-beckenbauer-drosselberg.de
 To: poststelle@ldi.nrw.de
 CC: dsb@vermietercheck.de, m.beckenbauer@specht-beckenbauer-drosselberg.de
-Subject: AZ DSB-NW-44/26 - Nachholung Datenpannenmeldung gemaess Art. 33 DSGVO - VermieterCheck Solutions GmbH
+Subject: AZ DSB-NW-44/26 - Nachholung Datenpannenmeldung gemäß Art. 33 DSGVO - VermieterCheck Solutions GmbH
 Date: Mon, 10 Feb 2026 09:15:00 +0100
 MIME-Version: 1.0
 Content-Type: text/plain; charset=UTF-8
 Content-Transfer-Encoding: quoted-printable
 Message-ID: <20260210091500.SBD001@specht-beckenbauer-drosselberg.de>
 
-Landesbeauftragte fuer Datenschutz und Informationsfreiheit NRW (LDI NRW)
+Landesbeauftragte für Datenschutz und Informationsfreiheit NRW (LDI NRW)
 z.H. Sachbearbeitung Aufsichtsverfahren DSB-NW-44/26
 Kavalleriestrasse 2-4
 40213 Duesseldorf
@@ -22,7 +22,7 @@ Aufsichtsverfahren DSB-NW-44/26.
 NACHHOLUNG DATENPANNENMELDUNG GEMAeSS ART. 33 ABS. 1 DSGVO
 
 Wir zeigen hiermit pflichtgemaess die nachfolgende Datenschutzverletzung an und begruenden
-die Verspaetung der Meldung gemaess Art. 33 Abs. 1 Satz 2 DSGVO.
+die Verspaetung der Meldung gemäß Art. 33 Abs. 1 Satz 2 DSGVO.
 
 1. DATENPANNENBESCHREIBUNG (Art. 33 Abs. 3 DSGVO)
 
@@ -39,7 +39,7 @@ b) Datenkategorien und Datensaetze:
    - Sensitivitaet: Hoch (Bonitaetsdaten, finanzielle Informationen)
 
 c) Betroffene Personengruppen:
-   Mietinteressenten, die in der Zeit von Maerz 2023 bis November 2025 ueber die
+   Mietinteressenten, die in der Zeit von Maerz 2023 bis November 2025 über die
    VermieterCheck-Plattform gescreent wurden.
 
 d) Ungefaehre Anzahl betroffener Personen: 142.300
@@ -47,14 +47,14 @@ d) Ungefaehre Anzahl betroffener Personen: 142.300
 e) Wahrscheinliche Folgen:
    Identitaetsdiebstahl, Phishing-Angriffe unter Verwendung echter Bonitaetsdaten,
    Kreditschaeden durch Missbrauch der Negativmerkmale, psychische Belastung der Betroffenen
-   durch Kontrollverlust ueber Finanzdaten.
+   durch Kontrollverlust über Finanzdaten.
 
 f) Ergriffene Massnahmen:
    - Patch CVE-2026-0188 eingespielt am 24.11.2025 (DevOps-Team)
    - API-Endpoint vorlaeufig deaktiviert
    - Beauftragung forensische Analyse: SecureProof GmbH, Bochum (Bericht Nr. SP-2025-4417)
-   - Betroffenenbenachrichtigung gemaess Art. 34 DSGVO: Versand 15.02.2026
-   - Datenbankzugang eingeschraenkt (MFA fuer alle Zugangskonten ab 07.02.2026)
+   - Betroffenenbenachrichtigung gemäß Art. 34 DSGVO: Versand 15.02.2026
+   - Datenbankzugang eingeschraenkt (MFA für alle Zugangskonten ab 07.02.2026)
 
 g) Name und Kontaktdaten des Datenschutzbeauftragten:
    Hannelore Kessler-Brandt, DSB VermieterCheck Solutions GmbH
@@ -80,12 +80,12 @@ unverzueglich eingeleitet.
 - Forensik-Timeline CVE-2026-0188
 - Entwurf Betroffenenbenachrichtigung Art. 34 DSGVO
 
-Wir stehen fuer Rueckfragen und eine muendliche Erlaeuterung jederzeit zur Verfuegung.
+Wir stehen für Rueckfragen und eine muendliche Erlaeuterung jederzeit zur Verfuegung.
 
 Mit freundlichen Gruessen
 
 Dr. Cornelius Specht
-Rechtsanwalt | Fachanwalt fuer Datenschutzrecht
+Rechtsanwalt | Fachanwalt für Datenschutzrecht
 Specht, Beckenbauer & Drosselberg Rechtsanwaltsgesellschaft mbH
 Koenigsallee 92c | 40212 Duesseldorf
 Tel. 0211/49320-10 | Fax 0211/49320-99

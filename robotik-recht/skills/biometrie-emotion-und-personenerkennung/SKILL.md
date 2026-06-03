@@ -3,42 +3,88 @@ name: biometrie-emotion-und-personenerkennung
 description: "Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäftigtenkontext und Transparenzpflichten bei Robotern."
 ---
 
-# Biometrie und Emotionserkennung
+# Biometrie, Emotion und Personenerkennung in der Robotik
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+## Worum geht es konkret
 
-## Start
+Roboter mit Personenerkennung kollidieren mit harten Verboten der KI-VO und mit der DSGVO. Art. 5 Abs. 1 KI-VO untersagt seit 02.02.2025 u. a. Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen (Art. 5 Abs. 1 lit. f), Social Scoring (lit. c) sowie – mit engen Ausnahmen – biometrische Echtzeit-Fernidentifizierung im öffentlich zugänglichen Raum zu Strafverfolgungszwecken (lit. h). Biometrische Daten sind besondere Kategorie (Art. 9 DSGVO). Dieser Skill prüft, welches Verfahren im konkreten Roboter zulässig ist und welche Transparenz-/Konformitätspflichten greifen.
 
-Kläre knapp:
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
+1. **Rolle:** Hersteller, Betreiber, Datenschutzbehörde, Betriebsrat, betroffene Person.
+2. **Funktion:** reine Personenanwesenheit (Anonyme Detection), Personenwiedererkennung (Tracking ohne Identität), Identifikation (1:N Match), Verifikation (1:1 Match), Emotionserkennung, Sentiment-Analyse.
+3. **Einsatzort:** Werkhalle (Beschäftigte), Krankenhaus (Patienten), Bildungseinrichtung, öffentlicher Raum, Endkunden-Haushalt.
+4. **Rolle der Echtzeit?** Live, post-hoc, beides?
+5. **Anlass:** Konformitätsprüfung, Behördenanfrage, Beschwerde, KI-VO-Audit, DSFA.
 
-## Prüfspur
+## Rechtlicher Rahmen
 
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
+- **KI-VO Art. 5** Verbotene Praktiken (ab 02.02.2025): lit. f Emotionserkennung im Arbeits- und Bildungsbereich (Ausnahme: medizinische/sicherheitsbezogene Gründe); lit. e ungezielte Massensammlung; lit. h Echtzeit-Biometrie im öffentlichen Raum zu Strafverfolgungszwecken mit engen Ausnahmen.
+- **KI-VO Anhang III** Hochrisiko: biometrische Identifikation, Kategorisierung, Emotionserkennung außerhalb des Art. 5-Verbots.
+- **KI-VO Art. 50** Transparenz: Information bei interaktiven KI-Systemen, Erkennung von Emotionen / biometrischer Kategorisierung.
+- **DSGVO Art. 9** Verbot der Verarbeitung biometrischer Daten zur eindeutigen Identifizierung; Ausnahmen Abs. 2 lit. a (ausdrückliche Einwilligung), lit. b (Arbeitsrecht mit gesetzlicher Grundlage), lit. g (erhebliches öffentliches Interesse).
+- **DSGVO Art. 22** automatisierte Einzelfallentscheidung mit Rechtsfolgen.
+- **DSGVO Art. 35** DSFA verpflichtend.
+- **BDSG** § 22 öffentlicher Bereich; § 26 BDSG Beschäftigte.
+- **EuGH** Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija (Anschluss zur weiten Auslegung biometrischer Daten).
 
-## Spezifischer Fokus
+## Workflow Schritt für Schritt
 
-Dieser Skill fokussiert: **Prüft Biometrie, Emotionserkennung, Personenerkennung, Beschäftigtenkontext und Transparenzpflichten bei Robotern.**
+1. **Funktion exakt benennen.** "Personenerkennung" ist nicht gleich "Identifikation". Detection ≠ Recognition ≠ Identification ≠ Verifikation.
+2. **Verbots-Check Art. 5 KI-VO.** Arbeitsplatz/Bildung + Emotion? Social Scoring? Massensammlung? Echtzeit-Biometrie in öffentlichem Raum?
+3. **Hochrisiko-Check Anhang III.** Falls nicht verboten: Anhang III Nr. 1, Nr. 4. Konformitätsbewertung notwendig.
+4. **DSGVO-Check.** Art. 9 Erlaubnistatbestand vorhanden? Art. 22 Folge? Art. 35 DSFA gemacht?
+5. **Transparenzpflichten Art. 50 KI-VO** umsetzen: Hinweis am Roboter, vor Interaktion.
+6. **Technische Maßnahmen.** On-device-Verarbeitung, kein Cloud-Upload, Templates statt Rohdaten, kurze Speicherfristen.
+7. **Betriebsrat / Aufsichtsbehörde** beteiligen.
+8. **Dokumentation.** Risikomanagement Art. 9 KI-VO, technische Dokumentation Anhang IV.
 
-Quellen-/Normenanker: DSGVO; KI-VO Art. 5, 50; BDSG.
+## Trade-off-Matrix
 
-## Ergebnisformat
+| Funktion | Klar erlaubt | Riskant | Klar verboten |
+|---|---|---|---|
+| Anonyme Personenanwesenheit (sicherheitskritisch) | ja | – | – |
+| Biometrische Authentifizierung Mitarbeiter | mit BV und Einwilligung | dauerhaftes Tracking | – |
+| Emotionserkennung Patient (med. Indikation) | mit DSFA und Aufklärung | – | – |
+| Emotionserkennung Beschäftigte (HR) | – | – | Art. 5 Abs. 1 lit. f KI-VO |
+| Live-Gesichtserkennung im öffentlichen Raum | – | – | grundsätzlich Art. 5 lit. h KI-VO |
 
-Liefere je nach Auftrag eines der folgenden Formate:
+## Praxistipps
 
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
+- **Templates** statt Rohbilder; Hash-Based-Matching.
+- **Hinweisschilder** am Roboter mit Symbol und Text.
+- **Mitarbeiter-Beteiligung früh** – nicht erst bei Beschwerde.
+- **Ausnahmen restriktiv lesen** – KI-VO sieht enge Voraussetzungen vor.
+- **Cloud-Verarbeitung** vermeiden bei biometrischen Daten.
 
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+## Mustertexte
+
+**Hinweisschild (Auszug):**
+
+> Hinweis. Dieser Service-Roboter erkennt anonym, ob eine Person anwesend ist, um den Schutzraum freizugeben. Es findet keine Gesichts- oder Identifizierungserkennung statt. Verantwortlicher: [Firma]. Datenschutzbeauftragter: [E-Mail]. Weitere Informationen: [QR/URL].
+
+**Klausel im Liefervertrag (Auszug):**
+
+> Der Lieferant garantiert, dass das KI-System des Roboters Typ X (a) keine Emotionserkennung im Arbeits- oder Bildungskontext (Art. 5 Abs. 1 lit. f KI-VO) und (b) keine biometrische Identifizierung außerhalb der vom Betreiber vorgesehenen Verifikation an autorisierten Türen ermöglicht. Verstöße berechtigen den Betreiber zur sofortigen Vertragsauflösung und zur Geltendmachung pauschalisierten Schadensersatzes i. H. v. 100.000 EUR je Verstoß; weitere Schäden bleiben unberührt.
+
+## Typische Fehler
+
+- **Emotionserkennung als "soft sentiment"** im HR-Tool – Art. 5 KI-VO greift.
+- **"Anonyme" Personenerkennung** mit Re-Identifikationspotenzial – DSGVO greift.
+- **DSFA nicht durchgeführt** – Aufsichtsbehörden-Risiko.
+- **Cloud-Übermittlung** ohne TIA.
+- **Beschwerde ignoriert** – Bußgeldrisiko Art. 99 Abs. 3 KI-VO (bis 35 Mio. EUR oder 7 %).
+
+## Querverweise
+
+- `beschaeftigtendatenschutz-cobot`
+- `datensatzqualitaet-und-bias-hri`
+- `datenschutz-kameras-und-sensorik`
+
+## Quellen Stand 06/2026
+
+- VO (EU) 2024/1689 (KI-VO), Art. 5 Abs. 1 lit. b, c, e, f, h; Anhang III; Art. 50; Art. 99.
+- DSGVO Art. 9, 22, 35.
+- BDSG §§ 22, 26.
+- EuGH, Urteil vom 1. August 2022, Rs. C-184/20 - Vyriausioji tarnybinės etikos komisija, ECLI:EU:C:2022:601.
+- Live-Verifikation auf eur-lex.europa.eu, edpb.europa.eu, bfdi.bund.de; lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.

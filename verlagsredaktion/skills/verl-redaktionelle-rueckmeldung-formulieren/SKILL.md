@@ -1,0 +1,116 @@
+---
+name: verl-redaktionelle-rueckmeldung-formulieren
+description: "Formuliert Autoren-Rueckmeldungen kollegial und praezise: trennt klar Stops von Wuenschen vermeidet Praedigtton und gibt der Autorin handhabbare Aufgaben."
+---
+
+# Redaktionelle Rueckmeldung formulieren
+
+## Worum geht es konkret
+
+Eine Rueckmeldung an eine Autorin entscheidet ueber die naechste Manuskriptqualitaet und ueber die Beziehung. Schlecht formuliert ist sie patronisierend, unklar, ueberfordernd. Gut formuliert ist sie ein Arbeitsauftrag: was muss zwingend geaendert werden (Stop), was sollte (wuenschenswert), was bleibt als Anregung. Dieser Skill ist die Vorlage fuer kollegial-praezise Rueckmeldungen.
+
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
+
+Sie brauchen ihn immer dann, wenn Sie nach Pruefungen (Format, Zitiernorm, Stil, Aussagensicherheit) eine Befund-Rueckmeldung an die Autorin geben. Klaeren Sie:
+
+1. Verhaeltnis zur Autorin (langjaehrig, neu, schwierig)?
+2. Frist fuer die Ueberarbeitung?
+3. Anzahl der Befunde (10? 50? 100?)?
+4. Welche Befunde sind Stops, welche Wuensche?
+
+## Material- bzw. Sachrahmen
+
+- Befundtabellen aus den vorgelagerten Pruefungen.
+- Manuskript-Versionsstand.
+- Heftplanung mit Endabgabefrist.
+
+## Praxisleitfaden / Schritt fuer Schritt
+
+1. **Sortieren** in drei Kategorien:
+   - **Stop:** muss zwingend behoben werden (z. B. fehlender Pinpoint, Mandantenname).
+   - **Wuenschenswert:** sollte behoben werden (z. B. Stoerwoerter, Synonyme).
+   - **Anregung:** kann behoben werden (z. B. zusaetzlicher Beleg).
+2. **Briefaufbau:**
+   - Dank fuer das Manuskript, kurzes Statement zum Inhalt (was traegt!).
+   - Befund-Aufbau in drei Bloecken: Stops zuerst, dann Wuensche, dann Anregungen.
+   - Frist mit Datum.
+   - Angebot zur Klaerung (Telefon, Mail, Termin).
+3. **Tonalitaet.** Sie-Form, kollegial, kein Praedigtton. Kritik in der Sache, nicht an der Person.
+4. **Konkretheit.** Pro Befund: Stelle (Seite, Zeile, Fn.), Befund in einem Satz, Vorschlag in einem Satz.
+5. **Frist realistisch.** Bei vielen Befunden: 2-4 Wochen. Bei wenigen: 1 Woche.
+6. **Verbleib offen markieren.** "Bei Rueckfragen erreichen Sie mich unter ..." - statt geschlossener Anweisung.
+
+## Trade-off-Matrix
+
+| Pfad | A: Mail mit Befundtabelle als Anlage | B: Komplette Rueckmeldung im Mailtext | Empfehlung |
+|------|---------------------------------------|----------------------------------------|------------|
+| Uebersicht | hoch | mittel | A bei vielen Befunden |
+| Lesbarkeit Mail | hoch | gering | A im Regelfall |
+| Aufwand | mittel | gering | A bei substanziellen Pruefungen |
+
+## Praxistipps der alten Redaktion
+
+- "Beginnen Sie mit einem ehrlichen Lob - was traegt? Das oeffnet die Tuer fuer die Kritik."
+- Nie mehr als 20 Befunde in einer Rueckmeldung. Wenn mehr noetig, in zwei Runden.
+- Stops sind nicht verhandelbar, Wuensche sind es. Das klar kommunizieren.
+- Frist immer mit Datum, nicht "zeitnah" oder "moeglichst bald".
+- Bei renommierten Autorinnen umso konkreter und sachlicher - die merken Schwammigkeit sofort.
+
+## Mustertexte / Vorlagen
+
+**Standard-Rueckmeldung (Vorlage):**
+
+> Sehr geehrte Frau Dr. Mueller,
+> 
+> vielen Dank fuer Ihr Manuskript "[Titel]", das uns am 02.06.2026 erreicht hat. Wir freuen uns ueber den geplanten Beitrag und insbesondere ueber Ihre praezise Auseinandersetzung mit der EuGH-Linie zur Plattformhaftung.
+> 
+> Nach Format-, Zitier-, Stil- und Inhalts-Pruefung haben wir folgende Befunde:
+> 
+> **Stops (zwingend, vor Annahme zu behoeben):**
+> 1. Fussnote 17: BGH-Zitat ohne Az. - bitte ergaenzen.
+> 2. S. 12: Mandantenbezug - bitte schriftliche Mandantenfreigabe oder Anonymisierung.
+> 3. S. 18: Tatsachenbehauptung zur BAFin ohne Beleg - bitte Quelle.
+> 
+> **Wuenschenswert:**
+> 4. S. 3: "Plattformanbieter" / "Plattformbetreiber" - bitte einheitlich.
+> 5. 7 Stilstellen (siehe Anlage Stoerwortliste).
+> 
+> **Anregungen:**
+> 6. Aufnahme der Schlussantraege EuGH C-...../25 (in der Anlage verlinkt).
+> 
+> Ueberarbeitete Fassung bitte bis **19.06.2026**. Bei Rueckfragen erreichen Sie mich unter ...
+> 
+> Mit kollegialen Gruessen
+> [Name], Schriftleitung [Zeitschrift]
+
+**Befund-Klassifikations-Tabelle:**
+
+| Kategorie | Wirkung | Beispiele |
+|-----------|---------|-----------|
+| Stop | Druck ausgeschlossen | fehlende Az., Mandantenname, Tatsachenbehauptung ohne Beleg |
+| Wuenschenswert | Druck moeglich, Qualitaetseinbusse | Stoerwoerter, Synonyme, Inkonsistenzen |
+| Anregung | bessere Fassung | zusaetzliche Belege, weiterfuehrende Hinweise |
+
+## Typische Fehler / Pitfalls
+
+- Vermischung Stop / Wunsch - Autorin behebt nur die Stops und ignoriert die Wuensche.
+- Praedigtton ("Sie sollten doch wissen ...") - verbrennt die Beziehung.
+- Frist "zeitnah" - bleibt unverbindlich.
+- Befunde ohne Stelle (Seite, Zeile) - Autorin findet sie nicht.
+- Keine Anlauf-Option ("bei Rueckfragen ...") - keine Kommunikationsoeffnung.
+
+## Querverweise
+
+- `verl-formatvorlage-check-autor-manuskript` - Format-Befunde.
+- `verl-zitierweise-pruefung-zeitschrift-jus-njw` - Zitier-Befunde.
+- `verl-stilbruch-stilcheck-fachzeitschrift` - Stil-Befunde.
+- `verl-aussagensicherheit-pruefung` - Aussage-Befunde.
+- `autorenkommunikation-email` - generelle Autoren-E-Mail-Kommunikation.
+
+## Quellen Stand 06/2026
+
+- Duden, Die deutsche Rechtschreibung, 29. Aufl. 2024.
+- Allgemeine Korrespondenzregeln: keine spezifische juristische Quelle erforderlich.
+- BRAO § 43a Abs. 2 (bei Mandantenfreigabe).
+- Byrd / Lehmann, Zitierfibel fuer Juristen, 2. Aufl. 2016.
+- Moellers, Juristische Arbeitstechnik, 11. Aufl. 2023.

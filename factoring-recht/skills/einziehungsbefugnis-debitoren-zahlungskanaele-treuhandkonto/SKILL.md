@@ -5,34 +5,103 @@ description: "Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: prüf
 
 # Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Wer darf das Geld vom Debitor einziehen? Wer hält das Konto, auf das gezahlt wird? Wer hat im Krisenfall Zugriff? Diese drei Fragen entscheiden über die operative Tauglichkeit jedes Factorings. Die zivilrechtliche Abtretung allein bringt dem Factor noch keinen Cent – es braucht eine **Einziehungsstruktur**, die Zahlungen verlässlich zum Factor leitet.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Drei Standardmodelle: (1) **Eigenes Konto Factor** – Debitoren zahlen direkt; (2) **Treuhandkonto** eines unabhängigen Treuhänders mit Verteilfunktion; (3) **Einziehungsermächtigung des Kunden** mit Weiterleitungspflicht. Jedes Modell hat insolvenz- und aufsichtsrechtliche Implikationen. Dieser Skill ordnet die Strukturen und liefert die Vertragsbausteine.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Einziehungsbefugnis Debitoren Zahlungskanäle Treuhandkonto: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Sie strukturieren das Zahlungs-Setup für ein neues Factoring.
+- Der Kunde wünscht eine diskrete Lösung – Zahlungskanal soll für Debitoren unauffällig sein.
+- Bei stiller Zession muss eine Zahlungsumlenkung organisiert werden.
+- Im Krisenszenario will der Factor sofort auf die Zahlungseingänge zugreifen.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- Wer eröffnet welches Konto (Kunde, Factor, Treuhänder)?
+- Wer ist Kontoinhaber, wer hat Verfügungsbefugnis?
+- Wie ist die insolvenzrechtliche Trennung gewährleistet?
+- Welche Reportings zur Zahlungssteuerung sind nötig?
+- Wie reagiert das Setup bei einer Krise des Kunden (Bankenkrise, Einleitung Insolvenzantrag)?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **§ 362 BGB**: Erfüllung – Zahlung an Empfangsberechtigten.
+- **§ 185 BGB**: Verfügung eines Nichtberechtigten – relevant bei Einziehungsermächtigung.
+- **§ 666, 667 BGB**: Auskunft und Herausgabe im Geschäftsbesorgungsverhältnis.
+- **§ 47 InsO**: Aussonderung – relevant bei Treuhandkonto.
+- **§ 80 InsO**: Verlust der Verfügungsbefugnis des Schuldners.
+- **§ 91 InsO**: Verfügungen nach Insolvenzantrag unwirksam.
+- **BGH zur insolvenzfesten Treuhand**: Offenlegung und Bestimmtheit erforderlich.
+- **§ 21 KWG**: Schutz von Kundengeldern bei Finanzdienstleistern.
+- **§ 1 Abs. 22 ZAG**: Zahlungskonto – ZAG-Relevanz bei Drittgelderverwaltung.
+
+## Workflow / Schritt für Schritt
+
+1. **Setup wählen**: Eigenes Factor-Konto, Treuhandkonto, Kundenkonto mit Weiterleitung.
+2. **Vertragstrennung**: Treuhandvertrag, Vollmacht, Weiterleitungspflicht.
+3. **Insolvenzfestigkeit prüfen**: Treuhandbestand offen und bestimmt, sodass § 47 InsO greift.
+4. **Bankvollmacht installieren**: Im Notfall direkter Zugriff Factor auf Konto.
+5. **Reporting einrichten**: Tägliche oder wöchentliche Übersicht aller Zahlungseingänge.
+6. **Krisenprotokoll**: Wann wechselt das Setup (Trigger), wer trifft die Entscheidung?
+7. **Dokumentation**: Kontonummern, Vollmachten, Treuhandverträge in zentraler Akte.
+
+## Trade-off-Matrix
+
+| Modell | Diskretion | Insolvenzfestigkeit | Aufwand |
+|---|---|---|---|
+| Eigenes Factor-Konto | Niedrig (Faktor sichtbar) | Hoch | Niedrig |
+| Treuhandkonto Notar/Anwalt | Mittel | Hoch (§ 47 InsO bei korrekter Konstruktion) | Hoch |
+| Treuhandkonto Bank | Hoch | Mittel | Mittel |
+| Kundenkonto mit Vollmacht Factor | Hoch | Niedrig (Mitarbeit Kunde nötig) | Niedrig |
+| Hybrid: Stille Phase Kundenkonto, Trigger zu Factor | Hoch bis Trigger | Mittel | Mittel |
+
+## Praxistipps
+
+- **Treuhand mit Bank ist Marktstandard**: Banken stellen sogenannte "Faktorkonten" zur Verfügung, auf die der Factor zugreift, Schreiben aber Kundenname trägt.
+- **Insolvenzfestigkeit kommt nicht von alleine**: Treuhandkonto muss offen, bestimmt und unmissverständlich dem Factor zugeordnet sein – sonst keine Aussonderung.
+- **Bankvollmacht regelmäßig erneuern**: Vollmachten werden bei Geschäftsführerwechsel unwirksam – jährliches Update.
+- **Lastschriftverfahren prüfen**: SEPA-Mandate können zugunsten Factor angepasst werden, wenn Debitoren via Lastschrift zahlen.
+- **Tägliches Reporting**: Bei stiller Zession ohne tägliches Reporting verliert der Factor den Überblick.
+
+## Mustertexte
+
+**Klausel Treuhandkonto im Factoringvertrag**
+
+"Sämtliche Zahlungen der Debitoren werden auf das Treuhandkonto IBAN … eingezahlt, Inhaber ist [Treuhänder] – Notar/Rechtsanwalt – als offener Treuhänder für den Factor. Der Treuhänder weist täglich die Zahlungseingänge dem Factor zu. Der Treuhandbestand ist insolvenzrechtlich aussonderungsfähig im Sinne § 47 InsO."
+
+**Treuhandvertrag (Auszug)**
+
+"Der Treuhänder verwaltet das Treuhandkonto offen als Treugutbestand für den Factor. Die Treugutfähigkeit ist offenkundig durch Kontobezeichnung "Treuhandkonto [Factor] / [Kunde]" und durch laufende Verbuchung getrennt vom Eigenvermögen des Treuhänders. Der Treuhänder kann nur nach schriftlicher Anweisung des Factors über das Konto verfügen."
+
+**Bankvollmacht (Auszug)**
+
+"Der Kontoinhaber [Kunde] erteilt der [Factor] hiermit unwiderrufliche Bankvollmacht über das Konto IBAN …. Die Vollmacht gilt insbesondere für Verfügungen über Zahlungseingänge der Debitoren. Die Bank ist unwiderruflich angewiesen, der [Factor] Auskünfte über Kontostand und Transaktionen zu erteilen."
+
+**Weisung an Bank (Bankenanschreiben)**
+
+"Sehr geehrte Damen und Herren, wir teilen Ihnen mit, dass das Konto IBAN … ab sofort als offenes Treuhandkonto für den Factor [X] geführt wird. Verfügungen nur nach gemeinsamer schriftlicher Anweisung von Kontoinhaber und Treugeber. Kontoauszüge gehen in Doppel an Kontoinhaber und Treugeber."
+
+## Typische Fehler
+
+- Treuhand ohne Offenlegung – § 47 InsO greift nicht, Insolvenzverwalter siedelt die Beträge an die Masse an.
+- Bankvollmacht ohne Unwiderruflichkeitsklausel – Kunde widerruft kurz vor Insolvenz.
+- Kundenkonto mit Weiterleitungspflicht ohne tägliches Reporting – Factor wird zu spät informiert.
+- Mehrere Konten ohne Trennung – Vermengung von Kunden- und Factor-Geldern.
+- Lastschriftmandate übersehen, Debitoren bezahlen via SEPA-Mandat an Kunden-Konto.
+
+## Querverweise
+
+- `drittschuldneranzeige-und-stille-zession`
+- `debitorenkommunikation-und-abtretungsanzeige`
+- `insolvenz-des-factoringkunden-aussonderung-absonderung`
+- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
+
+## Quellen Stand 06/2026
+
+- BGB §§ 185, 362, 666, 667 zu Verfügung und Geschäftsbesorgung.
+- InsO §§ 47, 80, 91 zur Aussonderung und Insolvenzwirkung.
+- BGH zur Anerkennung der offenen Treuhand als aussonderungsfähig (st. Rspr.).
+- KWG § 21 zum Schutz von Kundengeldern.
+- ZAG zur Behandlung von Zahlungskonten.

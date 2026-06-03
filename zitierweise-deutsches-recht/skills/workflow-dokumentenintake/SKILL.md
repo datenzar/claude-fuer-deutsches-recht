@@ -9,7 +9,7 @@ description: "Dokumentenintake im Plugin zitierweise-deutsches-recht: liest Uplo
 Dieser Workflow-Skill liest fertige oder im Entwurf befindliche juristische Texte (Memos, Gutachten, Schriftsätze, Aufsätze, Hausarbeiten) ein und prüft Zitate gegen den Repository-Standard `references/zitierweise.md`.
 
 ## Dokumentenarten
-- **Memo / Gutachten:** Fließtext mit Fußnoten oder eingeschobenen Verweisen ("BGH NJW 2024, 123, Rn. 14").
+- **Memo / Gutachten:** Fließtext mit Fußnoten oder eingeschobenen Verweisen ("BGH, Urt. v. TT.MM.JJJJ - Az. ..., freie/amtliche Quelle Rn. 14").
 - **Schriftsatz:** im Fließtext eingebettete Zitate; eher knappe Zitate.
 - **Aufsatz:** klassische Fußnoten mit Volltextzitierung.
 - **Hausarbeit:** Pflichtteil Zitate (Lit. und Rspr.); Plagiatsrisiko bei fehlenden Belegen.

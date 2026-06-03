@@ -1,0 +1,5 @@
+Frage,Antwort Lieferant,Nachweis,Bewertung
+MFA Fernwartung,ja,Screenshot Admin Portal,gelb
+Session Recording,nein,Standardvertrag,rot
+Incidentmeldung 24h,unklar,SLA,rot
+Subunternehmer,Polen/Indien,Liste,gelb

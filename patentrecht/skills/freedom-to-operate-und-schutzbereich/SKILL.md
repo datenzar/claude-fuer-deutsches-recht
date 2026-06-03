@@ -36,3 +36,12 @@ FTO ist nie absolute Freiheit. Das Ergebnis ist eine risikogewichtete Recherche 
 - **Einwendungen prüfen:** Vorbenutzungsrecht (§ 12 PatG), Erschöpfung (§ 9 S. 2 PatG), Lizenz, Verwirkung (§ 242 BGB), Versuchsprivileg (§ 11 Nr. 2 PatG), Bolar-Klausel Medikamentenzulassung.
 - **UPC-Zuständigkeit:** Bei Einheitspatent zentrale Klage am UPC; Opt-out nur bis Ende Übergangszeit; danach Bindung an UPC-Spruch.
 - Tipp: Claim Chart immer mit Anspruchsversion (Anmeldetag, Erteilungstext, Einspruchstext) und Registerabrufdatum versehen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

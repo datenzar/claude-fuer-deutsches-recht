@@ -1,63 +1,46 @@
 ---
 name: produkthaftung-grundlagen
-description: "Grundlagen Produkthaftung einfuehrend: Produkthaftungsgesetz ProdHaftG (verschuldensunabhaengig) gegenueber deliktischer Produzentenhaftung § 823 BGB (mit Verschulden). Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshoechstgrenzen, Selbstbeteiligung 500 Euro. Tabellarische Gegenueberstellung mit Beispielen."
+description: "Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853."
 ---
 
-# Produkthaftung: Grundlagen
+# Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
 
 ## Aufgabe
-Grundlagen Produkthaftung einfuehrend: Produkthaftungsgesetz ProdHaftG (verschuldensunabhaengig) gegenueber deliktischer Produzentenhaftung § 823 BGB (mit Verschulden).
 
+Dieser Skill erklärt und prüft Produkthaftung nicht mehr nur als klassischen Sachschaden an körperlichen Produkten, sondern als Lifecycle-Haftung mit Software, Updates, Reparatur, Refurbishment und Produktbeobachtung.
 
-## Fachlicher Arbeitskern
+## Sofort klären
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `produktrecht` zum Thema `produkthaftung-grundlagen`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Grundlagen Produkthaftung einfuehrend: Produkthaftungsgesetz ProdHaftG (verschuldensunabhaengig) gegenueber deliktischer Produzentenhaftung § 823 BGB (mit Verschulden). Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshoechstgrenzen, Selbstbeteiligung 500 Euro. Tabellarische Gegenueberstellung mit Beispielen..
+1. Welches Produkt: körperliche Ware, Maschine, IoT-Gerät, Software, App, digitales Fertigungsfile, Ersatzteil, refurbished/remanufactured Produkt oder Kombination?
+2. Welche Rolle: Hersteller, Importeur, Händler, Fulfilment-Dienstleister, Online-Marktplatz, Repairer, unabhängige Werkstatt, Softwareanbieter, Nutzer oder Geschädigter?
+3. Welche Spur: Produktsicherheit/Marktüberwachung, vertragliche Gewährleistung, ProdHaftG/Produzentenhaftung, Rückruf, Versicherung, Strafrecht, Right-to-Repair oder neues EU-Produkthaftungsrecht?
+4. Welche Zeit: Inverkehrbringen vor oder nach 13.12.2024 GPSR, Rechtsstand der nationalen Right-to-Repair-Umsetzung, Produkt nach dem 09.12.2026 für die neue Produkthaftungsrichtlinie?
+5. Welche Belege: technische Dokumentation, Risikoanalyse, CE, Gebrauchsanleitung, Update-Policy, Reparaturmanual, Ersatzteilliste, Feldbeobachtung, Incident-Tickets, Rückrufplan?
 
-Arbeite deshalb fallnah:
+## Rechtsanker
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+- Geltendes deutsches Recht: ProdHaftG, § 823 BGB, Produktsicherheitsrecht, Marktüberwachungsrecht, vertragliche Gewährleistung nach BGB.
+- GPSR: Verordnung (EU) 2023/988 gilt seit 13.12.2024 für allgemeine Produktsicherheit.
+- Right to Repair: Richtlinie (EU) 2024/1799, Umsetzungsstand live prüfen; sie ändert u. a. die Warenkaufrichtlinie (EU) 2019/771 und setzt auf Reparaturförderung, Reparaturinformationen/Formular/Plattform und Grenzen sachwidriger Reparaturhindernisse.
+- Neue Produkthaftung: Richtlinie (EU) 2024/2853, Umsetzung bis 09.12.2026; erfasst u. a. Software, digitale Fertigungsdateien und relevante digitale Dienste als Teil des Produkts.
+- Cyber-/Digital-Schnittstellen je nach Produkt zusätzlich CRA, KI-VO, Maschinenverordnung, Data Act, BatterieVO und sektorspezifische Regeln live prüfen.
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+## Arbeitsprogramm
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+1. **Nicht alles Produkthaftung nennen.** Produktsicherheit/Behördenpflichten, zivilrechtliche verschuldensunabhängige Produkthaftung, deliktische Produzentenhaftung, vertragliche Gewährleistung und Reparaturrecht trennen.
+2. **Lebenszyklus denken.** Design, Herstellung, digitale Komponenten, Updates, Ersatzteile, Reparatur, Refurbishment, Rückruf, End-of-Support und Entsorgung erfassen.
+3. **Repair-by-design prüfen.** Hardware- und Software-Techniken, Teilekopplung, Pairing, Diagnosezugang, Ersatzteile, Manuals und IP-/Security-Rechtfertigungen bewerten.
+4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
+5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+## Quellenhygiene
 
-## Pruefraster
+EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+## Prüfraster
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `produktrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+1. Anspruchsspur: ProdHaftG, § 823 BGB, Vertrag/Gewährleistung, Produktsicherheit/Behörde, Versicherung, Strafrecht.
+2. Fehlerart: Konstruktion, Fabrikation, Instruktion, Produktbeobachtung, Update, Cybersecurity, Reparaturhindernis, fehlerhafte Nachrüstung.
+3. Anspruchsgegner: Hersteller, Quasi-Hersteller, Importeur, Händler, Software-/Komponentenhersteller, Fulfilment/Marktplatz je nach Rechtsstand.
+4. Beweis: Produkt, Fehler, Schaden, Kausalität, Entlastung, Beweiserleichterungen nach kommendem EU-Recht.
+5. Maßnahmen: Rückruf, Warnung, Reparaturprogramm, Update, Ersatzteilversorgung, Versicherer- und Behördenkommunikation.

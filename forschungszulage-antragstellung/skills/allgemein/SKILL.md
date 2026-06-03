@@ -74,6 +74,7 @@ Das Plugin soll aus chaotischem Input eine arbeitsfähige Förderstory machen: P
 | Erste Förderchance grob abschätzen | `fz-foerdercheck-kaltstart` |
 | FuE-Eigenschaft sauber abgrenzen (Frascati) | `fz-fue-definition-frascati-abgrenzung` |
 | BSFZ-Projektbeschreibung schreiben | `fz-bsfz-bescheinigung-projektbeschreibung` |
+| Plädoyer / Begründung für BSFZ, Finanzamt, Einspruch oder Geschäftsführung | `fz-plaedoyer-begruendung-und-verteidigung` |
 | Bemessungsgrundlage und Personalkosten rechnen | `fz-bemessungsgrundlage-2026` |
 | Finanzamt-Antrag, Festsetzung, Auszahlung | `fz-finanzamt-festsetzung-auszahlung` |
 | Doku-Paket für Außenprüfung | `fz-dokumentationspaket-betriebspruefung` |

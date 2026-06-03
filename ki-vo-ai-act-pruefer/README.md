@@ -15,50 +15,21 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **NeuroChain Labs — Gründung eines KI/Krypto-Startups in Berlin, Musterprotokoll vs. individuelle Satzung** (`gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll`) | [Gesamt-PDF lesen](../testakten/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll/gesamt-pdf/gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll_gesamt.pdf) | [`testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll.zip) |
 | **KI-VO-Konformitätsprüfung MedAssist v4 — Hochrisiko-KI, Marktüberwachung, GPAI-Komponente** (`ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) | [`testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
 | **Akte KI-VO: BewerberPilot TalentRank** (`ki-vo-konformitaetsbescheinigung-bewerberpilot`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) | [`testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
+| **Mandatsbeziehung Nordstern BioTherapeutics — Kanzlei Falkenried** (`mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech`) | [Gesamt-PDF lesen](../testakten/mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech/gesamt-pdf/mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech_gesamt.pdf) | [`testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech.zip) |
 | **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [`testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
+| **Codeforst / Sonnenklee - RouteLuchs** (`softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen`) | [Gesamt-PDF lesen](../testakten/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen/gesamt-pdf/softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen_gesamt.pdf) | [`testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-softwarerecht-saas-ki-lizenzstreit-codeforst-muenchen.zip) |
+| **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** (`venture-capital-geber-nebelstern-portfolio-berlin`) | [Gesamt-PDF lesen](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
-
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **KI-VO-Konformitätsprüfung MedAssist v4 — Hochrisiko-KI, Marktüberwachung, GPAI-Komponente** (`ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck/gesamt-pdf/ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaet-medassist-hochrisiko-pruefung-vellbruck.zip) |
-| **Akte KI-VO: BewerberPilot TalentRank** (`ki-vo-konformitaetsbescheinigung-bewerberpilot`) | [Gesamt-PDF lesen](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/gesamt-pdf/ki-vo-konformitaetsbescheinigung-bewerberpilot_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
-| **Akte Vellbruck Robotics GmbH — Roboterflotte AtlasCare / LumaMove / Werkbank C7** (`robotikrecht-roboterflotte-vellbruck-muenchen`) | [Gesamt-PDF lesen](../testakten/robotikrecht-roboterflotte-vellbruck-muenchen/gesamt-pdf/robotikrecht-roboterflotte-vellbruck-muenchen_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-robotikrecht-roboterflotte-vellbruck-muenchen.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 
 Vollständiger Mechanik-Workflow zur Verordnung (EU) 2024/1689 (KI-VO): KI-System-Definition, Rollen, Risikoklassen, Hochrisiko-Pflichten, GPAI-Modelle, Konformitätsbewertung, Konformitäts-Evidence-Pack, Sanktionen und Entscheidungsbaum-Workflow.
 
 **Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen.**
 
 ---
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| ki-vo-ai-act-pruefer | [ki-vo-ai-act-pruefer.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **KI-VO: BewerberPilot TalentRank** ([`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/)).
-
-Direkt-Download als ZIP: [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation
 
@@ -186,12 +157,7 @@ Drei mögliche Diagnose-Ergebnisse, drei Workflows:
 - `output-konformitaetsbescheinigung-evidence-pack` — interne Konformitätsbescheinigung/Readiness-Vermerk, EU-Konformitätserklärung, Art.-43-Nachweis, Evidence Index und Lückenliste ohne falsche finale Bescheinigung
 - `output-betreiber-checkliste-und-folgenabschaetzung`
 
-### Zum Ausprobieren: Testakte
-
-- [`testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot`](../testakten/ki-vo-konformitaetsbescheinigung-bewerberpilot/) — fiktive Hochrisiko-Recruiting-KI mit Art.-3-/Art.-6-Vermerk, Risikoregister, Daten-Governance, Human Oversight, Art.-43-Checkliste, Konformitätsvermerk, EU-Konformitätserklärung-Entwurf und Lückenliste.
-- Download: [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip)
-
----
+#
 
 ## Wichtige Hinweise
 
@@ -261,7 +227,7 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `rueckausnahme-art-6-abs-3` | Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausnahmsweise nicht Hochrisiko ist. Art. 6 Abs. 3 KI-VO: kein erhebliches Risiko fuer Gesundheit, Sicherheit oder Grundrechte, vier enge Fallgruppen, Profiling-Sperre, Begruend... |
 | `sachlicher-ausschluss-art-2-abs-3-bis-12` | Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Fo... |
 | `sanktionen-art-99-bis-101` | Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktik... |
-| `spezial-mechanik-erstpruefung-und-mandatsziel` | Mechanik: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-mechanik-erstpruefung-und-mandatsziel` | Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki vo ai act pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `territorialer-anwendungsbereich-art-2` | Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die... |
 | `triage-ki-vo-vorpruefung` | Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder... |
 | `verbotene-praktiken-art-5` | Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predic... |

@@ -1,0 +1,154 @@
+# Staatsanwaltschaft Praxis-Einstieg
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`staatsanwaltschaft-praxis-einstieg`) | [`staatsanwaltschaft-praxis-einstieg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
+
+Dieses Plugin hat (bewusst) keine eigene Demonstrations-Akte.
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
+Praxisplugin für neue Staatsanwältinnen, Staatsanwälte und Sitzungsdienst: Ermittlungsverfahren, Polizei, RiStBV, Vermerke, Beschlagnahme, digitale Beweise, Anklage, Strafbefehl, Hauptverhandlung, Plädoyer und Rechtsmittel.
+
+## Worum es geht
+
+Dieses Plugin ist ein experimentelles Arbeits- und Lernwerkzeug. Es soll keine echten Amts-, Mandats-, Steuer-, Prüfungs- oder Berufsgeheimnisse aufnehmen, solange die technische und rechtliche Umgebung dafür nicht ausdrücklich freigegeben ist. Es arbeitet am besten mit anonymisierten, abstrahierten oder synthetischen Fällen und mit Dokumenten, die vor der Nutzung datenschutz- und geheimnisschutzrechtlich geprüft wurden.
+
+## Arbeitsweise
+
+Der Allgemein-Skill startet kurz, sortiert Rolle, Verfahrensstand, Frist, Unterlagen und gewünschtes Arbeitsprodukt und routet dann in die passenden Spezial-Skills. Jeder Skill verlangt Quellenhygiene: Normen, Behördenhinweise, Formulare und Rechtsprechung werden vor tragenden Aussagen live aus amtlichen oder frei zugänglichen Quellen geprüft; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
+
+## Typische Outputs
+
+- Kurzvermerk und Risikoampel
+- Checkliste für den nächsten Arbeitstag
+- Fragenliste an Behörde, Gericht, Kammer, Mandant, Partei oder Zeugen
+- Entwurf für Verfügung, Vermerk, Schriftsatz, Antrag, E-Mail oder Gesprächsleitfaden
+- Red-Team-Check gegen Fristenfehler, Zuständigkeitsfehler und Scheingenauigkeit
+
+## Installation
+
+ZIP aus dem aktuellen Release laden und in Claude Code oder Cowork über Customize Plugins installieren.
+
+## Lizenz
+
+Apache-2.0 OR MIT — Auswahl beim Empfänger.
+
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 100 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `abschlussverfuegung-anfaengerfehler` | Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `aktengeheimnis-und-ki-nutzung-sta` | Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `allgemein-kaltstart-und-routing` | Allgemeiner Kaltstart und Routing: Praxis-Skill für neue Staatsanwälte zu führt vom ersten Satz oder Dokument in den richtigen Arbeitsmodus; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächs... |
+| `anfangsverdacht-und-verfahrenseinleitung` | Anfangsverdacht und Verfahrenseinleitung: Praxis-Skill für neue Staatsanwälte zu Anfangsverdacht, Anzeige, Strafantrag, Offizialdelikt und erste Verfügung trennen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfüg... |
+| `anklageschrift-aufbau` | Anklageschrift aufbauen: Praxis-Skill für neue Staatsanwälte zu Anklagesatz, Konkretisierung, Beweismittel, rechtliche Würdigung und wesentliche Ermittlungsergebnisse schreiben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quelle... |
+| `anklageschrift-grosse-wirtschaftsstrafkammer` | Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `arbeitsstrafrecht-266a-und-mindestlohn` | Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `aufsichtsbeschwerde-und-dienstweg` | Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `befangenheit-richter-antrag-sta` | Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `befangenheit-richter-schoeffen` | Befangenheit von Richtern und Schöffen: Praxis-Skill für neue Staatsanwälte zu Ablehnung, Dienstaufsichtsfalle, Schöffenfragen und Verfahrensfairness aus StA-Sicht prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck... |
+| `bekaempfung-organisierte-kriminalitaet` | OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `berufung-sta-einlegen-und-begrenzen` | Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `beschleunigtes-verfahren-418-stpo` | Beschleunigtes Verfahren nach § 418 StPO: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `beschuldigtenvernehmung-anhoerung` | Beschuldigtenvernehmung und Anhörung: Praxis-Skill für neue Staatsanwälte zu Belehrung, Schweigerecht, Verteidigerkontakt und Vernehmungsplanung rechtssicher steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Ver... |
+| `betrug-onlinehandel-beweis-und-schaden` | Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `beweisantraege-244-stpo-reagieren` | Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `beweisverwertungsverbote-sta` | Beweisverwertungsverbote aus Sicht der StA: Praxis-Skill für neue Staatsanwälte zu mögliche Fehler früh erkennen, heilen, offenlegen oder verfahrensstrategisch berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellen... |
+| `btmg-kcang-mischfaelle` | BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `btmg-kcang-sitzungsdienst` | BtMG/KCanG im Sitzungsdienst: Praxis-Skill für neue Staatsanwälte zu Substanz, Menge, Wirkstoff, Eigenverbrauch, Handeltreiben und Strafzumessung in typischen Akten prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellenchec... |
+| `cybercrime-logfiles-und-chain-of-custody` | Cybercrime: Logfiles und Chain of Custody: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `daten-von-plattformen-bestandsdaten` | Bestands- und Nutzungsdaten von Plattformen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `deal-verstaendigung-257c-stpo-sta` | Verständigung nach § 257c StPO: StA sauber positionieren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `digitale-durchsuchung-daten-sicherung` | Digitale Durchsuchung und Datensicherung: Praxis-Skill für neue Staatsanwälte zu Smartphones, Cloud, Messenger, Server, Hashwerte, Sichtung und Datenminimierung in den Griff bekommen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-... |
+| `digitale-spuren-mobiltelefon-cloud` | Digitale Spuren: Mobiltelefon, Cloud, Chat und Standortdaten: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `dokumentenintake-und-aktenlog` | Dokumentenintake und Aktenlog: Praxis-Skill für neue Staatsanwälte zu ordnet Uploads, Eingangspost, Aktenbestandteile und fehlende Unterlagen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und näc... |
+| `durchsuchung-beschlagnahme-antrag` | Durchsuchung und Beschlagnahme: Praxis-Skill für neue Staatsanwälte zu richterlichen Beschluss, Gefahr im Verzug, Verhältnismäßigkeit und Dokumentation sauber vorbereiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck... |
+| `durchsuchung-kanzlei-arzt-redaktion` | Durchsuchung bei Berufsgeheimnisträgern: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `einstellung-153-153a-auflagen` | Einstellung nach §§ 153/153a StPO: Auflagen sauber begründen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `einstellung-153-153a-stpo` | Einstellung nach §§ 153 und 153a StPO: Praxis-Skill für neue Staatsanwälte zu Opportunität, Auflagen, Zustimmungserfordernisse, Opferinteressen und Dokumentation handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellenchec... |
+| `einziehung-drittbetroffene-anhoerung` | Einziehung mit Drittbetroffenen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `encrochat-anom-sky-ecc-krypto` | EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, R... |
+| `encrochat-sky-ecc-anom-beweiswert` | EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `entscheidungsvorlage` | Entscheidungsvorlage: Praxis-Skill für neue Staatsanwälte zu macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächste... |
+| `ermittlungsvermerk-schreiben` | Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwälte zu Sachstand, Tatverdacht, Beweislage, offene Ermittlungen und Entscheidungsvorschlag in einem brauchbaren Vermerk bündeln; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-... |
+| `europaeischer-haftbefehl-sta-praxis` | Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `frist-und-zustaendigkeit-cockpit` | Fristen- und Zuständigkeitscockpit: Praxis-Skill für neue Staatsanwälte zu macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschl... |
+| `fristenkalender-staatsanwaltschaft` | Fristenkalender im Dezernat: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `geldwaesche-krypto-und-kontoarrest` | Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `haeusliche-gewalt-opferschutz-und-beweis` | Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `haftbefehl-und-u-haft-antrag` | Haftbefehl und Untersuchungshaft: Praxis-Skill für neue Staatsanwälte zu dringenden Tatverdacht, Haftgründe, Verhältnismäßigkeit und Beschleunigungsgebot für Haftanträge strukturieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO... |
+| `hasskriminalitaet-online-und-plattformdaten` | Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `hauptverhandlung-sta-vorbereitung` | Hauptverhandlung vorbereiten: Praxis-Skill für neue Staatsanwälte zu Beweisthemen, Zeugen, Urkunden, Verständigung, Nebenklage und Reaktionsplan aus StA-Sicht ordnen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Ver... |
+| `insolvenzverschleppung-und-bankrott` | Insolvenzverschleppung und Bankrott: Tatzeitraum sauber schneiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `internationaler-beweisimport-verwertung` | Internationaler Beweisimport und Verwertung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `jugendstrafrecht-erziehungsziel` | Jugendstrafrecht aus StA-Sicht: Erziehungsziel und Beschleunigung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `jugendstrafrecht-sta` | Jugendstrafrecht für Staatsanwälte: Praxis-Skill für neue Staatsanwälte zu Erziehungsgedanke, Jugendgerichtshilfe, Diversion, Anklage und Sitzungsdienst abstimmen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfüg... |
+| `ki-und-deepfake-beweise-strafverfahren` | KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `koerperverletzung-strafantrag-230` | Körperverletzung und Strafantrag nach § 230 StGB: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `konfliktverteidigung-sitzung-ordnung` | Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `konfliktverteidigung-souveraen` | Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiSt... |
+| `korruptionsdelikte-amtstraeger-und-healthcare` | Korruption: Amtsträger, Healthcare und Unternehmen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `mandanten-oder-beteiligtenkommunikation` | Beteiligtenkommunikation: Praxis-Skill für neue Staatsanwälte zu übersetzt das Ergebnis in klare, taktisch sichere Kommunikation; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
+| `mehrfachverfahren-verbindung-trennung` | Mehrfachverfahren: Verbindung, Trennung und Übersicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `opfer-und-nebenklage-kommunikation` | Opfer, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte zu Verletztenrechte, Informationsrechte, Schutzmaßnahmen und Nebenklage ohne Rollenvermischung berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quel... |
+| `opferrechte-nebenklage-adhaesion` | Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `pflichtverteidigung-aus-sta-sicht` | Pflichtverteidigung aus Sicht der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `plaedoyer-beweiswuerdigung-strafmass` | Plädoyer: Beweiswürdigung und Strafmaß sauber bauen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `plaedoyer-staatsanwaltschaft` | Plädoyer der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte zu Schuldfrage, Beweiswürdigung, Strafzumessung, Nebenfolgen und Antrag klar und fair darstellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Ver... |
+| `polizei-ermittlungsauftrag-nachsteuerung` | Ermittlungsauftrag an die Polizei: Nachsteuerung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `polizei-zusammenarbeit-ermittlungsauftrag` | Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Ver... |
+| `presse-und-oeffentlichkeit` | Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, V... |
+| `presseauskunft-und-oeffentlichkeit` | Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `protokoll-und-nachbereitung` | Protokoll und Nachbereitung: Praxis-Skill für neue Staatsanwälte zu sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und näc... |
+| `quellen-und-rechtsprechungscheck` | Quellen- und Rechtsprechungscheck: Praxis-Skill für neue Staatsanwälte zu verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag un... |
+| `rechtshilfe-europaeische-ermittlungsanordnung` | Europäische Ermittlungsanordnung und Rechtshilfe: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `rechtshilfe-international` | Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellench... |
+| `rechtsmittel-sta-berufung-revision` | Rechtsmittel der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte zu Berufung, Revision, Beschwerde, Frist, Begründung und Zustimmung bei Rücknahme sauber steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck,... |
+| `red-team-qualitygate` | Red-Team-Qualitygate: Praxis-Skill für neue Staatsanwälte zu prüft Ergebnis auf Fristenfehler, Zuständigkeitsfehler, Scheinpräzision und Ton; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und näch... |
+| `revision-sta-verfahrensruegen-vorpruefung` | Revision der Staatsanwaltschaft: Vorprüfung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `ristbv-finden-anwenden` | RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswar... |
+| `ristbv-verfuegungstechnik-standard` | RiStBV-Verfügungstechnik und Dezernatsstandard: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `sachverstaendige-beauftragen-und-befragen` | Sachverständige beauftragen und in der HV befragen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `schoeffen-befangenheit-und-mitwirkung` | Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem... |
+| `sexualdelikte-aussage-gegen-aussage` | Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `sicherungsverfahren-413-stpo` | Sicherungsverfahren und Maßregelantrag: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `sitzungs-und-terminvorbereitung` | Sitzungs- und Terminvorbereitung: Praxis-Skill für neue Staatsanwälte zu bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorsch... |
+| `sitzungsdienst-amtsgericht` | Sitzungsdienst am Amtsgericht: Praxis-Skill für neue Staatsanwälte zu Aktenvorbereitung, Beweisaufnahme, Anträge, Plädoyer und Rechtsmittelnotiz für den ersten Sitzungsdienst; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellenc... |
+| `sitzungsdienst-referendar-notfallkarte` | Sitzungsdienst für Referendare: Notfallkarte: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `staatsanwalt-rolle-legalitaet-objektivitaet` | Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Ak... |
+| `staatsanwaltschaft-uebergabe-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt. |
+| `stalking-238-stgb-gewschg-schnittstelle` | Stalking § 238 StGB und GewSchG-Schnittstelle: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `steuerstrafrecht-kooperation-finanzamt` | Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `strafbefehl-beantragen` | Strafbefehl beantragen: Praxis-Skill für neue Staatsanwälte zu Eignung, Rechtsfolgen, Tagessätze, Fahrverbot, Bewährung und Verteidigungsrechte prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschla... |
+| `strafbefehl-tagessaetze-und-nebenfolgen` | Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `u-haft-fluchtgefahr-verhaeltnismaessigkeit` | U-Haft: Fluchtgefahr, Verdunkelung und Verhältnismäßigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `umweltstrafrecht-behoerdenakten` | Umweltstrafrecht: Behördenakten und technische Beweise: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `untreue-geschaeftsfuehrer-kontoanalyse` | Untreue des Geschäftsführers: Kontoanalyse und Pflichtwidrigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `urheber-und-markenstrafrecht-praxis` | Urheber- und Markenstrafrecht: Akten schnell sortieren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `verkehrsstrafrecht-blutprobe-fahrerlaubnis` | Verkehrsstrafrecht: Blutprobe, Fahrerlaubnis und Strafbefehl: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `verkehrsstrafrecht-strafbefehl` | Verkehrsstrafrecht und Strafbefehl: Praxis-Skill für neue Staatsanwälte zu §§ 142/315c/316 StGB, Entziehung, Sperre, Fahrverbot und Strafbefehl routiniert bearbeiten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Ver... |
+| `vermoegensarrest-einziehung` | Vermögensarrest und Einziehung: Praxis-Skill für neue Staatsanwälte zu Einziehung, Arrest, Verletztenrechte und Vermögensabschöpfung früh und verhältnismäßig planen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verf... |
+| `vermoegensarrest-einziehung-schnellcheck` | Vermögensarrest und Einziehung: schneller Sicherungscheck: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `vollstreckung-und-gnadenschnittstelle` | Vollstreckung und Gnadenschnittstelle: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `waffenrecht-und-sprengstoff-nebenstrafrecht` | Waffen- und Sprengstoffsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `wirtschaftsstrafsachen-sachleitung` | Wirtschaftsstrafsachen sachleiten: Praxis-Skill für neue Staatsanwälte zu komplexe Tatkomplexe, Gutachten, Finanzdaten, Durchsuchung, Arrest und Verständigung koordinieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellenchec... |
+| `wirtschaftsstrafverfahren-datenraum-aktenplan` | Wirtschaftsstrafverfahren: Aktenplan und Datenraum: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `wohnungsdurchsuchung-gefahr-im-verzug` | Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `zeugenmanagement-und-ladungsrisiken` | Zeugenmanagement für die Hauptverhandlung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
+| `zeugenvernehmung-zeugenrechte` | Zeugenvernehmung und Zeugenrechte: Praxis-Skill für neue Staatsanwälte zu Ladung, Belehrung, Aussageverweigerung, Auskunftsverweigerung und Schutzbedarf beachten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügu... |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

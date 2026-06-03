@@ -92,14 +92,11 @@ Donauzon US-Marketplace (us.donauzon.com) verkauft Fälschungen über Drittanbie
 ### Konstellation 3: Criminal Referral
 Organisierter Fälschungsring (multiple shipments, estimated USD 5M in counterfeit goods). Kooperation mit FBI/HSI. Whitman Brennan Forsythe LLP als Victim's Counsel; Steinacker Lichtenberg koordiniert EU-Parallelvorgehen (VO EU 608/2013).
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 5, §§ 30:1 ff. (Remedies, Counterfeiting)
-- 18 U.S.C. § 2320 (Trademark Counterfeiting Act, aktueller Stand)
-- 15 U.S.C. §§ 1114/1116/1117 (Lanham Act Enforcement)
-- Octane Fitness, LLC v. ICON Health & Fitness, Inc., 572 U.S. 545 (2014)
-- U.S. CBP, Intellectual Property Rights Seizure Statistics, Annual Report 2024
-- IPR Center, bestpractices.gov/ipr
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 
@@ -185,3 +182,12 @@ klotzkette SA — Trademark Portfolio
 4. CONTACT: Eleanor M. Quintero, Esq., Whitman Brennan Forsythe LLP
             Tel: +1 212 xxx xxxx / equintero@wbf.law
 ```
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

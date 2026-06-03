@@ -125,3 +125,12 @@ Stand: 05/2026.
 - E-Auto-Listenpreisgrenze: bis 70.000 EUR (Anschaffung ab 01.01.2024); Plug-in-Hybrid: 80 km elektrische Mindestreichweite oder max. 50 g/km CO2 (Stand 2025; BMF-Schreiben E-Auto/Hybrid pruefen).
 
 <!-- AUDIT 27.05.2026 | welle 6 | 7 Marker aufgeloest: 4 bestaetigt (Wachstumschancengesetz BGBl. 2024 I Nr. 108, Grenzwerte eingesetzt), 3 ersetzt (Pruefhinweise ohne Marker) -->
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

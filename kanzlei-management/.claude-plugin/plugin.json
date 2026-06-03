@@ -1,0 +1,26 @@
+{
+  "name": "kanzlei-management",
+  "version": "70.0.1",
+  "description": "Mega-Plugin für Kanzlei-Management: Managing Partner, Management Committee, Cashflow, Pricing, UBT, FTE, Utilization, WIP, Associates, Partnerkreis und Dashboards.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "kanzlei-management",
+    "managing-partner",
+    "management-committee",
+    "cashflow",
+    "pricing",
+    "ubt",
+    "fte",
+    "utilization",
+    "wip",
+    "lockup",
+    "associate-retention",
+    "partnerkreis",
+    "legal-operations",
+    "dashboard"
+  ]
+}

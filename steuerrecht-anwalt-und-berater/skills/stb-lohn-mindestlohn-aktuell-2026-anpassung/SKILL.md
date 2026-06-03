@@ -125,3 +125,12 @@ Stand: 05/2026.
 
 <!-- AUDIT 27.05.2026 | welle 6 | 4 Marker aufgeloest: 3 bestaetigt (MiLoV3 BGBl. 2023 I Nr. 321, 12,82 EUR eingesetzt), 1 ersetzt (2026-Wert als noch nicht festgesetzt ausgewiesen) -->
 <!-- UPDATE 29.05.2026 | MiLoV5: 13,90 EUR (2026) und 14,60 EUR (2027) bestaetigt, BGBl. 2025 I Nr. 268/312 -->
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

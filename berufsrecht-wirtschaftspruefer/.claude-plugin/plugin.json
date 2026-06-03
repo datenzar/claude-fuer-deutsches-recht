@@ -1,0 +1,16 @@
+{
+  "name": "berufsrecht-wirtschaftspruefer",
+  "version": "70.0.0",
+  "description": "Plugin für Wirtschaftsprüferrecht: WPO, Berufssatzung, WPK, APAS, Unabhängigkeit, Qualitätskontrolle, Abschlussprüfung, Bestätigungsvermerk, PIE, Berufsaufsicht und berufsgerichtliche Risiken.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "wirtschaftspruefer",
+    "berufsrecht",
+    "kammer",
+    "aufsicht"
+  ]
+}

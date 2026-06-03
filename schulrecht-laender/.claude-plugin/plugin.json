@@ -1,0 +1,18 @@
+{
+  "name": "schulrecht-laender",
+  "version": "70.0.0",
+  "description": "Schulrecht der Länder: Schulpflicht, Aufnahme, Inklusion, Noten, Versetzung, Ordnungsmaßnahmen, Datenschutz, Elternrechte und Eilrechtsschutz.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "schulrecht",
+    "schulgesetz",
+    "inklusion",
+    "ordnungsmaßnahmen",
+    "elternrechte",
+    "schulpflicht"
+  ]
+}

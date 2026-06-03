@@ -1,7 +1,7 @@
 {
   "name": "fachanwalt-vergaberecht",
-  "version": "56.0.0",
-  "description": "Plugin Fachanwalt für Vergaberecht. GWB §§ 97 ff. VgV UVgO SektVO KonzVgV VOB-A. EU-Vergabe-RL. Nachprüfungsverfahren Vergabekammer und OLG-Vergabesenat. Schnittstelle Plugin fachanwalt-bau-architektenrecht.",
+  "version": "70.0.0",
+  "description": "Plugin Fachanwalt fuer Vergaberecht als Vergabe-Workbench: GWB 97 ff., VgV, UVgO, SektVO, KonzVgV, VOB/A, Schwellenwerte 2026/2027, Vergabeakte, Ruge, Nachpruefung, TED/eForms, Wettbewerbsregister und Foerdermittel.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -14,9 +14,15 @@
     "vgv",
     "uvgo",
     "sektvo",
+    "konzvgv",
     "vob-a",
-    "vergabekammer",
+    "schwellenwerte",
     "nachpruefung",
-    "eu-vergabe"
+    "ruege",
+    "vergabeakte",
+    "ted",
+    "eforms",
+    "wettbewerbsregister",
+    "foerdermittel"
   ]
 }

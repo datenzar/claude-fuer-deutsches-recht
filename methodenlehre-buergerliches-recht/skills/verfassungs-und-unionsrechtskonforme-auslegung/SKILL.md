@@ -76,7 +76,7 @@ Verfassungskonforme Auslegung: Von mehreren vertretbaren Auslegungen ist die mit
 - **Lueth-Drittwirkung ohne Generalklausel.** Mittelbare Drittwirkung wirkt **ueber** Generalklauseln (§§ 138, 242, 826 BGB). Direkte Anwendung von Grundrechten zwischen Privaten ist nur ausnahmsweise anerkannt (z. B. Stadion-Verbot BVerfGE 148, 267).
 - **Verfassung als Topos ohne Norm.** Konformitaetsargument muss an einer konkreten Grundrechtsnorm haengen, nicht an abstrakten "Verfassungswerten".
 
-Kritik: Bernd Ruethers warnt vor "Richterrecht ohne Grenze". Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfertigt werden kann, verliert das Gesetz seine Bindungskraft. Die Wortlaut-Grenze ist daher ernst zu nehmen.
+Kritik: Wenn jede Auslegung als verfassungs- oder unionsrechtskonform gerechtfertigt werden kann, verliert das Gesetz seine Bindungskraft. Die Wortlaut-Grenze ist daher ernst zu nehmen.
 
 ## Querverweise
 

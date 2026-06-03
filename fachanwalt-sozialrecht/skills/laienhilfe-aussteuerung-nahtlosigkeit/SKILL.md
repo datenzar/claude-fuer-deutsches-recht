@@ -64,3 +64,12 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **Rente vs. ALG-Nahtlosigkeit:** ALG ist subsidiaer; sobald EM-Rente bewilligt, Verrechnung; bei Ablehnung EM bleibt ALG.
 - **Eilrechtsschutz § 86b SGG** bei Verweigerung Nahtlosigkeits-ALG (Existenzminimum); ggf. Hilfe Jobcenter/Sozialamt parallel beantragen.
 - **Praxis-Tipp:** Beratungstermin bei DRV vor Aussteuerung; medizinische Stellungnahme behandelnde Aerzte zur Leistungsfaehigkeit fuer Reha- bzw. Rentenantrag; Anwartschafts-Aufrechterhaltung pruefen, weiterhin Krankenversicherung sichern (KV-Pflicht ALG-Bezieher § 5 I Nr. 2 SGB V).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

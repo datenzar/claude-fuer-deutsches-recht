@@ -1,6 +1,6 @@
 ---
 name: spezial-aktenaufbereiter-erstpruefung-und-mandatsziel
-description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Aktenaufbereiter: Erstprüfung, Rollenklärung und Mandatsziel
@@ -17,6 +17,15 @@ Er führt durch **Erstprüfung, Rollenklärung und Mandatsziel** im Themenfeld *
 - Rolle des Beschuldigten/Mandanten: § 136 StPO (Belehrung, Schweigerecht), § 137 StPO (Verteidigerwahl).
 - Verständigung im Strafverfahren: § 257c StPO – Mandatsziel früh festlegen, weil Verständigung später strategisch wichtig wird.
 - Praxis-Tipp: Schon bei der Erstprüfung Frist zur Stellungnahme und Hauptverhandlungstermine in die Aktenvorblatt-Übersicht aufnehmen; Mandatsziel (Einstellung, Freispruch, Strafmildereung, Bewährung) schriftlich mit Mandant abstimmen.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Aktenaufbereiter.
+- **Arbeitsfokus:** Erstprüfung, Rollenklärung und Mandatsziel.
+- **Plugin-Rahmen:** Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie;....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

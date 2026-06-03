@@ -44,7 +44,7 @@ Für jeden Trade-Dress-Bestandteil prüfen:
 
 Für Product Configuration Trade Dress immer erforderlich:
 
-**Faktoren für Secondary Meaning (McCarthy on Trademarks):**
+**Beweisfaktoren für Secondary Meaning:**
 1. Duration and exclusivity of use
 2. Advertising expenditure
 3. Sales volume
@@ -82,14 +82,11 @@ Das charakteristische elfenbeinfarbene und graphit-graue Raumkonzept aller klôt
 ### Konstellation 3: Red Sole Analogie — Louboutin-Linie in USA
 Bezugnahme auf Christian Louboutin SA v. YSL America Holdings (2d Cir. 2012): roter Farbakzent als Trade Dress (bei Kontrastwirkung) schutzfähig. klôtzzkètté-Analogie: goldener Streifen an Slingback-Schuh-Innenseite als US Trade Dress.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- McCarthy on Trademarks, Vol. 1, §§ 8:1 ff. (Trade Dress, Secondary Meaning)
-- Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000)
-- Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992)
-- TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001)
-- Christian Louboutin SA v. Yves Saint Laurent Am. Holdings Inc., 696 F.3d 206 (2d Cir. 2012)
-- Qualitex Co. v. Jacobson Prods. Co., 514 U.S. 159 (1995) — Farbmarke US
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 
@@ -147,3 +144,12 @@ Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
 > **Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992):** Trade Dress, das inherently distinctive ist (hier: Restaurantambiente), ist ohne Secondary-Meaning-Nachweis schutzfaehig nach § 43(a) Lanham Act; das Zurueckgreifen auf inherent distinctiveness setzt voraus, dass das Trade Dress nicht funktional ist.
 
 > **TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23 (2001):** Ein Trade-Dress-Merkmal, das durch ein abgelaufenes Patent als funktional erklaert wurde, ist als wettbewerbsrechtlich freizuhaltendes Element nicht schutzfaehig; das Ablaufen des Patents ist starkes Indiz fuer Funktionalitaet — Registrierung sollte daher vor Patent-Expiry geprueft werden.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

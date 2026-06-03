@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 59 KB) | PDF | [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 57 KB) | PDF | [`gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf`](gesamt-pdf/europarecht-kompass-beihilfe-richtlinie_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-europarecht-kompass-beihilfe-richtlinie.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-europarecht-kompass-beihilfe-richtlinie.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

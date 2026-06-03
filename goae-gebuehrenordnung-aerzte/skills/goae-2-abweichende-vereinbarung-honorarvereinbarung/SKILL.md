@@ -5,34 +5,101 @@ description: "GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die
 
 # GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung
 
-## Einsatz
-Nutze diesen Skill im Plugin **GOÄ Gebührenordnung für Ärzte**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Gebührenordnung für Ärzte mit Schwellenwerten, Steigerungssätzen, Analogabrechnung, Zielleistungsprinzip, Auslagen, Wahlleistungen, PKV/Beihilfe und Honorarstreit.
+§ 2 GOÄ erlaubt eine vom Regelfall abweichende Honorarvereinbarung — typischer Anwendungsfall: Steigerungsfaktor über dem Schwellenwert (3,5-fach für persönliche, 2,5-fach für technische, 1,3-fach für Labor). Strikte Formvorgaben: vor Behandlungsbeginn, schriftlich, persönlich vom Patienten unterzeichnet, mit Hinweis auf abweichende Vereinbarung. Verstösse machen die Vereinbarung unwirksam — Erstattung durch PKV oder Beihilfe meist verweigert.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: GOÄ § 2 abweichende Vereinbarung Honorarvereinbarung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: GOÄ §§ 1-14 und Anlage, BGB Behandlungsvertrag §§ 630a ff., PKV/Beihilfe-Regelungen, Berufsrecht, aktuelle GOÄ-Reformhinweise..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Praxis will Honorarvereinbarung über Schwellenwert hinaus treffen.
+- PKV verweigert Erstattung wegen "fehlender Schriftform" der Vereinbarung.
+- Patient widerruft Honorarvereinbarung.
+- Streit über Wirksamkeit einer mündlichen Absprache.
+- Wahlleistungsvereinbarung Krankenhaus + GOÄ-Honorar (Abgrenzung § 6a GOÄ vs. § 2 GOÄ).
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+Eingaben:
+- Bestehende oder geplante Honorarvereinbarung (Vorlage).
+- Datum der Behandlung / Unterzeichnung.
+- Korrespondenz Patient–PKV.
+- ggf. Aufklärungsdokumentation.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Rechtlicher Rahmen
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+- **§ 2 GOÄ:** Abweichende Vereinbarung über die Höhe der Vergütung — Schriftform, vor Erbringung, individuelle Vereinbarung; keine standardisierten Klauseln.
+- **§ 2 Abs. 1 S. 2 GOÄ:** Mindestinhalt — Bezeichnung Leistung, abweichender Gebührensatz, Hinweis dass Vereinbarung über den Schwellenwert hinausgeht.
+- **§ 2 Abs. 2 GOÄ:** Aushang Möglichkeit der abweichenden Vereinbarung in Praxis (vom Anwender Stand zu verifizieren).
+- **§ 305c BGB:** Überraschende Klauseln in AGB unwirksam.
+- **§§ 305 ff. BGB:** AGB-Kontrolle — Honorarvereinbarung als Individualabrede einzuordnen.
+- **§ 5 GOÄ:** Bemessung — Regelfall innerhalb Schwellenwert.
+- BGH staend. Rspr. zur Wirksamkeit § 2-Vereinbarungen, insb. Schriftform und vorheriger Abschluss.
+
+## Workflow / Schritt für Schritt
+
+1. **Geplanter Steigerungsfaktor:** Über oder unter Schwellenwert (2,3; 1,8; 1,15)?
+2. **Falls darüber — § 2 GOÄ-Vereinbarung nötig.**
+3. **Form:** Schriftlich, persönlich unterzeichnet — keine elektronische Signatur ohne qualifizierte Signatur des Patienten (vom Anwender zu verifizieren).
+4. **Zeitpunkt:** Vor Erbringung der Leistung. Spätere Vereinbarung ist regelmässig unwirksam.
+5. **Inhalt:**
+   - Konkrete Leistung (Ziffer, Bezeichnung).
+   - Steigerungsfaktor und resultierender Betrag.
+   - Hinweis "Diese Vereinbarung weicht von den Gebührensätzen der GOÄ ab".
+   - Hinweis auf voraussichtliche fehlende Erstattung durch PKV/Beihilfe oberhalb des Schwellenwerts.
+6. **Individualität:** Keine Massentechnik — Patient muss konkret zustimmen.
+7. **Erstattungsfähigkeit:** PKV/Beihilfe erstatten regelmässig nur bis Schwellenwert ohne Bedingung; Mehrbetrag oft nicht.
+8. **Dokumentation:** Original in Patientenakte.
+
+## Trade-off-Matrix
+
+| Fallgruppe | § 2 GOÄ erforderlich | Erstattung | Risiko |
+|---|---|---|---|
+| Steigerung bis Schwellenwert (2,3) | nein | regelmässig voll | gering |
+| Steigerung über Schwellenwert (3,5-fach) | ja, schriftlich | nur bei besonderer Begründung | hoch ohne Vereinbarung |
+| Höchstsatz Labor (1,3) überschritten | ja | meist nicht | hoch |
+| Wahlleistung Krankenhaus | gesondert § 6a + Wahlvereinbarung | nach Wahlvereinbarung | mittel |
+| Wunschleistung (IGel) | gesondert IGel-Aufklärung | nicht durch Kasse | gering bei Doku |
+| Auslandsbehandlung | wie inland | nach Tarif | mittel |
+
+## Praxistipps
+
+- Honorarvereinbarung niemals "blanket" — Patient muss verstehen, was er unterschreibt.
+- Standardklauseln in Praxis-AGB sind regelmässig unwirksam (§ 305c BGB).
+- Faktorenangabe konkret, keine "bis zu"-Formulierung.
+- Patient ausdrücklich auf voraussichtliche fehlende PKV-Erstattung hinweisen (§ 630c BGB-Aufklärungspflicht).
+- Kopie an Patient aushändigen, Original Praxis.
+- Bei Beihilfe-Berechtigten: Beihilfe-Tarif kennt regelmässig nur den Schwellenwert; Mehrbetrag aus eigener Tasche.
+
+## Mustertexte
+
+### Honorarvereinbarung § 2 GOÄ (Auszug)
+"Honorarvereinbarung gemäss § 2 GOÄ. Zwischen [Patient, Anschrift, Geb.-Datum] und [Arzt, Anschrift] wird vereinbart: Die in der Anlage 1 aufgeführten Leistungen werden mit einem Gebührensatz von [Faktor], d. h. [EUR] berechnet. Dies weicht von den Regelsätzen der GOÄ ab (Schwellenwert 2,3 für persönliche, 1,8 für technische, 1,15 für Labor). Ich, der/die Patient:in, bin darüber aufgeklärt, dass meine Krankenversicherung diese erhöhte Vergütung ggf. nicht oder nicht vollständig erstattet. Eine Erstattungs- oder Kostenzusage liegt mir nicht vor. Die Vereinbarung ist vor Beginn der Behandlung individuell abgeschlossen. Ort, Datum, Unterschrift Patient:in / Arzt."
+
+### Hinweis an Patient zur PKV-Erstattung (Auszug)
+"Bitte beachten Sie: Die im Folgenden vereinbarten Honorare können den von Ihrer privaten Krankenversicherung erstatteten Betrag übersteigen. Wir empfehlen, die Erstattungsfähigkeit vor Behandlungsbeginn bei Ihrer Versicherung anzufragen. Die Differenz tragen Sie selbst."
+
+## Typische Fehler
+
+- Honorarvereinbarung erst nach Behandlung unterschrieben — unwirksam.
+- Standardklausel in Praxis-AGB — Massentechnik, unwirksam.
+- "Bis zu 3,5-fach"-Formulierung — nicht hinreichend bestimmt.
+- Aufklärung über fehlende Erstattung fehlt — § 630c BGB-Verletzung.
+- Vereinbarung ohne konkrete Leistungsangabe — unwirksam.
+- Patient unterschreibt unter Zeitdruck im Empfang — Anfechtungsrisiko.
+
+## Querverweise
+
+- `goae-5-bemessung-gebuehrenrahmen-2-3-1-8-1-15-schwelle` (Schwellenwert)
+- `steigerungssatz-begruendung-individuell-patientenbezogen` (Begründung)
+- `begruendung-ueber-schwellenwert-redigieren` (Begründungstexte)
+- `gebuehrenrahmen-schwellenwert-ampel` (Ampel)
+- `igel-aufklaerung-kosteninformation` (IGel)
+- `wahlleistungsvereinbarung-krankenhaus-goae` (Wahlleistung KH)
+- `erstattung-pkv-vs-honoraranspruch-patient` (PKV-Erstattung)
+
+## Quellen Stand 06/2026
+
+- GOÄ § 2, § 5, § 6a.
+- BGB §§ 305 ff., 630a–630h.
+- BGH staend. Rspr. zur Honorarvereinbarung (Schriftform, vorheriger Abschluss, Individualität).
+- Berufsordnung Ärztekammer.
+- GOÄ-Reform 2024/2025 — vom Anwender Aktualität zu verifizieren.
+- PKV-Verband — Hinweise zur Erstattung von Honorarvereinbarungen (informativ).

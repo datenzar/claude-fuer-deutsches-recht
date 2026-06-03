@@ -1,0 +1,265 @@
+# Solo-Selbstständige Praxis
+
+<!-- BEGIN plugin-sofort-download-section (autogen) -->
+## ⬇️ Sofort-Downloads
+
+Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktuelle Version (`latest`-Release).
+
+### Plugin als ZIP
+
+| Inhalt | Download |
+| --- | --- |
+| **Dieses Plugin** (`solo-selbststaendige-praxis`) | [`solo-selbststaendige-praxis.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/solo-selbststaendige-praxis.zip) |
+
+### Demonstrations-Akten
+
+| Akte | PDF lesen | Akten-ZIP |
+| --- | --- | --- |
+| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
+
+<!-- END plugin-sofort-download-section (autogen) -->
+
+Ein Alltags-Cockpit für Menschen, die alleine selbstständig arbeiten und trotzdem mit Finanzamt, Kunden, Krankenkasse, DRV, KSK, Datenschutz, Verträgen, Rechnungen, Mahnungen und dem eigenen Kontostand klarkommen müssen.
+
+Das Plugin ist bewusst praktisch: Es fragt zuerst, ob die Person Anfängerin/Anfänger ist, ob es Haupt- oder Nebenerwerb ist, ob Gewerbe oder Freiberuf in Betracht kommt, ob gerade eine Frist läuft und ob ein Dokument vorliegt. Danach erzeugt es keine Wolke aus Ratschlägen, sondern ein konkretes Ergebnis: Mail, Checkliste, Rechnungstext, Vertragsbaustein, Statusmatrix, Fristenlog oder Entscheidungsmemo.
+
+## Kaltstart
+
+Starte mit `solo-allgemeiner-kaltstart`. Lade, wenn vorhanden, Behördenbriefe, Rechnungen, Vertragsentwürfe, E-Mails, Screenshots von Plattformen, ELSTER-/KSK-/DRV-Schreiben und eine einfache Umsatz-/Kostenübersicht hoch. Das Plugin sortiert erst die Lage und schlägt dann die passenden Spezialskills vor.
+
+## Typische Fragen
+
+- Muss ich ein Gewerbe anmelden oder bin ich freiberuflich tätig?
+- Wie fülle ich den Fragebogen zur steuerlichen Erfassung aus?
+- Kleinunternehmerstatus oder Regelbesteuerung?
+- Ist mein Auftrag ein Scheinselbstständigkeitsrisiko?
+- Welche Rechnung brauche ich für deutsche, EU- oder Drittlandskunden?
+- Was mache ich, wenn ein Kunde nicht zahlt?
+- Welche Versicherungen und Rücklagen sind wirklich dringend?
+- Wie organisiere ich Datenschutz, Website, Newsletter und KI-Tools klein, aber ordentlich?
+
+## Amtliche Startquellen
+
+- [GewO § 14 Gewerbeanzeige](https://www.gesetze-im-internet.de/gewo/__14.html)
+- [ELSTER Fragebogen steuerliche Erfassung Einzelunternehmen](https://www.elster.de/eportal/formulare-leistungen/alleformulare/fseeun)
+- [ELSTER Unternehmensgründung](https://www.portal.elster.de/elsterweb/infoseite/unternehmensgruendung)
+- [UStG § 19 Kleinunternehmerregelung](https://www.gesetze-im-internet.de/ustg_1980/__19.html)
+- [SGB IV § 7 Beschäftigung](https://www.gesetze-im-internet.de/sgb_4/__7.html)
+- [DRV Statusfeststellung](https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Arbeitnehmer-und-Selbststaendige/03_Selbststaendige/statusfeststellungsverfahren.html)
+- [Künstlersozialkasse Voraussetzungen](https://www.kuenstlersozialkasse.de/kuenstler-und-publizisten/voraussetzungen)
+- [Bundesagentur für Arbeit Gründungszuschuss](https://www.arbeitsagentur.de/arbeitslos-arbeit-finden/arbeitslosengeld/gruendungszuschuss-beantragen)
+
+## Quellenhygiene
+
+Grenzwerte, Formulare, Fristen und Förderbedingungen ändern sich. Das Plugin soll deshalb bei aktuellen Zahlen immer auf amtliche Quellen verweisen und unsichere Annahmen ausdrücklich markieren. Keine Blindzitate, keine Paywall-Literatur als Scheinbeleg.
+
+<!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
+
+## Alle Skills im Ueberblick
+
+Automatisch generierte Komplett-Liste aller 200 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+
+| Skill | Beschreibung |
+| --- | --- |
+| `solo-13-wochen-liquiditaetsplan` | Solo-Selbstständige: erstellt realistischen Cashplan mit Steuern, Versicherungen und Zahlungslücken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-abmahnung-erhalten` | Solo-Selbstständige: sortiert UWG/Urheber/Marke/DSGVO-Abmahnung und Fristen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-abschluss-vor-abgabe` | Solo-Selbstständige: macht den finalen Selbstcheck vor Vertrag, Rechnung, Behördenantwort oder Upload; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-agb-fuer-kleine-selbststaendige` | Solo-Selbstständige: erstellt schlanke AGB ohne unwirksame Überdehnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-agenturmodell` | Solo-Selbstständige: prüft Leadagentur, Durchreichen, Marge, Haftung und Subunternehmer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-allgemeiner-kaltstart` | Solo-Selbstständige: ordnet Tätigkeit, Branche, Haupt-/Nebenerwerb, Umsätze, Risiken und erste To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-altersvorsorge-mindestplan` | Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mit Liquiditätsrealismus; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-anfaenger-modus` | Solo-Selbstständige: erklärt Begriffe wie Freiberuf, Gewerbe, Rechnung, Umsatzsteuer und Gewinn ohne Fachnebel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-angebot-in-auftrag-verwandeln` | Solo-Selbstständige: macht aus WhatsApp, Telefonat oder E-Mail ein belastbares Angebot mit Scope; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-anlagevermoegen-abschreibung` | Solo-Selbstständige: ordnet Laptop, Kamera, Werkzeug, Software, GWG und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-anwalt-freier-mitarbeiter` | Solo-Selbstständige: ordnet freie Mitarbeit, Kanzleieingliederung und Berufsrecht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-arbeitnehmeraehnliche-selbstaendige` | Solo-Selbstständige: prüft im DRV-Raster Auftraggeberkonzentration und Mitarbeitende; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-archiv-und-aufbewahrung` | Solo-Selbstständige: plant Aufbewahrung, Export und Löschung beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-aufbewahrung-loeschung` | Solo-Selbstständige: plant handels-/steuerliche Aufbewahrung und datenschutzrechtliche Löschung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-auftrag-kuendigen-in-krise` | Solo-Selbstständige: prüft faire Beendigung ohne Folgeschaden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-auslandreise-auftrag` | Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-avv-mit-tools` | Solo-Selbstständige: prüft Auftragsverarbeitung mit Cloud, Kalender, CRM, Projekttools und KI; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-barrierefreiheit-und-bfsg` | Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-barzahlung-und-kassenrisiko` | Solo-Selbstständige: prüft Barzahlung, Quittung, Kassenpflicht und Geldwäsche-Bauchgefühl; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-behoerdenbrief-verstehen` | Solo-Selbstständige: übersetzt Finanzamt, Gewerbeamt, Krankenkasse oder DRV-Brief in To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-beleganforderung` | Solo-Selbstständige: fordert fehlende Belege freundlich und vollständig an; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-beratungsgrenze-keine-rechtsberatung` | Solo-Selbstständige: prüft RDG-/Berufsgrenzen, wenn Solo-Selbstständige anderen rechtlich helfen wollen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-beratungshaftung` | Solo-Selbstständige: prüft Erwartung, Dokumentation, Disclaimer und Grenzen der Beratung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-berufsgenossenschaft-anmeldung` | Solo-Selbstständige: prüft BG-Anmeldung, Unfallversicherung und Beschäftigtenrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-berufshaftpflicht` | Solo-Selbstständige: prüft Pflicht, Bedarf, Deckungssumme, Ausschlüsse und Projektanforderungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-berufsunfaehigkeit-und-krankheit` | Solo-Selbstständige: plant Absicherung bei Krankheit, BU, Krankentagegeld und Ausfallhonorar; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-betriebsausgaben-pruefen` | Solo-Selbstständige: ordnet typische Ausgaben, gemischte Aufwendungen und Nachweispflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-betriebshaftpflicht` | Solo-Selbstständige: ordnet Personen-/Sachschäden, Veranstaltung und Mietsachschäden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-betriebspruefung-kleinunternehmen` | Solo-Selbstständige: bereitet kleine Betriebsprüfung oder Nachschau mit Belegpfad vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-beweisakte-fuer-streit` | Solo-Selbstständige: baut chronologische Beweisakte aus Mail, Chat, Rechnung, Ergebnis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-beweisvorsorge` | Solo-Selbstständige: sichert Briefing, Freigaben, Änderungswünsche, Abnahmen und Chatbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-bewertungen-und-rezensionen` | Solo-Selbstständige: prüft negative Bewertungen, Fake Reviews und Antwortstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-bewirtung-geschenke-repraesentation` | Solo-Selbstständige: sortiert Bewirtung, Geschenke, Kundentermine und Abzugsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-cloud-ordner-und-dateinamen` | Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-coach-berater-trainer` | Solo-Selbstständige: prüft Coaching/Training, persönliche Leistung und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-coach-trainer` | Solo-Selbstständige: prüft B2C/B2B, Widerruf, Haftung, Datenschutz und Zertifikatsversprechen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-controlling-dashboard` | Solo-Selbstständige: baut Monatsdashboard mit Umsatz, Marge, OPOS, Pipeline und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-cookie-consent-realistisch` | Solo-Selbstständige: prüft Tracking, Consent-Banner, Matomo/GA und Einwilligungsnachweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-crm-fuer-kleine` | Solo-Selbstständige: ordnet Leads, Kundenstatus, Folgeaktionen und Datenschutz im Mini-CRM; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-cyberversicherung` | Solo-Selbstständige: prüft Cyberrisiko, Datenpanne, Betriebsunterbrechung und Obliegenheiten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-d-and-o-fuer-einzelne` | Solo-Selbstständige: klärt wann D&O/Managementhaftung bei UG/GmbH sinnvoll wird; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-datenpanne-kleinbetrieb` | Solo-Selbstständige: ordnet Datenpanne, Meldefrist, Kundeninformation und Schadensminderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-datev-lohnbuchhaltung-briefing` | Solo-Selbstständige: erstellt Übergabepaket für Lohnbüro; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-design-und-logo-rechte` | Solo-Selbstständige: prüft Logoerstellung, Rechtekette, Fonts, Stockmaterial und Übergabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-deutsch-englischer-vertrag` | Solo-Selbstständige: warnt vor False Friends und legt deutsches Recht sauber fest; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-digital-nomad-risiko` | Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-digitale-produkte-und-kurse` | Solo-Selbstständige: prüft Downloads, Onlinekurse, Widerruf, Zugang und Nutzungsrechte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-diskriminierung-und-kundenwahl` | Solo-Selbstständige: prüft AGG-/Hausrechts-/Vertragsfreiheit bei schwierigen Kunden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-domain-marke-name` | Solo-Selbstständige: prüft Name, Domain, Marke, Unternehmenskennzeichen und Kollisionsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-drv-statusfeststellung-paragraph-7a` | Solo-Selbstständige: bereitet Statusfeststellungsverfahren mit Belegen und Argumentmatrix vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-e-rechnung-b2b` | Solo-Selbstständige: prüft E-Rechnungspflichten, Empfangsfähigkeit und Übergangslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ein-auftraggeber-risiko` | Solo-Selbstständige: prüft wirtschaftliche Abhängigkeit und Gegenmaßnahmen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-einkommensteuer-vorauszahlungen` | Solo-Selbstständige: prüft Vorauszahlungen, Liquidität und Änderung der Vorauszahlung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-entscheidungsvermerk` | Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-erste-minijob-hilfe` | Solo-Selbstständige: prüft Minijob, Anmeldung, BG, Lohnkonto und Weisungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ethik-und-reputation` | Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-eu-oss-und-digitale-leistungen` | Solo-Selbstständige: prüft OSS/MOSS-Logik bei digitalen Leistungen an Verbraucher; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-euer-starten` | Solo-Selbstständige: richtet Einnahmen-Überschuss-Rechnung, Kategorien und Beleglogik ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-event-dj-kuenstler` | Solo-Selbstständige: prüft GEMA, KSK, Ausfallhonorar, Technik und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-fahrzeug-reisekosten-kilometer` | Solo-Selbstständige: prüft Fahrtenbuch, Kilometerpauschale, gemischte Nutzung und Reisekosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-familienversicherung-und-nebenjob` | Solo-Selbstständige: prüft Familienversicherung, Minijob, Teilzeitjob und Grenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-finanzamt-fragebogen-steuerliche-erfassung` | Solo-Selbstständige: bereitet ELSTER-Fragebogen, Schätzwerte, Bankdaten und Tätigkeitsbeginn vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-foerdermittel-und-zuschuesse` | Solo-Selbstständige: prüft Gründungszuschuss, Landesprogramme, KfW und Beratungsförderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-food-catering` | Solo-Selbstständige: prüft Hygiene, Genehmigung, Veranstaltung, AGB und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-fotograf-videograf` | Solo-Selbstständige: prüft Model Releases, Bildrechte, Drohne, Datenschutz und Nutzungsumfang; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-freelancer-einkaufen` | Solo-Selbstständige: erstellt Subunternehmer-Check mit Rechtekette und Statusrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-fremdmaterial-check` | Solo-Selbstständige: prüft Zitate, Screenshots, Stock, Open Source und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-freundliche-zahlungserinnerung` | Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-fristenlog-behoerden` | Solo-Selbstständige: baut ein Fristenlog für ELSTER, Steuer, BG, KSK, DRV und Widerspruch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-gbr-mit-anderen` | Solo-Selbstständige: prüft GbR, Außenhaftung, Gesellschaftsvertrag und eGbR-Frage; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-geldwaesche-und-sanktionen-mini` | Solo-Selbstständige: sensibilisiert bei ungewöhnlichen Zahlungen, Auslandskunden und Sanktionsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-genehmigung-erlaubnis-zulassung` | Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-geschaeftskonto-und-zahlungsfluss` | Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Trennung, Belegverknüpfung und Zahlungsroutine; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-geschaeftsmodell-drehen` | Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-gesundheit-arbeitszeit-selbstschutz` | Solo-Selbstständige: plant Arbeitslast, Krankheit, Urlaub und Lieferfähigkeit ohne Selbstausbeutung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-gewerbe-oder-freiberuf` | Solo-Selbstständige: prüft Gewerbe, freier Beruf, gemischte Tätigkeit und Finanzamtsargumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-gewerbeanmeldung-paragraph-14-gewo` | Solo-Selbstständige: führt durch Anzeige nach § 14 GewO, Ummeldung und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-gewerbesteuer-freibetrag-und-messbetrag` | Solo-Selbstständige: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-grafikdesign-agentur` | Solo-Selbstständige: prüft Designauftrag, Rechte, Referenzen, KSK und Kundenfreigaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-grosskunde-bricht-weg` | Solo-Selbstständige: erstellt Sofortplan Pipeline, Kosten, Forderungen und Finanzierung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-haftungsbegrenzung-klauseln` | Solo-Selbstständige: entwirft wirksame Haftungsbegrenzung ohne AGB-Falle; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-handwerk-montage` | Solo-Selbstständige: prüft Gewerbe, Handwerksrolle, VOB/B, Mängel und Arbeitsschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-heilberuf-nebenpraxis` | Solo-Selbstständige: prüft Berufsrecht, Heilmittelwerbung, Datenschutz und Abrechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-homeoffice-und-arbeitszimmer` | Solo-Selbstständige: prüft häusliche Arbeitsstätte, Pauschalen und Belegstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-honorar-pauschal-stunde-retainer` | Solo-Selbstständige: prüft Pauschale, Stundenhonorar, Retainer, Erfolgskomponente und Nachtragslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-honorarlehrkraft-musikschule` | Solo-Selbstständige: prüft Lehrkräfte, Kursplan, Material, Vertretung und Schulorganisation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-inkasso-pruefen` | Solo-Selbstständige: prüft Inkassodienstleister, Kosten, RDG und Reputationsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-insolvenzrisiko-einzelunternehmer` | Solo-Selbstständige: prüft Zahlungsfähigkeit, Verbraucher-/Regelinsolvenz und Freigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-it-basisschutz-solo` | Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-it-freelancer` | Solo-Selbstständige: prüft Projektvertrag, Code-Rechte, Scheinselbstständigkeit, Datenschutz und Open Source; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-it-freelancer-projekt` | Solo-Selbstständige: prüft IT-Projektvertrag, Weisungen, Sprintplanung, Abnahme und Ergebnisverantwortung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-jahresabschluss-vorbereitung` | Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-journalist-autor-publizist` | Solo-Selbstständige: prüft KSK, Nutzungsrechte, Quellen, Pressefreiheit und Honorare; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kalender-fristen-und-reminder` | Solo-Selbstständige: richtet Fristen, Wiedervorlagen, Steuertermine und Kundenabnahmen ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kammer-ihk-handwerkskammer` | Solo-Selbstständige: prüft IHK/HWK, freie Berufe und Handwerksrollenrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-keine-unnoetigen-aussagen` | Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, nur Erforderliches sauber mitzuteilen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ki-bilder-und-prompts` | Solo-Selbstständige: prüft KI-Bilder, Trainingsdatenrisiko, Lizenz und Kundenfreigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ki-generierte-inhalte-kennzeichnung` | Solo-Selbstständige: ordnet KI-Content, Urheberrecht, Transparenz und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ki-output-fuer-kunden` | Solo-Selbstständige: prüft Kennzeichnung, Rechte, Fehlerkontrolle und Haftung bei KI-Arbeitsergebnissen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ki-tools-sicher-nutzen` | Solo-Selbstständige: prüft Datenkategorien, Geheimnisse, AVV, Drittlandtransfer und Promptdisziplin; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ki-upload-schutz` | Solo-Selbstständige: entscheidet, was nicht in KI-Systeme gehört; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kleinunternehmer-paragraph-19-ustg` | Solo-Selbstständige: prüft die aktuelle Kleinunternehmerregelung mit Umsatzgrenzen und Opt-out; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kostenstop-und-sparplan` | Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-krankenversicherung-selbstaendig` | Solo-Selbstständige: prüft gesetzlich/privat, Mindestbeitrag, Krankengeld und Nebenjob; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-krankheit-und-ausfall` | Solo-Selbstständige: plant Kundenkommunikation, Fristen, Vertretung und Einnahmeausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-krisenampel` | Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ksk-kuenstler-publizisten` | Solo-Selbstständige: prüft KSK-Voraussetzungen, Nachweise, Mindestarbeitseinkommen und Berufsanfänger; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kuendigung-und-projektabbruch` | Solo-Selbstständige: plant Kündigung, Teilvergütung, Herausgabe, Daten und offene Rechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kunde-aus-drittland` | Solo-Selbstständige: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kunde-aus-eu` | Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kunde-reklamiert` | Solo-Selbstständige: ordnet Mangelrüge, Abnahme, Kulanz und Beweislast; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kundenakten-datenschutz` | Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kundenupdate` | Solo-Selbstständige: schreibt Statusmail mit nächstem Schritt und offener Mitwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-kundenvertrag-b2b` | Solo-Selbstständige: prüft Haftung, Nutzungsrechte, Verzug, Kündigung, Change Requests und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-leistung-zurueckbehalten` | Solo-Selbstständige: prüft Zurückbehaltungsrecht, Sperre, Herausgabe und Eskalationsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-leistungsbeschreibung-scope` | Solo-Selbstständige: schärft Leistungsumfang, Nichtleistungen, Mitwirkung und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-lieferung-waren-ausland` | Solo-Selbstständige: prüft Zoll, Incoterms, Versandrisiko und Rücksendung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-lizenzvertrag-mini` | Solo-Selbstständige: erstellt kleine Lizenz mit Laufzeit, Gebiet, Vergütung und Audit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-mahnbescheid-oder-klage` | Solo-Selbstständige: entscheidet zwischen Mahnverfahren, Klage, Inkasso und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-mahnung-mit-verzug` | Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-mandantenbrief-in-einfach` | Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-meeting-agenda` | Solo-Selbstständige: erstellt kurze Agenda für Kunde, Steuerberater oder Behörde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-minderjaehrige-kunden` | Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Datenschutz und Zahlung mit Minderjährigen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-mobile-arbeitsweise` | Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-monatlicher-rechtscheck` | Solo-Selbstständige: führt einen wiederkehrenden Monatscheck für Fristen, Geld, Aufträge und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-musik-video-podcast` | Solo-Selbstständige: prüft GEMA, Leistungsschutz, Samples, Podcast-Rechte und Plattformen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-mutterschutz-elterngeld-selbststaendige` | Solo-Selbstständige: ordnet Elterngeld, Mutterschutz-ähnliche Planung und Liquidität; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-nachfolge-und-vertretung` | Solo-Selbstständige: plant Stellvertretung, Vollmachten, Passwortzugang und Notfallmappe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-nda-vor-kundenpitch` | Solo-Selbstständige: ordnet Verschwiegenheit, Pitch-Unterlagen, Ideen und Referenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-nebenjob-hauptjob-abgrenzung` | Solo-Selbstständige: prüft Nebenerwerb, Arbeitgeberpflichten, Wettbewerbsverbote und Zeitkonflikte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-negative-bewertung-nach-streit` | Solo-Selbstständige: reagiert auf Bewertung ohne Eskalationsfehler; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-neustart-checkliste` | Solo-Selbstständige: ordnet Re-Start mit sauberer Anmeldung, Finanzen und Verträgen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-newsletter-und-mailingliste` | Solo-Selbstständige: prüft Einwilligung, Double-Opt-In, Nachweis und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-notfallmodus-es-brennt` | Solo-Selbstständige: ordnet Mahnung, Behördenbrief, Kunde droht, Konto leer oder Frist läuft; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-online-shop-kleinstart` | Solo-Selbstständige: prüft Shop-Pflichten, Widerruf, Preisangaben, Versand und Zahlungsarten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-opos-liste` | Solo-Selbstständige: erstellt offene-Posten-Liste mit Fälligkeit, Kunde, Beleg, Eskalation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ordnerstruktur` | Solo-Selbstständige: ordnet Drive/Cloud nach Steuern, Kunden, Verträgen, Belegen und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-papierpost-scannen` | Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit Frist, Quelle und Ablageort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-partnernetzwerk` | Solo-Selbstständige: regelt Kooperation, Provision, Kundenschutz und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-passwortmanager-und-zwei-faktor` | Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-Codes und Gerätewechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-pauschalpreis-risiko` | Solo-Selbstständige: prüft Pauschalpreise gegen Scope Creep und Nachtragsbedarf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-personalakte-kleinstart` | Solo-Selbstständige: ordnet erste Beschäftigte, Datenschutz und Dokumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-plattform-agb-lesen` | Solo-Selbstständige: übersetzt Plattform-AGB, Gebühren, Sperren und Auszahlungsvorbehalte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-plattformarbeit` | Solo-Selbstständige: prüft Plattformvorgaben, Algorithmussteuerung, Bewertungssysteme und Status; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-plattformzahlungen-und-rechnungen` | Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-portfolio-und-case-study` | Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-prioritaetenplan-erste-14-tage` | Solo-Selbstständige: erstellt einen Zweiwochenplan für Anmeldung, Konto, Vertrag, Rechnung und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-private-und-betriebliche-schulden` | Solo-Selbstständige: trennt Konten, Pfändung, P-Konto und Betriebsfortführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-privatunterricht-nachhilfe` | Solo-Selbstständige: prüft Status, Datenschutz Minderjährige, AGB und Zahlungsmodell; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-problem-sortieren` | Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-produkthaftung-kleinhersteller` | Solo-Selbstständige: prüft Produkt, CE, Warnhinweise, Rückruf und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-profimodus-schnelltriage` | Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-quellensteuer-ausland` | Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ratenzahlung-finanzamt-kasse` | Solo-Selbstständige: erstellt vorsichtige Stundungs-/Ratenzahlungsunterlagen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-rechnung-pflichtangaben` | Solo-Selbstständige: prüft Rechnungsnummer, Leistungsdatum, Steuernummer, USt und Leistungsbeschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-rechte-bei-subunternehmern` | Solo-Selbstständige: sichert Rechtekette von freien Mitarbeitenden und Agenturen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-referenzen-und-kundenlogos` | Solo-Selbstständige: prüft Referenznutzung, Logo, Case Study und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-regelbesteuerung-entscheidung` | Solo-Selbstständige: vergleicht Kleinunternehmerstatus und Regelbesteuerung mit Kundenstruktur und Vorsteuer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-remote-freelancer-im-team` | Solo-Selbstständige: prüft agile Teams, Jira, Slack, Daily, Urlaub und Eingliederungsindizien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-rentenversicherungspflicht` | Solo-Selbstständige: prüft rentenversicherungspflichtige Selbstständigkeit und Berufsgruppen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-reverse-charge-ausland` | Solo-Selbstständige: ordnet EU-/Drittlandleistungen, Reverse Charge und Nachweistexte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-risikomemo-auftraggeber` | Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-risikoregister` | Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ruecklagen-steuern-versicherung` | Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-screenshots-fotos-rechte-daten` | Solo-Selbstständige: prüft Fotos, Screenshots, Chatverläufe und personenbezogene Daten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-skalierung-ohne-chaos` | Solo-Selbstständige: entscheidet zwischen mehr Preis, mehr Prozesse, Subunternehmer oder GmbH; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-social-media-werbung` | Solo-Selbstständige: prüft Werbung, Testimonials, Influencer-Hinweise und Irreführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-software-code-freelancer` | Solo-Selbstständige: regelt Softwareurheberrecht, Open Source, Repos und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-sozialrechtlicher-bescheid-widerspruch` | Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-sprache-und-uebersetzung` | Solo-Selbstständige: setzt klare Sprachregel für Angebot, Vertrag, Rechnung und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-standardvorlagen` | Solo-Selbstständige: erstellt Vorlagen für Angebot, Auftrag, Rechnung, Mahnung, Projektabschluss; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-statuscheck-sgb-iv-paragraph-7` | Solo-Selbstständige: prüft Weisung, Eingliederung, Unternehmerrisiko und Marktauftritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-steuerberater-briefing` | Solo-Selbstständige: erstellt Übergabepaket für Steuerberater ohne Belegchaos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-steuerluecke-erkennen` | Solo-Selbstständige: ordnet Steuerschulden, Stundung, Vollstreckung und Kommunikation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-steuernummer-und-ust-id` | Solo-Selbstständige: klärt Steuernummer, USt-IdNr., Auslandskunden und Rechnungsstart; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-stilllegung-und-ruhephase` | Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-storno-gutschrift-korrekturrechnung` | Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-streitpraevention-klauseln` | Solo-Selbstständige: baut klare Eskalation, Gerichtsstand, Rechtswahl und Beweislogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-stundensatz-kalkulation` | Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-subunternehmervertrag` | Solo-Selbstständige: regelt Freelancer, Unterauftrag, AVV, Rechte, Haftung und Scheinselbstständigkeit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-taetigkeit-beschreiben-ohne-falle` | Solo-Selbstständige: formuliert Tätigkeitsbeschreibung für Gewerbeamt, Finanzamt, Website und Vertrag; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-telefonnotiz` | Solo-Selbstständige: macht aus Telefonat eine beweistaugliche Notiz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-toolwechsel-und-datenexport` | Solo-Selbstständige: prüft Export, Kündigung, Datenportabilität und Beweisarchiv beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-ug-oder-gmbh-wechsel` | Solo-Selbstständige: bewertet Haftung, Kosten, Steuern, Register und Außenwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-umsatzpipeline` | Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinlichkeit und Monatsziel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-umsatzsteuer-fallen-digitalleistungen` | Solo-Selbstständige: prüft digitale Produkte, Kurse, Downloads, Mitgliedschaften und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-umsatzsteuer-voranmeldung` | Solo-Selbstständige: bereitet UStVA, Dauerfristverlängerung und Zahllastkontrolle vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-unfallversicherung-bg` | Solo-Selbstständige: prüft BG, freiwillige Versicherung und Tätigkeitsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-urheberrecht-auftrag` | Solo-Selbstständige: regelt Nutzungsrechte an Text, Design, Code, Foto und Musik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-veranstaltung-workshop-risiko` | Solo-Selbstständige: prüft Präsenzworkshop, Räume, Teilnehmende, Fotos und Unfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-verbrauchervertrag-b2c` | Solo-Selbstständige: prüft Widerruf, Fernabsatz, Informationspflichten und Preisangaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-vergleich-kleinfall` | Solo-Selbstständige: erstellt Vergleich mit Raten, Anerkenntnis, Kosten und Erledigung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-verkauf-des-geschaefts` | Solo-Selbstständige: prüft Asset-Deal, Kunden, Rechte, Daten und Gewährleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-verletzungsreaktion-ip` | Solo-Selbstständige: ordnet Takedown, Abmahnung, Beweise, Vergleich und Kosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-vertragsdurchsetzung-ausland` | Solo-Selbstständige: prüft Inkasso, Gerichtsstand, Mahnverfahren und Beweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-website-impressum-datenschutz` | Solo-Selbstständige: prüft Impressum, Datenschutzerklärung, Kontaktformular und Tracking; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-wo-bin-ich-gerade` | Solo-Selbstständige: erstellt eine Lagekarte vom Gedankenchaos bis zum konkreten nächsten Schritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-wochenreview` | Solo-Selbstständige: führt ein 30-Minuten-Wochenreview für Geld, Kunden, Belege und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-wohnadresse-geschaeftsadresse` | Solo-Selbstständige: klärt ladungsfähige Anschrift, Coworking, Impressum und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+| `solo-zahlungsziel-und-skonto` | Solo-Selbstständige: formuliert Zahlungsziel, Skonto, Verzug und klare Rechnungstexte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
+
+<!-- END SKILLS-OVERVIEW (auto-generated) -->

@@ -50,3 +50,12 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 - **Steuerklauseln:** Withholding Tax bei grenzüberschreitenden Lizenzen; § 50a EStG bei Vergütung an ausländische Lizenzgeber (Steuerabzug 15 %); DBA-Reduktion möglich.
 - **Insolvenzfeste Strukturierung:** § 103 InsO Wahlrecht des Insolvenzverwalters; bei "ausschließliche Lizenz" Schutz vor Wegfall durch Insolvenz prüfen (str.).
 - Falle: "Best efforts" in deutsches Recht — § 276 BGB Sorgfaltsmaßstab ist konkret zu definieren; "due diligence" reicht nicht ohne konkrete Pflichten.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

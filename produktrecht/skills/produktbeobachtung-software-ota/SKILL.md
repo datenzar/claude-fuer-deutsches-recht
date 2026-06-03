@@ -1,63 +1,47 @@
 ---
 name: produktbeobachtung-software-ota
-description: "Spezialfall Software- und OTA-Updates: Produktbeobachtungspflicht erstreckt sich auf Software, Verpflichtung zu Sicherheitsupdates nach § 327f BGB fuer digitale Produkte, GPSR-Pflichten zu Cybersicherheit. Pflichtenkatalog Hersteller und Vertragsklauseln zu Updatepflicht."
+description: "Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung."
 ---
 
-# Produktbeobachtung: Software/OTA
+# Produktbeobachtung: Software, OTA und Sicherheitsupdates
 
 ## Aufgabe
-Spezialfall Software- und OTA-Updates: Produktbeobachtungspflicht erstreckt sich auf Software, Verpflichtung zu Sicherheitsupdates nach § 327f BGB fuer digitale Produkte, GPSR-Pflichten zu Cybersicherheit.
 
+Dieser Skill behandelt Software und OTA-Updates als Teil der Produktverantwortung. Er verknüpft kaufrechtliche Aktualisierungspflichten, Produktsicherheit, Cybersecurity, Reparaturdaten und Haftungsprävention.
 
-## Fachlicher Arbeitskern
+## Sofort klären
 
-Dieser Skill ist kein allgemeiner Chat-Modus, sondern ein Arbeitswerkzeug fuer `produktrecht` zum Thema `produktbeobachtung-software-ota`. Ausgangspunkt ist immer die konkrete Aufgabe aus der Beschreibung: Spezialfall Software- und OTA-Updates: Produktbeobachtungspflicht erstreckt sich auf Software, Verpflichtung zu Sicherheitsupdates nach § 327f BGB fuer digitale Produkte, GPSR-Pflichten zu Cybersicherheit. Pflichtenkatalog Hersteller und Vertragsklauseln zu Updatepflicht..
+1. Welches Produkt: körperliche Ware, Maschine, IoT-Gerät, Software, App, digitales Fertigungsfile, Ersatzteil, refurbished/remanufactured Produkt oder Kombination?
+2. Welche Rolle: Hersteller, Importeur, Händler, Fulfilment-Dienstleister, Online-Marktplatz, Repairer, unabhängige Werkstatt, Softwareanbieter, Nutzer oder Geschädigter?
+3. Welche Spur: Produktsicherheit/Marktüberwachung, vertragliche Gewährleistung, ProdHaftG/Produzentenhaftung, Rückruf, Versicherung, Strafrecht, Right-to-Repair oder neues EU-Produkthaftungsrecht?
+4. Welche Zeit: Inverkehrbringen vor oder nach 13.12.2024 GPSR, Rechtsstand der nationalen Right-to-Repair-Umsetzung, Produkt nach dem 09.12.2026 für die neue Produkthaftungsrichtlinie?
+5. Welche Belege: technische Dokumentation, Risikoanalyse, CE, Gebrauchsanleitung, Update-Policy, Reparaturmanual, Ersatzteilliste, Feldbeobachtung, Incident-Tickets, Rückrufplan?
 
-Arbeite deshalb fallnah:
+## Rechtsanker
 
-1. **Falltyp erkennen:** Einordnung, ob es um Erstberatung, Anspruchs-/Pflichtenpruefung, Vertrags-/Bescheid-/Schriftsatzarbeit, Strategie oder Fristenrettung geht.
-2. **Entscheidungspunkte bilden:** Welche zwei bis fuenf Weichen entscheiden den Fall wirklich?
-3. **Belege anfordern:** Nur die Unterlagen nachfordern, die fuer diese Weichen gebraucht werden; keine Frageboegen um ihrer selbst willen.
-4. **Spezialwissen anwenden:** Die im Skill genannten Normen, Behoerden, Verfahrensarten, Branchenlogiken oder typischen Streitpunkte sichtbar abarbeiten.
-5. **Nutzbaren Output liefern:** Am Ende steht ein Memo, eine Matrix, ein Textbaustein, ein Schriftsatzgeruest, ein Mandantenbrief oder eine klare Naechste-Schritte-Liste.
+- Geltendes deutsches Recht: ProdHaftG, § 823 BGB, Produktsicherheitsrecht, Marktüberwachungsrecht, vertragliche Gewährleistung nach BGB.
+- GPSR: Verordnung (EU) 2023/988 gilt seit 13.12.2024 für allgemeine Produktsicherheit.
+- Right to Repair: Richtlinie (EU) 2024/1799, Umsetzungsstand live prüfen; sie ändert u. a. die Warenkaufrichtlinie (EU) 2019/771 und setzt auf Reparaturförderung, Reparaturinformationen/Formular/Plattform und Grenzen sachwidriger Reparaturhindernisse.
+- Neue Produkthaftung: Richtlinie (EU) 2024/2853, Umsetzung bis 09.12.2026; erfasst u. a. Software, digitale Fertigungsdateien und relevante digitale Dienste als Teil des Produkts.
+- Cyber-/Digital-Schnittstellen je nach Produkt zusätzlich CRA, KI-VO, Maschinenverordnung, Data Act, BatterieVO und sektorspezifische Regeln live prüfen.
 
-Wenn ein anderer Skill desselben Plugins genauer passt, schlage ihn aktiv vor und erklaere in einem Satz, warum der Wechsel die Arbeit beschleunigt.
+## Arbeitsprogramm
 
-## Kaltstart
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
+1. **Nicht alles Produkthaftung nennen.** Produktsicherheit/Behördenpflichten, zivilrechtliche verschuldensunabhängige Produkthaftung, deliktische Produzentenhaftung, vertragliche Gewährleistung und Reparaturrecht trennen.
+2. **Lebenszyklus denken.** Design, Herstellung, digitale Komponenten, Updates, Ersatzteile, Reparatur, Refurbishment, Rückruf, End-of-Support und Entsorgung erfassen.
+3. **Repair-by-design prüfen.** Hardware- und Software-Techniken, Teilekopplung, Pairing, Diagnosezugang, Ersatzteile, Manuals und IP-/Security-Rechtfertigungen bewerten.
+4. **Beweisakte bauen.** Versionen, Seriennummern, Firmwarestände, Update-Historie, Reparaturversuche, Schadensbilder, Kundenkommunikation und Behördenkontakte dokumentieren.
+5. **Output entscheidungsfähig machen.** Risikoampel, Maßnahmenplan, Behörden-/Kundenschreiben, Rückruf-/Repair-Plan, Vertragsklauseln oder Klage-/Abwehrmemo liefern.
 
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
+## Quellenhygiene
 
-## Pruefraster
+EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verwenden; insbesondere GPSR ist VO (EU) 2023/988, die BatterieVO ist VO (EU) 2023/1542. Keine BeckRS-/juris-/Kommentar-Blindzitate. Rechtsprechung nur verifiziert ausgeben.
 
-Der Skill erwartet folgenden inhaltlichen Aufbau im Output:
+## Spezialfragen
 
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `produktrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
+- Welche Version ist betroffen: Hardware, Firmware, App, Cloud, KI-Modell, digitaler Dienst?
+- Welche Updates waren vertraglich oder objektiv erforderlich?
+- Wurde der Nutzer über Update und Folgen einer Nichtinstallation informiert?
+- Zeigen Reparatur-/Werkstattdaten, Tickets oder Social Media ein Feldproblem?
+- Ist ein Repair-by-design-Problem entstanden, etwa Pairing oder Ersatzteilsperre?
+- Muss die Maßnahme Warnung, Update, Rückruf, Reparaturprogramm oder Vertriebsstopp sein?

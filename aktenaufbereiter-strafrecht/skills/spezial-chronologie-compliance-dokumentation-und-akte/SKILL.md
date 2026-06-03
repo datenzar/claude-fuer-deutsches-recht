@@ -1,6 +1,6 @@
 ---
 name: spezial-chronologie-compliance-dokumentation-und-akte
-description: "Chronologie: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Chronologie: Compliance-Dokumentation und Aktenvermerk im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Chronologie: Compliance-Dokumentation und Aktenvermerk
@@ -17,6 +17,15 @@ Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Ch
 - Hauptverhandlungsfristen: § 229 StPO (Unterbrechungsfristen), § 268 StPO (Urteilsverkündung spätestens 11. Tag).
 - Belastungs-/Entlastungstatsachen sauber trennen; § 160 Abs. 2 StPO verpflichtet die StA bereits im Ermittlungsverfahren zur Erhebung beider.
 - Praxis-Tipp: Chronologie zweispaltig führen – Spalte "Tatsache" mit Beleg-ID, Spalte "Beweismittel" mit Aktenfundstelle. Widersprüche zwischen Aussagen sofort mit Datum markieren; sie sind später für § 261 StPO (Beweiswürdigung) tragend.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Chronologie.
+- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
+- **Plugin-Rahmen:** Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie;....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

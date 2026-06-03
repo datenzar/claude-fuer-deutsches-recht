@@ -3,36 +3,57 @@ name: digital-services-dark-patterns-dsa-schnittstelle
 description: "Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065."
 ---
 
-# Digital Services: Dark Patterns DSA Schnittstelle
+# Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Anwaltliche Arbeit am Verbot manipulativer Schnittstellengestaltungen ("Dark Patterns") auf Online-Plattformen. Anwendbar in Konstellationen wie: irreführende Bestätigungsmuster bei Kündigung, asymmetrische Buttongröße ("Cookies akzeptieren" vs. "Ablehnen"), erschwerter Opt-Out, suggestive Voreinstellungen, FOMO-Banner, Drip-Pricing. Adressaten: BNetzA als DSC (Art. 25 DSA, § 22 DDG), Wettbewerbsbehörden, BfDI/Landesdatenschutzbehörden, Lauterkeitsgerichte. Der Skill steuert die parallele Strategie über DSA, UWG, DSGVO/TDDDG und ggf. DMA.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Konkrete UI-Konstellation (Screenshot, Click-Pfad, Wireframe).
+- Rolle: betroffene Plattform, Mitbewerber, Verband, Verbraucher.
+- Plattform-Typ (Online-Plattform, VLOP, DMA-Gatekeeper).
+- Bezugsmoment (Anmeldung, Kündigung, Cookie-Banner, In-App-Purchase, Werbungseinstellung).
+- Bestehende Untersuchungen oder Verfahren (BNetzA, EU-Kommission, Lauterkeitsgerichte).
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- Art. 25 DSA (Verbot irreführender Schnittstellen, "online interface design").
+- Leitlinien EDPS/EDPB zu Dark Patterns; Mitteilungen der EU-Kommission.
+- § 22 DDG (Befugnisse der BNetzA als DSC, Untersagung).
+- § 5 UWG (irreführende geschäftliche Handlungen), § 5a UWG (Vorenthalten wesentlicher Informationen), § 7 UWG (unzumutbare Belästigung).
+- Art. 4 Nr. 11, Art. 7 DSGVO (Einwilligung, kein Vorhakenkasten - vgl. EuGH Planet49 C-673/17).
+- § 25 TDDDG (Cookies und vergleichbare Technologien).
+- Art. 13 DMA (Gatekeeper-Pflichten zu fairer Vertragsgestaltung).
+- §§ 327a ff. BGB (Verbraucherverträge über digitale Produkte).
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **UI-Konstellation dokumentieren.** Screenshots in zeitlicher Abfolge, Beschriftung der Buttons, Maus-Hover-Effekte, Tab-Reihenfolge, Default-Werte.
+2. **Vergleichstest.** Symmetrieprüfung "Akzeptieren"/"Ablehnen": Schriftgröße, Farbe, Klick-Tiefe, Sprachklarheit. EuGH Planet49 (vorab-aktivierte Häkchen unzulässig).
+3. **Rechtsgrundlagen parallel prüfen.** Art. 25 DSA als Generalklausel; § 5 UWG / § 5a UWG bei Mitbewerber-Konstellation; DSGVO bei Einwilligungs-Konstellation; TDDDG bei Cookies.
+4. **Forum-Wahl.** BNetzA als DSC (Anzeige nach § 18 DDG, Aufsichtsverfahren); Datenschutzaufsicht (Beschwerde nach Art. 77 DSGVO); Lauterkeitsklage (UWG, einstweilige Verfügung).
+5. **Beweisplan.** A/B-Tests dokumentieren, User-Tests, Eye-Tracking-Studien (sofern verfügbar), externe Designstandards (W3C, ISO 9241).
+6. **Gegenargumentation.** Plattform: legitimes Designinteresse, Nutzerfreundlichkeit, kontextuelle Voreinstellungen, fehlende Empirie zur Manipulationswirkung.
+7. **Maßnahmen-Cocktail.** DSA-Untersagung + UWG-Unterlassung + DSGVO-Bußgeld können parallel laufen; keine vorrangige Befugniszuweisung an die BNetzA, aber Kooperationspflicht nach § 23 DDG.
+8. **Rechtsschutz.** Plattform: Klage VG Köln gegen Untersagung; Beschwerdeführer: Untätigkeitsklage § 75 VwGO bei DSC-Inaktivität.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Anzeige an die BNetzA als DSC: konkrete URL, Screenshot-Anlage, Vergleichsdesign, behauptete Verletzung von Art. 25 DSA.
+- Lauterkeitsabmahnung gegen Plattform nach § 5a UWG.
+- Stellungnahme der Plattform: Designentscheidung, Nutzertests, Alternative.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- EU-Kommission und Europäisches Gremium (Art. 64 DSA) zu Auslegungsleitlinien.
+- BNetzA-DSC-Maßnahmen nur generisch zitieren, konkrete Az. vom Anwender zu verifizieren.
+- EuGH-Rechtsprechung (Planet49 C-673/17, Orange Romania C-61/19) als Anker.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Anzeige- oder Stellungnahme-Schriftsatz mit Screenshot-Anlagen.
+- Compliance-Checkliste für UI-Reviews (Cookie-Banner, Kündigungs-Workflow, Werbeeinstellung, Bestellbestätigung).
+
+## Beispiele
+- E-Commerce-Plattform präsentiert "Premium-Versand" als Default-Selektion ohne klare Opt-Out-Option. Anzeige BNetzA + UWG-Abmahnung.
+- Soziales Netzwerk gestaltet Werbe-Opt-Out in 5 Klicks tief, Opt-In in 1 Klick. Aufforderungs-Schreiben nach Art. 25 DSA.
+- Online-Buchungsplattform zeigt Stornogebühren erst nach Zahlungsdaten. Anzeige BNetzA, parallel BVKM/VZ.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Screenshots datiert? URL und Zeitpunkt sicher? Vergleichsmaßstab benannt? Parallele Foren reflektiert (Vermeidung widersprüchlicher Verfahren)? Mandant über Risiken aller Schienen aufgeklärt?

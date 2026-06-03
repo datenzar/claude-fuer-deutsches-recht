@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-betreuungsgericht
-description: "Jahresbericht für Betreuungsgericht nach § 1840 BGB erstellen: Anwendungsfall Betreuer muss jaehrlichen Rechenschaftsbericht über persoenliche und wirtschaftliche Verhältnisse der betreuten Person beim Betreuungsgericht einreichen. § 1840 BGB Berichtspflicht, § 1841 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung. Prüfraster persoenliche Lage Gesundheit Wohnsituation, wirtschaftliche Verhältnisse Einnahmen Ausgaben Vermögen, Betreueraktivitaeten, Genehmigungs-Status. Output vollständiger Jahresbericht mit Anlagen für Betreuungsgericht. Abgrenzung zu Vermögensverzeichnis-Prüfung für Ersterfassung und zu Genehmigungspflicht-Prüfung."
+description: "Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Familienbetreuer; trennt Bericht, Vermögensverzeichnis (§ 1835 BGB) und Rechnungslegung/Vermögensübersicht."
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)
@@ -101,31 +101,18 @@ nach § 24 BtOG. Die Berichtspflichten gelten unverändert; für Berufsbetreuer
 gilt zusätzlich der Vergütungsanspruch nach § 7 VBVG (pauschalierte
 Stundensätze nach Vergütungstabelle).
 
-### Kanonische Rechtsprechung
+### Berichtsqualität
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Der Bericht des Betreuers ist Grundlage der gerichtlichen Aufsicht (§ 1862
-BGB n.F.) und muss inhaltlich so substantiiert sein, dass das Gericht die
-ordnungsgemäße Führung der Betreuung beurteilen kann. Pauschale Angaben
-(z. B. "Frau X geht es gut") genügen nicht (Rn. 12).
+Der Bericht ist Grundlage der gerichtlichen Aufsicht (§ 1862 BGB). Er soll so
+konkret sein, dass das Gericht erkennen kann, ob die Betreuung ordnungsgemäß
+geführt wird, ob die Aufgabenkreise noch passen und ob die Wünsche der
+betreuten Person beachtet werden. Pauschale Sätze wie "keine Besonderheiten"
+oder "es geht gut" genügen nicht.
 
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Zur Auslegung des § 1901 BGB a.F. (jetzt § 1821 BGB n.F.): Der Wille der
-betreuten Person ist auch bei Geschäftsunfähigkeit zu erforschen und zu
-respektieren, soweit nicht erhebliche Gefährdung droht. Im Jahresbericht
-ist darzulegen, wie der Betreuer den Willen ermittelt hat (Anhörung,
-Gespräche mit Angehörigen, Aktenstudium).
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Persönliche Kontakte sind grundsätzlich durch persönliches Aufsuchen zu
-gewährleisten; rein telefonischer Kontakt genügt regelmäßig nicht. Frequenz
-und Form sind im Bericht konkret anzugeben (Datum, Dauer, Ort).
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Bei stationärer Unterbringung in einem Heim hat der Betreuer regelmäßig,
-mindestens vierteljährlich, persönlichen Kontakt zu pflegen, um die
-Lebenssituation eigenständig zu beurteilen und sich nicht ausschließlich
-auf Heimberichte zu verlassen.
+Für persönliche Kontakte gilt: Datum, Ort, Dauer, Beteiligte, eigener Eindruck
+und besprochene Wünsche festhalten. Telefonate und Videogespräche können
+ergänzen; bei Konflikt, Pflegeheim, Gesundheitsrisiko oder Vermögensrisiko
+braucht der Bericht erkennbar einen belastbaren eigenen Eindruck.
 
 ### Quellenregel
 
@@ -149,9 +136,9 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
    - Berufliche oder ehrenamtliche Tätigkeit, Beschäftigung
 
 3. **Persönliche Kontakte tabellarisch belegen**
-   Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe. Bei Heimbewohnern
-   Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-   Kontakte und Videogespräche können ergänzen, nicht ersetzen.
+   Pro Kontakt: Datum, Dauer, Ort, kurze Inhaltsangabe, eigener Eindruck,
+   Wunschbezug und offene Folgeaufgabe. Bei Heimbewohnern Kontakte nicht nur
+   aus Heimberichten ableiten.
 
 4. **Wünsche und ihre Verwirklichung**
    - Wünsche der betreuten Person (geäußert oder erschlossen aus früheren
@@ -224,8 +211,8 @@ Aufgabenkreise:     [Aufzählung gem. § 1815 BGB]
    [Liste]
 
 Ort, Datum                              [Name, Unterschrift Betreuer/in]
-                                        Berufsbetreuer/in nach § 23 BtOG
-                                        Registrierungs-Nr.: [BtOG-Reg.-Nr.]
+                                        Betreuer/in
+                                        ggf. Registrierungs-Nr. bei Berufsbetreuung
 ```
 
 ## Beispiel
@@ -262,31 +249,28 @@ Ort, Datum                              [Name, Unterschrift Betreuer/in]
 > | 18.02.2026 | Sonnenhof, Spandau | 60 Min | Pflegegrad-Höherstufung 4, Eigenanteilsfinanzierung |
 > | … | … | … | … |
 >
-> Die Besuchsfrequenz entspricht den Anforderungen des BGH bei
-> Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-> Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-> Kontakte ergänzen, ersetzen aber nicht den persönlichen Eindruck.
+> Persönliche Kontakte wurden mit Datum, Ort, Dauer und Inhalt dokumentiert.
+> Telefonate und Videogespräche können den persönlichen Eindruck ergänzen,
+> ersetzen ihn aber in konflikt- oder risikoreichen Situationen nicht.
 
 ## Risiken und typische Fehler
 
 **1. Pauschale Formulierungen**
 "Frau K. geht es gut, keine Besonderheiten" genügt nicht. Der Bericht muss
-substantiiert die persönlichen Verhältnisse darstellen, sodass das Gericht
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Rn. 12).
+substantiiert die persönlichen Verhältnisse darstellen, damit das Gericht
+Aufsicht, Erforderlichkeit und Aufgabenkreise prüfen kann.
 
 **2. Persönliche Kontakte zu selten dokumentiert**
-Bei stationärer Unterbringung verlangt die Rechtsprechung mindestens
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-telefonischer Kontakt genügt nicht. Jeder Kontakt ist mit Datum, Ort,
-Dauer und Inhalt zu dokumentieren.
+Jeder relevante Kontakt ist mit Datum, Ort, Dauer und Inhalt zu dokumentieren.
+Bei Heimbewohnern, Krankheit, Konflikten oder Vermögensrisiken muss der Bericht
+erkennen lassen, wie sich der Betreuer einen eigenen Eindruck verschafft hat.
 
 **3. Wünsche nicht eigenständig ermittelt**
 Der Bericht muss erkennen lassen, wie der Betreuer die Wünsche der
 betreuten Person ermittelt hat (Gespräch, Anhörung, Patientenverfügung).
 Die bloße Aussage "Die Betreute hat keine Wünsche geäußert" ist
 unzureichend, wenn nicht erkennbar ist, ob der Betreuer aktiv gefragt hat
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+oder welche Kommunikationshilfen versucht wurden.
 
 **4. Vermischung Bericht und Rechnungslegung**
 Der Jahresbericht (§ 1863 BGB) und die Rechnungslegung (§ 1865 BGB) sind
@@ -304,8 +288,9 @@ des Betreuers nach § 1868 BGB führen.
 Berichte enthalten besondere Kategorien personenbezogener Daten (Art. 9
 DSGVO: Gesundheitsdaten) sowie Sozialdaten. Vor Übergabe an externe
 KI-Systeme sind Daten zu pseudonymisieren (siehe Skill
-`playbook-aus-eigenen-daten` im Plugin `kanzlei-builder-hub`). Berufs-
-betreuer unterliegen zudem § 203 StGB (Schweigepflicht).
+`playbook-aus-eigenen-daten` im Plugin `kanzlei-builder-hub`). Berufliche
+Schweige-, Datenschutz- und Vertraulichkeitspflichten sind je nach Rolle und
+Konstellation gesondert zu prüfen.
 
 **7. Beendigungsanlass nicht geprüft**
 § 1863 Abs. 3 Nr. 4 BGB verlangt ausdrücklich die Mitteilung, ob Anlass
@@ -323,12 +308,7 @@ begründen.
 Bei jeder Ausgabe sind mindestens folgende Belege anzugeben:
 
 - § 1863 BGB (Berichtspflicht) und § 1821 BGB (Wünsche, persönlicher Kontakt)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Substantiierungsanforderungen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Wunschermittlung)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-  (Kontaktfrequenz im Heim)
+- Rechtsprechung nur nach Live-Prüfung mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
 - Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
 - Literatur nur bei vom Nutzer bereitgestellter oder lizenziert live geprüfter Quelle; keine Kommentarblindzitate.
 - Quellenregel: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Modellwissen; nur Nutzerquelle, amtliche/freie Quelle oder lizenzierte Live-Verifikation verwenden.

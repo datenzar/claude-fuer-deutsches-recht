@@ -61,3 +61,12 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 - **§ 109 SGG**: Recht auf Wahl-Sachverstaendigen im Klageverfahren - Kostentragungspflicht (auch bei Erfolg moeglich), aber strategisch wichtig.
 - **Verfahrensschritte:** Antrag DRV - Gutachten (oft MEDPROOF/MD); Bescheid; Widerspruch 1 Monat § 84 SGG; Klage 1 Monat § 87 SGG; ggf. Berufung LSG.
 - **Praxis-Tipp:** Antrag auf medizinische Reha (§ 15 SGB VI) wird oft vorgeschaltet; "Reha vor Rente"-Grundsatz § 9 SGB VI.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

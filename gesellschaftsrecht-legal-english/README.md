@@ -17,22 +17,10 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | --- | --- | --- |
 | **Roeschen Tech GmbH — Gründung, Series A, B-Shares und Streit-Eskalation** (`gesellschaftsgruender-streit-roeschen-tech`) | [Gesamt-PDF lesen](../testakten/gesellschaftsgruender-streit-roeschen-tech/gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) | [`testakte-gesellschaftsgruender-streit-roeschen-tech.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
 | **Akte Kometenfalter Systems GmbH — Series A Project Comet Moth** (`gesellschaftsrecht-legal-english-frankfurt-startup`) | [Gesamt-PDF lesen](../testakten/gesellschaftsrecht-legal-english-frankfurt-startup/gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) | [`testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
+| **Nebelstern Ventures - Berliner VC-Pipeline, Wandeldarlehen und Follow-on-Chaos** (`venture-capital-geber-nebelstern-portfolio-berlin`) | [Gesamt-PDF lesen](../testakten/venture-capital-geber-nebelstern-portfolio-berlin/gesamt-pdf/venture-capital-geber-nebelstern-portfolio-berlin_gesamt.pdf) | [`testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-venture-capital-geber-nebelstern-portfolio-berlin.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Roeschen Tech GmbH — Gründung, Series A, B-Shares und Streit-Eskalation** (`gesellschaftsgruender-streit-roeschen-tech`) | [Gesamt-PDF lesen](../testakten/gesellschaftsgruender-streit-roeschen-tech/gesamt-pdf/gesellschaftsgruender-streit-roeschen-tech_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsgruender-streit-roeschen-tech.zip) |
-| **Akte Kometenfalter Systems GmbH — Series A Project Comet Moth** (`gesellschaftsrecht-legal-english-frankfurt-startup`) | [Gesamt-PDF lesen](../testakten/gesellschaftsrecht-legal-english-frankfurt-startup/gesamt-pdf/gesellschaftsrecht-legal-english-frankfurt-startup_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
 Didaktisches Plugin für die zweisprachige Gesellschaftsrechts- und Transaktionspraxis. Es erklärt nicht nur Begriffe, sondern führt Anfängerinnen, Anfänger und laterale Quereinsteiger durch echte Arbeitsprodukte: Cap Table, Term Sheet, Investment Agreement, Gesellschaftervereinbarung, Satzung, SPA, Due-Diligence-Report, Closing-Checkliste, Mandantenmemo und Partnerbriefing.
 
 Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft zweisprachig. Ein `Cap Table` ist nicht einfach eine Gesellschafterliste. `Liquidation Preference` ist nicht bloß Vorzugsrecht. `Drag-along` ist nicht nur Mitverkaufspflicht. Das Plugin erklärt jeweils:
@@ -43,24 +31,6 @@ Der Leitgedanke: Deutsche Dogmatik bleibt der Anker, aber die Praxis spricht oft
 - welches Dokument betroffen ist,
 - welche Rückfragen ein First-Year Associate stellen muss,
 - welcher Output für Partner, Mandant, Notar, Register oder Gegenseite sinnvoll ist.
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Gesellschaftsrecht Legal English (`gesellschaftsrecht-legal-english`) | [gesellschaftsrecht-legal-english.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrecht-legal-english.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Kometenfalter Systems GmbH — Series A Project Comet Moth** ([`testakten/gesellschaftsrecht-legal-english-frankfurt-startup/`](../testakten/gesellschaftsrecht-legal-english-frankfurt-startup/)).
-
-Direkt-Download als ZIP: [testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation
 
@@ -180,18 +150,18 @@ Automatisch generierte Komplett-Liste aller 50 Skills in diesem Plugin. Beschrei
 | `rookie-modus` | First-Year-Associate-Modus fuer Corporate Legal English: fuehrt Schritt fuer Schritt durch unbekannte Begriffe, Deal-Dokumente, Rueckfragen und Senior-Review-Gates. |
 | `sha-gesellschaftervereinbarung` | Erklaert Shareholders Agreement, Gesellschaftervereinbarung, Stimmbindung, Pooling, Satzungsschnittstelle, Nebenabreden und Vollzug. |
 | `share-classes-vorzugsrechte` | Erklaert share classes, preferred shares, common shares, Vorzugsrechte, Sonderrechte und deutsche Umsetzungsfragen bei GmbH und AG. |
-| `spezial-anfaenger-verhandlung-vergleich-und-eskalation` | Anfaenger: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-business-dokumentenmatrix-und-lueckenliste` | Business: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-corporate-behoerden-gericht-und-registerweg` | Corporate: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dealroom-livequellen-und-rechtsprechungscheck` | Dealroom: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-english-fristen-form-und-zustaendigkeit` | English: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gesellschafterliste-compliance-dokumentation-und-akte` | Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gesellschaftsrecht-tatbestand-beweis-und-belege` | Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-legal-schriftsatz-brief-und-memo-bausteine` | Legal: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-table-zahlen-schwellen-und-berechnung` | Table: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-term-mehrparteien-konflikt-und-interessen` | Term: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-terms-risikoampel-und-gegenargumente` | Terms: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-anfaenger-verhandlung-vergleich-und-eskalation` | Anfaenger: Verhandlung, Vergleich und Eskalation im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-business-dokumentenmatrix-und-lueckenliste` | Business: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-corporate-behoerden-gericht-und-registerweg` | Corporate: Behörden-, Gerichts- oder Registerweg im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dealroom-livequellen-und-rechtsprechungscheck` | Dealroom: Livequellen- und Rechtsprechungscheck im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-didaktisches-erstpruefung-und-mandatsziel` | Didaktisches: Erstprüfung, Rollenklärung und Mandatsziel im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-english-fristen-form-und-zustaendigkeit` | English: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gesellschafterliste-compliance-dokumentation-und-akte` | Gesellschafterliste: Compliance-Dokumentation und Aktenvermerk im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gesellschaftsrecht-tatbestand-beweis-und-belege` | Gesellschaftsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardpr... |
+| `spezial-legal-schriftsatz-brief-und-memo-bausteine` | Legal: Schriftsatz-, Brief- und Memo-Bausteine im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-table-zahlen-schwellen-und-berechnung` | Table: Zahlen, Schwellenwerte und Berechnung im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-term-mehrparteien-konflikt-und-interessen` | Term: Mehrparteienkonflikt und Interessenmatrix im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-terms-risikoampel-und-gegenargumente` | Terms: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin gesellschaftsrecht legal english; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `term-sheet-investment-agreement` | Fuehrt durch Term Sheet, Investment Agreement, Bindungswirkung, Conditions, Exclusivity, Confidentiality, Kosten und deutsche Vollzugsmechanik. |
 | `transfer-restrictions-vinkulierung` | Erklaert Transfer Restrictions, Vinkulierung, ROFR, ROFO, Lock-up, Permitted Transfers und Vollzug bei deutschen Anteilen. |
 | `upstream-security-financial-assistance` | Markiert Upstream Loan, Upstream Security, Upstream Guarantee, Financial Assistance, Kapitalerhaltung, Corporate Benefit und Organpflichten. |

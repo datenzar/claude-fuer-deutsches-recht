@@ -1,0 +1,6 @@
+Datum,Quelle,Ereignis,Wert,Notiz
+2026-02-03,App,Update angeboten,5.4.8,Sicherheits- und Effizienzupdate
+2026-02-07,Mandantin,Update gestartet,20 Minuten,Geraet blinkt
+2026-03-24,Thermometer,Frischefach,12 Grad,Ziel 4 Grad
+2026-04-02,App,Thermal variance detected,,kein Wert in App
+2026-05-03,Werkstatt,Token refused,,Diagnose gesperrt

@@ -86,13 +86,11 @@ Zollamt Frankfurt-Flughafen beschlagnahmt täglich 2-5 Päckchen mit Einzel-Fäl
 ### Konstellation 3: Freie Zone / Transitware
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- VO (EU) 608/2013 des Europäischen Parlaments und des Rates v. 12.06.2013
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 600 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-- EUIPO, Anti-Counterfeiting-Leitfaden für Rechteinhaber, 2024
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

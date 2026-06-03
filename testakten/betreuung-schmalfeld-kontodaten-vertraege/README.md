@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 739 KB) | PDF | [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 738 KB) | PDF | [`gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf`](gesamt-pdf/betreuung-schmalfeld-kontodaten-vertraege_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

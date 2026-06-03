@@ -16,23 +16,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [`testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
+| **BGB BT — Smart-Kühlschrank, digitale Elemente und Reparaturblockade** (`bgb-bt-smart-kuehlschrank-digital-repair-koeln`) | [Gesamt-PDF lesen](../testakten/bgb-bt-smart-kuehlschrank-digital-repair-koeln/gesamt-pdf/bgb-bt-smart-kuehlschrank-digital-repair-koeln_gesamt.pdf) | [`testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-smart-kuehlschrank-digital-repair-koeln.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **BGB BT — Holzofen, Lieferkette, Bürgschaft, GoA und Brandschaden** (`bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt`) | [Gesamt-PDF lesen](../testakten/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt/gesamt-pdf/bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
-Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf, Miete, Pacht, Leihe, Darlehen, Dienst, Werk, Bau, Reise, Makler, Auftrag, Geschäftsbesorgung, Bürgschaft, Schuldversprechen, GoA, Bereicherung, Delikt und Rückabwicklung.
+Großer BGB-BT-Prüfer für Schuldrecht Besonderer Teil: Kauf, Verbrauchsgüterkauf, Waren mit digitalen Elementen, Updatepflichten, Right-to-Repair-Schnittstellen, Miete, Pacht, Leihe, Darlehen, Dienst, Werk, Bau, Reise, Makler, Auftrag, Geschäftsbesorgung, Bürgschaft, Schuldversprechen, GoA, Bereicherung, Delikt und Rückabwicklung.
 
 Das Plugin ist der Gegenpart zum `bgb-at-pruefer`: Es beginnt bei der Anspruchsfrage und führt dann durch die Vertragstypen und gesetzlichen Schuldverhältnisse des BGB-BT. Es ist für Anfänger verständlich genug, aber hart genug für Kanzleivermerke, Klageentwürfe, Verteidigungslinien und Ausbildung.
 
@@ -51,12 +39,16 @@ Erst Anspruchsgrundlage, dann Tatbestand, dann Rechtsfolge, dann Einwendungen. K
 
 - BGB amtlich/frei: https://www.gesetze-im-internet.de/bgb/
 - Kaufvertrag: §§ 433 ff. BGB
+- Digitale Produkte und Waren mit digitalen Elementen: §§ 327 ff., 327a, 327e, 327f, 434, 475b, 475c, 475e, 476, 477 BGB
 - Miete/Pacht/Leihe/Darlehen/Dienst/Werk: §§ 488 ff., 535 ff., 581 ff., 598 ff., 611 ff., 631 ff. BGB
 - Auftrag/Geschäftsbesorgung/GoA/Bürgschaft/Delikt/Bereicherung: §§ 662 ff., 675 ff., 677 ff., 765 ff., 812 ff., 823 ff. BGB
+- Right to Repair: Richtlinie (EU) 2024/1799, Umsetzungsstand live prüfen; nicht ungeprüft als bereits vollständig deutsches BGB-Recht behandeln.
 
 ## Testakte
 
 Die Demonstrationsakte `bgb-bt-holzofen-lieferkette-buergschaft-goa-delikt` verbindet Kauf, Werk, Bürgschaft, GoA, Bereicherung und Delikt in einem realistisch unordentlichen Mandat.
+
+Die Akte `bgb-bt-smart-kuehlschrank-digital-repair-koeln` ergänzt den modernen Kaufrechtsstrang: vernetzter Kühlschrank, App/Cloud/Firmware, Updatepflicht, § 475b/§ 475c BGB, Beweislast, Verjährung, Reparaturblockade und Right-to-Repair-Schnittstelle.
 
 ## Keine Blindzitate
 
@@ -67,7 +59,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und über
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 60 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -93,11 +85,17 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `geschaeftsbesorgung-und-zahlungsdienste` | Prüft entgeltliche Geschäftsbesorgung, Zahlungsdienste, Ausführung, Fehlbuchung und Schnittstellen zum Bankrecht. |
 | `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft entgegenstehenden Willen, öffentliches Interesse, Unterhaltspflichten und Schadensersatz bei aufgedrängter Hilfe. |
 | `goa-grundschema-paragraph-677` | Prüft echte berechtigte GoA: fremdes Geschäft, Fremdgeschäftsführungswille, Interesse und wirklicher/mutmaßlicher Wille. |
+| `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft, ob Händler oder Hersteller objektive Anforderungen, digitale Funktionen, Updateversprechen, Kompatibilität oder Interoperabilität wirksam abbedungen haben. |
+| `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastvermutung, Sonderverjährung und Hemmungs-/Ablaufregeln bei Mängeln an digitalen Elementen, Updatepflichten und Reparaturübergabe. |
+| `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c` | Prüft Waren mit digitalen Elementen bei dauerhafter Bereitstellung, insbesondere Smart-Home, Fahrzeuge, Wearables, Maschinen, Apps, Cloudkonten und laufende Firmwaredienste. |
 | `kaufrecht-gefahruebergang-und-versendung` | Prüft Gefahrübergang, Versendung, Annahmeverzug, Transportverlust und Verbrauchsgüter-Ausnahmen. |
 | `kaufrecht-nacherfuellung-ruecktritt-minderung` | Prüft kaufrechtliche Mängelrechte, Fristsetzung, Unzumutbarkeit, Fehlschlagen, Rücktritt und Minderung. |
 | `kaufrecht-rechtsmangel-paragraph-435` | Prüft Rechtsmängel: Eigentum, Belastungen, Rechte Dritter, IP-Rechte, öffentlich-rechtliche Beschränkungen und Registerlagen. |
-| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmängel nach subjektiven und objektiven Anforderungen einschließlich Montage, Anleitung, Zubehör und gewöhnlicher Verwendung. |
+| `kaufrecht-right-to-repair-und-nacherfuellung` | Verbindet kaufrechtliche Nacherfüllung mit dem EU-Right-to-Repair-Stand, Reparaturvorrang, Reparaturinformationen, Ersatzteilen, Software-Locks und reparaturfreundlicher Mandatsstrategie. |
+| `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmängel nach subjektiven, objektiven, Montage- und Installationsanforderungen einschließlich Funktionalität, Kompatibilität, Interoperabilität, Zubehör, Anleitung, Werbung, digitalen Bestandteilen und öffentlicher Äußerungen. |
 | `kaufrecht-schadensersatz-aufwendungsersatz` | Prüft §§ 280 ff. BGB im Kaufrecht mit Mangelschaden, Mangelfolgeschaden, Verzögerung und nutzlosen Aufwendungen. |
+| `kaufrecht-updates-sicherheitsupdates-327f-475b` | Prüft Aktualisierungspflichten bei digitalen Produkten und Waren mit digitalen Elementen, einschließlich Sicherheitsupdates, Informationspflichten, Installationsfehlern und Folgen unterlassener Updates. |
+| `kaufrecht-ware-mit-digitalen-elementen-475b` | Prüft, ob eine Kaufsache wegen App, Cloud, Firmware, Konto, Schlüssel, Sensorik oder OTA-Update eine Ware mit digitalen Elementen ist, und ordnet Mangelrechte nach § 434, § 475b und § 327a BGB. |
 | `kaufvertrag-grundschema-paragraph-433` | Prüft Primär- und Sekundäransprüche aus Kaufvertrag nach § 433 BGB und Schnittstellen zu BGB AT, Verbraucherschutz und AGB. |
 | `maklervertrag-und-provision` | Prüft Maklerlohn, Nachweis/Vermittlung, Kausalität, Textform, Verbraucherfragen und Verflechtung. |
 | `mietrecht-mangel-minderung` | Prüft Mietmangel, Anzeige, Minderung, Zurückbehaltung, Schadensersatz und Beweisfragen. |
@@ -110,7 +108,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `schuldversprechen-schuldanerkenntnis` | Prüft abstraktes Schuldversprechen, deklaratorisches/konstitutives Schuldanerkenntnis und Beweisfunktion. |
 | `tausch-und-schenkung` | Prüft Tausch und Schenkung einschließlich Form, Vollzug, Widerruf, grober Undank und Mängelhaftung. |
 | `unechte-goa-paragraph-687` | Prüft irrtümliche Eigengeschäftsführung und angemaßte Eigengeschäftsführung mit Herausgabe-/Schadensersatzfolgen. |
-| `verbrauchsgueterkauf-digitales` | Prüft Verbrauchsgüterkauf, digitale Produkte, Aktualisierungspflichten, Beweislast und Abweichungsvereinbarungen. |
+| `verbrauchsgueterkauf-digitales` | Prüft Verbrauchsgüterkauf, digitale Produkte, Waren mit digitalen Elementen, Aktualisierungspflichten, Beweislast, Verjährung, Abweichungsvereinbarungen und Right-to-Repair-Schnittstellen nach aktuellem BGB und EU-Rechtsstand. |
 | `vergleich-paragraph-779` | Prüft Vergleich, Streit/Ungewissheit, gegenseitiges Nachgeben, Irrtum über Vergleichsgrundlage und Vollstreckbarkeit. |
 | `verjaehrung-bgb-bt-spezial` | Prüft besondere Verjährungsfristen in Kauf, Werk, Miete, Reise, Delikt und Bürgschaft. |
 | `werkvertrag-abnahme-und-faelligkeit` | Prüft Abnahme, Abnahmefiktion, Verweigerung, Fälligkeit, Abschlagszahlungen und Sicherheiten. |

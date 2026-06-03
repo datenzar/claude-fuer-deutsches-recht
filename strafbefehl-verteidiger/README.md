@@ -20,31 +20,9 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **LUMEN Studios GmbH — Insolvenz- und Wirtschaftsstrafverfahren** (`lumen-studios-insolvenz-strafverfahren`) | [Gesamt-PDF lesen](../testakten/lumen-studios-insolvenz-strafverfahren/gesamt-pdf/lumen-studios-insolvenz-strafverfahren_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
-| **Strafbefehl – Ladendiebstahl und Fahrerflucht** (`strafbefehl-ladendiebstahl-fahrerflucht`) | [Gesamt-PDF lesen](../testakten/strafbefehl-ladendiebstahl-fahrerflucht/gesamt-pdf/strafbefehl-ladendiebstahl-fahrerflucht_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Ein freistehender Strafbefehls-Assistent für Kanzleien: vom Fristnotruf über Akteneinsicht und Einspruch bis zur beschränkten Rechtsfolgenstrategie oder Hauptverhandlung.
 
 Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugins, keine externen Agenten und keine besonderen Repo-Dateien außerhalb seines eigenen Ordners. Wenn Register, Kanzleisoftware, beA, E-Mail, Datenraum oder Aktenexport fehlen, arbeitet es mit manuellen Uploads oder mit einem klar gekennzeichneten Simulationsmodus.
-
-### Arbeitsakte (separat)
-
-Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
-
-| Akte | Direkt-Download |
-| --- | --- |
-| **LUMEN Studios (Insolvenz + Wirtschaftsstrafverfahren)** | [testakte-lumen-studios-insolvenz-strafverfahren.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-lumen-studios-insolvenz-strafverfahren.zip) |
 
 ## Schnellstart
 
@@ -65,6 +43,7 @@ Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 - `strafbefehl-einspruch-beschraenkung` - Einspruch beschränken oder nicht
 - `strafbefehl-wiedereinsetzung` - Wiedereinsetzung
 - `strafbefehl-pflichtverteidiger` - Pflichtverteidigung
+- `strafbefehl-polizeifilmerei-201-kug` - Film-, Foto- und Tonaufnahmen von Polizeieinsätzen
 - `strafbefehl-tagessaetze-geldstrafe` - Tagessätze und Geldstrafe
 - `strafbefehl-nebenfolgen-fahrerlaubnis` - Nebenfolgen
 - `strafbefehl-beweis-und-einlassung` - Beweis und Einlassung
@@ -105,43 +84,34 @@ Separate Arbeitsakte — **kein Teil des Plugins**, eigener Download:
 - Fristen, Rechtsmittel, Aussageverhalten und Nebenfolgen werden sichtbar geprüft.
 - Jede Ausgabe muss so gestaltet sein, dass eine Berufsträgerin oder ein Berufsträger sie sofort prüfen, kürzen, freigeben oder verwerfen kann.
 
-## Arbeitsakte
-
-Zum Arbeiten liegt die Akte unter `testakten/strafbefehl-ladendiebstahl-fahrerflucht`. Sie wird im Release als `testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip` bereitgestellt und ist kein Bestandteil des Plugin-ZIPs.
-
-## Download
-
-- Plugin-ZIP: [strafbefehl-verteidiger.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip)
-- Akte: [testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-strafbefehl-ladendiebstahl-fahrerflucht.zip)
-
 <!-- BEGIN SKILLS-OVERVIEW (auto-generated) -->
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 55 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Strafbefehl Verteidiger-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeits... |
-| `spezial-aktenanlage-red-team-und-qualitaetskontrolle` | Aktenanlage: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-akteneinsicht-behoerden-gericht-und-registerweg` | Akteneinsicht: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-deal-beweislast-und-darlegungslast` | Deal: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-einspruch-risikoampel-und-gegenargumente` | Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-aktenanlage-red-team-und-qualitaetskontrolle` | Aktenanlage: Red-Team und Qualitätskontrolle im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-akteneinsicht-behoerden-gericht-und-registerweg` | Akteneinsicht: Behörden-, Gerichts- oder Registerweg im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-deal-beweislast-und-darlegungslast` | Deal: Beweislast, Darlegungslast und Substantiierung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-einspruch-risikoampel-und-gegenargumente` | Einspruch: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-einspruchsentscheidung-und-folgen` | Einspruchsentscheidung, Beschränkung und Nebenfolgen beim Strafbefehl: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-einstellung-compliance-dokumentation-und-akte` | Einstellung: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fahrerlaubnis-mandantenentscheidung` | Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gegen-fristen-form-und-zustaendigkeit` | Gegen: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hauptverhandlung-international-schnittstellen` | Hauptverhandlung: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-nebenfolgen-verhandlung-vergleich-und-eskalation` | Nebenfolgen: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pflichtverteidigung-livequellen-und-rechtsprechungscheck` | Pflichtverteidigung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strafbefehls-erstpruefung-und-mandatsziel` | Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-tagessaetze-schriftsatz-brief-und-memo-bausteine` | Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verstaendigung-sonderfall-und-edge-case` | Verstaendigung: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verteidiger-formular-portal-und-einreichung` | Verteidiger: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verteidigung-tatbestand-beweis-und-belege` | Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wiedereinsetzung-zahlen-schwellen-und-berechnung` | Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-zeugenstrategie-mehrparteien-konflikt-und-interessen` | Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-einstellung-compliance-dokumentation-und-akte` | Einstellung: Compliance-Dokumentation und Aktenvermerk im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fahrerlaubnis-mandantenentscheidung` | Fahrerlaubnis: Mandantenkommunikation und Entscheidungsvorlage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gegen-fristen-form-und-zustaendigkeit` | Gegen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hauptverhandlung-international-schnittstellen` | Hauptverhandlung: Internationaler Bezug und Schnittstellen im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-nebenfolgen-verhandlung-vergleich-und-eskalation` | Nebenfolgen: Verhandlung, Vergleich und Eskalation im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pflichtverteidigung-livequellen-und-rechtsprechungscheck` | Pflichtverteidigung: Livequellen- und Rechtsprechungscheck im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafbefehl-dokumentenmatrix-und-lueckenliste` | Strafbefehl: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strafbefehls-erstpruefung-und-mandatsziel` | Strafbefehls: Erstprüfung, Rollenklärung und Mandatsziel im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-tagessaetze-schriftsatz-brief-und-memo-bausteine` | Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verstaendigung-sonderfall-und-edge-case` | Verstaendigung: Sonderfall und Edge-Case-Prüfung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verteidiger-formular-portal-und-einreichung` | Verteidiger: Formular, Portal und Einreichungslogik im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verteidigung-tatbestand-beweis-und-belege` | Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wiedereinsetzung-zahlen-schwellen-und-berechnung` | Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zeugenstrategie-mehrparteien-konflikt-und-interessen` | Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `stbv-einspruch-strafbefehl-leitfaden` | Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Pruefraster fuer Verteidiger. |
 | `stbv-fahrerlaubnis-bei-strafbefehl-spezial` | Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde. |
 | `stbv-strafbefehl-auslaendischer-mandant-spezial` | Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster fuer Verteidiger. |
@@ -159,6 +129,7 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `strafbefehl-kommandocenter` | Einstieg in das Strafbefehl-Mandat — Ampel-Schnelldiagnose zeigt kritische Fristen und offene Handlungsfelder auf einen Blick. Zentrales Steuerungsmodul routet auf Subskills: Frist § 410 StPO Akteneinsicht § 147 StPO Inhaltsprüfung § 409... |
 | `strafbefehl-nebenfolgen-fahrerlaubnis` | Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelentziehung § 69 Abs. 2 StGB bei §§ 315c 316 142 StGB. Sperrfrist § 69a StGB. Vorzeitige Aufhebung § 69a Abs. 7 StGB. Abgrenzung § 25 StVG (OWi-Fahrverbot). MPU-A... |
 | `strafbefehl-pflichtverteidiger` | Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebühren Nr. 4100 ff. VV-RVG. |
+| `strafbefehl-polizeifilmerei-201-kug` | Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartp... |
 | `strafbefehl-quality-gate` | Vor dem Einspruch-Versand vor der Hauptverhandlung oder nach dem Urteil eine Abschlussprüfung durchführen. Prüfraster Fristen Vollmacht Zulässigkeit Einlassung Beweisanträge Strafzumessung Protokoll. Normen § 410 StPO Einspruchsfrist § 4... |
 | `strafbefehl-rechtsmittel-nach-urteil` | Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgrü... |
 | `strafbefehl-rechtsprechungsrecherche` | Rechtsprechung zum Strafbefehlsverfahren recherchieren für Schriftsaetze oder Argumentation in der Hauptverhandlung. Prüfraster BGH OLG-Rspr zu §§ 407-412 StPO Einspruch Wiedereinsetzung Strafzumessung. Normen §§ 407 408 410 412 StPO. Wo... |

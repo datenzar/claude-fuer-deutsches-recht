@@ -19,19 +19,6 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Betriebliche Altersversorgung – MEISSNER RHEINWERK AG** (`bav-strategie-konzern-meissner-rheinwerk-ag`) | [Gesamt-PDF lesen](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/gesamt-pdf/bav-strategie-konzern-meissner-rheinwerk-ag_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Dieses Plugin stellt 21 spezialisierte Skills für die strategische Beratung zur betrieblichen Altersversorgung (BAV) in Konzernen bereit. Es spiegelt den Beratungsansatz der Boutique-Großkanzlei **Treuenfels Yamamoto Rechtsanwälte Partnerschaft mbB**, Königsallee 92, 40212 Düsseldorf (Zweigbüro: Gion-Higashi, Shijō-dōri, Kyoto).
 
 **Namens-Partner:**
@@ -42,24 +29,6 @@ Dieses Plugin stellt 21 spezialisierte Skills für die strategische Beratung zur
 Prof. Dr. Adalbert von Sompeh-Ostermann, LL.M. (Oxford), Versorgungs- und Transaktionsspezialist
 
 ---
-
-## Direkt-Download
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| BAV Strategie Konzern (`bav-strategie-konzern`) | [bav-strategie-konzern.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bav-strategie-konzern.zip) |
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **Betriebliche Altersversorgung – MEISSNER RHEINWERK AG** ([`testakten/bav-strategie-konzern-meissner-rheinwerk-ag/`](../testakten/bav-strategie-konzern-meissner-rheinwerk-ag/)).
-
-Direkt-Download als ZIP: [testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-bav-strategie-konzern-meissner-rheinwerk-ag.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
 
 ## Installation
 
@@ -152,26 +121,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `pension-buyout-strukturierung-und-de-risking` | Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Prüfraster: Buyout-Voraussetzungen, Versicherungslösungen, Bilanzbereinigung. Output: Buyout-Strukturie... |
 | `pensionsmodelle-fuenf-durchfuehrungswege` | Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: D... |
 | `psv-pensionssicherungsverein-und-haftungsketten` | PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. A... |
-| `spezial-altersversorgung-fristen-form-und-zustaendigkeit` | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-benefits-mandantenkommunikation-entscheidungsvorlage` | Benefits: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-betrieblichen-tatbestand-beweis-und-belege` | Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-boutique-fristennotiz-und-naechster-schritt` | Boutique: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-buyouts-livequellen-und-rechtsprechungscheck` | Buyouts: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-drei-zahlen-schwellen-und-berechnung` | Drei: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-duesseldorfer-sonderfall-und-edge-case` | Duesseldorfer: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-durchfuehrungswege-schriftsatz-brief-und-memo-bausteine` | Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fuenf-behoerden-gericht-und-registerweg` | Fuenf: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-harmonisierung-formular-portal-und-einreichung` | Harmonisierung: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-internationale-red-team-und-qualitaetskontrolle` | Internationale: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-konzernen-dokumentenmatrix-und-lueckenliste` | Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pension-verhandlung-vergleich-und-eskalation` | Pension: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-pensionsmodelle-risikoampel-und-gegenargumente` | Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-restrukturierung-beweislast-und-darlegungslast` | Restrukturierung: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-stil-abschlussprodukt-und-uebergabe` | Stil: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-strategische-erstpruefung-und-mandatsziel` | Strategische: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-stufen-compliance-dokumentation-und-akte` | Stufen: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-theorie-mehrparteien-konflikt-und-interessen` | Theorie: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-versorgungssystem-international-schnittstellen` | Versorgungssystem: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-altersversorgung-fristen-form-und-zustaendigkeit` | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-benefits-mandantenkommunikation-entscheidungsvorlage` | Benefits: Mandantenkommunikation und Entscheidungsvorlage im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-betrieblichen-tatbestand-beweis-und-belege` | Betrieblichen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-boutique-fristennotiz-und-naechster-schritt` | Boutique: Fristennotiz und nächster Schritt im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-buyouts-livequellen-und-rechtsprechungscheck` | Buyouts: Livequellen- und Rechtsprechungscheck im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-drei-zahlen-schwellen-und-berechnung` | Drei: Zahlen, Schwellenwerte und Berechnung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-duesseldorfer-sonderfall-und-edge-case` | Duesseldorfer: Sonderfall und Edge-Case-Prüfung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-durchfuehrungswege-schriftsatz-brief-und-memo-bausteine` | Durchfuehrungswege: Schriftsatz-, Brief- und Memo-Bausteine im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fuenf-behoerden-gericht-und-registerweg` | Fuenf: Behörden-, Gerichts- oder Registerweg im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-harmonisierung-formular-portal-und-einreichung` | Harmonisierung: Formular, Portal und Einreichungslogik im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-internationale-red-team-und-qualitaetskontrolle` | Internationale: Red-Team und Qualitätskontrolle im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-konzernen-dokumentenmatrix-und-lueckenliste` | Konzernen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pension-verhandlung-vergleich-und-eskalation` | Pension: Verhandlung, Vergleich und Eskalation im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-pensionsmodelle-risikoampel-und-gegenargumente` | Pensionsmodelle: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-restrukturierung-beweislast-und-darlegungslast` | Restrukturierung: Beweislast, Darlegungslast und Substantiierung im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-stil-abschlussprodukt-und-uebergabe` | Stil: Abschlussprodukt und Übergabe im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-strategische-erstpruefung-und-mandatsziel` | Strategische: Erstprüfung, Rollenklärung und Mandatsziel im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-stufen-compliance-dokumentation-und-akte` | Stufen: Compliance-Dokumentation und Aktenvermerk im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-theorie-mehrparteien-konflikt-und-interessen` | Theorie: Mehrparteienkonflikt und Interessenmatrix im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-versorgungssystem-international-schnittstellen` | Versorgungssystem: Internationaler Bezug und Schnittstellen im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `versorgungsordnung-und-betriebsvereinbarung-drafting` | Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf... |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin bav-strategie-konzern: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin bav-strategie-konzern: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |

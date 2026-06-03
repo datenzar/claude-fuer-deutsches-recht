@@ -1,0 +1,22 @@
+{
+  "name": "grundbuchamt-praxis",
+  "version": "70.0.0",
+  "description": "Praxisplugin für Grundbuchamt, Grundbuchauszug und grundbuchtaugliche Nachweise: Abteilung I/II/III lesen, Bewilligung, Antrag, Auflassung, Rang, Zwischenverfügung, Beschwerde, Grundschuldbrief, Aufgebot, Dienstbarkeiten, Vormerkung, Vorkaufsrecht, Teilung und Vollzug.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "grundbuch",
+    "grundbuchamt",
+    "gbo",
+    "gbv",
+    "grundschuldbrief",
+    "aufgebot",
+    "dienstbarkeit",
+    "abteilung-ii",
+    "rang",
+    "zwischenverfuegung"
+  ]
+}

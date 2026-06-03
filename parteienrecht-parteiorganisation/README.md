@@ -22,6 +22,7 @@ Formales Organisationsplugin für politische Parteien und ihre Gebietsverbände.
 - Parteitage, Mitglieder- und Vertreterversammlungen, Kreis-/Bezirks-/Landesorganisation.
 - Kandidatenaufstellungen, Wahlvorschläge, Landeslisten, Kreiswahlvorschläge und Wahlleiterkommunikation.
 - Parteigerichtliche Verfahren, Mitgliederrechte, Ordnungsmaßnahmen und Parteiausschluss.
+- Parteigerichte nicht nur formal, sondern rechtsstaatlich prüfen: Unabhängigkeit, Geschäftsstelle, Befangenheit, Öffentlichkeit, Verfahrensdauer und Zugang zu staatlichem Rechtsschutz.
 - Spenden, Sponsoring, Rechenschaftsbericht, Aufbewahrung und Transparenz.
 - Bund, Länder und Kommunen werden als eigene Live-Check-Ebene behandelt.
 
@@ -38,7 +39,7 @@ Apache-2.0 OR MIT. Siehe Repository-Stammverzeichnis.
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 75 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 76 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -85,6 +86,7 @@ Automatisch generierte Komplett-Liste aller 75 Skills in diesem Plugin. Beschrei
 | `parteienprivileg-und-verfassung` | Erklärt Art. 21 GG, Parteienprivileg, Chancengleichheit, staatliche Neutralität und formale Relevanz. |
 | `parteigericht-antrag` | Erstellt Antrag an Parteischiedsgericht: Rubrum, Anträge, Sachverhalt, Satzung, Beweise, Eilbedürftigkeit. |
 | `parteigericht-aufbau` | Prüft Schiedsgerichtsordnung, Besetzung, Unabhängigkeit, Zuständigkeit und Verfahrensgrundsätze. |
+| `parteigericht-effektiver-rechtsschutz` | Prüft, ob der Vorrang parteiinterner Schiedsgerichtsbarkeit noch effektiven Rechtsschutz bietet oder staatlicher Eilrechtsschutz parallel vorbereitet werden muss. |
 | `parteigericht-redteam` | Prüft vor Einreichung oder Entscheidung: Zuständigkeit, rechtliches Gehör, Satzung, Beweise, Verhältnismäßigkeit. |
 | `parteigruendung` | Begleitet Gründung: Programm, Satzung, Vorstand, Mitglieder, demokratische Ordnung, Anzeige, Konto und Website. |
 | `parteikommunikation-mitglieder` | Erstellt Rundmail, Einladung, Datenschutz-Hinweis, Beschlussinformation, Konfliktkommunikation und Fristenhinweis. |

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Markenrecht Fashion Luxus-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im großen Markenrechts-Plugin: klärt Anmeldung, Recherche, DPMA/EUIPO/WIPO/USPTO, Schutzhindernisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Enforcement, Plattformen, Zoll, Lizenzen und Luxus-Fashion-Spezialfälle."
 ---
 
 <!-- konvers-stil-v1 -->
@@ -16,13 +16,13 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Markenrecht Fashio
 
 
 
-# Markenrecht Fashion und Luxus — Allgemein
+# Markenrecht — Allgemein
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Markenrecht Fashion Luxus**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das große Markenrechtsplugin. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Markenrecht-Boutique für Luxus-Modehaeuser - DPMA/EUIPO Alicante/USPTO Lanham Act via NYC-Korrespondenz, alle Markenarten (Wort/Bild/Slogan/Sound/Duft/3D/Position/Haptik/Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie, Selektivvertrieb.
+**Plugin-Fokus:** Markenrecht für DE/EU/US und internationale Portfolios: DPMA, EUIPO, WIPO/Madrid, USPTO, Markenarten, Schutzhindernisse, Waren-/Dienstleistungsverzeichnisse, Benutzung, Widerspruch, Verfall/Nichtigkeit, Verletzung, Plattformen, Zoll, Lizenzen, Koexistenz, Asset Deals und Luxus-Fashion-Spezialfälle.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 

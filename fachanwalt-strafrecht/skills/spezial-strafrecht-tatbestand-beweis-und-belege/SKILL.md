@@ -1,6 +1,6 @@
 ---
 name: spezial-strafrecht-tatbestand-beweis-und-belege
-description: "Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Strafrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -18,6 +18,15 @@ Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfel
 - Teilnahme: §§ 25-27 StGB. Mittäterschaft § 25 Abs. 2 (gemeinsamer Tatentschluss + gemeinsame Tatausführung); Anstiftung § 26 StGB; Beihilfe § 27 StGB (Strafmilderung § 27 Abs. 2 i.V.m. § 49 Abs. 1).
 - Konkurrenzen: §§ 52-55 StGB (Tateinheit; Tatmehrheit; Gesamtstrafenbildung).
 - Praxis-Tipp: Tatbestandsmatrix führen – Spalten: Merkmal, Norm, Belegtatsache, Beweismittel, Status (belegt/streitig/lückenhaft), Verteidigungslinie. Bei subjektivem Tatbestand früh Indizien-Beweise sammeln (Chatverläufe, Aussagen, Vorbereitungs­handlungen). Bei Rechtfertigungsgründen Darlegungslast Verteidigung; Subsumtion sorgfältig (BGH ständige Rspr. zu § 32 StGB: gegenwärtig + rechtswidrig + erforderlich).
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Strafrecht.
+- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -1,6 +1,6 @@
 ---
 name: spezial-revision-zahlen-schwellen-und-berechnung
-description: "Revision: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Revision: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Revision: Zahlen, Schwellenwerte und Berechnung
@@ -18,6 +18,15 @@ Er führt durch **Zahlen, Schwellenwerte und Berechnung** im Themenfeld **Revisi
 - Absolute Revisionsgründe: § 338 StPO – immer revisibel, Kausalität nicht erforderlich (z.B. nicht ordnungs­gemäße Besetzung, Verfahrenshindernis).
 - Relative Revisionsgründe: § 337 StPO – Beruhen des Urteils auf der Gesetzesverletzung.
 - Praxis-Tipp: Begründungsfrist (Monat) ist die enge Frist – Strategie: sofort nach Einlegung Sicherung Hauptverhandlungsprotokoll, Aktenstudium, Identifikation der Rügen. Sachrüge ("Verletzung materiellen Rechts") immer als Sicherheitsnetz formulieren, weil sie ohne Tatsachenvortrag wirksam ist (BGH ständige Rspr.). Verfahrensrügen wegen Aufklärungspflichtverletzung (§ 244 StPO) brauchen genaue Schilderung Beweisantrag + Ablehnungs­begründung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Revision.
+- **Arbeitsfokus:** Zahlen, Schwellenwerte und Berechnung.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

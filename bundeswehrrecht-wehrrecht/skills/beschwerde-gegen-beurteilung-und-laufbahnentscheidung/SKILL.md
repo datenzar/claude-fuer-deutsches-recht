@@ -5,34 +5,92 @@ description: "Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die 
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundeswehrrecht und Wehrrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Bundeswehrrecht mit Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung, Wehrpflichtgesetz, Reservistenrecht, Soldatenversorgung, Befehlsrecht, Fürsorge und Rechtsschutz.
+Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte Laufbahnentscheidung (Beförderung, Verwendungsentscheidung, Auswahlentscheidung) sind die Grundlage der Karriere des Soldaten. Beide sind im WBO-Weg anfechtbar (§ 1 WBO). Der Skill ordnet Beurteilungssystematik, Beschwerdegegenstände und Eilrechtsschutz im Konkurrentenstreit.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Welche Beurteilung (planmäßig, Anlass, Probezeit)?
+- Welcher Beurteiler (erster, zweiter, Höher- oder Endbeurteiler)?
+- Welche konkrete Wertung wird angegriffen (Einzelmerkmale, Gesamtwertung, Verwendungsempfehlung)?
+- Wann eröffnet, wann zugegangen (Frist § 6 WBO)?
+- Ist parallel ein Konkurrentenstreit anhängig (Beförderung, Dienstposten)?
+- Welcher Vergleichsmaßstab steht zur Verfügung (Vergleichsgruppe, Quotenregelung)?
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Rechtlicher Rahmen
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+- § 27 SG: Beurteilung als dienstliche Bewertung der Eignung, Befähigung und fachlichen Leistung.
+- Laufbahnrecht: Soldatenlaufbahnverordnung (SLV) – Voraussetzungen für Beförderung, Verwendung, Wechsel.
+- Beurteilungsbestimmungen Bundeswehr – periodisch fortgeschrieben.
+- Art. 33 II GG: Bestenauslese – Anspruch auf leistungsbezogene Auswahl.
+- § 1 WBO: Beschwerderecht – auch gegen Beurteilung und Auswahlentscheidung.
+- § 21 WBO: Erstinstanzliche Zuständigkeit BVerwG bei Maßnahme höherer Vorgesetzter (oft im Konkurrentenstreit).
+- BVerwG-Rspr. zu Beurteilungsspielraum und Plausibilitätskontrolle – ständige Rechtsprechung.
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Workflow / Schritt für Schritt
+
+1. **Beurteilung und Anlass dokumentieren.** Eröffnungsdatum, Beurteilerkette, Vergleichsgruppe.
+2. **Fehler identifizieren.**
+   - Formaler Fehler (falsche Beurteilerkette, fehlende Eröffnung),
+   - Sachlicher Fehler (Verwertungsverbote, Hörensagen, falsche Tatsachenbasis),
+   - Bewertungsfehler (Plausibilitätslücke, Maßstabsverstöße),
+   - Quotenfehler (falsche Vergleichsgruppe).
+3. **Frist sichern.** § 6 WBO: 1 Monat ab Eröffnung. Fristwahrende Beschwerde mit Vorbehalt der Begründung möglich.
+4. **Akteneinsicht.** Personalakte, andere Beurteilungen (anonymisierte Auswertung), Quotenmatrix.
+5. **Konkurrentenstreit.**
+   - Eilantrag § 21 WBO i.V.m. § 80a VwGO entsprechend, wenn Beförderung anderer droht.
+   - Schutzschrift zum BVerwG bei höchstrangiger Auswahl.
+6. **Beschwerdeschrift.** Konkrete Rüge der Beurteilungsfehler, Anträge auf Aufhebung und Neubeurteilung.
+7. **Mündliche Verhandlung.** Bei Truppendienstgericht häufig; persönliches Erscheinen.
+
+## Trade-off-Matrix
+
+| Konstellation | Strategie |
+| --- | --- |
+| Klar fehlerhafte Tatsachen | Beweisangebote, Zeugenliste |
+| Plausibilitätsfehler | Plausibilitätskontrolle nach BVerwG-Rspr. |
+| Drohende Beförderung Mitbewerber | Eilantrag § 21 WBO mit Beförderungsstopp |
+| Reine Bemessungsfrage | Beschwerde, ohne Eilrechtsschutz |
+| Quotenproblem | Vergleichsgruppe und Maßstab angreifen |
+
+## Praxistipps
+
+- Beurteilungen sind nur eingeschränkt überprüfbar – Spielraum der Beurteiler. Fokus auf formelle und Plausibilitätsfehler.
+- Eröffnungstermin Pflicht – ohne Eröffnung läuft die Frist nicht.
+- Personalakte spiegelt die Auswahlerwägungen wider – zwingende Einsicht vor Eilrechtsschutz.
+- Schutzschrift beim BVerwG vor Beförderungsterminen anderer – häufig nur wenige Wochen Reaktionszeit.
+- Maßstabsfragen erfordern Vergleichsgruppe – ohne diese kein Erfolg im Konkurrentenstreit.
+
+## Mustertexte
+
+**Beschwerde gegen Beurteilung:**
+"Gegen die mir am [Datum] eröffnete Beurteilung lege ich fristwahrend Beschwerde nach § 1 WBO ein. Ich beantrage: 1. Aufhebung der Beurteilung. 2. Neuerstellung durch [...]. 3. Einsicht in die Vergleichsgruppe und die Quotenmatrix. Begründung folgt nach Akteneinsicht. Rügen u.a.: a) fehlerhafte Tatsachenfeststellung in [...]. b) Plausibilitätslücke zwischen Einzel- und Gesamtwertung. c) Vergleichsgruppe nicht ordnungsgemäß gebildet."
+
+**Eilantrag § 21 WBO Konkurrentenstreit:**
+"An das Bundesverwaltungsgericht, Wehrdienstsenat. Es wird beantragt: Im Wege der einstweiligen Anordnung die Antragsgegnerin zu verpflichten, den Dienstposten [Bezeichnung] vorläufig nicht mit Mitbewerber [Name] zu besetzen, bis über die Beschwerde meines Mandanten rechtskräftig entschieden ist. Anordnungsgrund: drohende Beförderung am [Datum]. Anordnungsanspruch: fehlerhafte Auswahlentscheidung."
+
+## Typische Fehler
+
+- Eröffnungsdatum nicht dokumentiert – Frist unsicher.
+- Akteneinsicht erst nach Beschwerdeeinlegung – Rügen lückenhaft.
+- Schutzschrift im Konkurrentenstreit zu spät – Beförderung erfolgt vor Eilbeschluss.
+- Plausibilitätsangriff ohne Vergleichsmaßstab.
+- Verwaltungsgerichtsweg gewählt – WBO ist exklusiv.
+
+## Querverweise
+
+- soldatengesetz-rechtsstellung-grundpflichten
+- eilverfahren-konkurrentenstreit-wehrdienstsenat
+- beurteilung-konkurrentenstreit-auswahlentscheidung
+- wehrbeschwerdeordnung-beschwerde-frist-form
+- personalakte-einsicht-datenschutz
+- ernennung-dienstgrad-laufbahnrecht
+
+## Quellen Stand 06/2026
+
+- § 27 SG, Soldatenlaufbahnverordnung – Volltexte gesetze-im-internet.de.
+- Beurteilungsbestimmungen Bundeswehr – aktuelle Fassung beim BMVg.
+- Art. 33 II GG; BVerfG zu Bestenauslese – ständige Rechtsprechung.
+- BVerwG Wehrdienstsenate – ständige Rechtsprechung zu Beurteilungsspielraum und Plausibilitätskontrolle (Az. nach Verifikation).
+- WBO §§ 1, 6, 17, 21 – Volltext gesetze-im-internet.de.

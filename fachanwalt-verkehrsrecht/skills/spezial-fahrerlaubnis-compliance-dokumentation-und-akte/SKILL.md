@@ -1,6 +1,6 @@
 ---
 name: spezial-fahrerlaubnis-compliance-dokumentation-und-akte
-description: "Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Fahrerlaubnis: Compliance-Dokumentation und Aktenvermerk
@@ -20,6 +20,15 @@ Er führt durch **Compliance-Dokumentation und Aktenvermerk** im Themenfeld **Fa
 - Wiedererteilungsverfahren: § 20 FeV – Neuantrag nach Ablauf Sperrfrist; ggf. Theorie-/Praxisprüfung erforderlich.
 - Punkte-Entzug: § 4 Abs. 5 S. 1 Nr. 3 StVG – ab 8 Punkten gebundene Entziehung durch FE-Behörde.
 - Praxis-Tipp: Bei drohendem § 69 StGB-Entzug parallel: Strafverteidigung (Sperrfrist verkürzen über § 69a Abs. 7 StGB) und MPU-Vorbereitung (Beratungsstelle, Abstinenznachweise). Sperrfrist-Strategie: aktive Therapieteilnahme, soziale Stabilität, ggf. Verkehrspsychologische Beratung dokumentieren – beschleunigt § 69a Abs. 7 StGB-Antrag.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Fahrerlaubnis.
+- **Arbeitsfokus:** Compliance-Dokumentation und Aktenvermerk.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-akteneinsicht-beantragen
-description: "Akteneinsicht § 147 StPO durch Verteidiger jederzeit waehrend Ermittlungsverfahren und nach Abschluss. Versagungsgründe § 147 Abs. 2 StPO Gefaehrdung Untersuchungszweck. Beschuldigter selbst nur durch Verteidiger § 147 Abs. 4 StPO. Verletzte / Nebenklaeger § 406e StPO. Elektronische Akteneinsicht. Beschwerde § 147 Abs. 5 StPO. Verteidigung ohne Akteneinsicht in fortgeschrittenem Stadium ist Pflichtverletzung."
+description: "Akteneinsicht § 147 StPO: Verteidigerrecht nach Abs. 1, Teilversagung im laufenden Ermittlungsverfahren nur bei Gefaehrdung des Untersuchungszwecks, U-Haft-Mindestinformationen nach Abs. 2 S. 2, eigenes Akteneinsichtsrecht nicht verteidigter Beschuldigter nach Abs. 4, Verletzteneinsicht § 406e StPO, elektronische Akteneinsicht und gerichtliche Entscheidung nach Abs. 5."
 ---
 
 # Akteneinsicht beantragen
@@ -16,7 +16,8 @@ description: "Akteneinsicht § 147 StPO durch Verteidiger jederzeit waehrend Erm
 ## Anspruchsgrundlagen
 
 - Recht auf Akteneinsicht nach § 147 Abs. 1 StPO: Verteidiger darf die dem Gericht vorliegenden oder im Falle der Erhebung der Anklage vorzulegenden Akten einsehen und amtlich verwahrte Beweisstücke besichtigen.
-- Versagungsgrund § 147 Abs. 2 StPO: solange die Akten dem Gericht nicht vorliegen können einzelne Aktenteile bis zum Abschluss der Ermittlungen versagt werden, wenn der Untersuchungszweck gefährdet würde.
+- Versagungsgrund § 147 Abs. 2 StPO: solange der Abschluss der Ermittlungen noch nicht in den Akten vermerkt ist, können Akteneinsicht, einzelne Aktenteile oder die Besichtigung amtlich verwahrter Beweisgegenstände nur versagt werden, soweit der Untersuchungszweck gefährdet werden kann.
+- Haftsachen: Befindet sich der Beschuldigte in Untersuchungshaft oder ist diese im Fall vorläufiger Festnahme beantragt, sind die für die Beurteilung der Freiheitsentziehung wesentlichen Informationen zugänglich zu machen; regelmäßig ist insoweit Akteneinsicht zu gewähren (§ 147 Abs. 2 S. 2 StPO).
 - Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 - Nicht verteidigter Beschuldigter: Seit dem 1.1.2018 (Gesetz vom 5.7.2017, BGBl I S. 2208) eigenes Akteneinsichtsrecht in entsprechender Anwendung der Abs. 1–3 (§ 147 Abs. 4 Satz 1 StPO); bei Papierakten Bereitstellung von Kopien möglich (§ 147 Abs. 4 Satz 2 StPO). Die alte Regelung (nur Auskünfte oder Abschriften nach § 147 Abs. 7 StPO a.F.) ist mit dieser Reform weggefallen.
 - Nebenkläger und Verletzte: § 406e StPO — eingeschränkt bei berechtigtem Interesse.
@@ -29,7 +30,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 ## Beweislast und Verfahrensregeln
 
 - Recht des Verteidigers ist umfassend, Begründung für Antrag nicht erforderlich — nur Identifikation des Aktenzeichens.
-- Versagungsentscheidung muss begründet werden (§ 147 Abs. 5 StPO).
+- Versagungsentscheidung und Rechtsbehelf sauber prüfen: Nach § 147 Abs. 5 StPO kommt in bestimmten Konstellationen gerichtliche Entscheidung in Betracht; Gründe können zurückgehalten werden, soweit ihre Offenlegung den Untersuchungszweck gefährden könnte.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen zitieren. Literatur nur nutzen, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff sie verifiziert.
 - Dauer: keine gesetzliche Frist — bei Verzögerung Erinnerung und Beschwerde.
 
@@ -74,7 +75,7 @@ Mit kollegialen Gruessen
 - Nach Eingang der Akten: vollständige Sichtung, Aktenspiegel anlegen, Beweismittelübersicht erstellen.
 - Bei Versagung: Antrag auf gerichtliche Entscheidung nach § 147 Abs. 5 Satz 2 StPO bei dem nach § 162 StPO zuständigen Ermittlungsrichter.
 - Anschluss-Skill nach Aktenkenntnis: `fachanwalt-strafrecht-einlassung-vorbereiten` — Entscheidung Schweigen oder Einlassung mit Mandant abstimmen.
-- Bei Untersuchungshaft zusätzlich Haftprüfungsantrag (§ 117 StPO) und Haftbeschwerde (§ 304 StPO) prüfen.
+- Bei Untersuchungshaft zusätzlich Haftprüfungsantrag (§ 117 StPO), mündliche Verhandlung (§§ 118, 118a StPO), Haftbeschwerde (§ 304 StPO) und Akteneinsicht in haftrelevante Informationen (§ 147 Abs. 2 S. 2 StPO) prüfen.
 
 ## Aktuelle Rechtsprechung Akteneinsicht (Stand Mai 2026)
 

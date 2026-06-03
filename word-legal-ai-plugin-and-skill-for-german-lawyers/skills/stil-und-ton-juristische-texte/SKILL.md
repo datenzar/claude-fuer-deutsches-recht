@@ -102,3 +102,12 @@ Im Zweifel gilt: Sie-Form, nuechterner Ton, kurze Saetze, klare Empfehlung am En
 - § 43a Abs. 3 BRAO; § 11 BORA. gesetze-im-internet.de und brak.de fuer aktuelle Fassung.
 - CLAUDE.md im Repository fuer Sie-Form und Methodikvorgaben.
 - `references/methodik-buergerliches-recht.md` fuer Gutachtenstil und Urteilsstil.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

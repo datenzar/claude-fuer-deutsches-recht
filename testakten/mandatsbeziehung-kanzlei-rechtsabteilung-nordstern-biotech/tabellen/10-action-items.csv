@@ -1,0 +1,5 @@
+id,owner,task,due,status,risk
+A-17,Hellfeld,EV technische Abweichung unterschreiben,2026-06-04 10:00,open,high
+A-18,Legal Ops,Laborberichte K7/K8 schwärzen,2026-06-04 12:00,open,medium
+A-19,Falkenried,Reforecast mit Phasenlogik senden,2026-06-04 15:00,draft,high
+A-20,Auer,Board-Freigabe Vergleichsfenster holen,2026-06-05 09:00,open,high

@@ -76,13 +76,11 @@ Nach Veröffentlichung legt Mailänder Modehaus "Klothé SRL" Widerspruch wegen 
 ### Konstellation 3: Priorität auf DPMA-Anmeldung vergessen
 Frist für Prioritätsanspruch (6 Monate nach DPMA-Anmeldung) um 3 Tage versäumt. Konsequenz: Kein Prioritätsdatum, Anmeldedatum der EUTM ist maßgeblich. In der Zwischenzeit eingegangene Widersprüche werden auf Basis des EUTM-Anmeldedatums beurteilt.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Hasselblatt (Hrsg.), Münchener Anwaltshandbuch Gewerblicher Rechtsschutz, 5. Aufl. 2017, Teil C (Unionsmarken)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Eisenmann/Jautz, Grundriss des gewerblichen Rechtsschutzes, 10. Aufl. 2015
-- EUIPO-Leitlinien zur Prüfung, Teil B (Untersuchung), Stand 2024
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

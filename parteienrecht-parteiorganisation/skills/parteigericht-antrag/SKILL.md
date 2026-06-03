@@ -22,6 +22,24 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Antragsschärfung bei parteigerichtlichen Strukturproblemen
+
+Der Antrag darf nicht nur den Sachstreit erzählen. Er muss zugleich die Verfahrensarchitektur absichern, weil parteiinterner Rechtsschutz häufig vor staatlichem Rechtsschutz durchlaufen werden muss.
+
+### Zusätzliche Antrags- und Begründungsbausteine
+
+- **Rechtsschutzbedürfnis:** kurz erklären, warum das parteigerichtliche Verfahren rechtzeitig entscheiden muss und welche irreversible Folge droht.
+- **Eilbedürftigkeit:** Wahltermin, Aufstellungsversammlung, Vorstandswahl, Kandidatenmeldung, Frist zur Wahlleitung oder drohender Ausschluss konkret datieren.
+- **Spruchkörperoffenlegung:** vorsorglich Mitteilung der entscheidenden Mitglieder, Ersatzmitglieder und etwaiger Geschäftsverteilung verlangen.
+- **Befangenheitsvorbehalt:** Ablehnung nach Kenntnis der Besetzung ausdrücklich vorbehalten und kurze Frist zur Stellungnahme beantragen.
+- **Öffentliche oder parteiöffentliche Verhandlung:** bei grundrechts- oder wahlbezogenen Streitigkeiten begründen, warum Verfahrenskontrolle durch Öffentlichkeit rechtsschutzrelevant ist.
+- **Geschäftsstellenneutralität:** Zustellweg, Fristenkontrolle und Aktenzugriff so verlangen, dass kein beteiligter Parteivorstand faktisch Informationsvorsprung erhält.
+- **Hilfsantrag staatlicher Rechtsschutz:** für den Fall der Nichtbefassung, Verzögerung oder strukturellen Fairnessdefizite dokumentieren, warum parallel oder anschließend staatlicher Eilrechtsschutz geprüft werden muss.
+
+### Beweisstruktur
+
+Jede Verfahrensrüge braucht ein Aktenstück: Satzung, Schiedsgerichtsordnung, Einladung, Protokoll, E-Mail, Zustellnachweis, Fristenvermerk, Besetzungshinweis oder Nachfrage an die Geschäftsstelle. Behauptete informelle Gespräche nur als Hinweis, nicht als tragenden Beweis verwenden.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

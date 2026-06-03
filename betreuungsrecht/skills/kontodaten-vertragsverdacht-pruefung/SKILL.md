@@ -1,6 +1,6 @@
 ---
 name: kontodaten-vertragsverdacht-pruefung
-description: "Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: Anwendungsfall Betreuer oder Betreuungsgericht hat Verdacht auf ungewöhnliche Zahlungen verdächtige Dauerverträge oder Anlagegeschäfte zum Nachteil der betreuten Person. § 1814 BGB Betreuerbestellung, § 1833 BGB Haftung des Betreuers, §§ 1839-1841 BGB Rechnungslegung. Prüfraster Zahlungsauffälligkeiten identifizieren, Vertragsunterlagen auf Unwirksamkeit prüfen, Missbrauchsverdacht von normaler Vermögensverwaltung abgrenzen. Output forensisches Prüfprotokoll mit Handlungsempfehlungen Rückholung Kündigung oder Bericht ans Betreuungsgericht. Abgrenzung zu Genehmigungspflicht-Prüfung und zu Vermögensverzeichnis-Prüfung."
+description: "Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der betreuten Person. Prüft Aufgabenkreis, Wunschlage (§ 1821 BGB), Vermögensverzeichnis (§ 1835 BGB), Trennungsgebot (§ 1836 BGB), Rechnungslegung/Vermögensübersicht und gerichtliche Berichtspflichten. Output: forensisches Prüfprotokoll mit Ampel, Belegen, Rückholungs-/Kündigungsoptionen und Gerichtskommunikation."
 ---
 
 # Kontodaten- und Vertragsverdacht-Prüfung
@@ -187,4 +187,3 @@ Optional kann das Hilfsskript genutzt werden:
 python betreuungsrecht/scripts/betreuung_konto_vertragscheck.py \
   testakten/betreuung-schmalfeld-kontodaten-vertraege/05_schmalfeld_verdaechtige_transaktionen.json
 ```
-

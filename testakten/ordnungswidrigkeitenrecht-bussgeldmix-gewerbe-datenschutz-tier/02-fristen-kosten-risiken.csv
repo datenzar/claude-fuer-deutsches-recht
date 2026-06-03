@@ -1,0 +1,4 @@
+Punkt,Frist,Kosten,Status,Risiko
+Erstantrag/Erstschreiben,sofort,offen,Entwurf,Gelb
+Behördenreaktion,1 Monat prüfen,moeglich,wartet,Gelb
+Widerspruch/Klage,nach Bescheid live prüfen,Gerichtskosten prüfen,optional,Rot bei Fristversaeumnis

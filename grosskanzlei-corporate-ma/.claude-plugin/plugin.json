@@ -1,7 +1,7 @@
 {
   "name": "grosskanzlei-corporate-ma",
-  "version": "56.0.0",
-  "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-Kommandocenter, Anfänger-/First-Year-Modus, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, UmwG/StaRUG, CP-Kalender, E-Rechnung/GoBD, PMI.",
+  "version": "70.0.0",
+  "description": "Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-OS, Padlet-Canvas, Anfänger-/First-Year-Coach, Aktenanlage, Datenraum, Legal DD, Tabellenreview, SPA/APA, W&I, Public M&A, UmwG/UmwStG, StaRUG, Fusionskontrolle, FDI, FSR, Signing/Closing, PMI und 125 Spezial-Skills.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -89,6 +89,34 @@
     "e-rechnung",
     "cp-kalender",
     "tabular-review",
-    "contract-factory"
+    "contract-factory",
+    "deal-os",
+    "deal-padlet",
+    "padlet-canvas",
+    "junior-coach",
+    "first-year-associate",
+    "battlecards",
+    "risk-heatmap",
+    "matrix-factory",
+    "authority-matrix",
+    "clean-team",
+    "gun-jumping",
+    "foreign-subsidies-regulation",
+    "fsr",
+    "locked-box",
+    "completion-accounts",
+    "earn-out",
+    "indemnity",
+    "liability-cap",
+    "ancillary-documents",
+    "tsa",
+    "carve-out-separation",
+    "ip-it-data",
+    "works-council",
+    "pension",
+    "bav",
+    "insurance-dd",
+    "litigation-dd",
+    "register-filings"
   ]
 }

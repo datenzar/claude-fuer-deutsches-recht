@@ -173,3 +173,12 @@ Klassische Stolperfalle in Insolvenz- und Restrukturierungsrecht:
 2. **Vollstreckungsrisiko?** Gegenseite in der Krise → Sofort-Zahlung bevor Insolvenzverfahren eroeffnet wird.
 3. **Steuerliche Behandlung?** Vergleich ueber Lohnforderungen → Lohnsteuer + SV-Abzug bleibt bestehen; Schadensersatz-Vergleich keine USt.
 4. **Mandantenfreigabe?** Schriftliche Freigabe des Mandanten vor Unterzeichnung (Vollmachtsumfang § 83 ZPO).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

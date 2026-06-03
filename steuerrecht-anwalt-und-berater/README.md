@@ -15,34 +15,40 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
+| **Auslandseinsatz Mexiko - Wasserbau, Laufbahn und Besoldung** (`beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung`) | [Gesamt-PDF lesen](../testakten/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung/gesamt-pdf/beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung_gesamt.pdf) | [`testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beamtenrecht-auslandseinsatz-mexiko-wasserbau-besoldung.zip) |
 | **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [`testakte-beispielakte-edelholz-berlin.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
 | **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [`testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
+| **Forschungszulage Riedblick Sensorik GmbH** (`forschungszulage-sensorik-startup-taunus`) | [Gesamt-PDF lesen](../testakten/forschungszulage-sensorik-startup-taunus/gesamt-pdf/forschungszulage-sensorik-startup-taunus_gesamt.pdf) | [`testakte-forschungszulage-sensorik-startup-taunus.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-forschungszulage-sensorik-startup-taunus.zip) |
 | **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [`testakte-fortbestehensprognose-paragrafix-gmbh.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
 | **Grunderwerbsteuer Share Deal Waldkrone** (`grunderwerbsteuer-sharedeal-closing-waldkrone`) | [Gesamt-PDF lesen](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | [`testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
 | **Grundsteuer Rosenwinkel-Bescheidkette** (`grundsteuer-rosenwinkel-bescheidkette`) | [Gesamt-PDF lesen](../testakten/grundsteuer-rosenwinkel-bescheidkette/gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | [`testakte-grundsteuer-rosenwinkel-bescheidkette.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+| **Sanierungsgewinn im Insolvenzplan — Grossbach Druckguss & Präzision GmbH & Co. KG Erfurt (2026)** (`sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026/gesamt-pdf/sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-insolvenzplan-grossbach-druckguss-erfurt-2026.zip) |
+| **Sanierungsgewinn bei solventer GmbH-Liquidation — Strassburger Handelshof GmbH (Berlin-Charlottenburg)** (`sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026/gesamt-pdf/sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-solvente-liquidation-strassburger-handelshof-2026.zip) |
+| **Sanierungsgewinn im StaRUG-Plan — Pellbach Windenergie GmbH Brandenburg (2026)** (`sanierungsgewinn-starug-plan-windenergie-pellbach-2026`) | [Gesamt-PDF lesen](../testakten/sanierungsgewinn-starug-plan-windenergie-pellbach-2026/gesamt-pdf/sanierungsgewinn-starug-plan-windenergie-pellbach-2026_gesamt.pdf) | [`testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-sanierungsgewinn-starug-plan-windenergie-pellbach-2026.zip) |
+| **Luise Falkenberg - Solo-Selbstständigkeit Designstudio Falkensee 2026** (`solo-selbststaendige-designstudio-luise-falkensee-2026`) | [Gesamt-PDF lesen](../testakten/solo-selbststaendige-designstudio-luise-falkensee-2026/gesamt-pdf/solo-selbststaendige-designstudio-luise-falkensee-2026_gesamt.pdf) | [`testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-solo-selbststaendige-designstudio-luise-falkensee-2026.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
+> **Hinweis: Dieses Plugin deckt zugleich den vollständigen Fachbereich des Fachanwalts für Steuerrecht ab.**
+>
+> Es gibt **kein eigenes Plugin `fachanwalt-steuerrecht`** – dieser frühere Pfad ist als Redirect erhalten. Die gesamten Skills, Vorlagen und Workflows sind hier gebündelt, weil sich anwaltliche und steuerberatende Sicht im Mandat überlappen und ein gemeinsames Plugin Doppelpflege erspart. Die Skills decken sämtliche **FAO-§-9-Bereiche** ab – vom materiellen Steuerrecht über Steuerverfahrensrecht und Steuerstrafrecht bis zu Bilanz- und Buchführungsrecht.
+>
+> **Mapping FAO § 9 → Skills-Bereiche** (Auswahl, vollständige Liste unter `./skills/`):
+>
+> | FAO § 9 Bereich | Beispiel-Skills |
+> | --- | --- |
+> | **AO und Steuerverfahrensrecht** | `anw-akteneinsicht-steuerakte`, `anw-einspruch-finanzamt`, `anw-aussetzung-vollziehung`, `anw-fristenbuch-steuerrecht`, `fa-stu-finanzgerichtsklage-78-fgo`, `fa-stu-nichtigkeit-125-ao` |
+> | **EStG inkl. Lohnsteuer und Internationales Steuerrecht** | `fa-stu-est-werbungskosten-systematik`, `fa-stu-lst-haftung-42d-estg`, `fa-stu-doppelbesteuerung-musterabkommen-oecd`, `fa-stu-wegzugsteuer-6-astg`, `fa-stu-quellensteuer-50a-estg` |
+> | **Körperschaft- und Umwandlungsteuerrecht** | `fa-stu-kst-organschaft-14-kstg`, `fa-stu-umwandlung-formwechsel-umwstg`, `fa-stu-vga-pruefraster`, `fa-stu-anteilstausch-21-umwstg` |
+> | **Umsatzsteuerrecht** | `fa-stu-ust-vorsteuerabzug-15-ustg`, `fa-stu-ust-innergemeinschaftlich-6a-ustg`, `fa-stu-ust-rechnungspflicht-14-ustg`, `fa-stu-ust-organschaft-2-abs-2-ustg` |
+> | **Erbschaft- und Schenkungsteuer / Bewertung** | `fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg`, `fa-stu-schenkung-zehnjahresfrist`, `fa-stu-bewertung-immobilien-bewg` |
+> | **Bilanz- und Buchführungsrecht** | `fa-stu-bilanzberichtigung-4-abs-2-estg`, `fa-stu-handels-vs-steuerbilanz`, `fa-stu-rueckstellungen-249-hgb` |
+> | **Steuerstrafrecht (§§ 369 ff. AO, § 26b UStG)** | `fa-stu-steuerhinterziehung-370-ao`, `fa-stu-selbstanzeige-371-ao`, `fa-stu-leichtfertige-steuerverkuerzung-378-ao` |
+> | **Zoll-, Verbrauchsteuer- und Außenwirtschaftsrecht** | `fa-stu-zollwert-unionszollkodex`, `fa-stu-energiesteuerentlastung`, `fa-stu-aussenwirtschaftsembargo` |
+> | **Berufsrecht und Gebührenrecht** | `fa-stu-stberg-vereinbare-taetigkeit`, `fa-stu-rvg-steuerstreit`, `fa-stu-vorbehaltsaufgaben-stberg` |
 
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte** (`beispielakte-edelholz-berlin`) | [Gesamt-PDF lesen](../testakten/beispielakte-edelholz-berlin/gesamt-pdf/beispielakte-edelholz-berlin_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| **Betriebsprüfung & Selbstanzeige — Marquardt Handelsvertretung Maschinenbau GmbH & Co. KG (Augsburg)** (`betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg`) | [Gesamt-PDF lesen](../testakten/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg/gesamt-pdf/betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betriebspruefung-und-selbstanzeige-marquardt-handelsvertretung-augsburg.zip) |
-| **Fortbestehensprognose Paragrafix GmbH** (`fortbestehensprognose-paragrafix-gmbh`) | [Gesamt-PDF lesen](../testakten/fortbestehensprognose-paragrafix-gmbh/gesamt-pdf/fortbestehensprognose-paragrafix-gmbh_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-| **Grunderwerbsteuer Share Deal Waldkrone** (`grunderwerbsteuer-sharedeal-closing-waldkrone`) | [Gesamt-PDF lesen](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/gesamt-pdf/grunderwerbsteuer-sharedeal-closing-waldkrone_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-| **Grundsteuer Rosenwinkel-Bescheidkette** (`grundsteuer-rosenwinkel-bescheidkette`) | [Gesamt-PDF lesen](../testakten/grundsteuer-rosenwinkel-bescheidkette/gesamt-pdf/grundsteuer-rosenwinkel-bescheidkette_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
-Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung. Die DBA-Skills sind jetzt um eine weltweite Ländermatrix nach BMF-Stand 01.01.2026, MLI-Routing, Quellensteuer-Atlas, MAP/EU-Streitbeilegung und Edge-Case-Playbook erweitert.
-
-> Dieses Plugin ist **gleichzeitig das Fachanwalts-Plugin** für Steuerrecht. Es ersetzt das frühere separate `fachanwalt-steuerrecht`-Plugin: alle Fachanwalts-Skills sind hier mit dem Präfix `anw-` enthalten — die FAO-§-9-Voraussetzungen sind als Anhang im Skill `anw-orientierung` aufgenommen.
+Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steuerrecht** (`anw-`) — inkl. Fachanwältinnen und Fachanwälte für Steuerrecht — und **Steuerberatung** (`stb-`). Umfasst das vollständige Mandats-Workflow von der Bescheidanalyse über Einspruch und Klage bis zu Selbstanzeige, Außenprüfung, Strafverteidigung und Haftungs-Warnschreiben — sowie Steuerberater-Werkzeuge für BWA-/SuSa-/Bilanzprüfung, Überschuldungs- und Liquiditätsprüfung mit Krisenfrüherkennung. Die DBA-Skills sind um eine weltweite Ländermatrix nach BMF-Stand 01.01.2026, MLI-Routing, Quellensteuer-Atlas, MAP/EU-Streitbeilegung und Edge-Case-Playbook erweitert.
 
 **Jede Ausgabe ist ein Entwurf zur anwaltlichen bzw. steuerlichen Prüfung — zitiert, mit Prüfhinweisen versehen. Das Plugin erledigt die Recherchearbeit. Die rechtliche Beurteilung und die Entscheidung liegen beim Rechtsanwalt, Fachanwalt für Steuerrecht oder Steuerberater.** Folgenreiche Handlungen — Einreichen, Versenden, Vollziehen — erfordern ausdrückliche Freigabe.
 
@@ -51,65 +57,6 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell/Landesmodellen, Grunderwerbsteuer-Share-Deals mit Signing/Closing, § 23 EStG, § 20 EStG/Verlustverrechnung und DBA-Quellen nach BMF-Stand 01.01.2026.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate aus Modellwissen. BFH/FG-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle; Verwaltungsauffassung nur als BMF/BZSt-Quelle und nie als Ersatz für Gesetz und Rechtsprechung.
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-| **grundsteuer rosenwinkel bescheidkette** | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-| **grunderwerbsteuer sharedeal closing waldkrone** | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Steuerberater und Fachanwalt für Steuerrecht (`steuerrecht-anwalt-und-berater`) | [steuerrecht-anwalt-und-berater.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json` und `skills/` im ZIP-Root enthalten. Nicht das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
-
-### Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Edelholz Manufaktur Berlin (Liquiditaet/Steuer/Insolvenz)** | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| **Grundsteuer Rosenwinkel Bescheidkette** | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-| **Grunderwerbsteuer Sharedeal Closing Waldkrone** | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-
----
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakten
-
-Zu diesem Plugin existieren 5 vollständige Beispielakten:
-
-| Akte | Quelle | Direkt-Download |
-|---|---|---|
-| Edelholz Manufaktur Berlin GmbH — Liquiditäts- und Steuerakte | [`testakten/beispielakte-edelholz-berlin/`](../testakten/beispielakte-edelholz-berlin/) | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
-| Fortbestehensprognose Paragrafix GmbH | [`testakten/fortbestehensprognose-paragrafix-gmbh/`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
-| Großkanzlei Corporate/M&A Datenraum | [`testakten/grosskanzlei-corporate-ma-datenraum/`](../testakten/grosskanzlei-corporate-ma-datenraum/) | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
-| Grunderwerbsteuer Share Deal Waldkrone | [`testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/`](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/) | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
-| Grundsteuer Rosenwinkel-Bescheidkette | [`testakten/grundsteuer-rosenwinkel-bescheidkette/`](../testakten/grundsteuer-rosenwinkel-bescheidkette/) | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
 ## Für die Anwaltschaft im Steuerrecht (anw-...)
 
 Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitung von Bescheiden, Steuerstrafverteidigung und Haftungswarnung bei Krisen. **Identisch nutzbar für Fachanwältinnen und Fachanwälte für Steuerrecht** (FAO § 9); die Fachanwaltsausbildungs-Voraussetzungen sind im Skill `anw-orientierung` als Anhang dokumentiert.
@@ -269,7 +216,7 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
 
 ## Alle Skills im Ueberblick
 
-Automatisch generierte Komplett-Liste aller 209 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
+Automatisch generierte Komplett-Liste aller 280 Skills in diesem Plugin. Beschreibungen stammen aus dem `description`-Feld der jeweiligen SKILL.md.
 
 | Skill | Beschreibung |
 | --- | --- |
@@ -316,6 +263,56 @@ Automatisch generierte Komplett-Liste aller 209 Skills in diesem Plugin. Beschre
 | `anw-umsatzsteuer-vorsteuerabzug-pruefen` | Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `anw-verbindliche-auskunft` | Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt u... |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Pr... |
+| `fa-stu-anteilstausch-21-umwstg` | Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgese... |
+| `fa-stu-aussenpruefung-anordnung-pruefung` | Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Be... |
+| `fa-stu-aussenwirtschaftsembargo` | Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat o... |
+| `fa-stu-betriebspruefung-strafrecht-393-ao` | Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmoment... |
+| `fa-stu-bewertung-immobilien-bewg` | Bewertung von Grundvermoegen fuer Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Fi... |
+| `fa-stu-bilanzberichtigung-4-abs-2-estg` | Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerrecht — Korrektur unrichtiger Bilanzansatzfehler und Wahlrechtsausuebung in Folgejahren. Anwendungsfall Aussenpruefung deckt Bilanzansatzfehler auf oder Steuerpflichtiger w... |
+| `fa-stu-doppelbesteuerung-musterabkommen-oecd` | Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistel... |
+| `fa-stu-energiesteuerentlastung` | Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und Stromsteuergesetz — Spitzenausgleich produzierendes Gewerbe und Land- und Forstwirtschaft. Anwendungsfall Mandant ist energieintensives Unternehmen und beantragt Entlastun... |
+| `fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg` | Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfa... |
+| `fa-stu-est-werbungskosten-systematik` | Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten... |
+| `fa-stu-finanzgerichtsklage-78-fgo` | Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill lief... |
+| `fa-stu-finanztransaktion-abgeltungsteuer` | Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 20 EStG § 32d EStG Antragsveranlagung Wahl Teileinkuenfteverfahren bei wesentlichen Beteiligungen. Anwendungsfall Anleger mit ggf. anrechenbarer Quellensteuer oder Beteiligung... |
+| `fa-stu-grunderwerbsteuer-share-deal` | Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Aenderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-T... |
+| `fa-stu-grundsteuer-bundesmodell` | Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhael... |
+| `fa-stu-haftungsbescheid-69-191-ao` | Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beira... |
+| `fa-stu-handels-vs-steuerbilanz` | Pruefung der Massgeblichkeit der Handelsbilanz fuer die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren... |
+| `fa-stu-int-verrechnungspreise-1-astg` | Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konze... |
+| `fa-stu-investmentsteuer-invstg` | Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Teilfreistellungen Vorabpauschale und Spezial-Investmentfonds Kapitel 3. Anwendungsfall Anleger mit Fondsbestand fragt nach Belastung der Vorabpauschale und Teilfreistellungen... |
+| `fa-stu-kst-organschaft-14-kstg` | Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Orga... |
+| `fa-stu-leichtfertige-steuerverkuerzung-378-ao` | Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfertige Steuerverkuerzung — Abgrenzung zur Hinterziehung Schuldform Bussgeld und Wirkung der Selbstanzeige § 378 Abs. 3 AO. Anwendungsfall Finanzamt leitet Bussgeldverfahren e... |
+| `fa-stu-lst-haftung-42d-estg` | Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pausc... |
+| `fa-stu-nichtigkeit-125-ao` | Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adres... |
+| `fa-stu-onboarding-beratungsstruktur` | Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest fuer steuerliche Stellungnahmen Gutachten und S... |
+| `fa-stu-onboarding-bescheid-lesen` | Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf... |
+| `fa-stu-onboarding-festsetzungsverjaehrung` | Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjaehrungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung.... |
+| `fa-stu-onboarding-fristen-uebersicht` | Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerbera... |
+| `fa-stu-onboarding-korrekturnormen` | Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftige... |
+| `fa-stu-onboarding-mandantenkommunikation` | Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko fuer Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung z... |
+| `fa-stu-onboarding-mandatsannahme` | Erstgespraech-Leitfaden fuer steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenf... |
+| `fa-stu-onboarding-rechtsbehelfssystematik` | Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zustaendig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisc... |
+| `fa-stu-onboarding-verwaltungsanweisungen` | Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall B... |
+| `fa-stu-onboarding-verzinsung` | Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungs... |
+| `fa-stu-quellensteuer-50a-estg` | Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpf... |
+| `fa-stu-rueckstellungen-249-hgb` | Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG.... |
+| `fa-stu-rvg-steuerstreit` | Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie... |
+| `fa-stu-schenkung-zehnjahresfrist` | Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnjahresfrist § 14 ErbStG — Freibetragsplanung Kettenschenkung und mehrfache Inanspruchnahme. Anwendungsfall Eltern wollen Vermoegen schrittweise auf Kinder uebertragen und da... |
+| `fa-stu-selbstanzeige-371-ao` | Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Vollstaendigkeitsgebot Berichtigung von zehn Jahren Sperrgruende § 371 Abs. 2 AO und Zahlung des Hinterziehungsbetrags nebst Zinsen. Anwendungsfall Mandant erkennt rueckwirkend U... |
+| `fa-stu-stberg-vereinbare-taetigkeit` | Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligu... |
+| `fa-stu-steuerhinterziehung-370-ao` | Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen St... |
+| `fa-stu-stundung-erlass-227-ao` | Praxis-Skill fuer Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persoenliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enth... |
+| `fa-stu-tatsaechliche-verstaendigung` | Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzung... |
+| `fa-stu-umwandlung-formwechsel-umwstg` | Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel Einbringung mit den Rechtsfolgen Buchwert Zwischenwert oder gemeiner Wert. Anwendungsfall Konzern oder Familie strukturie... |
+| `fa-stu-ust-innergemeinschaftlich-6a-ustg` | Praxispruefung der Steuerbefreiung fuer innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die St... |
+| `fa-stu-ust-organschaft-2-abs-2-ustg` | Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aus... |
+| `fa-stu-ust-rechnungspflicht-14-ustg` | Vollstaendiger Skill zur umsatzsteuerlichen Rechnungspflicht — Pflichtangaben Sonderfaelle Kleinbetragsrechnung Rechnungsberichtigung Rueckwirkung der Berichtigung und Folge eines unrichtigen oder unberechtigten Steuerausweises § 14c USt... |
+| `fa-stu-ust-vorsteuerabzug-15-ustg` | Vollstaendige Pruefung des Vorsteuerabzugs nach § 15 UStG — Unternehmereigenschaft Leistungsbezug fuer das Unternehmen ordnungsgemaesse Rechnung Ausschlusstatbestaende und EuGH-Rechtsprechung zum formellen Mangel. Anwendungsfall Aussenpr... |
+| `fa-stu-vga-pruefraster` | Pruefraster zur verdeckten Gewinnausschuettung — Vermoegensminderung oder verhinderte Vermoegensmehrung Veranlassung im Gesellschaftsverhaeltnis Auswirkung auf Einkommen Behandlung beim Gesellschafter. Anwendungsfall Aussenpruefung erken... |
+| `fa-stu-vorbehaltsaufgaben-stberg` | Pruefung der Vorbehaltsaufgaben nach StBerG — wer darf welche steuerliche Hilfeleistung erbringen und welche Folge hat die unerlaubte Hilfeleistung. Anwendungsfall Unternehmen oder Lohnsteuerhilfeverein berufen sich auf eingeschraenkte B... |
+| `fa-stu-wegzugsteuer-6-astg` | Vollstaendige Bearbeitung der Wegzugsbesteuerung bei Kapitalanteilen iSd § 17 EStG — Tatbestand Folgen Stundung und Rueckkehrregelung nach der AStG-Reform. Anwendungsfall Mandant zieht ins Ausland oder uebertraegt Anteile an im Ausland A... |
+| `fa-stu-zollwert-unionszollkodex` | Praxisbearbeitung zollrechtlicher Mandate — Tarifierung Art. 56 UZK Zollwert Art. 70 ff. UZK Praeferenzen und Zollverfahren. Anwendungsfall Importeur erhaelt Nacherhebung wegen falscher Tarifierung oder das Hauptzollamt setzt einen erhoe... |
 | `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle steuerrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu E-Rechnung, Umsatzsteuer, Krypto, Grundsteuer, Mindeststeuer, DBA, Betriebsprüfung, Einspruch, AdV und Steuer-/SV... |
 | `schriftsatzkern-substantiierung` | Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begründet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruc... |
 | `stb-addison-bwa-konfiguration-tipps` | Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison. |
@@ -469,6 +466,27 @@ Automatisch generierte Komplett-Liste aller 209 Skills in diesem Plugin. Beschre
 | `stb-routine-monatsabschluss-30-tage-zyklus` | Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan. |
 | `stb-routine-quartalsabschluss-prozess` | Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlicher Quartalsabschluss mit Periodenabgrenzung Quartals-BWA Mandantengespraech und Steuerthemen. Methodik strukturierter Quartals-Plan. Output Quartals-BWA Quartalsbericht Ge... |
 | `stb-sage-buchhalter-bwa-konfiguration` | Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage. |
+| `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust` | § 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG. |
+| `stb-sanierungsgewinn-3a-estg-grundtatbestand` | Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung. |
+| `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person` | Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene Sanierung im Sinne § 3a EStG. § 3a EStG schützt nur die unternehmensbezogene Variante; Restschuldbefreiung Privatperson fällt unter § 3a Absatz 5. |
+| `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung` | Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungswirkung. Nach Feststellung des Sanierungserfolgs ist der Antrag nicht mehr zurücknehmbar; strategische Konsequenzen sind vor Antragstellung abzuwägen. |
+| `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge` | § 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträge mindern den Sanierungsertrag, bevor die Steuerbefreiung nach § 3a EStG greift. Folge: Verlustvortrag wird verbraucht, mindestens aber bis Mindestbesteuerung. |
+| `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel` | § 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken. |
+| `stb-sanierungsgewinn-betriebsstaette-und-international` | Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuordnung, DBA-Behandlung, Sanierungsforderungsverzicht durch ausländische Gläubiger. § 3a EStG gilt nur für die deutsche Besteuerung. |
+| `stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge` | BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen. |
+| `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht` | Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlung der Forderung in Eigenkapital. Sanierungssteuerlich oft günstiger; aber gesellschaftsrechtliche Hürden und Werthaltigkeits-Problem zu beachten. |
+| `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung` | Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung. |
+| `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan` | Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG ni... |
+| `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer` | Unterschiede in der Sanierungsertragsbehandlung zwischen Körperschaftsteuer und Einkommensteuer. KSt geht über § 8 Absatz 1 KStG auf § 3a EStG; ESt direkt; unterschiedliche Verlustverrechnung und Antragsstruktur. |
+| `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln` | Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann... |
+| `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig` | Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten. |
+| `stb-sanierungsgewinn-personengesellschaft-und-mitunternehmer` | Besonderheiten der Sanierungsertragsbehandlung bei Personengesellschaften und Mitunternehmern. Anteilige Zurechnung Sanierungsertrag; getrennter Antrag § 3a Absatz 4 EStG je Mitunternehmer; Sonderbetriebsvermögen. |
+| `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg` | Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen. |
+| `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` | Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung... |
+| `stb-sanierungsgewinn-verlustvortrag-sanity-check` | Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d EStG, § 8c KStG-Mindestbesteuerung und § 10a Satz 1 GewStG den Sanierungsertrag bereits aufzehren. Wenn ja, ist der Antrag nach Paragraf 3a Absatz 4 EStG entbehrlich. |
+| `stb-sanierungsgewinn-vermeidungsstrategien-praxis` | Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist. |
+| `stb-sanierungsgewinn-vorbereitungs-checkliste` | Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezo... |
+| `stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung` | Zuständigkeiten und Praxis von Finanzamt und Betriebsprüfung bei Sanierungsanträgen. Sachgebietsleiter, Großbetriebsprüfung, BMF-Erlass-Bindung, Einspruchsverfahren und mögliche Streitpunkte. |
 | `stb-susa-anlagenkonten-ueberblick` | Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immaterielle WG Sachanlagen Finanzanlagen Buchwerte. Anwendungsfall Monats- oder Jahres-SuSa mit Anlagenbestand AfA-Aktualisierung Zu- und Abgaenge. Methodik Anlagenspiegel-Abg... |
 | `stb-susa-debitorenliste-osa-offene-posten` | Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Fälligkeitsstrukur Top-Schuldner Risikoprüfung. Output OPOS-Liste... |
 | `stb-susa-erstellen-grundlagen` | Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Prüfung Verwendung. Output SuSa-Datei als Excel... |

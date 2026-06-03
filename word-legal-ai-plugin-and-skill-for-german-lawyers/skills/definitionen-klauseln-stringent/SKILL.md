@@ -137,3 +137,12 @@ wird folgender Liefervertrag (im Folgenden "Vertrag") geschlossen.
 
 - § 305c Abs. 2 BGB, § 307 Abs. 1 Satz 2 BGB, §§ 133, 157 BGB. gesetze-im-internet.de.
 - Konvention zur Defined-Terms-Auszeichnung folgt internationaler M&A-Praxis und ist in deutscher Wirtschaftsvertragsgestaltung etabliert. Konkretes Hauskonvention je Kanzlei pruefen.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

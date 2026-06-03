@@ -20,68 +20,7 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akten demonstrieren dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Aktenübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** (`dsa-dma-bayrische-baustube-meissner`) | [Gesamt-PDF lesen](../testakten/dsa-dma-bayrische-baustube-meissner/gesamt-pdf/dsa-dma-bayrische-baustube-meissner_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-| **DSA/DMA — VLOP-Designation und Mahnverfahren Körnerstrom Social GmbH (Halmweise.de)** (`dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom`) | [Gesamt-PDF lesen](../testakten/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom/gesamt-pdf/dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-tunnelreichweite-vlop-very-large-online-plattform-koernerstrom.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
-
-## Direkt-Download
-
-| Datei | Direkt-Download |
-| --- | --- |
-| **Plugin-ZIP: DSA, DMA und Digitalregulierung** | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
-| **Akte: Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-
-Für den ZIP-Upload das einzelne Plugin-ZIP verwenden, nicht das komplette Repository-ZIP.
-
-### Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **nübersicht — Baustube Meißnerlein GmbH ./. Glitzerwald Inc. u. a.** ([`testakten/dsa-dma-bayrische-baustube-meissner/`](../testakten/dsa-dma-bayrische-baustube-meissner/)).
-
-Direkt-Download als ZIP: [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| DSA, DMA und Digitalregulierung (`dsa-dma-digitalregulierung`, dieses Plugin) | [dsa-dma-digitalregulierung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dsa-dma-digitalregulierung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-### Installation in Claude Code
-
-1. ZIP herunterladen (Link oben).
-2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Skills sind sofort verfügbar.
-
-> **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus "Code → Download ZIP" verwenden.
 
 ## Abgedeckte Rechtsakte
 
@@ -147,26 +86,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `dsa-vlop-vlose-einordnung-und-pflichten` | VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (M... |
 | `dsa-werbearchiv-aufbauen` | Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap fuer VLOP zur technischen Umsetzung. |
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art.... |
-| `spezial-account-internationaler-bezug-und-schnittstellen` | Account: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-data-dokumentenmatrix-und-lueckenliste` | Data: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-digitalregulierung-erstpruefung-und-mandatsziel` | Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dma-fristen-form-und-zustaendigkeit` | DMA: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dora-risikoampel-und-gegenargumente` | Dora: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-dsa-tatbestand-beweis-und-belege` | DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-eidas-behoerden-gericht-und-registerweg` | Eidas: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-einordnung-zahlen-schwellen-und-berechnung` | Einordnung: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-erstellung-abschlussprodukt-und-uebergabe` | Erstellung: Abschlussprodukt und Übergabe: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-forschungsdatenzugang-mehrparteienkonflikt` | Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-gatekeeper-schriftsatz-brief-und-memo-bausteine` | Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kernplattformdienste-sonderfall-und-edge-case` | Kernplattformdienste: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-klagewege-mandantenkommunikation-entscheidungsvorlage` | Klagewege: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-risikobewertung-compliance-dokumentation-und-akte` | Risikobewertung: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-schwellen-verhandlung-vergleich-und-eskalation` | Schwellen: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sperre-formular-portal-und-einreichung` | Sperre: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-transparenzbericht-fristennotiz-und-naechster-schritt` | Transparenzbericht: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vertreter-beweislast-und-darlegungslast` | Vertreter: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vlop-livequellen-und-rechtsprechungscheck` | Vlop: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-zustellung-red-team-und-qualitaetskontrolle` | Zustellung: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-account-internationaler-bezug-und-schnittstellen` | Account: Internationaler Bezug und Schnittstellen im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-data-dokumentenmatrix-und-lueckenliste` | Data: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-digitalregulierung-erstpruefung-und-mandatsziel` | Digitalregulierung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dma-fristen-form-und-zustaendigkeit` | DMA: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dora-risikoampel-und-gegenargumente` | Dora: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-dsa-tatbestand-beweis-und-belege` | DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-eidas-behoerden-gericht-und-registerweg` | Eidas: Behörden-, Gerichts- oder Registerweg im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-einordnung-zahlen-schwellen-und-berechnung` | Einordnung: Zahlen, Schwellenwerte und Berechnung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-erstellung-abschlussprodukt-und-uebergabe` | Erstellung: Abschlussprodukt und Übergabe im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-forschungsdatenzugang-mehrparteienkonflikt` | Forschungsdatenzugang: Mehrparteienkonflikt und Interessenmatrix im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-gatekeeper-schriftsatz-brief-und-memo-bausteine` | Gatekeeper: Schriftsatz-, Brief- und Memo-Bausteine im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kernplattformdienste-sonderfall-und-edge-case` | Kernplattformdienste: Sonderfall und Edge-Case-Prüfung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-klagewege-mandantenkommunikation-entscheidungsvorlage` | Klagewege: Mandantenkommunikation und Entscheidungsvorlage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-risikobewertung-compliance-dokumentation-und-akte` | Risikobewertung: Compliance-Dokumentation und Aktenvermerk im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-schwellen-verhandlung-vergleich-und-eskalation` | Schwellen: Verhandlung, Vergleich und Eskalation im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sperre-formular-portal-und-einreichung` | Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-transparenzbericht-fristennotiz-und-naechster-schritt` | Transparenzbericht: Fristennotiz und nächster Schritt im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vertreter-beweislast-und-darlegungslast` | Vertreter: Beweislast, Darlegungslast und Substantiierung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vlop-livequellen-und-rechtsprechungscheck` | Vlop: Livequellen- und Rechtsprechungscheck im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-zustellung-red-team-und-qualitaetskontrolle` | Zustellung: Red-Team und Qualitätskontrolle im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin dsa-dma-digitalregulierung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin dsa-dma-digitalregulierung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-dokumentenintake` | Dokumentenintake im Plugin dsa-dma-digitalregulierung: liest Uploads, sortiert Dokumentarten, markiert Fristen und baut eine knappe Arbeitsakte. |

@@ -5,34 +5,101 @@ description: "Rezeptur Plausibilitätsprüfung Herstellungsanweisung: prüft die
 
 # Rezeptur Plausibilitätsprüfung Herstellungsanweisung
 
-## Einsatz
-Nutze diesen Skill im Plugin **Apothekenrecht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Apothekenrecht zwischen ApoG, ApBetrO, AMG, AMPreisV, SGB V, HWG, BtMG, Datenschutz, Aufsicht, Versandhandel, E-Rezept und Apothekenpraxis.
+Individualrezeptur: Apotheke stellt im Einzelfall auf ärztliche Verschreibung ein Arzneimittel her (z. B. Salbe mit Wirkstoff X in Konzentration Y, Saft für Kind, Kapseln nicht zugelassener Wirkstoffstärke). Pflicht ist eine **Plausibilitätsprüfung** (§ 7 ApBetrO) und eine schriftliche **Herstellungsanweisung** mit Dokumentation. Bei Fehlern droht Patientenschaden, Anhörung, Haftung (§§ 280, 823, 84 AMG-analog) und Aufsichtsmassnahmen.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Rezeptur Plausibilitätsprüfung Herstellungsanweisung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: ApoG, ApBetrO, AMG, AMPreisV, HWG, BtMG/BtMVV, SGB V, DSGVO, E-Rezept/TI-Hinweise, Landesaufsicht..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+- Individualrezeptur erstmals geplant, Schritt-für-Schritt-Workflow zu prüfen.
+- Schaden eingetreten — Patient meldet Nebenwirkung; Apotheke prüft Verantwortung.
+- Aufsicht beanstandet fehlende Plausibilitätsprüfung.
+- Schulung der pharmazeutischen Mitarbeiter zur Rezeptur.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+Eingaben:
+- Verschreibung mit Wirkstoff, Konzentration, Trägermedium, Menge.
+- Apothekenrezeptur-Software / NRF (Neues Rezeptur-Formularium) / DAC (Deutscher Arzneimittel-Codex).
+- Ausgangsstoff-Prüfprotokoll, Lieferantennachweis.
+- Plausibilitätsformular, Herstellungsanweisung, Herstellungsprotokoll.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Rechtlicher Rahmen
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+- **§ 7 ApBetrO:** Pflicht zur Plausibilitätsprüfung **vor** Herstellung. Geprüft werden: Wirkstoff, Konzentration, Galenik, Kombination, Indikation, Risiken.
+- **§ 8 ApBetrO:** Schriftliche Herstellungsanweisung; Pflicht zur Prüfung der Ausgangsstoffe.
+- **§ 14 ApBetrO:** Dokumentation Herstellung — Herstellungsprotokoll mit Charge, Datum, Bearbeiter.
+- **§ 21 ApBetrO:** QMS.
+- **§ 11 ApBetrO:** Beratung Patient.
+- **§ 21 AMG:** Zulassungspflicht — Rezeptur ist ausgenommen (Einzelfertigung).
+- **AMVV** für die Verschreibung.
+- **NRF / DAC** als anerkannte Standards (vom Anwender zu verifizieren — Aktualität).
+- BGH, staend. Rspr. zur Apothekenhaftung bei Rezepturfehlern.
+
+## Workflow / Schritt für Schritt
+
+1. **Plausibilitätsprüfung VOR Herstellung:**
+   - Wirkstoff vorhanden, geeignet, korrekt dosiert für Indikation?
+   - Konzentration plausibel für angegebene Indikation? (z. B. Cortison-Salben — Stärken)
+   - Galenik kompatibel mit Trägermedium?
+   - Kombinationen verträglich (Hilfsstoffe, pH, Hydroskopie)?
+   - Patientenfaktoren: Alter, Allergie, Schwangerschaft?
+   - Bei Bedenken: Rücksprache mit Arzt — Dokumentation.
+2. **Herstellungsanweisung:** Schriftlich, mit Wirkstoff, Hilfsstoffen, Gerätschaft, Reihenfolge, Endkontrolle.
+3. **Ausgangsstoffe prüfen:** Identitätsprüfung (eigene oder zertifiziert), Chargenprüfung, Verfall.
+4. **Herstellung:** Reinraum-Bedingungen, Personalhygiene, Geräte gereinigt.
+5. **Endkontrolle:** Visuell, Gewicht, ggf. pH/Konsistenz.
+6. **Etikettierung:** Apothekenname, Patient, Wirkstoff, Konzentration, Verfall, Lagerhinweis, Anwendungshinweis.
+7. **Herstellungsprotokoll:** Datum, Bearbeiter, Charge, Identifikationsnummer.
+8. **Beratung Patient:** Anwendung, Aufbewahrung, Verfall, Risiken.
+9. **Aufbewahrung Dokumentation:** Drei Jahre, bei BtM-Rezeptur zehn Jahre.
+
+## Trade-off-Matrix
+
+| Rezeptur-Typ | Plausibilitätsprüfung | Herstellungsanweisung | Endkontrolle |
+|---|---|---|---|
+| NRF-Standardrezeptur | vereinfacht (Verweis NRF) | NRF-Anleitung | Standard |
+| Individuelle Salbe nach Arztwunsch | umfassend | individuell | sensorisch + Gewicht |
+| Kapseln mit Wirkstoff < Zulassung | umfassend, ggf. Rücksprache | individuell | Wirkstoffmenge pro Kapsel |
+| Kinderrezeptur (Saft) | umfassend, alters-/gewichtsadaptiert | individuell | pH, Geschmack, Stabilität |
+| Sterilrezeptur Augentropfen | sehr hoch (Reinraum) | streng nach SOP | Sterilkontrolle |
+
+## Praxistipps
+
+- Bei Zweifel an Plausibilität — Rücksprache Arzt **schriftlich** dokumentieren. Telefonat allein bietet keinen Beweis.
+- NRF/DAC-Standardrezepturen wann immer möglich verwenden — geprüfte Sicherheit + Vereinfachung Doku.
+- Software-Tools für Plausibilität (DAP, ABDA-DB) nutzen — reduzieren menschliche Fehler erheblich.
+- Bei Schaden: sofortige Untersuchung, Dokumentation aller Schritte, Versicherung informieren.
+- Auszubildende dürfen Rezeptur unter Apothekeraufsicht; Letztverantwortung verbleibt bei Apotheker:in.
+
+## Mustertexte
+
+### Plausibilitätsprüfungs-Formular (Auszug)
+"Datum / Rezept-Nr.: [...] | Patient: [Initialen, Geb.-Datum] | Verordnung: [Wirkstoff, Konzentration, Hilfsstoffe, Menge] | Prüfung: 1. Indikation [ja/nein/Rücksprache]; 2. Konzentration plausibel [ja/nein]; 3. Galenik kompatibel [ja/nein]; 4. Hilfsstoff-Verträglichkeit [ja/nein]; 5. Patientenfaktoren [Allergie/Alter/Schwangerschaft] | Rücksprache Arzt: [ja/nein, Datum, Inhalt] | Plausibilität bestätigt durch: [Name Apotheker:in] | Freigabe zur Herstellung: [Datum]"
+
+### Herstellungsanweisung (Auszug)
+"Rezeptur-Nr.: [...] | NRF/DAC-Referenz: [...] / Individualrezeptur | Wirkstoff: [Name, Menge] | Hilfsstoffe: [Liste mit Mengen] | Gerätschaft: [Liste] | Reihenfolge: 1. ... 2. ... 3. ... | Mischtechnik: [Salbenmühle, Fantaschale, Magnetrührer] | Endprüfung: [visuell/Gewicht/pH/Konsistenz] | Etikettierung: [Wortlaut] | Verfall: [Datum, basierend auf Stabilitätsstudien]"
+
+## Typische Fehler
+
+- Keine Plausibilitätsprüfung dokumentiert, "haben wir geprüft" reicht nicht.
+- Identitätsprüfung Ausgangsstoff nur durch Zertifikat-Sichtung — die ApBetrO verlangt eigene Identitätsprüfung.
+- Herstellungsprotokoll wird erst Tage später ausgefüllt — Chargennummer nicht mehr nachvollziehbar.
+- Hilfsstoff allergisch beim Patient, nicht im Plausibilitätscheck erkannt.
+- Verfallsdatum auf Etikett zu generös; eigene Stabilitätsdaten fehlen.
+
+## Querverweise
+
+- `arzneimittelpruefung-ausgangsstoffe-pruefprotokoll` (Eingangsprüfung)
+- `defektur-100er-regel-qualitaetssicherung` (Serienherstellung)
+- `apothekenbetriebsordnung-grundpflichten` (Rahmen)
+- `qualitaetsmanagement-qms-sops` (SOP)
+- `raeume-ausstattung-rezeptur-defektur-labor` (Räume/Geräte)
+- `btm-rezeptur-amts-schnellcheck` (BtM-Rezeptur)
+
+## Quellen Stand 06/2026
+
+- ApBetrO §§ 7, 8, 11, 14, 21.
+- AMG § 21.
+- NRF (Neues Rezeptur-Formularium) und DAC (Deutscher Arzneimittel-Codex), Verlag GOVI; Aktualität vom Anwender zu verifizieren.
+- ABDA-Leitlinien zur Rezeptur (vom Anwender zu verifizieren).
+- BGH, staend. Rspr. zur Apothekenhaftung bei Herstellungsfehlern.
+- Landesaufsicht-Merkblätter zur Rezeptur (vom Anwender zu verifizieren).

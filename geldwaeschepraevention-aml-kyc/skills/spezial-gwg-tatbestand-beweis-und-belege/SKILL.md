@@ -1,6 +1,6 @@
 ---
 name: spezial-gwg-tatbestand-beweis-und-belege
-description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # GwG: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -16,6 +16,15 @@ Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfel
 - Beweislast: für Verpflichteten zur ordnungsgemäßen Erfüllung der KYC/Sorgfaltspflichten — Dokumentationspflicht § 8 GwG (5 Jahre Aufbewahrung), Vier-Augen-Prinzip § 6 GwG. Bei strafrechtlicher Verfolgung Vorsatz/Leichtfertigkeit (§ 261 Abs. 6 StGB) — i. d. R. über Indizien (Red Flags, Abweichungen vom Kundenprofil, unzureichende Antworten).
 - Aufsichtsverfahren BaFin/Länderaufsicht: § 51 GwG (Auskunfts-/Vorlageverlangen), § 52 GwG (Sonderprüfung), § 56 GwG (Bußgeld); MaRisk und BAIT als Auslegungshilfen. AMLR/AMLD6 (VO/RL 2024/1624 ff.) ab 10.7.2027 mit Single Rulebook und AMLA als zentrale EU-Aufsicht.
 - Praktiker-Tipp: Vor jeder Aussage gegenüber Aufsicht oder Strafverfolgung Internal Investigation (forensische Akte, E-Mail-Review, Interviews); konsolidierter Sachverhaltsstand mit Belegmatrix Punkt-für-Punkt (Sachverhalt | Norm | Beleg | Bewertung); bei drohendem Bußgeld Kooperationsbonus durch Selbstanzeige § 47 OWiG iVm § 26 GwG (Bonusabschlag häufig 25-50 %).
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** GwG.
+- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
+- **Plugin-Rahmen:** Freistehendes Plugin für Geldwäscheprävention, AML, KYC, GwG-Risikoanalyse, UBO, PEP, Sanktionen, FIU/goAML, Transparenzregister und Behördenverfahren.
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -16,41 +16,11 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 | Akte | PDF lesen | Akten-ZIP |
 | --- | --- | --- |
 | **Kündigungsdrama Körber / Steinhoff Präzisionsguss** (`arbeitsrecht-kuendigungsdrama-koerber-werk`) | [Gesamt-PDF lesen](../testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) | [`testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
+| **Klingenhain Musikschule / DRV-Statusprüfung** (`statusfeststellung-drv-musikschule-gf-freelancer-klingenhain`) | [Gesamt-PDF lesen](../testakten/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain/gesamt-pdf/statusfeststellung-drv-musikschule-gf-freelancer-klingenhain_gesamt.pdf) | [`testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip`](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-statusfeststellung-drv-musikschule-gf-freelancer-klingenhain.zip) |
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **Kündigungsdrama Körber / Steinhoff Präzisionsguss** (`arbeitsrecht-kuendigungsdrama-koerber-werk`) | [Gesamt-PDF lesen](../testakten/arbeitsrecht-kuendigungsdrama-koerber-werk/gesamt-pdf/arbeitsrecht-kuendigungsdrama-koerber-werk_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-arbeitsrecht-kuendigungsdrama-koerber-werk.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Plugin Fachanwalt für Arbeitsrecht nach FAO § 10. Orientierung, Kündigungsschutzklage, Betriebsratsanhörung, Befristung. Schnittstellen zum Plugin `arbeitsrecht` (operative Mandatsführung) und `kanzlei-allgemein`.
-
-
-## ⬇️ Zum Ausprobieren: Testakte (separat)
-
-Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **befristungskontrollklage vogt stadtwerke** | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
-| **kuendigungsschutzklage weber techlogix** | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
-
-Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
-
-## ⬇️ Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| Fachanwalt Arbeitsrecht (`fachanwalt-arbeitsrecht`, dieses Plugin) | [fachanwalt-arbeitsrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-arbeitsrecht.zip) |
 
 ## Installation in Claude Code
 
@@ -111,26 +81,26 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `fachanwalt-arbeitsrecht-orientierung` | Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen B... |
 | `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` | Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren... |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
-| `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` | Aktenzeichen: Red-Team und Qualitätskontrolle: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-arbeitsrecht-tatbestand-beweis-und-belege` | Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-befristung-compliance-dokumentation-und-akte` | Befristung: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-betriebsrat-zahlen-schwellen-und-berechnung` | Betriebsrat: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-betrvg-behoerden-gericht-und-registerweg` | Betrvg: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-datum-formular-portal-und-einreichung` | Datum: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` | Entgtranspg: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-fao-fristen-form-und-zustaendigkeit` | FAO: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-kschg-risikoampel-und-gegenargumente` | Kschg: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-paragraf-dokumentenmatrix-und-lueckenliste` | Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-quelle-beweislast-und-darlegungslast` | Quelle: Beweislast, Darlegungslast und Substantiierung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-rechtsprechung-internationaler-bezug-und-schnittstellen` | Rechtsprechung: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-aktenzeichen-red-team-und-qualitaetskontrolle` | Aktenzeichen: Red-Team und Qualitätskontrolle im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-arbeitsrecht-tatbestand-beweis-und-belege` | Arbeitsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-befristung-compliance-dokumentation-und-akte` | Befristung: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-betriebsrat-zahlen-schwellen-und-berechnung` | Betriebsrat: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-betrvg-behoerden-gericht-und-registerweg` | Betrvg: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-datum-formular-portal-und-einreichung` | Datum: Formular, Portal und Einreichungslogik im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` | Entgtranspg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-fao-fristen-form-und-zustaendigkeit` | FAO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-kschg-risikoampel-und-gegenargumente` | Kschg: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-paragraf-dokumentenmatrix-und-lueckenliste` | Paragraf: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-quelle-beweislast-und-darlegungslast` | Quelle: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-rechtsprechung-internationaler-bezug-und-schnittstellen` | Rechtsprechung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rechtsprechung-livecheck-arbeitsrecht` | Livecheck verifizierter Arbeitsrechtsprechung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
-| `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` | Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksam: Fristennotiz und nächster Schritt: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-urlaub-livequellen-und-rechtsprechungscheck` | Urlaub: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-verifizierter-mandantenentscheidung` | Verifizierter: Mandantenkommunikation und Entscheidungsvorlage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine` | Tzbfg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-unwirksam-fristennotiz-und-naechster-schritt` | Unwirksam: Fristennotiz und nächster Schritt im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-urlaub-livequellen-und-rechtsprechungscheck` | Urlaub: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-vergleichspraxis-mehrparteien-konflikt-und-interessen` | Vergleichspraxis: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-verifizierter-mandantenentscheidung` | Verifizierter: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt arbeitsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin fachanwalt-arbeitsrecht: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-arbeitsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |

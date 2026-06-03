@@ -1,6 +1,6 @@
 ---
 name: spezial-315c-internationaler-bezug-und-schnittstellen
-description: "315C: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "315C: Internationaler Bezug und Schnittstellen im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # 315C: Internationaler Bezug und Schnittstellen
@@ -18,6 +18,15 @@ Er führt durch **Internationaler Bezug und Schnittstellen** im Themenfeld **315
 - Rechtsfolgen: bei § 315c, § 316, § 142 StGB Regelvermutung § 69 Abs. 2 StGB für Fahrerlaubnis­entzug.
 - Internationale Bezüge: EU-Führerschein Anerkennung (RL 2006/126/EG, FeV § 28); bei Auslandstaten § 6 StGB (Weltrechtsprinzip greift bei Verkehrsstrafrecht nicht), § 7 StGB (Auslandstaten gegen Deutsche / Deutscher Täter).
 - Praxis-Tipp: Bei § 315c StGB Schwellenwert "bedeutender Wert" sorgfältig prüfen (Sachverständigen­gutachten zur Schadenshöhe). Bei § 142 StGB die 24-Stunden-Frist für tätige Reue (§ 142 Abs. 4 StGB) sofort mit Mandant durchgehen – wenn noch im Fenster, unverzüglich Polizei melden lassen, um Strafmilderung oder Absehen zu erreichen. Schnittstelle Versicherer: bei vorsätzlichem § 142 StGB Regress­drohung nach AKB.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** 315C.
+- **Arbeitsfokus:** Internationaler Bezug und Schnittstellen.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Verkehrsrecht. StVG StVO PflVG VVG-Bezuege. Verkehrsunfall Personen- und Sachschaden Bußgeld Fahrerlaubnis Verkehrsstrafrecht (§§....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

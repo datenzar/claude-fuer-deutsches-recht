@@ -1,0 +1,18 @@
+{
+  "name": "berufsgerichtliche-verfahren-freie-berufe",
+  "version": "70.0.0",
+  "description": "Plugin für anwaltsgerichtliche und berufsgerichtliche Verfahren gegen Anwälte, Patentanwälte, Steuerberater, Wirtschaftsprüfer und Notare: Kammeraufsicht, Rüge, Disziplinarverfahren, Zulassung, Vermögensverfall, beA, Werbung, Sachlichkeit und Rechtsmittel.",
+  "license": "Apache-2.0 OR MIT",
+  "author": {
+    "name": "Klotzkette"
+  },
+  "homepage": "https://github.com/Klotzkette/claude-fuer-deutsches-recht",
+  "keywords": [
+    "berufsgericht",
+    "brao",
+    "stberg",
+    "wpo",
+    "pao",
+    "bnoto"
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 name: spezial-ermittlungsverfahren-vergleich-eskalation
-description: "Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Ermittlungsverfahren: Verhandlung, Vergleich und Eskalation
@@ -18,6 +18,15 @@ Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Ermitt
 - Anhörung Beschuldigter: § 163a StPO – Anhörung vor Abschluss Ermittlungen verpflichtend (wenn nicht Verfahren eingestellt).
 - Verfahrensabschluss durch StA: Einstellung § 170 Abs. 2 StPO (mangels hinreichenden Tatverdachts), Einstellung nach §§ 153, 153a StPO (Opportunität), Anklage § 170 Abs. 1 StPO, Strafbefehlsantrag § 407 StPO.
 - Praxis-Tipp: Eskalationsleiter Ermittlungsverfahren – (1) schweigen + Akteneinsicht anstreben, (2) Beweisangebote an StA, (3) Einstellungsantrag § 170 Abs. 2 oder §§ 153, 153a StPO mit konkreter Begründung, (4) ggf. Klageerzwingung umgekehrt drohen oder Gespräch StA + Beschuldigter führen. Vor jeder schriftlichen Erklärung an StA Risiko der Bindungswirkung im späteren Verfahren prüfen.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Ermittlungsverfahren.
+- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
+- **Plugin-Rahmen:** Plugin Fachanwalt für Strafrecht. Orientierung StPO StGB Nebenstrafrecht. Strafverteidigung Ermittlungsverfahren Hauptverhandlung Revision. Nebenklage O....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

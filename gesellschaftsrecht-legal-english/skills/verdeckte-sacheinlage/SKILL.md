@@ -48,3 +48,12 @@ Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- u
 - BGH, Urt. v. 20.07.2009 - II ZR 273/07 (Cash-Pool) zur Hin-und-Her-Zahlung.
 - Begruendung MoMiG, BT-Drucksache 16/6140, zu § 19 Abs. 4 und Abs. 5 GmbHG.
 - § 19 GmbHG, § 9 GmbHG, § 9c GmbHG, § 82 GmbHG.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

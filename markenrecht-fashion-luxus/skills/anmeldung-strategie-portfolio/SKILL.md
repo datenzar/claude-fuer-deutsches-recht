@@ -56,13 +56,11 @@ Haushaltstextilien (Klasse 24), Möbel (Klasse 20), Innenausstattung (Klasse 42 
 ### Konstellation 4: Reaktive Verteidigung gegen Brezelmann Discount
 Brezelmann Discount KG (Bad Mergentheim) hat "KLÖTZ-KETTE" in Klasse 25 beim DPMA angemeldet. Prioritätslücke! Sofortiger Widerspruch §§ 42 ff. MarkenG — vgl. Skill `dpma-widerspruch-und-loeschung`.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, §§ 32-40 (Anmeldeverfahren)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, Vor §§ 3-7 (Markenfähigkeit)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- EUIPO-Leitlinien zur Prüfung, Teil B: Untersuchung, Abschnitt 1 (Formvoraussetzungen)
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

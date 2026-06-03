@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 391 KB) | PDF | [`gesamt-pdf/schriftform-maklervertrag-muenchen-eheleute-haspelbeck_gesamt.pdf`](gesamt-pdf/schriftform-maklervertrag-muenchen-eheleute-haspelbeck_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 390 KB) | PDF | [`gesamt-pdf/schriftform-maklervertrag-muenchen-eheleute-haspelbeck_gesamt.pdf`](gesamt-pdf/schriftform-maklervertrag-muenchen-eheleute-haspelbeck_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-schriftform-maklervertrag-muenchen-eheleute-haspelbeck.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.
@@ -52,8 +52,8 @@ München-Bogenhausen zum Kaufpreis von EUR 617.000,00 an.
 Im Verlauf des E-Mail-Austauschs enthielt die Signatur einer ihrer Mails (E-Mail Nr. 2/8
 vom 03.04.2023) folgenden Hinweis:
 
-> *"Unser Honorar betraegt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
-> MwSt.) gemäß gesetzlicher Courtagefreiheit des Verkaeufers. Bezug: Ihr Anfrageobjekt."*
+> *"Unser Honorar beträgt maximal drei Komma sieben Prozent des Kaufpreises (zzgl. gesetzl.
+> MwSt.) gemäß gesetzlicher Courtagefreiheit des Verkäufers. Bezug: Ihr Anfrageobjekt."*
 
 Weder war das Objekt namentlich bezeichnet, noch war eine Provision der Höhe nach
 festgeschrieben. Korbinian Haspelbeck bemerkte diesen Hinweis nach eigenen Angaben kaum

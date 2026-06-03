@@ -1,6 +1,6 @@
 ---
 name: fundstellenglattzieher
-description: "Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Skills vereinheitlichen. Setzt die Zitierweise v4.0 durch: keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff."
+description: "Normen- und Rechtsprechungszitate in Schriftsätzen, Memos und Skills vereinheitlichen. Setzt die Zitierweise v4.1 durch: keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate; Rechtsprechung nur mit Datum, Aktenzeichen und verifizierbarer Quelle; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff."
 ---
 
 # Fundstellenglattzieher / Zitatenkorrektor
@@ -13,7 +13,7 @@ Dieser Skill glättet Belege formal und stoppt unsichere Quellen. Er ergänzt ke
 
 - Keine BeckRS- oder juris-Nummer erzeugen.
 - Keine Kommentar-, Handbuch- oder Aufsatzfundstelle erzeugen.
-- Keine aktuellen Palandt-/Pahlen-Zitate übernehmen.
+- Keine aktuellen Palandt-/Pahlen-Zitate übernehmen; Grüneberg nur mit echter Nutzerquelle oder dokumentiertem Live-Zugriff zitieren.
 - Rechtsprechung nur als gesichert ausgeben, wenn Gericht, Entscheidungsform, Datum und Aktenzeichen vorhanden sind.
 - Fundstellen nur beibehalten, wenn sie aus dem Text, aus einer Nutzerquelle oder aus einer verifizierten freien Quelle stammen.
 

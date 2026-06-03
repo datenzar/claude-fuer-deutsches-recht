@@ -19,50 +19,9 @@ Direkt-Downloads ohne Umwege. Die URLs sind stabil und zeigen immer auf die aktu
 
 <!-- END plugin-sofort-download-section (autogen) -->
 
-<!-- BEGIN plugin-testakten-section (autogen) -->
-## Demonstrations-Akten
-
-Folgende anonymisierte Akte demonstriert dieses Plugin im laufenden Mandatsbetrieb. Das Gesamt-PDF ist sofort im Browser lesbar. Das Akten-ZIP enthaelt saemtliche Originaldateien (Markdown-Aktenstuecke, Tabellen, E-Mails, PDFs, DOCX, XLSX, Bildanlagen) im Originalordnerlayout.
-
-| Akte | Lesen | Herunterladen |
-| --- | --- | --- |
-| **WEG Hohenzollernhof — Hausverwaltung unter Druck** (`weg-hausverwaltung-hohenzollernhof`) | [Gesamt-PDF lesen](../testakten/weg-hausverwaltung-hohenzollernhof/gesamt-pdf/weg-hausverwaltung-hohenzollernhof_gesamt.pdf) | [Akten-ZIP herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip) |
-
-Die ZIP-URLs sind stabil und zeigen immer auf die aktuelle Version. Eine vollstaendige Aktenuebersicht steht in [`testakten/README.md`](../testakten/README.md).
-
-<!-- END plugin-testakten-section (autogen) -->
-
 Operatives Plugin für Wohnungseigentümergemeinschaften, Hausverwaltungen, Verwaltungsbeiräte und anwaltliche Begleitung. Der Schwerpunkt liegt nicht auf abstrakter Dogmatik, sondern auf den täglichen Vorgängen: Eigentümerversammlung vorbereiten, Beschlussvorlagen schreiben, Beschlüsse protokollieren, Beschlusssammlung pflegen, Wirtschaftsplan und Jahresabrechnung prüfen, Hausgeld und Sonderumlagen verfolgen, Betriebskosten/Nebenkosten kontrollieren, Handwerker beauftragen, Erhaltungsmaßnahmen steuern, Restaurant- und Hausordnungskonflikte sortieren, E-Mobilität/Steckersolar/PV beschlussreif machen und rechtliche Eskalationen rechtzeitig erkennen.
 
 Das Plugin arbeitet paralegal-praktisch: Es erstellt keine "Rechtsberatung aus dem Nichts", sondern strukturiert Akten, formuliert Beschluss- und Anschreibenentwürfe, baut Prüfmatrizen, markiert Fristen, trennt kaufmännische Verwaltung von Rechtsfragen und schlägt bei Risiko den passenden Anwalts- oder Gerichtspfad vor.
-
-## Direkt-Download (einzelnes ZIP)
-
-| Plugin | Direkt-Download |
-| --- | --- |
-| WEG- und Hausverwaltung (`weg-hausverwaltung`, dieses Plugin) | [weg-hausverwaltung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/weg-hausverwaltung.zip) |
-
-Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugins sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
-
-<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->
-
-## Testakte
-
-Zu diesem Plugin existiert eine vollständige Beispielakte: **WEG Hohenzollernhof — Hausverwaltung unter Druck** ([`testakten/weg-hausverwaltung-hohenzollernhof/`](../testakten/weg-hausverwaltung-hohenzollernhof/)).
-
-Direkt-Download als ZIP: [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip)
-
-Die Akte ist absichtlich unordentlich, widersprüchlich und ungefiltert. Sie eignet sich für End-to-End-Tests, Demos und zum Üben.
-
-<!-- END TESTAKTEN-SECTION (auto-generated) -->
-
-## Zum Ausprobieren: Testakte
-
-| Testakte | Direkt-Download |
-| --- | --- |
-| **Hohenzollernhof WEG/Hausverwaltung** | [testakte-weg-hausverwaltung-hohenzollernhof.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-weg-hausverwaltung-hohenzollernhof.zip) |
-
-Die Arbeitsakte enthält eine unordentliche WEG-Verwaltungsakte mit Eigentümerbeschwerden, WhatsApp- und E-Mail-Fragmenten, Handwerkerangeboten, fehleranfälliger Jahresabrechnung, Entwurf einer Eigentümerversammlung, Steckersolar-/Wallbox-/PV-Anträgen, Sonderumlage, Heizungs- und Versicherungsschäden, Restaurantkonflikt, Fahrrad-/Tauben-/Kinder-/Hof-Streit und Beiratsnotizen. Zusätzlich liegt eine konsolidierte Akten-PDF mit über 100 Seiten bei.
 
 ## Installation in Claude Code
 
@@ -158,20 +117,20 @@ Automatisch generierte Komplett-Liste aller 54 Skills in diesem Plugin. Beschrei
 | `mandat-objekt-triage` | Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026): Objekt, Rollen, Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Abrechnungen, Vermögensbericht, Angebote, Fristen, Risiken und nächsten Workflow. Identi... |
 | `protokollwerkstatt-top-marathon` | Erstellt und prüft Protokolle für lange Eigentümerversammlungen mit vielen Tagesordnungspunkten. Trennt Aussprache, Antrag, Beschlusswortlaut, Abstimmung, Verkündung, Anlagen und Nacharbeit. Output: protokollfähige TOP-Struktur. |
 | `rechtsstand-mai-2026-faktenbank` | Quellen-Gate für WEG und Hausverwaltung mit Stand 05/2026. Enthält Normanker zu WEG, BGB, BetrKV, HeizkostenV, GEG und CO2KostAufG sowie frei verifizierte BGH-Rechtsprechung des V. Zivilsenats 2024 bis 2026 zu Kostenverteilung, baulichen... |
-| `spezial-bauliche-formular-portal-und-einreichung` | Bauliche: Formular, Portal und Einreichungslogik: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-beschlusssammlung-schriftsatz-brief-und-memo-bausteine` | Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-betriebskosten-mehrparteien-konflikt-und-interessen` | Betriebskosten: Mehrparteienkonflikt und Interessenmatrix: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-eigentuemerversammlung-risikoampel-und-gegenargumente` | Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-handwerker-internationaler-bezug-und-schnittstellen` | Handwerker: Internationaler Bezug und Schnittstellen: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hausgeld-zahlen-schwellen-und-berechnung` | Hausgeld: Zahlen, Schwellenwerte und Berechnung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit` | Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck` | Jahresabrechnung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-operatives-erstpruefung-und-mandatsziel` | Operatives: Erstprüfung, Rollenklärung und Mandatsziel: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-protokoll-behoerden-gericht-und-registerweg` | Protokoll: Behörden-, Gerichts- oder Registerweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-sonderumlage-compliance-dokumentation-und-akte` | Sonderumlage: Compliance-Dokumentation und Aktenvermerk: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-weg-tatbestand-beweis-und-belege` | WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
-| `spezial-wirtschaftsplan-verhandlung-vergleich-und-eskalation` | Wirtschaftsplan: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output. |
+| `spezial-bauliche-formular-portal-und-einreichung` | Bauliche: Formular, Portal und Einreichungslogik im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-beschluesse-dokumentenmatrix-und-lueckenliste` | Beschluesse: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-beschlusssammlung-schriftsatz-brief-und-memo-bausteine` | Beschlusssammlung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-betriebskosten-mehrparteien-konflikt-und-interessen` | Betriebskosten: Mehrparteienkonflikt und Interessenmatrix im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-eigentuemerversammlung-risikoampel-und-gegenargumente` | Eigentuemerversammlung: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-handwerker-internationaler-bezug-und-schnittstellen` | Handwerker: Internationaler Bezug und Schnittstellen im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hausgeld-zahlen-schwellen-und-berechnung` | Hausgeld: Zahlen, Schwellenwerte und Berechnung im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit` | Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-jahresabrechnung-livequellen-und-rechtsprechungscheck` | Jahresabrechnung: Livequellen- und Rechtsprechungscheck im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-operatives-erstpruefung-und-mandatsziel` | Operatives: Erstprüfung, Rollenklärung und Mandatsziel im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-protokoll-behoerden-gericht-und-registerweg` | Protokoll: Behörden-, Gerichts- oder Registerweg im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-sonderumlage-compliance-dokumentation-und-akte` | Sonderumlage: Compliance-Dokumentation und Aktenvermerk im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-weg-tatbestand-beweis-und-belege` | WEG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
+| `spezial-wirtschaftsplan-verhandlung-vergleich-und-eskalation` | Wirtschaftsplan: Verhandlung, Vergleich und Eskalation im Plugin weg hausverwaltung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `steckersolar-wallbox-barrierefreiheit` | Spezialworkflow für privilegierte Maßnahmen nach § 20 Abs. 2 WEG (Stand 05/2026): Steckersolargerät, Wallbox/E-Mobilität, barrierefreier Umbau, Einbruchsschutz, Glasfaseranschluss. Prüft Anspruch, technische Unterlagen, Auflagen, Beschlu... |
 | `stoerung-hausordnung-mieter-eigentuemer` | Bearbeitet Störungen in der WEG (Stand 05/2026): Lärm, Müll, Feuchtigkeit, Geruch, Kamera, Gemeinschaftsflächen, Mieter als Störer, vermietender Eigentümer, Hausordnung, Abmahnung, Beweissicherung. Berücksichtigt BGH V ZR 1/24 (mittelbar... |
 | `top-generator-emotion-zu-beschluss` | Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine. |

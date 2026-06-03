@@ -3,42 +3,93 @@ name: ce-zeichen-fehlgebrauch-und-abmahnung
 description: "Prüft CE-Kennzeichnung, irreführende Werbung, fehlende Unterlagen, Wettbewerbsrecht und Abmahnrisiken."
 ---
 
-# CE-Zeichen und Abmahnung
+# CE-Kennzeichnung, Fehlgebrauch und Abmahnung
 
-Spezialskill im Plugin `robotik-recht`. Nutze ihn, wenn der Fall Robotik, autonome oder teilautonome Maschinen, integrierte KI, Sensorik, Remote-Updates, Mensch-Roboter-Interaktion, Produktsicherheit, Haftung, Datenschutz, Cybersecurity oder Robotikverträge berührt.
+## Worum geht es konkret
 
-## Start
+Falsche CE-Kennzeichnung, fehlende EU-Konformitätserklärung, irreführende Werbung mit nicht erlangten Zertifikaten oder vorgetäuschten Prüfsiegeln sind klassische Felder für Abmahnungen nach UWG, behördliche Verfügungen (Marktüberwachung) und – seit GPSR VO (EU) 2023/988 – auch direkte Marktverbote. In der Robotik betreffen mehrere Rechtsakte gleichzeitig die CE: MaschinenVO, KI-VO, CRA, Funkanlagengesetz (FuAG), ggf. MDR. Dieser Skill prüft eine CE-Akte und gibt sowohl Verteidigungs- als auch Angriffsschriftsätze.
 
-Kläre knapp:
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-1. **Rolle:** Hersteller, Anbieter, Integrator, Importeur, Händler, Betreiber, Deployer, Wartung, Versicherer, Behörde oder Geschädigte Person.
-2. **Produkt:** Industrieroboter, Cobot, AMR/AGV, Service-, Pflege-, Medizin-, Haushalts-, Agrar-, Sicherheits-, Liefer- oder Sonderrobotik.
-3. **Ziel:** Freigabe, CE-Akte, Behördenantwort, Vertragsprüfung, Incident, Rückruf, Haftungsmemo, Datenschutzprüfung, Cyberprüfung, Klage/Verteidigung oder Vorstandsvorlage.
-4. **Dringlichkeit:** Unfall, Verletzung, Datenpanne, Cyberangriff, Marktüberwachung, Rückruf, Kundenstillstand, Frist oder nur Prävention.
-5. **Unterlagen:** Anleitung, Risikobeurteilung, EU-Konformitätserklärung, technische Dokumentation, Logs, Softwarestände, Verträge, DSFA, SBOM, Wartungsprotokolle, E-Mails.
+1. **Rolle:** Hersteller, Importeur, Mitbewerber, Marktüberwachung, Verbraucherschutzverband, Abmahner.
+2. **Anlass:** Abmahnung erhalten, Konkurrent ohne CE/falsches CE, Marktüberwachungsanfrage, Plattform-Notiz, Online-Shop-Compliance.
+3. **Produktklasse:** Maschine, KI-System, Funkanlage, Medizinprodukt – meist mehrere zugleich.
+4. **Kennzeichnungsfehler:** kein CE; CE ohne Konformitätsbewertung; CE der Benannten Stelle ohne tatsächliche Beteiligung; "CCC"-Schummelmarke.
+5. **Unterlagen:** EU-Konformitätserklärung, technische Dokumentation, Bewertungsmodul, NB-Bescheinigung, Werbematerial.
 
-## Prüfspur
+## Rechtlicher Rahmen
 
-- Baue zuerst eine **Rollenmatrix**. Robotikfälle kippen oft daran, wer rechtlich Hersteller, Anbieter, Betreiber oder bloßer Zulieferer ist.
-- Prüfe dann **parallel**: Maschinenrecht/Produktsicherheit, KI-VO, Produkthaftung, Datenschutz, Cybersecurity, Data Act, sektorspezifisches Recht und Vertrag.
-- Trenne sichere Tatsachen, technische Annahmen und Rechtsbewertung. Markiere jede nicht belegte technische Annahme sichtbar.
-- Arbeite mit einer **Ampel**: Rot = sofort handeln; Gelb = Unterlagen/Rückfragen; Grün = derzeit tragfähig, aber live zu verifizieren.
-- Bei Rechtsprechung und aktuellen Normen: keine Paywall-Fundstellen, keine erfundenen Aktenzeichen; live über amtliche/freie Quellen prüfen.
+- **MaschinenVO** VO (EU) 2023/1230 Art. 16 ff. Kennzeichnung, Anhang II EU-Konformitätserklärung; Übergang aus Maschinen-RL 2006/42/EG bis 19.01.2027.
+- **VO (EG) 765/2008 / VO (EU) 2019/1020 / NLF** allgemeine Kennzeichnungsregeln; Marktüberwachung.
+- **GPSR** VO (EU) 2023/988 seit 13.12.2024 geltend.
+- **KI-VO** Art. 16, 47, 48 EU-Konformitätserklärung; CE-Kennzeichnung Art. 48 Abs. 2 KI-VO.
+- **CRA** VO (EU) 2024/2847 (Hauptpflichten ab 11.12.2027): CE-Pflicht für Produkte mit digitalen Elementen.
+- **MDR** VO (EU) 2017/745 für medizinische Robotik.
+- **FuAG** für Funkroboter (WLAN, Bluetooth, 5G).
+- **UWG** §§ 3, 3a (Rechtsbruch), § 5 (Irreführung), § 13 (Abmahnung), § 8c (Missbrauch).
+- **ProdSG** § 7 ff. Wirtschaftsakteure.
 
-## Spezifischer Fokus
+## Workflow Schritt für Schritt
 
-Dieser Skill fokussiert: **Prüft CE-Kennzeichnung, irreführende Werbung, fehlende Unterlagen, Wettbewerbsrecht und Abmahnrisiken.**
+1. **Anwendbare Rechtsakte** abschließend bestimmen; multiple CE-Bewertungen sind Standard.
+2. **Bewertungsmodul** prüfen: Selbsterklärung, Stichprobenprüfung, Typprüfung, vollständiges QM – pro Rechtsakt.
+3. **Notified Body** prüfen: vier Stellen, Kennnummer; sind die Nummern wirklich aktiv? (NANDO-Datenbank).
+4. **EU-Konformitätserklärung** vollständig: alle Rechtsakte, alle Normen, Benannte Stelle, Verantwortlicher, Datum, Unterschrift.
+5. **CE-Anbringung** korrekt: Mindesthöhe 5 mm, sichtbar, lesbar, dauerhaft, an der Maschine angebracht – nicht nur auf Verpackung.
+6. **Werbeaussagen** prüfen: "TÜV-geprüft" nur, wenn echte Zertifikat-Nummer; "ISO 9001"-zertifizierte Firma ≠ ISO-zertifiziertes Produkt.
+7. **Abmahnung handhaben:** Frist prüfen, modifizierte Unterlassungserklärung, Gegenangriff ggf. § 8c UWG (Missbrauch).
+8. **Anzeige Marktüberwachung** bei klaren Verstößen.
 
-Quellen-/Normenanker: ProdSG, UWG, Maschinenverordnung.
+## Trade-off-Matrix
 
-## Ergebnisformat
+| Verstoß | Schwere | Sanktionen | Strategie |
+|---|---|---|---|
+| Komplett fehlendes CE | sehr hoch | Marktverbot, Bußgeld bis 30 Mio. KI-VO | sofortiger Rückzug, Konformitätsbewertung |
+| Werbung mit Notified Body, der nicht beteiligt war | hoch | UWG, ggf. § 263 StGB | sofortiger Stopp |
+| CE-Anbringung zu klein/unleserlich | mittel | Bußgeld; Mängelbeseitigung | korrigieren, ggf. RAPEX |
+| Konformitätserklärung formell unvollständig | gering | Mängelbeseitigung | nachholen, Akte aktualisieren |
 
-Liefere je nach Auftrag eines der folgenden Formate:
+## Praxistipps
 
-- **Kurzvermerk** mit Ergebnis, Begründung, Risikoampel und offenen Fragen.
-- **Rückfragenliste** an Technik/QM/IT-Security/Datenschutz/Vertrieb.
-- **Dokumentenmatrix** mit vorhandenen und fehlenden Nachweisen.
-- **Behörden- oder Mandantenentwurf** mit vorsichtiger Sprache und Quellenhinweisen.
-- **Red-Team-Check** mit Gegenargumenten, Worst Case und nächstem Schritt.
+- **Cross-Check** zwischen Konformitätserklärung und Werbung.
+- **Schulung Vertrieb** zu zulässigen Aussagen.
+- **NB-Nummer** nur drauf, wenn NB tatsächlich beteiligt.
+- **GPSR-Verbraucherinfo**: Online-Shop muss Importeur/Verantwortlicher in EU benennen.
+- **Plattformen** (Amazon, eBay) prüfen und Listings korrigieren.
 
-Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datenschutz, KI-VO, IT-Recht, Medizinrecht, Arbeitsrecht oder Vertragsrecht überwiegt, nenne zusätzlich das passende Nachbarplugin.
+## Mustertexte
+
+**Modifizierte Unterlassungserklärung (Auszug):**
+
+> Der Schuldner verpflichtet sich, es bei Vermeidung einer für jeden Fall der Zuwiderhandlung fälligen Vertragsstrafe in angemessener Höhe (im Streitfall durch das zuständige Gericht festzusetzen) zu unterlassen, geschäftlich Roboter der Modellreihe XYZ ohne CE-Kennzeichnung oder ohne beigefügte EU-Konformitätserklärung in Verkehr zu bringen oder zu bewerben.
+
+**Mahnschreiben (Mitbewerber, Auszug):**
+
+> Sehr geehrte Damen und Herren, wir machen Sie auf einen Verstoß gegen § 3a UWG i. V. m. Art. 16, 47 KI-VO und Art. 16 MaschinenVO aufmerksam. Sie bewerben den Roboter Typ Z auf Ihrer Website (URL) mit dem Hinweis "CE-zertifiziert nach KI-VO". Eine EU-Konformitätserklärung gemäß Art. 47 KI-VO ist nicht beigefügt; die Notified-Body-Kennnummer NB 0123 ist in NANDO nicht für den Anhang VI KI-VO gelistet. Wir fordern Sie auf, Werbung und Inverkehrbringen bis [Frist] zu unterlassen und eine strafbewehrte Unterlassungserklärung beigefügten Musters abzugeben.
+
+## Typische Fehler
+
+- **CE auf Verpackung** statt am Produkt.
+- **NB-Nummer** der ISO-9001-zertifizierenden Stelle als Konformitäts-NB ausgegeben.
+- **CE für Cobot** nur nach MaschinenVO, ohne CE nach KI-VO.
+- **Konformitätserklärung** in falscher Amtssprache.
+- **Missbräuchliche Abmahnung** ohne § 8 Abs. 3 UWG-Aktivlegitimation.
+
+## Querverweise
+
+- `cra-produkt-mit-digitalen-elementen`
+- `betriebsanleitung-sprache-und-warnhinweise`
+- `allgemein`
+
+## Quellen Stand 06/2026
+
+- VO (EU) 2023/1230 (MaschinenVO), Art. 16, Anhang II.
+- VO (EG) 765/2008; VO (EU) 2019/1020.
+- VO (EU) 2023/988 (GPSR).
+- VO (EU) 2024/1689 (KI-VO), Art. 16, 47, 48; Art. 99.
+- VO (EU) 2024/2847 (CRA).
+- VO (EU) 2017/745 (MDR).
+- FuAG.
+- UWG §§ 3, 3a, 5, 8, 8c, 13.
+- NANDO-Datenbank der EU-Kommission.
+- Live-Verifikation auf eur-lex.europa.eu, BAuA, ec.europa.eu/growth (NANDO); lizenzierte Datenbanken (beck-online, juris) nur bei vorhandenem Zugang.

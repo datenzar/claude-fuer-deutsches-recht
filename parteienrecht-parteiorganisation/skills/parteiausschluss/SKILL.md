@@ -22,6 +22,13 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Zusatzzweig: Ausschlussverfahren vor Parteigericht
+
+- Schwerer Schaden, Satzungsverstoß und Verhältnismäßigkeit getrennt prüfen; politische Missliebigkeit ersetzt keinen tragfähigen Ausschlussgrund.
+- Anhörung, Akteneinsicht, Beweisangebote, Befangenheitsanträge und Besetzung des Schiedsgerichts dokumentieren.
+- Bei eiliger Suspendierung oder Ruhen von Mitgliedsrechten immer fragen, ob die Maßnahme vor der Hauptsache faktisch vollendete Tatsachen schafft.
+- Wenn der Parteiausschluss zugleich Kandidatur, Delegiertenstatus, Mandatsbewerbung oder Ämter betrifft, muss das Verfahren so beschleunigt werden, dass effektiver Rechtsschutz nicht erst nach Erledigung kommt.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

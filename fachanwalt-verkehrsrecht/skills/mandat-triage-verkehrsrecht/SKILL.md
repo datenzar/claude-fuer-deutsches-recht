@@ -129,3 +129,12 @@ Verifizierte Aktenzeichen mit offener Quelle (vor Versand jeweils Volltext in de
 - BVerfG 2 BvR 1616/18, Beschl. v. 12.11.2020 — Akteneinsicht / Informationszugang OWi (bundesverfassungsgericht.de)
 
 <!-- AUDIT 27.05.2026: BGH VI ZR 1/21 (NOT_FOUND auf dejure.org) entfernt und ersetzt durch BGH VI ZR 37/99, NJW 2000, 861 (verifiziert auf dejure.org). -->
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

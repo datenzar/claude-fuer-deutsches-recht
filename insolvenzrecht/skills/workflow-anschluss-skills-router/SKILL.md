@@ -53,6 +53,8 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
   - `spezial-triage-mandantenkommunikation-entscheidungsvorlage` (Mandantenbrief).
 - **Grenzüberschreitend / besondere Lagen:**
   - `spezial-chronologie-internationaler-bezug-und-schnittstellen` (EuInsVO 2015/848).
+  - `internationales-insolvenzrecht-drittstaaten-inzidentpruefung` (USA/Kanada/UK/Schweiz, keine Chapter-15-Logik, § 343 InsO).
+  - `auslaendischer-insolvenzverwalter-register-und-grundbuch` (Trustee/DIP/office holder vor Notar, Handelsregister, Grundbuchamt).
   - `spezial-feststellung-sonderfall-und-edge-case`.
 
 ## Faustregel

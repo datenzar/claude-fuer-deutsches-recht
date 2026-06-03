@@ -34,3 +34,12 @@ In maximal sieben Fragen klären, welche patentrechtliche Arbeit zu leisten ist.
 - **Schutzwirkung § 9 PatG:** unmittelbare und mittelbare Verletzung (§ 10 PatG); Schutzbereich nach § 14 PatG / Art. 69 EPÜ und Auslegungsprotokoll (Wortsinn und Äquivalenz).
 - **Wichtige Fristen:** Einspruch beim DPMA 9 Monate ab Patenterteilung (§ 59 PatG); UPC-Opt-out bis Ende Übergangszeit; Jahresgebühren beim DPMA / EPA ab 3. Patentjahr.
 - Falle: Anmeldetag-Strategie missachten — Veröffentlichung auf Pitchdeck oder Crowdfunding gilt als neuheitsschädlich, auch im Inland.
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

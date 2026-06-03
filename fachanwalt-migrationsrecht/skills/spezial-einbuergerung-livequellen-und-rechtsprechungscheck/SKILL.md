@@ -1,6 +1,6 @@
 ---
 name: spezial-einbuergerung-livequellen-und-rechtsprechungscheck
-description: "Einbuergerung: Livequellen- und Rechtsprechungscheck: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Einbuergerung: Livequellen- und Rechtsprechungscheck im Plugin fachanwalt migrationsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Einbuergerung: Livequellen- und Rechtsprechungscheck
@@ -9,6 +9,15 @@ description: "Einbuergerung: Livequellen- und Rechtsprechungscheck: konkreter Sp
 Dieser Skill ist ein konkreter Fachbaustein für `fachanwalt-migrationsrecht`. Ausgangspunkt ist: Plugin Fachanwalt für Migrationsrecht. AufenthG AsylG GFK Dublin-VO Verfahrens-RL Qualifikations-RL StAG. Einbürgerung Familiennachzug Notfrist § 36 AsylG eine Woche. Schnittstellen Plugin rechtsberatungsstelle.
 
 Er führt durch **Livequellen- und Rechtsprechungscheck** im Themenfeld **Einbuergerung**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Einbuergerung.
+- **Arbeitsfokus:** Livequellen- und Rechtsprechungscheck.
+- **Plugin-Rahmen:** Großer Fachanwalt-Kompass Migrationsrecht mit über 200 Skills für Aufenthalt, Blaue Karte EU, Fachkräfte, Asyl, Dublin/GEAS, Einbürgerung, Staaten-/Gebi....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -37,3 +46,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: Identität, Schutzstatus und aktuelle Lageprüfung
+
+- **Verifizierte Rechtsprechungsanker:** BVerwG, Urteil vom 13.12.2023 - 1 C 34.22 und BVerwG, Urteil vom 18.12.2025 - 1 C 27.24 zur Identitätsklärung/Stufenmodell im Einbürgerungsrecht; BVerwG, Urteil vom 16.04.2025 - 1 C 18.24 zur Tatsachenrevision und Art. 4 GRCh/Art. 3 EMRK bei anerkannten Schutzberechtigten in Griechenland.
+- **Prüfdisziplin:** Aufenthaltsrecht, Asylrecht, Staatsangehörigkeitsrecht, Freizügigkeit/EU, Dublin/GEAS, Abschiebungsschutz, Familiennachzug und Arbeit/Beschäftigung strikt trennen. Keine Auskunft „nach Gefühl“ über Länderpraxis oder Behördenlaufzeiten.
+- **Aktualitätsfilter:** Herkunftsland, Schutzstatus, Dokumentenlage, Identität, Passbeschaffung, Zumutbarkeit, Vulnerabilität und aktuelle Lageberichte/live verfügbare Gerichtsquellen sind tragend; bei Lagefragen immer Datum und Erkenntnisbasis nennen.
+- **Output-Pflicht:** Entscheidungsbaum mit Sofortfrist, zuständiger Behörde/Gericht, benötigten Unterlagen, Beweisnot-/Zumutbarkeitsargumenten und nächstem rechtssicheren Schritt.

@@ -11,7 +11,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 515 KB) | PDF | [`gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf`](gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 514 KB) | PDF | [`gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf`](gesamt-pdf/ki-training-tdm-fotografin-windgassen-hamburg_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-training-tdm-fotografin-windgassen-hamburg.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

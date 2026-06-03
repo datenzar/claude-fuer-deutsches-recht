@@ -1,3 +1,331 @@
+# v69.0.0 — Wahlkampfrecht Praxis
+
+## Neu
+
+- Neues Plugin `wahlkampfrecht-praxis` mit 118 Skills für demokratischen Wahlkampf: Strategie, Plakatierung, Ground Game, Social Media, politische Werbung nach VO (EU) 2024/900, Datenschutz, Parteienfinanzierung, Desinformation, Podien, Schulen, Wahltag und Compliance.
+- Neue Arbeitsakte `wahlkampfrecht-landtagswahl-morgenstadt-2026` mit Markdown, EML, DOCX, XLSX, PDF, CSV, JPEG-Screenshots und Gesamt-PDF.
+
+## Synchronisiert
+
+- Repo-Stand auf 167 Plugins, 14160 Skills, 160 Testakten und v69.0.0 synchronisiert.
+- Marketplace, Plugin-Manifeste, README, Testakten-Übersicht, Asset-Index, Skills-Index und Downloadsektionen aktualisiert.
+
+---
+
+# v68.0.0 — Solo-Selbstständige und HOAI-Leistungsphasen
+
+## Neu
+
+- Neues Plugin `solo-selbststaendige-praxis` mit 200 Skills für Start, Anmeldung, Steuern, Verträge, Rechnungen, Datenschutz, Statusfeststellung, KSK, Versicherungen, Zahlungsausfall, Krise, Wachstum und Alltagspraxis.
+- Neues Plugin `hoai-leistungsphasen-praxis` mit 310 Skills: 40 Querschnitts-Workflows und je 30 Skills für HOAI-Leistungsphasen 1 bis 9 nach Gebäude-/Innenraumplanung.
+- Zwei neue Testakten mit Originalformaten und Gesamt-PDF: Solo-Designstudio Falkensee und Kita Mühlenhof Lichtenrade.
+
+## Synchronisiert
+
+- Repo-Stand auf 166 Plugins, 14042 Skills, 159 Testakten und v68.0.0 synchronisiert.
+- Marketplace, Plugin-Manifeste, README, SKILLS.md, Skills-Index, Testakten-Übersicht, Asset-Index und Downloadsektionen aktualisiert.
+
+---
+
+# v67.0.0 — Handelsregister, Grundbuchamt und Erbbaurecht
+
+## Neu
+
+- Neues Plugin `handelsregister-praxis` mit 72 Skills für Registergericht, Rechtspfleger/Registerrichter, Beanstandung, FamFG-Beschwerde, Gesellschafterliste, Kapitalmaßnahmen, Löschung, Insolvenzvermerk und registerfeste Nachweise.
+- Neues Plugin `grundbuchamt-praxis` mit 64 Skills für Grundbuchauszug, Abteilung I/II/III, § 29 GBO, Zwischenverfügung, Rang, Briefgrundschuld, Aufgebot und grundbuchtaugliche Unterlagen.
+- Neues Plugin `erbbaurecht-praxis` mit 50 Skills für Erbbaurechtsvertrag, Erbbauzins, Heimfall, Finanzierung, Zustimmung, Zwangsversteigerung und Erbbaugrundbuch.
+- Drei neue Demonstrationsakten mit EML, DOCX, XLSX, PDF, JPEG und Gesamt-PDF.
+
+## Synchronisiert
+
+- Marketplace und Plugin-Manifeste auf v67.0.0 vorbereitet; Übersichten und Downloadsektionen werden regeneriert.
+
+---
+
+# v66.0.0 — Kriegsdienstverweigerung und Wehrdienst
+
+## Neu
+
+- Neues Spezialplugin `kriegsdienstverweigerung-wehrdienst` mit 136 Skills zu Art. 4 Abs. 3 GG, KDVG n. F. 2026, Antrag über BAPersBw, BAFzA-Entscheidung, Gewissensbegründung, Soldaten, Reservisten, Rechtsschutz, § 13 KDVG, § 75 VwGO und klarer Abgrenzung zur Totalverweigerung.
+- Neue Testakte `kriegsdienstverweigerung-gewissensantrag-berlin-2026` mit Markdown-Aktenstücken, EML-Mailverkehr, DOCX-Entwürfen, XLSX-Fristenlog, JPG-Notizkarte und Gesamt-PDF.
+- Bundeswehrrecht-KDV-Routing auf das neue Spezialplugin verlinkt.
+
+## Synchronisiert
+
+- Repo-Stand auf 161 Plugins, 13346 Skills, 154 Testakten und v66.0.0 synchronisiert.
+- README, SKILLS.md, Skills-Index, Testakten-Übersicht, Asset-Index, Marketplace und Plugin-Downloadsektionen aktualisiert.
+
+## Validierung
+
+- Plugin-Struktur, YAML-Frontmatter, Gesamt-PDF-Regel, ZIP-/Diff-Sanity werden im Release-Lauf geprüft.
+
+# v65.0.0 — Versammlungsrecht Praxisplugin
+
+## Schwerpunkt
+
+- Neues Plugin `versammlungsrecht` mit 54 Skills für Anzeige, Landesrecht, Behörde, Fristen, Spontan- und Eilversammlung, Ordner, Kooperationsgespräch, Auflagenprüfung, Verbot, Bannmeile, Tag-der-Versammlung-Plan und Eilrechtsschutz.
+- Bestehende Klimacamp-/Art.-8-Arbeitsakte zusätzlich dem neuen Plugin zugeordnet; Plugin-Downloadsektionen und Übersichten werden dadurch automatisch mit Gesamt-PDF und Akten-ZIP versorgt.
+- Repo-Stand auf 160 Plugins, 13210 Skills, 153 Testakten und v65.0.0 synchronisiert.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-yaml-frontmatter` OK.
+- `validate-testakten-gesamt-pdf` OK (153 Testakten).
+- `git diff --check` OK.
+- Inventarcheck: 160 Plugins, 160 Plugin-Manifeste, 13210 Skills, 153 Testakten; kein Plugin unter 30 Skills.
+
+---
+
+# v64.0.0 — Medizinrecht Hightech-Boost und Kanzlei-Mandant-Lifecycle
+
+## Schwerpunkt
+
+- `fachanwalt-medizinrecht` von 54 auf 136 Skills erweitert: ATMP, Gentherapie, CAR-T, CRISPR/Base Editing, Hospital Exemption, PEI/EMA-Verfahren, Pharmakovigilanz, ePA, DiGA, EHDS/Genomdaten, KI-Medizinprodukte, IVDR, Companion Diagnostics, Krankenhausreform, Robotik, Implantat-/Rückruf- und Hightech-Haftung.
+- Neue Quellenkarte für modernes Medizinrecht mit amtlichen und frei zugänglichen Startquellen zu ATMP/Gentherapie, Patientenrechten, ePA/DiGA, EHDS, EU-HTA und Produkthaftung.
+- Neues Plugin `kanzlei-mandant-lifecycle` mit 115 Skills für die gesamte Kanzlei-/Mandant-/Rechtsabteilungsbeziehung: Mandatsstart, Scope, Outside Counsel Guidelines, Budget, eBilling, Rechnungskontrolle, Dashboards, Gerichtsakten-Fortschritt, Erwartungsmanagement, Eskalationen, Quickwins, Closeout und gemeinsame KI-Arbeitsräume.
+- Neue Demonstrationsakte `mandatsbeziehung-kanzlei-rechtsabteilung-nordstern-biotech` mit Markdown-Aktenstücken, EML-Mails, CSV/XLSX-Budgetdaten, DOCX-Entwürfen, PDF-Anlagen, Whiteboard-Bild und Gesamt-PDF.
+- README, SKILLS.md, Skills-Index, Testakten-Übersicht, Asset-Index, Plugin-READMEs und Downloadsektionen auf 159 Plugins, 13156 Skills, 153 Testakten und v64.0.0 synchronisiert.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-yaml-frontmatter` OK.
+- `validate-testakten-gesamt-pdf` OK (153 Testakten).
+- `git diff --check` OK.
+- Inventarcheck: 159 Plugins, 13156 Skills, 153 Testakten; kein Plugin unter 30 Skills.
+
+---
+
+# v63.0.0 — Gesamt-Bibliothek, neue Plugins und Skill-Qualitätsboost
+
+## Schwerpunkt
+
+- Konsolidierter Major-Bump von v62.0.0 auf v63.0.0 nach Zusammenführung der neuen Plugin-, Skill- und Testakten-Erweiterungen.
+- Bestand synchronisiert auf 158 Plugins, 12959 Skills und 152 Testakten; kein Plugin liegt mehr unter 30 Skills.
+- Alle Plugin-Manifeste und die Marketplace-Definition auf 63.0.0 angeglichen; README, SKILLS.md, Skills-Index, Testakten- und Asset-Übersichten regeneriert.
+- Durchnummerierte Platzhalter-Skillreihen in `verbraucher-rechtsstaat-alltag`, `berufsgerichtliche-verfahren-freie-berufe` und `schoeffen-handelsrichter-praxis` durch sprechende, fallnahe Spezialskills ersetzt.
+- Neue und ausgebaute Plugin-Familien u. a. für Softwarerecht, Urheberrecht, IT-Sicherheits-/NIS-2-Compliance, Hinweisgeberschutz, Handelsvertreterrecht, Hochschul-/Schul-/Prüfungsrecht, Verbraucheralltag, Staatsanwaltschaftspraxis, Schöffen/Handelsrichter, Berufsverfahren freier Berufe, AG/SE-Hauptversammlung, Aufsichtsrat, NDA, Treuepflicht, HR-Startup-Praxis, Private-Equity- und Bank-/Regulierungsthemen.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-yaml-frontmatter` OK.
+- `validate-testakten-gesamt-pdf` OK (152 Testakten).
+- `git diff --check` OK.
+- Inventarcheck: Marketplace 158 Plugins, 158 Plugin-Manifeste, 12959 Skills, 152 Testakten; keine alten Platzhalter-Slugs der drei ersetzten Skillserien.
+
+---
+
+# v62.0.0 — Major-Bump: konsolidierter Stand nach v61-Reihe
+
+## Schwerpunkt
+
+- Major-Versionsbump von 61.2.2 auf 62.0.0. Inhaltlich identisch mit v61.2.2; signalisiert den Abschluss der v61-Reihe nach Umlaut-Fix, README-Konsolidierung, Beamtenrecht-Quellenanker-Korrektur, Vergaberecht-Workbench-Boost, Forschungszulage-Akten-Erweiterung und globalem Halluzinations-Cleanup.
+- Alle 132 plugin.json + marketplace.json (outer und alle 132 Plugin-Einträge) auf 62.0.0 synchron.
+- Doku-Stand-Marker in README.md, SKILLS.md, ASSET_INDEX.md und testakten/README.md auf v62.0.0 angeglichen (vorher leichter Drift zwischen v61.2.0 und v61.2.2).
+- Plugins: 132 · Skills: 9517 · Testakten: 142 · Fachanwalts-Profile: 24.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (142 Testakten).
+- Alle plugin.json + marketplace.json einheitlich auf 62.0.0.
+
+---
+
+# v61.2.2 - Vergaberecht Workbench Boost
+
+## Schwerpunkt
+
+- `fachanwalt-vergaberecht` von 54 auf 83 Skills erweitert.
+- Neue Workbench-Skills fuer Vergabe-OS, Schwellenwerte 2026/2027, Vergabeakte, Auftragswert/Losbildung, Verfahrenswahl, Markterkundung, Leistungsbeschreibung, Eignung, Bieterfragen, Angebotsoeffnung, Aufklaerung/Nachforderung, Wertungsmatrix, ungewoehnlich niedrige Angebote, Paragraph 134/135 GWB, Paragraph 132 GWB, Rahmenvereinbarungen, Unterschwellenrechtsschutz, Foerdermittel, Wettbewerbsregister, VK-/OLG-Strategie, Padlet-Canvas, KI-/Cloud-Beschaffung, Nachhaltigkeit und Resilienz ergaenzt.
+- Alle Vergaberecht-Skills mit v61.2.2-Workbench-Boost gehaertet: Rollen-/Fristen-/Schwellenwert-Gate, Anfaengererklaerung, Padlet-/Tabellenpflicht bei komplexen Faellen, Auftraggeber-Dokumentationslogik und Bieter-Ruege-/Kausalitaetslogik.
+- Fuenf neue Templates fuer Master-Padlet, Schwellenwert-Rechner, Wertungsmatrix, Ruege/VK-Powerdraft und Vergabeakte-Lueckenliste plus Quellen-/Aktualitaetsgate ergaenzt.
+- Mit dem v61.2.1-Remote-Nachzug zusammengefuehrt; Gesamtbestand jetzt 132 Plugins, 9517 Skills, 142 Testakten.
+
+## Checks
+
+- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check im finalen Merge geprueft.
+
+---
+
+# v61.2.1 — Forschungszulage-Akte und Release-Asset-Glattzug
+
+## Schwerpunkt
+
+- Neue große Arbeitsakte `forschungszulage-sensorik-startup-taunus` für das Plugin `forschungszulage-antragstellung`.
+- Enthalten sind 62 Dateien: 37 Markdown-Aktenstücke, 5 EML-Mails, XLSX/CSV-Zahlenmodelle, 3 DOCX-Entwürfe, 3 JPEG-Bildanlagen, 7 PDF-Anlagen und ein 60-seitiges Gesamt-PDF.
+- Inhaltlicher Schwerpunkt: BSFZ-Rückfrage, FuE-Abgrenzung, Stand der Technik, technische Unsicherheit, Laborjournal mit negativen Ergebnissen, Ticket-/Git-Auszüge, Auftragsforschung Lissabon, Unterauftrag-Risiko, Kumulierung mit ZIM/Horizon/Landesförderung, Finanzamt-Kürzung, Einspruch, Bemessungsgrundlage 2024-2026, KMU-/Verbundfragen und Liquiditätsdarstellung gegenüber Bank/Investoren.
+- Plugin-README, Testaktenübersicht, Asset-Index und Downloadmapping auf 142 Testakten synchronisiert.
+- Ein älterer fehlender Asset-Index-Eintrag für `gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll` wurde nachgetragen.
+- Plugin-Manifeste bleiben unverändert; diese Patch-Version ist ein Testakten-/Release-Asset-Glattzug.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (142 Testakten).
+- Testaktenlisten-Abgleich: 142 Ordner, 142 README-Einträge, 142 Asset-Index-Einträge, 142 Direktdownload-Links.
+- `git diff --check` OK.
+
+---
+
+# v61.2.0 — Testakten-Umlaut-Fix, NeuroChain-Akte, README-Konsolidierung und Beamtenrecht-Quellenanker
+
+## Schwerpunkt
+
+- Umlaut-Sanierung über inzwischen 924 Testakten-Dateien (638 in Phase 1 via Hunspell, weitere 286 in Phase 2 via hash-/ID-geschütztem Skript `scripts/fix-umlaute-protected.py`). `ae`/`oe`/`ue`/`ss` → `ä`/`ö`/`ü`/`ß` in Markdown, EML, TXT und CSV.
+- Hash-Schutz in Phase 2: YAML-Frontmatter, fenced + inline Code, Markdown-Links, URLs, Hex-Strings ≥ 4 Zeichen, Slug-Tokens (lowercase-with-dashes, snake_case) und CSV-IDs sind explizit gestasht. Iterative Unstash-Auflösung verhindert geschachtelte Placeholder. Pre-Write-Check bricht ab, falls ein Umlaut direkt neben einer Hex-Sequenz landen würde.
+- Neue Testakte **NeuroChain Labs — Gründung eines KI/Krypto-Startups in Berlin** (`gesellschaftsgruender-ki-krypto-startup-berlin-musterprotokoll`) mit 14 Aktenstücken, 6 E-Mails, 2 Tabellen und Gesamt-PDF.
+- Plugin-READMEs konsolidiert: veraltete `plugin-testakten-section` aus 117 READMEs entfernt; einzig verbleibende autogenerierte Liste ist die Sofort-Download-Sektion. Skript `inject-plugin-testakten-section.py` ersatzlos gelöscht; `inject-plugin-sofort-download-section.py` ist die alleinige Quelle.
+- Doppelte Testakten-Sektionen in weiteren 107 Plugin-READMEs entfernt (33× verschachtelte `<!-- BEGIN TESTAKTEN-SECTION (auto-generated) -->`-Blöcke innerhalb der `plugin-sofort-download`-Marker, plus 74× reine Duplikat-Sektionen `## Download`/`## Direkt-Download`/`## Direkt herunterladen`).
+- Manuelle Konsolidierungen in `grosskanzlei-corporate-ma`, `strafbefehl-verteidiger`, `urteilsbauer-relationsmacher`, `insolvenzrecht`, `gesellschaftsrecht` und `forderungsmanagement-klagewerkstatt`.
+- Beamtenrecht-Quellenanker korrigiert (5 Skills): § 27 BBG → § 45 BBG (begrenzte Dienstfähigkeit), § 26 → § 44 BBG (Dienstunfähigkeit), § 29 → § 46 BBG (Reaktivierung), § 6 → § 15 BEEG (Elternzeit-Anspruch), § 80 → § 79 BBG (Elternzeit-Versorgung), § 9 BeamtStG → § 9 ArbZV (Altersteilzeit-Blockmodell).
+- Gesamtzahl Testakten jetzt 141.
+
+## Checks
+
+- `validate-plugin-structure` OK.
+- `validate-testakten-gesamt-pdf` OK (141 Testakten).
+- 0 Hash-/ID-Korruption in CSV-Spalten (`q_id`, `arbeits_id`, `sha256_kurz` etc.).
+- 0 doppelte Testakte-ZIP-Links in Plugin-READMEs.
+- YAML-Frontmatter, Whitespace und Hunspell-Wörterbuch grün.
+
+---
+
+# v61.1.1 — Forschungszulage-Plädoyer erweitert
+
+## Schwerpunkt
+
+- `forschungszulage-antragstellung` um den neuen Skill `fz-plaedoyer-begruendung-und-verteidigung` erweitert.
+- Plädoyer-Workflow für BSFZ, Finanzamt, Einspruch, Geschäftsführung/CFO sowie Verlust-, Krisen- und Insolvenzlagen ergänzt.
+- Router, allgemeiner Einstieg, Portaltexte-Skill, README, SKILLS.md und Skills-Index auf den neuen Plädoyer-Pfad nachgezogen.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur und Whitespace-Check grün.
+
+---
+
+# v61.1.0 — Beamten-/Richterrecht Spezialskills konsolidiert
+
+## Schwerpunkt
+
+- 50 hochspezialisierte Skills aus PR #205 in das bestehende `beamtenrecht`-Plugin übernommen, nicht als separates Parallelplugin.
+- Cluster für Konkurrentenschutz und Beurteilung, Besoldung, Versorgung, Beihilfe und Heilfürsorge, Urlaub und Elternzeit, Dienstunfall und Krankheit, Disziplinarrecht, Nebenpflichten und Statusrecht sowie Richterrecht ergänzt.
+- Quellenhygiene im Beamtenrecht weiter geschärft: verifizierte Anker aus der Beamten-/Richterrecht-Wissenssammlung, keine BeckRS-/juris-Blindzitate, Aktenzeichen nur mit prüfbarem Quellenanker.
+
+## Synchronisierung
+
+- `beamtenrecht` wächst auf 125 Skills.
+- Marketplace, Plugin-Manifeste, Haupt-README, SKILLS.md, Skills-Index und Asset-Index auf `v61.1.0` nachgezogen.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Testakten-Gesamt-PDF-Regel und Whitespace-Check grün.
+
+---
+
+# v61.0.0 — Corporate/M&A Deal-OS Boost
+
+Großer Ausbau des freistehenden `grosskanzlei-corporate-ma`-Plugins zu einer noch agentischeren Big-Law-Deal-Workbench.
+
+## Schwerpunkt
+
+- `grosskanzlei-corporate-ma` von 75 auf 125 Skills erweitert: Deal-OS-Orchestrator, Padlet-Canvas, Matrix Factory, Junior-Mentor, Weakness Coach, Battlecards, Term-Sheet-to-SPA, VDD/Legal Fact Book, Authority Matrix, Cap Table/UBO, Locked Box/Completion Accounts, Earn-out, Warranty/Indemnity, MAC/Ordinary Course, Clean Team/Gun-Jumping, FSR, Sector Regulatory, Financing/Security, Signing/Closing Room und Register-Implementation.
+- Alle 125 Corporate/M&A-Skills mit V61 Deal-OS Boost gehärtet: Anfängerführung, Deal-Phasen-Erkennung, Padlet-/Tabellen-Ausgabe, Schwachstellenreparatur, Quellen-/Aktualitätsgate und Human-in-the-loop-Quality-Gate.
+- Sechs neue Templates für Master-Padlet, Junior-Feedback, Matrix Factory, Negotiation Battlecards, Risk Heatmap und Official Source Check ergänzt.
+
+## Synchronisierung
+
+- Marketplace und alle Plugin-Manifeste auf `v61.0.0` gesetzt.
+- `README.md`, `SKILLS.md`, Skills-Index und Asset-Index auf 132 Plugins, 9437 Skills und 140 Testakten nachgezogen.
+
+## Checks
+
+- Plugin-Struktur, YAML-Frontmatter, Testakten-Gesamt-PDF-Regel und Whitespace-Check laufen im Release-Check.
+
+---
+
+# v60.0.1 - Beamtenrecht/Richterrecht Wissenssammlung
+
+- Beamtenrecht-Plugin um vertiefte Skills zur BVerfG-Alimentationsrechtsprechung, zeitnahen Geltendmachung, Föderalismusreform, BDG-2024, Suspendierung, Verfassungstreue, Richterdienstaufsicht, Richterdienstgerichten und EU-Justizunabhängigkeit erweitert.
+- Recherchematerial aus dem Branch `recherche/beamtenrecht-richterrecht-wissenssammlung` als gesonderte Arbeitsablage übernommen.
+- Quellenhygiene im Beamtenrecht verschärft: keine privaten Datenbankzitate, keine Literatur-Blindzitate, keine ungeprüften richterdienstgerichtlichen Fundstellen.
+
+# v60.0.0 — Beamtenrecht, US-Copyright-Registrierung und Release-Sync
+
+Release-Sprung auf v60.0.0 mit zwei neuen Plugins und einer neuen Beamtenrecht-Demonstrationsakte.
+
+## Neu
+
+- `beamtenrecht`: großes Plugin für Bundes- und Landesbeamtenrecht, Richterdienstrecht, Laufbahn, Besoldung, Versorgung, Konkurrentenstreit, Disziplinarrecht, Dienstunfähigkeit, Beihilfe, Richterbeurteilung und verständliche Mandatsführung mit 59 Skills.
+- `testakten/beamtenrecht-richterlaufbahn-besoldung-mondsee`: neue Beamtenrecht-/Richterlaufbahn-Akte mit 15 Einzeldateien, EML, CSV, Chatnotizen und Gesamt-PDF.
+- `us-copyright-registrierung-verlag`: kleines Praxis-Plugin für deutsche Verlage zur US-Copyright-Registrierung über eCO mit 13 Skills zu Account, Standard Application, Gebühren, Deposit, Shipping Slip, Versand und Monitoring.
+
+## Synchronisierung
+
+- Marketplace und alle Plugin-Manifeste auf `v60.0.0` gesetzt.
+- `README.md`, `SKILLS.md`, Skills-Index, Testaktenübersicht und Asset-Index auf 132 Plugins, 9371 Skills und 140 Testakten nachgezogen.
+- Gesamt-PDF für die neue Beamtenrecht-Akte erzeugt und in Plugin-/Testakten-READMEs verlinkt.
+
+# v59.0.0 — Skill-Boost, Legistik-Ressort-Mapping und Release-Synchronisierung
+
+Nachgezogener Hauptstand nach v58.0.0: Claude/Perplexity-Ergänzungen wurden übernommen, alle Plugin-/Marketplace-Versionen stehen einheitlich auf v59.0.0, und die Übersichten sind wieder mit der tatsächlichen Skillzahl synchron.
+
+## Schwerpunkt
+
+- `legistik-werkstatt` stark erweitert: Ressort-Router, Ressortaufgaben, Ressort-spezifische Fachpfade, RuleMapping, Norm-zu-Entscheidungsbaum, Vollzugstauglichkeit, Verweisungslogik und Anschluss an die allgemeine Legistik-Werkstatt.
+- `fachanwalt-strafrecht` um Pro-Verteidiger-Skills zu dysfunktionaler/konfliktiver Verteidigung ergänzt: Beweisantragsstrategie, Befangenheit, § 257 StPO, § 143a StPO, § 138a StPO, Sitzungspolizei, Verschleppungsabgrenzung, KI-Schriftsatz-Fallen und strategische Mandantenführung.
+- 158 magere Skills in 10 Plugins veredelt, insbesondere in Apothekenrecht, Bürokratieversteher, Bundesnetzagentur-Verfahren, Bundeswehrrecht, E-Commerce, Factoring, Krankenhausrecht, Private Equity und Robotik-Recht.
+- `normenkontrollrat-nkr` präzisiert: NKRG-Aufgaben, Unabhängigkeit, Vorsitz, BMJ-Anbindung, Digitalcheck und DDG-Mere-Conduit-Bezug korrigiert.
+- Tote Legistik-RuleMapping-Verweise in Ressort-Skills und Router auf `legw-rmap-grundlagen` umgebogen.
+- Marketplace, alle 130 Plugin-Manifeste, Haupt-README, Testaktenübersicht, Skill-Gesamtübersicht und Skills-Index auf 130 Plugins, 9299 Skills und 139 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel und Whitespace-Check grün.
+
+---
+
+# v58.0.0 — Private Equity, Batteriespeicher, NKR und Loan-Transfer
+
+Großer Fachausbau für Private Equity, Private Credit, Batteriespeicherrecht, NKR-Gesetzesprüfung und distressed Finanzierungen.
+
+## Schwerpunkt
+
+- Neues Plugin `private-equity-praxis` mit 103 Skills: Anfänger- und Profi-Workflow, Fund Formation, KAGB/AIF/ELTIF, Fundraising, Subscription, Side Letter, Deal Execution, Legal DD, SPA/APA, Management Participation, W&I, Private Credit, Schuldschein, LMA, NPL, Portfolio, Exit, Distressed M&A und Qualitygate.
+- `energierecht` um 30 Batteriespeicher-Skills plus Fusions-/Großprojekt-Skills erweitert: Bauleitplanung, BImSchG-Screening, Brandschutz, Netzanschluss, Netzentgelte, Marktrollen, Co-Location, Grundlast-/Kapazitätsmechanismen, Diesel-Notstrom, Power Quality, Wasser/Boden, KRITIS/NIS2, Cyber, physische Sicherheit, Finanzierung, EPC/O&M, Versicherung und Rechtsmittel.
+- Corporate- und Insolvenz-Plugins um Schuldscheindarlehen, Übertragung von Schuldscheindarlehen, LMA-Facility-Transfer, NPL-Kreditkauf, Kreditzweitmarktgesetz, Distressed Debt und Loan-to-own-Schnittstellen ergänzt.
+- Neues Plugin `normenkontrollrat-nkr` aus dem aktuellen Hauptstand integriert und auf v58 synchronisiert: 37 Skills plus Testakte zur elektronischen Erreichbarkeit im Handelsregister, NKR-Stellungnahme, Erfüllungsaufwand, SKM, Digitalcheck, Alternativen, One-in-one-out und Ressortkommunikation.
+- Neue Testakten mit Gesamt-PDF und ZIP-Eintrag: `batteriespeicher-brandenburg-berlin-resilienz`, `kernfusion-transrapid-starnberger-see` und `private-equity-buyout-schuldschein-npl-heidelberg`.
+- Marketplace, Haupt-README, Testaktenübersicht, Skill-Gesamtübersicht und Skills-Index auf 130 Plugins, 9156 Skills und 139 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur und Gesamt-PDF-Regel grün.
+
+---
+
+# v57.0.0 — Skill-Qualitätssweep, Quellenhygiene und schlanke Gesamt-PDFs
+
+Großer Repo-weiter Qualitäts- und Release-Sweep nach den v56-Erweiterungen.
+
+## Schwerpunkt
+
+- Alle 8698 Skills geprüft und mit einem einheitlichen Qualitäts-Hardening gegen generische Antworten, Scheinpräzision, ungeprüfte Rechtsprechung und Literatur-Blindzitate versehen.
+- Zentrale Zitierregel auf v4.1 geschärft: keine BeckRS-/juris-/Kommentar-/Aufsatz-Blindzitate, keine aktuellen Palandt-/Pahlen-Zitate, Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle.
+- Kurze und hakelige Skills in `gesellschaftsgruender` und `anlagen-zu-schriftsaetzen` weiter vertieft.
+- Strafrechts-Findings korrigiert: § 223 StGB/§ 230 StGB bei einfacher Körperverletzung, § 238 StGB nach geltendem Recht mit `wiederholt`, Abs. 2/Abs. 3 sauber getrennt.
+- Alle 132 Gesamt-PDF-Testakten neu gebaut: Die erste Seite startet jetzt aktennah mit Aktenname und Inhaltsübersicht, ohne README-, ZIP-, Download-, Release- oder Testakten-Meta-Hinweise.
+- Marketplace, Plugin-Manifeste, Haupt-README, Skill-Gesamtübersicht, Skills-Index und Asset-Index auf 128 Plugins, 8698 Skills und 132 Testakten synchronisiert.
+
+## Checks
+
+- YAML-Frontmatter, Plugin-Struktur, Gesamt-PDF-Regel, First-Page-Meta-Scan, Diff-Whitespace-Check und Release-Versionssynchronisierung grün.
+
+---
+
 # v56.0.0 — Factoring, Gesundheitsregulierung, BNetzA, E-Commerce und Wehrrecht
 
 Großer Fachplugin-Ausbau mit sieben neuen Rechtsgebieten und vertieften bestehenden Plugins.

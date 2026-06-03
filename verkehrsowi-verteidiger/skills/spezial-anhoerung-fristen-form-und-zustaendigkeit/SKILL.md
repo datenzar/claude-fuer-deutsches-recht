@@ -1,6 +1,6 @@
 ---
 name: spezial-anhoerung-fristen-form-und-zustaendigkeit
-description: "Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehrsowi verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Anhoerung: Fristen, Form, Zuständigkeit und Rechtsweg
@@ -19,6 +19,15 @@ Er führt durch **Fristen, Form, Zuständigkeit und Rechtsweg** im Themenfeld **
 - Form Anhörung: Schriftlich, telefonisch (Achtung Mitschnitt), oder vor der Polizei zu Protokoll.
 - Folge unterlassener Anhörung: § 79 Abs. 3 OWiG – Verfahrensmangel mit Rechtsbeschwerde rügebar; aber: Heilung durch Anhörung im AG-Verfahren möglich (§§ 71-72 OWiG).
 - Praxis-Tipp: Strategiemuster nach Anhörungsschreiben: (1) Halterermittlung statt Fahrerermittlung? Bei Halter­anhörung Schweigerecht/Schutz Angehöriger nach § 52 StPO bewusst nutzen, (2) Bei Fahrer­anhörung mit eigener Fahrereigenschaft erst Akteneinsicht beantragen § 49 OWiG, dann gezielt zu Tatumständen Stellung nehmen, (3) Bei Beweisproblemen schweigen; § 252 StPO analog (verbotene Verwertung Zeugenaussage Angehöriger) prüfen. Bei Fahrtenbuch­auflage drohend ggf. Halter­offenlegung strategisch (§ 31a StVZO).
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Anhoerung.
+- **Arbeitsfokus:** Fristen, Form, Zuständigkeit und Rechtsweg.
+- **Plugin-Rahmen:** Freistehendes VerkehrsOWi-Plugin für Bußgeldbescheid, Anhörung, Einspruch, Punkte, Fahrverbot, Rotlicht, Geschwindigkeit, Abstand, Handy, Alkohol, Droge....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -47,3 +56,10 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
+
+## Qualitätsanker: Messdaten, Messakte und faires Verfahren
+
+- **Verifizierter Leitanker:** BVerfG, Beschluss vom 12.11.2020 - 2 BvR 1616/18. Bei standardisierten Messverfahren darf die Verteidigung nicht mit bloßer Behördenroutine abgespeist werden; vorhandene, nicht aktenkundige Messinformationen können für ein faires Verfahren zugänglich sein, wenn sie konkret und rechtzeitig verlangt werden.
+- **Praktische Übersetzung:** Niemals nur pauschal „Messung bestreiten“. Immer präzise anfordern: Falldatei/Rohmessdaten, Messreihe soweit vorhanden und relevant, Token/Passwort, Eichschein, Gebrauchsanweisung, Schulungsnachweise, Wartungs-/Reparaturhinweise, Standort-/Beschilderungsunterlagen, Statistik und Auswerteprotokoll.
+- **Angriffslinie:** Standardisiertes Messverfahren ist eine Beweiserleichterung, kein Denkverbot. Der Skill muss aus Unterlagen konkrete Einwendungen machen: falsches Gerät, fehlende Eichung, fehlerhafte Bedienung, unklare Fahreridentität, unplausible Messreihe, fehlende Einsicht, Frist-/Gehörsproblem.
+- **Output-Pflicht:** Immer ein kurzes Anforderungsschreiben oder einen gerichtsfesten Begründungsbaustein anbieten, wenn Akteneinsicht, Messunterlagen oder Fristwahrung Thema sind.

@@ -1,7 +1,7 @@
 {
   "name": "betreuungsrecht",
-  "version": "56.0.0",
-  "description": "Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.",
+  "version": "70.0.0",
+  "description": "Betreuungsrechtliche Skills für ehrenamtliche Familienbetreuer, Berufs- und Vereinsbetreuer: Kaltstart, Scan-Akte, Kalender, Gerichtskommunikation, Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Wunschermittlung, Kontoanalyse und Schutzplan nach BtOG und BGB.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -13,6 +13,12 @@
     "berufsbetreuer",
     "jahresbericht",
     "betreuungsgericht",
+    "ehrenamtliche-betreuung",
+    "familienbetreuer",
+    "angehoerige",
+    "kalender",
+    "reminder",
+    "scan-akte",
     "vermoegensverzeichnis",
     "genehmigungspflicht",
     "kontodaten",

@@ -3,36 +3,57 @@ name: eilverfahren-verwaltungsgericht-strategie
 description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie."
 ---
 
-# Eilverfahren Verwaltungsgericht Strategie
+# Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Strategische Steuerung verwaltungsgerichtlichen Eilrechtsschutzes gegen Maßnahmen der Bundesnetzagentur. Verwaltungsgericht ist nach § 51 Abs. 1 Nr. 7 VwGO grundsätzlich das VG Köln. Spezialgesetzlich kann das OVG Münster (z. B. § 233 TKG) oder das BVerwG (Instanzverkürzungen z. B. § 50 Abs. 1 Nr. 6 VwGO bei Leitungs-Planfeststellungen) erstinstanzlich zuständig sein. Der Skill steuert die Wahl zwischen § 80 Abs. 5 VwGO (Wiederherstellung/Anordnung der aufschiebenden Wirkung) und § 123 VwGO (einstweilige Anordnung) und die Eilantragsschrift.
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Angegriffener Akt: Verwaltungsakt (Bußgeld, Untersagung, Anordnung) oder Realhandeln/Unterlassen.
+- Sofortige Vollziehbarkeit angeordnet (§ 80 Abs. 2 Nr. 4 VwGO) oder kraft Gesetzes ausgeschlossene Suspensiveffekt (z. B. § 137 Abs. 1 TKG).
+- Hauptsacheverfahren bereits anhängig?
+- Drohender Schaden, Reversibilität, Marktwirkung, Verbraucherbezug.
+- Frist (in der Regel keine starre Eilfrist, aber Rechtsschutzbedürfnis erlischt bei Untätigkeit).
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- § 80 Abs. 5 VwGO (Anordnung/Wiederherstellung der aufschiebenden Wirkung).
+- § 80a VwGO (Drittwirkung; bei mehrpoligen Verhältnissen).
+- § 123 VwGO (einstweilige Anordnung bei Verpflichtungs- oder Leistungsbegehren).
+- § 137 TKG (sofortige Vollziehbarkeit von BNetzA-TK-Verfügungen), § 76 EnWG (gesetzlich angeordnete sofortige Vollziehbarkeit Energie), § 41 PostG, § 79 ERegG, § 22 DDG.
+- § 47 VwGO (Normenkontrolle: in BNetzA-Sachen selten relevant).
+- §§ 51 Abs. 1 Nr. 7, 49 Abs. 4 VwGO (VG Köln erstinstanzlich), § 6 ARegV.
+- Spezielle Instanzverkürzungen: §§ 50, 48 VwGO; OVG Münster nach § 233 TKG; § 1 EnWG-Beschleunigungsgesetz für Energieleitungen.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
+1. **Antragsart wählen.** Verwaltungsakt mit sofortiger Vollziehbarkeit: § 80 Abs. 5 VwGO. Verpflichtungsbegehren: § 123 VwGO. Drittangriff: § 80a VwGO.
+2. **Zuständigkeit klären.** Regel: VG Köln. Besonderheit TK: ggf. OVG Münster nach § 233 TKG. Bei Planfeststellungen Energie: BVerwG.
+3. **Sofortige Vollziehbarkeit prüfen.** Bei kraft Gesetzes vollziehbaren Verfügungen (z. B. § 137 TKG) genügt Verweisung; bei behördlicher Anordnung Begründungsprüfung nach § 80 Abs. 3 VwGO.
+4. **Anordnungsanspruch und Anordnungsgrund.** § 123 VwGO erfordert beides; § 80 Abs. 5 VwGO erfordert Interessenabwägung mit Erfolgsaussicht in der Hauptsache.
+5. **Glaubhaftmachung.** § 920 ZPO i. V. m. § 123 Abs. 3 VwGO; eidesstattliche Versicherungen, Bescheinigungen, Belegketten.
+6. **Marktwirkung darstellen.** In TK/Energie/Post oft Schlüssel: irreversible Markteingriffe, Wettbewerbsverzerrungen, Investitionsentscheidungen, Versorgungssicherheit.
+7. **Verbindung mit Hauptsache.** Eilantrag fördert Hauptsacheverfahren; ggf. Aussetzung des Eilverfahrens bis zur Hauptsache.
+8. **Rechtsmittel.** Beschwerde zum OVG/BVerwG binnen 2 Wochen § 147 VwGO; Beschwerdebegründung nach § 146 Abs. 4 VwGO im Eilbeschluss-Verfahren strenger Substantiierungsmaßstab.
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+## Mustertexte
+- Eilantrag § 80 Abs. 5 VwGO: Antrag, Sachverhalt, Anordnungsanspruch, Anordnungsgrund, Interessenabwägung, Bescheidkopie, eidesstattliche Versicherung.
+- Eilantrag § 123 VwGO: Antrag (in Form Sicherungs- oder Regelungsanordnung), Anordnungsanspruch, Anordnungsgrund, Glaubhaftmachung.
+- Drittanfechtungs-Eilantrag § 80a VwGO bei Wettbewerberverfahren.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+## Quellenpflicht
+- VwGO und Spezialgesetze (TKG, EnWG, PostG, ERegG, DDG) im aktuellen Stand.
+- VG Köln, OVG Münster, BVerwG-Rechtsprechung mit Datum, Az., freier Fundstelle.
+- Keine erfundenen Az.; verifizierbare Verfahren bevorzugen.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+- Strategie-Memo (Wahl der Antragsart, Erfolgswahrscheinlichkeit, Kostenrisiko).
+- Eilantragsschrift (10–25 Seiten je nach Komplexität).
+- Anlagenverzeichnis (Bescheid, Glaubhaftmachungs-Anlagen, Wirtschaftlichkeits-Belege).
+
+## Beispiele
+- TK-Unternehmen erhält Untersagungsverfügung der BNetzA (BK1) zu einem Vertriebspraxisproblem. Eilantrag § 80 Abs. 5 VwGO beim VG Köln.
+- Wettbewerber will Marktdefinition (BK3) sperren lassen. Drittangriff über § 80a VwGO.
+- Hosting-Anbieter erhält DSC-Untersagung wegen fehlender Notice-and-Action-Schnittstelle. Eilantrag § 80 Abs. 5 VwGO.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+Antragsart begründet gewählt? Zuständigkeit beim richtigen Gericht? Sofortige Vollziehbarkeit identifiziert? Glaubhaftmachung mit Anlagen vollständig? Beschwerdefrist § 147 VwGO im Kalender? Mandant über Kostenrisiko (Streitwert) informiert?

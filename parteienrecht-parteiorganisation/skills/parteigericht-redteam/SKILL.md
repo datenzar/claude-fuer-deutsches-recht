@@ -22,6 +22,26 @@ Wenn ein Dokument vorliegt, lies zuerst das Dokument. Frage höchstens vier Punk
 3. **Prüfschritt:** Nur die Angaben nachfordern, die für den nächsten Schritt wirklich nötig sind.
 4. **Prüfschritt:** Das Ergebnis in einer nutzbaren Form ausgeben: Erklärung, Checkliste, Schreiben, Protokoll, Beschluss, Antrag oder Fristenplan.
 
+## Red-Team: Wirksamer Rechtsschutz oder strukturelles Fairnessrisiko?
+
+Dieser Skill behandelt Parteigerichte als Rechtsschutzinstrument, aber prüft hart, ob das konkrete Verfahren faktisch als Machtmittel wirken kann. Das Ergebnis soll beides leisten: interne Autonomie der Partei respektieren und zugleich verhindern, dass Rechtsschutz durch Organisation, Geheimhaltung oder Zeitablauf ausgehöhlt wird.
+
+### Kontrollfragen
+
+- Gibt es einen klaren, vorab bestimmbaren Spruchkörper oder wird erst im Verfahren unklar nachbesetzt?
+- Sind entscheidende Personen in Vorstand, Geschäftsstelle, Arbeitsverhältnis, politischer Abhängigkeit oder persönlichem Konflikt mit dem Streitgegenstand verbunden?
+- Wird rechtliches Gehör praktisch gewährt: Schriftsatznachlass, Akteneinsicht, Beweisangebote, Stellungnahme zu neuen Tatsachen?
+- Ist Nichtöffentlichkeit sachlich begründet oder verhindert sie Kontrolle in einem Streit, der demokratische Mitwirkungs- oder Wahlrechte betrifft?
+- Kann das Verfahren vor irreversiblen Wahl-, Listen-, Vorstand- oder Ausschlussfolgen abgeschlossen werden?
+- Gibt es eine dokumentierte Reaktion auf Verzögerungsrügen, Eilanträge und Befangenheitsanträge?
+- Wird die staatliche Gerichtskontrolle faktisch erst eröffnet, wenn der Streit schon erledigt ist?
+
+### Ergebnislogik
+
+- **Grün:** Spruchkörper transparent, Fristen kurz, Gehör vollständig, Befangenheitsprüfung real, Entscheidung vor Erledigung möglich.
+- **Gelb:** Satzung formal brauchbar, aber Praxis lückenhaft; Antrag muss Struktur-, Besetzungs-, Öffentlichkeit- und Verzögerungsrügen aufnehmen.
+- **Rot:** Verfahren nicht rechtzeitig oder nicht neutral erreichbar; parallel staatlichen Eilrechtsschutz und Dokumentation der Unzumutbarkeit prüfen.
+
 ## Vorsichtsregel
 Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, Gesundheitsdaten, Familieninformationen, Finanzdaten oder Schuldeingeständnisse an Behörden, Gerichte, Verbände oder Gegner geben. Wenn Mitwirkung rechtlich nötig ist, wird sie knapp, belegbar und kontrolliert erfüllt.
 

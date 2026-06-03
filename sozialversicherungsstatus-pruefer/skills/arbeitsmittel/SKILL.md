@@ -1,0 +1,48 @@
+---
+name: arbeitsmittel
+description: "Prüft eigene oder fremde Arbeitsmittel: Laptop, Instrumente, Fahrzeuge, Softwarelizenzen, Räume und Spezialgeräte."
+---
+
+# Arbeitsmittel und Equipment
+
+## Zweck
+
+Das Sozialversicherungsstatus-Plugin prüft Beschäftigung, Selbständigkeit, Scheinselbständigkeit und Statusfeststellung für Geschäftsführer, Freelancer, Anwälte, Lehrer, Musikschulen, Plattformarbeit und andere Arbeitsformen nach deutscher Sozialversicherungssystematik.
+
+Dieser Skill macht aus **Arbeitsmittel und Equipment** einen belastbaren Workflow: erst Rolle und Ziel, dann Rechtsanker, tatsächliche Praxis, Dokumente, Risiken, Gegenargumente und verwertbarer Output.
+
+## Rechts- und Quellenanker
+
+- SGB IV § 7
+
+Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vor konkreter Verwendung live prüfen. Keine Modellzitate als Beleg verwenden.
+
+## Intake-Fragen
+
+- Wer stellt wesentliche Arbeitsmittel und trägt Kosten?
+- Sind fremde Tools aus Securitygründen zwingend oder Ausdruck von Eingliederung?
+- Hat die Person eigene berufstypische Infrastruktur?
+- Wie werden BYOD, Kundenzugänge und Lizenzpflichten dokumentiert?
+
+## Workflow
+
+1. Sachverhalt in Rollen, Dokumente, Zeitachse und tatsächliche Durchführung zerlegen.
+2. Rechtsanker und zwingende Vorfragen live prüfen.
+3. Pro- und Contra-Indizien gewichten, nicht nur sammeln.
+4. Output als Memo, Matrix, Redline, Antragspaket oder Counsel-Briefing liefern.
+
+## Tiefencheck für die Akte
+
+- Wer stellt wesentliche Arbeitsmittel und trägt Kosten?
+- Sind fremde Tools aus Securitygründen zwingend oder Ausdruck von Eingliederung?
+- Hat die Person eigene berufstypische Infrastruktur?
+- Wie werden BYOD, Kundenzugänge und Lizenzpflichten dokumentiert?
+
+**Mindest-Output:** Arbeitsmittel-Matrix mit Kostenträger, Notwendigkeit, Statusgewicht und Belegen.
+
+## Qualitäts- und Risikofilter
+
+- Vertragsetiketten nie übernehmen: Entscheidend ist die Gesamtwürdigung aus Vertrag und gelebter Praxis.
+- Sondertatbestände wie SGB VI § 2, KSVG, Minijob, AÜG, Geschäftsführer-Sperrminorität und Cross-border immer als eigene Abzweige prüfen.
+- BSG-Rechtsprechung nur mit Datum, Aktenzeichen und frei/offiziell überprüfbarer Quelle verwenden; bei Unsicherheit als Rechercheauftrag markieren.
+- Bei Beitrags-, Straf- oder Betriebsprüfungsrisiko keine lockere Entwarnung geben, sondern Zeiträume, Versicherungszweige und Belege konkretisieren.

@@ -1,12 +1,12 @@
 ---
 name: zitat-aufsatz-zeitschrift
-description: "Aufsatz in juristischer Zeitschrift: Verfasser, Aufsatztitel, Zeitschrift Jahr, Heft (falls relevant), Seite. Beispiel Mueller, Die neue Haftung des GmbH-Geschaeftsfuehrers, NZG 2024 S. 567. Bei Online-Zeitschrift: zusaetzlich URL."
+description: "Aufsatz in juristischer Zeitschrift nur bei vorliegendem Beitrag zitieren: Verfasser, Titel, Zeitschrift, Jahr, Heft/Seite und Pinpoint aus Nutzerquelle oder Live-Zugriff übernehmen. Keine Aufsatzfundstellen aus Modellwissen."
 ---
 
 # Aufsatz in Zeitschrift zitieren
 
 ## Aufgabe
-Aufsatz in juristischer Zeitschrift: Verfasser, Aufsatztitel, Zeitschrift Jahr, Heft (falls relevant), Seite.
+Aufsatzfundstellen nur formatieren, wenn der konkrete Beitrag vorliegt oder im Live-Zugriff geöffnet ist. Ohne Quelle nur Recherchehinweis und Suchstrategie ausgeben.
 
 
 ## Fachlicher Arbeitskern

@@ -1,6 +1,6 @@
 ---
 name: slogan-marke
-description: "Workflow-Skill zu slogan marke. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen."
+description: "Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort."
 ---
 
 # Slogan-Marken für Luxus-Mode
@@ -56,12 +56,11 @@ Brezelmann Discount KG (Bad Mergentheim) verwendet "KLOTZ IST PREIS" als Gegensl
 ### Konstellation 4: Hashtag-Marke #klotzzkette
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 8 Rn. 350 ff. (Slogans)
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 8 Rn. 120 ff.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

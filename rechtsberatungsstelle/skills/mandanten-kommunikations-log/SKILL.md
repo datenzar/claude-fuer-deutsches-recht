@@ -160,3 +160,12 @@ Mandant wünscht Widerspruch. Kopie des Bescheids wird per Post zugesandt. Frist
 - **Dolmetscher nicht dokumentiert:** Bei Sprachbarrieren ist der Nachweis, dass der Mandant den Inhalt verstanden hat, entscheidend (Aufklärungspflicht).
 - **Offene Fristen nicht weitergegeben:** Beim Semesterwechsel sind nicht übergebene Fristen das größte Haftungsrisiko. Das Log ist die Grundlage für `/rechtsberatungsstelle:semester-übergabe`.
 - **Personenbezogene Daten unverschlüsselt gespeichert:** DSGVO Art. 9 verlangt erhöhten Schutz für Asylstatus, Gesundheitsdaten. Kein Upload in unkonfigurierte Cloud-Systeme ohne Auftragsverarbeitungsvertrag (Art. 28 DSGVO).
+
+
+## Qualitäts-Hardening
+
+- Arbeite aktennah: Tatsachen, Belege, Fristen, Zuständigkeit und gewünschtes Arbeitsprodukt zuerst klären.
+- Keine Rechtsprechung aus Modellwissen zitieren. Jede Entscheidung vor Ausgabe mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei oder amtlich prüfbarer Quelle absichern.
+- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate. Literatur nur verwenden, wenn der Nutzer sie bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitsschritt dokumentiert ist.
+- Wenn eine Quelle, Randnummer, Behördenpraxis oder Frist nicht sicher geprüft ist, sichtbar als Prüfpunkt markieren und keine Scheinpräzision erzeugen.
+- Ergebnisse so liefern, dass sie sofort weiterverwendbar sind: Kurzbild, Prüfpfad, Risikoampel, Lückenliste und konkrete nächste Schritte.

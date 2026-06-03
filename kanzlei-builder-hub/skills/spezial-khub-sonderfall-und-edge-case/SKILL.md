@@ -1,6 +1,6 @@
 ---
 name: spezial-khub-sonderfall-und-edge-case
-description: "Khub: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Khub: Sonderfall und Edge-Case-Prüfung im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Khub: Sonderfall und Edge-Case-Prüfung
@@ -9,6 +9,15 @@ description: "Khub: Sonderfall und Edge-Case-Prüfung: konkreter Spezialworkflow
 Dieser Skill ist ein konkreter Fachbaustein für `kanzlei-builder-hub`. Ausgangspunkt ist: Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung.
 
 Er führt durch **Sonderfall und Edge-Case-Prüfung** im Themenfeld **Khub**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Khub.
+- **Arbeitsfokus:** Sonderfall und Edge-Case-Prüfung.
+- **Plugin-Rahmen:** Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Deployment in die Kanzleiumgebung.
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

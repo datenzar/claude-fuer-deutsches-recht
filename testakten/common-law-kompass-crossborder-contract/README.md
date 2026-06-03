@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 86 KB) | PDF | [`gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf`](gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 84 KB) | PDF | [`gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf`](gesamt-pdf/common-law-kompass-crossborder-contract_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-common-law-kompass-crossborder-contract.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-common-law-kompass-crossborder-contract.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

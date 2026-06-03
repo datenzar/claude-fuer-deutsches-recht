@@ -62,12 +62,11 @@ Micro-Influencer (200k Follower) trägt offensichtliche Fälschung und taggt "@k
 ### Konstellation 3: Wiederholungstäter Brezelmann
 Brezelmann hat bereits eine Unterlassungserklärung abgegeben (Hamburger Brauch), verwendet das Zeichen erneut. Vertragsstrafe-Klage: Quantifizierung der Zuwiderhandlungen, EUR 5.000-15.000 je Fall. Parallele neue Abmahnung für neue Verletzungshandlungen.
 
-## Belege & Kommentare
+## Quellen-Hardening
 
-- Ströbele/Hacker/Thiering, MarkenG, 13. Aufl. 2021, § 14 Rn. 1 ff. (Verletzungsrechtsfolgen)
-- Ingerl/Rohnke, MarkenG, 3. Aufl. 2010, § 14 Rn. 400 ff.
-- Quellenregel: Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff; keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen.
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
+- Keine Kommentar-, Handbuch-, Aufsatz-, BeckRS- oder juris-Blindzitate aus Modellwissen.
+- Registerdaten, Amtsformulare, Fristen, Gebühren und Behördenpraxis live bei DPMA, EUIPO, WIPO, USPTO oder den jeweils zuständigen Stellen prüfen.
+- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und amtlicher oder frei zugänglicher Quelle ausgeben.
 
 ## Templates
 

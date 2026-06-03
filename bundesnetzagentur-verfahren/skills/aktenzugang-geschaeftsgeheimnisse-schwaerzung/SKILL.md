@@ -3,36 +3,119 @@ name: aktenzugang-geschaeftsgeheimnisse-schwaerzung
 description: "Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung."
 ---
 
-# Aktenzugang Geschäftsgeheimnisse Schwärzung
+# Aktenzugang, Geschäftsgeheimnisse, Schwärzung bei der Bundesnetzagentur
 
-## Einsatz
-Nutze diesen Skill im Plugin **Bundesnetzagentur-Verfahren**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Zweck und Anwendungsfall
+Dieser Skill steuert die anwaltliche Arbeit am Schnittpunkt von Akteneinsicht und Geheimnisschutz in Verfahren der Bundesnetzagentur (BNetzA). Typische Konstellationen: Antrag eines Wettbewerbers auf Einsicht in die Marktanalyse- oder Entgeltakte einer Beschlusskammer; Verlangen der BNetzA, Kostendaten oder Vertragsentwürfe vorzulegen; Streit über die Reichweite der Schwärzung im Tenor oder in den Anlagen eines Beschlusses; Konflikt zwischen § 29 VwVfG, § 71 TKG, § 71 EnWG, § 67 PostG, § 75 ERegG und §§ 17 ff. GeschGehG. Der Skill ist auf alle Sektoren der BNetzA anwendbar (TK, Energie, Post, Eisenbahn, Digital Services).
 
-**Fachlicher Fokus:** Anwaltliche Verfahren mit der Bundesnetzagentur: Zuständigkeit, Beschlusskammern, Konsultationen, Auskünfte, Bußgelder, Beschwerden, Energie-, TK-, Post-, Eisenbahn- und DSA-Regulierung.
+## Eingaben
+- Verfahrensart und Beschlusskammer (BK1 TK Allgemein, BK2 Nummern, BK3 Marktanalyse, BK4 Entgelte, BK6/7/8/9 Energie, BK10 Post, BK11 Anti-Discrimination Office Telekommunikation).
+- Rolle: Antragsteller, betroffenes Unternehmen, beigeladener Wettbewerber, Verband, Verbraucher.
+- Konkretes Verlangen (Einsicht in Antragsschrift, Kostenkalkulation, Marktdaten, interne Stellungnahme).
+- Schon erfolgte Schwärzungen und deren Begründung.
+- Frist (Stellungnahme, Widerspruch, Eilantrag).
 
-## Startfragen
-- Was soll sofort entstehen: Kurztriage, Aktenplan, Fragenliste, Memo, Schriftsatz, Vertrag, Formular oder Mandantenbrief?
-- Wo drohen Fristen, Formerfordernisse, Bußgelder, Gebührennachteile, Verfahrensfehler oder irreversible Schritte?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+## Rechtsrahmen
+- § 29 VwVfG (allgemeine Akteneinsicht im Verwaltungsverfahren).
+- § 71 TKG 2021 (Verfahrensvorschriften BNetzA, Akteneinsicht, Geheimnisschutz).
+- § 71 EnWG (Verfahren vor Beschlusskammern, Geheimnisschutz).
+- § 67 PostG 2024 (Verfahren).
+- § 75 ERegG (Verfahren der BNetzA als Regulierungsbehörde Eisenbahn).
+- § 134 BNetzAG (Aufgaben und Befugnisse).
+- §§ 17–19 GeschGehG (Definition und prozessualer Schutz von Geschäftsgeheimnissen; Geheimhaltungsstreitverfahren).
+- § 99 VwGO (in-camera-Verfahren bei Vorlageverweigerung).
+- Art. 339 AEUV (unionsrechtliches Berufsgeheimnis), Art. 5 DSA-VO, Art. 84 TK-Kodex-RL.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aktenzugang Geschäftsgeheimnisse Schwärzung..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Ablauf
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+1. **Verfahrensstand klären.**
+   - Beschlusskammer und Az. (Format z. B. BK3-23-XXX-XX).
+   - Stand der Konsultation gem. § 12 TKG bzw. § 56 EnWG.
+   - Anstehende Anhörung, Termin der Beschlusskammer, parallele Bußgeldverfahren.
+   - Vorgeschichte: Antrag, Marktanalyse, Konsultation, Notifikation an EU-Kommission Art. 32 EECC.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+2. **Schutzinteresse identifizieren.** Welche Daten sind streng vertraulich?
+   - Kostenrechnung, Nachfragerstruktur, Margen.
+   - Identität von Whistleblowern, IT-Sicherheitsdaten.
+   - Vertragsentwürfe und unterzeichnete Verträge.
+   - Trennung in: Geschäftsgeheimnis i. S. v. § 2 Nr. 1 GeschGehG, personenbezogene Daten (Art. 4 Nr. 1 DSGVO), behördliches Beratungsgeheimnis, sicherheitsrelevante Daten (§ 165 TKG).
+
+3. **Schwärzungsstrategie.** Drei Versionsstufen:
+   - Vollversion für die Beschlusskammer.
+   - Geschwärzte Version für die Akteneinsicht der Beigeladenen.
+   - Ggf. weiter reduzierte Version für die Öffentlichkeit (Online-Stellung des Beschlusses).
+
+4. **Begründungspflicht erfüllen.** Pro geschwärzter Passage:
+   - Konkret darlegen, warum gerade dieser Wert oder dieser Satz Geheimnis ist.
+   - Wettbewerbsrelevanz beziffern.
+   - Pauschale Schwärzungen werden von der BNetzA und vom VG Köln regelmäßig zurückgewiesen.
+
+5. **Akteneinsichtsantrag formulieren oder abwehren.**
+   - Antragsteller: konkrete Aktenteile bezeichnen, Verfahrensbezug darlegen.
+   - Geheimnisinhaber: differenziert widersprechen, Alternativvorschläge (Zusammenfassung, gerundete Werte, Bandbreitenangaben).
+   - Bei Beigeladenen-Antrag: Anhörung des Geheimnisinhabers ist Standard und muss verlangt werden, falls unterblieben.
+
+6. **In-camera-Mechanismen.**
+   - Bei Vorlageverweigerung Antrag nach § 99 Abs. 2 VwGO an den Fachsenat des OVG/BVerwG.
+   - Im verwaltungsbehördlichen Verfahren: faktischer in-camera-Vortrag in der Beschlusskammer.
+
+7. **Rechtsschutz.**
+   - Eilantrag nach § 123 VwGO oder § 80 Abs. 5 VwGO beim VG Köln (sachlich zuständig nach § 51 Abs. 1 Nr. 7 VwGO für BNetzA-Sachen).
+   - Im TK-Bereich ggf. unmittelbar OVG Münster nach § 233 TKG.
+   - Beschwerde § 146 VwGO mit substantiierter Beschwerdebegründung binnen Monatsfrist (bei Eilbeschluss 2 Wochen).
+
+## Mustertexte
+
+- **Antrag auf Akteneinsicht nach § 29 VwVfG i. V. m. § 71 TKG.** Bestandteile: Bezeichnung des Verfahrens, Bezeichnung der gewünschten Aktenteile, Rolle des Antragstellers, Verfahrensbezug, Anwaltszustellungsbevollmächtigung.
+- **Schwärzungstabelle.** Spalten: Seite, Zeile, geschwärzter Inhalt, Schutzkategorie (Geschäftsgeheimnis, personenbezogene Daten, Sicherheitsdaten), Norm, Begründung in einem Satz.
+- **Widerspruch gegen Akteneinsicht.** Inhalte: Geheimnisqualität, Wettbewerbsrelevanz, fehlende mildere Mittel, Bezug zu BNetzA-Praxis BK4 in Entgeltverfahren, Hinweis auf § 17 GeschGehG.
+- **Klage beim VG Köln gegen die Anordnung der Offenlegung** als anfechtbare Verfahrenshandlung (Streit über Isolation der Maßnahme prüfen; § 44a VwGO-Sperre beachten).
+- **Antrag auf einstweilige Anordnung § 123 VwGO** zur Verhinderung der vollendeten Tatsachen vor der Offenlegung; Glaubhaftmachung des wirtschaftlichen Schadens.
+
+## Quellenpflicht
+
+- BNetzA-Beschlüsse als Az. BK3-23-XXX-XX bzw. BK4-23-XXX-XX nur generisch; konkretes Az. vom Anwender zu verifizieren über die Konsultationsdatenbank der BNetzA.
+- VG Köln und OVG Münster als Instanz nennen, konkrete Entscheidungen nur mit Datum, Az. und Fundstelle; nicht aus dem Modellwissen erfinden.
+- BVerwG zur § 99 VwGO-Praxis nur mit verifiziertem Az.
+- EuGH zu Art. 339 AEUV und zum Schutz vertraulicher Geschäftsinformationen mit Datum und Rechtssachen-Nr.
+- Zitierweise nach `references/zitierweise.md`.
+
+## Ausgabeformat
+
+- Schwärzungstabelle als Anlage (Spalten: Seite, Zeile, Inhalt, Schutzkategorie, Norm, Begründung).
+- Schriftsatz mit klarer Gliederung: Sachverhalt, Antrag, Begründung, Anlagen.
+- Risikoampel: grün (Schwärzung tragfähig), gelb (Begründung schwach, Nachbesserung nötig), rot (Schwärzung wird voraussichtlich aufgehoben).
+- Versions-Übersicht (Vollversion vs. Beigeladenen-Version vs. Öffentlichkeits-Version) mit Pflege-Vermerk.
+
+## Beispiele
+
+- **Entgeltverfahren TK.** Wettbewerber X verlangt Einsicht in die Kostenkalkulation der Y AG im Entgeltverfahren BK4-25-XXX-XX. Ergebnis: Bandbreitenoffenlegung, Schwärzung der Einzelwerte, Begründung über § 71 Abs. 1 TKG.
+- **DSA-Verfahren.** Verbraucherverband verlangt Einsicht in die Stellungnahme eines Plattformbetreibers im DSA-Verfahren. Ergebnis: Offenlegung der rechtlichen Argumentation, Schwärzung von Nutzerzahlen und Sicherheitsdetails.
+- **Energie-Anreizregulierung.** Energieversorger weigert sich, der BNetzA Effizienzwerte für die Anreizregulierung vorzulegen. Ergebnis: Vorlage unter Anordnung der Geheimhaltung, in-camera-Sichtung durch BK4 oder BK9.
+- **Eisenbahnregulierung.** EVU verlangt Einsicht in das Schienennetz-Benutzungsbedingungen-Entwurfsdokument (vor Konsultation). Ergebnis: Offenlegung in Konsultationsphase, Schwärzung der internen Kalkulation.
+- **Post-Universaldienst.** Mitbewerber verlangt Einsicht in die Kostenkalkulation der Deutsche Post AG zur Briefporto-Genehmigung. Ergebnis: Bandbreitenoffenlegung.
+
+## Verhältnis zu anderen Skills im Plugin
+
+- Verzahnung mit `anhoerung-auskunftsbeschluss-fristenplan`: jede Stellungnahme an die BNetzA muss zugleich die Schwärzungs-Strategie mitdenken.
+- Verzahnung mit Marktdefinitions- und Entgeltskills (BK3, BK4) im TK-Sektor.
+- Verzahnung mit dem DSA-Auskunfts- und Beschwerde-Komplex bei Plattformverfahren.
+- Verzahnung mit dem Eisenbahn-Trassenzugang-Skill bei Beschwerdeverfahren § 66 ERegG.
+
+## Häufige Fehler
+
+- Pauschalschwärzung ohne Einzelbegründung führt zur Aufhebung durch die Beschlusskammer.
+- Mehrfach-Versionen unsauber gepflegt, sodass die ungeschwärzte Version versehentlich in die Beigeladenen-Akte gelangt.
+- Versäumte Anhörung des Geheimnisinhabers bei Drittantrag, was die Maßnahme nach § 45 VwVfG heilbar oder nach § 46 VwVfG unbeachtlich macht.
+- Schwärzung von Tatsachen, die bereits in der Konsultationsphase öffentlich diskutiert wurden (Verlust des Geheimnischarakters).
+- Verkennen, dass § 44a VwGO einer isolierten Klage gegen Verfahrenshandlungen Grenzen setzt.
 
 ## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+
+Vor Versand prüfen:
+- Sind alle Schwärzungen begründet?
+- Ist die Frist gewahrt?
+- Liegt eine Vollmacht im Original vor?
+- Wurde der Geheimnisinhaber angehört (bei Antragsstellung durch Dritte)?
+- Ist die Eilbedürftigkeit ggf. dargelegt?
+- Liegen mehrere Versionen unterscheidbar vor (Wasserzeichen, Versionsnummer, Stempel)?

@@ -5,34 +5,99 @@ description: "Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft 
 
 # Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
 
-## Einsatz
-Nutze diesen Skill im Plugin **Factoring-Recht**, wenn genau dieses Thema sichtbar wird oder der Allgemein-Skill dorthin routet. Arbeite praktisch, schnell und verwertbar: keine Vorlesung, sondern ein geordneter Arbeitsweg mit Ergebnis.
+## Worum geht es konkret
 
-**Fachlicher Fokus:** Factoring als laufender Forderungsankauf, Vertrags- und Aufsichtsrecht, BaFin-Erlaubnisfragen, Abtretung, Debitorenschutz, Insolvenz, Bilanzierung und internationale Lieferkettenfinanzierung.
+Für den Factoringkunden ist die **bilanzielle Ausbuchung der Forderung** (Off-Balance) oft das eigentliche Geschäftsziel. Sie senkt die Bilanzsumme, verbessert Bilanzkennzahlen (Eigenkapitalquote, Umschlagshäufigkeit) und ist Voraussetzung für viele Kreditkonditionen. Bilanziell ist die Ausbuchung kein juristischer Selbstläufer: Sie setzt **True Sale** voraus – einen echten Forderungsverkauf mit Übergang des wirtschaftlichen Eigentums, nicht nur eine zivilrechtliche Abtretung mit Sicherungscharakter.
 
-## Startfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
+Maßstab nach **HGB (§ 246 HGB, IDW RS HFA 8)**: Ausbuchung, wenn das **wirtschaftliche Eigentum** vollständig übergegangen ist und der Verkäufer keine wesentlichen Risiken zurückbehält. Maßstab nach **IFRS 9** komplexer: Risk-and-Reward-Test plus Control-Test. Dieser Skill prüft die zentralen Stellschrauben.
 
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO..
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
+## Wann brauchen Sie diesen Skill / Kaltstart-Fragen
 
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
+- Der Mandant will Forderungen bilanziell ausbuchen und braucht eine rechtssichere Strukturierung.
+- Der Wirtschaftsprüfer beanstandet die Ausbuchung – Argumente werden gesucht.
+- Bei Konsolidierungspflicht prüfen Sie die Behandlung von Factoring-Zweckgesellschaften.
+- Im IFRS-Konzernabschluss steht die Off-Balance-Behandlung zur Disposition.
 
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
+Fragen zum Einstieg:
+- HGB oder IFRS, oder beides parallel?
+- Echtes oder unechtes Factoring (Bonitätsrisiko)?
+- Welche Rückgriffsrechte, Garantien, Rückkaufverpflichtungen bestehen?
+- Wird ein laufender Sicherheitseinbehalt vereinbart, in welcher Höhe?
+- Wer verantwortet das Inkasso, der Factor oder der Kunde?
 
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
+## Rechtlicher Rahmen
+
+- **HGB § 246 Abs. 1**: Ausweis aller Vermögensgegenstände, soweit wirtschaftlicher Eigentümer.
+- **HGB § 252**: Vorsichtsprinzip, Realisationsprinzip.
+- **IDW RS HFA 8** (Bilanzierung von Forderungsverkäufen / Forderungsabtretungen): Konkretisierung True-Sale-Anforderungen.
+- **HGB § 252 Abs. 1 Nr. 4**: Risikobetrachtung, Bewertung mit Wertberichtigung.
+- **IFRS 9 (Financial Instruments)**: Risk-and-Reward, Continuing-Involvement, Control-Test.
+- **IFRS 10**: Konsolidierung von Zweckgesellschaften.
+- **§ 290 HGB**: Konsolidierungspflicht.
+- **§§ 4, 5 EStG**: Steuerliches Maßgeblichkeitsprinzip.
+
+## Workflow / Schritt für Schritt
+
+1. **Vertragstyp festlegen**: Echtes Factoring (Bonitätsrisiko übergeht) versus unechtes Factoring (Rückgriff bleibt).
+2. **Risikoinventur**: Welche Risiken (Bonität, Verität, Reklamation, Zinsänderung, Wechselkurs) bleiben beim Verkäufer?
+3. **Schwellenwerte für True Sale**: Wenn mehr als 5–10 Prozent der Risiken zurückbleiben, droht IFRS Continuing Involvement.
+4. **Sicherheitenstruktur prüfen**: Reklamationsreserve, Veritätshaftung, Sperrkonten – tragen sie das Risiko zurück?
+5. **HGB versus IFRS abgleichen**: HGB ist toleranter, IFRS strenger.
+6. **Konsolidierungsfragen klären**: Wenn Forderungen an Factoring-SPV verkauft werden, IFRS 10 Konsolidierungs-Test.
+7. **Wirtschaftsprüfer einbinden**: True-Sale-Opinion einholen bei größeren Strukturen.
+
+## Trade-off-Matrix
+
+| Vertragsstruktur | Ausbuchung HGB | Ausbuchung IFRS |
+|---|---|---|
+| Echtes Factoring ohne Rückgriff | Ja | Ja, sofern Risiken < 10 Prozent |
+| Unechtes Factoring mit voller Bonitätshaftung | Nein | Nein |
+| Echtes Factoring mit 10 Prozent Sicherheitseinbehalt | Ja (idR) | Borderline, Continuing Involvement prüfen |
+| Inhouse-Factoring mit Servicer-Rolle des Verkäufers | Schwierig | Schwierig (Control-Test) |
+| Reverse Factoring | Komplex, abhängig von Käuferinitiative | Komplex, abhängig von Kontrolle |
+| Maturity Factoring (Fälligkeitsfactoring) | Ja, wenn Bonitätsrisiko übergeht | Ja, wenn Risiko-Reward-Test bestanden |
+
+## Praxistipps
+
+- **Klare Trennung Bonität vs. Verität**: Veritätshaftung ist im echten Factoring üblich und steht der Ausbuchung nicht entgegen. Bonitätshaftung dagegen verhindert Ausbuchung.
+- **Sicherheitseinbehalt begrenzt**: Reklamationsreserve max. 10 Prozent, sonst IFRS-Risk-Test gefährdet.
+- **Servicer-Rolle problematisch**: Wenn der Verkäufer weiter das Inkasso durchführt, droht IFRS Continuing Involvement (Control-Test).
+- **Externe True-Sale-Opinion**: Bei großen Strukturen Gutachten eines Wirtschaftsprüfers einholen – schafft Bilanzsicherheit.
+- **Stille Reserven beachten**: Bei stiller Zession (debitor wird nicht informiert) ist die wirtschaftliche Trennung schwerer zu argumentieren.
+
+## Mustertexte
+
+**Klausel im Factoringvertrag (True Sale)**
+
+"Die Parteien vereinbaren einen Forderungskauf im Sinne des § 433 BGB. Der Factor erwirbt die Forderung mit allen Chancen und Risiken. Insbesondere geht das Bonitätsrisiko vollständig auf den Factor über. Der Verkäufer haftet ausschließlich für die Verität (Bestand und Einredefreiheit) der Forderung. Eine Bonitätshaftung wird ausdrücklich ausgeschlossen."
+
+**Klausel Reklamationsreserve (Ausbuchungs-kompatibel)**
+
+"Der Factor behält von jedem Kaufpreis 7 Prozent als Reklamationsreserve ein. Diese Reserve dient ausschließlich zur Sicherung von Veritätsansprüchen und wird nach 90 Tagen ohne Beanstandung freigegeben. Die Reserve betrifft nicht das Bonitätsrisiko, das vollständig beim Factor verbleibt."
+
+**Memo an Wirtschaftsprüfer (Auszug)**
+
+"Gegenstand: Bilanzierung Factoringgeschäft mit [Factor]. Vertragsstruktur: Echter Forderungsverkauf ohne Rückgriff, Veritätshaftung des Verkäufers, Reklamationsreserve 7 Prozent mit Freigabe nach 90 Tagen. Servicer-Funktion: Forderungen werden offen abgetreten, Inkasso durch Factor. Ergebnis: Voraussetzungen IDW RS HFA 8 für Ausbuchung nach HGB sind erfüllt, da wirtschaftliches Eigentum übergeht. IFRS 9: Risk-and-Reward-Test bestanden, Continuing Involvement < 10 Prozent."
+
+## Typische Fehler
+
+- Verträge mischen Bonitäts- und Veritätshaftung, dadurch Ausbuchung gefährdet.
+- Sicherheitseinbehalt zu hoch (> 10 Prozent), IFRS-Continuing-Involvement greift.
+- Verkäufer behält Servicer-Rolle, dadurch IFRS-Control-Test problematisch.
+- HGB-Ausbuchung wird ohne IFRS-Bewertung übernommen, im Konzernabschluss bricht das.
+- Steuerliche Folgen (Maßgeblichkeit) übersehen.
+
+## Querverweise
+
+- `echtes-und-unechtes-factoring-risikoverteilung`
+- `factoringvertrag-rahmenvertrag-forderungskauf-kaufpreis-sicherhe`
+- `factoringtyp-true-false-reverse-maturity`
+- `full-service-factoring-inhouse-factoring-ausschnittsmodell`
+
+## Quellen Stand 06/2026
+
+- HGB §§ 246, 252, 290 zur Bilanzierung und Konsolidierung.
+- IDW RS HFA 8 zur Bilanzierung von Forderungsverkäufen.
+- IFRS 9 zu Financial Instruments (Risk-and-Reward, Control-Test).
+- IFRS 10 zur Konsolidierung von Zweckgesellschaften.
+- IDW Stellungnahmen und Veröffentlichungen, jeweils in der aktuellen Fassung.

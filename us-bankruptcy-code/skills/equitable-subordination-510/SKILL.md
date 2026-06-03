@@ -1,0 +1,61 @@
+---
+name: equitable-subordination-510
+description: "Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects."
+---
+
+# Subordination § 510
+
+## Zweck
+
+Das US-Bankruptcy-Code-Plugin ist ein deutscher Arbeitskompass fuer Title 11: Restrukturierung, Liquidation, Verbraucherinsolvenz, Chapter 11, Subchapter V, Chapter 15, Claims, Automatic Stay, DIP-Finanzierung und distressed transactions.
+
+Dieser Skill macht aus dem Thema **Subordination § 510** eine belastbare Arbeitsroute: erst Rolle und Ziel, dann Code-Anker, Tatsachen, Dokumente, Risiken, offene US-Counsel-Fragen und verwertbarer Output. Er ist kein Ersatz für zugelassenen US-Counsel, aber er soll die deutsche Kanzlei, Rechtsabteilung oder den Verlag so vorbereiten, dass US-Counsel sofort mit einer geordneten Akte weiterarbeiten kann.
+
+## Code- und Quellenanker
+
+- 11 U.S.C. § 510
+- Plan classification
+- Intercreditor agreements
+
+
+Aktuelle Fassungen, Forms, Fees, Local Rules und Court-Practice immer live über offizielle Quellen prüfen. Keine Modellzitate zu US-Rechtsprechung verwenden, wenn Gericht, Datum, Aktenzeichen/Docket und freie Quelle nicht geprüft sind.
+
+## Intake-Fragen
+
+- Contractual subordination clause?
+- Insider inequitable conduct?
+- Harm to creditors?
+
+
+## Workflow
+
+1. Agreement review.
+2. Conduct evidence collect.
+3. Plan waterfall impact prüfen.
+
+
+## Output
+
+- Subordination memo
+- Waterfall table
+- Litigation risk note
+
+
+## Tiefencheck für die Akte
+
+Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-Filter:
+
+- Welche Rolle, welches Chapter, welcher procedural posture und welches unmittelbare Ziel bestimmen die erste Weiche?
+- Welche Code-Anker, Local Rules, Orders, Forms und docket events müssen vor einer Aussage live geprüft werden?
+- Welche deutschen Erwartungen sind gefährlich, weil US-Bankruptcy stärker court-driven, motion-driven und notice-driven arbeitet?
+- Welche Frage ist für US-Counsel offen zu markieren statt aus deutschem Insolvenzrecht zu übertragen?
+
+**Mindest-Output:** Kurz-Memo mit procedural posture, Code-Ankern, Dokumentenlücken und US-Counsel-Issue-Liste.
+
+## Qualitäts- und Risikofilter
+
+- US-Bankruptcy ist Bundesrecht, aber Local Rules, Judges, District Practice und State-Law-Rechte bleiben entscheidend.
+- Keine Einreichung, Fristberechnung oder strategische US-Prozessentscheidung ohne zugelassenen US-Bankruptcy-Counsel finalisieren.
+
+- Unklare US-Rechtsfragen werden nicht als sicher verkauft, sondern als Issue List für US-Counsel markiert.
+- Zahlen, Fristen, Fees, Formulare und Schwellenwerte werden vor konkreter Verwendung anhand offizieller aktueller Quellen geprüft.

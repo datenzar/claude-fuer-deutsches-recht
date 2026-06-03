@@ -49,6 +49,7 @@ Beide Stufen sind **getrennt** zu durchlaufen; die BSFZ-Bescheinigung ist Grundl
 |---|---|
 | Ist mein Projekt FuE-fähig? | spezial-foerdercheck-risikoampel-und-gegenargumente |
 | BSFZ-Portaltexte verfassen (Zeichenbudget!) | spezial-antragstellung-tatbestand-beweis-und-belege + spezial-bsfz-behoerden-gericht-und-registerweg |
+| Plädoyer / überzeugende Begründung für BSFZ, Finanzamt, Einspruch oder Geschäftsführung | fz-plaedoyer-begruendung-und-verteidigung |
 | Bemessungsgrundlage berechnen | spezial-antrag-zahlen-schwellen-und-berechnung + spezial-bemessungsgrundlage-mehrparteien-konflikt-und-interessen |
 | Auftragsforschung / FuE durch Dritte | spezial-bemessungsgrundlage-mehrparteien-konflikt-und-interessen |
 | Beihilfen-/De-minimis-Frage | spezial-beihilfen-beweislast-und-darlegungslast |

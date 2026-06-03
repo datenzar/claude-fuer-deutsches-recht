@@ -1,0 +1,6 @@
+phase,budget_cap_eur,actual_eur,forecast_eur,status,comment
+Intake/Conflict,12000,9800,9800,green,unter Budget
+Fakten/Datenraum,28000,41100,45500,red,Fachbereich lieferte ungeordnet
+Regulatory ATMP,25000,48600,61000,red,Scope umstritten
+Eilverfahren Entwurf,70000,82500,118000,red,EV und Anlagen intensiver
+Verhandlung/Vergleich,45000,0,50500,yellow,nur falls Freigabe

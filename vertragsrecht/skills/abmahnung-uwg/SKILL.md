@@ -23,7 +23,7 @@ Das Modell benötigt folgende Informationen:
 3. **Abmahnender**: Partei (Mitbewerber, Verband § 8 Abs. 3 Nr. 2 UWG oder qualifizierte
    Einrichtung § 8 Abs. 3 Nr. 3 UWG) – Sachlegitimation prüfen!
 4. **Fristsetzung**: gewünschte Unterlassungsfrist (üblicherweise 1–2 Wochen)
-5. **Vertragsstrafe**: gewünschte Höhe oder Bitte um Vorschlag (Orientierung: GRUR-Praxis,
+5. **Vertragsstrafe**: gewünschte Höhe oder Bitte um Vorschlag (Orientierung: wettbewerbsrechtliche Praxis, nur mit verifizierten Quellen,
    typisch EUR 5.001 bis EUR 15.000 je nach Branche und Verletzungsgewicht)
 6. **Schutzschrift**: liegt ein konkreter Verfügungsantrag vor oder nur eine vorbeugend
    einzureichende Schutzschrift?

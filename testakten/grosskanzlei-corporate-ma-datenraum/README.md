@@ -8,7 +8,7 @@ Diese Arbeitsakte gibt es in zwei Formaten zum Direkt-Download. Das Gesamt-PDF e
 
 | Was | Format | Quelle |
 | --- | --- | --- |
-| Gesamt-PDF (alles in einer Datei, 412 KB) | PDF | [`gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf`](gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf) |
+| Gesamt-PDF (alles in einer Datei, 389 KB) | PDF | [`gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf`](gesamt-pdf/grosskanzlei-corporate-ma-datenraum_gesamt.pdf) |
 | Akten-ZIP (alle Einzeldateien) | ZIP | [testakte-grosskanzlei-corporate-ma-datenraum.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grosskanzlei-corporate-ma-datenraum.zip) |
 
 Die ZIP-URL ist stabil und zeigt immer auf die aktuelle Version. Im Akten-ZIP ist das Gesamt-PDF mit enthalten.

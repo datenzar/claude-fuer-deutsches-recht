@@ -1,6 +1,6 @@
 ---
 name: spezial-anlagen-tatbestand-beweis-und-belege
-description: "Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage
@@ -9,6 +9,15 @@ description: "Anlagen: Tatbestandsmerkmale, Beweisfragen und Beleglage: konkrete
 Dieser Skill ist ein konkreter Fachbaustein für `anlagen-zu-schriftsaetzen`. Ausgangspunkt ist: Zuordnung von Anlagen zu gerichtlichen Schriftsaetzen. Sortiert PDF/Word/Excel nach Schriftsatz-Logik; konvertiert alles nach PDF; benennt beA-konform; stempelt oben rechts Anlage K1/B1/A1 in Arial 12; baut Anlagenkonvolut; Prüfmodus für bereits zugeordnete Anlagen.
 
 Er führt durch **Tatbestandsmerkmale, Beweisfragen und Beleglage** im Themenfeld **Anlagen**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Anlagen.
+- **Arbeitsfokus:** Tatbestandsmerkmale, Beweisfragen und Beleglage.
+- **Plugin-Rahmen:** Anlagenmanagement fuer gerichtliche Schriftsaetze: sortiert chaotische Mandantenordner, E-Mails, Scans, Tabellen und Vorversionen zu beA-tauglichen K/B/....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

@@ -1,14 +1,25 @@
 ---
 name: spezial-portaltexte-schriftsatz-brief-und-memo-bausteine
-description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine im Plugin forschungszulage antragstellung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
-# Portaltexte: Schriftsatz-, Brief- und Memo-Bausteine
+# Portaltexte: Schriftsatz-, Brief-, Memo- und Plädoyer-Bausteine
 
 ## Aufgabe
 Dieser Skill ist ein konkreter Fachbaustein für `forschungszulage-antragstellung`. Ausgangspunkt ist: Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrundlage 2026, Auszahlung, Verlust-/Insolvenzlage, Dokumentation, Beihilfen, Einspruch und Mehrjahresroadmap.
 
 Er führt durch **Schriftsatz-, Brief- und Memo-Bausteine** im Themenfeld **Portaltexte**. Ziel ist nicht ein abstrakter Lexikontext, sondern ein belastbares Arbeitsprodukt für die nächste anwaltliche, behördliche, gerichtliche, organisatorische oder mandantenbezogene Entscheidung.
+
+Wenn die Nutzerin oder der Nutzer ein "Plädoyer" braucht, also eine überzeugende Begründung für BSFZ, Finanzamt, Einspruch, Geschäftsführung oder Insolvenzverwaltung, zuerst `fz-plaedoyer-begruendung-und-verteidigung` zuschalten. Dieser Skill hier baut danach die knappe Einreichungsfassung, den Briefkopf, den Memo-Stil und die passende Tonalität.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Portaltexte.
+- **Arbeitsfokus:** Schriftsatz-, Brief- und Memo-Bausteine.
+- **Plugin-Rahmen:** Forschungszulage-Antragstellung nach FZulG: adaptiver Fördercheck, BSFZ-Portaltexte mit Zeichenbudgets, Finanzamt-Antrag, FuE-Abgrenzung, Bemessungsgrun....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
@@ -30,6 +41,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
 - **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
 - **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
+- **Plädoyer-Kern:** ein Satz, der FuE-Kern, Beleganker und Antrag zusammenbindet; bei Bedarf als Kurzfassung, Langfassung und Behördenfassung.
 - **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
 
 ## Quellenregel

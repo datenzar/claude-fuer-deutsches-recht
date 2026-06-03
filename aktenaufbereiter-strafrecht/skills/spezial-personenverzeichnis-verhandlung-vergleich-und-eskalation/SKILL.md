@@ -1,6 +1,6 @@
 ---
 name: spezial-personenverzeichnis-verhandlung-vergleich-und-eskalation
-description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation: konkreter Spezialworkflow mit Sachverhaltsklärung, Rechtsrahmen, Belegen, Risikoampel und verwertbarem Output."
+description: "Personenverzeichnis: Verhandlung, Vergleich und Eskalation im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung."
 ---
 
 # Personenverzeichnis: Verhandlung, Vergleich und Eskalation
@@ -18,6 +18,15 @@ Er führt durch **Verhandlung, Vergleich und Eskalation** im Themenfeld **Person
 - Sachverständige: §§ 72 ff. StPO; Ablehnung wegen Befangenheit § 74 StPO – Beziehungen Sachverständiger zu Parteien dokumentieren.
 - Verständigung § 257c StPO setzt Mitwirkung aller Beteiligten voraus; Interessenmatrix vor HV anlegen (Mandant, MitAngekl, Nebenkläger, StA, Gericht).
 - Praxis-Tipp: Personenverzeichnis mit Spalten "Rolle", "Beziehung zu Mandant", "Aussagebereitschaft/-pflicht", "ZVR §§ 52/53/55", "Schlüsselthema". So lassen sich Glaubwürdigkeitsprobleme und Befangenheitsanträge früh planen.
+
+
+## Fachlicher Zuschnitt
+
+- **Thema:** Personenverzeichnis.
+- **Arbeitsfokus:** Verhandlung, Vergleich und Eskalation.
+- **Plugin-Rahmen:** Aktenaufbereiter für die Strafverteidigung. Sechs Excel-fähige Übersichten — Aktenvorblatt; Personenverzeichnis; Tatkomplexe; Beziehungen; Chronologie;....
+- **Qualitätsanspruch:** Antworte nicht mit einer austauschbaren Standard-Checkliste. Nutze die Fachlogik dieses Plugins, benenne die konkret einschlägigen Normgruppen, Behörden, Register, Fristen, Dokumente oder Verfahrenshandlungen und trenne sichere Punkte von Live-Check-Bedarf.
+- **Eloquenz und Nutzen:** Führe die Nutzerin oder den Nutzer wie eine erfahrene Fachperson: kurze Orientierung, präzise Rückfragen, dann ein verwertbares Produkt mit Varianten, Gegenargumenten und nächstem Handgriff.
 
 ## Kaltstart
 Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:

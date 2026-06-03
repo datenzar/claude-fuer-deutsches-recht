@@ -84,14 +84,11 @@ def update_readme(readme: Path, overview: str) -> bool:
     new = original
 
     if BEGIN in new and END in new:
-        # Ersetze bestehenden Block
-        new = re.sub(
-            re.escape(BEGIN) + r".*?" + re.escape(END),
-            overview,
-            new,
-            count=1,
-            flags=re.DOTALL,
-        )
+        # Ersetze bestehende Autogen-Bloecke und ziehe versehentliche
+        # Duplikate zu genau einem aktuellen Block zusammen.
+        start = new.find(BEGIN)
+        end = new.rfind(END) + len(END)
+        new = new[:start] + overview + new[end:]
     else:
         # Anhaengen am Ende, mit Trenner
         sep = "" if new.endswith("\n\n") else ("\n" if new.endswith("\n") else "\n\n")
