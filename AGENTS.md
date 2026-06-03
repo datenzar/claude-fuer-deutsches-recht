@@ -44,7 +44,7 @@ Dieses Repository enthaelt experimentelle Skills, Agenten und Workflows fuer deu
 
 - Die opencode-Konfiguration liegt in `opencode.json`.
 - Die opencode-faehigen Skills und Agenten werden aus den Claude-Pluginquellen erzeugt: `node scripts/generate-opencode-assets.mjs`.
-- Die erzeugten Skills liegen unter `.opencode/skills/` und verwenden namespacete Namen wie `arbeitsrecht-allgemein`, damit gleichnamige Skills aus verschiedenen Plugins nicht kollidieren.
+- Die erzeugten Skills liegen unter `.opencode/skills/` und sind Plugin-Router wie `arbeitsrecht`. Ein Router liest zuerst `skills-index/<plugin>.md` und danach den passenden Quell-Skill unter `<plugin>/skills/<skill-name>/SKILL.md`.
 - Die erzeugten Agenten liegen unter `.opencode/agent/` und sind Subagenten. Claude-spezifische `tools`- und Kurzmodellangaben werden dabei nicht uebernommen.
 - Ehemalige Claude-Profilpfade wie `~/.claude/plugins/config/.../<plugin>/CLAUDE.md` werden fuer opencode auf `.opencode/profile/<plugin>.md` abgebildet. Diese Profil-Dateien sind lokale Kanzlei-/Mandatskonfiguration und werden bei Bedarf von Kaltstart-Skills erzeugt.
 - Remote-MCP-Server aus den vorhandenen `.mcp.json`-Dateien werden in `opencode.json` zusammengefuehrt und standardmaessig deaktiviert. Vor Aktivierung sind Datenschutz, Berufsrecht, Mandatsgeheimnis und Anbieterfreigaben zu pruefen.
@@ -54,4 +54,4 @@ Dieses Repository enthaelt experimentelle Skills, Agenten und Workflows fuer deu
 
 - Quelle bleibt die bestehende Claude-Struktur `<plugin>/skills/<skill-name>/SKILL.md`.
 - Frontmatter in den Quell-Skills enthaelt genau `name` und `description`.
-- Fuer opencode werden daraus namespacete Kopien generiert; diese generierten Dateien nicht manuell pflegen.
+- Fuer opencode werden daraus keine einzelnen Skill-Kopien generiert, sondern ein Router pro Plugin. Diese generierten Router nicht manuell pflegen.

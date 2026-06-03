@@ -1,0 +1,26 @@
+---
+name: aktenauszug-gerichtsverfahren
+description: "aktenauszug-gerichtsverfahren: Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten. Use this opencode router for aktenauszug-gerichtsverfahren requests; it selects source skills through skills-index/aktenauszug-gerichtsverfahren.md and then reads the matching SKILL.md files."
+---
+
+# aktenauszug-gerichtsverfahren opencode skill router
+
+> Generated router for the source plugin `aktenauszug-gerichtsverfahren`. It keeps opencode's visible skill catalog small; it is not a replacement for the source skill bodies.
+
+## Source plugin
+
+- Manifest: `aktenauszug-gerichtsverfahren/.claude-plugin/plugin.json`
+- Skill catalog: `skills-index/aktenauszug-gerichtsverfahren.md`
+- Source skill root: `aktenauszug-gerichtsverfahren/skills/`
+- Source skills: 54
+
+Plugin description: Strukturierter Aktenauszug für deutsche Gerichtsverfahren: Verfahrensidentifikation Einleitungssatz Verfahrenszusammenfassung Sachverhaltschronologie Verfahrensgeschichte tabellarische Gegenüberstellung der Parteivortraege Beweismittel und Rechtsargumente für schnelle Einarbeitung in Akten.
+
+## Routing workflow
+
+1. Read `skills-index/aktenauszug-gerichtsverfahren.md` first. It is the compact catalog for the source skills in this plugin.
+2. Match the user request to the smallest useful set of source skills. Prefer specific source skills over broad entry skills when the task is clear.
+3. Read every selected source file under `aktenauszug-gerichtsverfahren/skills/<skill-name>/SKILL.md`.
+4. Treat the selected source skill body as the operative prompt for the task. Do not answer from this router alone.
+5. Keep the repository instructions from `AGENTS.md`, `references/zitierweise.md` and `references/methodik-buergerliches-recht.md` in force.
+6. If the user names a concrete source skill, read that source `SKILL.md` directly before working.

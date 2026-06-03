@@ -79,7 +79,7 @@ Die relevanten Dateien sind:
 
 - [`AGENTS.md`](./AGENTS.md) — native opencode-Instruktionen fuer Sprache, Methodik, Quellenpflicht und Arbeitsweise.
 - [`opencode.json`](./opencode.json) — Projektkonfiguration mit Schema, Instruktionsdateien, generiertem Skill-Pfad, sicheren Ask-Permissions und deaktivierten Remote-MCP-Servern.
-- [`.opencode/skills/`](./.opencode/skills) — generierte, namespacete opencode-Skills. Beispiel: `arbeitsrecht-allgemein` statt nur `allgemein`.
+- [`.opencode/skills/`](./.opencode/skills) — generierte Plugin-Router fuer opencode. Beispiel: `arbeitsrecht` liest `skills-index/arbeitsrecht.md` und danach den passenden Quell-Skill unter `arbeitsrecht/skills/.../SKILL.md`.
 - [`.opencode/agent/`](./.opencode/agent) — generierte opencode-Subagenten aus den vorhandenen Plugin-Agenten.
 - [`.opencode/MCP.md`](./.opencode/MCP.md) — Inventar der zusammengefuehrten Remote-MCP-Server.
 - [`.opencode/profile/`](./.opencode/profile) — lokaler Zielort fuer fruehere Claude-Profilpfade wie `~/.claude/plugins/config/.../<plugin>/CLAUDE.md`.
@@ -94,7 +94,7 @@ node scripts/validate-opencode.mjs
 Wichtig fuer opencode:
 
 - Die bestehenden Claude-Dateien bleiben Quelle der Wahrheit; generierte Dateien unter `.opencode/skills/` und `.opencode/agent/` nicht manuell pflegen.
-- Gleichnamige Skills aus verschiedenen Plugins werden fuer opencode automatisch mit Plugin-Prefix versehen, damit keine Skill-Namenskollisionen entstehen.
+- opencode sieht nur einen Router-Skill pro Plugin, damit die initiale Skill-Toolbeschreibung klein genug bleibt. Die einzelnen Quell-Skills werden erst nach Auswahl ueber `skills-index/<plugin>.md` geladen.
 - Remote-MCP-Server sind in `opencode.json` absichtlich mit `enabled: false` eingetragen. Vor Aktivierung muessen Anbieterfreigabe, Datenschutz, Berufsrecht, Mandatsgeheimnis und konkrete Mandatsgovernance geprueft werden.
 - Nach Aenderungen an `opencode.json`, `.opencode/skills/` oder `.opencode/agent/` opencode beenden und neu starten; laufende Sessions laden die Konfiguration nicht automatisch nach.
 

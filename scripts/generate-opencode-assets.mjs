@@ -90,6 +90,22 @@ function yamlString(value) {
   return JSON.stringify(String(value));
 }
 
+function squashWhitespace(value) {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
+function truncate(value, maxLength) {
+  const text = squashWhitespace(value);
+  if (text.length <= maxLength) return text;
+  return `${text.slice(0, maxLength - 3).replace(/\s+\S*$/g, '').replace(/[.,;:!?-]+$/g, '')}...`;
+}
+
+function pluginManifest(pluginRoot) {
+  const manifestPath = path.join(pluginRoot, '.claude-plugin', 'plugin.json');
+  if (!fs.existsSync(manifestPath)) return {};
+  return JSON.parse(read(manifestPath));
+}
+
 function rewriteForOpencode(text, plugin) {
   let rewritten = text
     .replaceAll('~/.claude/plugins/config/claude-fuer-deutsches-recht/', './')
@@ -141,20 +157,24 @@ function generateSkills(plugins) {
   for (const pluginRoot of plugins) {
     const plugin = path.basename(pluginRoot);
     const skills = walk(path.join(pluginRoot, 'skills'), (file) => path.basename(file) === 'SKILL.md').sort();
-    for (const skillFile of skills) {
-      const { frontmatter, body } = splitFrontmatter(skillFile);
-      const sourceName = scalar(frontmatter, 'name') || path.basename(path.dirname(skillFile));
-      const description = rewriteForOpencode(scalar(frontmatter, 'description'), plugin);
-      let name = opencodeName([plugin, sourceName]);
-      const previous = used.get(name);
-      if (previous && previous !== rel(skillFile)) name = opencodeName([plugin, sourceName, hash(rel(skillFile), 6)]);
-      used.set(name, rel(skillFile));
+    if (skills.length === 0) continue;
 
-      const outDir = path.join(skillsOut, name);
-      const outFile = path.join(outDir, 'SKILL.md');
-      write(outFile, `---\nname: ${name}\ndescription: ${yamlString(description)}\n---\n\n> Opencode-Port von \`${rel(skillFile)}\`. Urspruenglicher Skill-Name: \`${sourceName}\`.\n\n${rewriteForOpencode(body, plugin).replace(/^\s+/, '')}`);
-      count += 1;
-    }
+    const manifest = pluginManifest(pluginRoot);
+    const manifestDescription = rewriteForOpencode(squashWhitespace(manifest.description), plugin);
+    const description = truncate(`${plugin}: ${manifestDescription || `Workflows aus dem Plugin ${plugin}.`} Use this opencode router for ${plugin} requests; it selects source skills through skills-index/${plugin}.md and then reads the matching SKILL.md files.`, 900);
+    let name = opencodeName([manifest.name || plugin]);
+    const previous = used.get(name);
+    if (previous && previous !== rel(pluginRoot)) name = opencodeName([manifest.name || plugin, hash(rel(pluginRoot), 6)]);
+    used.set(name, rel(pluginRoot));
+
+    const indexFile = path.join(root, 'skills-index', `${plugin}.md`);
+    const indexInstruction = fs.existsSync(indexFile)
+      ? `1. Read \`${rel(indexFile)}\` first. It is the compact catalog for the source skills in this plugin.`
+      : `1. No \`skills-index/${plugin}.md\` file exists. Inspect \`${rel(path.join(pluginRoot, 'skills'))}/**/SKILL.md\` and choose by frontmatter description.`;
+    const outDir = path.join(skillsOut, name);
+    const outFile = path.join(outDir, 'SKILL.md');
+    write(outFile, `---\nname: ${name}\ndescription: ${yamlString(description)}\n---\n\n# ${plugin} opencode skill router\n\n> Generated router for the source plugin \`${rel(pluginRoot)}\`. It keeps opencode's visible skill catalog small; it is not a replacement for the source skill bodies.\n\n## Source plugin\n\n- Manifest: \`${rel(path.join(pluginRoot, '.claude-plugin', 'plugin.json'))}\`\n- Skill catalog: \`skills-index/${plugin}.md\`\n- Source skill root: \`${rel(path.join(pluginRoot, 'skills'))}/\`\n- Source skills: ${skills.length}\n\nPlugin description: ${manifestDescription || 'Keine Plugin-Beschreibung im Manifest.'}\n\n## Routing workflow\n\n${indexInstruction}\n2. Match the user request to the smallest useful set of source skills. Prefer specific source skills over broad entry skills when the task is clear.\n3. Read every selected source file under \`${rel(path.join(pluginRoot, 'skills'))}/<skill-name>/SKILL.md\`.\n4. Treat the selected source skill body as the operative prompt for the task. Do not answer from this router alone.\n5. Keep the repository instructions from \`AGENTS.md\`, \`references/zitierweise.md\` and \`references/methodik-buergerliches-recht.md\` in force.\n6. If the user names a concrete source skill, read that source \`SKILL.md\` directly before working.\n`);
+    count += 1;
   }
 
   return count;
@@ -266,4 +286,4 @@ updateConfig(mcpEntries);
 writeMcpInventory(mcpEntries);
 writeProfileReadme();
 
-console.log(`Generated ${skillCount} opencode skills, ${agentCount} agents and ${mcpEntries.length} MCP server entries.`);
+console.log(`Generated ${skillCount} opencode skill routers, ${agentCount} agents and ${mcpEntries.length} MCP server entries.`);

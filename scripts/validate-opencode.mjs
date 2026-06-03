@@ -6,6 +6,7 @@ import { spawnSync } from 'node:child_process';
 const root = process.cwd();
 const errors = [];
 const warnings = [];
+const skillCatalogDescriptionLimit = 900_000;
 
 function rel(file) {
   return path.relative(root, file).replaceAll(path.sep, '/');
@@ -72,20 +73,26 @@ function checkGeneratedSkills() {
   if (!fs.existsSync(path.join(dir, '.generated'))) errors.push('.opencode/skills: missing generated marker');
   const seen = new Set();
   const skills = walk(dir, (file) => path.basename(file) === 'SKILL.md');
+  let catalogChars = 0;
   if (skills.length === 0) errors.push('.opencode/skills: no generated skills found');
   for (const skill of skills) {
     const fm = splitFrontmatter(skill);
     if (!fm) continue;
     const name = field(fm, 'name');
+    const description = field(fm, 'description');
     if (!/^[a-z0-9-]{1,64}$/.test(name)) errors.push(`${rel(skill)}: invalid opencode skill name ${name}`);
     if (path.basename(path.dirname(skill)) !== name) errors.push(`${rel(skill)}: folder name does not match frontmatter name`);
     if (seen.has(name)) errors.push(`${rel(skill)}: duplicate opencode skill name ${name}`);
     seen.add(name);
-    if (!field(fm, 'description')) errors.push(`${rel(skill)}: missing description`);
+    if (!description) errors.push(`${rel(skill)}: missing description`);
+    catalogChars += `${name}: ${description}\n`.length;
     for (const line of fm.split(/\r?\n/)) {
       const match = line.match(/^([A-Za-z][\w-]*)\s*:/);
       if (match && !['name', 'description'].includes(match[1])) errors.push(`${rel(skill)}: unsupported skill frontmatter field ${match[1]}`);
     }
+  }
+  if (catalogChars > skillCatalogDescriptionLimit) {
+    errors.push(`.opencode/skills: generated skill name/description catalog is ${catalogChars} chars, above safe limit ${skillCatalogDescriptionLimit}; use plugin router skills instead of per-source-skill copies`);
   }
 }
 
