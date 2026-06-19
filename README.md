@@ -8,6 +8,12 @@ Dieses Repository ist eine **experimentelle Plugin- und Skill-Sammlung für deut
 
 Ziel ist es, zu zeigen, wie sich Plugins und Skills für Arbeitsrecht, Gesellschaftsrecht, Insolvenzrecht (inklusive Liquiditätsplanung und Fortbestehensprognose), Datenschutzrecht, Prozessrecht, gewerblichen Rechtsschutz, Produkt-, Robotik- und Regulierungsrecht u. a. so strukturieren lassen, dass sie sich an der in Deutschland üblichen Methodik (Anspruchsgrundlagen, Prüfungsaufbau, Gesetzesauslegung, Rechtsprechungszitate mit Datum und Aktenzeichen) orientieren. Die Inhalte dienen ausschließlich als **Anregung für eigene Kanzlei- oder Inhouse-Plugins und -Skills**: Sie sollen zeigen, welche Prompts, Rollenbeschreibungen und Workflows in der Praxis hilfreich sein können – jede Nutzerin und jeder Nutzer passt sie an die eigenen Mandate, Branchen, Tools und Compliance-Vorgaben an.
 
+### Dauerhafter Fork und Upstream-Monitoring
+
+Dieses Repository ist als **dauerhafter Fork** von `anthropics/claude-for-legal` angelegt, solange das Upstream-Projekt keine unmittelbar kompatible Open-Code-Skill-Variante bereitstellt. Damit neue Upstream-Ideen nicht verloren gehen, überwacht die GitHub-Action [`Monitor upstream claude-for-legal`](./.github/workflows/upstream-claude-for-legal-monitor.yml) täglich den Stand von `anthropics/claude-for-legal` und öffnet bei einem neuen Upstream-Commit automatisch ein Adoptions-Issue.
+
+Die jeweils zuletzt geprüfte Upstream-Revision wird in [`.github/upstream/claude-for-legal.json`](./.github/upstream/claude-for-legal.json) dokumentiert. Sobald ein Adoptions-Issue abgearbeitet ist, müssen relevante Änderungen als Open-Code-kompatible Skills in diese deutsche Fork-Struktur übertragen und der `last_reviewed_commit` auf den geprüften Upstream-Commit gesetzt werden.
+
 ### Bitte mit-testen und Feedback geben
 
 Die Skills sind inzwischen deutlich verbessert und in verschiedenen Konstellationen getestet worden, können aber weiterhin Fehler, Lücken oder veraltete Rechtsstände enthalten. Deshalb:
