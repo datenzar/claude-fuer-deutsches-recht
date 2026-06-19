@@ -1,6 +1,7 @@
 {
   "upstream_repository": "anthropics/claude-for-legal",
   "default_branch": "main",
-  "last_reviewed_commit": "UNKNOWN",
-  "policy": "This repository is intended to remain a permanent fork unless upstream publishes an open-code-compatible skill. New upstream changes must be reviewed and adopted as open-code-compatible skills where appropriate."
+  "last_reviewed_commit": "5ceb305b30b4c82653c9b6642499c12e946ec319",
+  "policy": "This repository is intended to remain a permanent fork unless upstream publishes an open-code-compatible skill. New upstream changes must be reviewed and adopted as open-code-compatible skills where appropriate.",
+  "last_reviewed_note": ".github/upstream/reviews/claude-for-legal-5ceb305b30b4.md"
 }
