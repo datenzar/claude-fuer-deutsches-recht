@@ -1,0 +1,110 @@
+name: Monitor upstream claude-for-legal
+
+on:
+  schedule:
+    # Run every morning so upstream changes are noticed without manual polling.
+    - cron: '17 5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: upstream-claude-for-legal-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v5
+
+      - name: Compare tracked upstream HEAD and open adoption issue
+        uses: actions/github-script@v8
+        with:
+          script: |
+            const fs = require('fs');
+            const trackingPath = '.github/upstream/claude-for-legal.json';
+            const tracking = JSON.parse(fs.readFileSync(trackingPath, 'utf8'));
+            const [owner, repo] = tracking.upstream_repository.split('/');
+
+            const upstreamRepo = await github.rest.repos.get({ owner, repo });
+            const branch = tracking.default_branch || upstreamRepo.data.default_branch;
+            const latest = await github.rest.repos.getCommit({
+              owner,
+              repo,
+              ref: branch,
+            });
+
+            const latestSha = latest.data.sha;
+            const trackedSha = tracking.last_reviewed_commit;
+            const upstreamUrl = latest.data.html_url;
+            const commitDate = latest.data.commit?.committer?.date || latest.data.commit?.author?.date || 'unknown';
+
+            core.summary
+              .addHeading('Upstream monitor: anthropics/claude-for-legal')
+              .addRaw(`Tracked commit: ${trackedSha}\n\n`)
+              .addRaw(`Latest upstream commit: ${latestSha}\n\n`)
+              .addRaw(`Latest upstream commit date: ${commitDate}\n\n`)
+              .addRaw(`Latest upstream URL: ${upstreamUrl}\n`);
+
+            if (trackedSha === latestSha) {
+              core.info(`No upstream change detected (${latestSha}).`);
+              await core.summary.write();
+              return;
+            }
+
+            const labelName = 'upstream-monitor';
+            try {
+              await github.rest.issues.createLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: labelName,
+                color: '5319e7',
+                description: 'Tracks changes from anthropics/claude-for-legal for open-code-compatible adoption.'
+              });
+            } catch (error) {
+              if (error.status !== 422) throw error;
+            }
+
+            const search = await github.rest.search.issuesAndPullRequests({
+              q: `repo:${context.repo.owner}/${context.repo.repo} is:issue is:open label:${labelName} ${latestSha}`
+            });
+            if (search.data.total_count > 0) {
+              core.info(`An open adoption issue already exists for ${latestSha}.`);
+              await core.summary.write();
+              return;
+            }
+
+            const title = `Adopt upstream claude-for-legal changes through ${latestSha.slice(0, 12)}`;
+            const body = [
+              'The scheduled upstream monitor detected that `anthropics/claude-for-legal` has moved beyond the last reviewed commit recorded in `.github/upstream/claude-for-legal.json`.',
+              '',
+              `- Upstream repository: https://github.com/${tracking.upstream_repository}`,
+              `- Tracked commit: \`${trackedSha}\``,
+              `- Latest upstream commit: \`${latestSha}\``,
+              `- Latest upstream commit date: ${commitDate}`,
+              `- Latest upstream commit URL: ${upstreamUrl}`,
+              '',
+              '## Required adoption workflow',
+              '',
+              '- [ ] Review the upstream diff from the tracked commit to the latest upstream commit.',
+              '- [ ] Identify new or changed legal-skill mechanics that should exist in this permanent fork.',
+              '- [ ] Adapt relevant upstream ideas into this repository as open-code-compatible skills, preserving German-law orientation and local repository structure.',
+              '- [ ] Update tests, indices, marketplace metadata, README references, and release artifacts as needed.',
+              '- [ ] After adoption review is complete, update `.github/upstream/claude-for-legal.json` so `last_reviewed_commit` equals the latest upstream commit reviewed.',
+              '',
+              'This project is intended to remain a permanent fork unless upstream publishes an open-code-compatible skill, so upstream changes should be adopted here rather than relying on the upstream package directly.'
+            ].join('\n');
+
+            const issue = await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels: [labelName]
+            });
+            core.info(`Created adoption issue: ${issue.data.html_url}`);
+            await core.summary.write();
